@@ -1,0 +1,4081 @@
+{
+  "plpDatasets": [
+    {
+      "pageInfo": {
+        "categoryId": "N-5yc1vZc3oo",
+        "categoryName": "French Door Refrigerators",
+        "categorySlug": "french-door-refrigerators",
+        "breadcrumbs": [
+          {
+            "label": "Home",
+            "url": "/"
+          },
+          {
+            "label": "Appliances",
+            "url": "/b/Appliances/N-5yc1vZbv1w"
+          },
+          {
+            "label": "Refrigerators",
+            "url": "/b/Appliances-Refrigerators/N-5yc1vZc3pi"
+          },
+          {
+            "label": "French Door Refrigerators",
+            "url": "/b/Appliances-Refrigerators-French-Door-Refrigerators/N-5yc1vZc3oo"
+          }
+        ],
+        "totalResults": 289,
+        "heroImage": {
+          "url": "https://dam.thdstatic.com/contentful/heroflattenimage/french-door-refrigerators-hero.png",
+          "alt": "French Door Refrigerators",
+          "promoText": "Save Up to 50% on Select Refrigerators"
+        },
+        "seoDescription": "Shop French Door Refrigerators at The Home Depot. Find the perfect French door fridge with features like ice makers, water dispensers, and smart home connectivity."
+      },
+      "featuredBrands": [
+        {
+          "brandId": "GE",
+          "brandName": "GE",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ge-logo.svg",
+          "filterUrl": "/b/French-Door-Refrigerators/GE/N-5yc1vZc3ooZlo"
+        },
+        {
+          "brandId": "LG",
+          "brandName": "LG",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/lg-logo.svg",
+          "filterUrl": "/b/French-Door-Refrigerators/LG/N-5yc1vZc3ooZ8qk"
+        },
+        {
+          "brandId": "Samsung",
+          "brandName": "Samsung",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/samsung-logo.svg",
+          "filterUrl": "/b/French-Door-Refrigerators/Samsung/N-5yc1vZc3ooZa0f"
+        },
+        {
+          "brandId": "Whirlpool",
+          "brandName": "Whirlpool",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/whirlpool-logo.svg",
+          "filterUrl": "/b/French-Door-Refrigerators/Whirlpool/N-5yc1vZc3ooZ4l4"
+        }
+      ],
+      "quickFilters": [
+        {
+          "filterId": "counter-depth",
+          "label": "Counter Depth",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/counter-depth-fridge.jpg",
+          "filterUrl": "/b/French-Door-Refrigerators/Counter-Depth/N-5yc1vZc3ooZ1z1a95q"
+        },
+        {
+          "filterId": "30-inch",
+          "label": "30 Inch Wide",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/30-inch-fridge.jpg",
+          "filterUrl": "/b/French-Door-Refrigerators/30-Inch-Wide/N-5yc1vZc3ooZ1z1978p"
+        },
+        {
+          "filterId": "smart",
+          "label": "Smart Enabled",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/smart-fridge.jpg",
+          "filterUrl": "/b/French-Door-Refrigerators/Smart-Home-Enabled/N-5yc1vZc3ooZ1z0kirf"
+        }
+      ],
+      "filters": [
+        {
+          "filterGroupId": "brand",
+          "filterGroupName": "Brand",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "ge",
+              "label": "GE",
+              "value": "ge",
+              "count": 45,
+              "filterUrl": "/b/French-Door-Refrigerators/GE/N-5yc1vZc3ooZlo"
+            },
+            {
+              "optionId": "lg",
+              "label": "LG",
+              "value": "lg",
+              "count": 52,
+              "filterUrl": "/b/French-Door-Refrigerators/LG/N-5yc1vZc3ooZ8qk"
+            },
+            {
+              "optionId": "samsung",
+              "label": "Samsung",
+              "value": "samsung",
+              "count": 48,
+              "filterUrl": "/b/French-Door-Refrigerators/Samsung/N-5yc1vZc3ooZa0f"
+            },
+            {
+              "optionId": "whirlpool",
+              "label": "Whirlpool",
+              "value": "whirlpool",
+              "count": 35,
+              "filterUrl": "/b/French-Door-Refrigerators/Whirlpool/N-5yc1vZc3ooZ4l4"
+            },
+            {
+              "optionId": "frigidaire",
+              "label": "Frigidaire",
+              "value": "frigidaire",
+              "count": 42,
+              "filterUrl": "/b/French-Door-Refrigerators/Frigidaire/N-5yc1vZc3ooZfq"
+            }
+          ]
+        },
+        {
+          "filterGroupId": "price",
+          "filterGroupName": "Price",
+          "filterType": "range",
+          "options": [
+            {
+              "optionId": "price-1000-2000",
+              "label": "$1000 - $2000",
+              "value": "1000-2000",
+              "count": 85
+            },
+            {
+              "optionId": "price-2000-3000",
+              "label": "$2000 - $3000",
+              "value": "2000-3000",
+              "count": 112
+            },
+            {
+              "optionId": "price-3000-4000",
+              "label": "$3000 - $4000",
+              "value": "3000-4000",
+              "count": 58
+            },
+            {
+              "optionId": "price-4000-plus",
+              "label": "$4000 & Above",
+              "value": "4000-plus",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "filterGroupId": "capacity",
+          "filterGroupName": "Total Capacity (cu. ft.)",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "cap-20-24",
+              "label": "20 - 24 cu ft",
+              "value": "20-24",
+              "count": 65
+            },
+            {
+              "optionId": "cap-25-27",
+              "label": "25 - 27 cu ft",
+              "value": "25-27",
+              "count": 98
+            },
+            {
+              "optionId": "cap-28-30",
+              "label": "28 - 30 cu ft",
+              "value": "28-30",
+              "count": 76
+            },
+            {
+              "optionId": "cap-30-plus",
+              "label": "30+ cu ft",
+              "value": "30-plus",
+              "count": 50
+            }
+          ]
+        },
+        {
+          "filterGroupId": "doors",
+          "filterGroupName": "Number of Doors",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "2-door",
+              "label": "2 Door",
+              "value": "2",
+              "count": 45
+            },
+            {
+              "optionId": "3-door",
+              "label": "3 Door",
+              "value": "3",
+              "count": 156
+            },
+            {
+              "optionId": "4-door",
+              "label": "4 Door",
+              "value": "4",
+              "count": 78
+            },
+            {
+              "optionId": "5-door",
+              "label": "5 Door",
+              "value": "5",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "sortOptions": [
+        {
+          "sortId": "top-sellers",
+          "label": "Top Sellers",
+          "isDefault": true
+        },
+        {
+          "sortId": "price-low-high",
+          "label": "Price Low to High",
+          "isDefault": false
+        },
+        {
+          "sortId": "price-high-low",
+          "label": "Price High to Low",
+          "isDefault": false
+        },
+        {
+          "sortId": "top-rated",
+          "label": "Top Rated",
+          "isDefault": false
+        },
+        {
+          "sortId": "best-match",
+          "label": "Best Match",
+          "isDefault": false
+        }
+      ],
+      "products": [
+        {
+          "productId": "311411352",
+          "modelNumber": "GNE27JYMFS",
+          "storeSkuNumber": "1004567890",
+          "brand": "GE",
+          "title": "27 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless with Internal Dispenser, ENERGY STAR",
+          "shortDescription": "Internal water dispenser with ice maker keeps exterior sleek",
+          "price": {
+            "current": 1399.0,
+            "original": 2599.0,
+            "savings": 1200.0,
+            "savingsPercent": 46,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 13272
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/311411352/311411352_64_600.jpg",
+            "alternate": "https://images.thdstatic.com/productImages/ge-french-door-gne27jymfs-e4_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Fingerprint Resistant Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/stainless-swatch.jpg",
+                "variantId": "320243591"
+              },
+              {
+                "color": "Fingerprint Resistant Slate",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/slate-swatch.jpg",
+                "variantId": "320243592"
+              },
+              {
+                "color": "White",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/white-swatch.jpg",
+                "variantId": "320243593"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            },
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Internal Water Dispenser",
+            "Ice Maker",
+            "Fingerprint Resistant"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/GE-27-cu-ft-French-Door-Refrigerator-GNE27JYMFS/311411352",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "320243591",
+          "modelNumber": "LFCS22520S",
+          "storeSkuNumber": "1004234567",
+          "brand": "LG",
+          "title": "30 in. W 22 cu. ft. French Door Refrigerator with Ice Maker in Stainless Steel",
+          "shortDescription": "Compact design perfect for smaller kitchens",
+          "price": {
+            "current": 1299.0,
+            "original": 1965.0,
+            "savings": 666.0,
+            "savingsPercent": 34,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 5864
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/320243591/320243591_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/stainless-swatch.jpg",
+                "variantId": "206452443"
+              },
+              {
+                "color": "Black Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/black-stainless-swatch.jpg",
+                "variantId": "206452444"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "specialBuy",
+              "label": "Special Buy"
+            }
+          ],
+          "keyFeatures": [
+            "30 Inch Width",
+            "Ice Maker",
+            "Smart Cooling"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/LG-30-in-W-22-cu-ft-French-Door-Refrigerator-LFCS22520S/320243591",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "325158253",
+          "modelNumber": "PVD28BYNFS",
+          "storeSkuNumber": "1004856870",
+          "brand": "GE",
+          "title": "Profile 27.9 cu. ft. Smart 4-Door French Door Refrigerator with Door-in-Door in Fingerprint Resistant Stainless Steel",
+          "shortDescription": "Door-in-door provides quick access to frequently used items",
+          "price": {
+            "current": 2499.0,
+            "original": 4399.0,
+            "savings": 1900.0,
+            "savingsPercent": 43,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 10856
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/325158253/325158253_64_600.jpg",
+            "alternate": "https://images.thdstatic.com/productImages/ge-profile-pvd28bynfs-e4_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Fingerprint Resistant Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/stainless-swatch.jpg",
+                "variantId": "311411352"
+              },
+              {
+                "color": "Fingerprint Resistant Black Slate",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/black-slate-swatch.jpg",
+                "variantId": "311411353"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            },
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "Smart Home Enabled",
+            "Door-in-Door",
+            "Crushed & Cubed Ice"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/GE-Profile-27-9-cu-ft-Smart-4-Door-French-Door-Refrigerator-PVD28BYNFS/325158253",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "206452443",
+          "modelNumber": "LHFS28XBS",
+          "storeSkuNumber": "1004789012",
+          "brand": "LG",
+          "title": "28 cu. ft. 3 Door French Door Refrigerator with Ice and Water Dispenser and Craft Ice in PrintProof Stainless Steel",
+          "shortDescription": "Craft Ice maker creates slow-melting round ice",
+          "price": {
+            "current": 1799.0,
+            "original": 3099.0,
+            "savings": 1300.0,
+            "savingsPercent": 42,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.0,
+            "count": 950
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/206452443/206452443_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "PrintProof Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/printproof-stainless.jpg",
+                "variantId": "325158253"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "Craft Ice",
+            "External Dispenser",
+            "PrintProof Finish"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/LG-28-cu-ft-3-Door-French-Door-Refrigerator-LHFS28XBS/206452443",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "304655498",
+          "modelNumber": "RF70F29MER",
+          "storeSkuNumber": "1004890123",
+          "brand": "Samsung",
+          "title": "Bespoke 36 in. 29 cu. ft. Standard Depth 4-Door French Door Refrigerator with Sphere Ice in Stainless Steel",
+          "shortDescription": "Sphere Ice creates perfectly round ice balls",
+          "price": {
+            "current": 1799.0,
+            "original": 3199.0,
+            "savings": 1400.0,
+            "savingsPercent": 44,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 26
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/304655498/304655498_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "Bespoke Design",
+            "Sphere Ice",
+            "FlexZone Drawer"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/Samsung-Bespoke-36-in-29-cu-ft-French-Door-Refrigerator-RF70F29MER/304655498",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "314082163",
+          "modelNumber": "FRFG1723AV",
+          "storeSkuNumber": "1004345678",
+          "brand": "Frigidaire",
+          "title": "31.5 in. 18 cu. ft. Counter Depth French Door Refrigerator in Fingerprint-Resistant Stainless Look",
+          "shortDescription": "Counter depth design for a built-in look",
+          "price": {
+            "current": 1999.0,
+            "original": null,
+            "savings": null,
+            "savingsPercent": null,
+            "isOnSale": false,
+            "seeInCart": true
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 8708
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/314082163/314082163_64_600.jpg",
+            "alternate": "https://images.thdstatic.com/productImages/frigidaire-frfg1723av-e4_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Counter Depth",
+            "EvenTemp Cooling",
+            "CrispSeal Crispers"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/Frigidaire-31-5-in-18-cu-ft-Counter-Depth-French-Door-FRFG1723AV/314082163",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "317061854",
+          "modelNumber": "LRFLC2706S",
+          "storeSkuNumber": "1004901234",
+          "brand": "LG",
+          "title": "27 cu. ft. Smart Counter-Depth MAX French Door Refrigerator with Internal Water Dispenser in PrintProof Stainless Steel",
+          "shortDescription": "Counter-Depth MAX for maximum interior space",
+          "price": {
+            "current": 1599.0,
+            "original": 3199.0,
+            "savings": 1600.0,
+            "savingsPercent": 50,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 1305
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/317061854/317061854_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "PrintProof Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/printproof-stainless.jpg",
+                "variantId": "322038211"
+              },
+              {
+                "color": "PrintProof Black Stainless",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/black-stainless.jpg",
+                "variantId": "322038212"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "specialBuy",
+              "label": "Special Buy"
+            }
+          ],
+          "keyFeatures": [
+            "Counter-Depth MAX",
+            "Smart ThinQ",
+            "Linear Cooling"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/LG-27-cu-ft-Smart-Counter-Depth-MAX-French-Door-LRFLC2706S/317061854",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "313824163",
+          "modelNumber": "GRMC2273CF",
+          "storeSkuNumber": "1004567891",
+          "brand": "Frigidaire",
+          "title": "Gallery 36 in. 22 cu. ft. Counter-Depth 4-Door French Door Refrigerator in Smudge-Proof Stainless Steel",
+          "shortDescription": "4-door design with convertible zone drawer",
+          "price": {
+            "current": 1998.0,
+            "original": 3499.0,
+            "savings": 1501.0,
+            "savingsPercent": 43,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 8596
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/313824163/313824163_64_600.jpg",
+            "alternate": "https://images.thdstatic.com/productImages/frigidaire-gallery-grmc2273cf-e4_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Smudge-Proof Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/smudge-proof.jpg",
+                "variantId": "320628170"
+              },
+              {
+                "color": "Smudge-Proof Black Stainless",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/black-smudge-proof.jpg",
+                "variantId": "320628171"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            },
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "TwinTech Cooling",
+            "Convertible Zone",
+            "PureAir Ultra II"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/Frigidaire-Gallery-36-in-22-cu-ft-Counter-Depth-4-Door-GRMC2273CF/313824163",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "312575655",
+          "modelNumber": "GFE26JYMFS",
+          "storeSkuNumber": "1004678902",
+          "brand": "GE",
+          "title": "25.6 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+          "shortDescription": "Advanced water filtration reduces contaminants",
+          "price": {
+            "current": 1499.0,
+            "original": 2899.0,
+            "savings": 1400.0,
+            "savingsPercent": 48,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.1,
+            "count": 4339
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/312575655/312575655_64_600.jpg",
+            "alternate": "https://images.thdstatic.com/productImages/ge-gfe26jymfs-e4_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Fingerprint Resistant Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/stainless.jpg",
+                "variantId": "320243614"
+              },
+              {
+                "color": "Fingerprint Resistant Slate",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/slate.jpg",
+                "variantId": "320243615"
+              },
+              {
+                "color": "Black",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/black.jpg",
+                "variantId": "320243616"
+              },
+              {
+                "color": "White",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/white.jpg",
+                "variantId": "320243617"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "External Ice & Water",
+            "Advanced Filtration",
+            "LED Lighting"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/GE-25-6-cu-ft-French-Door-Refrigerator-GFE26JYMFS/312575655",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "310604445",
+          "modelNumber": "LF29H8330S",
+          "storeSkuNumber": "1004789123",
+          "brand": "LG",
+          "title": "29 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless Steel",
+          "shortDescription": "Full Convert drawer changes from fridge to freezer",
+          "price": {
+            "current": 1999.0,
+            "original": 3699.0,
+            "savings": 1700.0,
+            "savingsPercent": 46,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 624
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/310604445/310604445_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "PrintProof Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/printproof-stainless.jpg",
+                "variantId": "326915683"
+              },
+              {
+                "color": "PrintProof Black Stainless",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/black-stainless.jpg",
+                "variantId": "326915684"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "Full Convert Drawer",
+            "Standard Depth MAX",
+            "ThinQ Technology"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/LG-29-cu-ft-SMART-Standard-Depth-MAX-French-Door-LF29H8330S/310604445",
+          "limitPerOrder": 10
+        }
+      ],
+      "pagination": {
+        "currentPage": 1,
+        "totalPages": 12,
+        "itemsPerPage": 24,
+        "startIndex": 1,
+        "endIndex": 24
+      }
+    },
+    {
+      "pageInfo": {
+        "categoryId": "N-5yc1vZc24l",
+        "categoryName": "Power Drills",
+        "categorySlug": "power-drills",
+        "breadcrumbs": [
+          {
+            "label": "Home",
+            "url": "/"
+          },
+          {
+            "label": "Tools",
+            "url": "/b/Tools/N-5yc1vZc1xy"
+          },
+          {
+            "label": "Power Tools",
+            "url": "/b/Tools-Power-Tools/N-5yc1vZc1xr"
+          },
+          {
+            "label": "Power Drills",
+            "url": "/b/Tools-Power-Tools-Drills/N-5yc1vZc24l"
+          }
+        ],
+        "totalResults": 456,
+        "heroImage": {
+          "url": "https://dam.thdstatic.com/contentful/heroflattenimage/power-drills-hero.png",
+          "alt": "Power Drills",
+          "promoText": "Get the Job Done with Professional-Grade Drills"
+        },
+        "seoDescription": "Shop Power Drills at The Home Depot. Find cordless drills, hammer drills, and drill driver combos from top brands like DeWalt, Milwaukee, and Makita."
+      },
+      "featuredBrands": [
+        {
+          "brandId": "DeWalt",
+          "brandName": "DeWalt",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/dewalt-logo.svg",
+          "filterUrl": "/b/Power-Drills/DeWalt/N-5yc1vZc24lZf1"
+        },
+        {
+          "brandId": "Milwaukee",
+          "brandName": "Milwaukee",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/milwaukee-logo.svg",
+          "filterUrl": "/b/Power-Drills/Milwaukee/N-5yc1vZc24lZ1yz"
+        },
+        {
+          "brandId": "Makita",
+          "brandName": "Makita",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/makita-logo.svg",
+          "filterUrl": "/b/Power-Drills/Makita/N-5yc1vZc24lZxz"
+        },
+        {
+          "brandId": "Ryobi",
+          "brandName": "Ryobi",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ryobi-logo.svg",
+          "filterUrl": "/b/Power-Drills/Ryobi/N-5yc1vZc24lZ5r7"
+        }
+      ],
+      "quickFilters": [
+        {
+          "filterId": "cordless",
+          "label": "Cordless",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/cordless-drill.jpg",
+          "filterUrl": "/b/Power-Drills/Cordless/N-5yc1vZc24lZ1z0"
+        },
+        {
+          "filterId": "hammer",
+          "label": "Hammer Drills",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/hammer-drill.jpg",
+          "filterUrl": "/b/Power-Drills/Hammer-Drills/N-5yc1vZc24lZ2k3"
+        },
+        {
+          "filterId": "brushless",
+          "label": "Brushless",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/brushless-drill.jpg",
+          "filterUrl": "/b/Power-Drills/Brushless/N-5yc1vZc24lZ3m5"
+        }
+      ],
+      "filters": [
+        {
+          "filterGroupId": "brand",
+          "filterGroupName": "Brand",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "dewalt",
+              "label": "DeWalt",
+              "value": "dewalt",
+              "count": 89,
+              "filterUrl": "/b/Power-Drills/DeWalt/N-5yc1vZc24lZf1"
+            },
+            {
+              "optionId": "milwaukee",
+              "label": "Milwaukee",
+              "value": "milwaukee",
+              "count": 76,
+              "filterUrl": "/b/Power-Drills/Milwaukee/N-5yc1vZc24lZ1yz"
+            },
+            {
+              "optionId": "makita",
+              "label": "Makita",
+              "value": "makita",
+              "count": 65,
+              "filterUrl": "/b/Power-Drills/Makita/N-5yc1vZc24lZxz"
+            },
+            {
+              "optionId": "ryobi",
+              "label": "Ryobi",
+              "value": "ryobi",
+              "count": 98,
+              "filterUrl": "/b/Power-Drills/Ryobi/N-5yc1vZc24lZ5r7"
+            },
+            {
+              "optionId": "bosch",
+              "label": "Bosch",
+              "value": "bosch",
+              "count": 45,
+              "filterUrl": "/b/Power-Drills/Bosch/N-5yc1vZc24lZb3"
+            }
+          ]
+        },
+        {
+          "filterGroupId": "price",
+          "filterGroupName": "Price",
+          "filterType": "range",
+          "options": [
+            {
+              "optionId": "price-0-50",
+              "label": "Under $50",
+              "value": "0-50",
+              "count": 45
+            },
+            {
+              "optionId": "price-50-100",
+              "label": "$50 - $100",
+              "value": "50-100",
+              "count": 89
+            },
+            {
+              "optionId": "price-100-200",
+              "label": "$100 - $200",
+              "value": "100-200",
+              "count": 156
+            },
+            {
+              "optionId": "price-200-plus",
+              "label": "$200 & Above",
+              "value": "200-plus",
+              "count": 166
+            }
+          ]
+        },
+        {
+          "filterGroupId": "voltage",
+          "filterGroupName": "Voltage",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "12v",
+              "label": "12V",
+              "value": "12",
+              "count": 87
+            },
+            {
+              "optionId": "18v",
+              "label": "18V",
+              "value": "18",
+              "count": 134
+            },
+            {
+              "optionId": "20v",
+              "label": "20V",
+              "value": "20",
+              "count": 189
+            },
+            {
+              "optionId": "corded",
+              "label": "Corded",
+              "value": "corded",
+              "count": 46
+            }
+          ]
+        },
+        {
+          "filterGroupId": "drillType",
+          "filterGroupName": "Drill Type",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "drill-driver",
+              "label": "Drill/Driver",
+              "value": "drill-driver",
+              "count": 198
+            },
+            {
+              "optionId": "hammer-drill",
+              "label": "Hammer Drill",
+              "value": "hammer-drill",
+              "count": 145
+            },
+            {
+              "optionId": "impact-driver",
+              "label": "Impact Driver",
+              "value": "impact-driver",
+              "count": 113
+            }
+          ]
+        }
+      ],
+      "sortOptions": [
+        {
+          "sortId": "top-sellers",
+          "label": "Top Sellers",
+          "isDefault": true
+        },
+        {
+          "sortId": "price-low-high",
+          "label": "Price Low to High",
+          "isDefault": false
+        },
+        {
+          "sortId": "price-high-low",
+          "label": "Price High to Low",
+          "isDefault": false
+        },
+        {
+          "sortId": "top-rated",
+          "label": "Top Rated",
+          "isDefault": false
+        }
+      ],
+      "products": [
+        {
+          "productId": "204279858",
+          "modelNumber": "DCD791D2",
+          "storeSkuNumber": "1005234567",
+          "brand": "DeWalt",
+          "title": "20V MAX XR Lithium-Ion Cordless Compact 1/2 in. Drill/Driver Kit with (2) 2.0Ah Batteries and Charger",
+          "shortDescription": "Compact design fits into tight spaces",
+          "price": {
+            "current": 179.0,
+            "original": 229.0,
+            "savings": 50.0,
+            "savingsPercent": 22,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.8,
+            "count": 8934
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/204279858/204279858_64_600.jpg",
+            "alternate": "https://images.thdstatic.com/productImages/dewalt-dcd791d2-e4_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Brushless Motor",
+            "20V MAX XR",
+            "2-Speed Transmission"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/DeWalt-20V-MAX-XR-Cordless-Compact-Drill-Driver-DCD791D2/204279858",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "325479354",
+          "modelNumber": "2804-22",
+          "storeSkuNumber": "1005345678",
+          "brand": "Milwaukee",
+          "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver Kit with Two 5.0 Ah Batteries",
+          "shortDescription": "POWERSTATE brushless motor delivers unmatched power",
+          "price": {
+            "current": 279.0,
+            "original": 349.0,
+            "savings": 70.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.9,
+            "count": 12456
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/325479354/325479354_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            },
+            {
+              "type": "proPreferred",
+              "label": "Pro Preferred"
+            }
+          ],
+          "keyFeatures": [
+            "M18 FUEL",
+            "POWERSTATE Motor",
+            "REDLINK PLUS Intelligence"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Milwaukee-M18-FUEL-Hammer-Drill-Driver-Kit-2804-22/325479354",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "305529238",
+          "modelNumber": "P215K",
+          "storeSkuNumber": "1005456789",
+          "brand": "Ryobi",
+          "title": "ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (2) 1.5 Ah Batteries and Charger",
+          "shortDescription": "Perfect for DIY and home projects",
+          "price": {
+            "current": 59.0,
+            "original": 79.0,
+            "savings": 20.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 15678
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/305529238/305529238_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            }
+          ],
+          "keyFeatures": [
+            "ONE+ Battery System",
+            "24-Position Clutch",
+            "LED Work Light"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Ryobi-ONE-18V-Cordless-Drill-Driver-Kit-P215K/305529238",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "322138372",
+          "modelNumber": "XFD131",
+          "storeSkuNumber": "1005567890",
+          "brand": "Makita",
+          "title": "18V LXT Lithium-Ion Brushless Cordless 1/2 in. Driver-Drill Kit with (1) 3.0Ah Battery",
+          "shortDescription": "Star Protection Computer Controls for longer tool life",
+          "price": {
+            "current": 159.0,
+            "original": 199.0,
+            "savings": 40.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 6789
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/322138372/322138372_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Brushless Motor",
+            "Star Protection",
+            "Variable Speed"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Makita-18V-LXT-Brushless-Driver-Drill-Kit-XFD131/322138372",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "308067442",
+          "modelNumber": "GSB18V-490B12",
+          "storeSkuNumber": "1005678901",
+          "brand": "Bosch",
+          "title": "18V EC Brushless Connected-Ready Compact Tough 1/2 in. Hammer Drill/Driver",
+          "shortDescription": "Connected-ready for tool tracking and customization",
+          "price": {
+            "current": 199.0,
+            "original": 249.0,
+            "savings": 50.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 3456
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/308067442/308067442_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "Connected-Ready",
+            "EC Brushless",
+            "KickBack Control"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Bosch-18V-EC-Brushless-Hammer-Drill-GSB18V-490B12/308067442",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "312119566",
+          "modelNumber": "DCD999T1",
+          "storeSkuNumber": "1005789012",
+          "brand": "DeWalt",
+          "title": "20V MAX XR Lithium-Ion Cordless Brushless 1/2 in. Hammer Drill/Driver with FLEXVOLT ADVANTAGE",
+          "shortDescription": "FLEXVOLT ADVANTAGE provides 77% more power",
+          "price": {
+            "current": 229.0,
+            "original": 299.0,
+            "savings": 70.0,
+            "savingsPercent": 23,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.8,
+            "count": 5678
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/312119566/312119566_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "FLEXVOLT ADVANTAGE",
+            "3-Speed Transmission",
+            "Bluetooth Connectivity"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/DeWalt-20V-MAX-XR-FLEXVOLT-Hammer-Drill-DCD999T1/312119566",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "204632932",
+          "modelNumber": "2903-22",
+          "storeSkuNumber": "1005890123",
+          "brand": "Milwaukee",
+          "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Drill/Driver (Tool-Only)",
+          "shortDescription": "Tool-only for those with existing batteries",
+          "price": {
+            "current": 129.0,
+            "original": 169.0,
+            "savings": 40.0,
+            "savingsPercent": 24,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.9,
+            "count": 8901
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/204632932/204632932_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "M18 FUEL",
+            "Tool-Only",
+            "1,200 in-lbs Torque"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Milwaukee-M18-FUEL-Drill-Driver-Tool-Only-2903-22/204632932",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "325544370",
+          "modelNumber": "PBLDD01K",
+          "storeSkuNumber": "1005901234",
+          "brand": "Ryobi",
+          "title": "ONE+ HP 18V Brushless Cordless 1/2 in. Drill/Driver Kit with (2) 2.0 Ah HIGH PERFORMANCE Batteries",
+          "shortDescription": "HP technology delivers 50% more power",
+          "price": {
+            "current": 129.0,
+            "original": 159.0,
+            "savings": 30.0,
+            "savingsPercent": 19,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 4567
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/325544370/325544370_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "HP Brushless",
+            "HIGH PERFORMANCE Batteries",
+            "All-Metal Gearbox"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Ryobi-ONE-HP-18V-Brushless-Drill-Driver-Kit-PBLDD01K/325544370",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "326112747",
+          "modelNumber": "XPH14Z",
+          "storeSkuNumber": "1006012345",
+          "brand": "Makita",
+          "title": "18V LXT Lithium-Ion Brushless Cordless 1/2 in. Hammer Driver-Drill (Tool-Only)",
+          "shortDescription": "Efficient BL Motor delivers 1,350 in-lbs torque",
+          "price": {
+            "current": 139.0,
+            "original": 179.0,
+            "savings": 40.0,
+            "savingsPercent": 22,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.8,
+            "count": 3890
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/326112747/326112747_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "1,350 in-lbs Torque",
+            "Tool-Only",
+            "21 Clutch Settings"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Makita-18V-LXT-Brushless-Hammer-Driver-Drill-XPH14Z/326112747",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "311575948",
+          "modelNumber": "DCD708C2",
+          "storeSkuNumber": "1006123456",
+          "brand": "DeWalt",
+          "title": "ATOMIC 20V MAX Lithium-Ion Cordless Compact 1/2 in. Drill/Driver with (2) 1.3Ah Batteries",
+          "shortDescription": "ATOMIC compact design for tight spaces",
+          "price": {
+            "current": 99.0,
+            "original": 139.0,
+            "savings": 40.0,
+            "savingsPercent": 29,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 7234
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/311575948/311575948_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "specialBuy",
+              "label": "Special Buy"
+            }
+          ],
+          "keyFeatures": [
+            "ATOMIC Compact",
+            "Brushless Motor",
+            "LED Light"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/DeWalt-ATOMIC-20V-MAX-Compact-Drill-Driver-DCD708C2/311575948",
+          "limitPerOrder": 5
+        }
+      ],
+      "pagination": {
+        "currentPage": 1,
+        "totalPages": 19,
+        "itemsPerPage": 24,
+        "startIndex": 1,
+        "endIndex": 24
+      }
+    },
+    {
+      "pageInfo": {
+        "categoryId": "N-5yc1vZc7on",
+        "categoryName": "Ceiling Fans",
+        "categorySlug": "ceiling-fans",
+        "breadcrumbs": [
+          {
+            "label": "Home",
+            "url": "/"
+          },
+          {
+            "label": "Lighting",
+            "url": "/b/Lighting/N-5yc1vZbvn5"
+          },
+          {
+            "label": "Ceiling Fans",
+            "url": "/b/Lighting-Ceiling-Fans/N-5yc1vZc7on"
+          }
+        ],
+        "totalResults": 892,
+        "heroImage": {
+          "url": "https://dam.thdstatic.com/contentful/heroflattenimage/ceiling-fans-hero.png",
+          "alt": "Ceiling Fans",
+          "promoText": "Cool Your Home in Style"
+        },
+        "seoDescription": "Shop Ceiling Fans at The Home Depot. Find indoor and outdoor ceiling fans with lights, remote control, and smart home features."
+      },
+      "featuredBrands": [
+        {
+          "brandId": "HamptonBay",
+          "brandName": "Hampton Bay",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/hampton-bay-logo.svg",
+          "filterUrl": "/b/Ceiling-Fans/Hampton-Bay/N-5yc1vZc7onZp4"
+        },
+        {
+          "brandId": "Hunter",
+          "brandName": "Hunter",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/hunter-logo.svg",
+          "filterUrl": "/b/Ceiling-Fans/Hunter/N-5yc1vZc7onZhu"
+        },
+        {
+          "brandId": "HomeDecorators",
+          "brandName": "Home Decorators Collection",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/hdc-logo.svg",
+          "filterUrl": "/b/Ceiling-Fans/Home-Decorators-Collection/N-5yc1vZc7onZ4vr"
+        },
+        {
+          "brandId": "Minka-Aire",
+          "brandName": "Minka-Aire",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/minka-aire-logo.svg",
+          "filterUrl": "/b/Ceiling-Fans/Minka-Aire/N-5yc1vZc7onZma"
+        }
+      ],
+      "quickFilters": [
+        {
+          "filterId": "with-light",
+          "label": "With Light",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/ceiling-fan-light.jpg",
+          "filterUrl": "/b/Ceiling-Fans/With-Light/N-5yc1vZc7onZ1z1"
+        },
+        {
+          "filterId": "outdoor",
+          "label": "Outdoor",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/outdoor-fan.jpg",
+          "filterUrl": "/b/Ceiling-Fans/Outdoor/N-5yc1vZc7onZ2z2"
+        },
+        {
+          "filterId": "smart",
+          "label": "Smart Enabled",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/smart-fan.jpg",
+          "filterUrl": "/b/Ceiling-Fans/Smart-Enabled/N-5yc1vZc7onZ3z3"
+        }
+      ],
+      "filters": [
+        {
+          "filterGroupId": "brand",
+          "filterGroupName": "Brand",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "hampton-bay",
+              "label": "Hampton Bay",
+              "value": "hampton-bay",
+              "count": 245,
+              "filterUrl": "/b/Ceiling-Fans/Hampton-Bay/N-5yc1vZc7onZp4"
+            },
+            {
+              "optionId": "hunter",
+              "label": "Hunter",
+              "value": "hunter",
+              "count": 189,
+              "filterUrl": "/b/Ceiling-Fans/Hunter/N-5yc1vZc7onZhu"
+            },
+            {
+              "optionId": "hdc",
+              "label": "Home Decorators Collection",
+              "value": "hdc",
+              "count": 156,
+              "filterUrl": "/b/Ceiling-Fans/Home-Decorators-Collection/N-5yc1vZc7onZ4vr"
+            },
+            {
+              "optionId": "minka-aire",
+              "label": "Minka-Aire",
+              "value": "minka-aire",
+              "count": 78,
+              "filterUrl": "/b/Ceiling-Fans/Minka-Aire/N-5yc1vZc7onZma"
+            }
+          ]
+        },
+        {
+          "filterGroupId": "bladeSpan",
+          "filterGroupName": "Blade Span",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "42-inch",
+              "label": "42 inch",
+              "value": "42",
+              "count": 156
+            },
+            {
+              "optionId": "52-inch",
+              "label": "52 inch",
+              "value": "52",
+              "count": 289
+            },
+            {
+              "optionId": "56-inch",
+              "label": "56 inch",
+              "value": "56",
+              "count": 134
+            },
+            {
+              "optionId": "60-inch",
+              "label": "60 inch & larger",
+              "value": "60-plus",
+              "count": 98
+            }
+          ]
+        },
+        {
+          "filterGroupId": "price",
+          "filterGroupName": "Price",
+          "filterType": "range",
+          "options": [
+            {
+              "optionId": "price-0-100",
+              "label": "Under $100",
+              "value": "0-100",
+              "count": 178
+            },
+            {
+              "optionId": "price-100-200",
+              "label": "$100 - $200",
+              "value": "100-200",
+              "count": 245
+            },
+            {
+              "optionId": "price-200-400",
+              "label": "$200 - $400",
+              "value": "200-400",
+              "count": 312
+            },
+            {
+              "optionId": "price-400-plus",
+              "label": "$400 & Above",
+              "value": "400-plus",
+              "count": 157
+            }
+          ]
+        }
+      ],
+      "sortOptions": [
+        {
+          "sortId": "top-sellers",
+          "label": "Top Sellers",
+          "isDefault": true
+        },
+        {
+          "sortId": "price-low-high",
+          "label": "Price Low to High",
+          "isDefault": false
+        },
+        {
+          "sortId": "price-high-low",
+          "label": "Price High to Low",
+          "isDefault": false
+        },
+        {
+          "sortId": "top-rated",
+          "label": "Top Rated",
+          "isDefault": false
+        }
+      ],
+      "products": [
+        {
+          "productId": "319830773",
+          "modelNumber": "52133",
+          "storeSkuNumber": "1006234567",
+          "brand": "Hampton Bay",
+          "title": "Rockport 52 in. Indoor LED Brushed Nickel Ceiling Fan with Light Kit",
+          "shortDescription": "Classic design with energy-efficient LED lighting",
+          "price": {
+            "current": 89.0,
+            "original": 119.0,
+            "savings": 30.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 12345
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/319830773/319830773_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Brushed Nickel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/brushed-nickel.jpg",
+                "variantId": "305123456"
+              },
+              {
+                "color": "Oil Rubbed Bronze",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/orb.jpg",
+                "variantId": "305123457"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            }
+          ],
+          "keyFeatures": [
+            "LED Light Kit",
+            "Reversible Motor",
+            "3-Speed Pull Chain"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Hampton-Bay-Rockport-52-in-LED-Ceiling-Fan-52133/319830773",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "313545857",
+          "modelNumber": "59135",
+          "storeSkuNumber": "1006345678",
+          "brand": "Hunter",
+          "title": "Dempsey 52 in. Low Profile Indoor Brushed Nickel Ceiling Fan with Remote",
+          "shortDescription": "Low profile design for rooms with low ceilings",
+          "price": {
+            "current": 149.0,
+            "original": 189.0,
+            "savings": 40.0,
+            "savingsPercent": 21,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 8765
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/313545857/313545857_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Low Profile",
+            "Remote Included",
+            "WhisperWind Motor"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Hunter-Dempsey-52-in-Low-Profile-Ceiling-Fan-59135/313545857",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "321244251",
+          "modelNumber": "YG493A-BN",
+          "storeSkuNumber": "1006456789",
+          "brand": "Home Decorators Collection",
+          "title": "Mercer 52 in. Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote",
+          "shortDescription": "Modern design with integrated LED light",
+          "price": {
+            "current": 189.0,
+            "original": 249.0,
+            "savings": 60.0,
+            "savingsPercent": 24,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 5432
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/321244251/321244251_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Brushed Nickel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/brushed-nickel.jpg",
+                "variantId": "311345678"
+              },
+              {
+                "color": "Matte Black",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/matte-black.jpg",
+                "variantId": "311345679"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "Integrated LED",
+            "Remote Control",
+            "DC Motor"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Home-Decorators-Collection-Mercer-52-in-Ceiling-Fan-YG493A-BN/321244251",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "311183306",
+          "modelNumber": "F844-DK",
+          "storeSkuNumber": "1006567890",
+          "brand": "Minka-Aire",
+          "title": "Light Wave 52 in. LED Indoor Distressed Koa Ceiling Fan with Remote Control",
+          "shortDescription": "Sleek modern design with wave-shaped blades",
+          "price": {
+            "current": 329.0,
+            "original": 399.0,
+            "savings": 70.0,
+            "savingsPercent": 18,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 2345
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/311183306/311183306_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "Wave Blades",
+            "LED Light",
+            "6-Speed Remote"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Minka-Aire-Light-Wave-52-in-LED-Ceiling-Fan-F844-DK/311183306",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "300937520",
+          "modelNumber": "51565",
+          "storeSkuNumber": "1006678901",
+          "brand": "Hampton Bay",
+          "title": "Windward IV 52 in. Indoor Oil Rubbed Bronze Ceiling Fan with Light Kit",
+          "shortDescription": "Traditional style with frosted glass light",
+          "price": {
+            "current": 79.0,
+            "original": 99.0,
+            "savings": 20.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 9876
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/300937520/300937520_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "specialBuy",
+              "label": "Special Buy"
+            }
+          ],
+          "keyFeatures": [
+            "Reversible Blades",
+            "Pull Chain",
+            "Energy Star"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Hampton-Bay-Windward-IV-52-in-Ceiling-Fan-51565/300937520",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "312094756",
+          "modelNumber": "50285",
+          "storeSkuNumber": "1006789012",
+          "brand": "Hunter",
+          "title": "Avia 60 in. Indoor/Outdoor Matte Nickel Ceiling Fan with Remote",
+          "shortDescription": "Large blade span for great rooms and covered patios",
+          "price": {
+            "current": 279.0,
+            "original": 349.0,
+            "savings": 70.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 3456
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/312094756/312094756_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "60 in. Span",
+            "Indoor/Outdoor",
+            "SureSpeed Guarantee"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Hunter-Avia-60-in-Ceiling-Fan-50285/312094756",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "312406541",
+          "modelNumber": "AM632-BN",
+          "storeSkuNumber": "1006890123",
+          "brand": "Home Decorators Collection",
+          "title": "Kensgrove 72 in. LED Indoor/Outdoor Brushed Nickel Ceiling Fan",
+          "shortDescription": "Extra-large span for expansive spaces",
+          "price": {
+            "current": 449.0,
+            "original": 599.0,
+            "savings": 150.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 4567
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/312406541/312406541_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "72 in. Span",
+            "WiFi Enabled",
+            "Damp Rated"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Home-Decorators-Collection-Kensgrove-72-in-LED-Ceiling-Fan-AM632-BN/312406541",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "303004549",
+          "modelNumber": "99985",
+          "storeSkuNumber": "1006901234",
+          "brand": "Hampton Bay",
+          "title": "Altura II 68 in. Indoor/Outdoor Matte Black Ceiling Fan with Downrod and Reversible Motor",
+          "shortDescription": "Large industrial-style fan for modern spaces",
+          "price": {
+            "current": 299.0,
+            "original": 379.0,
+            "savings": 80.0,
+            "savingsPercent": 21,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 5678
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/303004549/303004549_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "68 in. Span",
+            "Industrial Design",
+            "Wet Rated"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Hampton-Bay-Altura-II-68-in-Ceiling-Fan-99985/303004549",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "305848313",
+          "modelNumber": "59241",
+          "storeSkuNumber": "1007012345",
+          "brand": "Hunter",
+          "title": "Cassius 44 in. Indoor/Outdoor Matte Black Ceiling Fan",
+          "shortDescription": "Compact fan perfect for smaller rooms",
+          "price": {
+            "current": 99.0,
+            "original": 129.0,
+            "savings": 30.0,
+            "savingsPercent": 23,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 6789
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/305848313/305848313_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            }
+          ],
+          "keyFeatures": [
+            "44 in. Compact",
+            "Damp Rated",
+            "3-Speed Pull Chain"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Hunter-Cassius-44-in-Ceiling-Fan-59241/305848313",
+          "limitPerOrder": 10
+        },
+        {
+          "productId": "317141960",
+          "modelNumber": "F896L-CL/BN",
+          "storeSkuNumber": "1007123456",
+          "brand": "Minka-Aire",
+          "title": "Concept II 52 in. LED Indoor Brushed Nickel Ceiling Fan with Wall Control",
+          "shortDescription": "Modern design with integrated LED uplight",
+          "price": {
+            "current": 379.0,
+            "original": 459.0,
+            "savings": 80.0,
+            "savingsPercent": 17,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.8,
+            "count": 1234
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/317141960/317141960_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "LED Uplight",
+            "Wall Control",
+            "DC Motor"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Minka-Aire-Concept-II-52-in-LED-Ceiling-Fan-F896L-CL-BN/317141960",
+          "limitPerOrder": 5
+        }
+      ],
+      "pagination": {
+        "currentPage": 1,
+        "totalPages": 38,
+        "itemsPerPage": 24,
+        "startIndex": 1,
+        "endIndex": 24
+      }
+    },
+    {
+      "pageInfo": {
+        "categoryId": "N-5yc1vZbzbs",
+        "categoryName": "Bathroom Vanities",
+        "categorySlug": "bathroom-vanities",
+        "breadcrumbs": [
+          {
+            "label": "Home",
+            "url": "/"
+          },
+          {
+            "label": "Bath",
+            "url": "/b/Bath/N-5yc1vZbzb3"
+          },
+          {
+            "label": "Bathroom Vanities",
+            "url": "/b/Bath-Bathroom-Vanities/N-5yc1vZbzbs"
+          }
+        ],
+        "totalResults": 2456,
+        "heroImage": {
+          "url": "https://dam.thdstatic.com/contentful/heroflattenimage/bathroom-vanities-hero.png",
+          "alt": "Bathroom Vanities",
+          "promoText": "Transform Your Bathroom"
+        },
+        "seoDescription": "Shop Bathroom Vanities at The Home Depot. Find single and double sink vanities with tops, mirrors, and faucets from top brands."
+      },
+      "featuredBrands": [
+        {
+          "brandId": "GlacierBay",
+          "brandName": "Glacier Bay",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/glacier-bay-logo.svg",
+          "filterUrl": "/b/Bathroom-Vanities/Glacier-Bay/N-5yc1vZbzbsZn7"
+        },
+        {
+          "brandId": "HomeDecorators",
+          "brandName": "Home Decorators Collection",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/hdc-logo.svg",
+          "filterUrl": "/b/Bathroom-Vanities/Home-Decorators-Collection/N-5yc1vZbzbsZ4vr"
+        },
+        {
+          "brandId": "StyleWell",
+          "brandName": "StyleWell",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/stylewell-logo.svg",
+          "filterUrl": "/b/Bathroom-Vanities/StyleWell/N-5yc1vZbzbsZn4x"
+        },
+        {
+          "brandId": "Foremost",
+          "brandName": "Foremost",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/foremost-logo.svg",
+          "filterUrl": "/b/Bathroom-Vanities/Foremost/N-5yc1vZbzbsZfm"
+        }
+      ],
+      "quickFilters": [
+        {
+          "filterId": "with-top",
+          "label": "With Top",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/vanity-with-top.jpg",
+          "filterUrl": "/b/Bathroom-Vanities/With-Top/N-5yc1vZbzbsZ1z1"
+        },
+        {
+          "filterId": "double-sink",
+          "label": "Double Sink",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/double-vanity.jpg",
+          "filterUrl": "/b/Bathroom-Vanities/Double-Sink/N-5yc1vZbzbsZ2z2"
+        },
+        {
+          "filterId": "floating",
+          "label": "Floating/Wall Mounted",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/floating-vanity.jpg",
+          "filterUrl": "/b/Bathroom-Vanities/Floating/N-5yc1vZbzbsZ3z3"
+        }
+      ],
+      "filters": [
+        {
+          "filterGroupId": "vanityWidth",
+          "filterGroupName": "Vanity Width",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "24-inch",
+              "label": "24 in.",
+              "value": "24",
+              "count": 312
+            },
+            {
+              "optionId": "30-inch",
+              "label": "30 in.",
+              "value": "30",
+              "count": 456
+            },
+            {
+              "optionId": "36-inch",
+              "label": "36 in.",
+              "value": "36",
+              "count": 534
+            },
+            {
+              "optionId": "48-inch",
+              "label": "48 in.",
+              "value": "48",
+              "count": 389
+            },
+            {
+              "optionId": "60-inch",
+              "label": "60 in.",
+              "value": "60",
+              "count": 287
+            },
+            {
+              "optionId": "72-inch",
+              "label": "72 in.",
+              "value": "72",
+              "count": 198
+            }
+          ]
+        },
+        {
+          "filterGroupId": "price",
+          "filterGroupName": "Price",
+          "filterType": "range",
+          "options": [
+            {
+              "optionId": "price-0-200",
+              "label": "Under $200",
+              "value": "0-200",
+              "count": 234
+            },
+            {
+              "optionId": "price-200-500",
+              "label": "$200 - $500",
+              "value": "200-500",
+              "count": 567
+            },
+            {
+              "optionId": "price-500-1000",
+              "label": "$500 - $1000",
+              "value": "500-1000",
+              "count": 789
+            },
+            {
+              "optionId": "price-1000-plus",
+              "label": "$1000 & Above",
+              "value": "1000-plus",
+              "count": 866
+            }
+          ]
+        },
+        {
+          "filterGroupId": "color",
+          "filterGroupName": "Color Family",
+          "filterType": "color",
+          "options": [
+            {
+              "optionId": "white",
+              "label": "White",
+              "value": "white",
+              "count": 678
+            },
+            {
+              "optionId": "gray",
+              "label": "Gray",
+              "value": "gray",
+              "count": 534
+            },
+            {
+              "optionId": "brown",
+              "label": "Brown/Espresso",
+              "value": "brown",
+              "count": 456
+            },
+            {
+              "optionId": "black",
+              "label": "Black",
+              "value": "black",
+              "count": 234
+            },
+            {
+              "optionId": "blue",
+              "label": "Blue",
+              "value": "blue",
+              "count": 189
+            }
+          ]
+        }
+      ],
+      "sortOptions": [
+        {
+          "sortId": "top-sellers",
+          "label": "Top Sellers",
+          "isDefault": true
+        },
+        {
+          "sortId": "price-low-high",
+          "label": "Price Low to High",
+          "isDefault": false
+        },
+        {
+          "sortId": "price-high-low",
+          "label": "Price High to Low",
+          "isDefault": false
+        },
+        {
+          "sortId": "top-rated",
+          "label": "Top Rated",
+          "isDefault": false
+        }
+      ],
+      "products": [
+        {
+          "productId": "324252476",
+          "modelNumber": "GA36P2COM-WH",
+          "storeSkuNumber": "1007234567",
+          "brand": "Glacier Bay",
+          "title": "Everdean 36 in. W x 19 in. D x 34 in. H Single Sink Freestanding Bath Vanity in White with White Cultured Marble Top",
+          "shortDescription": "Complete vanity set with pre-attached top and sink",
+          "price": {
+            "current": 299.0,
+            "original": 399.0,
+            "savings": 100.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 7654
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/324252476/324252476_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "White",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/white.jpg",
+                "variantId": "304567890"
+              },
+              {
+                "color": "Gray",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/gray.jpg",
+                "variantId": "304567891"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Soft Close Doors",
+            "Pre-attached Top",
+            "Includes Faucet"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Glacier-Bay-Everdean-36-in-Bath-Vanity-GA36P2COM-WH/324252476",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "205866619",
+          "modelNumber": "BF90225BST",
+          "storeSkuNumber": "1007345678",
+          "brand": "Home Decorators Collection",
+          "title": "Sedgewood 48 in. W x 22 in. D x 34 in. H Single Sink Bath Vanity in Weathered Oak with White Engineered Stone Top",
+          "shortDescription": "Modern farmhouse style with weathered finish",
+          "price": {
+            "current": 649.0,
+            "original": 849.0,
+            "savings": 200.0,
+            "savingsPercent": 24,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 4567
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/205866619/205866619_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Soft Close Drawers",
+            "Open Shelf",
+            "Engineered Stone Top"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Home-Decorators-Collection-Sedgewood-48-in-Bath-Vanity-BF90225/205866619",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "305868467",
+          "modelNumber": "SW30V24-GR",
+          "storeSkuNumber": "1007456789",
+          "brand": "StyleWell",
+          "title": "Maren 24 in. W x 18 in. D x 34 in. H Single Sink Freestanding Bath Vanity in Sterling Gray with White Ceramic Top",
+          "shortDescription": "Compact design perfect for small bathrooms",
+          "price": {
+            "current": 199.0,
+            "original": 279.0,
+            "savings": 80.0,
+            "savingsPercent": 29,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.2,
+            "count": 3456
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/305868467/305868467_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "specialBuy",
+              "label": "Special Buy"
+            }
+          ],
+          "keyFeatures": [
+            "Space Saving",
+            "Soft Close",
+            "Ceramic Top"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/StyleWell-Maren-24-in-Bath-Vanity-SW30V24-GR/305868467",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "324252471",
+          "modelNumber": "QUANPRO60V",
+          "storeSkuNumber": "1007567890",
+          "brand": "Home Decorators Collection",
+          "title": "Queenswood 60 in. W x 22 in. D x 34 in. H Double Sink Bath Vanity in Espresso with White Engineered Marble Top",
+          "shortDescription": "Double sink vanity with ample storage",
+          "price": {
+            "current": 1199.0,
+            "original": 1599.0,
+            "savings": 400.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 2345
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/324252471/324252471_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "Double Sink",
+            "Soft Close",
+            "Marble Top"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/Home-Decorators-Collection-Queenswood-60-in-Double-Vanity-QUANPRO60V/324252471",
+          "limitPerOrder": 2
+        },
+        {
+          "productId": "324252707",
+          "modelNumber": "QUANPRO30FV",
+          "storeSkuNumber": "1007678901",
+          "brand": "Home Decorators Collection",
+          "title": "Austen 30 in. W x 22 in. D x 35 in. H Single Sink Floating Bath Vanity in Midnight Blue with White Quartz Top",
+          "shortDescription": "Modern floating design in on-trend color",
+          "price": {
+            "current": 799.0,
+            "original": 999.0,
+            "savings": 200.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 1234
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/324252707/324252707_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Midnight Blue",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/midnight-blue.jpg",
+                "variantId": "316901234"
+              },
+              {
+                "color": "Sage Green",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/sage-green.jpg",
+                "variantId": "316901235"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "Floating Design",
+            "Quartz Top",
+            "Soft Close"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Home-Decorators-Collection-Austen-30-in-Floating-Vanity-QUANPRO30FV/324252707",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "333839155",
+          "modelNumber": "GB24P2-WH",
+          "storeSkuNumber": "1007789012",
+          "brand": "Glacier Bay",
+          "title": "Hanna 24 in. W x 19 in. D x 34 in. H Single Sink Bath Vanity in White with White Cultured Marble Top",
+          "shortDescription": "Budget-friendly complete vanity solution",
+          "price": {
+            "current": 179.0,
+            "original": 229.0,
+            "savings": 50.0,
+            "savingsPercent": 22,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.1,
+            "count": 5678
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/333839155/333839155_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Complete Set",
+            "Pre-assembled",
+            "Includes Faucet"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Glacier-Bay-Hanna-24-in-Bath-Vanity-GB24P2-WH/333839155",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "332394877",
+          "modelNumber": "QUARTZ72DBL",
+          "storeSkuNumber": "1007890123",
+          "brand": "Home Decorators Collection",
+          "title": "Aberdeen 72 in. W x 22 in. D x 34 in. H Double Sink Bath Vanity in White with Carrara White Marble Top",
+          "shortDescription": "Premium double vanity with natural marble",
+          "price": {
+            "current": 1899.0,
+            "original": 2399.0,
+            "savings": 500.0,
+            "savingsPercent": 21,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.8,
+            "count": 987
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/332394877/332394877_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "Natural Marble",
+            "Double Sink",
+            "Premium Construction"
+          ],
+          "availability": {
+            "inStorePickup": false,
+            "delivery": true,
+            "shipToHome": false
+          },
+          "productUrl": "/p/Home-Decorators-Collection-Aberdeen-72-in-Double-Vanity-QUARTZ72DBL/332394877",
+          "limitPerOrder": 2
+        },
+        {
+          "productId": "329106607",
+          "modelNumber": "QUARTZ48SV",
+          "storeSkuNumber": "1007901234",
+          "brand": "Home Decorators Collection",
+          "title": "Caville 48 in. W x 22 in. D x 34 in. H Single Sink Bath Vanity in Sage Green with White Engineered Stone Top",
+          "shortDescription": "Transitional style with modern color palette",
+          "price": {
+            "current": 899.0,
+            "original": 1199.0,
+            "savings": 300.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 2345
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/329106607/329106607_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Sage Green",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/sage-green.jpg",
+                "variantId": "325234567"
+              },
+              {
+                "color": "White",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/white.jpg",
+                "variantId": "325234568"
+              },
+              {
+                "color": "Navy Blue",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/navy.jpg",
+                "variantId": "325234569"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "Trending Color",
+            "Soft Close",
+            "Stone Top"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Home-Decorators-Collection-Caville-48-in-Bath-Vanity-QUARTZ48SV/329106607",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "317945709",
+          "modelNumber": "QUARTZ30SV",
+          "storeSkuNumber": "1008012345",
+          "brand": "Foremost",
+          "title": "Rockford 30 in. W x 21 in. D x 34 in. H Single Sink Freestanding Bath Vanity in Driftwood Gray",
+          "shortDescription": "Rustic style with modern functionality",
+          "price": {
+            "current": 349.0,
+            "original": 449.0,
+            "savings": 100.0,
+            "savingsPercent": 22,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 3456
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/317945709/317945709_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Rustic Style",
+            "Soft Close",
+            "Dove-tailed Drawers"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Foremost-Rockford-30-in-Bath-Vanity-QUARTZ30SV/317945709",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "313644965",
+          "modelNumber": "QUARTZ36WM",
+          "storeSkuNumber": "1008123456",
+          "brand": "StyleWell",
+          "title": "Mayfield 36 in. W x 19 in. D x 23 in. H Single Sink Wall Mounted Bath Vanity in Matte Black with White Ceramic Top",
+          "shortDescription": "Sleek wall-mounted design saves floor space",
+          "price": {
+            "current": 449.0,
+            "original": 599.0,
+            "savings": 150.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 1567
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/313644965/313644965_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "Wall Mounted",
+            "Modern Design",
+            "Easy Clean"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/StyleWell-Mayfield-36-in-Wall-Mounted-Vanity-QUARTZ36WM/313644965",
+          "limitPerOrder": 3
+        }
+      ],
+      "pagination": {
+        "currentPage": 1,
+        "totalPages": 103,
+        "itemsPerPage": 24,
+        "startIndex": 1,
+        "endIndex": 24
+      }
+    },
+    {
+      "pageInfo": {
+        "categoryId": "N-5yc1vZc2h8",
+        "categoryName": "Smart Thermostats",
+        "categorySlug": "smart-thermostats",
+        "breadcrumbs": [
+          {
+            "label": "Home",
+            "url": "/"
+          },
+          {
+            "label": "Heating, Venting & Cooling",
+            "url": "/b/Heating-Venting-Cooling/N-5yc1vZc4k8"
+          },
+          {
+            "label": "Thermostats",
+            "url": "/b/Heating-Venting-Cooling-Thermostats/N-5yc1vZc4l7"
+          },
+          {
+            "label": "Smart Thermostats",
+            "url": "/b/Heating-Venting-Cooling-Thermostats-Smart-Thermostats/N-5yc1vZc2h8"
+          }
+        ],
+        "totalResults": 89,
+        "heroImage": {
+          "url": "https://dam.thdstatic.com/contentful/heroflattenimage/smart-thermostats-hero.png",
+          "alt": "Smart Thermostats",
+          "promoText": "Save Energy and Money with Smart Control"
+        },
+        "seoDescription": "Shop Smart Thermostats at The Home Depot. Find programmable and WiFi thermostats from Nest, Ecobee, Honeywell, and more for energy savings."
+      },
+      "featuredBrands": [
+        {
+          "brandId": "GoogleNest",
+          "brandName": "Google Nest",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/google-nest-logo.svg",
+          "filterUrl": "/b/Smart-Thermostats/Google-Nest/N-5yc1vZc2h8Zgn"
+        },
+        {
+          "brandId": "ecobee",
+          "brandName": "ecobee",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ecobee-logo.svg",
+          "filterUrl": "/b/Smart-Thermostats/ecobee/N-5yc1vZc2h8Zeb"
+        },
+        {
+          "brandId": "Honeywell",
+          "brandName": "Honeywell Home",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/honeywell-logo.svg",
+          "filterUrl": "/b/Smart-Thermostats/Honeywell/N-5yc1vZc2h8Zhy"
+        },
+        {
+          "brandId": "Emerson",
+          "brandName": "Emerson",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/emerson-logo.svg",
+          "filterUrl": "/b/Smart-Thermostats/Emerson/N-5yc1vZc2h8Zem"
+        }
+      ],
+      "quickFilters": [
+        {
+          "filterId": "voice-control",
+          "label": "Voice Control",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/voice-thermostat.jpg",
+          "filterUrl": "/b/Smart-Thermostats/Voice-Control/N-5yc1vZc2h8Z1z1"
+        },
+        {
+          "filterId": "learning",
+          "label": "Learning Thermostats",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/learning-thermostat.jpg",
+          "filterUrl": "/b/Smart-Thermostats/Learning/N-5yc1vZc2h8Z2z2"
+        },
+        {
+          "filterId": "energy-star",
+          "label": "ENERGY STAR",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/energy-star-thermostat.jpg",
+          "filterUrl": "/b/Smart-Thermostats/ENERGY-STAR/N-5yc1vZc2h8Z3z3"
+        }
+      ],
+      "filters": [
+        {
+          "filterGroupId": "brand",
+          "filterGroupName": "Brand",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "google-nest",
+              "label": "Google Nest",
+              "value": "google-nest",
+              "count": 12,
+              "filterUrl": "/b/Smart-Thermostats/Google-Nest/N-5yc1vZc2h8Zgn"
+            },
+            {
+              "optionId": "ecobee",
+              "label": "ecobee",
+              "value": "ecobee",
+              "count": 8,
+              "filterUrl": "/b/Smart-Thermostats/ecobee/N-5yc1vZc2h8Zeb"
+            },
+            {
+              "optionId": "honeywell",
+              "label": "Honeywell Home",
+              "value": "honeywell",
+              "count": 24,
+              "filterUrl": "/b/Smart-Thermostats/Honeywell/N-5yc1vZc2h8Zhy"
+            },
+            {
+              "optionId": "emerson",
+              "label": "Emerson",
+              "value": "emerson",
+              "count": 15,
+              "filterUrl": "/b/Smart-Thermostats/Emerson/N-5yc1vZc2h8Zem"
+            }
+          ]
+        },
+        {
+          "filterGroupId": "price",
+          "filterGroupName": "Price",
+          "filterType": "range",
+          "options": [
+            {
+              "optionId": "price-0-100",
+              "label": "Under $100",
+              "value": "0-100",
+              "count": 23
+            },
+            {
+              "optionId": "price-100-200",
+              "label": "$100 - $200",
+              "value": "100-200",
+              "count": 34
+            },
+            {
+              "optionId": "price-200-300",
+              "label": "$200 - $300",
+              "value": "200-300",
+              "count": 21
+            },
+            {
+              "optionId": "price-300-plus",
+              "label": "$300 & Above",
+              "value": "300-plus",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "filterGroupId": "compatibility",
+          "filterGroupName": "Voice Assistant",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "alexa",
+              "label": "Amazon Alexa",
+              "value": "alexa",
+              "count": 67
+            },
+            {
+              "optionId": "google",
+              "label": "Google Assistant",
+              "value": "google",
+              "count": 65
+            },
+            {
+              "optionId": "apple",
+              "label": "Apple HomeKit",
+              "value": "apple",
+              "count": 23
+            }
+          ]
+        }
+      ],
+      "sortOptions": [
+        {
+          "sortId": "top-sellers",
+          "label": "Top Sellers",
+          "isDefault": true
+        },
+        {
+          "sortId": "price-low-high",
+          "label": "Price Low to High",
+          "isDefault": false
+        },
+        {
+          "sortId": "price-high-low",
+          "label": "Price High to Low",
+          "isDefault": false
+        },
+        {
+          "sortId": "top-rated",
+          "label": "Top Rated",
+          "isDefault": false
+        }
+      ],
+      "products": [
+        {
+          "productId": "319478899",
+          "modelNumber": "T3007ES",
+          "storeSkuNumber": "1008234567",
+          "brand": "Google Nest",
+          "title": "Nest Learning Thermostat - Smart Wi-Fi Thermostat - Stainless Steel",
+          "shortDescription": "Learns your schedule and programs itself",
+          "price": {
+            "current": 249.0,
+            "original": 279.0,
+            "savings": 30.0,
+            "savingsPercent": 11,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 15678
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/319478899/319478899_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Stainless Steel",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/stainless.jpg",
+                "variantId": "303456789"
+              },
+              {
+                "color": "White",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/white.jpg",
+                "variantId": "303456790"
+              },
+              {
+                "color": "Brass",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/brass.jpg",
+                "variantId": "303456791"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            },
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "Self-Learning",
+            "Remote Control",
+            "Energy History"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Google-Nest-Learning-Thermostat-Stainless-Steel-T3007ES/319478899",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "319479265",
+          "modelNumber": "EB-STATE6-01",
+          "storeSkuNumber": "1008345678",
+          "brand": "ecobee",
+          "title": "ecobee Smart Thermostat Premium with Built-in Air Quality Monitor and Voice Control",
+          "shortDescription": "Premium features with air quality monitoring",
+          "price": {
+            "current": 249.99,
+            "original": 279.99,
+            "savings": 30.0,
+            "savingsPercent": 11,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 8765
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/319479265/319479265_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            },
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "Air Quality Monitor",
+            "Built-in Alexa",
+            "SmartSensor Included"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/ecobee-Smart-Thermostat-Premium-EB-STATE6-01/319479265",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "333511723",
+          "modelNumber": "GA01334-US",
+          "storeSkuNumber": "1008456789",
+          "brand": "Google Nest",
+          "title": "Nest Thermostat - Smart Wi-Fi Thermostat - Snow",
+          "shortDescription": "Affordable smart thermostat with sleek design",
+          "price": {
+            "current": 129.99,
+            "original": 149.99,
+            "savings": 20.0,
+            "savingsPercent": 13,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 12345
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/333511723/333511723_64_600.jpg",
+            "colorSwatches": [
+              {
+                "color": "Snow",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/snow.jpg",
+                "variantId": "309678901"
+              },
+              {
+                "color": "Sand",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/sand.jpg",
+                "variantId": "309678902"
+              },
+              {
+                "color": "Charcoal",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/charcoal.jpg",
+                "variantId": "309678903"
+              },
+              {
+                "color": "Fog",
+                "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/fog.jpg",
+                "variantId": "309678904"
+              }
+            ]
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            },
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "Easy Install",
+            "Energy Savings",
+            "Smart Schedule"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Google-Nest-Thermostat-Snow-GA01334-US/333511723",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "301500827",
+          "modelNumber": "RTH9585WF1004",
+          "storeSkuNumber": "1008567890",
+          "brand": "Honeywell Home",
+          "title": "Wi-Fi Smart Color Thermostat with App Control and Customizable Color Display",
+          "shortDescription": "Customize your display with any color",
+          "price": {
+            "current": 179.0,
+            "original": 199.0,
+            "savings": 20.0,
+            "savingsPercent": 10,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 6543
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/301500827/301500827_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Color Display",
+            "7-Day Scheduling",
+            "Geofencing"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Honeywell-Home-Wi-Fi-Smart-Color-Thermostat-RTH9585WF1004/301500827",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "309221830",
+          "modelNumber": "EB-STATE5-01",
+          "storeSkuNumber": "1008678901",
+          "brand": "ecobee",
+          "title": "ecobee Smart Thermostat Enhanced with Voice Control and SmartSensor",
+          "shortDescription": "Enhanced features at a great value",
+          "price": {
+            "current": 189.99,
+            "original": 219.99,
+            "savings": 30.0,
+            "savingsPercent": 14,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 5432
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/309221830/309221830_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "SmartSensor Included",
+            "Voice Control",
+            "Energy Reports"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/ecobee-Smart-Thermostat-Enhanced-EB-STATE5-01/309221830",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "301500584",
+          "modelNumber": "T10PRO",
+          "storeSkuNumber": "1008789012",
+          "brand": "Honeywell Home",
+          "title": "T10 Pro Smart Thermostat with RedLINK Room Sensor",
+          "shortDescription": "Professional-grade smart thermostat",
+          "price": {
+            "current": 199.0,
+            "original": 249.0,
+            "savings": 50.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 3456
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/301500584/301500584_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "proPreferred",
+              "label": "Pro Preferred"
+            }
+          ],
+          "keyFeatures": [
+            "Room Sensor Included",
+            "Multi-Stage Support",
+            "Smart Response"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Honeywell-Home-T10-Pro-Smart-Thermostat-T10PRO/301500584",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "312117328",
+          "modelNumber": "SR75",
+          "storeSkuNumber": "1008890123",
+          "brand": "Emerson",
+          "title": "Sensi Touch 2 Smart Thermostat with Touchscreen Color Display",
+          "shortDescription": "Easy DIY installation with beautiful display",
+          "price": {
+            "current": 169.0,
+            "original": 199.0,
+            "savings": 30.0,
+            "savingsPercent": 15,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 4567
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/312117328/312117328_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            },
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "Touch Display",
+            "DIY Install",
+            "Flexible Scheduling"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Emerson-Sensi-Touch-2-Smart-Thermostat-SR75/312117328",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "307685448",
+          "modelNumber": "RTH6580WF",
+          "storeSkuNumber": "1008901234",
+          "brand": "Honeywell Home",
+          "title": "Wi-Fi 7-Day Programmable Thermostat with Touchscreen Display",
+          "shortDescription": "Simple smart thermostat at a great price",
+          "price": {
+            "current": 99.0,
+            "original": 119.0,
+            "savings": 20.0,
+            "savingsPercent": 17,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.2,
+            "count": 8765
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/307685448/307685448_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "specialBuy",
+              "label": "Special Buy"
+            }
+          ],
+          "keyFeatures": [
+            "7-Day Programming",
+            "Remote Access",
+            "Easy Setup"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Honeywell-Home-Wi-Fi-7-Day-Programmable-Thermostat-RTH6580WF/307685448",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "314005802",
+          "modelNumber": "ST55",
+          "storeSkuNumber": "1009012345",
+          "brand": "Emerson",
+          "title": "Sensi Smart Thermostat with Wi-Fi for DIY Install",
+          "shortDescription": "Budget-friendly smart thermostat",
+          "price": {
+            "current": 89.0,
+            "original": 129.0,
+            "savings": 40.0,
+            "savingsPercent": 31,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 6789
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/314005802/314005802_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            },
+            {
+              "type": "energyStar",
+              "label": "ENERGY STAR"
+            }
+          ],
+          "keyFeatures": [
+            "Easy DIY Install",
+            "Works with HVAC",
+            "7-Day Schedule"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Emerson-Sensi-Smart-Thermostat-ST55/314005802",
+          "limitPerOrder": 5
+        },
+        {
+          "productId": "303758665",
+          "modelNumber": "T4PROCC",
+          "storeSkuNumber": "1009123456",
+          "brand": "Honeywell Home",
+          "title": "T4 Pro Programmable Thermostat with Selectable Flexible Scheduling",
+          "shortDescription": "Professional features without WiFi",
+          "price": {
+            "current": 59.0,
+            "original": 79.0,
+            "savings": 20.0,
+            "savingsPercent": 25,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 5432
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/303758665/303758665_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Programmable",
+            "Large Display",
+            "Easy to Use"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Honeywell-Home-T4-Pro-Programmable-Thermostat-T4PROCC/303758665",
+          "limitPerOrder": 10
+        }
+      ],
+      "pagination": {
+        "currentPage": 1,
+        "totalPages": 4,
+        "itemsPerPage": 24,
+        "startIndex": 1,
+        "endIndex": 24
+      }
+    },
+    {
+      "pageInfo": {
+        "categoryId": "N-5yc1vZc5hn",
+        "categoryName": "Lawn Mowers",
+        "categorySlug": "lawn-mowers",
+        "breadcrumbs": [
+          {
+            "label": "Home",
+            "url": "/"
+          },
+          {
+            "label": "Outdoors",
+            "url": "/b/Outdoors/N-5yc1vZbx82"
+          },
+          {
+            "label": "Outdoor Power Equipment",
+            "url": "/b/Outdoors-Outdoor-Power-Equipment/N-5yc1vZbx9d"
+          },
+          {
+            "label": "Lawn Mowers",
+            "url": "/b/Outdoors-Outdoor-Power-Equipment-Lawn-Mowers/N-5yc1vZc5hn"
+          }
+        ],
+        "totalResults": 567,
+        "heroImage": {
+          "url": "https://dam.thdstatic.com/contentful/heroflattenimage/lawn-mowers-hero.png",
+          "alt": "Lawn Mowers",
+          "promoText": "Get Your Lawn Ready for Spring"
+        },
+        "seoDescription": "Shop Lawn Mowers at The Home Depot. Find push mowers, self-propelled mowers, riding mowers, and robotic mowers from top brands."
+      },
+      "featuredBrands": [
+        {
+          "brandId": "Ryobi",
+          "brandName": "Ryobi",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ryobi-logo.svg",
+          "filterUrl": "/b/Lawn-Mowers/Ryobi/N-5yc1vZc5hnZ5r7"
+        },
+        {
+          "brandId": "ToroCo",
+          "brandName": "Toro",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/toro-logo.svg",
+          "filterUrl": "/b/Lawn-Mowers/Toro/N-5yc1vZc5hnZto"
+        },
+        {
+          "brandId": "Honda",
+          "brandName": "Honda",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/honda-logo.svg",
+          "filterUrl": "/b/Lawn-Mowers/Honda/N-5yc1vZc5hnZhn"
+        },
+        {
+          "brandId": "EGO",
+          "brandName": "EGO",
+          "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ego-logo.svg",
+          "filterUrl": "/b/Lawn-Mowers/EGO/N-5yc1vZc5hnZeg"
+        }
+      ],
+      "quickFilters": [
+        {
+          "filterId": "electric",
+          "label": "Electric",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/electric-mower.jpg",
+          "filterUrl": "/b/Lawn-Mowers/Electric/N-5yc1vZc5hnZ1z1"
+        },
+        {
+          "filterId": "self-propelled",
+          "label": "Self-Propelled",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/self-propelled-mower.jpg",
+          "filterUrl": "/b/Lawn-Mowers/Self-Propelled/N-5yc1vZc5hnZ2z2"
+        },
+        {
+          "filterId": "riding",
+          "label": "Riding Mowers",
+          "imageUrl": "https://images.thdstatic.com/catalog/productImages/300/riding-mower.jpg",
+          "filterUrl": "/b/Lawn-Mowers/Riding/N-5yc1vZc5hnZ3z3"
+        }
+      ],
+      "filters": [
+        {
+          "filterGroupId": "brand",
+          "filterGroupName": "Brand",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "ryobi",
+              "label": "Ryobi",
+              "value": "ryobi",
+              "count": 78,
+              "filterUrl": "/b/Lawn-Mowers/Ryobi/N-5yc1vZc5hnZ5r7"
+            },
+            {
+              "optionId": "toro",
+              "label": "Toro",
+              "value": "toro",
+              "count": 89,
+              "filterUrl": "/b/Lawn-Mowers/Toro/N-5yc1vZc5hnZto"
+            },
+            {
+              "optionId": "honda",
+              "label": "Honda",
+              "value": "honda",
+              "count": 45,
+              "filterUrl": "/b/Lawn-Mowers/Honda/N-5yc1vZc5hnZhn"
+            },
+            {
+              "optionId": "ego",
+              "label": "EGO",
+              "value": "ego",
+              "count": 34,
+              "filterUrl": "/b/Lawn-Mowers/EGO/N-5yc1vZc5hnZeg"
+            },
+            {
+              "optionId": "greenworks",
+              "label": "Greenworks",
+              "value": "greenworks",
+              "count": 56,
+              "filterUrl": "/b/Lawn-Mowers/Greenworks/N-5yc1vZc5hnZgw"
+            }
+          ]
+        },
+        {
+          "filterGroupId": "powerType",
+          "filterGroupName": "Power Type",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "gas",
+              "label": "Gas",
+              "value": "gas",
+              "count": 234
+            },
+            {
+              "optionId": "battery",
+              "label": "Battery",
+              "value": "battery",
+              "count": 189
+            },
+            {
+              "optionId": "corded",
+              "label": "Corded Electric",
+              "value": "corded",
+              "count": 45
+            },
+            {
+              "optionId": "manual",
+              "label": "Manual/Reel",
+              "value": "manual",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "filterGroupId": "deckWidth",
+          "filterGroupName": "Cutting Width",
+          "filterType": "checkbox",
+          "options": [
+            {
+              "optionId": "16-18",
+              "label": "16-18 in.",
+              "value": "16-18",
+              "count": 45
+            },
+            {
+              "optionId": "20-21",
+              "label": "20-21 in.",
+              "value": "20-21",
+              "count": 156
+            },
+            {
+              "optionId": "22-25",
+              "label": "22-25 in.",
+              "value": "22-25",
+              "count": 189
+            },
+            {
+              "optionId": "30-plus",
+              "label": "30 in. & larger",
+              "value": "30-plus",
+              "count": 78
+            }
+          ]
+        },
+        {
+          "filterGroupId": "price",
+          "filterGroupName": "Price",
+          "filterType": "range",
+          "options": [
+            {
+              "optionId": "price-0-200",
+              "label": "Under $200",
+              "value": "0-200",
+              "count": 67
+            },
+            {
+              "optionId": "price-200-400",
+              "label": "$200 - $400",
+              "value": "200-400",
+              "count": 145
+            },
+            {
+              "optionId": "price-400-600",
+              "label": "$400 - $600",
+              "value": "400-600",
+              "count": 178
+            },
+            {
+              "optionId": "price-600-plus",
+              "label": "$600 & Above",
+              "value": "600-plus",
+              "count": 177
+            }
+          ]
+        }
+      ],
+      "sortOptions": [
+        {
+          "sortId": "top-sellers",
+          "label": "Top Sellers",
+          "isDefault": true
+        },
+        {
+          "sortId": "price-low-high",
+          "label": "Price Low to High",
+          "isDefault": false
+        },
+        {
+          "sortId": "price-high-low",
+          "label": "Price High to Low",
+          "isDefault": false
+        },
+        {
+          "sortId": "top-rated",
+          "label": "Top Rated",
+          "isDefault": false
+        }
+      ],
+      "products": [
+        {
+          "productId": "332032145",
+          "modelNumber": "RY401110",
+          "storeSkuNumber": "1009234567",
+          "brand": "Ryobi",
+          "title": "40V HP Brushless 21 in. Cordless Battery Walk Behind Self-Propelled Lawn Mower with 7.5 Ah Battery and Charger",
+          "shortDescription": "Powerful brushless motor with self-propelled drive",
+          "price": {
+            "current": 449.0,
+            "original": 549.0,
+            "savings": 100.0,
+            "savingsPercent": 18,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 12345
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/332032145/332032145_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Self-Propelled",
+            "Brushless Motor",
+            "7.5 Ah Battery"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Ryobi-40V-HP-Brushless-21-in-Self-Propelled-Mower-RY401110/332032145",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "206515944",
+          "modelNumber": "LM2102SP",
+          "storeSkuNumber": "1009345678",
+          "brand": "EGO",
+          "title": "POWER+ 21 in. 56V Lithium-Ion Cordless Battery Walk Behind Self-Propelled Mower with 7.5 Ah Battery and Charger",
+          "shortDescription": "Industry-leading battery technology",
+          "price": {
+            "current": 549.0,
+            "original": 649.0,
+            "savings": 100.0,
+            "savingsPercent": 15,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.7,
+            "count": 8765
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/206515944/206515944_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            },
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "56V Arc Lithium",
+            "Self-Propelled",
+            "Weather Resistant"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/EGO-POWER-21-in-56V-Self-Propelled-Mower-LM2102SP/206515944",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "317061072",
+          "modelNumber": "21462",
+          "storeSkuNumber": "1009456789",
+          "brand": "Toro",
+          "title": "Recycler 22 in. Briggs and Stratton High Wheel Variable Speed Gas Walk Behind Self Propelled Lawn Mower",
+          "shortDescription": "Personal Pace self-propel adjusts to your walking speed",
+          "price": {
+            "current": 429.0,
+            "original": 479.0,
+            "savings": 50.0,
+            "savingsPercent": 10,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 15678
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/317061072/317061072_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Personal Pace",
+            "22 in. Deck",
+            "Briggs & Stratton Engine"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Toro-Recycler-22-in-Gas-Self-Propelled-Mower-21462/317061072",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "311084824",
+          "modelNumber": "HRN216VKA",
+          "storeSkuNumber": "1009567890",
+          "brand": "Honda",
+          "title": "21 in. NeXite Variable Speed 4-in-1 Gas Walk Behind Self Propelled Mower with Auto Choke",
+          "shortDescription": "Honda reliability with auto choke starting",
+          "price": {
+            "current": 479.0,
+            "original": 529.0,
+            "savings": 50.0,
+            "savingsPercent": 9,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.8,
+            "count": 6543
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/311084824/311084824_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Auto Choke",
+            "NeXite Deck",
+            "MicroCut Twin Blades"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Honda-21-in-NeXite-Gas-Self-Propelled-Mower-HRN216VKA/311084824",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "320066062",
+          "modelNumber": "RY401100",
+          "storeSkuNumber": "1009678901",
+          "brand": "Ryobi",
+          "title": "40V HP Brushless 20 in. Cordless Battery Walk Behind Push Lawn Mower with 6.0 Ah Battery and Charger",
+          "shortDescription": "Lightweight push mower for smaller yards",
+          "price": {
+            "current": 299.0,
+            "original": 369.0,
+            "savings": 70.0,
+            "savingsPercent": 19,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.4,
+            "count": 9876
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/320066062/320066062_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "specialBuy",
+              "label": "Special Buy"
+            }
+          ],
+          "keyFeatures": [
+            "Push Mower",
+            "Brushless Motor",
+            "6.0 Ah Battery"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Ryobi-40V-HP-Brushless-20-in-Push-Mower-RY401100/320066062",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "323900500",
+          "modelNumber": "MO60L512Q",
+          "storeSkuNumber": "1009789012",
+          "brand": "Greenworks",
+          "title": "Pro 60V 21 in. Cordless Battery Self-Propelled Walk Behind Lawn Mower with 5.0 Ah Battery and Charger",
+          "shortDescription": "Pro-grade performance at a great value",
+          "price": {
+            "current": 399.0,
+            "original": 499.0,
+            "savings": 100.0,
+            "savingsPercent": 20,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.3,
+            "count": 5432
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/323900500/323900500_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "newArrival",
+              "label": "New Arrival"
+            }
+          ],
+          "keyFeatures": [
+            "60V Pro",
+            "Self-Propelled",
+            "Smart Cut Technology"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Greenworks-Pro-60V-21-in-Self-Propelled-Mower-MO60L512Q/323900500",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "315114449",
+          "modelNumber": "21464",
+          "storeSkuNumber": "1009890123",
+          "brand": "Toro",
+          "title": "TimeMaster 30 in. Briggs and Stratton Personal Pace Self-Propelled Walk-Behind Gas Lawn Mower with Spin-Stop",
+          "shortDescription": "Wide 30 in. deck cuts mowing time in half",
+          "price": {
+            "current": 1199.0,
+            "original": 1399.0,
+            "savings": 200.0,
+            "savingsPercent": 14,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 4567
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/315114449/315114449_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "30 in. Deck",
+            "Personal Pace",
+            "Spin-Stop Blade"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Toro-TimeMaster-30-in-Gas-Self-Propelled-Mower-21464/315114449",
+          "limitPerOrder": 2
+        },
+        {
+          "productId": "331594975",
+          "modelNumber": "LM2100",
+          "storeSkuNumber": "1009901234",
+          "brand": "EGO",
+          "title": "POWER+ 21 in. 56V Lithium-Ion Cordless Battery Walk Behind Push Lawn Mower (Tool Only)",
+          "shortDescription": "Tool only for those with existing batteries",
+          "price": {
+            "current": 349.0,
+            "original": 399.0,
+            "savings": 50.0,
+            "savingsPercent": 13,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.6,
+            "count": 7654
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/331594975/331594975_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "topSeller",
+              "label": "Top Seller"
+            }
+          ],
+          "keyFeatures": [
+            "Tool Only",
+            "21 in. Deck",
+            "6 Position Height"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/EGO-POWER-21-in-56V-Push-Mower-Tool-Only-LM2100/331594975",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "306345173",
+          "modelNumber": "21442",
+          "storeSkuNumber": "1010012345",
+          "brand": "Toro",
+          "title": "Recycler 22 in. Briggs and Stratton High Wheel FWD Gas Walk Behind Self Propelled Lawn Mower",
+          "shortDescription": "Front-wheel drive for easy maneuvering",
+          "price": {
+            "current": 379.0,
+            "original": 429.0,
+            "savings": 50.0,
+            "savingsPercent": 12,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.5,
+            "count": 11234
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/306345173/306345173_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "bestSeller",
+              "label": "Best Seller"
+            }
+          ],
+          "keyFeatures": [
+            "FWD Drive",
+            "22 in. Deck",
+            "Vortex Technology"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Toro-Recycler-22-in-FWD-Gas-Self-Propelled-Mower-21442/306345173",
+          "limitPerOrder": 3
+        },
+        {
+          "productId": "316855178",
+          "modelNumber": "HRX217HZA",
+          "storeSkuNumber": "1010123456",
+          "brand": "Honda",
+          "title": "21 in. NeXite Deck Hydrostatic Cruise Control Gas Walk Behind Self Propelled Mower with Blade Stop",
+          "shortDescription": "Premium Honda mower with cruise control",
+          "price": {
+            "current": 849.0,
+            "original": 929.0,
+            "savings": 80.0,
+            "savingsPercent": 9,
+            "isOnSale": true,
+            "seeInCart": false
+          },
+          "rating": {
+            "average": 4.9,
+            "count": 3456
+          },
+          "images": {
+            "primary": "https://images.thdstatic.com/productImages/316855178/316855178_64_600.jpg"
+          },
+          "badges": [
+            {
+              "type": "exclusive",
+              "label": "Exclusive"
+            }
+          ],
+          "keyFeatures": [
+            "Cruise Control",
+            "Hydrostatic",
+            "Versamow System"
+          ],
+          "availability": {
+            "inStorePickup": true,
+            "delivery": true,
+            "shipToHome": true
+          },
+          "productUrl": "/p/Honda-21-in-NeXite-Hydrostatic-Cruise-Mower-HRX217HZA/316855178",
+          "limitPerOrder": 2
+        }
+      ],
+      "pagination": {
+        "currentPage": 1,
+        "totalPages": 24,
+        "itemsPerPage": 24,
+        "startIndex": 1,
+        "endIndex": 24
+      }
+    }
+  ]
+}

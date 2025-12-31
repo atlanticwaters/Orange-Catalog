@@ -1,0 +1,299 @@
+{
+  "productId": "330123456",
+  "identifiers": {
+    "internetNumber": "330123456",
+    "modelNumber": "XPH14Z",
+    "storeSkuNumber": "1005901234",
+    "storeSoSkuNumber": "1005901234-SO",
+    "upc": "088381863940",
+    "manufacturerPartNumber": "XPH14Z"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/makita-logo.svg",
+    "brandPageUrl": "/b/Makita-Power-Tools/N-5yc1vZc258",
+    "series": "LXT"
+  },
+  "title": "18V LXT Lithium-Ion Brushless Cordless 1/2 in. Hammer Driver-Drill (Tool Only)",
+  "shortDescription": "Powerful brushless hammer drill with 1,090 in-lbs of max torque for heavy-duty applications.",
+  "longDescription": "The Makita 18V LXT Brushless Hammer Driver-Drill delivers 1,090 in-lbs of max torque for demanding drilling applications in wood, metal, masonry, and concrete. The efficient BL Brushless motor is electronically controlled to optimize battery energy use for up to 50% longer run time per charge. The hammer function provides 31,500 BPM for faster drilling into masonry and concrete. Variable 2-speed design (0-600/0-2,100 RPM) allows you to match the speed to the application. Extreme Protection Technology (XPT) provides increased dust and water resistance.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/b/Tools/N-5yc1vZc1xy"
+    },
+    {
+      "label": "Power Tools",
+      "url": "/b/Tools-Power-Tools/N-5yc1vZc264"
+    },
+    {
+      "label": "Power Drills",
+      "url": "/b/Tools-Power-Tools-Drills/N-5yc1vZc29n"
+    }
+  ],
+  "pricing": {
+    "currentPrice": 139.0,
+    "originalPrice": 169.0,
+    "savings": 30.0,
+    "savingsPercent": 18,
+    "isOnSale": true,
+    "seeInCart": false,
+    "financing": null
+  },
+  "rating": {
+    "average": 4.7,
+    "count": 3234,
+    "recommendationPercent": 94,
+    "distribution": {
+      "5star": 2345,
+      "4star": 567,
+      "3star": 189,
+      "2star": 78,
+      "1star": 55
+    }
+  },
+  "media": {
+    "primaryImage": "https://images.thdstatic.com/productImages/makita-xph14z-64_1000.jpg",
+    "images": [
+      {
+        "url": "https://images.thdstatic.com/productImages/makita-xph14z-64_1000.jpg",
+        "altText": "Makita 18V LXT Brushless Hammer Drill",
+        "type": "primary"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/makita-xph14z-b2_1000.jpg",
+        "altText": "Side view with chuck detail",
+        "type": "detail"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/makita-xph14z-ls_1000.jpg",
+        "altText": "Drilling into concrete",
+        "type": "lifestyle"
+      }
+    ],
+    "videos": [],
+    "threeSixtyView": null,
+    "augmentedReality": false
+  },
+  "variants": [
+    {
+      "variantId": "330123456",
+      "variantType": "Kit Size",
+      "variantValue": "Tool Only",
+      "price": 139.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/makita-xph14z-64_400.jpg",
+      "swatchUrl": null,
+      "inStock": true,
+      "isSelected": true
+    }
+  ],
+  "keyFeatures": [
+    "1,090 in-lbs of max torque for demanding applications",
+    "BL Brushless motor for 50% longer runtime",
+    "31,500 BPM hammer function for masonry",
+    "Variable 2-speed (0-600/0-2,100 RPM)",
+    "XPT for dust and water resistance",
+    "Compact design at 7-5/8 in. length"
+  ],
+  "highlights": [
+    {
+      "icon": "torque",
+      "label": "Max Torque",
+      "value": "1,090 in-lbs"
+    },
+    {
+      "icon": "speed",
+      "label": "Max Speed",
+      "value": "2,100 RPM"
+    },
+    {
+      "icon": "bpm",
+      "label": "BPM",
+      "value": "31,500"
+    },
+    {
+      "icon": "voltage",
+      "label": "System",
+      "value": "18V LXT"
+    }
+  ],
+  "specifications": {
+    "dimensions": {
+      "productWidth": "2.4 in.",
+      "productHeight": "8.5 in.",
+      "productDepth": "7.625 in.",
+      "productWeight": "4.0 lbs."
+    },
+    "details": [
+      {
+        "group": "Power",
+        "specifications": [
+          {
+            "name": "Voltage",
+            "value": "18V"
+          },
+          {
+            "name": "Battery Type",
+            "value": "Lithium-Ion"
+          },
+          {
+            "name": "Motor Type",
+            "value": "BL Brushless"
+          }
+        ]
+      },
+      {
+        "group": "Performance",
+        "specifications": [
+          {
+            "name": "No Load Speed",
+            "value": "0-600/0-2,100 RPM"
+          },
+          {
+            "name": "Max Torque",
+            "value": "1,090 in-lbs"
+          },
+          {
+            "name": "BPM",
+            "value": "0-31,500"
+          },
+          {
+            "name": "Chuck Size",
+            "value": "1/2 in."
+          }
+        ]
+      },
+      {
+        "group": "Features",
+        "specifications": [
+          {
+            "name": "XPT Protection",
+            "value": "Yes"
+          },
+          {
+            "name": "LED Light",
+            "value": "Yes"
+          },
+          {
+            "name": "Star Protection",
+            "value": "Yes"
+          }
+        ]
+      }
+    ]
+  },
+  "badges": [],
+  "certifications": [],
+  "warranty": {
+    "duration": "3 years",
+    "type": "Limited Warranty",
+    "warrantyDetails": "3-year limited warranty on tool"
+  },
+  "protectionPlan": {
+    "available": true,
+    "options": [
+      {
+        "term": 2,
+        "price": 19.0,
+        "coverage": "2-Year Protection Plan"
+      },
+      {
+        "term": 3,
+        "price": 29.0,
+        "coverage": "3-Year Protection Plan"
+      }
+    ]
+  },
+  "availability": {
+    "inStorePickup": {
+      "available": true,
+      "quantity": 9,
+      "storeName": "Home Depot #0901",
+      "storeId": "0901"
+    },
+    "delivery": {
+      "available": true,
+      "estimatedDate": "Dec 14 - Dec 16",
+      "freeDelivery": true,
+      "deliveryCharge": 0
+    },
+    "shipToHome": {
+      "available": true,
+      "estimatedDate": "Dec 16 - Dec 18",
+      "shippingCharge": 0,
+      "freeShipping": true
+    }
+  },
+  "services": {
+    "installation": {
+      "available": false,
+      "price": null,
+      "description": null
+    },
+    "haulAway": {
+      "available": false,
+      "price": null
+    },
+    "assembly": {
+      "available": false,
+      "price": null
+    }
+  },
+  "requirements": [
+    {
+      "type": "batteries",
+      "description": "Requires Makita 18V LXT Battery (sold separately)"
+    }
+  ],
+  "includedItems": [
+    "XPH14 Hammer Driver-Drill"
+  ],
+  "relatedProducts": {
+    "accessories": [
+      {
+        "productId": "305912350",
+        "title": "Makita 18V LXT 5.0Ah Battery 2-Pack",
+        "price": 199.0,
+        "imageUrl": "https://images.thdstatic.com/productImages/makita-battery.jpg"
+      }
+    ],
+    "similar": [],
+    "frequentlyBoughtTogether": []
+  },
+  "questionsAndAnswers": {
+    "totalQuestions": 178,
+    "featured": [
+      {
+        "questionId": "q_mk002",
+        "question": "Does this come with batteries?",
+        "answer": "No, this is a tool-only version. Batteries and charger are sold separately. This is ideal if you already have Makita 18V LXT batteries.",
+        "askedDate": "2024-10-10",
+        "answeredDate": "2024-10-11",
+        "helpful": 123
+      }
+    ]
+  },
+  "returnPolicy": {
+    "returnWindow": 90,
+    "returnWindowUnit": "days",
+    "specialPolicy": null
+  },
+  "limitPerOrder": 10,
+  "productUrl": "/p/Makita-18V-LXT-Lithium-Ion-Brushless-Cordless-1-2-in-Hammer-Driver-Drill-Tool-Only-XPH14Z/330123456",
+  "canonicalUrl": "https://www.homedepot.com/p/Makita-18V-LXT-Lithium-Ion-Brushless-Cordless-1-2-in-Hammer-Driver-Drill-Tool-Only-XPH14Z/330123456",
+  "seoMetadata": {
+    "title": "Makita 18V LXT Brushless 1/2 in. Hammer Driver-Drill (Tool Only) - XPH14Z",
+    "description": "1,090 in-lbs torque brushless hammer drill with XPT protection. Tool only.",
+    "keywords": [
+      "Makita drill",
+      "hammer drill",
+      "18V LXT",
+      "brushless",
+      "tool only"
+    ]
+  }
+}

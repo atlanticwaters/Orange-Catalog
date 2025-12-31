@@ -1,0 +1,374 @@
+{
+  "productId": "336451236",
+  "identifiers": {
+    "internetNumber": "336451236",
+    "modelNumber": "RF70F29MER",
+    "storeSkuNumber": "1004890123",
+    "storeSoSkuNumber": "1004890123-SO",
+    "upc": "887276511234",
+    "manufacturerPartNumber": "RF70F29MER"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/samsung-logo.svg",
+    "brandPageUrl": "/b/Samsung-Appliances/N-5yc1vZa0f",
+    "series": "Bespoke"
+  },
+  "title": "Bespoke 29 cu. ft. 4-Door French Door Smart Refrigerator with Beverage Center and Customizable Door Panels",
+  "shortDescription": "Customize your kitchen with interchangeable door panels and enjoy the convenience of a built-in beverage center.",
+  "longDescription": "Transform your kitchen with the Samsung Bespoke 4-Door French Door Refrigerator. This innovative appliance features customizable door panels available in multiple colors and materials, allowing you to match your kitchen décor or change your style whenever you want. The built-in Beverage Center provides a dedicated space for drinks with a water dispenser and internal pitcher that automatically refills. Dual Ice Maker with Ice Bites creates smaller ice pieces that chill drinks faster. SmartThings integration allows remote monitoring and control, while FlexZone technology lets you convert the bottom compartment between fridge and freezer modes.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/b/Appliances/N-5yc1vZbv1w"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/b/Appliances-Refrigerators/N-5yc1vZc3pi"
+    },
+    {
+      "label": "French Door Refrigerators",
+      "url": "/b/Appliances-Refrigerators-French-Door-Refrigerators/N-5yc1vZc3oo"
+    }
+  ],
+  "pricing": {
+    "currentPrice": 2299.0,
+    "originalPrice": 3799.0,
+    "savings": 1500.0,
+    "savingsPercent": 39,
+    "isOnSale": true,
+    "seeInCart": false,
+    "financing": {
+      "monthlyPayment": 192.0,
+      "term": 12,
+      "apr": 0
+    }
+  },
+  "rating": {
+    "average": 4.3,
+    "count": 3245,
+    "recommendationPercent": 85,
+    "distribution": {
+      "5star": 1946,
+      "4star": 714,
+      "3star": 325,
+      "2star": 130,
+      "1star": 130
+    }
+  },
+  "media": {
+    "primaryImage": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+    "images": [
+      {
+        "url": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+        "altText": "Samsung Bespoke front view",
+        "type": "primary"
+      },
+      {
+        "url": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+        "altText": "Beverage Center detail",
+        "type": "detail"
+      },
+      {
+        "url": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+        "altText": "Customizable panel options",
+        "type": "detail"
+      },
+      {
+        "url": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+        "altText": "In designer kitchen",
+        "type": "lifestyle"
+      }
+    ],
+    "videos": [
+      {
+        "videoId": "vid_bespoke_001",
+        "title": "Samsung Bespoke Customization Guide",
+        "thumbnailUrl": "https://images.thdstatic.com/productVideos/thumb_bespoke.jpg",
+        "videoUrl": "https://videos.thdstatic.com/samsung-bespoke-customize.mp4",
+        "duration": "2:30"
+      }
+    ],
+    "threeSixtyView": "https://images.thdstatic.com/360view/samsung-bespoke-rf70f29mer/",
+    "augmentedReality": true
+  },
+  "variants": [
+    {
+      "variantId": "336451236",
+      "variantType": "Color/Finish",
+      "variantValue": "Stainless Steel Panels",
+      "price": 2299.0,
+      "imageUrl": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+      "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/bespoke-ss-swatch.jpg",
+      "inStock": true,
+      "isSelected": true
+    },
+    {
+      "variantId": "336451237",
+      "variantType": "Color/Finish",
+      "variantValue": "White Glass Panels",
+      "price": 2299.0,
+      "imageUrl": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+      "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/bespoke-wg-swatch.jpg",
+      "inStock": true,
+      "isSelected": false
+    },
+    {
+      "variantId": "336451238",
+      "variantType": "Color/Finish",
+      "variantValue": "Navy Steel Panels",
+      "price": 2399.0,
+      "imageUrl": "french-door-images/imgi_5_stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg",
+      "swatchUrl": "https://images.thdstatic.com/catalog/swatchImages/35/bespoke-navy-swatch.jpg",
+      "inStock": true,
+      "isSelected": false
+    }
+  ],
+  "keyFeatures": [
+    "29 cu. ft. capacity with 4-door design",
+    "Customizable door panels in multiple colors",
+    "Built-in Beverage Center with autofill pitcher",
+    "Dual Ice Maker with Ice Bites technology",
+    "SmartThings WiFi connectivity",
+    "FlexZone convertible compartment"
+  ],
+  "highlights": [
+    {
+      "icon": "capacity",
+      "label": "Total Capacity",
+      "value": "29 cu. ft."
+    },
+    {
+      "icon": "custom",
+      "label": "Customizable",
+      "value": "Yes"
+    },
+    {
+      "icon": "smart",
+      "label": "Smart Enabled",
+      "value": "SmartThings"
+    },
+    {
+      "icon": "beverage",
+      "label": "Beverage Center",
+      "value": "Yes"
+    }
+  ],
+  "specifications": {
+    "dimensions": {
+      "productWidth": "35.75 in.",
+      "productHeight": "70 in.",
+      "productDepth": "36.5 in.",
+      "productWeight": "356 lbs.",
+      "packageWidth": "39 in.",
+      "packageHeight": "75 in.",
+      "packageDepth": "40 in.",
+      "packageWeight": "398 lbs."
+    },
+    "details": [
+      {
+        "groupName": "Capacity",
+        "attributes": [
+          {
+            "name": "Fresh Food Capacity",
+            "value": "18.3 cu. ft."
+          },
+          {
+            "name": "Freezer Capacity",
+            "value": "10.7 cu. ft."
+          },
+          {
+            "name": "Total Capacity",
+            "value": "29 cu. ft."
+          }
+        ]
+      },
+      {
+        "groupName": "Smart Features",
+        "attributes": [
+          {
+            "name": "WiFi Enabled",
+            "value": "Yes"
+          },
+          {
+            "name": "Voice Control",
+            "value": "Bixby, Alexa, Google Assistant"
+          },
+          {
+            "name": "SmartThings App",
+            "value": "Yes"
+          }
+        ]
+      },
+      {
+        "groupName": "Features",
+        "attributes": [
+          {
+            "name": "Beverage Center",
+            "value": "Yes"
+          },
+          {
+            "name": "Dual Ice Maker",
+            "value": "Yes"
+          },
+          {
+            "name": "Ice Bites",
+            "value": "Yes"
+          },
+          {
+            "name": "FlexZone",
+            "value": "Yes"
+          },
+          {
+            "name": "Customizable Panels",
+            "value": "Yes"
+          }
+        ]
+      }
+    ]
+  },
+  "badges": [
+    {
+      "type": "exclusive",
+      "label": "Exclusive",
+      "iconUrl": "https://images.thdstatic.com/catalog/badges/exclusive.svg"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ENERGY STAR",
+      "logoUrl": "https://images.thdstatic.com/catalog/certifications/energystar.svg",
+      "description": "ENERGY STAR certified"
+    }
+  ],
+  "warranty": {
+    "manufacturerWarranty": "1-Year Limited Warranty",
+    "extendedWarrantyAvailable": true,
+    "warrantyDetails": "1-year parts and labor; Digital Inverter Compressor 10-year warranty"
+  },
+  "protectionPlan": {
+    "available": true,
+    "options": [
+      {
+        "term": 3,
+        "price": 169.0,
+        "coverage": "3-Year Protection Plan"
+      },
+      {
+        "term": 5,
+        "price": 259.0,
+        "coverage": "5-Year Protection Plan"
+      }
+    ]
+  },
+  "availability": {
+    "inStorePickup": {
+      "available": false,
+      "quantity": 0,
+      "storeName": null,
+      "storeId": null
+    },
+    "delivery": {
+      "available": true,
+      "estimatedDate": "Dec 19 - Dec 23",
+      "freeDelivery": true,
+      "deliveryCharge": 0
+    },
+    "shipToHome": {
+      "available": false,
+      "estimatedDate": null,
+      "shippingCharge": null,
+      "freeShipping": false
+    }
+  },
+  "services": {
+    "installation": {
+      "available": true,
+      "price": 199.0,
+      "description": "Professional installation with panel setup assistance"
+    },
+    "haulAway": {
+      "available": true,
+      "price": 25.0
+    },
+    "assembly": {
+      "available": false,
+      "price": null
+    }
+  },
+  "requirements": [
+    {
+      "type": "electrical",
+      "description": "Requires 120V, 15A dedicated circuit"
+    },
+    {
+      "type": "water",
+      "description": "Water supply line required"
+    },
+    {
+      "type": "wifi",
+      "description": "2.4GHz WiFi for smart features"
+    }
+  ],
+  "includedItems": [
+    "Refrigerator unit",
+    "Default door panels",
+    "Water filter",
+    "Owner's manual"
+  ],
+  "relatedProducts": {
+    "accessories": [
+      {
+        "productId": "305567890",
+        "title": "Samsung Bespoke Door Panel - Sunrise Yellow",
+        "price": 199.0,
+        "imageUrl": "https://images.thdstatic.com/productImages/bespoke-panel-yellow.jpg"
+      },
+      {
+        "productId": "305567891",
+        "title": "Samsung HAF-QIN Water Filter",
+        "price": 59.98,
+        "imageUrl": "https://images.thdstatic.com/productImages/samsung-filter.jpg"
+      }
+    ],
+    "similar": [],
+    "frequentlyBoughtTogether": []
+  },
+  "questionsAndAnswers": {
+    "totalQuestions": 289,
+    "featured": [
+      {
+        "questionId": "q_401",
+        "question": "Can I change the panels myself?",
+        "answer": "Yes, the door panels are designed for easy DIY installation. They simply snap into place with no tools required.",
+        "askedDate": "2024-10-15",
+        "answeredDate": "2024-10-16",
+        "helpful": 145
+      }
+    ]
+  },
+  "returnPolicy": {
+    "returnWindow": 90,
+    "returnWindowUnit": "days",
+    "specialPolicy": null
+  },
+  "limitPerOrder": 10,
+  "productUrl": "/p/Samsung-Bespoke-29-cu-ft-4-Door-French-Door-Refrigerator-RF70F29MER/336451236",
+  "canonicalUrl": "https://www.homedepot.com/p/Samsung-Bespoke-29-cu-ft-4-Door-French-Door-Refrigerator-RF70F29MER/336451236",
+  "seoMetadata": {
+    "title": "Samsung Bespoke 29 cu. ft. 4-Door French Door Refrigerator - RF70F29MER",
+    "description": "Customizable refrigerator with interchangeable door panels, Beverage Center, and SmartThings connectivity.",
+    "keywords": [
+      "Samsung Bespoke",
+      "customizable refrigerator",
+      "4-door",
+      "beverage center",
+      "smart",
+      "french door"
+    ]
+  }
+}

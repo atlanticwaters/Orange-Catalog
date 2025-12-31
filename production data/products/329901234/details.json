@@ -1,0 +1,290 @@
+{
+  "productId": "329901234",
+  "identifiers": {
+    "internetNumber": "329901234",
+    "modelNumber": "59241",
+    "storeSkuNumber": "1006901234",
+    "storeSoSkuNumber": "1006901234-SO",
+    "upc": "049694592413",
+    "manufacturerPartNumber": "59241"
+  },
+  "brand": {
+    "name": "Hunter",
+    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/hunter-logo.svg",
+    "brandPageUrl": "/b/Hunter-Ceiling-Fans/N-5yc1vZc7ow",
+    "series": "Cassius"
+  },
+  "title": "Cassius 44 in. Indoor/Outdoor Matte Black Ceiling Fan",
+  "shortDescription": "Compact 44 in. fan ideal for smaller spaces with damp-rated construction.",
+  "longDescription": "The Hunter Cassius 44 in. Ceiling Fan delivers reliable performance in a compact size perfect for smaller bedrooms, offices, covered porches, and patios. The matte black finish with charred walnut blades creates a striking look. This damp-rated fan can be used in covered outdoor areas. Simple pull chain operation controls 3 fan speeds. The reversible motor allows you to change blade direction for year-round comfort. The compact size makes it ideal for rooms up to 225 sq. ft. with 8 ft. ceilings.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Lighting",
+      "url": "/b/Lighting/N-5yc1vZbvn5"
+    },
+    {
+      "label": "Ceiling Fans",
+      "url": "/b/Lighting-Ceiling-Fans/N-5yc1vZc7nf"
+    },
+    {
+      "label": "Indoor Ceiling Fans",
+      "url": "/b/Lighting-Ceiling-Fans-Indoor-Ceiling-Fans/N-5yc1vZc7n1"
+    }
+  ],
+  "pricing": {
+    "currentPrice": 99.0,
+    "originalPrice": 119.0,
+    "savings": 20.0,
+    "savingsPercent": 17,
+    "isOnSale": true,
+    "seeInCart": false,
+    "financing": null
+  },
+  "rating": {
+    "average": 4.3,
+    "count": 3456,
+    "recommendationPercent": 87,
+    "distribution": {
+      "5star": 1789,
+      "4star": 934,
+      "3star": 432,
+      "2star": 178,
+      "1star": 123
+    }
+  },
+  "media": {
+    "primaryImage": "https://images.thdstatic.com/productImages/hunter-59241-64_1000.jpg",
+    "images": [
+      {
+        "url": "https://images.thdstatic.com/productImages/hunter-59241-64_1000.jpg",
+        "altText": "Hunter Cassius 44 in. Ceiling Fan",
+        "type": "primary"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/hunter-59241-ls_1000.jpg",
+        "altText": "Fan in small bedroom",
+        "type": "lifestyle"
+      }
+    ],
+    "videos": [],
+    "threeSixtyView": null,
+    "augmentedReality": false
+  },
+  "variants": [
+    {
+      "variantId": "329901234",
+      "variantType": "Finish",
+      "variantValue": "Matte Black",
+      "price": 99.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/hunter-59241-64_400.jpg",
+      "swatchUrl": "https://images.thdstatic.com/swatches/matte-black.jpg",
+      "inStock": true,
+      "isSelected": true
+    },
+    {
+      "variantId": "329901235",
+      "variantType": "Finish",
+      "variantValue": "Fresh White",
+      "price": 99.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/hunter-59242-64_400.jpg",
+      "swatchUrl": "https://images.thdstatic.com/swatches/fresh-white.jpg",
+      "inStock": true,
+      "isSelected": false
+    }
+  ],
+  "keyFeatures": [
+    "Compact 44 in. blade span for small rooms",
+    "Damp-rated for covered outdoor use",
+    "Matte black finish with charred walnut blades",
+    "3-speed reversible motor",
+    "Pull chain operation",
+    "Ideal for rooms up to 225 sq. ft.",
+    "No light kit - fan only design"
+  ],
+  "highlights": [
+    {
+      "icon": "blade",
+      "label": "Blade Span",
+      "value": "44 in."
+    },
+    {
+      "icon": "rating",
+      "label": "Rating",
+      "value": "Damp Rated"
+    },
+    {
+      "icon": "coverage",
+      "label": "Room Size",
+      "value": "Up to 225 sq. ft."
+    },
+    {
+      "icon": "control",
+      "label": "Control",
+      "value": "Pull Chain"
+    }
+  ],
+  "specifications": {
+    "dimensions": {
+      "productWidth": "44 in.",
+      "productHeight": "10.27 in.",
+      "productDepth": "44 in.",
+      "productWeight": "9.6 lbs."
+    },
+    "details": [
+      {
+        "group": "Fan Specifications",
+        "specifications": [
+          {
+            "name": "Blade Span",
+            "value": "44 in."
+          },
+          {
+            "name": "Number of Blades",
+            "value": "3"
+          },
+          {
+            "name": "Blade Pitch",
+            "value": "13°"
+          },
+          {
+            "name": "Motor Type",
+            "value": "AC"
+          },
+          {
+            "name": "Speeds",
+            "value": "3"
+          },
+          {
+            "name": "Reversible",
+            "value": "Yes"
+          },
+          {
+            "name": "CFM (High)",
+            "value": "3,654"
+          }
+        ]
+      },
+      {
+        "group": "Light Kit",
+        "specifications": [
+          {
+            "name": "Light Kit Included",
+            "value": "No"
+          },
+          {
+            "name": "Light Kit Adaptable",
+            "value": "No"
+          }
+        ]
+      }
+    ]
+  },
+  "badges": [],
+  "certifications": [
+    "UL Listed - Damp"
+  ],
+  "warranty": {
+    "duration": "Limited Lifetime",
+    "type": "Limited Warranty",
+    "warrantyDetails": "Limited lifetime motor warranty"
+  },
+  "protectionPlan": {
+    "available": true,
+    "options": [
+      {
+        "term": 3,
+        "price": 15.0,
+        "coverage": "3-Year Protection Plan"
+      }
+    ]
+  },
+  "availability": {
+    "inStorePickup": {
+      "available": true,
+      "quantity": 18,
+      "storeName": "Home Depot #0901",
+      "storeId": "0901"
+    },
+    "delivery": {
+      "available": true,
+      "estimatedDate": "Dec 15 - Dec 18",
+      "freeDelivery": true,
+      "deliveryCharge": 0
+    },
+    "shipToHome": {
+      "available": true,
+      "estimatedDate": "Dec 17 - Dec 20",
+      "shippingCharge": 0,
+      "freeShipping": true
+    }
+  },
+  "services": {
+    "installation": {
+      "available": true,
+      "price": 149.0,
+      "description": "Professional ceiling fan installation"
+    },
+    "haulAway": {
+      "available": false,
+      "price": null
+    },
+    "assembly": {
+      "available": false,
+      "price": null
+    }
+  },
+  "requirements": [
+    {
+      "type": "electrical",
+      "description": "Requires ceiling electrical box rated for fans"
+    }
+  ],
+  "includedItems": [
+    "Ceiling Fan",
+    "2 in. Downrod",
+    "Mounting Hardware",
+    "Pull Chain"
+  ],
+  "relatedProducts": {
+    "accessories": [],
+    "similar": [],
+    "frequentlyBoughtTogether": []
+  },
+  "questionsAndAnswers": {
+    "totalQuestions": 234,
+    "featured": [
+      {
+        "questionId": "q_cf009",
+        "question": "Can I add a light kit to this fan?",
+        "answer": "No, the Cassius is designed as a fan-only model and is not light kit adaptable. If you need a light, consider the Cassius with Light version.",
+        "askedDate": "2024-08-05",
+        "answeredDate": "2024-08-06",
+        "helpful": 156
+      }
+    ]
+  },
+  "returnPolicy": {
+    "returnWindow": 90,
+    "returnWindowUnit": "days",
+    "specialPolicy": null
+  },
+  "limitPerOrder": 10,
+  "productUrl": "/p/Hunter-Cassius-44-in-Indoor-Outdoor-Matte-Black-Ceiling-Fan-59241/329901234",
+  "canonicalUrl": "https://www.homedepot.com/p/Hunter-Cassius-44-in-Indoor-Outdoor-Matte-Black-Ceiling-Fan-59241/329901234",
+  "seoMetadata": {
+    "title": "Hunter Cassius 44 in. Indoor/Outdoor Matte Black Ceiling Fan - 59241",
+    "description": "Compact 44 in. damp-rated ceiling fan in matte black. Perfect for small spaces.",
+    "keywords": [
+      "Hunter",
+      "Cassius",
+      "ceiling fan",
+      "44 inch",
+      "matte black",
+      "compact"
+    ]
+  }
+}

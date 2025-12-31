@@ -1,0 +1,295 @@
+{
+  "productId": "308456789",
+  "identifiers": {
+    "internetNumber": "308456789",
+    "modelNumber": "P215K",
+    "storeSkuNumber": "1005345678",
+    "storeSoSkuNumber": "1005345678-SO",
+    "upc": "033287177024",
+    "manufacturerPartNumber": "P215K"
+  },
+  "brand": {
+    "name": "Ryobi",
+    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ryobi-logo.svg",
+    "brandPageUrl": "/b/RYOBI-Power-Tools/N-5yc1vZc256",
+    "series": "ONE+"
+  },
+  "title": "ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (2) 1.5Ah Batteries, Charger, and Bag",
+  "shortDescription": "Perfect entry-level drill for homeowners with 2-speed gearbox and 24-position clutch.",
+  "longDescription": "The RYOBI ONE+ 18V Cordless 1/2 in. Drill/Driver is perfect for a variety of drilling and driving tasks around the home. The powerful motor delivers up to 515 in-lbs of torque with a variable-speed trigger for precise control. The 24-position clutch allows you to customize the torque settings for precise screw driving. The 1/2 in. single sleeve keyless chuck accepts most standard drill bits, and the built-in LED light illuminates your work area. This kit includes everything you need to get started: two 1.5Ah batteries, a charger, and a convenient carrying bag.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/b/Tools/N-5yc1vZc1xy"
+    },
+    {
+      "label": "Power Tools",
+      "url": "/b/Tools-Power-Tools/N-5yc1vZc264"
+    },
+    {
+      "label": "Power Drills",
+      "url": "/b/Tools-Power-Tools-Drills/N-5yc1vZc29n"
+    }
+  ],
+  "pricing": {
+    "currentPrice": 59.0,
+    "originalPrice": 79.0,
+    "savings": 20.0,
+    "savingsPercent": 25,
+    "isOnSale": true,
+    "seeInCart": false,
+    "financing": null
+  },
+  "rating": {
+    "average": 4.6,
+    "count": 15678,
+    "recommendationPercent": 92,
+    "distribution": {
+      "5star": 10234,
+      "4star": 3456,
+      "3star": 1234,
+      "2star": 456,
+      "1star": 298
+    }
+  },
+  "media": {
+    "primaryImage": "https://images.thdstatic.com/productImages/ryobi-p215k-64_1000.jpg",
+    "images": [
+      {
+        "url": "https://images.thdstatic.com/productImages/ryobi-p215k-64_1000.jpg",
+        "altText": "Ryobi ONE+ Drill/Driver Kit",
+        "type": "primary"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/ryobi-p215k-b2_1000.jpg",
+        "altText": "Kit contents",
+        "type": "detail"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/ryobi-p215k-ls_1000.jpg",
+        "altText": "Drill being used at home",
+        "type": "lifestyle"
+      }
+    ],
+    "videos": [],
+    "threeSixtyView": null,
+    "augmentedReality": false
+  },
+  "variants": [
+    {
+      "variantId": "308456789",
+      "variantType": "Kit Size",
+      "variantValue": "2-Battery Kit",
+      "price": 59.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/ryobi-p215k-64_400.jpg",
+      "swatchUrl": null,
+      "inStock": true,
+      "isSelected": true
+    }
+  ],
+  "keyFeatures": [
+    "515 in-lbs of torque for drilling and driving",
+    "24-position clutch for precise screw driving control",
+    "2-speed gearbox for high torque or high speed applications",
+    "1/2 in. keyless chuck for quick bit changes",
+    "LED work light illuminates dark work areas",
+    "Compatible with all RYOBI ONE+ 18V batteries"
+  ],
+  "highlights": [
+    {
+      "icon": "torque",
+      "label": "Torque",
+      "value": "515 in-lbs"
+    },
+    {
+      "icon": "speed",
+      "label": "Max Speed",
+      "value": "1,600 RPM"
+    },
+    {
+      "icon": "voltage",
+      "label": "Voltage",
+      "value": "18V"
+    },
+    {
+      "icon": "battery",
+      "label": "Batteries Included",
+      "value": "2"
+    }
+  ],
+  "specifications": {
+    "dimensions": {
+      "productWidth": "2.5 in.",
+      "productHeight": "8.5 in.",
+      "productDepth": "7.5 in.",
+      "productWeight": "3.0 lbs."
+    },
+    "details": [
+      {
+        "group": "Power",
+        "specifications": [
+          {
+            "name": "Voltage",
+            "value": "18V"
+          },
+          {
+            "name": "Battery Type",
+            "value": "Lithium-Ion"
+          },
+          {
+            "name": "Motor Type",
+            "value": "Brushed"
+          }
+        ]
+      },
+      {
+        "group": "Performance",
+        "specifications": [
+          {
+            "name": "No Load Speed",
+            "value": "0-450/0-1,600 RPM"
+          },
+          {
+            "name": "Torque",
+            "value": "515 in-lbs"
+          },
+          {
+            "name": "Clutch Settings",
+            "value": "24"
+          },
+          {
+            "name": "Chuck Size",
+            "value": "1/2 in."
+          },
+          {
+            "name": "Chuck Type",
+            "value": "Keyless"
+          }
+        ]
+      }
+    ]
+  },
+  "badges": [
+    {
+      "type": "topSeller",
+      "label": "Top Seller",
+      "priority": 1
+    }
+  ],
+  "certifications": [],
+  "warranty": {
+    "duration": "3 years",
+    "type": "Limited Warranty",
+    "warrantyDetails": "3-year tool warranty; 3-year battery warranty"
+  },
+  "protectionPlan": {
+    "available": true,
+    "options": [
+      {
+        "term": 2,
+        "price": 12.0,
+        "coverage": "2-Year Protection Plan"
+      },
+      {
+        "term": 3,
+        "price": 19.0,
+        "coverage": "3-Year Protection Plan"
+      }
+    ]
+  },
+  "availability": {
+    "inStorePickup": {
+      "available": true,
+      "quantity": 45,
+      "storeName": "Home Depot #0901",
+      "storeId": "0901"
+    },
+    "delivery": {
+      "available": true,
+      "estimatedDate": "Dec 14 - Dec 16",
+      "freeDelivery": true,
+      "deliveryCharge": 0
+    },
+    "shipToHome": {
+      "available": true,
+      "estimatedDate": "Dec 16 - Dec 18",
+      "shippingCharge": 0,
+      "freeShipping": true
+    }
+  },
+  "services": {
+    "installation": {
+      "available": false,
+      "price": null,
+      "description": null
+    },
+    "haulAway": {
+      "available": false,
+      "price": null
+    },
+    "assembly": {
+      "available": false,
+      "price": null
+    }
+  },
+  "requirements": [
+    {
+      "type": "batteries",
+      "description": "Uses RYOBI ONE+ 18V Batteries (included)"
+    }
+  ],
+  "includedItems": [
+    "P215 Drill/Driver",
+    "(2) P189 1.5Ah Batteries",
+    "P118B Charger",
+    "Tool Bag"
+  ],
+  "relatedProducts": {
+    "accessories": [
+      {
+        "productId": "305912348",
+        "title": "RYOBI 68-Piece Drilling and Driving Kit",
+        "price": 14.97,
+        "imageUrl": "https://images.thdstatic.com/productImages/ryobi-bits.jpg"
+      }
+    ],
+    "similar": [],
+    "frequentlyBoughtTogether": []
+  },
+  "questionsAndAnswers": {
+    "totalQuestions": 567,
+    "featured": [
+      {
+        "questionId": "q_r001",
+        "question": "Is this good for a beginner?",
+        "answer": "Yes, this is an excellent entry-level drill for homeowners and DIY projects. Easy to use with good power for most home tasks.",
+        "askedDate": "2024-07-20",
+        "answeredDate": "2024-07-21",
+        "helpful": 312
+      }
+    ]
+  },
+  "returnPolicy": {
+    "returnWindow": 90,
+    "returnWindowUnit": "days",
+    "specialPolicy": null
+  },
+  "limitPerOrder": 10,
+  "productUrl": "/p/RYOBI-ONE-18V-Cordless-1-2-in-Drill-Driver-Kit-P215K/308456789",
+  "canonicalUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-1-2-in-Drill-Driver-Kit-P215K/308456789",
+  "seoMetadata": {
+    "title": "RYOBI ONE+ 18V Cordless 1/2 in. Drill/Driver Kit - P215K",
+    "description": "Perfect entry-level drill with 515 in-lbs torque. Includes 2 batteries, charger, and bag.",
+    "keywords": [
+      "Ryobi drill",
+      "ONE+",
+      "18V",
+      "cordless drill",
+      "DIY drill"
+    ]
+  }
+}

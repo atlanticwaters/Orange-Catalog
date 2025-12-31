@@ -1,0 +1,299 @@
+{
+  "productId": "324567890",
+  "identifiers": {
+    "internetNumber": "324567890",
+    "modelNumber": "2903-22",
+    "storeSkuNumber": "1005789012",
+    "storeSoSkuNumber": "1005789012-SO",
+    "upc": "045242532681",
+    "manufacturerPartNumber": "2903-22"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/milwaukee-logo.svg",
+    "brandPageUrl": "/b/Milwaukee-Power-Tools/N-5yc1vZc259",
+    "series": "M18 FUEL"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Drill/Driver Kit with (2) 2.0Ah Batteries",
+  "shortDescription": "Compact lightweight design at only 6.9 in. with full-size power output.",
+  "longDescription": "The Milwaukee M18 FUEL 1/2 in. Drill/Driver delivers 1,200 in-lbs of peak torque in a compact design, making it the most powerful drill in its class. The POWERSTATE Brushless Motor was purposefully built to provide the most efficient performance in the industry. REDLINK PLUS Intelligence ensures maximum performance and protects against overloads, overheating, and over-discharge. The all-metal ratcheting chuck provides increased bit grip strength and the compact 6.9 in. design allows access to tight spaces.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/b/Tools/N-5yc1vZc1xy"
+    },
+    {
+      "label": "Power Tools",
+      "url": "/b/Tools-Power-Tools/N-5yc1vZc264"
+    },
+    {
+      "label": "Power Drills",
+      "url": "/b/Tools-Power-Tools-Drills/N-5yc1vZc29n"
+    }
+  ],
+  "pricing": {
+    "currentPrice": 129.0,
+    "originalPrice": 179.0,
+    "savings": 50.0,
+    "savingsPercent": 28,
+    "isOnSale": true,
+    "seeInCart": false,
+    "financing": {
+      "monthlyPayment": 11.0,
+      "term": 12,
+      "apr": 0
+    }
+  },
+  "rating": {
+    "average": 4.8,
+    "count": 6789,
+    "recommendationPercent": 96,
+    "distribution": {
+      "5star": 5456,
+      "4star": 934,
+      "3star": 234,
+      "2star": 98,
+      "1star": 67
+    }
+  },
+  "media": {
+    "primaryImage": "https://images.thdstatic.com/productImages/milwaukee-2903-22-64_1000.jpg",
+    "images": [
+      {
+        "url": "https://images.thdstatic.com/productImages/milwaukee-2903-22-64_1000.jpg",
+        "altText": "Milwaukee M18 FUEL Drill/Driver",
+        "type": "primary"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/milwaukee-2903-22-b2_1000.jpg",
+        "altText": "Kit with batteries and charger",
+        "type": "detail"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/milwaukee-2903-22-ls_1000.jpg",
+        "altText": "Compact drill in tight space",
+        "type": "lifestyle"
+      }
+    ],
+    "videos": [],
+    "threeSixtyView": null,
+    "augmentedReality": true
+  },
+  "variants": [
+    {
+      "variantId": "324567890",
+      "variantType": "Kit Size",
+      "variantValue": "2-Battery Kit (2.0Ah)",
+      "price": 129.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/milwaukee-2903-22-64_400.jpg",
+      "swatchUrl": null,
+      "inStock": true,
+      "isSelected": true
+    },
+    {
+      "variantId": "324567891",
+      "variantType": "Kit Size",
+      "variantValue": "Tool Only",
+      "price": 99.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/milwaukee-2903-20-64_400.jpg",
+      "swatchUrl": null,
+      "inStock": true,
+      "isSelected": false
+    }
+  ],
+  "keyFeatures": [
+    "1,200 in-lbs of peak torque",
+    "Compact 6.9 in. length for tight spaces",
+    "POWERSTATE Brushless motor for efficiency",
+    "REDLINK PLUS overload protection",
+    "All-metal ratcheting chuck",
+    "Includes (2) M18 2.0Ah Compact batteries"
+  ],
+  "highlights": [
+    {
+      "icon": "torque",
+      "label": "Peak Torque",
+      "value": "1,200 in-lbs"
+    },
+    {
+      "icon": "length",
+      "label": "Length",
+      "value": "6.9 in."
+    },
+    {
+      "icon": "voltage",
+      "label": "Voltage",
+      "value": "18V"
+    },
+    {
+      "icon": "battery",
+      "label": "Batteries",
+      "value": "2 x 2.0Ah"
+    }
+  ],
+  "specifications": {
+    "dimensions": {
+      "productWidth": "2.2 in.",
+      "productHeight": "7.9 in.",
+      "productDepth": "6.9 in.",
+      "productWeight": "3.7 lbs."
+    },
+    "details": [
+      {
+        "group": "Power",
+        "specifications": [
+          {
+            "name": "Voltage",
+            "value": "18V"
+          },
+          {
+            "name": "Battery Type",
+            "value": "Lithium-Ion"
+          },
+          {
+            "name": "Motor Type",
+            "value": "POWERSTATE Brushless"
+          }
+        ]
+      },
+      {
+        "group": "Performance",
+        "specifications": [
+          {
+            "name": "No Load Speed",
+            "value": "0-550/0-1,800 RPM"
+          },
+          {
+            "name": "Peak Torque",
+            "value": "1,200 in-lbs"
+          },
+          {
+            "name": "Chuck Size",
+            "value": "1/2 in."
+          },
+          {
+            "name": "Chuck Type",
+            "value": "All-Metal Ratcheting"
+          }
+        ]
+      }
+    ]
+  },
+  "badges": [
+    {
+      "type": "specialBuy",
+      "label": "Special Buy",
+      "priority": 2
+    }
+  ],
+  "certifications": [],
+  "warranty": {
+    "duration": "5 years",
+    "type": "Limited Warranty",
+    "warrantyDetails": "5-year tool warranty; 3-year battery warranty"
+  },
+  "protectionPlan": {
+    "available": true,
+    "options": [
+      {
+        "term": 2,
+        "price": 19.0,
+        "coverage": "2-Year Protection Plan"
+      },
+      {
+        "term": 3,
+        "price": 29.0,
+        "coverage": "3-Year Protection Plan"
+      }
+    ]
+  },
+  "availability": {
+    "inStorePickup": {
+      "available": true,
+      "quantity": 18,
+      "storeName": "Home Depot #0901",
+      "storeId": "0901"
+    },
+    "delivery": {
+      "available": true,
+      "estimatedDate": "Dec 14 - Dec 16",
+      "freeDelivery": true,
+      "deliveryCharge": 0
+    },
+    "shipToHome": {
+      "available": true,
+      "estimatedDate": "Dec 16 - Dec 18",
+      "shippingCharge": 0,
+      "freeShipping": true
+    }
+  },
+  "services": {
+    "installation": {
+      "available": false,
+      "price": null,
+      "description": null
+    },
+    "haulAway": {
+      "available": false,
+      "price": null
+    },
+    "assembly": {
+      "available": false,
+      "price": null
+    }
+  },
+  "requirements": [
+    {
+      "type": "batteries",
+      "description": "Uses Milwaukee M18 Batteries (included)"
+    }
+  ],
+  "includedItems": [
+    "2903-20 Drill/Driver",
+    "(2) 48-11-1820 2.0Ah Batteries",
+    "48-59-1812 Charger",
+    "Contractor Bag",
+    "Belt Clip"
+  ],
+  "relatedProducts": {
+    "accessories": [],
+    "similar": [],
+    "frequentlyBoughtTogether": []
+  },
+  "questionsAndAnswers": {
+    "totalQuestions": 234,
+    "featured": [
+      {
+        "questionId": "q_m002",
+        "question": "What's the difference between this and the hammer drill?",
+        "answer": "This is a standard drill/driver without hammer function. If you need to drill into concrete or masonry, get the 2804 hammer drill version.",
+        "askedDate": "2024-08-28",
+        "answeredDate": "2024-08-29",
+        "helpful": 167
+      }
+    ]
+  },
+  "returnPolicy": {
+    "returnWindow": 90,
+    "returnWindowUnit": "days",
+    "specialPolicy": null
+  },
+  "limitPerOrder": 10,
+  "productUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Drill-Driver-Kit-2903-22/324567890",
+  "canonicalUrl": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Drill-Driver-Kit-2903-22/324567890",
+  "seoMetadata": {
+    "title": "Milwaukee M18 FUEL Brushless Cordless 1/2 in. Drill/Driver Kit - 2903-22",
+    "description": "1,200 in-lbs torque in compact 6.9 in. design. 2-battery kit with charger.",
+    "keywords": [
+      "Milwaukee drill",
+      "M18 FUEL",
+      "compact drill",
+      "brushless",
+      "cordless"
+    ]
+  }
+}

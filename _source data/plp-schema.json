@@ -1,0 +1,209 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ProductLandingPage",
+  "description": "Schema for Home Depot Product Landing Page (PLP) data",
+  "type": "object",
+  "required": ["pageInfo", "products"],
+  "properties": {
+    "pageInfo": {
+      "type": "object",
+      "required": ["categoryId", "categoryName", "breadcrumbs", "totalResults"],
+      "properties": {
+        "categoryId": {
+          "type": "string",
+          "description": "Unique identifier for the category"
+        },
+        "categoryName": {
+          "type": "string",
+          "description": "Display name of the category"
+        },
+        "categorySlug": {
+          "type": "string",
+          "description": "URL-friendly category identifier"
+        },
+        "breadcrumbs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["label", "url"],
+            "properties": {
+              "label": { "type": "string" },
+              "url": { "type": "string" }
+            }
+          }
+        },
+        "totalResults": {
+          "type": "integer",
+          "description": "Total number of products in category"
+        },
+        "heroImage": {
+          "type": "object",
+          "properties": {
+            "url": { "type": "string" },
+            "alt": { "type": "string" },
+            "promoText": { "type": "string" }
+          }
+        },
+        "seoDescription": {
+          "type": "string"
+        }
+      }
+    },
+    "featuredBrands": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "brandId": { "type": "string" },
+          "brandName": { "type": "string" },
+          "logoUrl": { "type": "string" },
+          "filterUrl": { "type": "string" }
+        }
+      }
+    },
+    "quickFilters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "filterId": { "type": "string" },
+          "label": { "type": "string" },
+          "imageUrl": { "type": "string" },
+          "filterUrl": { "type": "string" }
+        }
+      }
+    },
+    "filters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["filterGroupId", "filterGroupName", "filterType", "options"],
+        "properties": {
+          "filterGroupId": { "type": "string" },
+          "filterGroupName": { "type": "string" },
+          "filterType": {
+            "type": "string",
+            "enum": ["checkbox", "range", "rating", "color"]
+          },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "optionId": { "type": "string" },
+                "label": { "type": "string" },
+                "value": { "type": "string" },
+                "count": { "type": "integer" },
+                "filterUrl": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "sortOptions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sortId": { "type": "string" },
+          "label": { "type": "string" },
+          "isDefault": { "type": "boolean" }
+        }
+      }
+    },
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["productId", "modelNumber", "brand", "title", "price", "images"],
+        "properties": {
+          "productId": {
+            "type": "string",
+            "description": "Home Depot Internet Number"
+          },
+          "modelNumber": { "type": "string" },
+          "storeSkuNumber": { "type": "string" },
+          "brand": { "type": "string" },
+          "title": { "type": "string" },
+          "shortDescription": { "type": "string" },
+          "price": {
+            "type": "object",
+            "required": ["current"],
+            "properties": {
+              "current": { "type": "number" },
+              "original": { "type": "number" },
+              "savings": { "type": "number" },
+              "savingsPercent": { "type": "integer" },
+              "unitOfMeasure": { "type": "string" },
+              "isOnSale": { "type": "boolean" },
+              "seeInCart": { "type": "boolean" }
+            }
+          },
+          "rating": {
+            "type": "object",
+            "properties": {
+              "average": { "type": "number" },
+              "count": { "type": "integer" }
+            }
+          },
+          "images": {
+            "type": "object",
+            "properties": {
+              "primary": { "type": "string" },
+              "alternate": { "type": "string" },
+              "colorSwatches": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "color": { "type": "string" },
+                    "swatchUrl": { "type": "string" },
+                    "variantId": { "type": "string" }
+                  }
+                }
+              }
+            }
+          },
+          "badges": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "enum": ["topSeller", "newArrival", "exclusive", "energyStar", "specialBuy", "limitedStock"]
+                },
+                "label": { "type": "string" }
+              }
+            }
+          },
+          "keyFeatures": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "availability": {
+            "type": "object",
+            "properties": {
+              "inStorePickup": { "type": "boolean" },
+              "delivery": { "type": "boolean" },
+              "shipToHome": { "type": "boolean" }
+            }
+          },
+          "productUrl": { "type": "string" },
+          "limitPerOrder": { "type": "integer" }
+        }
+      }
+    },
+    "pagination": {
+      "type": "object",
+      "properties": {
+        "currentPage": { "type": "integer" },
+        "totalPages": { "type": "integer" },
+        "itemsPerPage": { "type": "integer" },
+        "startIndex": { "type": "integer" },
+        "endIndex": { "type": "integer" }
+      }
+    }
+  }
+}

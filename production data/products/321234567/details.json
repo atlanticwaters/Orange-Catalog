@@ -1,0 +1,319 @@
+{
+  "productId": "321234567",
+  "identifiers": {
+    "internetNumber": "321234567",
+    "modelNumber": "DCD999T1",
+    "storeSkuNumber": "1005678901",
+    "storeSoSkuNumber": "1005678901-SO",
+    "upc": "885911751704",
+    "manufacturerPartNumber": "DCD999T1"
+  },
+  "brand": {
+    "name": "DeWalt",
+    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/dewalt-logo.svg",
+    "brandPageUrl": "/b/DEWALT-Power-Tools/N-5yc1vZc253",
+    "series": "20V MAX XR"
+  },
+  "title": "20V MAX XR Lithium-Ion Cordless Brushless 1/2 in. 3-Speed Hammer Drill Kit with FLEXVOLT Advantage",
+  "shortDescription": "FLEXVOLT Advantage technology provides up to 77% more power when paired with FLEXVOLT batteries.",
+  "longDescription": "The DEWALT DCD999T1 20V MAX XR Brushless 3-Speed Hammer Drill with FLEXVOLT Advantage delivers unprecedented power and runtime. When paired with a DEWALT FLEXVOLT battery, this tool produces up to 77% more power than with a standard 20V MAX battery. The high-efficiency brushless motor and 3-speed transmission provide versatility for a variety of drilling applications. The 1/2 in. ratcheting nitro-carburized metal chuck provides superior bit gripping strength. E-Clutch system provides maximum control in bind-up situations.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/b/Tools/N-5yc1vZc1xy"
+    },
+    {
+      "label": "Power Tools",
+      "url": "/b/Tools-Power-Tools/N-5yc1vZc264"
+    },
+    {
+      "label": "Power Drills",
+      "url": "/b/Tools-Power-Tools-Drills/N-5yc1vZc29n"
+    }
+  ],
+  "pricing": {
+    "currentPrice": 229.0,
+    "originalPrice": 299.0,
+    "savings": 70.0,
+    "savingsPercent": 23,
+    "isOnSale": true,
+    "seeInCart": false,
+    "financing": {
+      "monthlyPayment": 20.0,
+      "term": 12,
+      "apr": 0
+    }
+  },
+  "rating": {
+    "average": 4.8,
+    "count": 4567,
+    "recommendationPercent": 96,
+    "distribution": {
+      "5star": 3678,
+      "4star": 623,
+      "3star": 156,
+      "2star": 67,
+      "1star": 43
+    }
+  },
+  "media": {
+    "primaryImage": "https://images.thdstatic.com/productImages/dewalt-dcd999t1-64_1000.jpg",
+    "images": [
+      {
+        "url": "https://images.thdstatic.com/productImages/dewalt-dcd999t1-64_1000.jpg",
+        "altText": "DEWALT FLEXVOLT Advantage Hammer Drill",
+        "type": "primary"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/dewalt-dcd999t1-b2_1000.jpg",
+        "altText": "Kit with FLEXVOLT battery",
+        "type": "detail"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/dewalt-dcd999t1-ls_1000.jpg",
+        "altText": "Heavy-duty drilling application",
+        "type": "lifestyle"
+      }
+    ],
+    "videos": [
+      {
+        "videoId": "vid_dcd999_001",
+        "title": "FLEXVOLT Advantage Technology Explained",
+        "thumbnailUrl": "https://images.thdstatic.com/productVideos/thumb_dcd999.jpg",
+        "videoUrl": "https://videos.thdstatic.com/dewalt-flexvolt.mp4",
+        "duration": "3:15"
+      }
+    ],
+    "threeSixtyView": null,
+    "augmentedReality": true
+  },
+  "variants": [
+    {
+      "variantId": "321234567",
+      "variantType": "Kit Size",
+      "variantValue": "1-Battery Kit (FLEXVOLT 6.0Ah)",
+      "price": 229.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/dewalt-dcd999t1-64_400.jpg",
+      "swatchUrl": null,
+      "inStock": true,
+      "isSelected": true
+    },
+    {
+      "variantId": "321234568",
+      "variantType": "Kit Size",
+      "variantValue": "Tool Only",
+      "price": 179.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/dewalt-dcd999b-64_400.jpg",
+      "swatchUrl": null,
+      "inStock": true,
+      "isSelected": false
+    }
+  ],
+  "keyFeatures": [
+    "FLEXVOLT Advantage provides up to 77% more power",
+    "3-speed transmission for versatile applications",
+    "E-Clutch system for bind-up protection",
+    "Ratcheting nitro-carburized metal chuck",
+    "High-efficiency brushless motor",
+    "LED light with spotlight mode",
+    "Compatible with all 20V MAX and FLEXVOLT batteries"
+  ],
+  "highlights": [
+    {
+      "icon": "power",
+      "label": "Power Boost",
+      "value": "Up to 77%"
+    },
+    {
+      "icon": "speed",
+      "label": "Speed Settings",
+      "value": "3"
+    },
+    {
+      "icon": "voltage",
+      "label": "System",
+      "value": "FLEXVOLT"
+    },
+    {
+      "icon": "torque",
+      "label": "Max Torque",
+      "value": "1,000+ in-lbs"
+    }
+  ],
+  "specifications": {
+    "dimensions": {
+      "productWidth": "2.5 in.",
+      "productHeight": "9.1 in.",
+      "productDepth": "8.0 in.",
+      "productWeight": "4.8 lbs."
+    },
+    "details": [
+      {
+        "group": "Power",
+        "specifications": [
+          {
+            "name": "Voltage",
+            "value": "20V MAX / FLEXVOLT"
+          },
+          {
+            "name": "Battery Type",
+            "value": "Lithium-Ion"
+          },
+          {
+            "name": "Motor Type",
+            "value": "Brushless"
+          }
+        ]
+      },
+      {
+        "group": "Performance",
+        "specifications": [
+          {
+            "name": "No Load Speed",
+            "value": "0-500/0-1,250/0-2,000 RPM"
+          },
+          {
+            "name": "BPM",
+            "value": "0-38,250"
+          },
+          {
+            "name": "Chuck Size",
+            "value": "1/2 in."
+          },
+          {
+            "name": "Chuck Type",
+            "value": "Ratcheting Nitro-Carburized Metal"
+          }
+        ]
+      },
+      {
+        "group": "Features",
+        "specifications": [
+          {
+            "name": "FLEXVOLT Advantage",
+            "value": "Yes"
+          },
+          {
+            "name": "E-Clutch",
+            "value": "Yes"
+          },
+          {
+            "name": "LED Light",
+            "value": "Yes, with Spotlight Mode"
+          }
+        ]
+      }
+    ]
+  },
+  "badges": [],
+  "certifications": [],
+  "warranty": {
+    "duration": "3 years",
+    "type": "Limited Warranty",
+    "warrantyDetails": "3-year limited warranty; 1-year free service; 90-day money back"
+  },
+  "protectionPlan": {
+    "available": true,
+    "options": [
+      {
+        "term": 3,
+        "price": 39.0,
+        "coverage": "3-Year Protection Plan"
+      },
+      {
+        "term": 5,
+        "price": 59.0,
+        "coverage": "5-Year Protection Plan"
+      }
+    ]
+  },
+  "availability": {
+    "inStorePickup": {
+      "available": true,
+      "quantity": 6,
+      "storeName": "Home Depot #0901",
+      "storeId": "0901"
+    },
+    "delivery": {
+      "available": true,
+      "estimatedDate": "Dec 14 - Dec 16",
+      "freeDelivery": true,
+      "deliveryCharge": 0
+    },
+    "shipToHome": {
+      "available": true,
+      "estimatedDate": "Dec 16 - Dec 18",
+      "shippingCharge": 0,
+      "freeShipping": true
+    }
+  },
+  "services": {
+    "installation": {
+      "available": false,
+      "price": null,
+      "description": null
+    },
+    "haulAway": {
+      "available": false,
+      "price": null
+    },
+    "assembly": {
+      "available": false,
+      "price": null
+    }
+  },
+  "requirements": [
+    {
+      "type": "batteries",
+      "description": "Works with 20V MAX and FLEXVOLT batteries"
+    }
+  ],
+  "includedItems": [
+    "DCD999 Hammer Drill",
+    "DCB606 FLEXVOLT 6.0Ah Battery",
+    "DCB115 Charger",
+    "Kit Box",
+    "Side Handle"
+  ],
+  "relatedProducts": {
+    "accessories": [],
+    "similar": [],
+    "frequentlyBoughtTogether": []
+  },
+  "questionsAndAnswers": {
+    "totalQuestions": 198,
+    "featured": [
+      {
+        "questionId": "q_d002",
+        "question": "Can I use regular 20V MAX batteries?",
+        "answer": "Yes, this drill works with all 20V MAX batteries, but achieves maximum power output when used with FLEXVOLT batteries due to FLEXVOLT Advantage technology.",
+        "askedDate": "2024-10-05",
+        "answeredDate": "2024-10-06",
+        "helpful": 134
+      }
+    ]
+  },
+  "returnPolicy": {
+    "returnWindow": 90,
+    "returnWindowUnit": "days",
+    "specialPolicy": null
+  },
+  "limitPerOrder": 10,
+  "productUrl": "/p/DEWALT-20V-MAX-XR-Brushless-3-Speed-Hammer-Drill-Kit-FLEXVOLT-DCD999T1/321234567",
+  "canonicalUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Brushless-3-Speed-Hammer-Drill-Kit-FLEXVOLT-DCD999T1/321234567",
+  "seoMetadata": {
+    "title": "DEWALT 20V MAX XR Brushless 3-Speed Hammer Drill with FLEXVOLT Advantage - DCD999T1",
+    "description": "77% more power with FLEXVOLT batteries. 3-speed hammer drill with E-Clutch protection.",
+    "keywords": [
+      "DEWALT drill",
+      "FLEXVOLT",
+      "hammer drill",
+      "brushless",
+      "20V MAX"
+    ]
+  }
+}

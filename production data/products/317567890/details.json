@@ -1,0 +1,287 @@
+{
+  "productId": "317567890",
+  "identifiers": {
+    "internetNumber": "317567890",
+    "modelNumber": "51565",
+    "storeSkuNumber": "1006567890",
+    "storeSoSkuNumber": "1006567890-SO",
+    "upc": "082392515656",
+    "manufacturerPartNumber": "51565"
+  },
+  "brand": {
+    "name": "Hampton Bay",
+    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/hamptonbay-logo.svg",
+    "brandPageUrl": "/b/Hampton-Bay-Ceiling-Fans/N-5yc1vZc7ov",
+    "series": "Windward IV"
+  },
+  "title": "Windward IV 52 in. Indoor Oil Rubbed Bronze Ceiling Fan",
+  "shortDescription": "Traditional design with oil rubbed bronze finish and walnut/cherry reversible blades.",
+  "longDescription": "The Hampton Bay Windward IV 52 in. Ceiling Fan brings classic style to any room. The oil rubbed bronze finish complements the rich walnut/cherry reversible blades. This fan is designed for indoor use and operates quietly with its efficient motor. Pull chain controls make operation simple and intuitive. The 13° blade pitch provides effective air movement for rooms up to 360 sq. ft. Note: This fan does not include a light kit but is light kit adaptable.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Lighting",
+      "url": "/b/Lighting/N-5yc1vZbvn5"
+    },
+    {
+      "label": "Ceiling Fans",
+      "url": "/b/Lighting-Ceiling-Fans/N-5yc1vZc7nf"
+    },
+    {
+      "label": "Indoor Ceiling Fans",
+      "url": "/b/Lighting-Ceiling-Fans-Indoor-Ceiling-Fans/N-5yc1vZc7n1"
+    }
+  ],
+  "pricing": {
+    "currentPrice": 79.0,
+    "originalPrice": 99.0,
+    "savings": 20.0,
+    "savingsPercent": 20,
+    "isOnSale": true,
+    "seeInCart": false,
+    "financing": null
+  },
+  "rating": {
+    "average": 4.2,
+    "count": 5678,
+    "recommendationPercent": 85,
+    "distribution": {
+      "5star": 2890,
+      "4star": 1567,
+      "3star": 678,
+      "2star": 321,
+      "1star": 222
+    }
+  },
+  "media": {
+    "primaryImage": "https://images.thdstatic.com/productImages/hamptonbay-51565-64_1000.jpg",
+    "images": [
+      {
+        "url": "https://images.thdstatic.com/productImages/hamptonbay-51565-64_1000.jpg",
+        "altText": "Hampton Bay Windward IV Ceiling Fan",
+        "type": "primary"
+      },
+      {
+        "url": "https://images.thdstatic.com/productImages/hamptonbay-51565-ls_1000.jpg",
+        "altText": "Fan in traditional dining room",
+        "type": "lifestyle"
+      }
+    ],
+    "videos": [],
+    "threeSixtyView": null,
+    "augmentedReality": false
+  },
+  "variants": [
+    {
+      "variantId": "317567890",
+      "variantType": "Finish",
+      "variantValue": "Oil Rubbed Bronze",
+      "price": 79.0,
+      "imageUrl": "https://images.thdstatic.com/productImages/hamptonbay-51565-64_400.jpg",
+      "swatchUrl": "https://images.thdstatic.com/swatches/orb.jpg",
+      "inStock": true,
+      "isSelected": true
+    }
+  ],
+  "keyFeatures": [
+    "52 in. blade span for rooms up to 360 sq. ft.",
+    "Reversible blades: walnut / cherry",
+    "Oil rubbed bronze finish",
+    "3-speed reversible motor",
+    "Light kit adaptable (sold separately)",
+    "Pull chain operation"
+  ],
+  "highlights": [
+    {
+      "icon": "blade",
+      "label": "Blade Span",
+      "value": "52 in."
+    },
+    {
+      "icon": "light",
+      "label": "Light Kit",
+      "value": "Adaptable"
+    },
+    {
+      "icon": "control",
+      "label": "Control",
+      "value": "Pull Chain"
+    },
+    {
+      "icon": "price",
+      "label": "Great Value",
+      "value": "Under $80"
+    }
+  ],
+  "specifications": {
+    "dimensions": {
+      "productWidth": "52 in.",
+      "productHeight": "12.5 in.",
+      "productDepth": "52 in.",
+      "productWeight": "14.2 lbs."
+    },
+    "details": [
+      {
+        "group": "Fan Specifications",
+        "specifications": [
+          {
+            "name": "Blade Span",
+            "value": "52 in."
+          },
+          {
+            "name": "Number of Blades",
+            "value": "5"
+          },
+          {
+            "name": "Blade Pitch",
+            "value": "13°"
+          },
+          {
+            "name": "Motor Type",
+            "value": "AC"
+          },
+          {
+            "name": "Speeds",
+            "value": "3"
+          },
+          {
+            "name": "Reversible",
+            "value": "Yes"
+          }
+        ]
+      },
+      {
+        "group": "Light Kit",
+        "specifications": [
+          {
+            "name": "Light Kit Included",
+            "value": "No"
+          },
+          {
+            "name": "Light Kit Adaptable",
+            "value": "Yes"
+          }
+        ]
+      }
+    ]
+  },
+  "badges": [
+    {
+      "type": "specialBuy",
+      "label": "Special Buy",
+      "priority": 2
+    }
+  ],
+  "certifications": [
+    "UL Listed"
+  ],
+  "warranty": {
+    "duration": "Limited Lifetime",
+    "type": "Limited Warranty",
+    "warrantyDetails": "Limited lifetime motor warranty; 2-year parts warranty"
+  },
+  "protectionPlan": {
+    "available": true,
+    "options": [
+      {
+        "term": 3,
+        "price": 12.0,
+        "coverage": "3-Year Protection Plan"
+      }
+    ]
+  },
+  "availability": {
+    "inStorePickup": {
+      "available": true,
+      "quantity": 34,
+      "storeName": "Home Depot #0901",
+      "storeId": "0901"
+    },
+    "delivery": {
+      "available": true,
+      "estimatedDate": "Dec 15 - Dec 18",
+      "freeDelivery": true,
+      "deliveryCharge": 0
+    },
+    "shipToHome": {
+      "available": true,
+      "estimatedDate": "Dec 17 - Dec 20",
+      "shippingCharge": 0,
+      "freeShipping": true
+    }
+  },
+  "services": {
+    "installation": {
+      "available": true,
+      "price": 149.0,
+      "description": "Professional ceiling fan installation"
+    },
+    "haulAway": {
+      "available": false,
+      "price": null
+    },
+    "assembly": {
+      "available": false,
+      "price": null
+    }
+  },
+  "requirements": [
+    {
+      "type": "electrical",
+      "description": "Requires ceiling electrical box rated for fans"
+    }
+  ],
+  "includedItems": [
+    "Ceiling Fan",
+    "4 in. Downrod",
+    "Mounting Hardware",
+    "Pull Chain"
+  ],
+  "relatedProducts": {
+    "accessories": [
+      {
+        "productId": "306234568",
+        "title": "Hampton Bay Universal Ceiling Fan Light Kit",
+        "price": 34.97,
+        "imageUrl": "https://images.thdstatic.com/productImages/hb-lightkit.jpg"
+      }
+    ],
+    "similar": [],
+    "frequentlyBoughtTogether": []
+  },
+  "questionsAndAnswers": {
+    "totalQuestions": 345,
+    "featured": [
+      {
+        "questionId": "q_cf005",
+        "question": "What light kit fits this fan?",
+        "answer": "Most universal light kits with a standard mounting bracket will fit. The Hampton Bay Universal Light Kit (sold separately) is recommended for perfect compatibility.",
+        "askedDate": "2024-07-25",
+        "answeredDate": "2024-07-26",
+        "helpful": 198
+      }
+    ]
+  },
+  "returnPolicy": {
+    "returnWindow": 90,
+    "returnWindowUnit": "days",
+    "specialPolicy": null
+  },
+  "limitPerOrder": 10,
+  "productUrl": "/p/Hampton-Bay-Windward-IV-52-in-Indoor-Oil-Rubbed-Bronze-Ceiling-Fan-51565/317567890",
+  "canonicalUrl": "https://www.homedepot.com/p/Hampton-Bay-Windward-IV-52-in-Indoor-Oil-Rubbed-Bronze-Ceiling-Fan-51565/317567890",
+  "seoMetadata": {
+    "title": "Hampton Bay Windward IV 52 in. Indoor Oil Rubbed Bronze Ceiling Fan - 51565",
+    "description": "Classic 52 in. ceiling fan with oil rubbed bronze finish. Light kit adaptable.",
+    "keywords": [
+      "Hampton Bay",
+      "Windward IV",
+      "ceiling fan",
+      "oil rubbed bronze",
+      "52 inch"
+    ]
+  }
+}
