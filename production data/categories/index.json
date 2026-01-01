@@ -149,6 +149,13 @@
           "slug": "washers-dryers",
           "productCount": 258,
           "path": "/categories/appliances/washers-dryers"
+        },
+        {
+          "id": "appliances/range-hoods",
+          "name": "Range Hoods",
+          "slug": "range-hoods",
+          "productCount": 24,
+          "path": "/categories/appliances/range-hoods"
         }
       ]
     },
@@ -221,6 +228,20 @@
           "slug": "wire-cable",
           "productCount": 22,
           "path": "/categories/electrical/wire-cable"
+        },
+        {
+          "id": "electrical/smart-home",
+          "name": "Smart Home",
+          "slug": "smart-home",
+          "productCount": 2,
+          "path": "/categories/electrical/smart-home"
+        },
+        {
+          "id": "electrical/wall-plates",
+          "name": "Wall Plates",
+          "slug": "wall-plates",
+          "productCount": 1,
+          "path": "/categories/electrical/wall-plates"
         }
       ]
     },
@@ -576,6 +597,34 @@
           "slug": "table-saws",
           "productCount": 20,
           "path": "/categories/tools/saws/table-saws"
+        },
+        {
+          "id": "tools/impact-drivers",
+          "name": "Impact Drivers",
+          "slug": "impact-drivers",
+          "productCount": 4,
+          "path": "/categories/tools/impact-drivers"
+        },
+        {
+          "id": "tools/inflators",
+          "name": "Inflators",
+          "slug": "inflators",
+          "productCount": 15,
+          "path": "/categories/tools/inflators"
+        },
+        {
+          "id": "tools/tool-storage",
+          "name": "Tool Storage",
+          "slug": "tool-storage",
+          "productCount": 20,
+          "path": "/categories/tools/tool-storage"
+        },
+        {
+          "id": "tools/accessories",
+          "name": "Accessories",
+          "slug": "accessories",
+          "productCount": 30,
+          "path": "/categories/tools/accessories"
         }
       ]
     }

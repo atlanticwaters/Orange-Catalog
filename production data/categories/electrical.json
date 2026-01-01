@@ -100,7 +100,8 @@
       "price": {
         "current": 219.85,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Smart Home"
     },
     {
       "productId": "308136313",
@@ -121,7 +122,8 @@
       "price": {
         "current": 149.9,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Smart Home"
     },
     {
       "productId": "336958667",
@@ -142,7 +144,8 @@
       "price": {
         "current": 132.64,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Outlets"
     },
     {
       "productId": "317371235",
@@ -163,7 +166,8 @@
       "price": {
         "current": 28.47,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Outlets"
     },
     {
       "productId": "202592873",
@@ -184,7 +188,8 @@
       "price": {
         "current": 5.63,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Outlets"
     },
     {
       "productId": "306588128",
@@ -205,7 +210,8 @@
       "price": {
         "current": 97.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Outlets"
     },
     {
       "productId": "334284516",
@@ -226,7 +232,8 @@
       "price": {
         "current": 2789.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Lighting"
     },
     {
       "productId": "339391064",
@@ -247,7 +254,8 @@
       "price": {
         "current": 179.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Lighting"
     },
     {
       "productId": "325355628",
@@ -268,7 +276,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Lighting"
     },
     {
       "productId": "202080349",
@@ -289,7 +298,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Breakers"
     },
     {
       "productId": "202869505",
@@ -310,7 +320,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Breakers"
     },
     {
       "productId": "311739614",
@@ -331,7 +342,8 @@
       "price": {
         "current": 2899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Breakers"
     },
     {
       "productId": "202993943",
@@ -352,7 +364,8 @@
       "price": {
         "current": 2239.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Breakers"
     },
     {
       "productId": "203866691",
@@ -373,7 +386,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Breakers"
     },
     {
       "productId": "206356257",
@@ -394,7 +408,8 @@
       "price": {
         "current": 2689.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Breakers"
     },
     {
       "productId": "327242236",
@@ -415,7 +430,8 @@
       "price": {
         "current": 2399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Breakers"
     },
     {
       "productId": "203846551",
@@ -436,7 +452,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "337674733",
@@ -457,13 +474,14 @@
       "price": {
         "current": 124.88,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "100394342",
       "modelNumber": "",
       "brand": "Grip-Rite",
-      "title": "1-1/4 in. x 0.120-Gauge 15\u00b0 Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
+      "title": "1-1/4 in. x 0.120-Gauge 15° Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
       "rating": {
         "average": 4.5111,
         "count": 765
@@ -478,13 +496,14 @@
       "price": {
         "current": 49.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "205865848",
       "modelNumber": "",
       "brand": "Grip-Rite",
-      "title": "2 in. x 0.092 in. 15\u00b0 Exterior Galvanized Wire Collated Ring Shank Nails 3000 per Box",
+      "title": "2 in. x 0.092 in. 15° Exterior Galvanized Wire Collated Ring Shank Nails 3000 per Box",
       "rating": {
         "average": 4.2093,
         "count": 129
@@ -499,13 +518,14 @@
       "price": {
         "current": 89.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "202447756",
       "modelNumber": "",
       "brand": "Grip-Rite",
-      "title": "2-1/2 in. 15\u00b0 Wire and Plastic Collation Coil Siding Nailer",
+      "title": "2-1/2 in. 15° Wire and Plastic Collation Coil Siding Nailer",
       "rating": {
         "average": 4.4167,
         "count": 12
@@ -520,7 +540,8 @@
       "price": {
         "current": 404.91,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "329377440",
@@ -541,7 +562,8 @@
       "price": {
         "current": 88.19,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "322605711",
@@ -562,7 +584,8 @@
       "price": {
         "current": 29.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "329635624",
@@ -583,7 +606,8 @@
       "price": {
         "current": 29.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "203846576",
@@ -604,7 +628,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "334127766",
@@ -625,7 +650,8 @@
       "price": {
         "current": 478.79,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "320706156",
@@ -646,7 +672,8 @@
       "price": {
         "current": 29.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "324118671",
@@ -667,7 +694,8 @@
       "price": {
         "current": 398.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "318584392",
@@ -688,7 +716,8 @@
       "price": {
         "current": 49.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "203756598",
@@ -709,7 +738,8 @@
       "price": {
         "current": 629.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "324808968",
@@ -730,7 +760,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "337521623",
@@ -751,7 +782,8 @@
       "price": {
         "current": 1899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "318964392",
@@ -772,7 +804,8 @@
       "price": {
         "current": 29.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "327585040",
@@ -793,7 +826,8 @@
       "price": {
         "current": 49.88,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "335978390",
@@ -814,7 +848,8 @@
       "price": {
         "current": 42.94,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "331727075",
@@ -835,7 +870,8 @@
       "price": {
         "current": 73.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "318580448",
@@ -856,7 +892,8 @@
       "price": {
         "current": 49.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "325354296",
@@ -877,7 +914,8 @@
       "price": {
         "current": 49.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wire Cable"
     },
     {
       "productId": "100180324",
@@ -898,7 +936,8 @@
       "price": {
         "current": 2.57,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wall Plates"
     }
   ]
 }

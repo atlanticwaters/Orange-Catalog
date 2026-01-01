@@ -100,7 +100,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "206086636",
@@ -121,7 +122,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "337338562",
@@ -142,7 +144,8 @@
       "price": {
         "current": 4084.51,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "337338600",
@@ -163,7 +166,8 @@
       "price": {
         "current": 4022.5,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "314655646",
@@ -184,7 +188,8 @@
       "price": {
         "current": 1953.75,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "304083114",
@@ -205,7 +210,8 @@
       "price": {
         "current": 279.2,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "207167048",
@@ -226,7 +232,8 @@
       "price": {
         "current": 280.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "326546605",
@@ -247,7 +254,8 @@
       "price": {
         "current": 801.57,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "328485052",
@@ -268,7 +276,8 @@
       "price": {
         "current": 406.33,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "308804306",
@@ -289,7 +298,8 @@
       "price": {
         "current": 3099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wall Ovens"
     },
     {
       "productId": "324905770",
@@ -310,7 +320,8 @@
       "price": {
         "current": 2399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Wall Ovens"
     },
     {
       "productId": "205591630",
@@ -331,7 +342,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "331519433",
@@ -352,7 +364,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "330799262",
@@ -373,7 +386,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "304770655",
@@ -394,7 +408,8 @@
       "price": {
         "current": 469.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "331519406",
@@ -415,7 +430,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "336136522",
@@ -436,7 +452,8 @@
       "price": {
         "current": 59.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "205373458",
@@ -457,7 +474,8 @@
       "price": {
         "current": 3999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "338472247",
@@ -478,7 +496,8 @@
       "price": {
         "current": 4799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "330557133",
@@ -499,7 +518,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "314298606",
@@ -520,7 +540,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "329241860",
@@ -541,7 +562,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "330817229",
@@ -562,7 +584,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "336625538",
@@ -583,7 +606,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "318382844",
@@ -604,7 +628,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "317964308",
@@ -625,7 +650,8 @@
       "price": {
         "current": 379.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "316122444",
@@ -646,7 +672,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "316123462",
@@ -667,7 +694,8 @@
       "price": {
         "current": 2879.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "325720849",
@@ -688,7 +716,8 @@
       "price": {
         "current": 559.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "335138985",
@@ -709,7 +738,8 @@
       "price": {
         "current": 209.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "300509606",
@@ -730,7 +760,8 @@
       "price": {
         "current": 539.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "312892681",
@@ -751,7 +782,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Beverage Coolers"
     },
     {
       "productId": "319713490",
@@ -772,7 +804,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "333915143",
@@ -793,7 +826,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "321546266",
@@ -814,7 +848,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "100520395",
@@ -835,7 +870,8 @@
       "price": {
         "current": 19.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "202650894",
@@ -856,7 +892,8 @@
       "price": {
         "current": 29.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "304006023",
@@ -877,7 +914,8 @@
       "price": {
         "current": 99.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "100021159",
@@ -898,7 +936,8 @@
       "price": {
         "current": 22.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "304795071",
@@ -919,7 +958,8 @@
       "price": {
         "current": 124.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "202077241",
@@ -940,7 +980,8 @@
       "price": {
         "current": 109.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "100021371",
@@ -961,7 +1002,8 @@
       "price": {
         "current": 18.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "316514940",
@@ -982,7 +1024,8 @@
       "price": {
         "current": 59.88,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "337674760",
@@ -1003,7 +1046,8 @@
       "price": {
         "current": 90.77,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "337674754",
@@ -1024,7 +1068,8 @@
       "price": {
         "current": 101.34,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "202043806",
@@ -1045,7 +1090,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "313725452",
@@ -1066,7 +1112,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "337113487",
@@ -1087,7 +1134,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "308343494",
@@ -1108,7 +1156,8 @@
       "price": {
         "current": 109.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "322514985",
@@ -1129,7 +1178,8 @@
       "price": {
         "current": 123.95,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "338943726",
@@ -1150,7 +1200,8 @@
       "price": {
         "current": 139.95,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "320576036",
@@ -1171,7 +1222,8 @@
       "price": {
         "current": 65.95,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "203656953",
@@ -1192,7 +1244,8 @@
       "price": {
         "current": 79.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "312370596",
@@ -1213,7 +1266,8 @@
       "price": {
         "current": 819.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "336958835",
@@ -1234,7 +1288,8 @@
       "price": {
         "current": 608.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "206888282",
@@ -1255,7 +1310,8 @@
       "price": {
         "current": 620.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "322970131",
@@ -1276,7 +1332,8 @@
       "price": {
         "current": 159.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "323516650",
@@ -1297,7 +1354,8 @@
       "price": {
         "current": 969.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "308788763",
@@ -1318,7 +1376,8 @@
       "price": {
         "current": 189.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "337585009",
@@ -1339,7 +1398,8 @@
       "price": {
         "current": 314.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "322879733",
@@ -1360,7 +1420,8 @@
       "price": {
         "current": 527.54,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "321382721",
@@ -1381,7 +1442,8 @@
       "price": {
         "current": 530.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "329658550",
@@ -1402,7 +1464,8 @@
       "price": {
         "current": 459.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "322054995",
@@ -1423,7 +1486,8 @@
       "price": {
         "current": 1189.15,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "307360818",
@@ -1444,7 +1508,8 @@
       "price": {
         "current": 299.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "329652922",
@@ -1465,7 +1530,8 @@
       "price": {
         "current": 359.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "310402781",
@@ -1486,7 +1552,8 @@
       "price": {
         "current": 399.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "206686542",
@@ -1507,13 +1574,14 @@
       "price": {
         "current": 234.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "310477750",
       "modelNumber": "",
       "brand": "Home Beyond",
-      "title": "28 in. 600 CFM Insert/Built-in Range Hood with Baffle Filters LED Lights 3-Speed \u200b\u200bControl in Stainless Steel",
+      "title": "28 in. 600 CFM Insert/Built-in Range Hood with Baffle Filters LED Lights 3-Speed ​​Control in Stainless Steel",
       "rating": {
         "average": 4.0273,
         "count": 110
@@ -1528,7 +1596,8 @@
       "price": {
         "current": 196.86,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "307287875",
@@ -1549,7 +1618,8 @@
       "price": {
         "current": 199.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "206888286",
@@ -1570,7 +1640,8 @@
       "price": {
         "current": 764.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "306728093",
@@ -1591,7 +1662,8 @@
       "price": {
         "current": 989.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "322658790",
@@ -1612,7 +1684,8 @@
       "price": {
         "current": 659.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "321421319",
@@ -1633,7 +1706,8 @@
       "price": {
         "current": 359.27,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "206888298",
@@ -1654,7 +1728,8 @@
       "price": {
         "current": 1071.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "312176349",
@@ -1675,7 +1750,8 @@
       "price": {
         "current": 1079.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "312320490",
@@ -1696,7 +1772,8 @@
       "price": {
         "current": 962.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "306526719",
@@ -1717,7 +1794,8 @@
       "price": {
         "current": 135.78,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "339349635",
@@ -1738,7 +1816,8 @@
       "price": {
         "current": 3365.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Range Hoods"
     },
     {
       "productId": "302260301",
@@ -1759,7 +1838,8 @@
       "price": {
         "current": 479.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "331740741",
@@ -1780,7 +1860,8 @@
       "price": {
         "current": 569.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "329011820",
@@ -1801,7 +1882,8 @@
       "price": {
         "current": 929.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "206943135",
@@ -1822,7 +1904,8 @@
       "price": {
         "current": 979.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "327655800",
@@ -1843,7 +1926,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "329371842",
@@ -1864,7 +1948,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "204394354",
@@ -1885,7 +1970,8 @@
       "price": {
         "current": 389.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "321666159",
@@ -1906,7 +1992,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "207025738",
@@ -1927,7 +2014,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "207025745",
@@ -1948,7 +2036,8 @@
       "price": {
         "current": 569.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "321606321",
@@ -1969,7 +2058,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "322177903",
@@ -1990,7 +2080,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "331628911",
@@ -2011,7 +2102,8 @@
       "price": {
         "current": 319.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "312751901",
@@ -2032,7 +2124,8 @@
       "price": {
         "current": 248.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "328468103",
@@ -2053,7 +2146,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "322477687",
@@ -2074,7 +2168,8 @@
       "price": {
         "current": 379.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "206214752",
@@ -2095,7 +2190,8 @@
       "price": {
         "current": 719.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "321486132",
@@ -2116,7 +2212,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "316251670",
@@ -2137,7 +2234,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "319881533",
@@ -2158,7 +2256,8 @@
       "price": {
         "current": 809.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "328468133",
@@ -2179,7 +2278,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "329855723",
@@ -2200,7 +2300,8 @@
       "price": {
         "current": 41.77,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "205829437",
@@ -2221,7 +2322,8 @@
       "price": {
         "current": 43.26,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "205829435",
@@ -2242,7 +2344,8 @@
       "price": {
         "current": 46.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "326602717",
@@ -2263,7 +2366,8 @@
       "price": {
         "current": 32.81,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "332083733",
@@ -2284,7 +2388,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "330320097",
@@ -2305,7 +2410,8 @@
       "price": {
         "current": 68.88,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "330320124",
@@ -2326,7 +2432,8 @@
       "price": {
         "current": 68.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "202575148",
@@ -2347,7 +2454,8 @@
       "price": {
         "current": 6450.42,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ranges"
     },
     {
       "productId": "324668085",
@@ -2368,7 +2476,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328419334",
@@ -2389,7 +2498,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325116673",
@@ -2410,7 +2520,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333664339",
@@ -2431,7 +2542,8 @@
       "price": {
         "current": 899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312440202",
@@ -2452,7 +2564,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333154943",
@@ -2473,7 +2586,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "338275591",
@@ -2494,7 +2608,8 @@
       "price": {
         "current": 1698.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425526",
@@ -2515,7 +2630,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "338671758",
@@ -2536,7 +2652,8 @@
       "price": {
         "current": 2598.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312440061",
@@ -2557,7 +2674,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316391992",
@@ -2578,7 +2696,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312440135",
@@ -2599,7 +2718,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339378302",
@@ -2620,7 +2740,8 @@
       "price": {
         "current": 1098.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336672158",
@@ -2641,7 +2762,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "338168555",
@@ -2662,7 +2784,8 @@
       "price": {
         "current": 1198.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314103811",
@@ -2683,7 +2806,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "338658986",
@@ -2704,7 +2828,8 @@
       "price": {
         "current": 1458.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312399923",
@@ -2725,7 +2850,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425540",
@@ -2746,7 +2872,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "338275592",
@@ -2767,7 +2894,8 @@
       "price": {
         "current": 1258.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425422",
@@ -2788,7 +2916,8 @@
       "price": {
         "current": 629.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339174352",
@@ -2809,7 +2938,8 @@
       "price": {
         "current": 2398.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339174346",
@@ -2830,7 +2960,8 @@
       "price": {
         "current": 1358.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314312141",
@@ -2851,7 +2982,8 @@
       "price": {
         "current": 679.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "338168559",
@@ -2872,7 +3004,8 @@
       "price": {
         "current": 1168.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "321151188",
@@ -2893,7 +3026,8 @@
       "price": {
         "current": 589.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "338168554",
@@ -2914,7 +3048,8 @@
       "price": {
         "current": 1398.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328952859",
@@ -2935,7 +3070,8 @@
       "price": {
         "current": 1049.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312429301",
@@ -2956,7 +3092,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "326330162",
@@ -2977,7 +3114,8 @@
       "price": {
         "current": 4695.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312481993",
@@ -2998,7 +3136,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331303423",
@@ -3019,7 +3158,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "327850792",
@@ -3040,7 +3180,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "311970319",
@@ -3061,7 +3202,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "307760461",
@@ -3082,7 +3224,8 @@
       "price": {
         "current": 1169.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "321121005",
@@ -3103,7 +3246,8 @@
       "price": {
         "current": 1389.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316457781",
@@ -3124,7 +3268,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312113737",
@@ -3145,7 +3290,8 @@
       "price": {
         "current": 899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "318060806",
@@ -3166,7 +3312,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331305149",
@@ -3187,7 +3334,8 @@
       "price": {
         "current": 1179.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336324776",
@@ -3208,7 +3356,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328941649",
@@ -3229,7 +3378,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329914745",
@@ -3250,7 +3400,8 @@
       "price": {
         "current": 1999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329914713",
@@ -3271,7 +3422,8 @@
       "price": {
         "current": 1549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334223018",
@@ -3292,7 +3444,8 @@
       "price": {
         "current": 899.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334340613",
@@ -3313,7 +3466,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312831101",
@@ -3334,7 +3488,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "326371003",
@@ -3355,7 +3510,8 @@
       "price": {
         "current": 1059.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "323975827",
@@ -3376,7 +3532,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "308241988",
@@ -3397,7 +3554,8 @@
       "price": {
         "current": 1439.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "323095588",
@@ -3418,7 +3576,8 @@
       "price": {
         "current": 1169.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317722837",
@@ -3439,7 +3598,8 @@
       "price": {
         "current": 1715.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "301844420",
@@ -3460,7 +3620,8 @@
       "price": {
         "current": 1189.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320703807",
@@ -3481,7 +3642,8 @@
       "price": {
         "current": 989.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316226646",
@@ -3502,7 +3664,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331100893",
@@ -3523,7 +3686,8 @@
       "price": {
         "current": 1438.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334340611",
@@ -3544,7 +3708,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320094443",
@@ -3565,7 +3730,8 @@
       "price": {
         "current": 469.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329914666",
@@ -3586,7 +3752,8 @@
       "price": {
         "current": 1549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329914694",
@@ -3607,7 +3774,8 @@
       "price": {
         "current": 1999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "308910839",
@@ -3628,7 +3796,8 @@
       "price": {
         "current": 755.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312839622",
@@ -3649,7 +3818,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334222999",
@@ -3670,7 +3840,8 @@
       "price": {
         "current": 899.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "319067294",
@@ -3691,7 +3862,8 @@
       "price": {
         "current": 460.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334839282",
@@ -3712,7 +3884,8 @@
       "price": {
         "current": 230.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "305143823",
@@ -3733,7 +3906,8 @@
       "price": {
         "current": 989.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "305143814",
@@ -3754,7 +3928,8 @@
       "price": {
         "current": 989.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316311422",
@@ -3775,7 +3950,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331934757",
@@ -3796,7 +3972,8 @@
       "price": {
         "current": 307.38,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324471200",
@@ -3817,7 +3994,8 @@
       "price": {
         "current": 1539.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333240637",
@@ -3838,7 +4016,8 @@
       "price": {
         "current": 1189.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331884503",
@@ -3859,13 +4038,14 @@
       "price": {
         "current": 1569.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "332842317",
       "modelNumber": "",
       "brand": "Unknown",
-      "title": "2.0 cu. ft. \u200bElectric All-in-One Washer Dryer Combo in White with Built-in Drain Pump",
+      "title": "2.0 cu. ft. ​Electric All-in-One Washer Dryer Combo in White with Built-in Drain Pump",
       "rating": {
         "average": 1.5,
         "count": 2
@@ -3880,7 +4060,8 @@
       "price": {
         "current": 199.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "332981540",
@@ -3901,7 +4082,8 @@
       "price": {
         "current": 1749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "332071551",
@@ -3922,7 +4104,8 @@
       "price": {
         "current": 169.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331104252",
@@ -3943,7 +4126,8 @@
       "price": {
         "current": 1572.06,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331822133",
@@ -3964,7 +4148,8 @@
       "price": {
         "current": 1559.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329500038",
@@ -3985,7 +4170,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425556",
@@ -4006,7 +4192,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328402067",
@@ -4027,7 +4214,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325807971",
@@ -4048,7 +4236,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312441660",
@@ -4069,7 +4258,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329499484",
@@ -4090,7 +4280,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333155096",
@@ -4111,7 +4302,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317914032",
@@ -4132,7 +4324,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325808129",
@@ -4153,7 +4346,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320119258",
@@ -4174,7 +4368,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "322117741",
@@ -4195,7 +4390,8 @@
       "price": {
         "current": 899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329888136",
@@ -4216,7 +4412,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "337058792",
@@ -4237,7 +4434,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329510245",
@@ -4258,7 +4456,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325807923",
@@ -4279,7 +4478,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317914041",
@@ -4300,7 +4500,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "318069436",
@@ -4321,7 +4522,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "337059101",
@@ -4342,7 +4544,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320119266",
@@ -4363,7 +4566,8 @@
       "price": {
         "current": 944.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336324885",
@@ -4384,7 +4588,8 @@
       "price": {
         "current": 1049.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334230788",
@@ -4405,7 +4610,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336671625",
@@ -4426,7 +4632,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425475",
@@ -4447,7 +4654,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317842096",
@@ -4468,7 +4676,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425489",
@@ -4489,7 +4698,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324433017",
@@ -4510,7 +4720,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336671643",
@@ -4531,7 +4742,8 @@
       "price": {
         "current": 579.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325747377",
@@ -4552,7 +4764,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329517654",
@@ -4573,7 +4786,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "315972136",
@@ -4594,7 +4808,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316091585",
@@ -4615,7 +4830,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329518900",
@@ -4636,7 +4852,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "337059133",
@@ -4657,7 +4874,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "322095082",
@@ -4678,7 +4896,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325094991",
@@ -4699,7 +4918,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328402102",
@@ -4720,7 +4940,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "326960013",
@@ -4741,7 +4962,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333155397",
@@ -4762,7 +4984,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "305303724",
@@ -4783,7 +5006,8 @@
       "price": {
         "current": 14.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331824637",
@@ -4804,7 +5028,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "319615947",
@@ -4825,7 +5050,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320703574",
@@ -4846,7 +5072,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425580",
@@ -4867,7 +5094,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "319615951",
@@ -4888,7 +5116,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "321236004",
@@ -4909,7 +5138,8 @@
       "price": {
         "current": 579.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336671674",
@@ -4930,7 +5160,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314103818",
@@ -4951,7 +5182,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329523260",
@@ -4972,7 +5204,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324433081",
@@ -4993,7 +5226,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314312330",
@@ -5014,7 +5248,8 @@
       "price": {
         "current": 679.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333664400",
@@ -5035,7 +5270,8 @@
       "price": {
         "current": 899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425448",
@@ -5056,7 +5292,8 @@
       "price": {
         "current": 629.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317651326",
@@ -5077,7 +5314,8 @@
       "price": {
         "current": 1049.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425504",
@@ -5098,7 +5336,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331824392",
@@ -5119,7 +5358,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "206029544",
@@ -5140,7 +5380,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325808136",
@@ -5161,7 +5402,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325807880",
@@ -5182,7 +5424,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333155940",
@@ -5203,7 +5446,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425596",
@@ -5224,7 +5468,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "326999948",
@@ -5245,7 +5490,8 @@
       "price": {
         "current": 251.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "327644077",
@@ -5266,7 +5512,8 @@
       "price": {
         "current": 179.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "308705002",
@@ -5287,7 +5534,8 @@
       "price": {
         "current": 219.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "304851092",
@@ -5308,7 +5556,8 @@
       "price": {
         "current": 181.25,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329444998",
@@ -5329,7 +5578,8 @@
       "price": {
         "current": 225.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334957520",
@@ -5350,7 +5600,8 @@
       "price": {
         "current": 179.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328937450",
@@ -5371,7 +5622,8 @@
       "price": {
         "current": 262.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "313600788",
@@ -5392,7 +5644,8 @@
       "price": {
         "current": 186.55,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331188774",
@@ -5413,7 +5666,8 @@
       "price": {
         "current": 1469.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "323863738",
@@ -5434,7 +5688,8 @@
       "price": {
         "current": 307.66,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328846162",
@@ -5455,7 +5710,8 @@
       "price": {
         "current": 1109.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325887821",
@@ -5476,7 +5732,8 @@
       "price": {
         "current": 275.51,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328764051",
@@ -5497,7 +5754,8 @@
       "price": {
         "current": 253.22,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312563953",
@@ -5518,7 +5776,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "337057054",
@@ -5539,7 +5798,8 @@
       "price": {
         "current": 1049.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320061862",
@@ -5560,7 +5820,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "318268534",
@@ -5581,7 +5842,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "326536621",
@@ -5602,7 +5864,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333663834",
@@ -5623,7 +5886,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324295999",
@@ -5644,7 +5908,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "322728196",
@@ -5665,7 +5930,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "318268649",
@@ -5686,7 +5952,8 @@
       "price": {
         "current": 1249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "322848196",
@@ -5707,7 +5974,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "319067236",
@@ -5728,7 +5996,8 @@
       "price": {
         "current": 365.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "335298676",
@@ -5749,7 +6018,8 @@
       "price": {
         "current": 169.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320326858",
@@ -5770,7 +6040,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "206182032",
@@ -5791,7 +6062,8 @@
       "price": {
         "current": 355.06,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "313825920",
@@ -5812,7 +6084,8 @@
       "price": {
         "current": 170.71,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "330256691",
@@ -5833,7 +6106,8 @@
       "price": {
         "current": 192.47,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324375872",
@@ -5854,7 +6128,8 @@
       "price": {
         "current": 192.92,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "313624187",
@@ -5875,7 +6150,8 @@
       "price": {
         "current": 318.01,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325110097",
@@ -5896,7 +6172,8 @@
       "price": {
         "current": 435.7,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "334839275",
@@ -5917,7 +6194,8 @@
       "price": {
         "current": 187.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336442814",
@@ -5938,7 +6216,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "321461496",
@@ -5959,7 +6238,8 @@
       "price": {
         "current": 166.37,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "310850820",
@@ -5980,7 +6260,8 @@
       "price": {
         "current": 989.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "321716422",
@@ -6001,7 +6282,8 @@
       "price": {
         "current": 221.22,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "332444578",
@@ -6022,7 +6304,8 @@
       "price": {
         "current": 236.17,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339174444",
@@ -6043,7 +6326,8 @@
       "price": {
         "current": 1228.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "337505316",
@@ -6064,7 +6348,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333251450",
@@ -6085,7 +6370,8 @@
       "price": {
         "current": 699.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325747416",
@@ -6106,7 +6392,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "313660074",
@@ -6127,7 +6414,8 @@
       "price": {
         "current": 2556.51,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "332581796",
@@ -6148,7 +6436,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "318281044",
@@ -6169,7 +6458,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "315973682",
@@ -6190,7 +6480,8 @@
       "price": {
         "current": 629.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "318404345",
@@ -6211,7 +6502,8 @@
       "price": {
         "current": 199.76,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317394717",
@@ -6232,7 +6524,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "318111059",
@@ -6253,7 +6546,8 @@
       "price": {
         "current": 1678.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312440161",
@@ -6274,7 +6568,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339174355",
@@ -6295,7 +6590,8 @@
       "price": {
         "current": 1458.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "340276772",
@@ -6316,7 +6612,8 @@
       "price": {
         "current": 2298.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "340276784",
@@ -6337,7 +6634,8 @@
       "price": {
         "current": 2398.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339174347",
@@ -6358,7 +6656,8 @@
       "price": {
         "current": 1998.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339174356",
@@ -6379,7 +6678,8 @@
       "price": {
         "current": 1598.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339682824",
@@ -6400,7 +6700,8 @@
       "price": {
         "current": 2098.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "308692728",
@@ -6421,7 +6722,8 @@
       "price": {
         "current": 1124.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333627091",
@@ -6442,7 +6744,8 @@
       "price": {
         "current": 279.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "323095575",
@@ -6463,7 +6766,8 @@
       "price": {
         "current": 989.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "301135032",
@@ -6484,7 +6788,8 @@
       "price": {
         "current": 420.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331421184",
@@ -6505,7 +6810,8 @@
       "price": {
         "current": 229.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "305517758",
@@ -6526,7 +6832,8 @@
       "price": {
         "current": 389.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "100091470",
@@ -6547,7 +6854,8 @@
       "price": {
         "current": 719.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "313784115",
@@ -6568,7 +6876,8 @@
       "price": {
         "current": 399.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "335020139",
@@ -6589,7 +6898,8 @@
       "price": {
         "current": 239.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "330159448",
@@ -6610,7 +6920,8 @@
       "price": {
         "current": 229.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314191827",
@@ -6631,7 +6942,8 @@
       "price": {
         "current": 380.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331421195",
@@ -6652,7 +6964,8 @@
       "price": {
         "current": 279.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316069461",
@@ -6673,7 +6986,8 @@
       "price": {
         "current": 279.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "100087017",
@@ -6694,7 +7008,8 @@
       "price": {
         "current": 719.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328500412",
@@ -6715,7 +7030,8 @@
       "price": {
         "current": 256.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "100089048",
@@ -6736,13 +7052,14 @@
       "price": {
         "current": 719.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "205685266",
       "modelNumber": "",
       "brand": "Rain-X",
-      "title": "128 fl. oz. 0\u00b0 All Season Windshield Washer Fluid",
+      "title": "128 fl. oz. 0° All Season Windshield Washer Fluid",
       "rating": {
         "average": 4.7172,
         "count": 290
@@ -6757,7 +7074,8 @@
       "price": {
         "current": 4.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312429905",
@@ -6778,7 +7096,8 @@
       "price": {
         "current": 829.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "321236230",
@@ -6799,7 +7118,8 @@
       "price": {
         "current": 679.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "336671694",
@@ -6820,7 +7140,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329523360",
@@ -6841,7 +7162,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324433037",
@@ -6862,7 +7184,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425543",
@@ -6883,7 +7206,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314328213",
@@ -6904,7 +7228,8 @@
       "price": {
         "current": 779.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425514",
@@ -6925,7 +7250,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314103826",
@@ -6946,7 +7272,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325807940",
@@ -6967,7 +7294,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317651335",
@@ -6988,7 +7316,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "333664427",
@@ -7009,7 +7338,8 @@
       "price": {
         "current": 989.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "319615854",
@@ -7030,7 +7360,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "206029545",
@@ -7051,7 +7382,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320062027",
@@ -7072,7 +7404,8 @@
       "price": {
         "current": 1449.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425454",
@@ -7093,7 +7426,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328425608",
@@ -7114,7 +7448,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331825230",
@@ -7135,7 +7470,8 @@
       "price": {
         "current": 829.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "337057930",
@@ -7156,7 +7492,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320703073",
@@ -7177,7 +7514,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325807913",
@@ -7198,7 +7536,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "329478525",
@@ -7219,7 +7558,8 @@
       "price": {
         "current": 764.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "325808144",
@@ -7240,7 +7580,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "339378264",
@@ -7261,7 +7602,8 @@
       "price": {
         "current": 1098.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "303516041",
@@ -7282,7 +7624,8 @@
       "price": {
         "current": 1649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "303516039",
@@ -7303,7 +7646,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312751609",
@@ -7324,7 +7668,8 @@
       "price": {
         "current": 1599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316392431",
@@ -7345,7 +7690,8 @@
       "price": {
         "current": 2799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316393269",
@@ -7366,7 +7712,8 @@
       "price": {
         "current": 2599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "304290535",
@@ -7387,7 +7734,8 @@
       "price": {
         "current": 1249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "327042335",
@@ -7408,7 +7756,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "303516040",
@@ -7429,7 +7778,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "314744262",
@@ -7450,7 +7800,8 @@
       "price": {
         "current": 2299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "316393392",
@@ -7471,7 +7822,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324801267",
@@ -7492,7 +7844,8 @@
       "price": {
         "current": 2399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "327041191",
@@ -7513,7 +7866,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "304491410",
@@ -7534,7 +7888,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328507711",
@@ -7555,7 +7910,8 @@
       "price": {
         "current": 3399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "312758394",
@@ -7576,7 +7932,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324806243",
@@ -7597,7 +7954,8 @@
       "price": {
         "current": 3199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "308804554",
@@ -7618,7 +7976,8 @@
       "price": {
         "current": 1574.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "324805753",
@@ -7639,7 +7998,8 @@
       "price": {
         "current": 2499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328419308",
@@ -7660,7 +8020,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "320487749",
@@ -7681,7 +8042,8 @@
       "price": {
         "current": 1649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "328419310",
@@ -7702,7 +8064,8 @@
       "price": {
         "current": 2199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "313659206",
@@ -7723,7 +8086,8 @@
       "price": {
         "current": 4876.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "317029917",
@@ -7744,7 +8108,8 @@
       "price": {
         "current": 1899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "100671461",
@@ -7765,7 +8130,8 @@
       "price": {
         "current": 147.02,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Washers Dryers"
     },
     {
       "productId": "331932208",
@@ -7786,7 +8152,8 @@
       "price": {
         "current": 248.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Air Conditioners"
     },
     {
       "productId": "327450112",
@@ -7807,7 +8174,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Air Conditioners"
     },
     {
       "productId": "333099408",
@@ -7828,7 +8196,8 @@
       "price": {
         "current": 282.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Air Conditioners"
     },
     {
       "productId": "328670096",
@@ -7849,7 +8218,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     },
     {
       "productId": "323664615",
@@ -7870,7 +8240,8 @@
       "price": {
         "current": 2429.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     },
     {
       "productId": "327754403",
@@ -7891,7 +8262,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     },
     {
       "productId": "305455086",
@@ -7912,7 +8284,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     },
     {
       "productId": "324849975",
@@ -7933,7 +8306,8 @@
       "price": {
         "current": 2399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "321887244",
@@ -7954,7 +8328,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "332464407",
@@ -7975,7 +8350,8 @@
       "price": {
         "current": 3959.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "322717415",
@@ -7996,7 +8372,8 @@
       "price": {
         "current": 3799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "316896170",
@@ -8017,7 +8394,8 @@
       "price": {
         "current": 3059.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "316895522",
@@ -8038,7 +8416,8 @@
       "price": {
         "current": 3489.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "332164108",
@@ -8059,7 +8438,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "327865243",
@@ -8080,7 +8460,8 @@
       "price": {
         "current": 999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "335353977",
@@ -8101,7 +8482,8 @@
       "price": {
         "current": 7359.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "334664122",
@@ -8122,7 +8504,8 @@
       "price": {
         "current": 2799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "333940126",
@@ -8143,7 +8526,8 @@
       "price": {
         "current": 3959.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "332465544",
@@ -8164,7 +8548,8 @@
       "price": {
         "current": 4139.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "325590289",
@@ -8185,7 +8570,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "317602290",
@@ -8206,7 +8592,8 @@
       "price": {
         "current": 869.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "317602506",
@@ -8227,7 +8614,8 @@
       "price": {
         "current": 1119.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "330243877",
@@ -8248,7 +8636,8 @@
       "price": {
         "current": 1079.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "311372548",
@@ -8269,7 +8658,8 @@
       "price": {
         "current": 679.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "310534496",
@@ -8290,7 +8680,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "317602480",
@@ -8311,7 +8702,8 @@
       "price": {
         "current": 969.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "315858281",
@@ -8332,7 +8724,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "317041849",
@@ -8353,7 +8746,8 @@
       "price": {
         "current": 1249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "317876230",
@@ -8374,7 +8768,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "337556967",
@@ -8395,7 +8790,8 @@
       "price": {
         "current": 529.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "325522941",
@@ -8416,7 +8812,8 @@
       "price": {
         "current": 355.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "326103670",
@@ -8437,7 +8834,8 @@
       "price": {
         "current": 429.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "324953094",
@@ -8458,7 +8856,8 @@
       "price": {
         "current": 436.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "320488529",
@@ -8479,7 +8878,8 @@
       "price": {
         "current": 209.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "326580232",
@@ -8500,7 +8900,8 @@
       "price": {
         "current": 439.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "321511605",
@@ -8521,7 +8922,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "321511603",
@@ -8542,7 +8944,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "326067211",
@@ -8563,7 +8966,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "206577650",
@@ -8584,7 +8988,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "306116684",
@@ -8605,7 +9010,8 @@
       "price": {
         "current": 134.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "324538096",
@@ -8626,7 +9032,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "326067216",
@@ -8647,7 +9054,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "324538076",
@@ -8668,7 +9076,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "326967134",
@@ -8689,7 +9098,8 @@
       "price": {
         "current": 153.58,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "300278672",
@@ -8710,7 +9120,8 @@
       "price": {
         "current": 138.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "326967135",
@@ -8731,7 +9142,8 @@
       "price": {
         "current": 296.65,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "300278660",
@@ -8752,7 +9164,8 @@
       "price": {
         "current": 102.6,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "328985143",
@@ -8773,7 +9186,8 @@
       "price": {
         "current": 189.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "302453560",
@@ -8794,7 +9208,8 @@
       "price": {
         "current": 177.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "100091168",
@@ -8815,7 +9230,8 @@
       "price": {
         "current": 116.4,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "328971171",
@@ -8836,7 +9252,8 @@
       "price": {
         "current": 289.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Garbage Disposals"
     },
     {
       "productId": "315493213",
@@ -8857,7 +9274,8 @@
       "price": {
         "current": 29.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Fans"
     },
     {
       "productId": "318754250",
@@ -8878,7 +9296,8 @@
       "price": {
         "current": 59.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Fans"
     },
     {
       "productId": "330548599",
@@ -8899,7 +9318,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Fans"
     },
     {
       "productId": "332298926",
@@ -8920,7 +9340,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "331740898",
@@ -8941,7 +9362,8 @@
       "price": {
         "current": 3609.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "328877543",
@@ -8962,7 +9384,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "333484523",
@@ -8983,7 +9406,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "338976899",
@@ -9004,7 +9428,8 @@
       "price": {
         "current": 2749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "308674577",
@@ -9025,7 +9450,8 @@
       "price": {
         "current": 2469.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "308704441",
@@ -9046,7 +9472,8 @@
       "price": {
         "current": 2339.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "337499479",
@@ -9067,7 +9494,8 @@
       "price": {
         "current": 220.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "315779324",
@@ -9088,7 +9516,8 @@
       "price": {
         "current": 1999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "320324360",
@@ -9109,7 +9538,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "308704353",
@@ -9130,7 +9560,8 @@
       "price": {
         "current": 2019.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "333535381",
@@ -9151,7 +9582,8 @@
       "price": {
         "current": 169.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "328501726",
@@ -9172,7 +9604,8 @@
       "price": {
         "current": 889.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "308703944",
@@ -9193,7 +9626,8 @@
       "price": {
         "current": 2829.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "336320655",
@@ -9214,7 +9648,8 @@
       "price": {
         "current": 49.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "332477067",
@@ -9235,7 +9670,8 @@
       "price": {
         "current": 271.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "333535410",
@@ -9256,7 +9692,8 @@
       "price": {
         "current": 199.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "334736658",
@@ -9277,7 +9714,8 @@
       "price": {
         "current": 2719.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "336212327",
@@ -9298,7 +9736,8 @@
       "price": {
         "current": 609.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "336337079",
@@ -9319,7 +9758,8 @@
       "price": {
         "current": 339.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "334736604",
@@ -9340,7 +9780,8 @@
       "price": {
         "current": 2464.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "312582884",
@@ -9361,7 +9802,8 @@
       "price": {
         "current": 1139.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "326504176",
@@ -9382,7 +9824,8 @@
       "price": {
         "current": 239.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Ice Makers"
     },
     {
       "productId": "325646357",
@@ -9403,7 +9846,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "329741097",
@@ -9424,7 +9868,8 @@
       "price": {
         "current": 3699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "205744994",
@@ -9445,7 +9890,8 @@
       "price": {
         "current": 2798.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "312423329",
@@ -9466,7 +9912,8 @@
       "price": {
         "current": 1104.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "316536615",
@@ -9487,7 +9934,8 @@
       "price": {
         "current": 2569.85,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "303841965",
@@ -9508,7 +9956,8 @@
       "price": {
         "current": 1800.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "206891678",
@@ -9529,7 +9978,8 @@
       "price": {
         "current": 1978.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "315174233",
@@ -9550,7 +10000,8 @@
       "price": {
         "current": 7599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "328911465",
@@ -9571,7 +10022,8 @@
       "price": {
         "current": 5232.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "335371260",
@@ -9592,7 +10044,8 @@
       "price": {
         "current": 6799.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "326514167",
@@ -9613,7 +10066,8 @@
       "price": {
         "current": 1081.52,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "335371725",
@@ -9634,7 +10088,8 @@
       "price": {
         "current": 7599.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "313478837",
@@ -9655,7 +10110,8 @@
       "price": {
         "current": 764.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "316616709",
@@ -9676,7 +10132,8 @@
       "price": {
         "current": 3312.18,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "335722568",
@@ -9697,7 +10154,8 @@
       "price": {
         "current": 7199.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "316803824",
@@ -9718,7 +10176,8 @@
       "price": {
         "current": 756.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "328264448",
@@ -9739,7 +10198,8 @@
       "price": {
         "current": 289.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "328264582",
@@ -9760,7 +10220,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "328264452",
@@ -9781,7 +10242,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "328264450",
@@ -9802,7 +10264,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "328264578",
@@ -9823,7 +10286,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "205508808",
@@ -9844,7 +10308,8 @@
       "price": {
         "current": 629.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "336388931",
@@ -9865,7 +10330,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "336847574",
@@ -9886,7 +10352,8 @@
       "price": {
         "current": 379.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "321204315",
@@ -9907,7 +10374,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "308502681",
@@ -9928,7 +10396,8 @@
       "price": {
         "current": 178.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "302598734",
@@ -9949,7 +10418,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "312512908",
@@ -9970,7 +10440,8 @@
       "price": {
         "current": 1085.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "316146433",
@@ -9991,7 +10462,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "305971708",
@@ -10012,7 +10484,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "328264447",
@@ -10033,7 +10506,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "335811765",
@@ -10054,7 +10528,8 @@
       "price": {
         "current": 1460.47,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "331129515",
@@ -10075,7 +10550,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "320970662",
@@ -10096,7 +10572,8 @@
       "price": {
         "current": 1399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "312283386",
@@ -10117,7 +10594,8 @@
       "price": {
         "current": 1599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "339011919",
@@ -10138,7 +10616,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "320484893",
@@ -10159,7 +10638,8 @@
       "price": {
         "current": 2143.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "302785353",
@@ -10180,7 +10660,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "317987099",
@@ -10201,7 +10682,8 @@
       "price": {
         "current": 1999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "317445728",
@@ -10222,7 +10704,8 @@
       "price": {
         "current": 2599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "315423162",
@@ -10243,7 +10726,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "320928142",
@@ -10264,7 +10748,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "309004718",
@@ -10285,7 +10770,8 @@
       "price": {
         "current": 2069.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "316165079",
@@ -10306,7 +10792,8 @@
       "price": {
         "current": 1249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "315869691",
@@ -10327,7 +10814,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "316379807",
@@ -10348,7 +10836,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "331339601",
@@ -10369,7 +10858,8 @@
       "price": {
         "current": 1599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "312283539",
@@ -10390,7 +10880,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "312283478",
@@ -10411,7 +10902,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "334284479",
@@ -10432,7 +10924,8 @@
       "price": {
         "current": 2349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "316300759",
@@ -10453,7 +10946,8 @@
       "price": {
         "current": 1399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "333982683",
@@ -10474,7 +10968,8 @@
       "price": {
         "current": 1749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "317445512",
@@ -10495,7 +10990,8 @@
       "price": {
         "current": 1899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "329741524",
@@ -10516,7 +11012,8 @@
       "price": {
         "current": 1399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "333713028",
@@ -10537,7 +11034,8 @@
       "price": {
         "current": 2159.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "322015991",
@@ -10558,7 +11056,8 @@
       "price": {
         "current": 9999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "327472387",
@@ -10579,7 +11078,8 @@
       "price": {
         "current": 9989.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "322022366",
@@ -10600,7 +11100,8 @@
       "price": {
         "current": 10709.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "309003622",
@@ -10621,7 +11122,8 @@
       "price": {
         "current": 2199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "312648540",
@@ -10642,7 +11144,8 @@
       "price": {
         "current": 10376.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "303115494",
@@ -10663,7 +11166,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "305505697",
@@ -10684,7 +11188,8 @@
       "price": {
         "current": 1568.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "339349601",
@@ -10705,7 +11210,8 @@
       "price": {
         "current": 1165.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Side By Side"
     },
     {
       "productId": "314983230",
@@ -10726,7 +11232,8 @@
       "price": {
         "current": 349.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "315472312",
@@ -10747,7 +11254,8 @@
       "price": {
         "current": 368.59,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "324722051",
@@ -10768,7 +11276,8 @@
       "price": {
         "current": 369.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "315471317",
@@ -10789,7 +11298,8 @@
       "price": {
         "current": 334.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "315417529",
@@ -10810,7 +11320,8 @@
       "price": {
         "current": 219.68,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "311231763",
@@ -10831,7 +11342,8 @@
       "price": {
         "current": 1088.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "300159571",
@@ -10852,7 +11364,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "319881477",
@@ -10873,7 +11386,8 @@
       "price": {
         "current": 1049.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "311743486",
@@ -10894,7 +11408,8 @@
       "price": {
         "current": 679.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "311743494",
@@ -10915,7 +11430,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "311067745",
@@ -10936,7 +11452,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "319881550",
@@ -10957,7 +11474,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "317013048",
@@ -10978,7 +11496,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "327511518",
@@ -10999,7 +11518,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "310378589",
@@ -11020,7 +11540,8 @@
       "price": {
         "current": 829.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "317013047",
@@ -11041,7 +11562,8 @@
       "price": {
         "current": 569.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "317371475",
@@ -11062,7 +11584,8 @@
       "price": {
         "current": 479.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "329404447",
@@ -11083,7 +11606,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "205658420",
@@ -11104,7 +11628,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "333484522",
@@ -11125,7 +11650,8 @@
       "price": {
         "current": 429.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "313010993",
@@ -11146,7 +11672,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "318850475",
@@ -11167,7 +11694,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "334547478",
@@ -11188,7 +11716,8 @@
       "price": {
         "current": 569.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "317371471",
@@ -11209,7 +11738,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "329103249",
@@ -11230,7 +11760,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "205658160",
@@ -11251,7 +11782,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "334610071",
@@ -11272,7 +11804,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "311770871",
@@ -11293,7 +11826,8 @@
       "price": {
         "current": 629.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "320640466",
@@ -11314,7 +11848,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "312036565",
@@ -11335,7 +11870,8 @@
       "price": {
         "current": 1061.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "205730331",
@@ -11356,7 +11892,8 @@
       "price": {
         "current": 899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "302742982",
@@ -11377,7 +11914,8 @@
       "price": {
         "current": 899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Top Freezer"
     },
     {
       "productId": "338094459",
@@ -11398,7 +11936,8 @@
       "price": {
         "current": 4499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "336451236",
@@ -11419,7 +11958,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "325158253",
@@ -11440,7 +11980,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "320243614",
@@ -11461,7 +12002,8 @@
       "price": {
         "current": 2899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "320243591",
@@ -11482,7 +12024,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "311411352",
@@ -11503,7 +12046,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "322038211",
@@ -11524,7 +12068,8 @@
       "price": {
         "current": 3199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "336350148",
@@ -11545,7 +12090,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "326915683",
@@ -11566,7 +12112,8 @@
       "price": {
         "current": 3699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "206452443",
@@ -11587,7 +12134,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "328604636",
@@ -11608,7 +12156,8 @@
       "price": {
         "current": 1887.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "320628170",
@@ -11629,7 +12178,8 @@
       "price": {
         "current": 3499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "319503107",
@@ -11650,7 +12200,8 @@
       "price": {
         "current": 3399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "329904698",
@@ -11671,7 +12222,8 @@
       "price": {
         "current": 2499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "315868024",
@@ -11692,7 +12244,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "308743988",
@@ -11713,7 +12266,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "320154348",
@@ -11734,7 +12288,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "329624965",
@@ -11755,7 +12310,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "325158262",
@@ -11776,7 +12332,8 @@
       "price": {
         "current": 1999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "319341358",
@@ -11797,7 +12354,8 @@
       "price": {
         "current": 2899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "326915276",
@@ -11818,7 +12376,8 @@
       "price": {
         "current": 1399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "329624985",
@@ -11839,7 +12398,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "317987058",
@@ -11860,7 +12420,8 @@
       "price": {
         "current": 2299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "319503272",
@@ -11881,7 +12442,8 @@
       "price": {
         "current": 3499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "331924086",
@@ -11902,7 +12464,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "310324792",
@@ -11923,7 +12486,8 @@
       "price": {
         "current": 3899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "330043974",
@@ -11944,7 +12508,8 @@
       "price": {
         "current": 2599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "323521042",
@@ -11965,7 +12530,8 @@
       "price": {
         "current": 2499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "207176320",
@@ -11986,7 +12552,8 @@
       "price": {
         "current": 4899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "330429095",
@@ -12007,7 +12574,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "330603800",
@@ -12028,7 +12596,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "205850728",
@@ -12049,7 +12618,8 @@
       "price": {
         "current": 8999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "206268536",
@@ -12070,7 +12640,8 @@
       "price": {
         "current": 2599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "205970003",
@@ -12091,7 +12662,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "206093715",
@@ -12112,7 +12684,8 @@
       "price": {
         "current": 3499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "206020698",
@@ -12133,7 +12706,8 @@
       "price": {
         "current": 2899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "205947723",
@@ -12154,7 +12728,8 @@
       "price": {
         "current": 2069.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "205851263",
@@ -12175,7 +12750,8 @@
       "price": {
         "current": 9359.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "329101029",
@@ -12196,7 +12772,8 @@
       "price": {
         "current": 1549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "336155094",
@@ -12217,7 +12794,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "324695976",
@@ -12238,7 +12816,8 @@
       "price": {
         "current": 1999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "320155533",
@@ -12259,7 +12838,8 @@
       "price": {
         "current": 3299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "329741478",
@@ -12280,7 +12860,8 @@
       "price": {
         "current": 3899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "318953497",
@@ -12301,7 +12882,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "319236498",
@@ -12322,7 +12904,8 @@
       "price": {
         "current": 2299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "326403750",
@@ -12343,7 +12926,8 @@
       "price": {
         "current": 4199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "312648552",
@@ -12364,7 +12948,8 @@
       "price": {
         "current": 3149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "312903946",
@@ -12385,7 +12970,8 @@
       "price": {
         "current": 3329.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "312648559",
@@ -12406,7 +12992,8 @@
       "price": {
         "current": 3509.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "319240389",
@@ -12427,7 +13014,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "319240166",
@@ -12448,7 +13036,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "318840093",
@@ -12469,7 +13058,8 @@
       "price": {
         "current": 1999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "326195120",
@@ -12490,7 +13080,8 @@
       "price": {
         "current": 1399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "331842846",
@@ -12511,7 +13102,8 @@
       "price": {
         "current": 1899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "331921569",
@@ -12532,7 +13124,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "326523737",
@@ -12553,7 +13146,8 @@
       "price": {
         "current": 1599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "305608916",
@@ -12574,7 +13168,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "313803342",
@@ -12595,7 +13190,8 @@
       "price": {
         "current": 1899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "338038883",
@@ -12616,7 +13212,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "332315115",
@@ -12637,7 +13234,8 @@
       "price": {
         "current": 2799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "331905859",
@@ -12658,7 +13256,8 @@
       "price": {
         "current": 2429.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "330622056",
@@ -12679,7 +13278,8 @@
       "price": {
         "current": 2199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "329740394",
@@ -12700,7 +13300,8 @@
       "price": {
         "current": 2699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "302657616",
@@ -12721,7 +13322,8 @@
       "price": {
         "current": 1599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "305470672",
@@ -12742,7 +13344,8 @@
       "price": {
         "current": 2969.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "331267732",
@@ -12763,7 +13366,8 @@
       "price": {
         "current": 4499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "331843319",
@@ -12784,7 +13388,8 @@
       "price": {
         "current": 2159.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "305447143",
@@ -12805,7 +13410,8 @@
       "price": {
         "current": 2879.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "332336317",
@@ -12826,7 +13432,8 @@
       "price": {
         "current": 2069.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "302253240",
@@ -12847,7 +13454,8 @@
       "price": {
         "current": 1899.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "326917144",
@@ -12868,7 +13476,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "304416120",
@@ -12889,7 +13498,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "338102213",
@@ -12910,7 +13520,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "331843223",
@@ -12931,7 +13542,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "338096112",
@@ -12952,7 +13564,8 @@
       "price": {
         "current": 1599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "325139202",
@@ -12973,7 +13586,8 @@
       "price": {
         "current": 735.52,
         "currency": "USD"
-      }
+      },
+      "subcategory": "French Door"
     },
     {
       "productId": "205471286",
@@ -12994,7 +13608,8 @@
       "price": {
         "current": 654.48,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Counter Depth"
     },
     {
       "productId": "333399283",
@@ -13015,7 +13630,8 @@
       "price": {
         "current": 1029.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Counter Depth"
     },
     {
       "productId": "316674409",
@@ -13036,7 +13652,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "330243879",
@@ -13057,7 +13674,8 @@
       "price": {
         "current": 1399.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "205851875",
@@ -13078,7 +13696,8 @@
       "price": {
         "current": 2069.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "205851838",
@@ -13099,7 +13718,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "205850432",
@@ -13120,7 +13740,8 @@
       "price": {
         "current": 8459.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "339035524",
@@ -13141,7 +13762,8 @@
       "price": {
         "current": 9499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "319240123",
@@ -13162,7 +13784,8 @@
       "price": {
         "current": 2299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "205065350",
@@ -13183,7 +13806,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "312284005",
@@ -13204,7 +13828,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "318378032",
@@ -13225,7 +13850,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "205140689",
@@ -13246,7 +13872,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "205065354",
@@ -13267,7 +13894,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "321134198",
@@ -13288,7 +13916,8 @@
       "price": {
         "current": 1299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "300095382",
@@ -13309,7 +13938,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "331029908",
@@ -13330,7 +13960,8 @@
       "price": {
         "current": 1099.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "321261066",
@@ -13351,7 +13982,8 @@
       "price": {
         "current": 2999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "300859005",
@@ -13372,7 +14004,8 @@
       "price": {
         "current": 1439.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "330735940",
@@ -13393,7 +14026,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "330282558",
@@ -13414,7 +14048,8 @@
       "price": {
         "current": 6239.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "335560459",
@@ -13435,7 +14070,8 @@
       "price": {
         "current": 8799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "319236591",
@@ -13456,7 +14092,8 @@
       "price": {
         "current": 1579.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "300113381",
@@ -13477,7 +14114,8 @@
       "price": {
         "current": 1699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "319240113",
@@ -13498,7 +14136,8 @@
       "price": {
         "current": 1979.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "321261054",
@@ -13519,7 +14158,8 @@
       "price": {
         "current": 3116.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "325607944",
@@ -13540,7 +14180,8 @@
       "price": {
         "current": 3599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "322969395",
@@ -13561,7 +14202,8 @@
       "price": {
         "current": 6110.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "328460208",
@@ -13582,7 +14224,8 @@
       "price": {
         "current": 1134.03,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "319898032",
@@ -13603,7 +14246,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     },
     {
       "productId": "328283862",
@@ -13624,7 +14268,8 @@
       "price": {
         "current": 4139.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Bottom Freezer"
     }
   ]
 }
