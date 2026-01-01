@@ -8,7 +8,7 @@
       "id": "appliances",
       "name": "Appliances",
       "slug": "appliances",
-      "productCount": 9,
+      "productCount": 645,
       "subcategories": [
         {
           "id": "appliances/air-conditioners",
@@ -228,7 +228,7 @@
       "id": "furniture",
       "name": "Furniture",
       "slug": "furniture",
-      "productCount": 2,
+      "productCount": 260,
       "subcategories": [
         {
           "id": "furniture/bedroom",
@@ -293,7 +293,7 @@
       "id": "home-decor",
       "name": "Home Decor",
       "slug": "home-decor",
-      "productCount": 156,
+      "productCount": 321,
       "subcategories": [
         {
           "id": "home-decor/artificial-plants",
@@ -386,7 +386,7 @@
       "id": "tools",
       "name": "Tools",
       "slug": "tools",
-      "productCount": 172,
+      "productCount": 899,
       "subcategories": [
         {
           "id": "tools/air-compressors",
