@@ -1,292 +1,904 @@
 {
   "categoryId": "electrical",
   "name": "Electrical",
-  "originalUrl": "https://www.homedepot.com/b/Electrical/N-5yc1vZarcd",
-  "archiveTime": "2025-12-31T18:21:57.854Z",
+  "slug": "electrical",
+  "path": "/categories/electrical",
+  "version": "1.0",
+  "lastUpdated": "2026-01-01T13:20:03.259556",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Electrical",
+      "url": "/electrical"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "../images/heroes/11.avif",
-  "productIds": [
-    "100232088",
-    "202019375",
-    "302292202",
-    "327655800",
-    "329744455",
-    "330823498"
+  "pageInfo": {
+    "totalResults": 39
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 12
+    },
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 3
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 3
+    },
+    {
+      "brandId": "hdx",
+      "brandName": "HDX",
+      "logoUrl": "images/brands/hdx.svg",
+      "count": 3
+    },
+    {
+      "brandId": "grip-rite",
+      "brandName": "Grip-Rite",
+      "logoUrl": "images/brands/grip-rite.svg",
+      "count": 3
+    },
+    {
+      "brandId": "lutron",
+      "brandName": "Lutron",
+      "logoUrl": "images/brands/lutron.svg",
+      "count": 2
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 2
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 1
+    },
+    {
+      "brandId": "primefit",
+      "brandName": "Primefit",
+      "logoUrl": "images/brands/primefit.svg",
+      "count": 1
+    },
+    {
+      "brandId": "powermate",
+      "brandName": "Powermate",
+      "logoUrl": "images/brands/powermate.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 6,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/12.avif",
-        "url": "../images/heroes/12.avif"
+  "products": [
+    {
+      "productId": "339421858",
+      "modelNumber": "",
+      "brand": "Lutron",
+      "title": "Caseta Smart Lighting Switch (2 Count) Starter Kit, Neutral Wire Required (CASETA-2SWITCH)",
+      "rating": {
+        "average": 4.5056,
+        "count": 356
       },
-      {
-        "filename": "images/13.avif",
-        "url": "../images/heroes/13.avif"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-64_100.jpg"
       },
-      {
-        "filename": "images/14.avif",
-        "url": "../images/heroes/14.avif"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/18.avif",
-        "url": "../images/ui/18.avif"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "../images/heroes/21.avif"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "../images/heroes/22.avif"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "../images/heroes/23.avif"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "../images/heroes/15.avif"
-      },
-      {
-        "filename": "images/27.avif",
-        "url": "../images/heroes/27.avif"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "../images/heroes/33.avif"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "../images/heroes/35.avif"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "../images/heroes/36.avif"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "../images/heroes/37.avif"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "../images/heroes/38.avif"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "../images/heroes/39.avif"
-      },
-      {
-        "filename": "images/25.avif",
-        "url": "../images/heroes/25.avif"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "../images/ui/40.avif"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "../images/heroes/16.avif"
-      },
-      {
-        "filename": "images/19.avif",
-        "url": "../images/heroes/19.avif"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "../images/heroes/20.avif"
-      },
-      {
-        "filename": "images/24.avif",
-        "url": "../images/heroes/24.avif"
-      },
-      {
-        "filename": "images/26.avif",
-        "url": "../images/heroes/26.avif"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "../images/ui/30.avif"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "../images/ui/32.avif"
-      },
-      {
-        "filename": "images/34.avif",
-        "url": "../images/ui/34.avif"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "../images/heroes/41.avif"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "../images/heroes/42.avif"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "../images/heroes/45.avif"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "../images/heroes/46.avif"
-      },
-      {
-        "filename": "images/17.avif",
-        "url": "../images/heroes/17.avif"
-      },
-      {
-        "filename": "images/28.avif",
-        "url": "../images/heroes/28.avif"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "../images/heroes/29.avif"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "../images/heroes/43.avif"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "../images/heroes/44.avif"
+      "price": {
+        "current": 219.85,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/51.svg",
-        "url": "../images/brands/51.svg"
+    },
+    {
+      "productId": "308136313",
+      "modelNumber": "",
+      "brand": "Lutron",
+      "title": "Caseta Smart Dimmer Switch and Remote Kit for Wall and Ceiling Lights, 150-Watt LED Bulbs (P-PKG1W-2PK-WH) (2-Pack)",
+      "rating": {
+        "average": 4.7317,
+        "count": 615
       },
-      {
-        "filename": "images/52.svg",
-        "url": "../images/brands/52.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0dd97ba3-3560-41ec-a222-9fbada87266f/svn/white-lutron-dimmers-p-pkg1w-2pk-wh-64_100.jpg"
       },
-      {
-        "filename": "images/53.svg",
-        "url": "../images/brands/53.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/54.svg",
-        "url": "../images/brands/54.svg"
-      },
-      {
-        "filename": "images/55.svg",
-        "url": "../images/brands/55.svg"
-      },
-      {
-        "filename": "images/56.svg",
-        "url": "../images/brands/56.svg"
-      },
-      {
-        "filename": "images/57.svg",
-        "url": "../images/brands/57.svg"
-      },
-      {
-        "filename": "images/58.svg",
-        "url": "../images/brands/58.svg"
-      },
-      {
-        "filename": "images/59.svg",
-        "url": "../images/brands/59.svg"
-      },
-      {
-        "filename": "images/60.svg",
-        "url": "../images/brands/60.svg"
-      },
-      {
-        "filename": "images/61.svg",
-        "url": "../images/brands/61.svg"
-      },
-      {
-        "filename": "images/62.svg",
-        "url": "../images/brands/62.svg"
-      },
-      {
-        "filename": "images/64.svg",
-        "url": "../images/brands/64.svg"
-      },
-      {
-        "filename": "images/63.svg",
-        "url": "../images/brands/63.svg"
-      },
-      {
-        "filename": "images/66.svg",
-        "url": "../images/brands/66.svg"
-      },
-      {
-        "filename": "images/65.svg",
-        "url": "../images/brands/65.svg"
-      },
-      {
-        "filename": "images/67.svg",
-        "url": "../images/brands/67.svg"
-      },
-      {
-        "filename": "images/68.svg",
-        "url": "../images/brands/68.svg"
-      },
-      {
-        "filename": "images/69.svg",
-        "url": "../images/brands/69.svg"
-      },
-      {
-        "filename": "images/70.svg",
-        "url": "../images/brands/70.svg"
-      },
-      {
-        "filename": "images/71.svg",
-        "url": "../images/brands/71.svg"
-      },
-      {
-        "filename": "images/72.svg",
-        "url": "../images/brands/72.svg"
-      },
-      {
-        "filename": "images/73.svg",
-        "url": "../images/brands/73.svg"
-      },
-      {
-        "filename": "images/74.svg",
-        "url": "../images/brands/74.svg"
+      "price": {
+        "current": 149.9,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/31.avif",
-        "url": "../images/heroes/31.avif"
+    },
+    {
+      "productId": "336958667",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V High Pressure Portable Inflator Kit with 2.0 Ah Battery, Charger, and USB Portable Power Source with Activate Button",
+      "rating": {
+        "average": 4.646,
+        "count": 1771
       },
-      {
-        "filename": "images/47.avif",
-        "url": "../images/heroes/47.avif"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/98a31a4e-55fc-4924-ae05-038ddf4e3cad/svn/ridgid-inflators-r87044kn-ac86072b-64_100.jpg"
       },
-      {
-        "filename": "images/48.avif",
-        "url": "../images/heroes/48.avif"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/49.webp",
-        "url": "../images/products/49.webp"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "../images/heroes/50.avif"
+      "price": {
+        "current": 132.64,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Electrical - The Home Depot",
-    "categoryType": "Top Level THD Pages",
-    "categoryFolder": "Electrical"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "317371235",
+      "modelNumber": "",
+      "brand": "Primefit",
+      "title": "FR3802G 3/8 in. Air Filter Regulator Combo with Pressure Gauge with Max Inlet 200 PSI and Max Outlet 160 PSI",
+      "rating": {
+        "average": 4.3611,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/664f5d1d-b72a-4eb0-9b9f-6822bd4e83c0/svn/primefit-air-pressure-regulators-fr3802g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 28.47,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202592873",
+      "modelNumber": "",
+      "brand": "Powermate",
+      "title": "1/4 in. NPT Inlet/Outlet x 1/8 in. NPT Gauge Pressure Regulator",
+      "rating": {
+        "average": 4.0909,
+        "count": 33
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/35e6c6d6-a91f-4037-8288-457794d1b305/svn/powermate-air-pressure-regulators-019-0167rp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306588128",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "Collapsible Rolling Miter Saw Stand with 3 Onboard Outlets",
+      "rating": {
+        "average": 4.2857,
+        "count": 343
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3dbf0256-6783-41ce-af29-32570f553823/svn/wen-tool-stands-msa330-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 97.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334284516",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 28.7 cu. ft. Side-by-Side Refrigerator in Stainless Steel with Panoramic LED Lighting",
+      "rating": {
+        "average": 4.2131,
+        "count": 61
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8a17a59-b29e-4769-bea1-db2208a3123c/svn/fingerprint-resistant-stainless-steel-kitchenaid-side-by-side-refrigerators-krsf536rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2789.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339391064",
+      "modelNumber": "",
+      "brand": "Karl home",
+      "title": "1-piece White Particle Board Makeup Vanity Table with Dimmable Light Bulbs 6-Drawer 3-Compartment Left-Right 2-Tier Rack",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3520d87-2102-448c-a0d2-609215310ee7/svn/white-karl-home-makeup-vanities-k1g52008353-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325355628",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V 3-Tool Lighting Kit with Hybrid Panel Light, Spotlight and Flexible Clamp Light (Tools Only)",
+      "rating": {
+        "average": 4.899,
+        "count": 416
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1eb7d216-5be7-4c03-a8d5-63d83f5783e5/svn/ryobi-jobsite-lighting-pcl1308b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202080349",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "15 Amp 1-1/8 in. Corded Concrete Electric Hex Breaker Hammer Kit with Hard Carrying Case with Wheels",
+      "rating": {
+        "average": 4.5082,
+        "count": 122
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbceef89-5186-4012-ae76-6d7b863472e6/svn/bosch-demolition-breaker-hammers-11335k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202869505",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Brute 15 Amp 1-1/8 in. Corded Concrete Portable Electric Hex Breaker Hammer Kit with Cart and 2 Chisels",
+      "rating": {
+        "average": 4.7292,
+        "count": 48
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c005315-9bd4-41ae-b19c-3cf3ebc00e25/svn/bosch-demolition-breaker-hammers-bh2760vcb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311739614",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "MX FUEL Lithium-Ion Cordless 1-1/8 in. Breaker with Battery and Charger",
+      "rating": {
+        "average": 4.3214,
+        "count": 28
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8778e2a9-ac33-4d2c-92e0-6c365d49fadf/svn/milwaukee-demolition-breaker-hammers-mxf368-1xc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202993943",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "15 Amp 1-1/8 in. Hex Corded 70 lb. AVT Breaker Hammer with Anti-Vibration Technology, Cart and (4) Bits",
+      "rating": {
+        "average": 4.5,
+        "count": 54
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6530bbe0-b0f1-4a48-aec3-d004414cd1a1/svn/makita-demolition-breaker-hammers-hm1810x3-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203866691",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Brute Turbo 15 Amp 1-1/8 in. Corded Concrete/Masonry Variable Speed Electric Hex Breaker Hammer Kit w/ Cart & 4 Chisels",
+      "rating": {
+        "average": 4.8387,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dd13b2ec-5e40-47e9-b6db-2618cf4cf2cf/svn/bosch-demolition-breaker-hammers-bh2770vcd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206356257",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "70 lb. 1-1/8 in. Hex Advanced AVT Breaker Hammer",
+      "rating": {
+        "average": 4.3333,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0852f104-bf1c-4637-a463-b50ca6247dc2/svn/makita-demolition-breaker-hammers-hm1812x3-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2689.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327242236",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "39.5 in. x 20 in. 60-Volt Lithium-Lon Cordless HEX Breaker Hammer Kit with two 15 Ah Batteries and Charger",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a08012ae-f946-501c-8dc3-9bfe4c0d8b81/svn/dewalt-demolition-breaker-hammers-dch966z2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203846551",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "6-Tier Commercial Grade Heavy Duty Steel Wire Shelving Unit in Chrome (48 in. W x 72 in. H x 18 in. D)",
+      "rating": {
+        "average": 4.7808,
+        "count": 3910
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/77f5b3f9-90fd-4c1b-a4fd-621d22c5b34c/svn/chrome-hdx-freestanding-shelving-units-hd18481302ps-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337674733",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "2-Shelf Steel Wire Rack (22 in. x 69 in. x 28.5 in.) and 5-Pack 27 Gal. Totes",
+      "rating": {
+        "average": 4.7759,
+        "count": 5573
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a6e661d-ea1a-4c3d-9899-b2ef877f67cd/svn/hdx-wire-shelving-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 124.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100394342",
+      "modelNumber": "",
+      "brand": "Grip-Rite",
+      "title": "1-1/4 in. x 0.120-Gauge 15\u00b0 Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
+      "rating": {
+        "average": 4.5111,
+        "count": 765
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c11eddf5-17af-4698-a3d3-1e266d2cb2d9/svn/grip-rite-collated-roofing-nails-grcr3dgal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205865848",
+      "modelNumber": "",
+      "brand": "Grip-Rite",
+      "title": "2 in. x 0.092 in. 15\u00b0 Exterior Galvanized Wire Collated Ring Shank Nails 3000 per Box",
+      "rating": {
+        "average": 4.2093,
+        "count": 129
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/006ce293-e4f3-43b8-902a-f313361f38f5/svn/grip-rite-collated-siding-nails-grc6r90dhg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202447756",
+      "modelNumber": "",
+      "brand": "Grip-Rite",
+      "title": "2-1/2 in. 15\u00b0 Wire and Plastic Collation Coil Siding Nailer",
+      "rating": {
+        "average": 4.4167,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/279d84aa-e178-43af-b964-c0d6b2be54e3/svn/grip-rite-siding-nailers-grtcs250-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 404.91,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329377440",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "Porter-Cable 1/2 in. Drive Impact Wrench with 550 ft./lbs. Torque",
+      "rating": {
+        "average": 4.6,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9d89d7c0-83ec-4f0b-88b4-d2628f4f53b4/svn/porter-cable-air-impact-wrenches-pxcm024-0440-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 88.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322605711",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Cordless Bike and Ball Pump Inflator Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.0766,
+        "count": 1123
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e535fef5-1a31-42b0-b249-9419898c5dd6/svn/ryobi-inflators-fvif51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329635624",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Cordless High Volume Inflator Kit with USB Lithium 2.0 Ah Battery and Charging Cable",
+      "rating": {
+        "average": 4.1391,
+        "count": 151
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f1a4c47f-3c28-44a4-a2ec-fc55a145f59a/svn/ryobi-inflators-fvif61k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203846576",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "5-Tier Steel Wire Shelving Unit in Black (36 in. W x 72 in. H x 16 in. D)",
+      "rating": {
+        "average": 4.6589,
+        "count": 11557
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9d8c6f9c-8446-4086-afd6-d84118564610/svn/black-hdx-freestanding-shelving-units-21656ps-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334127766",
+      "modelNumber": "",
+      "brand": "LUCK HOME",
+      "title": "94.48 in. Walnut Colored TV Cabinet, Suitable for 90 in. Maximum TV, with Cable Management Hole",
+      "rating": {
+        "average": 4.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e768af2d-7573-45ba-b200-5d23dd202b0d/svn/walnut-color-luck-home-tv-stands-240-dsg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 478.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320706156",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Cordless Pivoting 625 Lumens Rechargeable Head Flashlight Kit with 2.0 Ah Battery and Charging Cable",
+      "rating": {
+        "average": 4.8056,
+        "count": 1188
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6d6a5748-1348-4f27-bb88-81164a2908a7/svn/ryobi-handheld-flashlights-fvl54k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324118671",
+      "modelNumber": "",
+      "brand": "Lincoln Electric",
+      "title": "WELD-PAK 90i FC Flux-Cored Wire Feeder Welder (No Gas)",
+      "rating": {
+        "average": 4.68,
+        "count": 100
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/871c235b-d402-40fa-a493-030ca4d64406/svn/lincoln-electric-wire-feeders-k5255-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 398.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318584392",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Power Cutter Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.2437,
+        "count": 1194
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8951401c-61c4-4364-a1a8-6601ca5e51ce/svn/ryobi-power-cutting-tools-fvc51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203756598",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 600 MCM Cable Cutter Kit with One 3.0Ah Battery, Charger and Hard Case",
+      "rating": {
+        "average": 4.6148,
+        "count": 135
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b9a047a3-376c-436a-96db-ba65e5445ce0/svn/milwaukee-power-cutting-tools-2472-21xc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 629.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324808968",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Hot Wire Foam Cutter Kit with 2.0 Ah Lithium-ion Rechargeable Battery",
+      "rating": {
+        "average": 4.4048,
+        "count": 84
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3819700a-ee28-407c-8d78-2447c689e094/svn/ryobi-power-cutting-tools-fvh64k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337521623",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless FORCE LOGIC Cable Cutter with CU/AL Jaws and Hard Case",
+      "rating": {
+        "average": 4.4,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/76da577a-6f44-4c70-805b-434358398e1a/svn/milwaukee-power-cutting-tools-2672-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318964392",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Screwdriver Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.3253,
+        "count": 2705
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f38f7c2-8969-4408-99a2-8f16ccba78fc/svn/ryobi-electric-screwdrivers-fvd50k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327585040",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Multi-Head Screwdriver Kit w/2Ah Battery, Charging Cable, 10-Piece Bit Set, Case and 3-Interchangeable Heads",
+      "rating": {
+        "average": 4.5944,
+        "count": 466
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d00adba6-6d0e-40ae-97f6-28c7c13e0591/svn/ryobi-electric-screwdrivers-fvd51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335978390",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Screwdriver Kit with 2.0 Ah USB Lithium Battery, Charging Cable, and Impact Rated Driving Set (40-Piece)",
+      "rating": {
+        "average": 4.1206,
+        "count": 1517
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eb9b06b9-7277-4113-b70e-37f21f50e099/svn/ryobi-electric-screwdrivers-fvd50k-a964001-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331727075",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Multi-Head Screwdriver Kit with 2 Ah Battery, Charging Cable, & USB Lithium 2.0 Ah Rechargeable Battery",
+      "rating": {
+        "average": 4.4269,
+        "count": 253
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0f37e66-fcaf-4714-a6f5-656285c707b8/svn/ryobi-electric-screwdrivers-fvd51k-fvb02-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 73.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318580448",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Rotary Tool Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.448,
+        "count": 712
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5568593-442d-4c01-9a0a-50c8785245ff/svn/ryobi-rotary-tools-fvm51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325354296",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium 3/8 in. Ratchet Kit with 2.0 Ah Battery and USB Charging Cable",
+      "rating": {
+        "average": 3.8,
+        "count": 630
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f73afa6f-5086-4fd7-b0d0-c9a171b34712/svn/ryobi-cordless-ratchets-fvrc51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100180324",
+      "modelNumber": "",
+      "brand": "Frost King",
+      "title": "1 Gang Socket Switch and Deco Wall Plate (14-Pack)",
+      "rating": {
+        "average": 4.0414,
+        "count": 169
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e20aa9bd-80e4-4b19-924a-4aefb23c2388/svn/white-frost-king-combination-wall-plates-os14h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2.57,
+        "currency": "USD"
+      }
+    }
+  ]
 }
