@@ -1,0 +1,75 @@
+{
+  "appVersion": "1.0.0",
+  "minimumAppVersion": "1.0.0",
+  "dataVersion": "1.0.0",
+  "lastUpdated": "2025-12-31T00:00:00Z",
+  "baseURL": "https://atlanticwaters.github.io/Orange-Catalog/production data",
+  "endpoints": {
+    "appConfig": "/app-config.json",
+    "summary": "/SUMMARY.json",
+    "searchIndex": "/search-index.json",
+    "categories": "/categories/index.json",
+    "categoryDetails": "/categories/{categoryName}.json",
+    "productDetails": "/products/{productId}/details.json",
+    "productImage": "/products/{productId}/{imageFileName}",
+    "featuredContent": "/featured-content.json",
+    "updateManifest": "/update-manifest.json",
+    "deepLinkMap": "/deeplink-map.json"
+  },
+  "features": {
+    "search": true,
+    "favorites": true,
+    "offlineMode": true,
+    "categories": true,
+    "productDetails": true,
+    "imageGallery": true,
+    "shareProducts": true,
+    "priceAlerts": false
+  },
+  "caching": {
+    "strategy": "stale-while-revalidate",
+    "ttl": {
+      "appConfig": 300,
+      "summary": 3600,
+      "searchIndex": 3600,
+      "categories": 3600,
+      "products": 86400,
+      "images": 2592000,
+      "featuredContent": 1800
+    }
+  },
+  "images": {
+    "sizes": {
+      "thumbnail": "50x50",
+      "small": "100x100",
+      "medium": "200x200",
+      "large": "400x400"
+    },
+    "defaultSize": "small",
+    "format": "jpg",
+    "quality": 85
+  },
+  "search": {
+    "minQueryLength": 2,
+    "maxResults": 50,
+    "fuzzyMatch": true,
+    "fields": ["name", "brand", "category"]
+  },
+  "offline": {
+    "enabled": true,
+    "initialDownloadSize": "5MB",
+    "essentialCategories": ["tools", "appliances", "plumbing", "electrical"],
+    "maxCachedProducts": 500
+  },
+  "analytics": {
+    "enabled": false,
+    "trackingId": ""
+  },
+  "forceUpdate": false,
+  "maintenanceMode": false,
+  "notifications": {
+    "newProducts": true,
+    "priceDrops": false,
+    "backInStock": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-31T00:00:00Z",
+  "scheme": "orangecatalog",
+  "patterns": {
+    "product": "orangecatalog://product/{productId}",
+    "category": "orangecatalog://category/{categoryId}",
+    "search": "orangecatalog://search?q={query}",
+    "brand": "orangecatalog://brand/{brandName}",
+    "featured": "orangecatalog://featured/{sectionId}"
+  },
+  "webLinks": {
+    "product": "https://atlanticwaters.github.io/Orange-Catalog/production%20data/products/{productId}/details.json",
+    "category": "https://atlanticwaters.github.io/Orange-Catalog/category.html?id={categoryId}"
+  },
+  "universalLinks": {
+    "domain": "atlanticwaters.github.io",
+    "paths": [
+      "/Orange-Catalog/category.html",
+      "/Orange-Catalog/production%20data/products/*"
+    ]
+  }
+}

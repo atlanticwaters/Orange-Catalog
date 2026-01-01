@@ -1,0 +1,42 @@
+{
+  "currentVersion": "1.0.0",
+  "lastUpdated": "2025-12-31T00:00:00Z",
+  "updates": [
+    {
+      "version": "1.0.0",
+      "date": "2025-12-31T00:00:00Z",
+      "type": "initial",
+      "changes": {
+        "productsAdded": 3001,
+        "productsModified": 0,
+        "productsRemoved": 0,
+        "categoriesAdded": 76,
+        "categoriesModified": 0,
+        "categoriesRemoved": 0
+      },
+      "downloadSize": {
+        "full": "34.09 MB",
+        "incremental": "0 MB"
+      },
+      "priority": "normal",
+      "changelog": [
+        "Initial catalog release",
+        "3001 products across 76 categories",
+        "Optimized images for mobile",
+        "Full search index included"
+      ]
+    }
+  ],
+  "availableUpdates": [],
+  "forceUpdate": false,
+  "deltaUpdates": {
+    "enabled": true,
+    "baseVersion": "1.0.0",
+    "deltas": []
+  },
+  "checksums": {
+    "full": "abc123def456",
+    "categories": "cat123abc456",
+    "products": "prod456def789"
+  }
+}

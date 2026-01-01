@@ -1,0 +1,570 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2025-12-31T22:52:48.691957",
+  "categories": [
+    {
+      "id": "appliances",
+      "name": "",
+      "productCount": 0,
+      "topProducts": [
+        {
+          "id": "",
+          "name": "",
+          "brand": "American Standard",
+          "price": {
+            "current": 99.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.3466,
+            "count": 1965
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "KOHLER",
+          "price": {
+            "current": 269.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5165,
+            "count": 3696
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Summit Appliance",
+          "price": {
+            "current": 4084.51,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 0.0,
+            "count": 0
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Summit Appliance",
+          "price": {
+            "current": 4022.5,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 5.0,
+            "count": 1
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Summit Appliance",
+          "price": {
+            "current": 1953.75,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.75,
+            "count": 4
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "StyleWell",
+          "price": {
+            "current": 279.2,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5302,
+            "count": 862
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "HOMESTYLES",
+          "price": {
+            "current": 280.99,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 0.0,
+            "count": 0
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "FUFU&GAGA",
+          "price": {
+            "current": 801.57,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.025,
+            "count": 40
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "FUFU&GAGA",
+          "price": {
+            "current": 406.33,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.1588,
+            "count": 170
+          },
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "electrical",
+      "name": "",
+      "productCount": 0,
+      "topProducts": []
+    },
+    {
+      "id": "furniture",
+      "name": "",
+      "productCount": 0,
+      "topProducts": [
+        {
+          "id": "",
+          "name": "",
+          "brand": "TRIBESIGNS WAY TO ORIGIN",
+          "price": {
+            "current": 114.04,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 5.0,
+            "count": 1
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Amanti Art",
+          "price": {
+            "current": 400.99,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 0.0,
+            "count": 0
+          },
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "garage",
+      "name": "",
+      "productCount": 0,
+      "topProducts": []
+    },
+    {
+      "id": "home-decor",
+      "name": "",
+      "productCount": 0,
+      "topProducts": []
+    },
+    {
+      "id": "other",
+      "name": "",
+      "productCount": 0,
+      "topProducts": [
+        {
+          "id": "",
+          "name": "",
+          "brand": "Unknown",
+          "price": {
+            "current": 1.78,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.52,
+            "count": 15732
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Vigoro",
+          "price": {
+            "current": 7.68,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5829,
+            "count": 10465
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Vigoro",
+          "price": {
+            "current": 5.47,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5125,
+            "count": 5489
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Husky",
+          "price": {
+            "current": 9.97,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.6459,
+            "count": 3490
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "The Home Depot",
+          "price": {
+            "current": 45.6,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5754,
+            "count": 5980
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "The Home Depot",
+          "price": {
+            "current": 22.8,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5713,
+            "count": 6184
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "The Home Depot",
+          "price": {
+            "current": 2.28,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5616,
+            "count": 20966
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Custom Building Products",
+          "price": {
+            "current": 14.97,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.6553,
+            "count": 5001
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Lifeproof",
+          "price": {
+            "current": 65.99,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.4817,
+            "count": 3025
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Custom Building Products",
+          "price": {
+            "current": 28.98,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.2487,
+            "count": 1954
+          },
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "",
+      "productCount": 0,
+      "topProducts": [
+        {
+          "id": "",
+          "name": "",
+          "brand": "RYOBI",
+          "price": {
+            "current": 99.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.6792,
+            "count": 1147
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Milwaukee",
+          "price": {
+            "current": 269.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.7147,
+            "count": 1262
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Makita",
+          "price": {
+            "current": 154.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.5844,
+            "count": 486
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Makita",
+          "price": null,
+          "rating": {
+            "average": 4.3333,
+            "count": 51
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Makita",
+          "price": {
+            "current": 101.97,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.375,
+            "count": 16
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Husky",
+          "price": {
+            "current": 498.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.1885,
+            "count": 244
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Husky",
+          "price": {
+            "current": 228.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.1765,
+            "count": 238
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Milton",
+          "price": {
+            "current": 39.94,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.75,
+            "count": 4
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Milton",
+          "price": {
+            "current": 76.94,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 5.0,
+            "count": 1
+          },
+          "imageUrl": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "brand": "Husky",
+          "price": {
+            "current": 289.0,
+            "currency": "USD"
+          },
+          "rating": {
+            "average": 4.8051,
+            "count": 5058
+          },
+          "imageUrl": ""
+        }
+      ]
+    }
+  ],
+  "quickAccess": {
+    "topBrands": [
+      {
+        "name": "Milwaukee",
+        "productCount": 271
+      },
+      {
+        "name": "Husky",
+        "productCount": 228
+      },
+      {
+        "name": "DEWALT",
+        "productCount": 183
+      },
+      {
+        "name": "RIDGID",
+        "productCount": 127
+      },
+      {
+        "name": "Unknown",
+        "productCount": 111
+      },
+      {
+        "name": "Nearly Natural",
+        "productCount": 111
+      },
+      {
+        "name": "RYOBI",
+        "productCount": 106
+      },
+      {
+        "name": "GE",
+        "productCount": 92
+      },
+      {
+        "name": "LG",
+        "productCount": 86
+      },
+      {
+        "name": "Whirlpool",
+        "productCount": 64
+      }
+    ],
+    "popularCategories": [
+      {
+        "id": "appliances",
+        "name": "",
+        "productCount": 0
+      },
+      {
+        "id": "electrical",
+        "name": "",
+        "productCount": 0
+      },
+      {
+        "id": "furniture",
+        "name": "",
+        "productCount": 0
+      },
+      {
+        "id": "garage",
+        "name": "",
+        "productCount": 0
+      },
+      {
+        "id": "home-decor",
+        "name": "",
+        "productCount": 0
+      },
+      {
+        "id": "other",
+        "name": "",
+        "productCount": 0
+      },
+      {
+        "id": "tools",
+        "name": "",
+        "productCount": 0
+      }
+    ],
+    "recentlyViewed": []
+  },
+  "metadata": {
+    "totalProducts": 802,
+    "totalCategories": 9,
+    "downloadSize": "5 MB"
+  }
+}

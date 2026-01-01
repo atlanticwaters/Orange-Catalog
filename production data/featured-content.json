@@ -1,0 +1,133 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-31T00:00:00Z",
+  "sections": [
+    {
+      "id": "new-arrivals",
+      "title": "New Arrivals",
+      "subtitle": "Latest products added to the catalog",
+      "type": "product-list",
+      "displayStyle": "carousel",
+      "maxItems": 20,
+      "sortBy": "dateAdded",
+      "sortOrder": "desc"
+    },
+    {
+      "id": "top-rated",
+      "title": "Top Rated Products",
+      "subtitle": "Customer favorites",
+      "type": "product-list",
+      "displayStyle": "grid",
+      "maxItems": 12,
+      "sortBy": "rating",
+      "sortOrder": "desc",
+      "minRating": 4.5
+    },
+    {
+      "id": "popular-tools",
+      "title": "Popular Tools",
+      "subtitle": "Best selling power tools",
+      "type": "category-spotlight",
+      "categoryId": "tools",
+      "displayStyle": "carousel",
+      "maxItems": 15,
+      "sortBy": "reviewCount",
+      "sortOrder": "desc"
+    },
+    {
+      "id": "essential-appliances",
+      "title": "Essential Appliances",
+      "subtitle": "Top appliances for your home",
+      "type": "category-spotlight",
+      "categoryId": "appliances",
+      "displayStyle": "grid",
+      "maxItems": 12
+    },
+    {
+      "id": "home-decor",
+      "title": "Home Decor",
+      "subtitle": "Beautify your space",
+      "type": "category-spotlight",
+      "categoryId": "home-decor",
+      "displayStyle": "carousel",
+      "maxItems": 10
+    },
+    {
+      "id": "featured-brands",
+      "title": "Featured Brands",
+      "subtitle": "Shop by trusted brands",
+      "type": "brand-list",
+      "displayStyle": "grid",
+      "brands": [
+        "Milwaukee",
+        "DEWALT",
+        "RIDGID",
+        "RYOBI",
+        "Husky",
+        "LG",
+        "GE",
+        "Whirlpool",
+        "Samsung",
+        "KitchenAid"
+      ]
+    },
+    {
+      "id": "categories-grid",
+      "title": "Shop by Category",
+      "subtitle": "Browse all departments",
+      "type": "category-grid",
+      "displayStyle": "grid",
+      "categories": [
+        "tools",
+        "appliances",
+        "plumbing",
+        "electrical",
+        "lighting",
+        "flooring",
+        "building-materials",
+        "home-decor",
+        "kitchen",
+        "bath"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "id": "welcome",
+      "title": "Welcome to Orange Catalog",
+      "message": "Browse thousands of home improvement products",
+      "imageUrl": "",
+      "action": {
+        "type": "none"
+      },
+      "priority": 1,
+      "enabled": true
+    }
+  ],
+  "quickLinks": [
+    {
+      "title": "Power Tools",
+      "icon": "hammer",
+      "categoryId": "tools",
+      "color": "#FF6B35"
+    },
+    {
+      "title": "Appliances",
+      "icon": "refrigerator",
+      "categoryId": "appliances",
+      "color": "#F7931E"
+    },
+    {
+      "title": "Lighting",
+      "icon": "lightbulb",
+      "categoryId": "lighting",
+      "color": "#FDC830"
+    },
+    {
+      "title": "Plumbing",
+      "icon": "wrench",
+      "categoryId": "plumbing",
+      "color": "#4ECDC4"
+    }
+  ]
+}
