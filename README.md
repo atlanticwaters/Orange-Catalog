@@ -1,212 +1,539 @@
 # 🍊 Orange Catalog
 
-A comprehensive, production-ready dataset of Home Depot product catalog data, optimized for mobile app development and web applications.
+A comprehensive, production-ready product catalog dataset optimized for iOS apps, web applications, and API consumption. Contains 3,000+ home improvement products from The Home Depot with complete metadata, images, and search capabilities.
 
 [![Data Version](https://img.shields.io/badge/version-1.0-orange.svg)](https://github.com/atlanticwaters/Orange-Catalog)
-[![Total Products](https://img.shields.io/badge/products-2,607-blue.svg)](#)
-[![Categories](https://img.shields.io/badge/categories-88-green.svg)](#)
-[![Images](https://img.shields.io/badge/images-539-purple.svg)](#)
+[![Total Products](https://img.shields.io/badge/products-3,001-blue.svg)](#)
+[![Categories](https://img.shields.io/badge/categories-76-green.svg)](#)
+[![Brands](https://img.shields.io/badge/brands-372-purple.svg)](#)
+[![Live Demo](https://img.shields.io/badge/demo-live-success.svg)](https://atlanticwaters.github.io/Orange-Catalog/)
 
 ---
 
-## 📋 Overview
+## 🎯 Purpose
 
-Orange Catalog provides structured JSON data for building product catalog applications, with a focus on:
+This repository serves as a **backend-free product catalog system** that provides:
 
-- **Clean, hierarchical taxonomy** - Human-readable category IDs
-- **Comprehensive filtering** - Multi-faceted search with counts
-- **Optimized images** - 600px product images + SVG logos
-- **Mobile-first design** - Perfect for iOS/Android apps
-- **GitHub Pages ready** - Static hosting, no backend required
+1. **Static JSON API** - All data accessible via GitHub Pages (no server required)
+2. **iOS App Integration** - Complete Swift models, caching strategy, and offline support
+3. **Web Storefront** - Live browseable catalog with search and categories
+4. **Search Infrastructure** - Pre-built search indexes for instant results
+5. **Image Assets** - Optimized 100x100px product images (additional sizes can be generated)
+6. **Update Management** - Version tracking and delta update support
 
-**Snapshot Date:** December 31, 2025  
-**Total Size:** 11 MB
-
----
-
-## 🚀 Quick Start
-
-### For iOS/Swift Developers
-
-```swift
-// 1. Set your base URL
-let baseURL = "https://atlanticwaters.github.io/Orange-Catalog/production%20data"
-
-// 2. Load the navigation tree
-let navURL = URL(string: "\(baseURL)/categories/index.json")!
-let navigation = try await URLSession.shared.decode(Navigation.self, from: navURL)
-
-// 3. Load a category with products
-let categoryURL = URL(string: "\(baseURL)/categories/appliances/refrigerators/french-door.json")!
-let category = try await URLSession.shared.decode(Category.self, from: categoryURL)
-
-// 4. Display products with filtering
-let filteredProducts = category.products.filter { product in
-    selectedBrands.contains(product.brand)
-}
-```
-
-### For Web Developers
-
-```javascript
-// Fetch navigation
-const navigation = await fetch('https://atlanticwaters.github.io/Orange-Catalog/production%20data/categories/index.json')
-  .then(res => res.json());
-
-// Fetch category data
-const category = await fetch('https://atlanticwaters.github.io/Orange-Catalog/production%20data/categories/appliances/dishwashers.json')
-  .then(res => res.json());
-
-// Display products
-category.products.forEach(product => {
-  console.log(`${product.brand} ${product.title} - $${product.price.current}`);
-});
-```
+Perfect for building product catalog apps without maintaining backend infrastructure.
 
 ---
 
 ## 📊 What's Inside
 
-### Data Summary
+### Data Files
+- **3,001 products** across 76 categories (tools, appliances, plumbing, etc.)
+- **372 brands** including Milwaukee, DEWALT, RIDGID, Husky, LG, GE, etc.
+- **Complete product details** - titles, descriptions, pricing, ratings, specs
+- **Optimized images** - 100x100px JPEGs (~30MB total)
+- **Category hierarchy** - Organized by department and subcategory
 
-| Resource | Count | Description |
-|----------|-------|-------------|
-| **Categories** | 88 | Complete product categories across 15 departments |
-| **Products** | 2,607 | Product IDs with basic information |
-| **Full Details** | 30 | Complete product specifications (PIP data) |
-| **Images** | 539 | Optimized product images, brand logos, and assets |
-| **Departments** | 15 | Top-level navigation categories |
+### API Files
+- **app-config.json** - App configuration, endpoints, caching rules, features
+- **search-index.json** - Full product search index with keywords (~3MB)
+- **search-index-compact.json** - Mobile-optimized search (~2MB)
+- **offline-catalog.json** - Lightweight offline mode data (~14KB)
+- **featured-content.json** - Curated home screen content
+- **update-manifest.json** - Version tracking and change management
+- **deeplink-map.json** - URL scheme mapping for deep linking
 
-### Departments
-
-- 🏠 **Appliances** - Refrigerators, Dishwashers, Ranges, Microwaves, etc.
-- 🛠️ **Tools** - Drills, Saws, Impact Drivers, Power Tools, etc.
-- 🌳 **Outdoors** - Lawn Mowers, Power Equipment, etc.
-- 🛁 **Bath** - Fixtures, Vanities, etc.
-- 🍳 **Kitchen** - Cabinets, Countertops, etc.
-- 💡 **Lighting** - Indoor, Outdoor, Smart Lighting, etc.
-- 🚿 **Plumbing** - Pipes, Fixtures, Faucets, etc.
-- ⚡ **Electrical** - Wiring, Outlets, Switches, etc.
-- 🪟 **Flooring** - Hardwood, Tile, Carpet, etc.
-- 🏗️ **Building Materials** - Lumber, Concrete, etc.
-- 🧹 **Cleaning** - Vacuums, Supplies, etc.
-- 🚗 **Garage** - Storage, Organization, etc.
-- 🌺 **Garden Center** - Plants, Soil, Planters, etc.
-- 🖼️ **Home Decor** - Furniture, Art, etc.
-- 🪟 **Window Treatments** - Blinds, Curtains, etc.
+### Tools & Scripts
+- **Scraping toolkit** - Python scripts for data collection from The Home Depot
+- **Data generators** - Create search indexes, offline catalogs, image variants
+- **Automation scripts** - One-click data generation and updates
 
 ---
 
-## 🗂️ Directory Structure
+## 🚀 Quick Start
 
+### Live Demo
+**Browse the catalog:** https://atlanticwaters.github.io/Orange-Catalog/
+
+### Base API URL
 ```
-production data/
-├── categories/                  # Category JSON files
-│   ├── index.json              # Master navigation tree
-│   ├── appliances/
-│   │   ├── dishwashers.json
-│   │   ├── refrigerators/
-│   │   │   ├── french-door.json
-│   │   │   ├── side-by-side.json
-│   │   │   └── ...
-│   │   └── ...
-│   ├── tools/
-│   │   ├── drills.json
-│   │   ├── impact-drivers.json
-│   │   └── ...
-│   └── ...
-├── products/                    # Individual product details
-│   ├── 320243591/
-│   │   └── details.json
-│   └── ...
-├── images/                      # Optimized images
-│   ├── products/               # 600px product images (175)
-│   ├── brands/                 # SVG brand logos (185)
-│   ├── ui/                     # Badges & icons (11)
-│   └── heroes/                 # Category banners (168)
-└── README.md                    # Detailed documentation
+https://atlanticwaters.github.io/Orange-Catalog/production data/
+```
+
+### For iOS/Swift Developers
+
+See **[iOS-INTEGRATION.md](iOS-INTEGRATION.md)** for complete integration guide with Swift code examples.
+
+```swift
+// 1. Load app configuration
+let baseURL = "https://atlanticwaters.github.io/Orange-Catalog/production%20data"
+let config = try await loadJSON(AppConfig.self, from: "\(baseURL)/app-config.json")
+
+// 2. Fetch categories
+let categories = try await loadJSON(CategoryIndex.self, from: "\(baseURL)/categories/index.json")
+
+// 3. Get products by category
+let products = try await loadJSON(CategoryData.self, from: "\(baseURL)/categories/tools.json")
+
+// 4. Search products
+let searchIndex = try await loadJSON(SearchIndex.self, from: "\(baseURL)/search-index-compact.json")
+```
+
+### For Web Developers
+
+```javascript
+// Fetch categories
+const response = await fetch('https://atlanticwaters.github.io/Orange-Catalog/production data/categories/index.json');
+const { categories } = await response.json();
+
+// Get products in a category
+const toolsResponse = await fetch('https://atlanticwaters.github.io/Orange-Catalog/production data/categories/tools.json');
+const { products } = await toolsResponse.json();
+
+// Display product
+products.forEach(product => {
+  const img = `production data/products/${product.product_id}/${product.image_url}`;
+  console.log(`${product.name} - $${product.price}`);
+});
 ```
 
 ---
 
-## 🔍 Category JSON Structure
+## 📁 Repository Structure
 
-Each category file provides everything needed for a product listing page:
+```
+Orange-Catalog/
+├── production data/               # All catalog data (ready to serve)
+│   ├── categories/               # Category data files
+│   │   ├── index.json           # Category listing
+│   │   ├── tools.json           # Products in tools category
+│   │   ├── appliances.json      # Products in appliances
+│   │   └── ...                  # 76 category files
+│   │
+│   ├── products/                # Individual product data
+│   │   ├── 336149463/           # Product ID folder
+│   │   │   ├── details.json     # Full product details
+│   │   │   └── *.jpg            # Product image (100x100)
+│   │   └── ...                  # 3,001 product folders
+│   │
+│   ├── brands/                  # Brand data (future use)
+│   ├── images/                  # Shared images
+│   │
+│   ├── SUMMARY.json             # Catalog statistics
+│   ├── app-config.json          # iOS app configuration
+│   ├── search-index.json        # Full search index
+│   ├── search-index-compact.json # Mobile search index
+│   ├── offline-catalog.json     # Offline mode data
+│   ├── featured-content.json    # Home screen content
+│   ├── update-manifest.json     # Version tracking
+│   ├── deeplink-map.json        # URL schemes
+│   └── api-manifest.json        # API documentation
+│
+├── scraping_toolkit/            # Data collection scripts
+│   ├── scrape_plp.py           # Product list scraper
+│   ├── scrape_pip.py           # Product detail scraper
+│   ├── process_images.py       # Image optimization
+│   └── ...                     # More utilities
+│
+├── index.html                   # GitHub Pages home
+├── category.html                # Category browser page
+├── iOS-INTEGRATION.md           # Complete iOS guide
+├── IOS_SETUP_COMPLETE.md        # iOS setup summary
+└── README.md                    # This file
+```
+
+---
+
+## 📊 Data Statistics
+
+| Metric | Count | Details |
+|--------|-------|---------|
+| **Products** | 3,001 | Complete product entries with details |
+| **Categories** | 76 | Organized by department |
+| **Brands** | 372 | Milwaukee, DEWALT, RIDGID, Husky, LG, etc. |
+| **Images** | 3,001 | Optimized 100x100px JPEGs |
+| **JSON Size** | 3.69 MB | All product and category data |
+| **Image Size** | 30.40 MB | All product images |
+| **Total Size** | ~34 MB | Complete catalog |
+
+### Top Brands
+- **Milwaukee**: 271 products (power tools)
+- **Husky**: 228 products (storage, tools)
+- **DEWALT**: 183 products (power tools)
+- **RIDGID**: 127 products (power tools)
+- **RYOBI**: 106 products (power tools)
+- **Nearly Natural**: 111 products (artificial plants)
+- **GE**: 92 products (appliances)
+- **LG**: 86 products (appliances)
+- **Whirlpool**: 64 products (appliances)
+- **Samsung**: 58 products (appliances)
+
+### Categories Include
+🛠️ **Tools** • 🏠 **Appliances** • 🚿 **Plumbing** • ⚡ **Electrical**  
+💡 **Lighting** • 🪵 **Flooring** • 🏗️ **Building Materials** • 🛁 **Bath**  
+🍳 **Kitchen** • 🌺 **Garden Center** • 🚗 **Garage** • 📦 **Storage**  
+🎨 **Home Decor** • 🪟 **Window Treatments** • 🧹 **Cleaning** • 🪑 **Furniture**
+
+---
+
+## 🔧 API Endpoints
+
+All endpoints are relative to: `https://atlanticwaters.github.io/Orange-Catalog/production data/`
+
+### Configuration
+- `GET /app-config.json` - App configuration and feature flags
+- `GET /SUMMARY.json` - Catalog statistics and top brands
+
+### Categories
+- `GET /categories/index.json` - List all categories
+- `GET /categories/{categoryName}.json` - Products in category (e.g., `/categories/tools.json`)
+
+### Products
+- `GET /products/{productId}/details.json` - Full product details
+- `GET /products/{productId}/{imageName}.jpg` - Product image
+
+### Search & Discovery
+- `GET /search-index.json` - Full search index (3 MB)
+- `GET /search-index-compact.json` - Mobile-optimized (2 MB)
+- `GET /offline-catalog.json` - Offline mode data (14 KB)
+- `GET /featured-content.json` - Curated home screen content
+
+### Metadata
+- `GET /update-manifest.json` - Version and update info
+- `GET /deeplink-map.json` - Deep link URL schemes
+- `GET /api-manifest.json` - API documentation
+
+---
+
+## 📖 Example: Product Data Structure
 
 ```json
 {
-  "categoryId": "appliances/refrigerators/french-door",
-  "name": "French Door Refrigerators",
-  "breadcrumbs": [...],
-  
-  "featuredBrands": [
-    {
-      "brandName": "GE",
-      "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ge-logo.svg"
-    }
-  ],
-  
-  "filters": [
-    {
-      "filterGroupId": "brand",
-      "filterGroupName": "Brand",
-      "filterType": "checkbox",
-      "options": [
-        {
-          "label": "GE",
-          "value": "ge",
-          "count": 45
-        }
-      ]
-    }
-  ],
-  
-  "products": [
-    {
-      "productId": "320243591",
-      "brand": "GE",
-      "title": "27 cu. ft. French Door Refrigerator...",
-      "price": {
-        "current": 1399.00,
-        "savings": 1200.00
-      },
-      "rating": {
-        "average": 4.4,
-        "count": 13272
-      }
-    }
-  ]
+  "product_id": "336149463",
+  "name": "Garvee 34 in. H Artificial Fiddle Leaf Fig Tree in Basket",
+  "brand": "Garvee",
+  "price": 96.99,
+  "rating": 4.5,
+  "review_count": 12,
+  "category": "garden-center",
+  "subcategory": "artificial-plants",
+  "image_url": "garvee-artificial-trees-xd-zsn-pho-34hyfkcr-64_100.jpg",
+  "in_stock": true,
+  "specifications": {
+    "Height": "34 in",
+    "Width": "15 in",
+    "Material": "Plastic",
+    "Indoor/Outdoor": "Indoor"
+  }
 }
 ```
 
 ---
 
-## 🎨 Product Detail Structure
+## 🛠️ Development Tools
 
-Full product specifications for detailed views:
+### Scraping Toolkit
+Located in `/scraping_toolkit/` - Python scripts for data collection:
 
-```json
-{
-  "productId": "320243591",
-  "brand": {
-    "name": "GE",
-    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ge-logo.svg"
-  },
-  "title": "27 cu. ft. French Door Refrigerator...",
-  "pricing": {
-    "currentPrice": 1399.00,
-    "originalPrice": 2599.00,
-    "savings": 1200.00,
-    "savingsPercent": 46
-  },
-  "rating": {
-    "average": 4.4,
-    "count": 13272,
-    "distribution": {
-      "5star": 8425,
-      "4star": 2654
-    }
-  },
+- **scrape_plp.py** - Scrapes product listing pages (categories)
+- **scrape_pip.py** - Scrapes individual product detail pages
+- **batch_scraper.py** - Automated batch scraping
+- **process_images.py** - Downloads and optimizes product images
+- **transform_to_production.py** - Converts raw data to production format
+
+### Data Generators
+Scripts to create iOS app integration files:
+
+- **generate_search_index.py** - Creates searchable product indexes
+- **generate_offline_catalog.py** - Creates lightweight offline data
+- **generate_image_variants.py** - Generates additional image sizes (50px, 200px, 400px)
+- **generate_all_app_data.sh** - One-click automation for all generators
+
+### Usage
+
+```bash
+# Activate virtual environment
+source .venv/bin/activate
+
+# Generate all iOS app data
+./generate_all_app_data.sh
+
+# With additional image sizes
+./generate_all_app_data.sh --with-images
+
+# Individual generators
+python3 generate_search_index.py
+python3 generate_offline_catalog.py
+```
+
+---
+
+## 📱 iOS Integration
+
+Complete iOS integration is ready out of the box. See **[iOS-INTEGRATION.md](iOS-INTEGRATION.md)** for:
+
+- Swift model definitions (Codable structs)
+- Network service implementation
+- SwiftUI view examples
+- Caching strategy with recommended TTLs
+- Search implementation
+- Offline mode setup
+- Deep linking handlers
+- Performance optimization tips
+
+### Quick Integration
+
+1. Copy Swift models from iOS-INTEGRATION.md
+2. Configure URLSession with caching
+3. Load app-config.json on app launch
+4. Fetch categories and products
+5. Implement search using pre-built index
+6. Enable offline mode with offline-catalog.json
+
+### Features Ready
+✅ Search (pre-built indexes)  
+✅ Favorites (client-side)  
+✅ Offline mode (14KB catalog)  
+✅ Categories (76 organized categories)  
+✅ Product details (3,001 products)  
+✅ Images (optimized 100x100)  
+✅ Deep linking (URL schemes configured)  
+✅ Caching (TTL strategy included)  
+
+---
+
+## 🌐 GitHub Pages Website
+
+Live demo: **https://atlanticwaters.github.io/Orange-Catalog/**
+
+Features:
+- Browse all 76 categories
+- Search products within categories
+- View product details, images, and pricing
+- Responsive mobile-friendly design
+- Direct JSON API access
+
+Files:
+- `index.html` - Category browser
+- `category.html` - Product listing page
+
+---
+
+## 🔄 Update Workflow
+
+When adding or updating products:
+
+```bash
+# 1. Scrape new data (optional)
+cd scraping_toolkit
+python3 scrape_plp.py --category tools
+
+# 2. Generate app integration files
+cd ..
+./generate_all_app_data.sh
+
+# 3. Commit and push
+git add -A
+git commit -m "Update catalog data"
+git push origin main
+
+# Data goes live automatically via GitHub Pages!
+```
+
+---
+
+## 📋 Use Cases
+
+### Mobile Apps
+- **iOS/Android catalog apps** - Complete backend via static JSON
+- **Shopping apps** - Product browsing without server costs
+- **Price comparison apps** - Structured pricing data
+- **Inventory apps** - Track home improvement products
+
+### Web Applications
+- **E-commerce storefronts** - No backend required
+- **Product comparison sites** - Rich product data
+- **Deal trackers** - Price and availability monitoring
+- **Educational projects** - Learn web/mobile development
+
+### Data Science
+- **Price analysis** - 3,000+ products with pricing
+- **Brand analysis** - 372 brands across categories
+- **Category analysis** - Product distribution
+- **ML training data** - Product categorization, search
+
+---
+
+## 💾 Caching Recommendations
+
+Optimize performance with proper caching:
+
+| Resource Type | TTL | Rationale |
+|--------------|-----|-----------|
+| App Config | 5 min | Check for updates frequently |
+| Categories | 1 hour | Structure rarely changes |
+| Products | 24 hours | Prices/inventory updated daily |
+| Images | 30 days | Static assets, rarely change |
+| Search Index | 1 hour | Rebuild when catalog updates |
+| Featured Content | 30 min | Dynamic promotional content |
+
+### URLCache Configuration (iOS)
+
+```swift
+let cacheConfig = URLSessionConfiguration.default
+cacheConfig.urlCache = URLCache(
+    memoryCapacity: 50_000_000,   // 50 MB
+    diskCapacity: 200_000_000,    // 200 MB
+    diskPath: "catalog_cache"
+)
+```
+
+---
+
+## 🔎 Search Implementation
+
+Two search index options:
+
+1. **Full Index** (`search-index.json` - 3 MB)
+   - Complete keyword mapping
+   - All 3,001 products
+   - Best for web applications
+
+2. **Compact Index** (`search-index-compact.json` - 2 MB)
+   - Mobile-optimized
+   - Frequently-used keywords only
+   - 35% smaller
+   - Recommended for iOS/Android
+
+### Search Features
+- Keyword-based search
+- Brand filtering
+- Category filtering
+- Fuzzy matching support
+- Real-time results
+
+---
+
+## 📦 Offline Mode
+
+Enable offline browsing with minimal data:
+
+**offline-catalog.json** (14 KB)
+- Top 10 products per category
+- Popular brands list
+- Category structure
+- Essential metadata
+
+Perfect for:
+- First-launch experience
+- Low connectivity scenarios
+- Reduced data usage
+- App store previews
+
+---
+
+## 🔗 Deep Linking
+
+URL Scheme: `orangecatalog://`
+
+### Supported Patterns
+```
+orangecatalog://product/{productId}
+orangecatalog://category/{categoryId}
+orangecatalog://search?q={query}
+orangecatalog://brand/{brandName}
+orangecatalog://featured/{sectionId}
+```
+
+### Universal Links
+Domain: `atlanticwaters.github.io`
+
+Automatically maps web URLs to app screens.
+
+---
+
+## 📄 License & Attribution
+
+### Data Source
+Product data sourced from **The Home Depot** (HomeDepot.com).  
+Images and product information are property of their respective owners.
+
+### Usage
+This dataset is provided for:
+- Educational purposes
+- Personal projects
+- App development learning
+- Portfolio demonstrations
+
+### Disclaimer
+This is an independent project and is not affiliated with, endorsed by, or sponsored by The Home Depot, Inc. Product images, brand names, and trademarks are property of their respective owners.
+
+For commercial use, please ensure compliance with The Home Depot's terms of service and obtain necessary permissions.
+
+---
+
+## 🤝 Contributing
+
+Contributions welcome! Ways to help:
+
+- **Add more products** - Expand the catalog
+- **Improve data quality** - Fix inconsistencies
+- **Add features** - New search capabilities
+- **Optimize images** - Better compression
+- **Documentation** - Improve guides and examples
+- **Bug fixes** - Report issues
+
+### Process
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Run data generators if needed
+5. Submit a pull request
+
+---
+
+## 📞 Support & Contact
+
+- **Issues**: [GitHub Issues](https://github.com/atlanticwaters/Orange-Catalog/issues)
+- **Documentation**: This README and iOS-INTEGRATION.md
+- **Live Demo**: https://atlanticwaters.github.io/Orange-Catalog/
+- **Updates**: Automatically via GitHub Pages
+
+---
+
+## 🗓️ Version History
+
+### Version 1.0.0 (December 31, 2025)
+- Initial release
+- 3,001 products across 76 categories
+- 372 brands
+- Complete iOS app integration
+- GitHub Pages website
+- Search infrastructure
+- Offline mode support
+- Deep linking configuration
+
+---
+
+## 🎯 Roadmap
+
+Future enhancements:
+- [ ] Additional image sizes (200x200, 400x400)
+- [ ] Product reviews and Q&A data
+- [ ] Related products/recommendations
+- [ ] Price history tracking
+- [ ] Inventory status updates
+- [ ] More product categories
+- [ ] Enhanced search with filters
+- [ ] GraphQL API layer
+- [ ] Real-time price updates
+- [ ] Product comparison tools
+
+---
+
+**Made with ❤️ for the developer community**
+
+*Last Updated: December 31, 2025*
   "specifications": {
     "dimensions": {
       "width": "35.75 in.",
