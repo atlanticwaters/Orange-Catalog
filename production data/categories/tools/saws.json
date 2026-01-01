@@ -1,334 +1,656 @@
 {
   "categoryId": "tools/saws",
   "name": "Saws",
-  "originalUrl": "https://www.homedepot.com/b/Tools-Power-Tools-Saws/N-5yc1vZc28l",
-  "archiveTime": "2025-12-31T18:46:49.645Z",
+  "slug": "saws",
+  "path": "/categories/tools/saws",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.745557",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Tools",
-      "url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy"
+      "label": "Tools",
+      "url": "/tools"
     },
     {
-      "name": "Power Tools",
-      "url": "https://www.homedepot.com/b/Tools-Power-Tools/N-5yc1vZc298"
+      "label": "Saws",
+      "url": "/tools/saws"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/11.avif",
-  "productIds": [
-    "305658170",
-    "314001465",
-    "314292782",
-    "321488310",
-    "326435578",
-    "326462633",
-    "331594489",
-    "332435135"
+  "pageInfo": {
+    "totalResults": 27
+  },
+  "featuredBrands": [
+    {
+      "brandId": "hilti",
+      "brandName": "Hilti",
+      "logoUrl": "images/brands/hilti.svg",
+      "count": 7
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 6
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 3
+    },
+    {
+      "brandId": "diablo",
+      "brandName": "DIABLO",
+      "logoUrl": "images/brands/diablo.svg",
+      "count": 2
+    },
+    {
+      "brandId": "evolution-power-tools",
+      "brandName": "Evolution Power Tools",
+      "logoUrl": "images/brands/evolution-power-tools.svg",
+      "count": 2
+    },
+    {
+      "brandId": "aircat",
+      "brandName": "AIRCAT",
+      "logoUrl": "images/brands/aircat.svg",
+      "count": 1
+    },
+    {
+      "brandId": "emax",
+      "brandName": "EMAX",
+      "logoUrl": "images/brands/emax.svg",
+      "count": 1
+    },
+    {
+      "brandId": "grizzly-industrial",
+      "brandName": "Grizzly Industrial",
+      "logoUrl": "images/brands/grizzly-industrial.svg",
+      "count": 1
+    },
+    {
+      "brandId": "echo",
+      "brandName": "ECHO",
+      "logoUrl": "images/brands/echo.svg",
+      "count": 1
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 8,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/content/production/nG5S-j7QZv0S4ieucTVxvg/BM7e_cm__NWnBY5JqHxzRw/Original%20file/Exclusive-Milwaukee.png?im=Resize=(703,703)"
+  "products": [
+    {
+      "productId": "302766974",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Low Vibration Riciprocating Saw",
+      "rating": {
+        "average": 4.8182,
+        "count": 11
       },
-      {
-        "filename": "images/19.avif",
-        "url": "https://dam.thdstatic.com/content/production/xAWlb8uQWvjK68ccqmIaxQ/br-jKGHMy4dVuh4LaADUUw/Original%20file/Ryobi.jpg?im=Resize=(703,703)"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b602098-41e2-4ce5-894f-0ea59247b44e/svn/aircat-air-cut-off-tools-6350-64_100.jpg"
       },
-      {
-        "filename": "images/21.avif",
-        "url": "https://dam.thdstatic.com/content/production/crGBdxDT_nUgrdy6IvuX7A/_PgnMDlLvBfyxbL0tPBdEA/Original%20file/Ridgid.jpg?im=Resize=(703,703)"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/22.avif",
-        "url": "https://dam.thdstatic.com/content/production/cSgpQQXCH5OwMla5MqFbmQ/44EbyV57S8uwBmFnPuKZog/Original%20file/Diablo.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/sU8dVfyslgMCTQCAQ_tbrA/is2vpZtdAHBWNkJBR61MFQ/Original%20file/22MAR23_PlumbingTools_VN_Dewalt.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/27.avif",
-        "url": "https://dam.thdstatic.com/content/production/98YpJqdwZsUga9_SWWnPbg/3K9JiyBFgM06p2MDCYqD-g/Original%20file/465b1745-fc80-445e-9520-02ec3ab527db_PCL515B.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://dam.thdstatic.com/content/production/BP8vICoTplT4nmtNo0WrXA/HdJt1q9lRqrqmY1YjZcuvg/Original%20file/bd5cb2bd-4f60-4a28-ab9b-e44208c2fe1a_bc674936-a9a6-480e-afa7-c8c686cf790e_C.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://dam.thdstatic.com/content/production/JMaqq2yescw6d1I0j8IBNg/8D836iArnLiA_CmDMigKfw/Original%20file/487e19cf-3b94-4c18-b4d6-4a63027f9578_301697673_DS1203CP_Main-Image.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://dam.thdstatic.com/content/production/P9xgYPuYfXxWC_mUk4ZneA/0IVfouxippKBN95UtAnBLw/optimizedFile/3414ebea-193d-4620-be6b-2c1d05ba7110_D1060_2000x2000.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://dam.thdstatic.com/content/production/E_5BXZSA8sWB0OyM9yQoJQ/T4lCnNA-TKZaYrSolZeO6Q/Original%20file/83a4dca1-72bf-4c92-8677-d738e5384cf3_DJT128BHM.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://dam.thdstatic.com/content/production/4icc9jQ7AzA9NulOhnYThg/GTmQqbvaC5xttE8MhQBThQ/Original%20file/fbfc69ed-c38f-492c-9b00-8fe58297fe25_g0555.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/dc62EdtpGntytBsVheIgog/RwY0Btoj7m8QQ9p6v42OBQ/Original%20file/ca05e224-77a2-453d-903b-e198020c22ef_A18MS01G_2_Final.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://dam.thdstatic.com/content/production/87JEnag_3jKP7geMd-yxqw/vHTefqI2ak6Puf07rIf8jg/Original%20file/2b9ec6f1-046e-41e6-9b2b-3f592281c787_315424283_Pro_NEWS.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://dam.thdstatic.com/content/production/ujc4ZB0lFxLeSKnGbbwa0Q/JVlozGLB_O7ouuheY6VggQ/optimizedFile/0d76ab03-381c-4978-98ce-ec2932220dec_Makita_B-69674_Product_Shot.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/BcjhqCCz39OWwFCaMH7egw/giy49Glff2fyM6x5QGiBSg/optimizedFile/bbb2b712-fd52-4863-ad69-3adf9465f29c_KMA2685-Pic1.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/13.avif",
-        "url": "https://dam.thdstatic.com/content/production/ezZjna4PjoOyWUx3qM-JYA/DqDcaA29ia04UWvY93ORuQ/Original%20file/tool-savings-2025-phase-4-saws-visnav-1.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://dam.thdstatic.com/content/production/WZ0Lj6b0QgPtSjXW_rJ6Kw/yH7ix4zX8RKpnc1bs4OcJg/Original%20file/4pHbPoah2zfflCE7JgRUCt_177x177-Makita-logo.jpg?im=Crop,rect=(14.78125,15.890625,236.359375,236.359375);Resize=(703,703)"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "https://dam.thdstatic.com/content/production/O6-dYlJvm88bP0y0_f5Mow/oJ0oHD9UG7gacHt5Hnzchw/Original%20file/f4669877-402a-4e7a-a785-4ef6700a576b_Ecomm_Small-DWS779_4.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/1_wTFWOmLcNlfQA32mlxAA/K04AwgAHDkuMmTxIbnY2Ww/Original%20file/tool-savings-2025-phase-4-saws-visnav-3.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/14.avif",
-        "url": "https://dam.thdstatic.com/content/production/W734ANJp-TPpTZPRAwmb9Q/0i9KbS8x1npThzcLy43WwQ/Original%20file/tool-savings-2025-phase-4-saws-visnav-2.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/28.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/FAZITfjZie13FI62sDhmX/0e845411e32a3ef7d9def89acfa47421/1008176008_A.jpg"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "https://dam.thdstatic.com/content/production/L2f0pL6w9u21HfRWbx7Y7Q/Xy3A4w4GKGKjRQmLqavVTQ/Original%20file/tool-savings-2025-phase-4-saws-visnav-4.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/24.avif",
-        "url": "https://dam.thdstatic.com/content/production/J8rGEqOj_-wxzAnkVrtJRA/bEuWmF6wFbB4A1YXhSA5mQ/Original%20file/992602fe-2e57-47e4-b905-d91079a7a108_makita-circular-saws-5377mg-64_1000.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://dam.thdstatic.com/content/production/_4S6K2fc8wkl0KVWW_3kxA/KsNmQ0TE8RWGCLLLzKOSCw/optimizedFile/0848afaf-347d-4168-80df-35347e76db51_DAXSTILL_Rotozip_203408190__RotoSaw55-AmpSpiralSaw_Left-3.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://dam.thdstatic.com/content/production/9mBqQnCtDLxYk_Mrik8nCg/ICupHaDNSoeawEj-Q_JNrQ/optimizedFile/077a1db9-d248-487f-8c3b-ddb31afc9635_QEP_900XT_2.25_HP_10_in._Professional_Tile_Saw_61900Q_205621560_Product_Image.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://dam.thdstatic.com/content/production/hkhIjtmFT_uAoEYNvNy9XA/9nrNTo9S__3Ps1Jbxns3jQ/optimizedFile/7e72a091-e8df-47f2-92f8-1fceb97e1c51_PBLCS300_D_sup_2000px__1_.jpeg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://dam.thdstatic.com/content/production/CqGeZvPDuy5cF-1xgCUM7Q/O-NPj8ZDX33EUH7l_fhl5Q/optimizedFile/2019_ProPlumber_UtilityRoom_1003254445_L_B.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://dam.thdstatic.com/content/production/lRaEgfiKm4C8PAVtQoGH1w/FNN-Y-mpvaqs3PZMIlJclA/optimizedFile/805256db-4eea-494f-8ca6-1d42169b96cf_Makita_XSH01T_Action_Shot_2.jpeg?im=Crop,rect=(0,303.54807692307696,1440,900);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://dam.thdstatic.com/content/production/NS6H4wvi78ritQ2Xvw6X-w/_sO5XLem3Ma2Q4Zocy8c3g/optimizedFile/AlexMazhukhin_MrBuildit_3_2018ProSpective_203464894.JPG?im=Crop,rect=(0,135.25812800480753,1435.7598652550532,898.1472405849361);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://dam.thdstatic.com/content/production/Q4EpsGR6JQHt5pajZiJaCQ/YjllCty1B4Ikg2lI3BQHqQ/Product%20Image%20(square)/jaimecostiglio_jaimecostiglio_2019ProSpective_203162337_3_Product%20Image%20(square).jpg?im=Crop,rect=(0,357.1314102564103,1000.0000000000001,625);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/FQeIxPWWtcZdD4L9rKabsw/C-5erNu0gWynu0DJEM4iEQ/Original%20file/f6c1c74f-ed1c-424f-bf27-e9c0ff1a2c86_R41421_3_Final.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/25.avif",
-        "url": "https://dam.thdstatic.com/content/production/GmYVCXsygJjyqXF_u0u48g/bpkYOHBSmW1Zg8rwnzvgeQ/Original%20file/e38bcded-824c-44cf-819c-d21826683163_STHT20348_P1.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://dam.thdstatic.com/content/production/vtI16AsoI_OVKi1yTtymBA/5Tlp6zZY_AV2Ik3dRv783w/Original%20file/Tracking_Point_V2.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/U91a3QG1Kt0bALgzOH1nrA/lfuLU6CcuLgsTOv0Bc7EmA/optimizedFile/0ef7d461-893e-42a3-9284-f26590b4b39f_DAXSTILL_203040645_Adjustable-Metal-Legs-Sawhorse_ProductImage.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://images.thdstatic.com/productImages/82b68600-8cf9-47ad-9280-0e4589037575/svn/milwaukee-reciprocating-saws-2821-20-64_300.jpg"
+      "price": {
+        "current": 136.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/57.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+    },
+    {
+      "productId": "300010514",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "Industrial Duty High Speed 90 psi Auto Body Saw",
+      "rating": {
+        "average": 0.0,
+        "count": 0
       },
-      {
-        "filename": "images/58.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/06eb49c2-0ae5-47d4-b409-c31094ec537a/svn/emax-air-cut-off-tools-hatbs10s1p-64_100.jpg"
       },
-      {
-        "filename": "images/59.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/60.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/61.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/62.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/63.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/64.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/65.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/66.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/67.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/68.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/69.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/70.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/71.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/72.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/73.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/74.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/75.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+      "price": {
+        "current": 107.23,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/11.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+    },
+    {
+      "productId": "100008676",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "7-1/4in. x 24-Teeth Tracking Point Framing Saw Blade for Wood",
+      "rating": {
+        "average": 4.726,
+        "count": 3296
       },
-      {
-        "filename": "images/10.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/377d7d2f-4117-4ede-8f0f-0cc80432c020/svn/diablo-circular-saw-blades-d0724r-64_100.jpg"
       },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/content/production/lKWXOQMaqzf8Gn3UXh-Vnw/yQlINxnmP36M8RdlJ1W92w/Original%20file/tool-savings-2025-phase-4-saws-hero.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/26.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/77XmA7HsGAXCDTnDfG8tZq/1ef53473782da473156dce7cf5172d71/4fcd66a1-58e2-45c9-aad7-322afd8ac24c_2736-20_4.jpg"
-      },
-      {
-        "filename": "images/29.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2RP3N6OLhi9at1UYoHQ89K/fd5b1cb2e08d47e7789a70b068cdc472/1003899455_B.jpg"
-      },
-      {
-        "filename": "images/34.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/3itDoJIzIShbzd4UVbGCGl/ecfbd6de621994cbc137801b99043c6e/664be1e2-e4da-4767-8922-495871d3ba74_DSH_700-X_1.jpg"
-      },
-      {
-        "filename": "images/37.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2Yj1yGzC9nf4ZTb6fCWFGA/b295dc1d83ee8397dcd933b9823ff24c/Get-It-Fast-Piccola-Banner-Full-WF-4875908.jpg"
-      },
-      {
-        "filename": "images/45.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/6u5x2zqqilNoH9fkfU8nJS/0be00ab44b5fe6a6a236e95aafc97dc0/1003896315_A.jpg"
-      },
-      {
-        "filename": "images/49.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/4Y7h5INRGmKLzKM2RFgEJx/d11b2e41052629bd7928933802569cff/f2c8bd37-3ab2-4067-9b01-4b61adc8390b_DSC_9356.jpg"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/b85e3118-6e96-4c1a-9f4c-f4879ec733f8/svn/dewalt-miter-saws-dws780-64_300.jpg"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://images.thdstatic.com/productImages/75205b75-e01b-4bb4-b3ac-07adbe3e9302/svn/milwaukee-jigsaws-2737-20-64_300.jpg"
-      },
-      {
-        "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/c9de6b3b-65a7-4ed9-be14-751c46db9af9/svn/dewalt-circular-saws-dcs565b-64_300.jpg"
+      "price": {
+        "current": 9.97,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Saws - The Home Depot",
-    "categoryType": "Tool Categories",
-    "categoryFolder": "Saws"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "100033809",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "10in. x 60-Tooth Fine Finish Saw Blade for Wood",
+      "rating": {
+        "average": 4.81,
+        "count": 1258
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/143444f1-c0f2-430f-83dd-82caf2795602/svn/diablo-table-saw-blades-miter-saw-blades-d1060x-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312620578",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (3) Cutting Wheels",
+      "rating": {
+        "average": 4.2717,
+        "count": 946
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a1c38fe3-d17f-4ad7-b79e-8f9ac6465351/svn/ridgid-power-cutting-tools-r87547b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641120",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Subcompact Multi-Material Saw",
+      "rating": {
+        "average": 4.4696,
+        "count": 1248
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e28a6756-922e-4e34-9e22-e0bcd2a45aa3/svn/ridgid-power-cutting-tools-ac8609340sb-r87547b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 278.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958622",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (6) Cutting Wheels",
+      "rating": {
+        "average": 4.206,
+        "count": 796
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20baa484-77bd-4275-9e2d-93343dcc08cf/svn/ridgid-power-cutting-tools-r87547b-ac7cw32-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 148.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325278167",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Hole Dozer General Purpose Bi-Metal Hole Saw Set (39-Piece)",
+      "rating": {
+        "average": 4.4218,
+        "count": 4182
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cb614dc4-a56e-4869-81a6-e9ef9cff660c/svn/milwaukee-hole-saws-bits-49-22-4185-49-22-4020-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319396559",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "BIG HAWG Carbide Hole Saw Kit (18-Piece)",
+      "rating": {
+        "average": 4.8211,
+        "count": 369
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d77bcf2-0cd9-42f5-9765-491514eb7856/svn/milwaukee-hole-saws-bits-49-56-9290-49-56-9285-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321574659",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 2 HP 115V/230V Cabinet Saw",
+      "rating": {
+        "average": 4.5217,
+        "count": 46
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8ffa62d1-a1de-45e2-a4a0-26606d34416c/svn/grizzly-industrial-stationary-table-saws-g0899-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1900.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305663849",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 3 in. Cut Off Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5059,
+        "count": 3619
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d2987a20-1de6-411a-8c58-5bb033a04f45/svn/milwaukee-circular-saws-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321036665",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 6-1/2 in. Plunge Cut Track Saw with 55 in. Track Saw Guide Rail",
+      "rating": {
+        "average": 4.6076,
+        "count": 395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6edb524c-2792-4e27-8ef2-01f7a355ebf9/svn/milwaukee-circular-saws-2831-20-48-08-0571-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315442335",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 6-1/2 in. Plunge Cut Track Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7527,
+        "count": 457
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e9f4342-69fe-4ba6-9baf-4a5b0a18e59d/svn/milwaukee-circular-saws-2831-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311528269",
+      "modelNumber": "",
+      "brand": "ECHO",
+      "title": "14 in. 73.5 cc 2-Stroke Gas Concrete Masonry Pro Cut-Off Saw with Decompression Valve and Abrasive Blade and Water Valve",
+      "rating": {
+        "average": 4.7419,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3acc15b5-6c5e-4064-9159-8685383ba14a/svn/echo-concrete-saws-csg-7410-14-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317298712",
+      "modelNumber": "",
+      "brand": "Evolution Power Tools",
+      "title": "12 In. Electric Concrete Cut-Off Saw, With 12 In. Diamond Blade",
+      "rating": {
+        "average": 4.434,
+        "count": 53
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3df41f38-dc65-48db-a2e1-12d83f2eab9a/svn/evolution-power-tools-concrete-saws-r300dct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 192.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027119",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 700X 32 in. x 10.3 in. Hand-Held Pull Start Concrete Gas Saw with 14 in. Equdist SPX Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f929a64-38f9-4fed-b1fc-e022af8c8c35/svn/hilti-concrete-saws-5001793-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1637.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304101719",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "5 in. Dry Masonry Saw with Dust Extraction",
+      "rating": {
+        "average": 4.2,
+        "count": 40
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0f509e07-9485-4700-a316-986ba6404564/svn/makita-concrete-saws-4100kb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 251.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308737328",
+      "modelNumber": "",
+      "brand": "Tomahawk Power",
+      "title": "6 in. 3.5 HP Honda Early Entry Walk Behind Green Concrete Saw with GX120 Honda Engine",
+      "rating": {
+        "average": 4.4545,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/526a7afe-86f8-4ca3-b920-517ea1dfd9d1/svn/tomahawk-power-concrete-saws-tfs6h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2533.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317283440",
+      "modelNumber": "",
+      "brand": "Evolution Power Tools",
+      "title": "9 in. Electric Concrete Saw",
+      "rating": {
+        "average": 4.2535,
+        "count": 71
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/304da951-0d2a-4e84-b9fb-a60ba2270b96/svn/evolution-power-tools-concrete-saws-r230dct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338910973",
+      "modelNumber": "",
+      "brand": "Stark",
+      "title": "Gas 13 HP EPA 40 in. x 43 in. Walk-Behind Concrete Saw with Steel Handle",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f246338a-ccb0-4ad3-9df7-a151c37207ef/svn/stark-concrete-saws-61060-th-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1649.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321375822",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "12 in. DSH 600-X Hand-Held Concrete Gas Saw with Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c36c693-e184-4f98-9826-a73fa194f71e/svn/hilti-concrete-saws-3563745-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1569.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311687601",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DCH 300-X 12 in. Hand Held Electric Diamond Concrete Cutting Saw",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/287ca19e-7cb6-4271-9b77-4ba2b4b2bd35/svn/hilti-concrete-saws-3625041-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1919.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311687904",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DCH 300-X 12 in. Electric Hand Held Diamond Saw Kit with EQD SPX Universal Blade and Twist Lock",
+      "rating": {
+        "average": 2.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b4ff99c-25ae-467f-8b32-f4bf8a4e7d75/svn/hilti-concrete-saws-3625042-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027169",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. Equidist SPX Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/871894c8-3961-4475-8821-ed86573ebcdd/svn/hilti-concrete-saws-5001796-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027155",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 700X 32 in. x 10.3 in. Hand-Held Pull Start Concrete Gas Saw with (10) 14 in. Metal Deck Cutting Abrasive Blades",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a948b48b-4979-4010-8fef-1e923025ef2d/svn/hilti-concrete-saws-5001795-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1697.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027186",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. SPX Metal Cutting Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/696a7149-ddc2-4ab1-b39d-6501894333d0/svn/hilti-concrete-saws-5001797-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337129316",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander Kit W/ Batteries, Accessories, Charger, Bag & Cut Off Saw",
+      "rating": {
+        "average": 4.3693,
+        "count": 1140
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f049efb1-813b-4794-927d-02710de906a0/svn/milwaukee-polishers-2438-22x-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    }
+  ]
 }

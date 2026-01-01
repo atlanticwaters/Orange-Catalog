@@ -1,0 +1,45 @@
+{
+  "productId": "316719143",
+  "identifiers": {
+    "internetNumber": "316719143",
+    "modelNumber": "",
+    "storeSkuNumber": "316719143"
+  },
+  "brand": {
+    "name": "DURASACK",
+    "logoUrl": "images/brands/durasack.svg"
+  },
+  "title": "DuraSack 48 Gal. Gray Outdoor Polypropylene Reusable Lawn and Leaf Bag (1-Count)",
+  "shortDescription": "DuraSack 48 Gal. Gray Outdoor Polypropylene Reusable Lawn and Leaf Bag (1-Count)",
+  "longDescription": "DuraSack 48 Gal. Gray Outdoor Polypropylene Reusable Lawn and Leaf Bag (1-Count)",
+  "pricing": {
+    "currentPrice": 17.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7098,
+    "count": 224
+  },
+  "media": {
+    "primaryImage": "/products/316719143/durasack-lawn-leaf-bags-bb-2028gry-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316719143/durasack-lawn-leaf-bags-bb-2028gry-64_100.jpg",
+        "altText": "DuraSack 48 Gal. Gray Outdoor Polypropylene Reusable Lawn and Leaf Bag (1-Count)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.567966"
+}

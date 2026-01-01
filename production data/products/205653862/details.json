@@ -1,0 +1,45 @@
+{
+  "productId": "205653862",
+  "identifiers": {
+    "internetNumber": "205653862",
+    "modelNumber": "",
+    "storeSkuNumber": "205653862"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "15 in. 12-Speed Drill Press with LED",
+  "shortDescription": "15 in. 12-Speed Drill Press with LED",
+  "longDescription": "15 in. 12-Speed Drill Press with LED",
+  "pricing": {
+    "currentPrice": 529.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0467,
+    "count": 214
+  },
+  "media": {
+    "primaryImage": "/products/205653862/ridgid-drill-presses-r1500-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205653862/ridgid-drill-presses-r1500-64_100.jpg",
+        "altText": "15 in. 12-Speed Drill Press with LED",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.659859"
+}

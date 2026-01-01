@@ -1,0 +1,45 @@
+{
+  "productId": "203656953",
+  "identifiers": {
+    "internetNumber": "203656953",
+    "modelNumber": "",
+    "storeSkuNumber": "203656953"
+  },
+  "brand": {
+    "name": "PowerSmith",
+    "logoUrl": "images/brands/powersmith.svg"
+  },
+  "title": "10 Amp 3 Gal. All-In-One Wheeled Ash/Shop Vacuum with Metal Lined Hose, Washable Filter and 5 Accessory Nozzles",
+  "shortDescription": "10 Amp 3 Gal. All-In-One Wheeled Ash/Shop Vacuum with Metal Lined Hose, Washable Filter and 5 Accessory Nozzles",
+  "longDescription": "10 Amp 3 Gal. All-In-One Wheeled Ash/Shop Vacuum with Metal Lined Hose, Washable Filter and 5 Accessory Nozzles",
+  "pricing": {
+    "currentPrice": 79.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3562,
+    "count": 963
+  },
+  "media": {
+    "primaryImage": "/products/203656953/powersmith-dust-collectors-pavc101-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203656953/powersmith-dust-collectors-pavc101-64_100.jpg",
+        "altText": "10 Amp 3 Gal. All-In-One Wheeled Ash/Shop Vacuum with Metal Lined Hose, Washable Filter and 5 Accessory Nozzles",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.674412"
+}

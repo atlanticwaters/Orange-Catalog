@@ -1,0 +1,45 @@
+{
+  "productId": "315123999",
+  "identifiers": {
+    "internetNumber": "315123999",
+    "modelNumber": "",
+    "storeSkuNumber": "315123999"
+  },
+  "brand": {
+    "name": "Tvilum",
+    "logoUrl": "images/brands/tvilum.svg"
+  },
+  "title": "Portland 6-Drawer Double Dresser in Black 26.89 in. H x 56.34 in. W x 12.46 in. D",
+  "shortDescription": "Portland 6-Drawer Double Dresser in Black 26.89 in. H x 56.34 in. W x 12.46 in. D",
+  "longDescription": "Portland 6-Drawer Double Dresser in Black 26.89 in. H x 56.34 in. W x 12.46 in. D",
+  "pricing": {
+    "currentPrice": 109.95,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.0758,
+    "count": 211
+  },
+  "media": {
+    "primaryImage": "/products/315123999/black-tvilum-dressers-703288686-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/315123999/black-tvilum-dressers-703288686-64_100.jpg",
+        "altText": "Portland 6-Drawer Double Dresser in Black 26.89 in. H x 56.34 in. W x 12.46 in. D",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.597897"
+}

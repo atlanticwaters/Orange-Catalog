@@ -1,0 +1,45 @@
+{
+  "productId": "320576036",
+  "identifiers": {
+    "internetNumber": "320576036",
+    "modelNumber": "",
+    "storeSkuNumber": "320576036"
+  },
+  "brand": {
+    "name": "STARK USA",
+    "logoUrl": "images/brands/stark-usa.svg"
+  },
+  "title": "1/4 HP 3.5 CFM HVAC A/C Refrigerant Rotary Air Vacuum Pump",
+  "shortDescription": "1/4 HP 3.5 CFM HVAC A/C Refrigerant Rotary Air Vacuum Pump",
+  "longDescription": "1/4 HP 3.5 CFM HVAC A/C Refrigerant Rotary Air Vacuum Pump",
+  "pricing": {
+    "currentPrice": 65.95,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7826,
+    "count": 23
+  },
+  "media": {
+    "primaryImage": "/products/320576036/stark-usa-air-compressor-parts-71096-h-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320576036/stark-usa-air-compressor-parts-71096-h-64_100.jpg",
+        "altText": "1/4 HP 3.5 CFM HVAC A/C Refrigerant Rotary Air Vacuum Pump",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.653704"
+}

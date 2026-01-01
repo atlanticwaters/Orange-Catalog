@@ -1,0 +1,45 @@
+{
+  "productId": "309740749",
+  "identifiers": {
+    "internetNumber": "309740749",
+    "modelNumber": "",
+    "storeSkuNumber": "309740749"
+  },
+  "brand": {
+    "name": "Dremel",
+    "logoUrl": "images/brands/dremel.svg"
+  },
+  "title": "Lite 7760 4V Variable Speed Lithium Ion Cordless Rotary Tool Kit with 10 Accessories",
+  "shortDescription": "Lite 7760 4V Variable Speed Lithium Ion Cordless Rotary Tool Kit with 10 Accessories",
+  "longDescription": "Lite 7760 4V Variable Speed Lithium Ion Cordless Rotary Tool Kit with 10 Accessories",
+  "pricing": {
+    "currentPrice": 62.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2354,
+    "count": 616
+  },
+  "media": {
+    "primaryImage": "/products/309740749/dremel-rotary-tools-7760-n-10-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309740749/dremel-rotary-tools-7760-n-10-64_100.jpg",
+        "altText": "Lite 7760 4V Variable Speed Lithium Ion Cordless Rotary Tool Kit with 10 Accessories",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.700252"
+}

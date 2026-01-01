@@ -1,0 +1,45 @@
+{
+  "productId": "333800331",
+  "identifiers": {
+    "internetNumber": "333800331",
+    "modelNumber": "",
+    "storeSkuNumber": "333800331"
+  },
+  "brand": {
+    "name": "Poly and Bark",
+    "logoUrl": "images/brands/poly-and-bark.svg"
+  },
+  "title": "Ciro 37 in. Walnut Round Glass Top Coffee Table with Wood",
+  "shortDescription": "Ciro 37 in. Walnut Round Glass Top Coffee Table with Wood",
+  "longDescription": "Ciro 37 in. Walnut Round Glass Top Coffee Table with Wood",
+  "pricing": {
+    "currentPrice": 506.69,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/333800331/walnut-poly-and-bark-coffee-tables-lr-706-wal-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333800331/walnut-poly-and-bark-coffee-tables-lr-706-wal-64_100.jpg",
+        "altText": "Ciro 37 in. Walnut Round Glass Top Coffee Table with Wood",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.492236"
+}

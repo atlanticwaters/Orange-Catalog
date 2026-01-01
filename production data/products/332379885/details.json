@@ -1,0 +1,45 @@
+{
+  "productId": "332379885",
+  "identifiers": {
+    "internetNumber": "332379885",
+    "modelNumber": "",
+    "storeSkuNumber": "332379885"
+  },
+  "brand": {
+    "name": "Signature DESIGN BY ASHLEY",
+    "logoUrl": "images/brands/signature-design-by-ashley.svg"
+  },
+  "title": "Bolanburg 46 in. Two-Tone Square Wood Coffee Table with Lift Top",
+  "shortDescription": "Bolanburg 46 in. Two-Tone Square Wood Coffee Table with Lift Top",
+  "longDescription": "Bolanburg 46 in. Two-Tone Square Wood Coffee Table with Lift Top",
+  "pricing": {
+    "currentPrice": 495.14,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4286,
+    "count": 7
+  },
+  "media": {
+    "primaryImage": "/products/332379885/two-tone-signature-design-by-ashley-coffee-tables-t637-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332379885/two-tone-signature-design-by-ashley-coffee-tables-t637-20-64_100.jpg",
+        "altText": "Bolanburg 46 in. Two-Tone Square Wood Coffee Table with Lift Top",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.490780"
+}

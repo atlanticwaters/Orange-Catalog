@@ -1,0 +1,45 @@
+{
+  "productId": "300837024",
+  "identifiers": {
+    "internetNumber": "300837024",
+    "modelNumber": "",
+    "storeSkuNumber": "300837024"
+  },
+  "brand": {
+    "name": "A & B Home",
+    "logoUrl": "images/brands/a-b-home.svg"
+  },
+  "title": "35 in. Artificial Decorative Boxwood Topiary Tree",
+  "shortDescription": "35 in. Artificial Decorative Boxwood Topiary Tree",
+  "longDescription": "35 in. Artificial Decorative Boxwood Topiary Tree",
+  "pricing": {
+    "currentPrice": 111.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 18
+  },
+  "media": {
+    "primaryImage": "/products/300837024/a-b-home-artificial-topiaries-58147-ds-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300837024/a-b-home-artificial-topiaries-58147-ds-64_100.jpg",
+        "altText": "35 in. Artificial Decorative Boxwood Topiary Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.609340"
+}

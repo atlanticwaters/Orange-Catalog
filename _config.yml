@@ -1,0 +1,22 @@
+# GitHub Pages Configuration for Orange Catalog
+
+# Serve JSON files with correct MIME type
+include:
+  - "_*"
+  - "*.json"
+  - "production data"
+
+# No Jekyll processing - serve files as-is
+markdown: false
+highlighter: false
+
+# MIME types
+defaults:
+  - scope:
+      path: "**/*.json"
+    values:
+      layout: none
+
+# Enable CORS for API access
+plugins:
+  - jekyll-cors

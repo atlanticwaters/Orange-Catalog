@@ -1,0 +1,45 @@
+{
+  "productId": "338033807",
+  "identifiers": {
+    "internetNumber": "338033807",
+    "modelNumber": "",
+    "storeSkuNumber": "338033807"
+  },
+  "brand": {
+    "name": "Polibi",
+    "logoUrl": "images/brands/polibi.svg"
+  },
+  "title": "129.1 in. Square Arm Corduroy Sectional Sofa with a Chaise Lounge in. Gray",
+  "shortDescription": "129.1 in. Square Arm Corduroy Sectional Sofa with a Chaise Lounge in. Gray",
+  "longDescription": "129.1 in. Square Arm Corduroy Sectional Sofa with a Chaise Lounge in. Gray",
+  "pricing": {
+    "currentPrice": 1205.01,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.6,
+    "count": 5
+  },
+  "media": {
+    "primaryImage": "/products/338033807/gray-polibi-sectional-sofas-rs519-344090e-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338033807/gray-polibi-sectional-sofas-rs519-344090e-64_100.jpg",
+        "altText": "129.1 in. Square Arm Corduroy Sectional Sofa with a Chaise Lounge in. Gray",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.587253"
+}

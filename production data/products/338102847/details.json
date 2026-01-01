@@ -1,0 +1,45 @@
+{
+  "productId": "338102847",
+  "identifiers": {
+    "internetNumber": "338102847",
+    "modelNumber": "",
+    "storeSkuNumber": "338102847"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "22 in. Rolling System Tool Box and Connect Stackable 10-Compartment Small Tool Organizer Combo",
+  "shortDescription": "22 in. Rolling System Tool Box and Connect Stackable 10-Compartment Small Tool Organizer Combo",
+  "longDescription": "22 in. Rolling System Tool Box and Connect Stackable 10-Compartment Small Tool Organizer Combo",
+  "pricing": {
+    "currentPrice": 129.96,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5489,
+    "count": 829
+  },
+  "media": {
+    "primaryImage": "/products/338102847/husky-small-parts-organizers-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338102847/husky-small-parts-organizers-64_100.jpg",
+        "altText": "22 in. Rolling System Tool Box and Connect Stackable 10-Compartment Small Tool Organizer Combo",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.542636"
+}

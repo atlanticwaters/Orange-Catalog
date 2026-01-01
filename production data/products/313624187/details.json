@@ -1,0 +1,45 @@
+{
+  "productId": "313624187",
+  "identifiers": {
+    "internetNumber": "313624187",
+    "modelNumber": "",
+    "storeSkuNumber": "313624187"
+  },
+  "brand": {
+    "name": "Costway",
+    "logoUrl": "images/brands/costway.svg"
+  },
+  "title": "19 in. W 1.34 cu. ft. Smart Portable Top Load Washing Machine Spin Compact Washer in Grey",
+  "shortDescription": "19 in. W 1.34 cu. ft. Smart Portable Top Load Washing Machine Spin Compact Washer in Grey",
+  "longDescription": "19 in. W 1.34 cu. ft. Smart Portable Top Load Washing Machine Spin Compact Washer in Grey",
+  "pricing": {
+    "currentPrice": 318.01,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1603,
+    "count": 131
+  },
+  "media": {
+    "primaryImage": "/products/313624187/grey-costway-portable-washing-machines-bxd3113-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313624187/grey-costway-portable-washing-machines-bxd3113-64_100.jpg",
+        "altText": "19 in. W 1.34 cu. ft. Smart Portable Top Load Washing Machine Spin Compact Washer in Grey",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.556470"
+}

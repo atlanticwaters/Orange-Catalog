@@ -1,0 +1,45 @@
+{
+  "productId": "318631244",
+  "identifiers": {
+    "internetNumber": "318631244",
+    "modelNumber": "",
+    "storeSkuNumber": "318631244"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "ATOMIC 20V MAX Cordless 3/8 in. Ratchet (Tool Only)",
+  "shortDescription": "ATOMIC 20V MAX Cordless 3/8 in. Ratchet (Tool Only)",
+  "longDescription": "ATOMIC 20V MAX Cordless 3/8 in. Ratchet (Tool Only)",
+  "pricing": {
+    "currentPrice": 179.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4727,
+    "count": 440
+  },
+  "media": {
+    "primaryImage": "/products/318631244/dewalt-cordless-ratchets-dcf513b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318631244/dewalt-cordless-ratchets-dcf513b-64_100.jpg",
+        "altText": "ATOMIC 20V MAX Cordless 3/8 in. Ratchet (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.701020"
+}

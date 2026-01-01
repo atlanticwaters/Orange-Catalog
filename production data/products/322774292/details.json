@@ -1,0 +1,45 @@
+{
+  "productId": "322774292",
+  "identifiers": {
+    "internetNumber": "322774292",
+    "modelNumber": "",
+    "storeSkuNumber": "322774292"
+  },
+  "brand": {
+    "name": "Home Decorators Collection",
+    "logoUrl": "images/brands/home-decorators-collection.svg"
+  },
+  "title": "Sadie Antique Green Hall Tree with Cushioned Storage Bench",
+  "shortDescription": "Sadie Antique Green Hall Tree with Cushioned Storage Bench",
+  "longDescription": "Sadie Antique Green Hall Tree with Cushioned Storage Bench",
+  "pricing": {
+    "currentPrice": 999.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3854,
+    "count": 205
+  },
+  "media": {
+    "primaryImage": "/products/322774292/antique-green-home-decorators-collection-hall-trees-sk19081cr2-ab-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322774292/antique-green-home-decorators-collection-hall-trees-sk19081cr2-ab-64_100.jpg",
+        "altText": "Sadie Antique Green Hall Tree with Cushioned Storage Bench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.550222"
+}

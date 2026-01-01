@@ -1,0 +1,45 @@
+{
+  "productId": "329444998",
+  "identifiers": {
+    "internetNumber": "329444998",
+    "modelNumber": "",
+    "storeSkuNumber": "329444998"
+  },
+  "brand": {
+    "name": "Magic Chef",
+    "logoUrl": "images/brands/magic-chef.svg"
+  },
+  "title": "1.5 cu ft. Vented Compact Electric Dryer in White with Sensor",
+  "shortDescription": "1.5 cu ft. Vented Compact Electric Dryer in White with Sensor",
+  "longDescription": "1.5 cu ft. Vented Compact Electric Dryer in White with Sensor",
+  "pricing": {
+    "currentPrice": 225.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/329444998/white-magic-chef-electric-dryers-mcsdry15se-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329444998/white-magic-chef-electric-dryers-mcsdry15se-64_100.jpg",
+        "altText": "1.5 cu ft. Vented Compact Electric Dryer in White with Sensor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.543443"
+}

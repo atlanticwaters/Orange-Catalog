@@ -1,341 +1,158 @@
 {
   "categoryId": "appliances/dishwashers",
   "name": "Dishwashers",
-  "originalUrl": "https://www.homedepot.com/b/Appliances-Dishwashers/N-5yc1vZc3po",
-  "archiveTime": "2025-12-31T18:29:14.819Z",
+  "slug": "dishwashers",
+  "path": "/categories/appliances/dishwashers",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.704684",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Appliances",
-      "url": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w"
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Dishwashers",
+      "url": "/appliances/dishwashers"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/11.avif",
-  "productIds": [
-    "206147639",
-    "314298606",
-    "322003405",
-    "325602597",
-    "329241860",
-    "330817229",
-    "336625538"
+  "pageInfo": {
+    "totalResults": 5
+  },
+  "featuredBrands": [
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 2
+    },
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 1
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 1
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 7,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/35.avif",
-        "url": "https://dam.thdstatic.com/content/production/b4ClinG1Bpu90YCjZyCAaA/Tozd6jkI_up2HgAttgzhGw/Original%20file/1023Refrigeration_Slate.jpg?im=Resize=(703,703)"
+  "products": [
+    {
+      "productId": "330557133",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. Over-the-Range Microwave in Stainless Steel with Dishwasher Safe Grease Filter and Vent",
+      "rating": {
+        "average": 4.2626,
+        "count": 358
       },
-      {
-        "filename": "images/36.avif",
-        "url": "https://dam.thdstatic.com/content/production/sFCf4HVgOieTf6g1zYfYWA/tGABgAKcEW7LpQICRyL0Ow/Original%20file/1023Refrigeration_BlkSteel.jpg?im=Resize=(703,703)"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c498e60-3d2c-4d28-b223-09035d1b7e19/svn/stainless-steel-frigidaire-over-the-range-microwaves-fmos1746bs-64_100.jpg"
       },
-      {
-        "filename": "images/55.avif",
-        "url": "https://dam.thdstatic.com/content/production/QecI-x11-RlAUj-YY5yXUw/6e4OI9h15LI7Hr8jAYvifw/optimizedFile/97_2_2022_ePro_Delivery_L_069.jpg?im=Resize=(703,395.44)"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/13.avif",
-        "url": "https://dam.thdstatic.com/content/production/Q4F6mr5zKtD25Ty0jKGo_w/of79Fbxu4oKCjW_jQ0N4LA/Original%20file/07JUL23_MiniSplitAC_VN_Bosch.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/14.avif",
-        "url": "https://dam.thdstatic.com/content/production/TDrDy8GHmJkHToUHszdR4Q/OxHo8Icnh5z9UtJ9HaPMoA/Original%20file/21AUG23_WashersDryers_VN_Whirlpool.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/hYDhRYD7JBG_79cz0Cnb3A/pgtT8h3J8EcMjFozijeBrQ/Original%20file/21AUG23_WashersDryers_VN_GEAppliances.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "https://dam.thdstatic.com/content/production/wpK_nzpTyHJj4evguyHOlg/yqcU2ZrMOMf0kWGZY5gfvQ/Original%20file/21AUG23_WashersDryers_VN_LG.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/content/production/uBKZXNqes8YtIiaSArbCzw/wcZR2FRwXDEaSYcr2MXvTA/Original%20file/02FEB24_WashersDryers_VN_Samsung.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/UdUsNdvx1XMIqTwGy5q1Xg/_t4C7WSWjdBBH65gEVqAPA/Original%20file/Frigidiare-logo-04-14.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://dam.thdstatic.com/content/production/iMdrsKsw6UhfOk5Nkg6CcQ/J2ln4BAfoMRSs2TMoB2Gzg/Original%20file/21AUG23_WashersDryers_VN_Maytag.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "https://dam.thdstatic.com/content/production/BNkneEVIobB_CtDFDRXzIA/A_vuSCsYKCtQ937Bjea3kw/Original%20file/20MAY2025_18_Cafe_logo_wordmark_4C_SQUARE.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "https://dam.thdstatic.com/content/production/pgtut_6UIowBuijhpOu5GA/0NSD5GzTu7Zt5FfTEPe2RQ/Original%20file/10OCT23_Refrigerators_VN_Zline.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://dam.thdstatic.com/content/production/lo1vnzyFQep1A-xZ-cWdsw/fY_eECwF8im_I6PIIirngA/Original%20file/1023Refrigeration_StainlessSteel.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://dam.thdstatic.com/content/production/TIo_f_bNa-slHGaVWsGuuQ/_pbTZPEIbNkCbAQYJoulZA/Original%20file/1023Refrigeration_BlkStainlessSteel.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://dam.thdstatic.com/content/production/3c6-m0BWJMWoMRlQwUrARg/HGx4OXijF2Fi1VxxDZuhdA/Original%20file/1023Refrigeration_White.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/34.avif",
-        "url": "https://dam.thdstatic.com/content/production/sRKBdkRgupyeOdBBjT7tzQ/HDbQaNDZrfY-3x-KbJfm3A/Original%20file/1023Refrigeration_Black.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/19.avif",
-        "url": "https://dam.thdstatic.com/content/production/3okS0k0C7oXvnlqt8Q6tEQ/PSRiwyqdPl9WtzPvSQBBAg/Original%20file/18JUL23_OutdoorKitchens_VN_Kitchenaid.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "https://dam.thdstatic.com/content/production/PKTOqSD-oYRL58Llinm-fA/SJnDNXFgEdCb2bOUbGOdVA/Original%20file/10OCT23_Dishwashers_VN_Danby.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/24.avif",
-        "url": "https://dam.thdstatic.com/content/production/LiFsooXzfCpDACqzHZIr2g/sJTTz2yTQEHkHG0aPuuKCA/Original%20file/10OCT23_Dishwashers_VN_SPT.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/25.avif",
-        "url": "https://dam.thdstatic.com/content/production/fNiGPFj_D0JWEb9a-U7hsg/w49kHpa5b9BzWTlVVbSzkA/optimizedFile/dc5bfa81-bed7-4a05-affd-234b51ace301_G5942_SHEM63W55N_1187673_korr_3000x3000.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/26.avif",
-        "url": "https://dam.thdstatic.com/content/production/uj12ItMRkrK40gSAKidGhw/BKlvHRIOw6x17mT6EAJewA/Original%20file/10OCT23_Dishwashers_VN_PortableDishwashers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/27.avif",
-        "url": "https://dam.thdstatic.com/content/production/etmIDS1PbB1-wn8VYBhAdA/kwAjY3NMeibNLvbaargfGw/Original%20file/10OCT23_Dishwashers_VN_SmartDishwashers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/28.avif",
-        "url": "https://dam.thdstatic.com/content/production/SFJBIpNr5BC-YEtm_fXOlA/mlO1V4x4Hys5NAIWbyeWXw/optimizedFile/113d64b5-f15c-4ad2-833f-a393da74c3e8_MCSCD3W_Front_Empty_Blue.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://dam.thdstatic.com/content/production/lAkOPs00Beud2m34ojpnwQ/aG-MV7vekeSAAxYL4Zzbuw/optimizedFile/LDFN454HT_%20Lifestyle%201.jpg?im=Crop,rect=(473.6405529953917,56.10914963942307,529.8387096774194,529.7325721153846);Resize=(703,703)"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://dam.thdstatic.com/content/production/DDvyfOAtVI_yl-lGVz3FOg/BMw6EMcb4ytNHDn4a-w7Rw/optimizedFile/fe111c4d-3238-4cea-84a7-fab0f1bedbde_WDTA50SAKZset-p200413wd-074z.jpeg?im=Crop,rect=(220.76923076923077,0,960,960);Resize=(703,703)"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "https://dam.thdstatic.com/content/production/7ti77jQEztBzp4tjt5_RvQ/RJ_mdZM1HJY0WSHJnMbVvA/Original%20file/5b12c567-4e2d-4ba7-8099-99445fccd85e_126241_PDD415PYYFS_HO.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://dam.thdstatic.com/content/production/-YViwy5BW-wrWtueqOzFvw/yCotPJaOUju8jlynB1Vbqw/Original%20file/3c4640db-2e47-48d3-afc5-19f59b413f22_DSC_0396.jpg_baskets_pulled_inside_view.jpeg?im=Crop,rect=(175.45572916666669,274.4140625,725.5859375000001,725.5859375000001);Resize=(703,703)"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://dam.thdstatic.com/content/production/1epz6rx8MyKfWYP2C02UXQ/dmC1f9cdqogfHHhoKpt16g/Original%20file/10OCT23_Dishwashers_VN_FingerprintResistant.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://dam.thdstatic.com/content/production/xOlLTzLNmkCR9cFlA-NXrg/zfDl-oAYQ6qsiXmBxnOqqQ/Original%20file/10OCT23_Dishwashers_Spotlight_01.png?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://dam.thdstatic.com/content/production/yQsZX4K08qYefh5Ria_FdA/rjdVD8gkR0s4N-n1ky6pvg/Original%20file/10OCT23_Dishwashers_VN_Quietest.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/mxmv7MzgXqmIQIJ_oxiusQ/0WfBMKaio2H-aak-EN5zyg/Original%20file/10OCT23_Dishwashers_VN_Quieter.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/Uf9iFr2zgNRCmkKT3onyaA/rcHtySTrlImhPjW16yBRdQ/Original%20file/10OCT23_Dishwashers_VN_Average.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://dam.thdstatic.com/content/production/P513qSYAgseWdzl_ypZISw/QPF71fE58vZmCSCnYVtqGA/Original%20file/10OCT23_Dishwashers_VN_DishwasherParts.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://dam.thdstatic.com/content/production/mGa-N0CK2n24sy__YX69XQ/KVmw27K5DUqhzsxz0ivfYQ/optimizedFile/9a9940e4-df87-42c3-82b8-d6c808e8adea_WDTA50SAKZ-set-p200597wd-016-Trade.jpeg?im=Crop,rect=(790.7960863986314,51.66433794070513,648.9200171086399,649.040765224359);Resize=(703,703)"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://dam.thdstatic.com/content/production/3tvbjyrHZZWz6hjZFGjgzQ/ysH8ELgUnbkCKgfj8MHd-A/Original%20file/10OCT23_Dishwashers_VN_ApplianceParts.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://dam.thdstatic.com/content/production/SOfrT4uJL4nLMhnnfW63OA/aTbToMiG7w8hP-6jrJcc-g/Original%20file/10OCT23_Dishwashers_VN_EnergyStar.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://dam.thdstatic.com/content/production/kJn2UTiwC72NNvFjXRIzqw/vqbfdC5-JfCkPi5u1JSwYA/optimizedFile/46fc95f6-3331-47c0-b1b8-0a8355358123_63175S_MAIN_2021.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/VIOeWaTqmq44CpkzNw2sKQ/Y3X7OqcmbrWRush-8pjPOA/Original%20file/10OCT23_Dishwashers_VN_ShopAll.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://dam.thdstatic.com/content/production/W_7Qybpo6_V2spASADoYhw/vFP76DNA8BlQnhlIThBKhA/optimizedFile/AdobeStock_206963068.jpeg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://dam.thdstatic.com/content/production/Z_pkCbqO50UgZhELORy_mg/esEQu08mwBjBRgEN8VY5kg/Original%20file/10OCT23_Dishwashers_Resources_01.png?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://dam.thdstatic.com/content/production/iSbwm9bQHRyn9kCTDKvaCA/JcwJMkGtVKPcYyrFoXEsRg/Original%20file/10OCT23_Dishwashers_Spotlight_02.png?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://dam.thdstatic.com/content/production/TgA9KCnKV_WLompqLcQNOQ/Q_0czGwYvdczabQeJx2Omw/optimizedFile/01a87c8a-5e89-430d-8e55-217f1d1f097d_WRX735SDHZ_Standalone_3000X3000.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/l-uBMmxNJLZpCwJ00xAApw/M8yOCUPGV_nRCm-oJEksKw/Original%20file/10OCT23_Dishwashers_VN_Quiet.png?im=Resize=(703,703)"
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/60.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+    },
+    {
+      "productId": "314298606",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "24 in. Front Control Smart Built-In Tall Tub 62 dBA Dishwasher in Stainless Steel",
+      "rating": {
+        "average": 3.7938,
+        "count": 2885
       },
-      {
-        "filename": "images/61.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/370e1782-4bc8-4cbb-b7de-acb9ce7d301c/svn/stainless-steel-frigidaire-built-in-dishwashers-fdpc4221as-64_100.jpg"
       },
-      {
-        "filename": "images/62.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/63.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/64.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/65.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/66.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/67.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/68.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/69.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/70.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/71.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/73.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/72.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/75.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/74.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/10.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+    },
+    {
+      "productId": "329241860",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "24 in. Top Control Standard 48 dBA Dishwasher with QuadWash in Stainless Steel",
+      "rating": {
+        "average": 3.7876,
+        "count": 1714
       },
-      {
-        "filename": "images/11.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26JUN25-AppliancesSavingsBanner-DSK-02.png"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d020fa2f-8f3e-4e7a-893f-7ae81378384a/svn/stainless-steel-lg-built-in-dishwashers-ldpn454ht-64_100.jpg"
       },
-      {
-        "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/480a2c7e-cbb6-4483-b72f-7a4fb6ef4550/svn/fingerprint-resistant-stainless-steel-whirlpool-built-in-dishwashers-wdps7024rz-64_300.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/57.avif",
-        "url": "https://images.thdstatic.com/productImages/d020fa2f-8f3e-4e7a-893f-7ae81378384a/svn/stainless-steel-lg-built-in-dishwashers-ldpn454ht-64_300.jpg"
-      },
-      {
-        "filename": "images/59.webp",
-        "url": "https://images.thdstatic.com/productImages/370e1782-4bc8-4cbb-b7de-acb9ce7d301c/svn/stainless-steel-frigidaire-built-in-dishwashers-fdpc4221as-64_300.jpg"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/2adfe523-2d38-4013-bfbe-c6cdec968d1c/svn/printshield-stainless-kitchenaid-built-in-dishwashers-kdts424sps-64_300.jpg"
-      },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/content/production/zgsUedb7ngby7-lsbLpJNw/kX8kWdLwAh0-YakvQYFCoA/Original%20file/D29A-2025-Winter-Appliances-Hero-Dishwashers.png"
+      "price": {
+        "current": 549.0,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Dishwashers - The Home Depot",
-    "categoryType": "PLP Landing Pages",
-    "categoryFolder": "Dishwashers"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "330817229",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24 in. Built-In Tall Tub 41 dBA Dishwasher in Fingerprint Resistant Stainless Steel with Washing 3rd Rack",
+      "rating": {
+        "average": 4.4176,
+        "count": 922
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/480a2c7e-cbb6-4483-b72f-7a4fb6ef4550/svn/fingerprint-resistant-stainless-steel-whirlpool-built-in-dishwashers-wdps7024rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336625538",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24 in. Top Control Built-In Tall Tub 44 dBA Dishwasher in PrintShield Stainless with 360 MaxJets 3rd Rack",
+      "rating": {
+        "average": 4.5021,
+        "count": 235
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2adfe523-2d38-4013-bfbe-c6cdec968d1c/svn/printshield-stainless-kitchenaid-built-in-dishwashers-kdts424sps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 949.0,
+        "currency": "USD"
+      }
+    }
+  ]
 }

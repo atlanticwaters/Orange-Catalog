@@ -1,0 +1,45 @@
+{
+  "productId": "335039553",
+  "identifiers": {
+    "internetNumber": "335039553",
+    "modelNumber": "",
+    "storeSkuNumber": "335039553"
+  },
+  "brand": {
+    "name": "Harper & Bright Designs",
+    "logoUrl": "images/brands/harper-bright-designs.svg"
+  },
+  "title": "47.2 in. Brown Oval MDF Coffee Table with Lift Top and Hidden Compartment",
+  "shortDescription": "47.2 in. Brown Oval MDF Coffee Table with Lift Top and Hidden Compartment",
+  "longDescription": "47.2 in. Brown Oval MDF Coffee Table with Lift Top and Hidden Compartment",
+  "pricing": {
+    "currentPrice": 238.13,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/335039553/brown-harper-bright-designs-coffee-tables-wc071aad-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335039553/brown-harper-bright-designs-coffee-tables-wc071aad-64_100.jpg",
+        "altText": "47.2 in. Brown Oval MDF Coffee Table with Lift Top and Hidden Compartment",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.492333"
+}

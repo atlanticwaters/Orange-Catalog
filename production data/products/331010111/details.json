@@ -1,0 +1,45 @@
+{
+  "productId": "331010111",
+  "identifiers": {
+    "internetNumber": "331010111",
+    "modelNumber": "",
+    "storeSkuNumber": "331010111"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "62 in. W x 24 in. D Heavy-Duty 10-Drawer Mobile Workbench with Stainless Steel Work Top Combo Hutch in Matte Black",
+  "shortDescription": "62 in. W x 24 in. D Heavy-Duty 10-Drawer Mobile Workbench with Stainless Steel Work Top Combo Hutch in Matte Black",
+  "longDescription": "62 in. W x 24 in. D Heavy-Duty 10-Drawer Mobile Workbench with Stainless Steel Work Top Combo Hutch in Matte Black",
+  "pricing": {
+    "currentPrice": 1635.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2609,
+    "count": 23
+  },
+  "media": {
+    "primaryImage": "/products/331010111/matte-black-husky-tool-chest-combos-hotc6210bb1s-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331010111/matte-black-husky-tool-chest-combos-hotc6210bb1s-64_100.jpg",
+        "altText": "62 in. W x 24 in. D Heavy-Duty 10-Drawer Mobile Workbench with Stainless Steel Work Top Combo Hutch in Matte Black",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.540229"
+}

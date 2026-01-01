@@ -1,0 +1,45 @@
+{
+  "productId": "312485586",
+  "identifiers": {
+    "internetNumber": "312485586",
+    "modelNumber": "",
+    "storeSkuNumber": "312485586"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "TOUGHSYSTEM 2.0 24 in. W Modular Tool Box",
+  "shortDescription": "TOUGHSYSTEM 2.0 24 in. W Modular Tool Box",
+  "longDescription": "TOUGHSYSTEM 2.0 24 in. W Modular Tool Box",
+  "pricing": {
+    "currentPrice": 89.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6023,
+    "count": 2912
+  },
+  "media": {
+    "primaryImage": "/products/312485586/black-dewalt-modular-tool-storage-systems-dwst08450-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312485586/black-dewalt-modular-tool-storage-systems-dwst08450-64_100.jpg",
+        "altText": "TOUGHSYSTEM 2.0 24 in. W Modular Tool Box",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.572155"
+}

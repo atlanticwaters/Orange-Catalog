@@ -1,0 +1,45 @@
+{
+  "productId": "326781673",
+  "identifiers": {
+    "internetNumber": "326781673",
+    "modelNumber": "",
+    "storeSkuNumber": "326781673"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V High Volume Inflator Kit with 2.0Ah Battery and Charger",
+  "shortDescription": "ONE+ 18V High Volume Inflator Kit with 2.0Ah Battery and Charger",
+  "longDescription": "ONE+ 18V High Volume Inflator Kit with 2.0Ah Battery and Charger",
+  "pricing": {
+    "currentPrice": 64.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4873,
+    "count": 353
+  },
+  "media": {
+    "primaryImage": "/products/326781673/ryobi-inflators-pcl016k1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326781673/ryobi-inflators-pcl016k1-64_100.jpg",
+        "altText": "ONE+ 18V High Volume Inflator Kit with 2.0Ah Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.575531"
+}

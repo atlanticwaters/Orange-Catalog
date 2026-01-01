@@ -1,661 +1,250 @@
 {
   "categoryId": "appliances",
   "name": "Appliances",
-  "originalUrl": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w",
-  "archiveTime": "2025-12-31T18:21:06.417Z",
+  "slug": "appliances",
+  "path": "/categories/appliances",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.703878",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/12.avif",
-  "productIds": [
-    "100098081",
-    "205289431",
-    "301859992",
-    "303516039",
-    "303516041",
-    "304290535",
-    "310534496",
-    "311372548",
-    "311411352",
-    "312751609",
-    "315858281",
-    "316422216",
-    "316674409",
-    "317041849",
-    "317602290",
-    "317602480",
-    "317602506",
-    "317876230",
-    "320243591",
-    "320970662",
-    "322631796",
-    "322738345",
-    "325158253",
-    "329624985",
-    "330243877",
-    "330243879",
-    "330864536",
-    "331129515",
-    "331628911",
-    "331740741",
-    "331842846",
-    "331843223",
-    "331940343",
-    "332205878",
-    "332464407"
+  "pageInfo": {
+    "totalResults": 9
+  },
+  "featuredBrands": [
+    {
+      "brandId": "summit-appliance",
+      "brandName": "Summit Appliance",
+      "logoUrl": "images/brands/summit-appliance.svg",
+      "count": 3
+    },
+    {
+      "brandId": "fufugaga",
+      "brandName": "FUFU&GAGA",
+      "logoUrl": "images/brands/fufugaga.svg",
+      "count": 2
+    },
+    {
+      "brandId": "american-standard",
+      "brandName": "American Standard",
+      "logoUrl": "images/brands/american-standard.svg",
+      "count": 1
+    },
+    {
+      "brandId": "kohler",
+      "brandName": "KOHLER",
+      "logoUrl": "images/brands/kohler.svg",
+      "count": 1
+    },
+    {
+      "brandId": "stylewell",
+      "brandName": "StyleWell",
+      "logoUrl": "images/brands/stylewell.svg",
+      "count": 1
+    },
+    {
+      "brandId": "homestyles",
+      "brandName": "HOMESTYLES",
+      "logoUrl": "images/brands/homestyles.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 35,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/TzdvOcmU70IuCreKjBP8aQ/UYjS_JiV_B8LcwkFPLEo9Q/Original%20file/WAE-SPLT-Card-GE-Cafe.png?im=Resize=(703,395.44)"
+  "products": [
+    {
+      "productId": "313269546",
+      "modelNumber": "",
+      "brand": "American Standard",
+      "title": "Fairbury 2S Single-Handle Pull-Down Sprayer Kitchen Faucet in Stainless Steel",
+      "rating": {
+        "average": 4.3466,
+        "count": 1965
       },
-      {
-        "filename": "images/16.avif",
-        "url": "https://dam.thdstatic.com/content/production/cAl1FvB_SVASjbb3mM6DOA/k_CkDlip9D3NxPpzu_2ZVA/Original%20file/WAE-SPLT-Card-GE-Profile.png?im=Resize=(703,395.44)"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/deefd307-9654-459a-802b-e9ea90d3f6be/svn/stainless-steel-american-standard-pull-down-kitchen-faucets-7418300-075-64_100.jpg"
       },
-      {
-        "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/VqWnf8IjwYVWwLdC-EdyyQ/rGYAw0gkice7ovA_1FL7GQ/optimizedFile/LRYKC2606S_2023_Product%20Image_Front_On_Filled.jpg?im=Crop,rect=(45.06411508413462,45.12815974308894,1346.4102877103367,1346.4102877103367);Resize=(703,703)"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/19.avif",
-        "url": "https://dam.thdstatic.com/content/production/KLqcODaPM6v-7q9gjnn8_A/R2YBNfapKREXycaU5vAFAQ/Original%20file/23JAN24_Appliances_VN_WashersDryers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "https://dam.thdstatic.com/content/production/bfl3NITGcKUCglE_FpnH8g/sDPygKacvvRN-sLF0Tz3ZA/optimizedFile/MVEM1825F%20Front.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "https://dam.thdstatic.com/content/production/ZzaOMTYck6YRhc6wc61rzA/jpQpzr5XCV-62iZS9tZ70Q/Original%20file/23JAN24_Appliances_VN_Freezers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/24.avif",
-        "url": "https://dam.thdstatic.com/content/production/lZlxFrz_f1Cp2iBu-IRcUw/QMzhUQwneJQfWERq4GtN7A/Original%20file/23JAN24_Appliances_VN_WallOvens.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/25.avif",
-        "url": "https://dam.thdstatic.com/content/production/FMEDk29hgBlGlCGkUty6Rg/bo-fhWwuLI-_lje6rvXkpA/optimizedFile/83163540-e073-4561-875a-f74170825ff9_CBGJ3023S_Cooktop.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/26.avif",
-        "url": "https://dam.thdstatic.com/content/production/nCRLYGiA770ccJrbHhgzLw/Tqy_DmFQQ2taxWpKjj9xYg/optimizedFile/e7161c36-a823-473b-999d-8657420971fb_631___.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/27.avif",
-        "url": "https://dam.thdstatic.com/content/production/qV52IRjzE_wm7xiQdOok5g/VacovemMzxAa_F5yxp8SuQ/Original%20file/23JAN24_Appliances_VN_AirConditioners.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "https://dam.thdstatic.com/content/production/CjDupmsE-1Uz6BSXuH2EJQ/6wbAsAztRV4d3k9JpE5iww/Original%20file/615aa7d3-9ac3-4263-ae30-0ac3d8e0ec4f_hero-p180299kd-008__3_.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "https://dam.thdstatic.com/content/production/-POgJOrraF_gadQPVjz_1g/E5X7pEoxnHJRdHWGwTkZkA/Original%20file/23JAN24_Appliances_VN_BeverageWineCoolers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://dam.thdstatic.com/content/production/pYDlvBBCsOEPXE-zFToJMQ/lmyNgVRWgjgPU068dfssgg/Original%20file/23JAN24_Appliances_VN_VacuumCleaners.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://dam.thdstatic.com/content/production/GfVZBIt6jrViJsdpj64K8Q/p-OVquO31qdviPkvel67RQ/optimizedFile/dbe2b7ff-916f-4e30-b8b0-0c8332b4d77e_KSM150PSER.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/34.avif",
-        "url": "https://dam.thdstatic.com/content/production/x-ksP-q-q2QdfJSvYRBdcA/0Hxh0aNFcPpbrt8AGF4sQQ/optimizedFile/c8f1ab18-3cf4-4260-9af2-d7f2c175388d_InSinkErator_Badger_500_Garbage_Disposal_Image1.jpeg?im=Crop,rect=(180.5769230769231,152.82054255558896,1076.570575420673,1076.570575420673);Resize=(703,703)"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://dam.thdstatic.com/content/production/_f6iC7aWXr0FnelGHuhzZA/64YZ73ijCKZcJ32a4-PLtw/Original%20file/23JAN24_Appliances_VN_ApplianceParts.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://dam.thdstatic.com/content/production/_oj_vtGfgPyJ10F3CTRfxw/V0Mw9TFYM_D6qirNp-nI3w/optimizedFile/322404056_Bespoke%20Laundry%20Silver%20Steel.jpg?im=Crop,rect=(0,276.7987393697103,1439.4003078141159,809.9899406433105);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://dam.thdstatic.com/content/production/wpK_nzpTyHJj4evguyHOlg/yqcU2ZrMOMf0kWGZY5gfvQ/Original%20file/21AUG23_WashersDryers_VN_LG.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://dam.thdstatic.com/content/production/iMdrsKsw6UhfOk5Nkg6CcQ/J2ln4BAfoMRSs2TMoB2Gzg/Original%20file/21AUG23_WashersDryers_VN_Maytag.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://dam.thdstatic.com/content/production/Q4F6mr5zKtD25Ty0jKGo_w/of79Fbxu4oKCjW_jQ0N4LA/Original%20file/07JUL23_MiniSplitAC_VN_Bosch.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/99Pt9O-dYjMbcHJM0kU0hA/c5sqawMDCTWPWGudZkzKfg/Original%20file/23JAN24_Appliances_VN_Vissani.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://dam.thdstatic.com/content/production/bzL2DcJ-AZPKbXDunWN8wQ/TVdMjFJVLcR3XvFkuYo6rA/Original%20file/21MAR24_Appliances_VN_SB_WashersDryers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://dam.thdstatic.com/content/production/obfiO9sY08TPO86ar0ahZg/MP1bWAFGLLGmLhjC8SwBEA/Original%20file/21MAR24_Appliances_VN_SB_Refrigerators.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://dam.thdstatic.com/content/production/VRBQLMyb_3D7jG7DC-p-Fg/XcE5VcBdOsa1gkRpcmzn5A/Original%20file/21MAR24_Appliances_VN_SB_Ranges.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://dam.thdstatic.com/content/production/J6KTQ_4PJgm0M4bxLycbew/W1Xrf3zVPQzP7RwYAsFDhA/Original%20file/21MAR24_Appliances_VN_SB_Freezers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://dam.thdstatic.com/content/production/mIqOhWeHrWFR5Cql8qnfdA/QBV4AzEeJpbpLAArea0hMg/optimizedFile/777dec0f-b644-4e39-9501-486eaaaf638e_CGI69972.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/OGas1yaiK64HFkqJjsL4Fw/oRY_TtDTxuoCHMk2NOXccw/Original%20file/23JAN24_Appliances_VN_MiniFridges.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://dam.thdstatic.com/content/production/gUcbjfBIAYX1kt4d0vBzng/zxlQU8iMLB1rgqxtvN9oRA/Original%20file/23JAN24_Appliances_VN_IceMakers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://dam.thdstatic.com/content/production/McOaNn1A1UgthYBCZLfwUQ/tMJJRRsEsPTVZoI_ULcE2g/optimizedFile/KitchenLifestyle_RF31CG7220SR_NE63A6311SS_ME17R7021ES_DW80CG4021SR.JPG?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/w-qY8WLhtTQy5I4dYqdHFQ/IYtfZzkfZBz76YsTElGlLg/Original%20file/18JUL23_OutdoorKitchens_VN_Kitchenaid_06-14-2023.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://dam.thdstatic.com/content/production/TGKeEQSYoGSVAjh4kd9A1g/A2T3m5-u8eWkdQf4o30UEw/Original%20file/21MAR24_Appliances_VN_SB_Microwaves.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/56.avif",
-        "url": "https://dam.thdstatic.com/content/production/lCQ5Dh4YFxh1qIcsa8h0vg/9g8aPL3a6njL7AVO0DzvgQ/Original%20file/21MAR24_Appliances_VN_SB_Dishwashers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/BNkneEVIobB_CtDFDRXzIA/A_vuSCsYKCtQ937Bjea3kw/Original%20file/20MAY2025_18_Cafe_logo_wordmark_4C_SQUARE.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://dam.thdstatic.com/content/production/pgtut_6UIowBuijhpOu5GA/0NSD5GzTu7Zt5FfTEPe2RQ/Original%20file/10OCT23_Refrigerators_VN_Zline.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/57.avif",
-        "url": "https://dam.thdstatic.com/content/production/nrlwh5SzNvhYFN7Zw_GSaA/t0TvcOoonjk7garyT7IJjQ/Original%20file/44e00d95-8a4a-43a4-ae3c-7f69796273fa_ProFlex_BTD.jpg.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/59.avif",
-        "url": "https://dam.thdstatic.com/content/production/4bYa51YUTtTFZ__8SYrDkQ/R6JoWqE8WRqqEFfGPDm82Q/optimizedFile/bd508536-4203-41aa-bdc4-f67449fcd0e4_HP10_Image_1.jpeg?im=Crop,rect=(197.8525578425481,211.474365234375,1048.8782113882212,1048.8782113882212);Resize=(703,703)"
-      },
-      {
-        "filename": "images/60.avif",
-        "url": "https://dam.thdstatic.com/content/production/xDMtgTrwQIi7gddpRJf6Ug/qsujkOq1zFvRYSf81vy2TA/optimizedFile/b0a9cbc6-305d-443f-986b-16947122e4e6_836000HB_FRONT.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/62.avif",
-        "url": "https://dam.thdstatic.com/content/production/BV9FyUN78EPSwjlHLA8zZA/XBQhu60K1tuK94Hurbn9TQ/Original%20file/05fdb2d3-c425-4096-a488-42c39f342d97_21Condenser.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/63.avif",
-        "url": "https://dam.thdstatic.com/content/production/x7gLfhNaaIYKVeb6o09E7g/QexKHQ2TlPBbfpWzVvvd_g/Original%20file/b76b7ab1-9976-4e22-9c46-94140a695a70_Rheem_Performance_Tall_LPorNatGas_HWcontrol.jpg.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/66.avif",
-        "url": "https://dam.thdstatic.com/content/production/oXfp4KhyysTo5Q2pKyapzw/LsYzpqJskdJnhaqEKKoHjQ/Original%20file/9983d11f-8e58-4809-971f-20474f2d0e6a_206086636_New_Image.jpg?im=Crop,rect=(138.6843950320513,119.54126602564104,744.7791466346155,744.7791466346155);Resize=(703,703)"
-      },
-      {
-        "filename": "images/67.avif",
-        "url": "https://dam.thdstatic.com/content/production/UHgHeED5vgODfJ-hLT_JFA/CVaC243_lEDtUG3sDpr_xQ/Original%20file/30a70d22-2e14-454a-9863-1ca4d48dbd9b_0859c892-8626-4e27-bf4b-210f3e1815b9_C.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/124.avif",
-        "url": "https://dam.thdstatic.com/content/production/QecI-x11-RlAUj-YY5yXUw/6e4OI9h15LI7Hr8jAYvifw/optimizedFile/97_2_2022_ePro_Delivery_L_069.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/129.avif",
-        "url": "https://dam.thdstatic.com/content/production/J64leP0UzeV-XnYjmviOaQ/HOnXaU8Nz-xc7wvjVXG_uA/optimizedFile/AdobeStock_222238559.jpeg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/61.avif",
-        "url": "https://dam.thdstatic.com/content/production/KawRW22XPqef82rPY_T4jQ/ANFWrHhZSkVGFl5_rIXkSg/Original%20file/23JAN24_Appliances_VN_Dehumidifiers.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://dam.thdstatic.com/content/production/TDrDy8GHmJkHToUHszdR4Q/OxHo8Icnh5z9UtJ9HaPMoA/Original%20file/21AUG23_WashersDryers_VN_Whirlpool.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/126.avif",
-        "url": "https://dam.thdstatic.com/content/production/rid1mYGKWSWgGteOAopwmg/Zja6yK2vC56_AVknJJafgQ/optimizedFile/2020_D28I_D29A_Clean%20Sweep_1004814470_L.jpg?im=Crop,rect=(0,441.7308725210337,1440.0001126802886,810.0000633826623);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://dam.thdstatic.com/content/production/OHYLNuv_PMy2SweANbpf5w/yewoQ9mJo2dzoDBBy0eOrg/Original%20file/23JAN24_Appliances_VN_CommercialAppliances.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://dam.thdstatic.com/content/production/pnLPefW2OrpWaoDoZ0De5A/DfpeXgSA7Bf6O_NoXpVSXQ/Original%20file/2024-Fridgidaire-logo.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://dam.thdstatic.com/content/production/G1Xywwbth3urBAwJ3jz63A/UTdUz6Yc1nuV9FlhgQ24Rw/Original%20file/10Oct23_WallOvens_Samsung_blk.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/125.avif",
-        "url": "https://dam.thdstatic.com/content/production/dcu1BkWU00R3qRK1Oc1hog/lwmU7fe28tkpbODJjB1tWA/optimizedFile/10OCT23_How_To_Move_Refrigerator.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/68.avif",
-        "url": "https://dam.thdstatic.com/content/production/1kiq68ql7bTg_pR1-BSiKA/U48E089xyswZHnP9lM3ARQ/Original%20file/4d0d7cdc-6221-432a-bd70-ea53ef49cc83_GB24P2-WH.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://dam.thdstatic.com/content/production/wSjwc5d8o4qHg0-av4yPRQ/Hg48XEfpWdojzDAalhPCFQ/Original%20file/10OCT23_WashersDryers_VN_GEAppliances.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://dam.thdstatic.com/content/production/5EUBWLE9mxs8M1AyZxp-3w/ifdDesl0SUBQ55qb5cGcrg/Original%20file/21AUG23_WashersDryers_VN_Electrolux.png?im=Resize=(703,703)"
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/10.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
+    },
+    {
+      "productId": "206086636",
+      "modelNumber": "",
+      "brand": "KOHLER",
+      "title": "Sous Pro-Style Single Handle Pull Down Sprayer Kitchen Faucet in Vibrant Stainless Steel",
+      "rating": {
+        "average": 4.5165,
+        "count": 3696
       },
-      {
-        "filename": "images/135.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fc0b0dae-5bc7-46bb-8416-94c6444fed11/svn/stainless-steel-kohler-pull-down-kitchen-faucets-k-r10651-sd-vs-64_100.jpg"
       },
-      {
-        "filename": "images/136.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/137.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/134.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
-      },
-      {
-        "filename": "images/139.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/140.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/141.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/142.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/143.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/145.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/147.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/146.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/149.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/150.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/151.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/144.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/152.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/153.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/154.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/157.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
-      },
-      {
-        "filename": "images/138.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/156.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/155.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/148.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/11.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
-      },
-      {
-        "filename": "images/28.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/7wqsjH2fBLgqShuu9DcRIS/50e2f36c1f1883cb0262a22e30ac60b9/Blowers-Fans.jpg"
-      },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26JUN25-AppliancesSavingsBanner-DSK-02.png"
-      },
-      {
-        "filename": "images/14.avif",
-        "url": "https://dam.thdstatic.com/content/production/X44cFkSDPYucixycEDFzjw/XzQ644ZXWOmpPG87byCwfQ/Original%20file/D29A-2025-Winter-Appliances-Banner-LG-DSK.png"
-      },
-      {
-        "filename": "images/13.webp",
-        "url": "https://dam.thdstatic.com/content/production/nxTWizbE-wBO6MupMEtkmw/FGu72Hl95NmKDh3Yr1-mSg/Original%20file/D29A-2025-Winter-Appliances-Hero-L1.png"
-      },
-      {
-        "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/content/production/MNTL2p5tFgztoHoUuPoaEw/bDIIu79087NXZXr_igVvJw/Original%20file/nobody-beats-our-prices-guaranteed-banner-DSK.jpg"
-      },
-      {
-        "filename": "images/64.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2Rq1IP1HkGHXn1w6XBymax/7c9cc82d376f516fa0ed9d0e8a3552df/DropIn-Kitchen-Sink-305899479.jpg"
-      },
-      {
-        "filename": "images/65.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2UmQLlyRvN3PLbXYlJgN4I/eca482057410aa90c5841c4fe1a316d4/Toilet.jpg"
-      },
-      {
-        "filename": "images/127.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/7mXFTZwxTfs2ozgDeAhGBu/33cd57d9d8d63d6ea987ad53d71a635a/types-of-stovetops-2021-section-1.jpg"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://dam.thdstatic.com/content/production/auXfH5k1bIaNVuGo1A7Jdw/3tuJeePMwupHvm88CClwPA/Original%20file/D29A-Banner-Credit-6M-1219-DSK.png"
-      },
-      {
-        "filename": "images/128.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/5ha44UpOCWOffi0bpP0v09/d61d6069657d042d501206111889d58a/Leak-HERO-WF-2717494.jpg"
-      },
-      {
-        "filename": "images/75.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/2b/2b5bdad3-1464-401b-a765-3e0309737ae4_35.jpg"
-      },
-      {
-        "filename": "images/79.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/28/28fe8d78-a37d-404b-98ce-aeb4d213cec2_35.jpg"
-      },
-      {
-        "filename": "images/80.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/71/71403265-ec6e-45db-b800-d3957bae47a6_35.jpg"
-      },
-      {
-        "filename": "images/81.avif",
-        "url": "https://images.thdstatic.com/productImages/9e76d4c3-8578-4999-9a9a-e7bb0bbabbe7/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf24z6530s-64_300.jpg"
-      },
-      {
-        "filename": "images/82.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/d9/d95938f6-6205-4639-ab93-cb41f7f82464_35.jpg"
-      },
-      {
-        "filename": "images/83.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/b2/b266cae5-d70f-4ccc-9e90-e5c39d7acfa2_35.jpg"
-      },
-      {
-        "filename": "images/76.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/62/6218f19f-77a3-47b5-baec-96ce99da2228_35.jpg"
-      },
-      {
-        "filename": "images/97.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/00/00c452f5-e109-44cd-8ec6-469323d66c74_35.jpg"
-      },
-      {
-        "filename": "images/100.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/f6/f6277706-b568-46ad-bb36-55be237339b1_35.jpg"
-      },
-      {
-        "filename": "images/92.avif",
-        "url": "https://images.thdstatic.com/productImages/1925f6d6-e45e-46db-9171-7665a94dff42/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6200s-64_300.jpg"
-      },
-      {
-        "filename": "images/95.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/f0/f0cb42c1-d010-4dfb-852d-5e290597ae87_35.jpg"
-      },
-      {
-        "filename": "images/96.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/9c/9c05300f-8087-40e4-8eef-cd56ce9156de_35.jpg"
-      },
-      {
-        "filename": "images/108.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/b3/b347d4dd-00d6-4b75-8d7c-c4122519252f_35.jpg"
-      },
-      {
-        "filename": "images/114.avif",
-        "url": "https://images.thdstatic.com/productImages/fa5ea59f-930c-4fdf-8e97-66c209b45b3b/svn/stainless-steel-lg-double-oven-gas-ranges-ldgl6924s-64_300.jpg"
-      },
-      {
-        "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/c1041f8a-8130-4f02-af1d-b580ab43b2f2/svn/white-frigidaire-upright-freezers-fffu16f2vw-64_300.jpg"
-      },
-      {
-        "filename": "images/71.webp",
-        "url": "https://images.thdstatic.com/productImages/d155989a-92f9-4d43-ac95-77754369d3f7/svn/carbon-frigidaire-upright-freezers-fruf2020an-64_300.jpg"
-      },
-      {
-        "filename": "images/107.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/48/481837ec-7aa5-4039-95d5-e4858c364b96_35.jpg"
-      },
-      {
-        "filename": "images/109.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/49/499b3f94-b6d3-4964-9c51-6cd0e4b2f56a_35.jpg"
-      },
-      {
-        "filename": "images/115.webp",
-        "url": "https://images.thdstatic.com/productImages/7be6173a-d02b-4915-a0ed-667b577a0dbf/svn/white-frigidaire-chest-freezers-ffcl2542aw-64_300.jpg"
-      },
-      {
-        "filename": "images/98.webp",
-        "url": "https://images.thdstatic.com/productImages/59f3596e-d0de-4896-9a3b-4cf496c32815/svn/white-frigidaire-upright-freezers-fffu13f2vw-64_300.jpg"
-      },
-      {
-        "filename": "images/113.avif",
-        "url": "https://images.thdstatic.com/productImages/95b8e68f-a32b-4ca0-ba98-32e1050ee07f/svn/white-frigidaire-chest-freezers-ffcl1542aw-e4_300.jpg"
-      },
-      {
-        "filename": "images/122.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/8c/8c806710-af75-4032-ae15-77f7b2a5814e_35.jpg"
-      },
-      {
-        "filename": "images/123.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/87/87d0116a-57d2-4a7d-8666-87bb1661b511_35.jpg"
-      },
-      {
-        "filename": "images/131.avif",
-        "url": "https://images.thdstatic.com/productImages/2b401aec-6a63-4509-9069-1261b321bc3d/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-64_300.jpg"
-      },
-      {
-        "filename": "images/133.avif",
-        "url": "https://images.thdstatic.com/productImages/0a4c11ea-df91-43c1-90b1-89b54770f933/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frss2623as-64_300.jpg"
-      },
-      {
-        "filename": "images/94.avif",
-        "url": "https://images.thdstatic.com/productImages/c67c283b-96a1-43b3-8c86-de417d18024d/svn/stainless-steel-ge-french-door-refrigerators-gye21jymfs-e4_300.jpg"
-      },
-      {
-        "filename": "images/110.avif",
-        "url": "https://images.thdstatic.com/productImages/d0512e3d-13c3-402a-9e47-b2d3e994edba/svn/stainless-steel-ge-french-door-refrigerators-pje23bywfs-64_300.jpg"
-      },
-      {
-        "filename": "images/112.webp",
-        "url": "https://images.thdstatic.com/productImages/408b3bcf-95d2-43bb-8a0c-bba8979e5e34/svn/white-frigidaire-chest-freezers-ffcl1542aw-64_300.jpg"
-      },
-      {
-        "filename": "images/116.avif",
-        "url": "https://images.thdstatic.com/productImages/697daa1d-34bc-4219-86d9-5493b63bb494/svn/white-frigidaire-chest-freezers-ffcl2542aw-e4_300.jpg"
-      },
-      {
-        "filename": "images/130.avif",
-        "url": "https://images.thdstatic.com/productImages/d5fec682-25d8-48ab-aa38-9a6b3bbe441b/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pvd28bynfs-64_300.jpg"
-      },
-      {
-        "filename": "images/78.avif",
-        "url": "https://images.thdstatic.com/productImages/be1657be-969f-485c-b7fe-d07cf94f8a4d/svn/white-ge-laundry-centers-gud27essmww-e4_300.jpg"
-      },
-      {
-        "filename": "images/99.avif",
-        "url": "https://images.thdstatic.com/productImages/b0e7c0c1-8aee-489d-af6e-f9dec5374c56/svn/white-frigidaire-upright-freezers-fffu13f2vw-e4_300.jpg"
-      },
-      {
-        "filename": "images/69.avif",
-        "url": "https://images.thdstatic.com/productImages/09fab6ec-850e-4a45-ae97-e1f63f406381/svn/white-ge-upright-freezers-fuf21qrrww-64_300.jpg"
-      },
-      {
-        "filename": "images/85.avif",
-        "url": "https://images.thdstatic.com/productImages/9b2ec00e-d85d-44a2-95c8-eccf6bc8645c/svn/white-ge-upright-freezers-fuf14qrrww-64_300.jpg"
-      },
-      {
-        "filename": "images/87.avif",
-        "url": "https://images.thdstatic.com/productImages/ca96a7b0-d966-41ab-8836-113135fa9238/svn/printproof-stainless-steel-lg-side-by-side-refrigerators-ls27t3230s-64_300.jpg"
-      },
-      {
-        "filename": "images/89.avif",
-        "url": "https://images.thdstatic.com/productImages/be1657be-969f-485c-b7fe-d07cf94f8a4d/svn/white-ge-laundry-centers-gud24essmww-e4_300.jpg"
-      },
-      {
-        "filename": "images/101.avif",
-        "url": "https://images.thdstatic.com/productImages/8f1a7a88-3c9e-4086-9629-d102adec8d71/svn/white-ge-upright-freezers-fuf17qrrww-64_300.jpg"
-      },
-      {
-        "filename": "images/105.webp",
-        "url": "https://images.thdstatic.com/productImages/c0abd912-1491-426a-8ac0-b57c80a594c8/svn/white-whirlpool-laundry-centers-wet4024hw-64_300.jpg"
-      },
-      {
-        "filename": "images/106.avif",
-        "url": "https://images.thdstatic.com/productImages/9d8bc27f-8b73-41e9-88e1-b2dd5e5b79e8/svn/stainless-steel-whirlpool-over-the-range-microwaves-wmms3330rz-64_300.jpg"
-      },
-      {
-        "filename": "images/77.webp",
-        "url": "https://images.thdstatic.com/productImages/55b13019-98a9-425e-9d62-2157cbd2a9a4/svn/white-ge-laundry-centers-gud27essmww-64_300.jpg"
-      },
-      {
-        "filename": "images/84.webp",
-        "url": "https://images.thdstatic.com/productImages/50588419-1dea-4cbb-89d6-400416dd45ac/svn/fingerprint-resistant-stainless-look-frigidaire-side-by-side-refrigerators-frsg2115av-64_300.jpg"
-      },
-      {
-        "filename": "images/91.webp",
-        "url": "https://images.thdstatic.com/productImages/95980bc6-acc2-4f37-9f13-670f24b94e93/svn/white-frigidaire-laundry-centers-flce7522aw-e4_300.jpg"
-      },
-      {
-        "filename": "images/103.avif",
-        "url": "https://images.thdstatic.com/productImages/09fe5639-6b56-49d4-93a5-e184c593b6d6/svn/stainless-steel-frigidaire-bottom-freezer-refrigerators-grbn2012af-64_300.jpg"
-      },
-      {
-        "filename": "images/132.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_300.jpg"
-      },
-      {
-        "filename": "images/118.avif",
-        "url": "https://images.thdstatic.com/productImages/ce774c42-cbd1-4669-8752-8155ca91c8e3/svn/white-frigidaire-upright-freezers-ffue2022aw-e4_300.jpg"
-      },
-      {
-        "filename": "images/119.avif",
-        "url": "https://images.thdstatic.com/productImages/8770a06a-41c6-4897-be82-a07d846f3417/svn/stainless-steel-ge-over-the-range-microwaves-jvm7195rwss-64_300.jpg"
-      },
-      {
-        "filename": "images/111.avif",
-        "url": "https://images.thdstatic.com/productImages/6de8f749-b935-4eba-9f54-4b2d0d1b1dbb/svn/stainless-steel-ge-french-door-refrigerators-pje23bywfs-e4_300.jpg"
-      },
-      {
-        "filename": "images/104.avif",
-        "url": "https://images.thdstatic.com/productImages/bf38aa23-0489-4fd7-8a78-6e1c9cbfd7e2/svn/stainless-steel-frigidaire-bottom-freezer-refrigerators-grbn2012af-e4_300.jpg"
-      },
-      {
-        "filename": "images/86.avif",
-        "url": "https://images.thdstatic.com/productImages/c67c283b-96a1-43b3-8c86-de417d18024d/svn/white-ge-upright-freezers-fuf14qrrww-e4_300.jpg"
-      },
-      {
-        "filename": "images/88.avif",
-        "url": "https://images.thdstatic.com/productImages/bf3a541c-9123-434f-8218-b631197ed4a7/svn/white-ge-laundry-centers-gud24essmww-64_300.jpg"
-      },
-      {
-        "filename": "images/90.avif",
-        "url": "https://images.thdstatic.com/productImages/8452a115-4e3e-4b3f-a389-6e3930e1c461/svn/white-frigidaire-laundry-centers-flce7522aw-64_300.jpg"
-      },
-      {
-        "filename": "images/120.avif",
-        "url": "https://images.thdstatic.com/productImages/c67c283b-96a1-43b3-8c86-de417d18024d/svn/stainless-steel-ge-over-the-range-microwaves-jvm7195rwss-e4_300.jpg"
-      },
-      {
-        "filename": "images/121.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_300.jpg"
-      },
-      {
-        "filename": "images/74.avif",
-        "url": "https://images.thdstatic.com/productImages/f710df04-edfa-4509-825c-e010c578a2ba/svn/white-frigidaire-upright-freezers-fffu16f2vw-e4_300.jpg"
-      },
-      {
-        "filename": "images/70.avif",
-        "url": "https://images.thdstatic.com/productImages/c67c283b-96a1-43b3-8c86-de417d18024d/svn/white-ge-upright-freezers-fuf21qrrww-e4_300.jpg"
-      },
-      {
-        "filename": "images/93.avif",
-        "url": "https://images.thdstatic.com/productImages/c9f7adf0-37ef-4b07-bdf5-6a89431eeee5/svn/stainless-steel-ge-french-door-refrigerators-gye21jymfs-64_300.jpg"
-      },
-      {
-        "filename": "images/117.webp",
-        "url": "https://images.thdstatic.com/productImages/5610636c-7e9b-4993-ab8c-b88ce97b5d45/svn/white-frigidaire-upright-freezers-ffue2022aw-64_300.jpg"
-      },
-      {
-        "filename": "images/102.avif",
-        "url": "https://images.thdstatic.com/productImages/c67c283b-96a1-43b3-8c86-de417d18024d/svn/white-ge-upright-freezers-fuf17qrrww-e4_300.jpg"
-      },
-      {
-        "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/199c303a-c518-4a86-b3c4-62209ed52e79/svn/carbon-frigidaire-upright-freezers-fruf2020an-e4_300.jpg"
+    },
+    {
+      "productId": "337338562",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "63 in. Compact Kitchen in White, ADA Compliant",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/91211948-cbaf-4b02-870d-2d558fc4f887/svn/white-summit-appliance-mini-fridges-calderawh33i-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4084.51,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Appliances - The Home Depot",
-    "categoryType": "Top Level THD Pages",
-    "categoryFolder": "Appliances"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "337338600",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "63 in. Compact Kitchen in Midnight Navy",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ff2ce7a4-e49a-4ad7-9bce-1fc5aaee85aa/svn/midnight-navy-summit-appliance-mini-fridges-calderamn35isinkl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4022.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314655646",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "39 in. Compact Kitchen in Black",
+      "rating": {
+        "average": 4.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6ce28a5-2af9-4c71-ae1b-d9f1ab2e76f2/svn/black-stainless-steel-summit-appliance-mini-fridges-c39elglassbk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1953.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304083114",
+      "modelNumber": "",
+      "brand": "StyleWell",
+      "title": "Glenville Cream White Rolling Kitchen Cart with Butcher Block Top, Double-Drawer Storage and Open Shelves (36\" W)",
+      "rating": {
+        "average": 4.5302,
+        "count": 862
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b3f7e9c8-3740-429e-a1d5-53378d29e0c5/svn/cream-white-butcher-block-stylewell-kitchen-carts-sk17787cr2-cbw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.2,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207167048",
+      "modelNumber": "",
+      "brand": "HOMESTYLES",
+      "title": "Dolly Madison White Kitchen Cart with Natural Wood Top",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/94c0facc-921d-5dc6-9868-0d279318499f/svn/off-white-homestyles-kitchen-carts-4511-95-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 280.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326546605",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "White Wood 110.2 in. W Buffet Combination Kitchen Cabinet W/Hutch, Glass Doors, Shelves (15.7 in. D x 78.7 in. H)",
+      "rating": {
+        "average": 4.025,
+        "count": 40
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/74cd1168-e5e2-40c5-8d86-cd0a11f2c25d/svn/white-fufu-gaga-sideboards-buffet-tables-thd-020384-385-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 801.57,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328485052",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "Brown Wood 70.9 in. W Buffet Sideboard Kitchen Pantry Cabinet For Dining Room with Metal Mesh Doors, 6-Drawers, Shelves",
+      "rating": {
+        "average": 4.1588,
+        "count": 170
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3cd53f4-cc7b-4ef0-b632-88bfc4bc7a3e/svn/brown-fufu-gaga-sideboards-buffet-tables-kf210231-012-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 406.33,
+        "currency": "USD"
+      }
+    }
+  ]
 }

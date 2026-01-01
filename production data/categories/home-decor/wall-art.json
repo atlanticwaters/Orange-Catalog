@@ -1,0 +1,104 @@
+{
+  "categoryId": "home-decor/wall-art",
+  "name": "Wall Art",
+  "slug": "wall-art",
+  "path": "/categories/home-decor/wall-art",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.727305",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Home Decor",
+      "url": "/home-decor"
+    },
+    {
+      "label": "Wall Art",
+      "url": "/home-decor/wall-art"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3
+  },
+  "featuredBrands": [
+    {
+      "brandId": "neiko",
+      "brandName": "NEIKO",
+      "logoUrl": "images/brands/neiko.svg",
+      "count": 2
+    },
+    {
+      "brandId": "yosemite-home-decor",
+      "brandName": "Yosemite Home Decor",
+      "logoUrl": "images/brands/yosemite-home-decor.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "339559096",
+      "modelNumber": "",
+      "brand": "NEIKO",
+      "title": "Air Spray Paint Gun HVLP with 2.0 mm Nozzle and 600 CC Gravity Feed Cup for Walls and Automotive Painting",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6a7e4727-9cc7-4cea-87a0-a7136b4acc62/svn/neiko-air-tool-kits-31216a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339559721",
+      "modelNumber": "",
+      "brand": "NEIKO",
+      "title": "HVLP Spray Gun Paint Sprayer with 1.7 mm Nozzle, 600 cc Cup, and Air Gauge Regulator for Auto Painting",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d386fa23-aae8-43c2-bab4-4b28d6e98c0d/svn/neiko-air-tool-kits-31215a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 41.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303456633",
+      "modelNumber": "",
+      "brand": "Yosemite Home Decor",
+      "title": "47 in. x 32 in. \"Balance\" Tempered Glass Wall Art",
+      "rating": {
+        "average": 4.8333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/baa36a5a-4a51-4845-8f70-fe6edcad1f74/svn/yosemite-home-decor-art-photography-ar30313827-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

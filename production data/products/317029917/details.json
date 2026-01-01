@@ -1,0 +1,45 @@
+{
+  "productId": "317029917",
+  "identifiers": {
+    "internetNumber": "317029917",
+    "modelNumber": "",
+    "storeSkuNumber": "317029917"
+  },
+  "brand": {
+    "name": "Summit Appliance",
+    "logoUrl": "images/brands/summit-appliance.svg"
+  },
+  "title": "24 in. White Washer and Dryer Combo with 2.3 cu. ft. Front Load Washer & 3.88 cu. ft. 240-Volt Heat Pump Electric Dryer",
+  "shortDescription": "24 in. White Washer and Dryer Combo with 2.3 cu. ft. Front Load Washer & 3.88 cu. ft. 240-Volt Heat Pump Electric Dryer",
+  "longDescription": "24 in. White Washer and Dryer Combo with 2.3 cu. ft. Front Load Washer & 3.88 cu. ft. 240-Volt Heat Pump Electric Dryer",
+  "pricing": {
+    "currentPrice": 1899.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.0,
+    "count": 5
+  },
+  "media": {
+    "primaryImage": "/products/317029917/white-summit-appliance-laundry-centers-sls24w3p-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317029917/white-summit-appliance-laundry-centers-sls24w3p-64_100.jpg",
+        "altText": "24 in. White Washer and Dryer Combo with 2.3 cu. ft. Front Load Washer & 3.88 cu. ft. 240-Volt Heat Pump Electric Dryer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.641435"
+}

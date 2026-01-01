@@ -1,0 +1,45 @@
+{
+  "productId": "205508808",
+  "identifiers": {
+    "internetNumber": "205508808",
+    "modelNumber": "",
+    "storeSkuNumber": "205508808"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "5.6 cu. ft. Mini Fridge in Stainless Steel",
+  "shortDescription": "5.6 cu. ft. Mini Fridge in Stainless Steel",
+  "longDescription": "5.6 cu. ft. Mini Fridge in Stainless Steel",
+  "pricing": {
+    "currentPrice": 629.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3696,
+    "count": 966
+  },
+  "media": {
+    "primaryImage": "/products/205508808/stainless-steel-ge-mini-fridges-gce06gshsb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205508808/stainless-steel-ge-mini-fridges-gce06gshsb-64_100.jpg",
+        "altText": "5.6 cu. ft. Mini Fridge in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.428991"
+}

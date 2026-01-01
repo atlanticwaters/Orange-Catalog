@@ -1,0 +1,45 @@
+{
+  "productId": "318064949",
+  "identifiers": {
+    "internetNumber": "318064949",
+    "modelNumber": "",
+    "storeSkuNumber": "318064949"
+  },
+  "brand": {
+    "name": "Gymax",
+    "logoUrl": "images/brands/gymax.svg"
+  },
+  "title": "6 ft. Artificial Fiddle Leaf Fig Tree Indoor-Outdoor Home Decorative Planter",
+  "shortDescription": "6 ft. Artificial Fiddle Leaf Fig Tree Indoor-Outdoor Home Decorative Planter",
+  "longDescription": "6 ft. Artificial Fiddle Leaf Fig Tree Indoor-Outdoor Home Decorative Planter",
+  "pricing": {
+    "currentPrice": 166.33,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4286,
+    "count": 7
+  },
+  "media": {
+    "primaryImage": "/products/318064949/gymax-artificial-trees-gym03075-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318064949/gymax-artificial-trees-gym03075-64_100.jpg",
+        "altText": "6 ft. Artificial Fiddle Leaf Fig Tree Indoor-Outdoor Home Decorative Planter",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.520050"
+}

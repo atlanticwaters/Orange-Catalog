@@ -1,0 +1,45 @@
+{
+  "productId": "312429301",
+  "identifiers": {
+    "internetNumber": "312429301",
+    "modelNumber": "",
+    "storeSkuNumber": "312429301"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "7.4 Cu. Ft. vented Stackable Electric Dryer in White with Sensor Dry",
+  "shortDescription": "7.4 Cu. Ft. vented Stackable Electric Dryer in White with Sensor Dry",
+  "longDescription": "7.4 Cu. Ft. vented Stackable Electric Dryer in White with Sensor Dry",
+  "pricing": {
+    "currentPrice": 729.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4145,
+    "count": 2878
+  },
+  "media": {
+    "primaryImage": "/products/312429301/white-lg-electric-dryers-dle3400w-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312429301/white-lg-electric-dryers-dle3400w-64_100.jpg",
+        "altText": "7.4 Cu. Ft. vented Stackable Electric Dryer in White with Sensor Dry",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.458203"
+}

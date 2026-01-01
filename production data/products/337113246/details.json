@@ -1,0 +1,45 @@
+{
+  "productId": "337113246",
+  "identifiers": {
+    "internetNumber": "337113246",
+    "modelNumber": "",
+    "storeSkuNumber": "337113246"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery",
+  "shortDescription": "M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery",
+  "longDescription": "M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery",
+  "pricing": {
+    "currentPrice": 349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7125,
+    "count": 3910
+  },
+  "media": {
+    "primaryImage": "/products/337113246/milwaukee-portable-band-saws-2829-20-48-11-1850-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337113246/milwaukee-portable-band-saws-2829-20-48-11-1850-64_100.jpg",
+        "altText": "M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.654022"
+}

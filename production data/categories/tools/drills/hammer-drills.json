@@ -1,0 +1,657 @@
+{
+  "categoryId": "tools/drills/hammer-drills",
+  "name": "Hammer Drills",
+  "slug": "hammer-drills",
+  "path": "/categories/tools/drills/hammer-drills",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.740611",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Drills",
+      "url": "/tools/drills"
+    },
+    {
+      "label": "Hammer Drills",
+      "url": "/tools/drills/hammer-drills"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 28
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 9
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 8
+    },
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 6
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 2
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 2
+    },
+    {
+      "brandId": "hilti",
+      "brandName": "Hilti",
+      "logoUrl": "images/brands/hilti.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "320326787",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 2 Batteries",
+      "rating": {
+        "average": 4.7652,
+        "count": 3578
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/880445c5-d412-41b5-b45a-35e00d7de46e/svn/milwaukee-power-tool-combo-kits-3697-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320268525",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit w/2 Batteries and Bag (2-Tool)",
+      "rating": {
+        "average": 4.7506,
+        "count": 3079
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7aadf189-9813-472a-923d-f0404933394e/svn/milwaukee-power-tool-combo-kits-3497-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203621519",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "5 in. x 7 in. x 12 in. SDS-Max Carbide Rotary Hammer Core Bit for Masonry and Concrete Drilling",
+      "rating": {
+        "average": 4.7667,
+        "count": 30
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d438c11b-f600-4e65-b0c2-405d06d9eb3b/svn/bosch-coring-drill-bits-hc8570-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 213.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202242695",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "4 in. x 17 in. x 22 in. SDS-Max Carbide Rotary Hammer Core Bit for Masonry and Concrete Drilling",
+      "rating": {
+        "average": 4.6024,
+        "count": 83
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e06d6614-1941-4930-9626-be9e49e44236/svn/bosch-coring-drill-bits-hc8555-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 214.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324589090",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "SHOCKWAVE Carbide Hammer Drill Bit Set w/Titanium Drill Bit Set (33-Piece)",
+      "rating": {
+        "average": 4.5174,
+        "count": 2851
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6da95385-f816-4501-8ed7-0877f78d0880/svn/milwaukee-masonry-drill-bits-48-20-9058-48-89-4631-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 44.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320326862",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with Two 5.0 Ah Batteries and Hard Case",
+      "rating": {
+        "average": 4.7124,
+        "count": 1109
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d88c8adf-c321-4519-b785-63fc4754ff49/svn/milwaukee-hammer-drills-2904-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316251424",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless Brushless Ultra-Compact 5/8 in. SDS Plus Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.4572,
+        "count": 584
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4fcaa2ba-0fbf-4cc1-9591-8888ff7fb013/svn/dewalt-hammer-drills-dch172b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322138444",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20-Volt Lithium-Ion Cordless 1/2 in. Compact Hammer Drill with 3.0Ah Battery, Charger and Bag",
+      "rating": {
+        "average": 4.6561,
+        "count": 977
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a0b704b-54e2-449d-9f92-ff73e26dbdda/svn/dewalt-hammer-drills-dcd799l1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442326",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Lithium-Ion Cordless Brushless Ultra-Compact 5/8 in. SDS Plus Hammer Drill with 5 Ah and 2 Ah Batteries",
+      "rating": {
+        "average": 4.503,
+        "count": 823
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/17a839cf-721e-433f-98ba-a0c187c68414/svn/dewalt-hammer-drills-dch172bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320326855",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver (Tool-Only)",
+      "rating": {
+        "average": 4.718,
+        "count": 1287
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/952547b2-617c-4bb1-86b6-2cb09e1657ec/svn/milwaukee-hammer-drills-2904-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331595036",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Hammer Drill Kit w/Two 5.0 Ah Batteries & M18 FORGE XC 8.0 Ah Battery Pack",
+      "rating": {
+        "average": 4.7288,
+        "count": 1578
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/42a8e5a7-c583-46ba-bb7e-38022e58d205/svn/milwaukee-hammer-drills-2904-22-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330081981",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Kit with 1 Compact 2.0Ah Battery Pack and 1 Charger",
+      "rating": {
+        "average": 4.6,
+        "count": 335
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6252690-e1ad-47a2-87b4-1e5df9772243/svn/milwaukee-hammer-drills-3404-21-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329527813",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V XR Lithium-Ion Cordless Hammer Drill Kit with 8.0 Ah Battery, Charger and Kit Bag",
+      "rating": {
+        "average": 4.7075,
+        "count": 106
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a307f7c-5957-4e10-9a23-3f61e05db6b8/svn/dewalt-hammer-drills-dcd1007ww1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330106256",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless 1/2 in. Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.732,
+        "count": 97
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b85ffdd8-2876-42ff-bc7a-e307105a39cd/svn/ryobi-hammer-drills-pblhm102b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339672951",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless 1/2 in. Hammer Drill/Driver and 18V 4.0 Ah Battery Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/be4d75b6-2d0e-4ccf-8ad7-daf3edb9e7cf/svn/ridgid-hammer-drills-r86115b-ac87004-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 268.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334337375",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V XR Brushless Cordless 1/2 in. Hammer Drill (Tool-Only)",
+      "rating": {
+        "average": 4.8095,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b488d201-a483-4d21-b448-656a3534c4d2/svn/dewalt-hammer-drills-dcd806b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331273305",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Brushless Cordless 1/2 in. Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.7419,
+        "count": 62
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d9855d3e-648c-4593-9f37-e1d1892560be/svn/dewalt-hammer-drills-dcd1007b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 203.37,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100037000",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "7.8 Amp Corded 1/2 in. Variable Speed Reversible Hammer Drill",
+      "rating": {
+        "average": 4.1508,
+        "count": 796
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/803a8751-a33a-4b7f-aaef-005e1da8254c/svn/dewalt-hammer-drills-dw511-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319905254",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 1/2 in. Hammer Drill Kit with 1.5 Ah Battery and Charger",
+      "rating": {
+        "average": 4.5074,
+        "count": 270
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/239b1d10-62ce-404c-b393-9d688391a825/svn/ryobi-hammer-drills-pcl220k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319353159",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V Compact Cordless 1/2 in. Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.55,
+        "count": 140
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1cc83ed-0804-4373-9c87-7e26937656e8/svn/dewalt-hammer-drills-dcd805b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 150.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326507242",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Hammer Drill/Driver (Tool-Only)",
+      "rating": {
+        "average": 4.6571,
+        "count": 70
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2bc79f40-9470-49fb-ab28-06217c56b30c/svn/milwaukee-hammer-drills-3602-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301364683",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "120-Volt SDS Max TE 50-AVR Corded Rotary Hammer Drill Kit with Pointed Chisel, Drill Bit and Power Cord",
+      "rating": {
+        "average": 4.6667,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c42e39de-4a4f-4bcb-afea-3f7783954702/svn/hilti-demolition-breaker-hammers-3553052-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1089.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335480530",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Lithium-Ion Cordless BL Rotary Hammer Drill Kit Special Buy with (1) 8 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7044,
+        "count": 433
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7ab56051-d824-41ec-b360-ffcdf0af1ce3/svn/ridgid-rotary-tools-r86712ksb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202080348",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Bulldog Xtreme 8 Amp 1 in. Corded Variable Speed SDS-Plus Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+      "rating": {
+        "average": 4.6937,
+        "count": 862
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3840960d-9c29-4520-869b-ea7903e9fc55/svn/bosch-rotary-hammers-11255vsr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315445066",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless SDS-Plus 1-1/8 in. Rotary Hammer Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6752,
+        "count": 117
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/896005dd-96c5-456a-be85-77cfc168fd51/svn/milwaukee-rotary-hammers-2915-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204823328",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "12 Amp 1-9/16 in. Corded Variable Speed SDS-Max Combination Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+      "rating": {
+        "average": 4.5492,
+        "count": 193
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/756912ea-5cf8-448a-9f56-7297f3b196d5/svn/bosch-rotary-hammers-rh540m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 519.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202080350",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "13 Amp Corded 1-5/8 in. SDS-max Variable Speed Rotary Hammer Drill with Auxiliary Side Handle and Carrying Case",
+      "rating": {
+        "average": 4.7304,
+        "count": 115
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b8dd352b-fe90-4b77-8110-dc7590add1e0/svn/bosch-rotary-hammers-11264evs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 579.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300844995",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "8.5 Amp Corded 1-1/8 in. SDS-Plus Variable Speed Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+      "rating": {
+        "average": 4.645,
+        "count": 200
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3bc267a1-badf-4e91-ab1b-6ab254351606/svn/bosch-rotary-hammers-gbh2-28l-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

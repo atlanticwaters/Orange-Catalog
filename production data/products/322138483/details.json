@@ -1,0 +1,45 @@
+{
+  "productId": "322138483",
+  "identifiers": {
+    "internetNumber": "322138483",
+    "modelNumber": "",
+    "storeSkuNumber": "322138483"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) with (2) 2.0Ah Batteries, Charger and Bag",
+  "shortDescription": "ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) with (2) 2.0Ah Batteries, Charger and Bag",
+  "longDescription": "ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) with (2) 2.0Ah Batteries, Charger and Bag",
+  "pricing": {
+    "currentPrice": 169.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.691,
+    "count": 4870
+  },
+  "media": {
+    "primaryImage": "/products/322138483/dewalt-power-tool-combo-kits-dck225d2-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322138483/dewalt-power-tool-combo-kits-dck225d2-64_100.jpg",
+        "altText": "ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) with (2) 2.0Ah Batteries, Charger and Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.655605"
+}

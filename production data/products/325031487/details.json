@@ -1,0 +1,45 @@
+{
+  "productId": "325031487",
+  "identifiers": {
+    "internetNumber": "325031487",
+    "modelNumber": "",
+    "storeSkuNumber": "325031487"
+  },
+  "brand": {
+    "name": "US Pride Furniture",
+    "logoUrl": "images/brands/us-pride-furniture.svg"
+  },
+  "title": "Cedrice 26. in. Gray Microfiber Arm Chair",
+  "shortDescription": "Cedrice 26. in. Gray Microfiber Arm Chair",
+  "longDescription": "Cedrice 26. in. Gray Microfiber Arm Chair",
+  "pricing": {
+    "currentPrice": 191.49,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/325031487/gray-us-pride-furniture-accent-chairs-c190-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325031487/gray-us-pride-furniture-accent-chairs-c190-64_100.jpg",
+        "altText": "Cedrice 26. in. Gray Microfiber Arm Chair",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.579615"
+}

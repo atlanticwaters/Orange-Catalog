@@ -1,0 +1,1677 @@
+{
+  "categoryId": "appliances/refrigerators/french-door",
+  "name": "French Door",
+  "slug": "french-door",
+  "path": "/categories/appliances/refrigerators/french-door",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.709211",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    },
+    {
+      "label": "French Door",
+      "url": "/appliances/refrigerators/french-door"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 76
+  },
+  "featuredBrands": [
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 17
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 15
+    },
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 14
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 12
+    },
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 10
+    },
+    {
+      "brandId": "samsung",
+      "brandName": "Samsung",
+      "logoUrl": "images/brands/samsung.svg",
+      "count": 6
+    },
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 1
+    },
+    {
+      "brandId": "calefort",
+      "brandName": "Ca'Lefort",
+      "logoUrl": "images/brands/calefort.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "338094459",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. Standard Depth MAX 4-Door French Door Refrigerator in Stainless Steel with Craft Ice and Mini Craft Ice",
+      "rating": {
+        "average": 4.8205,
+        "count": 39
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336451236",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "Bespoke 36 in. 29 cu. ft. Standard Depth 4-Door French Door Refrigerator with Sphere Ice in Stainless Steel",
+      "rating": {
+        "average": 4.7073,
+        "count": 41
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325158253",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "28 cu. ft. 3 Door French Door Refrigerator with Ice and Water Dispenser and Craft Ice in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.0227,
+        "count": 970
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320243614",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "25.6 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.0899,
+        "count": 4370
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/03d6c7dd-47d3-44cd-9ad0-a56e5b3970bb/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe26jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320243591",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "27 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless with Internal Dispenser, ENERGY STAR",
+      "rating": {
+        "average": 4.4294,
+        "count": 13357
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2b401aec-6a63-4509-9069-1261b321bc3d/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311411352",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 27.9 cu. ft. Smart 4-Door French Door Refrigerator with Door-in-Door in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4584,
+        "count": 10897
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d5fec682-25d8-48ab-aa38-9a6b3bbe441b/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pvd28bynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322038211",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Smart Counter-Depth MAX French Door Refrigerator with Internal Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3447,
+        "count": 1320
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336350148",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "36 in. 25 cu. ft. Counter-Depth MAX with Zero Clearance 3-Door French Door Refrigerator with Thin Door Design",
+      "rating": {
+        "average": 4.35,
+        "count": 240
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13784b7a-6ac3-43a3-89f7-2495315424ba/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25z6211s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326915683",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3149,
+        "count": 632
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d4565ee-63b8-4e54-89e7-85f49807a778/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29h8330s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206452443",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 in. W 22 cu. ft. French Door Refrigerator with Ice Maker in Stainless Steel",
+      "rating": {
+        "average": 4.3178,
+        "count": 5884
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/320c5a3a-50f7-47ae-8dc5-5cacd2a5ebdd/svn/stainless-steel-lg-french-door-refrigerators-lfcs22520s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328604636",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in 29 cu. ft. Standard Depth French Door Refrigerator in Smudge-Proof Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.3784,
+        "count": 1636
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a34adca5-fd96-4ca1-b964-3ae04b36c66e/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-frfn2813af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1887.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320628170",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 22 cu. ft. Counter-Depth 4-Door French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.7127,
+        "count": 8760
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e895105-520f-4ddc-914d-9bb3c62b9b31/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grmc2273cf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319503107",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "Bespoke 29 cu. ft. Standard Depth 4-Door French Door Smart Refrigerator in Stainless Steel with Beverage Center",
+      "rating": {
+        "average": 4.5166,
+        "count": 2505
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329904698",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. SMART MyColor InstaView Standard-Depth MAX 4-Door French Door Refrigerator in Stainless Steel with Craft Ice",
+      "rating": {
+        "average": 4.129,
+        "count": 155
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c310fbcc-ba85-46c0-96f1-0a6f54ff683f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lh29s8565s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315868024",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "17.5 cu. ft. Counter Depth 3-Door French Door Smart Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.0029,
+        "count": 1724
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f30f8fdd-975f-44bd-a944-41fedf5d808d/svn/stainless-steel-samsung-french-door-refrigerators-rf18a5101sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308743988",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "28 cu. ft. Standard Depth 4-Door French Door Smart Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.7792,
+        "count": 1875
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b2a582dd-d674-4bf9-8054-b6a5c24d1d7f/svn/fingerprint-resistant-stainless-steel-samsung-french-door-refrigerators-rf28r7201sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320154348",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in. Gallery 28 cu. ft. Standard Depth French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.5702,
+        "count": 11629
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c5351aa-b250-4122-8425-73e411f3aab9/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grfs2853af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329624965",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.9 cu. ft. Counter Depth French Door Refrigerator w/Internal Dispenser in Fingerprint Resistant Stainless, ENERGY STAR",
+      "rating": {
+        "average": 4.0778,
+        "count": 2198
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78bbf8b5-4754-4c64-9fee-a7083058d696/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gwe22jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325158262",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. Smart Counter-Depth MAX French Door Refrigerator with Dual Ice Makers in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.1887,
+        "count": 800
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4ba1d4a0-367c-4d4f-b891-16821bbb71e0/svn/print-proof-stainless-steel-lg-french-door-refrigerators-lrfxc2606s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319341358",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 22.3 cu. ft. Counter Depth Four Door French Door Refrigerator in Stainless Steel with Hands-Free Autofill",
+      "rating": {
+        "average": 3.9369,
+        "count": 1521
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/547b1d70-2e68-4ec0-ba64-590125cd601c/svn/stainless-steel-ge-french-door-refrigerators-pxd22bypfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326915276",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W. 21 cu.ft. SMART Counter Depth MAX French Door Refrigerator with Ice Maker in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.2274,
+        "count": 365
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329624985",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "20.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless, ENERGY STAR",
+      "rating": {
+        "average": 3.6941,
+        "count": 1180
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9f7adf0-37ef-4b07-bdf5-6a89431eeee5/svn/stainless-steel-ge-french-door-refrigerators-gye21jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987058",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "18.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.9853,
+        "count": 4908
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e9e942e1-266d-430a-9117-c84444bbf2d3/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gwe19jylfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319503272",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "Bespoke 23 cu. ft. Counter Depth 4-Door French Door Smart Refrigerator with Beverage Center in Stainless Steel",
+      "rating": {
+        "average": 4.5166,
+        "count": 2505
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/670684df-f3b9-4681-ab63-97e3f65784ea/svn/stainless-steel-samsung-french-door-refrigerators-rf23bb8600ql-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331924086",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20 cu. ft. Counter-Depth French Door Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.7713,
+        "count": 870
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b5a94ce-190f-42a9-bb7f-4e77760e0f7d/svn/stainless-steel-kitchenaid-french-door-refrigerators-krfc136rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310324792",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "800 Series 36 in. 21 cu. ft. Smart Counter Depth French Door Bottom Freezer Refrigerator Stainless Steel, Ice and Water",
+      "rating": {
+        "average": 4.5667,
+        "count": 2857
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eb76bcdb-5eb9-4e77-a233-16310c35f1fa/svn/stainless-steel-bosch-french-door-refrigerators-b36ct80sns-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330043974",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. SMART Counter Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless",
+      "rating": {
+        "average": 4.2844,
+        "count": 443
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a7058421-4542-408a-9883-f1c1efb06d3f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25g8330s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323521042",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "26.8 cu. ft. French Door Refrigerator in Stainless Steel with PrintShield Finish",
+      "rating": {
+        "average": 3.9605,
+        "count": 1190
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ac057859-394b-4024-833f-8252c6e80e2d/svn/stainless-steel-with-printshield-finish-kitchenaid-french-door-refrigerators-krff577kps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207176320",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "23.8 cu. ft. French Door Refrigerator in PrintShield Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 3.8463,
+        "count": 2824
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e80df73-f2ff-4f20-8922-ce1e3c248f3d/svn/stainless-steel-with-printshield-finish-kitchenaid-french-door-refrigerators-krfc704fps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330429095",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "26.2 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel with Platinum Interior",
+      "rating": {
+        "average": 4.3402,
+        "count": 723
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9abe470-6d15-47d8-b8cc-67d2577c1e8f/svn/fingerprint-resistant-stainless-steel-kitchenaid-french-door-refrigerators-krmf536rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330603800",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 19.4 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.8421,
+        "count": 76
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4061d278-0389-4b81-97e5-b36f5fa2b3eb/svn/fingerprint-resistant-stainless-steel-kitchenaid-french-door-refrigerators-krqc736rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205850728",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24.2 cu. ft. Built-In French Door Refrigerator in Stainless Steel, Platinum Interior",
+      "rating": {
+        "average": 3.7148,
+        "count": 291
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a397915f-994b-46ef-a31f-d745681b7b45/svn/stainless-steel-kitchenaid-french-door-refrigerators-kbfn502ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206268536",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "21.9 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.0022,
+        "count": 1368
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d23c0cff-feba-42c7-9fac-ffeff2c6d6b5/svn/stainless-steel-kitchenaid-french-door-refrigerators-krfc302ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205970003",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 25.19 cu. ft. Standard Depth French Door Refrigerator in Stainless Steel with Interior Dispense",
+      "rating": {
+        "average": 4.3473,
+        "count": 1451
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ac378285-790a-4dcc-bd92-be0c41ce2307/svn/stainless-steel-kitchenaid-french-door-refrigerators-krff305ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206093715",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "25.8 cu. ft. French Door Refrigerator in Stainless Steel with Platinum Interior",
+      "rating": {
+        "average": 4.1655,
+        "count": 5673
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/482c2675-5abc-4938-994b-611734e50684/svn/stainless-steel-kitchenaid-french-door-refrigerators-krmf706ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206020698",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "22.1 cu. ft. French Door Refrigerator in Stainless Steel with Interior Dispenser",
+      "rating": {
+        "average": 4.2729,
+        "count": 1345
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/66cae3f7-b157-4006-95a4-6d4cbc0a546a/svn/stainless-steel-kitchenaid-french-door-refrigerators-krff302ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205947723",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "20 cu. ft. French Door Refrigerator in Stainless Steel with Interior Water Dispenser",
+      "rating": {
+        "average": 4.1746,
+        "count": 4186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a396d3a7-e575-4b02-9f6c-f37b0ea62a02/svn/stainless-steel-kitchenaid-french-door-refrigerators-krff300ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205851263",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "20.8 cu. ft. Built-In French Door Refrigerator in Stainless Steel with Platinum Interior",
+      "rating": {
+        "average": 3.7927,
+        "count": 82
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a397915f-994b-46ef-a31f-d745681b7b45/svn/stainless-steel-kitchenaid-french-door-refrigerators-kbfn506ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329101029",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 30 in. 20 cu. ft. Standard Depth French Door Refrigerator in Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.6387,
+        "count": 1619
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6c8e7edd-7b5e-4f55-958a-270269dd9787/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grfn2023af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1549.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336155094",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "28 Cu. Ft. Standard Depth French Door Refrigerator in Smudge-Proof Stainless Steel ENERGY STAR",
+      "rating": {
+        "average": 4.4979,
+        "count": 7063
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f48a6f51-27bc-4592-a3ef-d999e1c1d5ea/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-frfs2823af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324695976",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 26.3 cu. ft. 4-Door French Door Standard Depth Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.5979,
+        "count": 2718
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/992887a1-2f7a-4a41-bf92-dd2cbc131ace/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grms2773af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320155533",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 23 cu. ft. Counter Depth French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.3143,
+        "count": 3538
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/928a8f75-3f18-461f-897d-1c8d0bfbed00/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grfc2353af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329741478",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Professional 36 in. 21.4 cu. ft. Counter Depth French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.7119,
+        "count": 1510
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f761af5d-63dc-4cbc-b03b-a211155fd8b8/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-prmc2285af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318953497",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "28 Cu. Ft. Standard Depth French Door Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.496,
+        "count": 7070
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38c32e3e-c452-4e1f-9d53-d228a21372d3/svn/stainless-steel-frigidaire-french-door-refrigerators-frfs2823as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319236498",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "24.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.342,
+        "count": 11752
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d9792a17-9e43-48da-899f-cf3ea94fefd0/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne25jykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326403750",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28.7 cu. ft. 4-Door French Door Refrigerator in Stainless Steel with Dual-Dispense Autofill Pitcher",
+      "rating": {
+        "average": 4.6498,
+        "count": 1676
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fef80326-ac16-45e2-b3ce-5a94ae920d56/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pge29bytfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312648552",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "27.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.29,
+        "count": 11270
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd7abecf-e947-4978-a1dd-fe8fe6c0bbbf/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe28gynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312903946",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "22.1 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth and ENERGY STAR",
+      "rating": {
+        "average": 3.9616,
+        "count": 3460
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a6aa11c7-8bdf-409a-a436-3641cf71526f/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gye22gynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312648559",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 22.1 cu. ft. French Door Refrigerator with Hands-Free Autofill in Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.1568,
+        "count": 5012
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd8ded21-5125-4adc-bba8-5587c22959aa/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pye22kynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3509.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319240389",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.5 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, Counter-Depth ENERGY STAR",
+      "rating": {
+        "average": 3.9983,
+        "count": 1212
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/008543aa-59a0-4680-8cfc-5a43c4d8fae4/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gye18jylfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319240166",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "23.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless, Standard Depth ENERGY STAR",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/008543aa-59a0-4680-8cfc-5a43c4d8fae4/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe24jykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318840093",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "31.5 in. 18 cu. ft. Counter Depth French Door Refrigerator in Fingerprint-Resistant Stainless Look",
+      "rating": {
+        "average": 4.6307,
+        "count": 8881
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f89014e6-f8ae-4acf-927a-461f3f5bfd47/svn/fingerprint-resistant-stainless-look-frigidaire-french-door-refrigerators-frfg1723av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326195120",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "32 cu. ft. Mega Capacity Standard Depth 3-Door French Door Refrigerator in Stainless Steel with Dual Auto Ice Maker",
+      "rating": {
+        "average": 3.7224,
+        "count": 508
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a7862ffa-2ebb-47b8-9d05-83284a1dafab/svn/stainless-steel-samsung-french-door-refrigerators-rf32cg5100sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331842846",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W. 25 cu. ft. Smart 3-Door French Door Refrigerator Standard Depth MAX in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3348,
+        "count": 2028
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1925f6d6-e45e-46db-9171-7665a94dff42/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6200s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331921569",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 24.5 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.0925,
+        "count": 3155
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b1dfea9-0b68-4833-96b6-8a92133fa373/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrmf3636rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326523737",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "33 in. 22 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.1636,
+        "count": 495
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e19dec0f-a717-4267-9d95-c5ad748f47d6/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff5333pz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305608916",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "19.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.1285,
+        "count": 3915
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ea323671-b709-4eb7-9620-5ab43aea150d/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf560sehz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313803342",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 19.4 cu. ft. 4-Door French Door Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.2303,
+        "count": 2141
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9673c973-589b-4aaa-b3cb-a2b2a27b3522/svn/fingerprint-resistant-stainless-finish-whirlpool-french-door-refrigerators-wrqa59cnkz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338038883",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 23 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless with In-Door Water & Ice",
+      "rating": {
+        "average": 4.25,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f2be3b5-b2b0-4f8c-95d4-511e5f62be3c/svn/fingerprint-resistant-stainless-finish-whirlpool-french-door-refrigerators-wrfc5036rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332315115",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "35 in. 20 Cu. Ft. Counter-Depth French Door Bottom Mount Refrigerator in Stainless Steel with Elevated Deli Drawer",
+      "rating": {
+        "average": 4.1101,
+        "count": 227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/29555535-ae73-4350-8e84-b116839e57ce/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrfc2036rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331905859",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 24.7 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.0115,
+        "count": 1907
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02e99385-c723-4e88-942e-076f15cf3f81/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff3436rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330622056",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 19.2 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.463,
+        "count": 108
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4e2816e8-b5b8-410e-a15a-26b5461176b5/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrqc7836rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329740394",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 26 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel with Triple Crisper",
+      "rating": {
+        "average": 4.4857,
+        "count": 175
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e33ead7c-c9bf-4be6-99c6-5ef3f3b2b9ac/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrmf7736pz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302657616",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "20 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2145,
+        "count": 606
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c1ca751d-21a1-4801-a5f5-15667d367429/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf560smhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305470672",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "26.8 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4663,
+        "count": 5014
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3856ce7a-587b-4ae3-b3f3-1e6b54d45931/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf767sdhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2969.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331267732",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel with Auto-Humidity Crispers",
+      "rating": {
+        "average": 4.0588,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bf8db28a-dfeb-4aee-865e-ab1b58cbd8ed/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrfc9636rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331843319",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 25.2 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2269,
+        "count": 520
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d7f05a8b-c21e-4fc1-80ea-b92511443303/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff3236rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305447143",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "26.8 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.3089,
+        "count": 2726
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e9e9517e-333a-4bb2-9ec2-36646423e397/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf757sdhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2879.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332336317",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in 25.2 cu. ft. Full Depth French Door Bottom Mount Refrigerator in Stainless Steel with Elevated Deli Drawer",
+      "rating": {
+        "average": 4.1235,
+        "count": 81
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8dc56e23-ad80-4b03-b6a0-937fee496d96/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff3036rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302253240",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "28 cu. ft. 4-Door French Door Smart Refrigerator with Ice and Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 3.9728,
+        "count": 3935
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326917144",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Internal Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3277,
+        "count": 238
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/930cb3bb-c3a4-4a58-af4e-5b771a191de3/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf30s8210s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304416120",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 in. W 22 cu. ft. French Door Refrigerator with Water Dispenser in Stainless Steel",
+      "rating": {
+        "average": 4.3503,
+        "count": 5664
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97748c01-2a21-492b-9b99-97cf56036f7e/svn/stainless-steel-lg-french-door-refrigerators-lfds22520s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338102213",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. Standard-Depth MAX 4-Door French Door Refrigerator in PrintProof Noble Steel with Full Convert Drawer",
+      "rating": {
+        "average": 4.0,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab956d38-ff50-41b1-a1f6-ee6f6b521142/svn/printproof-noble-steel-lg-french-door-refrigerators-lf29s8230v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331843223",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W. 25 cu.ft. Smart 3-Door French Door Refrigerator Standard Depth MAX in Stainless Steel with Dual Ice Makers",
+      "rating": {
+        "average": 4.292,
+        "count": 137
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338096112",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. Counter-Depth MAX 3-Door French Door Refrigerator in PrintProof Noble Steel with Tall Ice and Water Dispenser",
+      "rating": {
+        "average": 3.7143,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b35fd1fd-fae8-4f77-bdf3-e4510d09e66e/svn/printproof-noble-steel-lg-french-door-refrigerators-lf26c6230v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325139202",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "24 in. 20-Bottle Wine and 60 Can Beverage Cooler Dual Zone Refrigerator Under-Counter or Freestanding French Door Fridge",
+      "rating": {
+        "average": 4.2909,
+        "count": 55
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51c0aaa3-033b-4d53-9f95-96f4b7a1d93d/svn/stainless-steel-ca-lefort-beverage-wine-combos-clf-wf24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 735.52,
+        "currency": "USD"
+      }
+    }
+  ]
+}

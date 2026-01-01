@@ -1,0 +1,45 @@
+{
+  "productId": "316803824",
+  "identifiers": {
+    "internetNumber": "316803824",
+    "modelNumber": "",
+    "storeSkuNumber": "316803824"
+  },
+  "brand": {
+    "name": "Summit Appliance",
+    "logoUrl": "images/brands/summit-appliance.svg"
+  },
+  "title": "24 in. W 5.5 cu. ft. Freezerless Refrigerator in Black",
+  "shortDescription": "24 in. W 5.5 cu. ft. Freezerless Refrigerator in Black",
+  "longDescription": "24 in. W 5.5 cu. ft. Freezerless Refrigerator in Black",
+  "pricing": {
+    "currentPrice": 756.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/316803824/black-summit-appliance-freezerless-refrigerators-ff63bk2-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316803824/black-summit-appliance-freezerless-refrigerators-ff63bk2-64_100.jpg",
+        "altText": "24 in. W 5.5 cu. ft. Freezerless Refrigerator in Black",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.443638"
+}

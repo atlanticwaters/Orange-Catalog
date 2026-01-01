@@ -1,0 +1,45 @@
+{
+  "productId": "336672158",
+  "identifiers": {
+    "internetNumber": "336672158",
+    "modelNumber": "",
+    "storeSkuNumber": "336672158"
+  },
+  "brand": {
+    "name": "Maytag",
+    "logoUrl": "images/brands/maytag.svg"
+  },
+  "title": "4.2 cu. ft. Top Load Washer in White with Deep Fill Option and Power Agitator",
+  "shortDescription": "4.2 cu. ft. Top Load Washer in White with Deep Fill Option and Power Agitator",
+  "longDescription": "4.2 cu. ft. Top Load Washer in White with Deep Fill Option and Power Agitator",
+  "pricing": {
+    "currentPrice": 549.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2449,
+    "count": 437
+  },
+  "media": {
+    "primaryImage": "/products/336672158/white-maytag-top-load-washers-mtw4205sw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336672158/white-maytag-top-load-washers-mtw4205sw-64_100.jpg",
+        "altText": "4.2 cu. ft. Top Load Washer in White with Deep Fill Option and Power Agitator",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.456802"
+}

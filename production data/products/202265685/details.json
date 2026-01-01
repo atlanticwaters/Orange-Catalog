@@ -1,0 +1,45 @@
+{
+  "productId": "202265685",
+  "identifiers": {
+    "internetNumber": "202265685",
+    "modelNumber": "",
+    "storeSkuNumber": "202265685"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "6.5 Amp 3-1/4 in. Corded Handheld Planer Kit with Blade Set, Hard Case",
+  "shortDescription": "6.5 Amp 3-1/4 in. Corded Handheld Planer Kit with Blade Set, Hard Case",
+  "longDescription": "6.5 Amp 3-1/4 in. Corded Handheld Planer Kit with Blade Set, Hard Case",
+  "pricing": {
+    "currentPrice": 209.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.571,
+    "count": 317
+  },
+  "media": {
+    "primaryImage": "/products/202265685/makita-planers-kp0800k-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202265685/makita-planers-kp0800k-64_100.jpg",
+        "altText": "6.5 Amp 3-1/4 in. Corded Handheld Planer Kit with Blade Set, Hard Case",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.662771"
+}

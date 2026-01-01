@@ -1,0 +1,45 @@
+{
+  "productId": "319950732",
+  "identifiers": {
+    "internetNumber": "319950732",
+    "modelNumber": "",
+    "storeSkuNumber": "319950732"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "13 in. Jasmine Artificial Wreath",
+  "shortDescription": "13 in. Jasmine Artificial Wreath",
+  "longDescription": "13 in. Jasmine Artificial Wreath",
+  "pricing": {
+    "currentPrice": 25.62,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/319950732/nearly-natural-decorative-wreaths-w1154-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/319950732/nearly-natural-decorative-wreaths-w1154-64_100.jpg",
+        "altText": "13 in. Jasmine Artificial Wreath",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.609731"
+}

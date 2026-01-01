@@ -1,0 +1,45 @@
+{
+  "productId": "314699482",
+  "identifiers": {
+    "internetNumber": "314699482",
+    "modelNumber": "",
+    "storeSkuNumber": "314699482"
+  },
+  "brand": {
+    "name": "Proslat",
+    "logoUrl": "images/brands/proslat.svg"
+  },
+  "title": "96 in. W x 48 in. H Slat Wall Panel Set Light Grey (2-Pack)",
+  "shortDescription": "96 in. W x 48 in. H Slat Wall Panel Set Light Grey (2-Pack)",
+  "longDescription": "96 in. W x 48 in. H Slat Wall Panel Set Light Grey (2-Pack)",
+  "pricing": {
+    "currentPrice": 379.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.775,
+    "count": 40
+  },
+  "media": {
+    "primaryImage": "/products/314699482/light-gray-proslat-slatwall-panels-p88207-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314699482/light-gray-proslat-slatwall-panels-p88207-64_100.jpg",
+        "altText": "96 in. W x 48 in. H Slat Wall Panel Set Light Grey (2-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.625860"
+}

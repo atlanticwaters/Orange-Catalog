@@ -1,0 +1,45 @@
+{
+  "productId": "309412837",
+  "identifiers": {
+    "internetNumber": "309412837",
+    "modelNumber": "",
+    "storeSkuNumber": "309412837"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "13 Amp 8-1/4 in. Compact Portable Corded Jobsite Table Saw (No Stand)",
+  "shortDescription": "13 Amp 8-1/4 in. Compact Portable Corded Jobsite Table Saw (No Stand)",
+  "longDescription": "13 Amp 8-1/4 in. Compact Portable Corded Jobsite Table Saw (No Stand)",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.443,
+    "count": 2192
+  },
+  "media": {
+    "primaryImage": "/products/309412837/ryobi-portable-table-saws-rts08-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309412837/ryobi-portable-table-saws-rts08-64_100.jpg",
+        "altText": "13 Amp 8-1/4 in. Compact Portable Corded Jobsite Table Saw (No Stand)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.676650"
+}

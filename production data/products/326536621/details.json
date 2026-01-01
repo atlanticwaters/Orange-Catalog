@@ -1,0 +1,45 @@
+{
+  "productId": "326536621",
+  "identifiers": {
+    "internetNumber": "326536621",
+    "modelNumber": "",
+    "storeSkuNumber": "326536621"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "5.0 cu.ft. Smart Front Load Washer in White with Steam, UltraFresh Vent System, and Microban Technology",
+  "shortDescription": "5.0 cu.ft. Smart Front Load Washer in White with Steam, UltraFresh Vent System, and Microban Technology",
+  "longDescription": "5.0 cu.ft. Smart Front Load Washer in White with Steam, UltraFresh Vent System, and Microban Technology",
+  "pricing": {
+    "currentPrice": 849.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3237,
+    "count": 1940
+  },
+  "media": {
+    "primaryImage": "/products/326536621/white-ge-front-load-washers-gfw655ssvww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326536621/white-ge-front-load-washers-gfw655ssvww-64_100.jpg",
+        "altText": "5.0 cu.ft. Smart Front Load Washer in White with Steam, UltraFresh Vent System, and Microban Technology",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.548112"
+}

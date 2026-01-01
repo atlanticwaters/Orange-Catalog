@@ -1,0 +1,45 @@
+{
+  "productId": "311687601",
+  "identifiers": {
+    "internetNumber": "311687601",
+    "modelNumber": "",
+    "storeSkuNumber": "311687601"
+  },
+  "brand": {
+    "name": "Hilti",
+    "logoUrl": "images/brands/hilti.svg"
+  },
+  "title": "DCH 300-X 12 in. Hand Held Electric Diamond Concrete Cutting Saw",
+  "shortDescription": "DCH 300-X 12 in. Hand Held Electric Diamond Concrete Cutting Saw",
+  "longDescription": "DCH 300-X 12 in. Hand Held Electric Diamond Concrete Cutting Saw",
+  "pricing": {
+    "currentPrice": 1919.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/311687601/hilti-concrete-saws-3625041-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311687601/hilti-concrete-saws-3625041-64_100.jpg",
+        "altText": "DCH 300-X 12 in. Hand Held Electric Diamond Concrete Cutting Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.689688"
+}

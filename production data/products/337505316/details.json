@@ -1,0 +1,45 @@
+{
+  "productId": "337505316",
+  "identifiers": {
+    "internetNumber": "337505316",
+    "modelNumber": "",
+    "storeSkuNumber": "337505316"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "4.1 Cu. Ft. Top Load Washer in White with 8 wash cycles",
+  "shortDescription": "4.1 Cu. Ft. Top Load Washer in White with 8 wash cycles",
+  "longDescription": "4.1 Cu. Ft. Top Load Washer in White with 8 wash cycles",
+  "pricing": {
+    "currentPrice": 749.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5391,
+    "count": 115
+  },
+  "media": {
+    "primaryImage": "/products/337505316/white-frigidaire-top-load-washers-flvw7000aw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337505316/white-frigidaire-top-load-washers-flvw7000aw-64_100.jpg",
+        "altText": "4.1 Cu. Ft. Top Load Washer in White with 8 wash cycles",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.585147"
+}

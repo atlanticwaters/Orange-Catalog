@@ -1,0 +1,45 @@
+{
+  "productId": "330320124",
+  "identifiers": {
+    "internetNumber": "330320124",
+    "modelNumber": "",
+    "storeSkuNumber": "330320124"
+  },
+  "brand": {
+    "name": "NATURAE DECOR",
+    "logoUrl": "images/brands/naturae-decor.svg"
+  },
+  "title": "Artificial 37 in. white hydrangea in black pot",
+  "shortDescription": "Artificial 37 in. white hydrangea in black pot",
+  "longDescription": "Artificial 37 in. white hydrangea in black pot",
+  "pricing": {
+    "currentPrice": 68.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.625,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/330320124/naturae-decor-artificial-shrubs-out-hydwh-37-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330320124/naturae-decor-artificial-shrubs-out-hydwh-37-64_100.jpg",
+        "altText": "Artificial 37 in. white hydrangea in black pot",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.648940"
+}

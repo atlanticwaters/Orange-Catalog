@@ -1,0 +1,45 @@
+{
+  "productId": "313511878",
+  "identifiers": {
+    "internetNumber": "313511878",
+    "modelNumber": "",
+    "storeSkuNumber": "313511878"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring (Tool-Only)",
+  "shortDescription": "M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring (Tool-Only)",
+  "longDescription": "M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring (Tool-Only)",
+  "pricing": {
+    "currentPrice": 279.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8456,
+    "count": 2520
+  },
+  "media": {
+    "primaryImage": "/products/313511878/milwaukee-impact-wrenches-2962-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313511878/milwaukee-impact-wrenches-2962-20-64_100.jpg",
+        "altText": "M18 FUEL Gen-2 18V Lithium-Ion Brushless Cordless Mid Torque 1/2 in. Impact Wrench w/Friction Ring (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.684506"
+}

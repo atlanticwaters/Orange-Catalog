@@ -1,0 +1,45 @@
+{
+  "productId": "206966758",
+  "identifiers": {
+    "internetNumber": "206966758",
+    "modelNumber": "",
+    "storeSkuNumber": "206966758"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "Pneumatic 21-Degree Collated Corded Framing Nailer",
+  "shortDescription": "Pneumatic 21-Degree Collated Corded Framing Nailer",
+  "longDescription": "Pneumatic 21-Degree Collated Corded Framing Nailer",
+  "pricing": {
+    "currentPrice": 269.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3288,
+    "count": 371
+  },
+  "media": {
+    "primaryImage": "/products/206966758/dewalt-framing-nailers-dwf83pl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206966758/dewalt-framing-nailers-dwf83pl-64_100.jpg",
+        "altText": "Pneumatic 21-Degree Collated Corded Framing Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.484144"
+}

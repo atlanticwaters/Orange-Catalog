@@ -1,0 +1,45 @@
+{
+  "productId": "302453560",
+  "identifiers": {
+    "internetNumber": "302453560",
+    "modelNumber": "",
+    "storeSkuNumber": "302453560"
+  },
+  "brand": {
+    "name": "InSinkErator",
+    "logoUrl": "images/brands/insinkerator.svg"
+  },
+  "title": "Badger 5XP W/C, 3/4 HP Continuous Feed Kitchen Garbage Disposal with Power Cord, Badger Series",
+  "shortDescription": "Badger 5XP W/C, 3/4 HP Continuous Feed Kitchen Garbage Disposal with Power Cord, Badger Series",
+  "longDescription": "Badger 5XP W/C, 3/4 HP Continuous Feed Kitchen Garbage Disposal with Power Cord, Badger Series",
+  "pricing": {
+    "currentPrice": 177.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5944,
+    "count": 17708
+  },
+  "media": {
+    "primaryImage": "/products/302453560/insinkerator-garbage-disposals-badger-5xp-w-c-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302453560/insinkerator-garbage-disposals-badger-5xp-w-c-64_100.jpg",
+        "altText": "Badger 5XP W/C, 3/4 HP Continuous Feed Kitchen Garbage Disposal with Power Cord, Badger Series",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.460619"
+}

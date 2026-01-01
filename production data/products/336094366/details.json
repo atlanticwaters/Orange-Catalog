@@ -1,0 +1,45 @@
+{
+  "productId": "336094366",
+  "identifiers": {
+    "internetNumber": "336094366",
+    "modelNumber": "",
+    "storeSkuNumber": "336094366"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "Pro Gear Builder - Build Your System",
+  "shortDescription": "Pro Gear Builder - Build Your System",
+  "longDescription": "Pro Gear Builder - Build Your System",
+  "pricing": {
+    "currentPrice": 99.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6048,
+    "count": 2161
+  },
+  "media": {
+    "primaryImage": "/products/336094366/black-ridgid-modular-tool-storage-systems-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336094366/black-ridgid-modular-tool-storage-systems-64_100.jpg",
+        "altText": "Pro Gear Builder - Build Your System",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.427618"
+}

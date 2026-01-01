@@ -24,7 +24,7 @@
   "filters": [],
   "quickFilters": [],
   "featuredBrands": [],
-  "heroImage": "images/12.avif",
+  "heroImage": "../images/heroes/12.avif",
   "productIds": [
     "204797934",
     "205846390",
@@ -84,399 +84,391 @@
     "600px": [
       {
         "filename": "images/69.avif",
-        "url": "https://images.thdstatic.com/productImages/f08fc639-a68b-4b41-9e7a-e2c589ee474e/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf23bb86004m-64_600.jpg"
+        "url": "../images/heroes/69.avif"
       },
       {
         "filename": "images/71.avif",
-        "url": "https://images.thdstatic.com/productImages/f3824ac0-3b8e-4b46-b8cc-f56a5d572c96/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_600.jpg"
+        "url": "../images/heroes/71.avif"
       },
       {
         "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_600.jpg"
+        "url": "../images/heroes/73.avif"
       },
       {
         "filename": "images/68.avif",
-        "url": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf29bb86004m-64_600.jpg"
+        "url": "../images/heroes/68.avif"
       },
       {
         "filename": "images/70.avif",
-        "url": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg"
+        "url": "../images/heroes/70.avif"
       },
       {
         "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/5b111963-e652-4619-a4ac-59fe0319a51f/svn/charcoal-glass-matte-black-steel-samsung-french-door-refrigerators-rf29bb89008m-64_600.jpg"
+        "url": "../images/ui/72.avif"
       },
       {
         "filename": "images/74.avif",
-        "url": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_600.jpg"
+        "url": "../images/heroes/74.avif"
       },
       {
         "filename": "images/76.avif",
-        "url": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_600.jpg"
+        "url": "../images/heroes/76.avif"
       },
       {
         "filename": "images/77.avif",
-        "url": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_600.jpg"
+        "url": "../images/heroes/77.avif"
       },
       {
         "filename": "images/75.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_600.jpg"
+        "url": "../images/heroes/75.avif"
       },
       {
         "filename": "images/79.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_600.jpg"
+        "url": "../images/heroes/79.avif"
       },
       {
         "filename": "images/78.avif",
-        "url": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_600.jpg"
+        "url": "../images/heroes/78.avif"
       },
       {
         "filename": "images/20.avif",
-        "url": "https://images.thdstatic.com/productImages/d9c38e9c-93d5-41e0-9079-f594befddaac/svn/milwaukee-jobsite-audio-2956-20-64_600.jpg"
+        "url": "../images/heroes/20.avif"
       },
       {
         "filename": "images/22.webp",
-        "url": "https://images.thdstatic.com/productImages/2924cf4c-9369-46e8-9bce-ed12342697d9/svn/ryobi-jobsite-fans-pcl811b-e4_600.jpg"
+        "url": "../images/products/22.webp"
       },
       {
         "filename": "images/24.webp",
-        "url": "https://images.thdstatic.com/productImages/c72fc19b-5729-4bcc-8d64-6793e2e1c39e/svn/milwaukee-jobsite-lighting-2131-20-e4_600.jpg"
+        "url": "../images/products/24.webp"
       },
       {
         "filename": "images/25.avif",
-        "url": "https://images.thdstatic.com/productImages/a0fffc12-e9d8-475c-a341-380ed79102f4/svn/milwaukee-jobsite-audio-2952-20-64_600.jpg"
+        "url": "../images/heroes/25.avif"
       },
       {
         "filename": "images/26.avif",
-        "url": "https://images.thdstatic.com/productImages/a7cf9c05-f3bb-46d8-bc15-98b9fc0d7ce9/svn/milwaukee-jobsite-audio-2952-20-e4_600.jpg"
+        "url": "../images/heroes/26.avif"
       },
       {
         "filename": "images/29.avif",
-        "url": "https://images.thdstatic.com/productImages/0f73b86f-9184-4491-b061-c4bed24ee32e/svn/ridgid-jobsite-audio-ac8609340sb-r84089b-64_600.jpg"
+        "url": "../images/heroes/29.avif"
       },
       {
         "filename": "images/32.avif",
-        "url": "https://images.thdstatic.com/productImages/1a06b7cd-9b5a-4ec4-b75f-932bdcabd642/svn/milwaukee-jobsite-fans-0818-20-64_600.jpg"
+        "url": "../images/ui/32.avif"
       },
       {
         "filename": "images/27.avif",
-        "url": "https://images.thdstatic.com/productImages/7ed61b31-eee5-4aee-bedf-3228edbd6317/svn/milwaukee-jobsite-lighting-2368-20-64_600.jpg"
+        "url": "../images/heroes/27.avif"
       },
       {
         "filename": "images/37.avif",
-        "url": "https://images.thdstatic.com/productImages/ebd4b42b-d378-4d52-a551-b29588f720ca/svn/ryobi-jobsite-audio-pcl615b-pbp006-64_600.jpg"
+        "url": "../images/heroes/37.avif"
       },
       {
         "filename": "images/39.avif",
-        "url": "https://images.thdstatic.com/productImages/a96110c2-0d15-44b9-8164-2273dabb2bf8/svn/dewalt-jobsite-lighting-dwst08062w25-2c-64_600.jpg"
+        "url": "../images/heroes/39.avif"
       },
       {
         "filename": "images/40.avif",
-        "url": "https://images.thdstatic.com/productImages/5a4c97f7-2182-4f48-a9a0-ca9848302d17/svn/milwaukee-jobsite-audio-2955-20-48-59-2420-64_600.jpg"
+        "url": "../images/ui/40.avif"
       },
       {
         "filename": "images/41.avif",
-        "url": "https://images.thdstatic.com/productImages/06422dff-ac07-4c3c-827b-95cb7d1b7cbc/svn/ryobi-jobsite-lighting-pcl691b-pbp1104-64_600.jpg"
+        "url": "../images/heroes/41.avif"
       },
       {
         "filename": "images/42.avif",
-        "url": "https://images.thdstatic.com/productImages/fbfe0e37-4f91-4ee5-a5c4-a37fedfbaef5/svn/ridgid-jobsite-lighting-r86903b-ac87004-64_600.jpg"
+        "url": "../images/heroes/42.avif"
       },
       {
         "filename": "images/49.avif",
-        "url": "https://images.thdstatic.com/productImages/b6543385-7bc9-4b68-a83a-703709ad274f/svn/beambox-jobsite-lighting-yx1128-08-64_600.jpg"
+        "url": "../images/ui/49.avif"
       },
       {
         "filename": "images/21.avif",
-        "url": "https://images.thdstatic.com/productImages/da08f18c-4073-434b-a6fc-24d85fe74e84/svn/ryobi-jobsite-fans-pcl811b-64_600.jpg"
+        "url": "../images/heroes/21.avif"
       },
       {
         "filename": "images/28.avif",
-        "url": "https://images.thdstatic.com/productImages/85e92907-ff5a-4a14-a113-d0b90598d273/svn/milwaukee-jobsite-lighting-2368-20-e4_600.jpg"
+        "url": "../images/heroes/28.avif"
       },
       {
         "filename": "images/34.avif",
-        "url": "https://images.thdstatic.com/productImages/e095202e-231b-4e7d-90df-b71e85de1024/svn/ge-jobsite-lighting-93130701-64_600.jpg"
+        "url": "../images/ui/34.avif"
       },
       {
         "filename": "images/43.avif",
-        "url": "https://images.thdstatic.com/productImages/6b65e373-c5c0-4300-9918-5139168555b9/svn/hdx-jobsite-lighting-lg351-1200w-64_600.jpg"
+        "url": "../images/heroes/43.avif"
       },
       {
         "filename": "images/45.avif",
-        "url": "https://images.thdstatic.com/productImages/e133a988-aa08-41b4-ac88-9cb59e4f64a6/svn/ryobi-jobsite-lighting-fvl52k-fvl54k-64_600.jpg"
+        "url": "../images/heroes/45.avif"
       },
       {
         "filename": "images/48.avif",
-        "url": "https://images.thdstatic.com/productImages/baabfaa0-c240-4be4-bc8a-d12bf891fcc9/svn/beambox-jobsite-lighting-yx1120-07-64_600.jpg"
+        "url": "../images/heroes/48.avif"
       },
       {
         "filename": "images/33.avif",
-        "url": "https://images.thdstatic.com/productImages/3248ad54-0efb-4d9e-98f7-664fe9bd9259/svn/milwaukee-jobsite-fans-0818-20-e4_600.jpg"
+        "url": "../images/heroes/33.avif"
       },
       {
         "filename": "images/44.avif",
-        "url": "https://images.thdstatic.com/productImages/de217fb3-bc89-4311-a2e3-4f1b0a8de560/svn/ryobi-jobsite-lighting-pcl691b-psk014-64_600.jpg"
+        "url": "../images/heroes/44.avif"
       },
       {
         "filename": "images/23.avif",
-        "url": "https://images.thdstatic.com/productImages/cfe657ae-00f2-48ea-9a81-3e175e077de7/svn/milwaukee-jobsite-lighting-2131-20-64_600.jpg"
+        "url": "../images/heroes/23.avif"
       },
       {
         "filename": "images/31.webp",
-        "url": "https://images.thdstatic.com/productImages/e3eae734-6344-4d5e-9f3a-51b060983eec/svn/milwaukee-jobsite-lighting-2366-20-e4_600.jpg"
+        "url": "../images/products/31.webp"
       },
       {
         "filename": "images/50.avif",
-        "url": "https://images.thdstatic.com/productImages/316915fc-1750-4dd7-8a1b-646a8294b503/svn/ryobi-jobsite-lighting-pcl691b-64_600.jpg"
+        "url": "../images/heroes/50.avif"
       },
       {
         "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/215d20df-cf95-4f59-a307-2b5b4260e0d5/svn/milwaukee-jobsite-lighting-2367-20-48-11-2420-64_600.jpg"
+        "url": "../images/heroes/51.avif"
       },
       {
         "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/90a0f89c-a74e-411b-8e56-031ca0959703/svn/milwaukee-jobsite-lighting-2367-20-64_600.jpg"
+        "url": "../images/ui/53.avif"
       },
       {
         "filename": "images/54.avif",
-        "url": "https://images.thdstatic.com/productImages/0d5ed625-9b24-4ef6-ae6c-d846961cca9c/svn/milwaukee-jobsite-lighting-2367-20-e4_600.jpg"
+        "url": "../images/heroes/54.avif"
       },
       {
         "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/ed5f1460-95e6-40ce-89cd-609de484edcb/svn/milwaukee-jobsite-lighting-2136-20-e4_600.jpg"
+        "url": "../images/heroes/56.avif"
       },
       {
         "filename": "images/57.avif",
-        "url": "https://images.thdstatic.com/productImages/08a821ce-4a12-411e-8b8b-3f6bab24ab6f/svn/ryobi-jobsite-fans-pcl811k-64_600.jpg"
+        "url": "../images/heroes/57.avif"
       },
       {
         "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/5fd3606a-44d8-43b3-9050-28e712ea6e6b/svn/milwaukee-jobsite-audio-2951-20-64_600.jpg"
+        "url": "../images/heroes/58.avif"
       },
       {
         "filename": "images/59.avif",
-        "url": "https://images.thdstatic.com/productImages/054223f4-10a0-4a5c-ba62-f56e8d135193/svn/ryobi-jobsite-lighting-pcl633b-64_600.jpg"
+        "url": "../images/heroes/59.avif"
       },
       {
         "filename": "images/62.avif",
-        "url": "https://images.thdstatic.com/productImages/928996f3-cd32-4fc6-802c-50aaaafac108/svn/dewalt-jobsite-audio-dcr028b-64_600.jpg"
+        "url": "../images/heroes/62.avif"
       },
       {
         "filename": "images/63.avif",
-        "url": "https://images.thdstatic.com/productImages/300c919a-46ff-4196-a713-34262452c739/svn/milwaukee-jobsite-audio-2792-20-64_600.jpg"
+        "url": "../images/ui/63.avif"
       },
       {
         "filename": "images/66.avif",
-        "url": "https://images.thdstatic.com/productImages/e827220a-0ccd-465c-b130-1e766fe5bbea/svn/milwaukee-jobsite-fans-0820-20-64_600.jpg"
+        "url": "../images/heroes/66.avif"
       },
       {
         "filename": "images/67.avif",
-        "url": "https://images.thdstatic.com/productImages/1eb7d216-5be7-4c03-a8d5-63d83f5783e5/svn/ryobi-jobsite-lighting-pcl1308b-64_600.jpg"
+        "url": "../images/heroes/67.avif"
       },
       {
         "filename": "images/64.avif",
-        "url": "https://images.thdstatic.com/productImages/55a3e491-06d1-4a46-ad09-dc73b452b15c/svn/ryobi-jobsite-fans-pcf02b-64_600.jpg"
+        "url": "../images/heroes/64.avif"
       },
       {
         "filename": "images/30.avif",
-        "url": "https://images.thdstatic.com/productImages/a744a4a4-78c6-4fa6-99c0-43ca412ff5e1/svn/milwaukee-jobsite-lighting-2366-20-64_600.jpg"
+        "url": "../images/ui/30.avif"
       },
       {
         "filename": "images/60.webp",
-        "url": "https://images.thdstatic.com/productImages/b32ae022-a34a-4912-80d3-5f09d8391cb0/svn/ryobi-jobsite-lighting-pcl662b-64_600.jpg"
+        "url": "../images/products/60.webp"
       },
       {
         "filename": "images/55.avif",
-        "url": "https://images.thdstatic.com/productImages/95454446-52e8-45aa-99e1-2192fe8ed73e/svn/milwaukee-jobsite-lighting-2136-20-64_600.jpg"
+        "url": "../images/ui/55.avif"
       },
       {
         "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/a03e6af5-fdff-4f45-8084-e65f6bd3b131/svn/milwaukee-jobsite-lighting-2358-20-64_600.jpg"
+        "url": "../images/heroes/65.avif"
       },
       {
         "filename": "images/52.avif",
-        "url": "https://images.thdstatic.com/productImages/ab1dd3bf-aaea-4e8d-b940-e1c8f842daf9/svn/milwaukee-jobsite-lighting-2367-20-48-11-2420-e4_600.jpg"
+        "url": "../images/heroes/52.avif"
       },
       {
         "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/606b3be6-2a8d-4a31-9ed2-d0e34bb86573/svn/husky-jobsite-lighting-de002-h-64_600.jpg"
+        "url": "../images/heroes/61.avif"
       },
       {
         "filename": "images/47.avif",
-        "url": "https://images.thdstatic.com/productImages/1e51521d-f8d9-4580-8955-fc41fca2041c/svn/beambox-jobsite-lighting-yx1028-08-64_600.jpg"
+        "url": "../images/heroes/47.avif"
       },
       {
         "filename": "images/35.avif",
-        "url": "https://images.thdstatic.com/productImages/da426971-b5f6-44df-b476-86fa99a77705/svn/satco-jobsite-lighting-s13159-64_600.jpg"
+        "url": "../images/heroes/35.avif"
       },
       {
         "filename": "images/36.avif",
-        "url": "https://images.thdstatic.com/productImages/a1bef211-ee8e-487d-b004-e5714241e74b/svn/southwire-jobsite-lighting-t60100w35-64_600.jpg"
+        "url": "../images/heroes/36.avif"
       },
       {
         "filename": "images/38.avif",
-        "url": "https://images.thdstatic.com/productImages/a1b657a6-e6b2-4bac-ae6e-c2005f888ac4/svn/satco-jobsite-lighting-s13175-64_600.jpg"
+        "url": "../images/heroes/38.avif"
       },
       {
         "filename": "images/46.avif",
-        "url": "https://images.thdstatic.com/productImages/3f240275-113d-4479-8db4-2f7cf59c1661/svn/beambox-jobsite-lighting-xll717-9-64_600.jpg"
+        "url": "../images/heroes/46.avif"
       }
     ],
     "svgs": [
       {
-        "filename": "images/10.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
-      },
-      {
         "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+        "url": "../images/brands/84.svg"
       },
       {
         "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+        "url": "../images/brands/85.svg"
       },
       {
         "filename": "images/86.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+        "url": "../images/brands/86.svg"
       },
       {
         "filename": "images/87.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
+        "url": "../images/brands/87.svg"
       },
       {
         "filename": "images/88.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
+        "url": "../images/brands/88.svg"
       },
       {
         "filename": "images/89.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
+        "url": "../images/brands/89.svg"
       },
       {
         "filename": "images/90.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
+        "url": "../images/brands/90.svg"
       },
       {
         "filename": "images/91.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
+        "url": "../images/brands/91.svg"
       },
       {
         "filename": "images/92.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
+        "url": "../images/brands/92.svg"
       },
       {
         "filename": "images/93.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
+        "url": "../images/brands/93.svg"
       },
       {
         "filename": "images/94.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
+        "url": "../images/brands/94.svg"
       },
       {
         "filename": "images/95.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
+        "url": "../images/brands/95.svg"
       },
       {
         "filename": "images/96.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
+        "url": "../images/brands/96.svg"
       },
       {
         "filename": "images/97.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
+        "url": "../images/brands/97.svg"
       },
       {
         "filename": "images/98.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
+        "url": "../images/brands/98.svg"
       },
       {
         "filename": "images/99.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
+        "url": "../images/brands/99.svg"
       },
       {
         "filename": "images/100.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
+        "url": "../images/brands/100.svg"
       },
       {
         "filename": "images/101.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
+        "url": "../images/brands/101.svg"
       },
       {
         "filename": "images/102.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
+        "url": "../images/brands/102.svg"
       },
       {
         "filename": "images/103.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
+        "url": "../images/brands/103.svg"
       },
       {
         "filename": "images/104.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
+        "url": "../images/brands/104.svg"
       },
       {
         "filename": "images/106.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
+        "url": "../images/brands/106.svg"
       },
       {
         "filename": "images/105.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
+        "url": "../images/brands/105.svg"
       },
       {
         "filename": "images/107.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+        "url": "../images/brands/107.svg"
       }
     ],
     "other": [
       {
-        "filename": "images/11.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
-      },
-      {
         "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+        "url": "../images/heroes/12.avif"
       },
       {
         "filename": "images/19.avif",
-        "url": "https://assets.thdstatic.com/images/special-buy--pod.jpg"
+        "url": "../images/heroes/19.avif"
       },
       {
         "filename": "images/14.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/a0/a0fffc12-e9d8-475c-a341-380ed79102f4_300.jpg"
+        "url": "../images/heroes/14.avif"
       },
       {
         "filename": "images/15.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/7c/7c24bbd5-70c9-4a59-a3a1-1ee0228e9577_300.jpg"
+        "url": "../images/heroes/15.avif"
       },
       {
         "filename": "images/18.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/31/316915fc-1750-4dd7-8a1b-646a8294b503_300.jpg"
+        "url": "../images/ui/18.avif"
       },
       {
         "filename": "images/17.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/cf/cfe657ae-00f2-48ea-9a81-3e175e077de7_300.jpg"
+        "url": "../images/heroes/17.avif"
       },
       {
         "filename": "images/13.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/7e/7ed61b31-eee5-4aee-bedf-3228edbd6317_300.jpg"
+        "url": "../images/heroes/13.avif"
       },
       {
         "filename": "images/81.avif",
-        "url": "https://images.thdstatic.com/productImages/7ed61b31-eee5-4aee-bedf-3228edbd6317/svn/milwaukee-jobsite-lighting-2368-20-64_300.jpg"
+        "url": "../images/heroes/81.avif"
       },
       {
         "filename": "images/83.avif",
-        "url": "https://images.thdstatic.com/productImages/b1446994-f6f6-4863-939d-a6f29fabb03a/svn/milwaukee-jobsite-lighting-2359-20-64_300.jpg"
+        "url": "../images/heroes/83.avif"
       },
       {
         "filename": "images/16.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/ee/eed5a16c-59ca-4581-a3f4-5aa3d4d0d8d6_300.jpg"
+        "url": "../images/heroes/16.avif"
       },
       {
         "filename": "images/80.avif",
-        "url": "https://images.thdstatic.com/productImages/cfe657ae-00f2-48ea-9a81-3e175e077de7/svn/milwaukee-jobsite-lighting-2131-20-64_300.jpg"
+        "url": "../images/heroes/80.avif"
       },
       {
         "filename": "images/82.avif",
-        "url": "https://images.thdstatic.com/productImages/a0fffc12-e9d8-475c-a341-380ed79102f4/svn/milwaukee-jobsite-audio-2952-20-64_300.jpg"
+        "url": "../images/heroes/82.avif"
       }
     ]
   },

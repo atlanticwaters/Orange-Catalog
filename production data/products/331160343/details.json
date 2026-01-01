@@ -1,0 +1,45 @@
+{
+  "productId": "331160343",
+  "identifiers": {
+    "internetNumber": "331160343",
+    "modelNumber": "",
+    "storeSkuNumber": "331160343"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Cordless High Pressure Inflator with ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack)",
+  "shortDescription": "ONE+ 18V Cordless High Pressure Inflator with ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack)",
+  "longDescription": "ONE+ 18V Cordless High Pressure Inflator with ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack)",
+  "pricing": {
+    "currentPrice": 93.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6667,
+    "count": 21
+  },
+  "media": {
+    "primaryImage": "/products/331160343/ryobi-inflators-pcl001b-pbp2005-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331160343/ryobi-inflators-pcl001b-pbp2005-64_100.jpg",
+        "altText": "ONE+ 18V Cordless High Pressure Inflator with ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.574712"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "332557702",
+  "identifiers": {
+    "internetNumber": "332557702",
+    "modelNumber": "",
+    "storeSkuNumber": "332557702"
+  },
+  "brand": {
+    "name": "VEVOR",
+    "logoUrl": "images/brands/vevor.svg"
+  },
+  "title": "Air Compressor, 20 Gal. Steel Tank, 4 HP 14.6 CFM 90 PSI Oil Free Gas Air Compressor and Max. 125 PSI Pressure",
+  "shortDescription": "Air Compressor, 20 Gal. Steel Tank, 4 HP 14.6 CFM 90 PSI Oil Free Gas Air Compressor and Max. 125 PSI Pressure",
+  "longDescription": "Air Compressor, 20 Gal. Steel Tank, 4 HP 14.6 CFM 90 PSI Oil Free Gas Air Compressor and Max. 125 PSI Pressure",
+  "pricing": {
+    "currentPrice": 688.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6667,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/332557702/vevor-portable-air-compressors-wywskyj75l30l2754v1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332557702/vevor-portable-air-compressors-wywskyj75l30l2754v1-64_100.jpg",
+        "altText": "Air Compressor, 20 Gal. Steel Tank, 4 HP 14.6 CFM 90 PSI Oil Free Gas Air Compressor and Max. 125 PSI Pressure",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.514886"
+}

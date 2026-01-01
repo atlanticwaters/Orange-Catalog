@@ -1,0 +1,45 @@
+{
+  "productId": "328816297",
+  "identifiers": {
+    "internetNumber": "328816297",
+    "modelNumber": "",
+    "storeSkuNumber": "328816297"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Realtree, Edge 5-Piece Full Bed in Bag Set 78\" x 86\"",
+  "shortDescription": "Realtree, Edge 5-Piece Full Bed in Bag Set 78\" x 86\"",
+  "longDescription": "Realtree, Edge 5-Piece Full Bed in Bag Set 78\" x 86\"",
+  "pricing": {
+    "currentPrice": 81.82,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.5,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/328816297/bedding-sets-1rlt864000002edc-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328816297/bedding-sets-1rlt864000002edc-64_100.jpg",
+        "altText": "Realtree, Edge 5-Piece Full Bed in Bag Set 78\" x 86\"",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.472956"
+}

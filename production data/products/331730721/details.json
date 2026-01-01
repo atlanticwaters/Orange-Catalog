@@ -1,0 +1,45 @@
+{
+  "productId": "331730721",
+  "identifiers": {
+    "internetNumber": "331730721",
+    "modelNumber": "",
+    "storeSkuNumber": "331730721"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "RYOBI Stowaway Wall Mounted Folding\u00a0Workbench Table",
+  "shortDescription": "RYOBI Stowaway Wall Mounted Folding\u00a0Workbench Table",
+  "longDescription": "RYOBI Stowaway Wall Mounted Folding\u00a0Workbench Table",
+  "pricing": {
+    "currentPrice": 119.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.596,
+    "count": 99
+  },
+  "media": {
+    "primaryImage": "/products/331730721/ryobi-workbenches-stm408-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331730721/ryobi-workbenches-stm408-64_100.jpg",
+        "altText": "RYOBI Stowaway Wall Mounted Folding\u00a0Workbench Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.478729"
+}

@@ -2,329 +2,44 @@
   "productId": "326915683",
   "identifiers": {
     "internetNumber": "326915683",
-    "modelNumber": "RF27CG5010SRAA",
-    "storeSkuNumber": "1004945678",
-    "storeSoSkuNumber": "1004945678-SO",
-    "upc": "887276614212",
-    "manufacturerPartNumber": "RF27CG5010SRAA"
+    "modelNumber": "",
+    "storeSkuNumber": "326915683"
   },
   "brand": {
-    "name": "Samsung",
-    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/samsung-logo.svg",
-    "brandPageUrl": "/b/Samsung-Appliances/N-5yc1vZa0f",
-    "series": "Standard"
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
   },
-  "title": "27 cu. ft. Smart Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel with AutoFill Water Pitcher",
-  "shortDescription": "Counter-depth design provides a built-in look while the internal AutoFill pitcher automatically refills with filtered water.",
-  "longDescription": "The Samsung 27 cu. ft. Counter Depth French Door Refrigerator delivers a premium built-in appearance without the premium price. The counter-depth design sits flush with your cabinets for a sleek, streamlined look. Inside, the AutoFill Water Pitcher automatically refills with filtered water, always ready when you need it. The All-Around Cooling system circulates cold air on every shelf for consistent temperature throughout. WiFi connectivity through SmartThings allows remote monitoring and control, while the Twin Cooling Plus system uses two separate evaporators to maintain optimal humidity levels.",
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "url": "/"
-    },
-    {
-      "label": "Appliances",
-      "url": "/b/Appliances/N-5yc1vZbv1w"
-    },
-    {
-      "label": "Refrigerators",
-      "url": "/b/Appliances-Refrigerators/N-5yc1vZc3pi"
-    },
-    {
-      "label": "French Door Refrigerators",
-      "url": "/b/Appliances-Refrigerators-French-Door-Refrigerators/N-5yc1vZc3oo"
-    }
-  ],
+  "title": "29 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless Steel",
+  "shortDescription": "29 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless Steel",
+  "longDescription": "29 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless Steel",
   "pricing": {
-    "currentPrice": 1899.0,
-    "originalPrice": 2799.0,
-    "savings": 900.0,
-    "savingsPercent": 32,
-    "isOnSale": true,
-    "seeInCart": false,
-    "financing": {
-      "monthlyPayment": 159.0,
-      "term": 12,
-      "apr": 0
-    }
+    "currentPrice": 3699.0,
+    "currency": "USD"
   },
   "rating": {
-    "average": 4.2,
-    "count": 2456,
-    "recommendationPercent": 83,
-    "distribution": {
-      "5star": 1351,
-      "4star": 540,
-      "3star": 319,
-      "2star": 123,
-      "1star": 123
-    }
+    "average": 4.3149,
+    "count": 632
   },
   "media": {
-    "primaryImage": "https://images.thdstatic.com/productImages/samsung-counter-depth-rf27cg5010sraa-64_1000.jpg",
+    "primaryImage": "/products/326915683/printproof-stainless-steel-lg-french-door-refrigerators-lf29h8330s-64_100.jpg",
     "images": [
       {
-        "url": "https://images.thdstatic.com/productImages/samsung-counter-depth-rf27cg5010sraa-64_1000.jpg",
-        "altText": "Samsung Counter Depth front view",
+        "url": "/products/326915683/printproof-stainless-steel-lg-french-door-refrigerators-lf29h8330s-64_100.jpg",
+        "altText": "29 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless Steel",
         "type": "primary"
-      },
-      {
-        "url": "https://images.thdstatic.com/productImages/samsung-counter-depth-rf27cg5010sraa-pitcher_1000.jpg",
-        "altText": "AutoFill water pitcher",
-        "type": "detail"
-      },
-      {
-        "url": "https://images.thdstatic.com/productImages/samsung-counter-depth-rf27cg5010sraa-int_1000.jpg",
-        "altText": "Interior organization",
-        "type": "detail"
-      },
-      {
-        "url": "https://images.thdstatic.com/productImages/samsung-counter-depth-rf27cg5010sraa-ls_1000.jpg",
-        "altText": "Built-in look in kitchen",
-        "type": "lifestyle"
-      }
-    ],
-    "videos": [],
-    "threeSixtyView": null,
-    "augmentedReality": true
-  },
-  "variants": [
-    {
-      "variantId": "326915683",
-      "variantType": "Color/Finish",
-      "variantValue": "Fingerprint Resistant Stainless Steel",
-      "price": 1899.0,
-      "imageUrl": "https://images.thdstatic.com/productImages/samsung-counter-depth-rf27cg5010sraa-64_400.jpg",
-      "swatchUrl": "french-door-images/imgi_67_bf5e6e0b-fd07-48db-bd54-f7d39dc73900_Stainless_Steel_Swatch__2_.jpg",
-      "inStock": true,
-      "isSelected": true
-    }
-  ],
-  "keyFeatures": [
-    "27 cu. ft. counter-depth design",
-    "AutoFill Water Pitcher automatically refills",
-    "All-Around Cooling for consistent temperature",
-    "Twin Cooling Plus technology",
-    "SmartThings WiFi connectivity",
-    "Fingerprint resistant finish"
-  ],
-  "highlights": [
-    {
-      "icon": "capacity",
-      "label": "Total Capacity",
-      "value": "27 cu. ft."
-    },
-    {
-      "icon": "depth",
-      "label": "Counter Depth",
-      "value": "Yes"
-    },
-    {
-      "icon": "pitcher",
-      "label": "AutoFill Pitcher",
-      "value": "Yes"
-    },
-    {
-      "icon": "smart",
-      "label": "Smart Enabled",
-      "value": "SmartThings"
-    }
-  ],
-  "specifications": {
-    "dimensions": {
-      "productWidth": "35.75 in.",
-      "productHeight": "70 in.",
-      "productDepth": "30.5 in.",
-      "productWeight": "289 lbs.",
-      "packageWidth": "38 in.",
-      "packageHeight": "74 in.",
-      "packageDepth": "33 in.",
-      "packageWeight": "320 lbs."
-    },
-    "details": [
-      {
-        "groupName": "Capacity",
-        "attributes": [
-          {
-            "name": "Fresh Food Capacity",
-            "value": "18.6 cu. ft."
-          },
-          {
-            "name": "Freezer Capacity",
-            "value": "8.4 cu. ft."
-          },
-          {
-            "name": "Total Capacity",
-            "value": "27 cu. ft."
-          }
-        ]
-      },
-      {
-        "groupName": "Design",
-        "attributes": [
-          {
-            "name": "Counter Depth",
-            "value": "Yes"
-          },
-          {
-            "name": "Depth (Including Handles)",
-            "value": "30.5 in."
-          },
-          {
-            "name": "Built-in Look",
-            "value": "Yes"
-          }
-        ]
-      },
-      {
-        "groupName": "Features",
-        "attributes": [
-          {
-            "name": "AutoFill Water Pitcher",
-            "value": "Yes"
-          },
-          {
-            "name": "All-Around Cooling",
-            "value": "Yes"
-          },
-          {
-            "name": "Twin Cooling Plus",
-            "value": "Yes"
-          },
-          {
-            "name": "WiFi Enabled",
-            "value": "Yes"
-          }
-        ]
-      }
-    ]
-  },
-  "badges": [],
-  "certifications": [
-    {
-      "name": "ENERGY STAR",
-      "logoUrl": "https://images.thdstatic.com/catalog/certifications/energystar.svg",
-      "description": "ENERGY STAR certified"
-    }
-  ],
-  "warranty": {
-    "manufacturerWarranty": "1-Year Limited Warranty",
-    "extendedWarrantyAvailable": true,
-    "warrantyDetails": "1-year parts and labor; 10-year Digital Inverter Compressor"
-  },
-  "protectionPlan": {
-    "available": true,
-    "options": [
-      {
-        "term": 3,
-        "price": 149.0,
-        "coverage": "3-Year Protection Plan"
-      },
-      {
-        "term": 5,
-        "price": 229.0,
-        "coverage": "5-Year Protection Plan"
       }
     ]
   },
   "availability": {
-    "inStorePickup": {
-      "available": true,
-      "quantity": 3,
-      "storeName": "Home Depot #0901",
-      "storeId": "0901"
-    },
-    "delivery": {
-      "available": true,
-      "estimatedDate": "Dec 17 - Dec 21",
-      "freeDelivery": true,
-      "deliveryCharge": 0
-    },
-    "shipToHome": {
-      "available": false,
-      "estimatedDate": null,
-      "shippingCharge": null,
-      "freeShipping": false
-    }
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
   },
-  "services": {
-    "installation": {
-      "available": true,
-      "price": 179.0,
-      "description": "Professional installation with smart setup"
-    },
-    "haulAway": {
-      "available": true,
-      "price": 25.0
-    },
-    "assembly": {
-      "available": false,
-      "price": null
-    }
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
   },
-  "requirements": [
-    {
-      "type": "electrical",
-      "description": "Requires 120V, 15A dedicated circuit"
-    },
-    {
-      "type": "water",
-      "description": "Water supply line required"
-    },
-    {
-      "type": "wifi",
-      "description": "2.4GHz WiFi for SmartThings"
-    }
-  ],
-  "includedItems": [
-    "Refrigerator unit",
-    "AutoFill pitcher",
-    "Water filter",
-    "Owner's manual"
-  ],
-  "relatedProducts": {
-    "accessories": [
-      {
-        "productId": "305912345",
-        "title": "Samsung HAF-QIN Water Filter",
-        "price": 59.98,
-        "imageUrl": "https://images.thdstatic.com/productImages/samsung-hafqin-filter.jpg"
-      }
-    ],
-    "similar": [],
-    "frequentlyBoughtTogether": []
-  },
-  "questionsAndAnswers": {
-    "totalQuestions": 189,
-    "featured": [
-      {
-        "questionId": "q_601",
-        "question": "How much shallower is counter depth?",
-        "answer": "This counter-depth model is about 30.5 inches deep including handles, compared to standard depth fridges which are typically 35-36 inches. This allows it to sit flush with standard 24-inch deep cabinets.",
-        "askedDate": "2024-10-25",
-        "answeredDate": "2024-10-26",
-        "helpful": 98
-      }
-    ]
-  },
-  "returnPolicy": {
-    "returnWindow": 90,
-    "returnWindowUnit": "days",
-    "specialPolicy": null
-  },
-  "limitPerOrder": 10,
-  "productUrl": "/p/Samsung-27-cu-ft-Counter-Depth-French-Door-Refrigerator-RF27CG5010SRAA/326915683",
-  "canonicalUrl": "https://www.homedepot.com/p/Samsung-27-cu-ft-Counter-Depth-French-Door-Refrigerator-RF27CG5010SRAA/326915683",
-  "seoMetadata": {
-    "title": "Samsung 27 cu. ft. Counter Depth French Door Refrigerator - RF27CG5010SRAA",
-    "description": "Counter-depth design with AutoFill water pitcher and SmartThings connectivity for a built-in look.",
-    "keywords": [
-      "Samsung refrigerator",
-      "counter depth",
-      "french door",
-      "AutoFill",
-      "smart",
-      "27 cu ft"
-    ]
-  }
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.431600"
 }

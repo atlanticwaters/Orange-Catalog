@@ -1,0 +1,45 @@
+{
+  "productId": "328779774",
+  "identifiers": {
+    "internetNumber": "328779774",
+    "modelNumber": "",
+    "storeSkuNumber": "328779774"
+  },
+  "brand": {
+    "name": "Manhattan Comfort",
+    "logoUrl": "images/brands/manhattan-comfort.svg"
+  },
+  "title": "Anderson Modern 15.75 in. Grey Round Metal Faux Leather Upholstered End Table",
+  "shortDescription": "Anderson Modern 15.75 in. Grey Round Metal Faux Leather Upholstered End Table",
+  "longDescription": "Anderson Modern 15.75 in. Grey Round Metal Faux Leather Upholstered End Table",
+  "pricing": {
+    "currentPrice": 159.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/328779774/grey-manhattan-comfort-end-side-tables-et004-gy-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328779774/grey-manhattan-comfort-end-side-tables-et004-gy-64_100.jpg",
+        "altText": "Anderson Modern 15.75 in. Grey Round Metal Faux Leather Upholstered End Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.608021"
+}

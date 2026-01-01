@@ -1,0 +1,45 @@
+{
+  "productId": "337129314",
+  "identifiers": {
+    "internetNumber": "337129314",
+    "modelNumber": "",
+    "storeSkuNumber": "337129314"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander Kit with Portable Inflator",
+  "shortDescription": "M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander Kit with Portable Inflator",
+  "longDescription": "M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander Kit with Portable Inflator",
+  "pricing": {
+    "currentPrice": 299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6226,
+    "count": 1738
+  },
+  "media": {
+    "primaryImage": "/products/337129314/milwaukee-polishers-2438-22x-2475-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337129314/milwaukee-polishers-2438-22x-2475-20-64_100.jpg",
+        "altText": "M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander Kit with Portable Inflator",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.693209"
+}

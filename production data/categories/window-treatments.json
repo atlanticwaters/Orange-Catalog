@@ -12,7 +12,7 @@
   "filters": [],
   "quickFilters": [],
   "featuredBrands": [],
-  "heroImage": "images/11.avif",
+  "heroImage": "../images/heroes/11.avif",
   "productIds": [
     "100177385",
     "202655839",
@@ -29,279 +29,271 @@
     "600px": [
       {
         "filename": "images/13.avif",
-        "url": "https://dam.thdstatic.com/content/production/GsJtx_aI1YAlA5Rg3x26Ww/veR-XHYw8gmyc2UMFNqzcg/Original%20file/FauxBlindswhite-206301010-tyanwall.png?im=Crop,rect=(0,218.28125762939453,645.2414855957031,403.27592849731445);Resize=(703,395.44)"
+        "url": "../images/heroes/13.avif"
       },
       {
         "filename": "images/14.avif",
-        "url": "https://dam.thdstatic.com/content/production/CNLPyEXtm3aYAb6O77V9sw/9raKK3VSJxiigK_CncXElg/optimizedFile/8fb939fb-7a89-4537-9193-23b22eb9d491_CCSMO-08-REV.jpeg?im=Crop,rect=(124.19576322115385,205.78436279296875,1315.8042367788462,822.3776479867789);Resize=(703,395.44)"
+        "url": "../images/heroes/14.avif"
       },
       {
         "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/iKSxskYW0-PdmGYgUh111g/KhyvR6LSK3P6gjs8frSDUg/optimizedFile/ffbb2383-1e35-49e0-bd3f-3eee685d1fc5_Window_Ext_PVC_Oval_White_2000x2000_RGB_300DPI.jpeg?im=Crop,rect=(0,474.72901329627405,1436.7745267427886,897.9840792142428);Resize=(703,395.44)"
+        "url": "../images/heroes/15.avif"
       },
       {
         "filename": "images/16.avif",
-        "url": "https://dam.thdstatic.com/content/production/HCVMavvrLgFdKvZJZF5KjA/ekHmng9R4tsJff6im35K1w/Original%20file/0YqlWsRFTWmGhB3jlL6Xh_WoodBlinds.png?im=Resize=(703,703)"
+        "url": "../images/heroes/16.avif"
       },
       {
         "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/content/production/_XgHgLhOIN7zb3FwWega5g/F5A2PYyqktZWN9QrG2E6vw/Original%20file/01d093a0-67a1-45c8-a17b-edba65ea1a75_IDM_205177030_2inFWBlind_Teriyaki_2694_Bali.jpeg?im=Crop,rect=(2.2217579377003207,221.59094199156152,774.5302249223759,774.5302249223759);Resize=(703,703)"
+        "url": "../images/heroes/17.avif"
       },
       {
         "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/FVc-U6-GLKBJWUH2XJO0wQ/gzdXsnMwq-EFS82_kaEA_A/Original%20file/1fkQoMMc0A97ImVngI5sxK_MiniBlinds_02.png?im=Resize=(703,703)"
+        "url": "../images/ui/18.avif"
       },
       {
         "filename": "images/19.avif",
-        "url": "https://dam.thdstatic.com/content/production/Q4U-B2cy6utBGWMtcspRVw/Shnp0P322JPNiOKxLzUhmw/Original%20file/wp4FMDwAhp5SLnOrmfOgP_CordlessBlinds2.png?im=Resize=(703,703)"
+        "url": "../images/heroes/19.avif"
       },
       {
         "filename": "images/21.avif",
-        "url": "https://dam.thdstatic.com/content/production/cUL_GxUF8-SIZVLEcvjEQg/81TWrifNlxiEpxp4OxJdAw/Original%20file/BALI-BDRM-Shutters-205931663.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/21.avif"
       },
       {
         "filename": "images/22.avif",
-        "url": "https://dam.thdstatic.com/content/production/RNDYvYfM5DjZiHOvHlvG2g/O4yV5Fxsq3dV3vwr4erUtw/optimizedFile/945f9cdf-67fa-4b72-87e5-1d81e24593dd_3.5in_HEADRAIL.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/22.avif"
       },
       {
         "filename": "images/24.avif",
-        "url": "https://dam.thdstatic.com/content/production/ZNLdXPorKzzx2IxkQN624Q/KzdZFJ1BHU_s0PSneovXag/Original%20file/6bWx8fhGKixOvVc6Z93OdB_BlackoutCurtains.png?im=Resize=(703,703)"
+        "url": "../images/heroes/24.avif"
       },
       {
         "filename": "images/26.avif",
-        "url": "https://dam.thdstatic.com/content/production/H4wvRW_H0d2WW-Tv-f7S3w/y4c-qxFpkg-ZlchcC6dFnA/Original%20file/672UEsFOoaxAcNTs2HUjMR_SheerCurtains.png?im=Resize=(703,703)"
+        "url": "../images/heroes/26.avif"
       },
       {
         "filename": "images/27.avif",
-        "url": "https://dam.thdstatic.com/content/production/-dsO199AytuPKSsyxlc0yA/rYrf9bQiBNmLTCzGbP5FXw/Original%20file/2fvx3iwyOWjvnL5mJVYxuu_OutdoorCurtains.png?im=Resize=(703,703)"
+        "url": "../images/heroes/27.avif"
       },
       {
         "filename": "images/28.avif",
-        "url": "https://dam.thdstatic.com/content/production/YQJ2SwVrituxJl673aTeEA/N6uhEoSVwioQKdsZxN7XKQ/Original%20file/36sbVKSq0oRuKZvHUb6Yhv_GrommetCurtains.png?im=Resize=(703,703)"
+        "url": "../images/heroes/28.avif"
       },
       {
         "filename": "images/29.avif",
-        "url": "https://dam.thdstatic.com/content/production/IL19EgUL_Xd26sC0vWZTpg/HHtqsCG1ZfZ0O1Zu_oQYng/Original%20file/5aBbmA7CcDFR3h2WdRaOxy_ScarvesValences.png?im=Resize=(703,703)"
+        "url": "../images/heroes/29.avif"
       },
       {
         "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/0I_lo3f_CGKzkBC4oJ2Tiw/R6_-3HNiAwOWu_NCuNIOcw/Original%20file/5E6vWos3ieIF3Jytk4rwgL_CurtainRods.png?im=Resize=(703,703)"
+        "url": "../images/ui/30.avif"
       },
       {
         "filename": "images/31.avif",
-        "url": "https://dam.thdstatic.com/content/production/4QDinAQotMUvZllgNrs8bw/AqQz5CYfDIAqErITR43V5g/Original%20file/1WjVW1mHGBWjyca6ZmmiqQ_CurtainHardware.png?im=Resize=(703,703)"
+        "url": "../images/heroes/31.avif"
       },
       {
         "filename": "images/32.avif",
-        "url": "https://dam.thdstatic.com/content/production/5fQzhzaBSqY1h9BItpceTA/6hUbHCWDxZu8wBHhDBCrtA/Original%20file/2yhTB5zL6LrdD7iDOubhIp_CurtainsDrapery.png?im=Resize=(703,703)"
+        "url": "../images/ui/32.avif"
       },
       {
         "filename": "images/33.avif",
-        "url": "https://dam.thdstatic.com/content/production/eRPbxauEqsjDFhr9_DNvQA/Ch-R2bcYcSEnCtsRUR_2Cg/Original%20file/680833%20-%20CCSMM-01%20-%20Blinds_LF_CellularShades_MorningMist_V3.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/33.avif"
       },
       {
         "filename": "images/35.avif",
-        "url": "https://dam.thdstatic.com/content/production/VPNJDYlTzBrl9_rO9nVuEA/3L0jFppBuqXI8FWGZJY0YQ/Original%20file/b376c3ee-7175-50c1-9fb2-1ea39f9b6461_fmxhoj4keji3ummg8ht4.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/35.avif"
       },
       {
         "filename": "images/38.avif",
-        "url": "https://dam.thdstatic.com/content/production/V0LiWmTJy9EP7dmLYPmK4w/uSQY0AduwM-MZIMyQZROjw/Original%20file/f4ae3d60-7076-4cea-a971-cc19dbdda4af_YBBRE-01-R.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/38.avif"
       },
       {
         "filename": "images/39.avif",
-        "url": "https://dam.thdstatic.com/content/production/YzhXQ_GD7tEWZ_lGkKojkg/OnZIvI7eqazD8gwqNQlgvw/Original%20file/260c3520-c346-4460-97b2-f2ef1e6ed139_IDM_LF_Roller__natural_fabric_.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/39.avif"
       },
       {
         "filename": "images/37.avif",
-        "url": "https://dam.thdstatic.com/content/production/RTLayfHUF2WnCrtHlb1p6g/TDQ1Xlc_VHsvxczCZHFSzA/optimizedFile/8456e6af-4177-4d3f-8ef8-8c1242914045_4_HDCmotorizedrollershades_HDC_23inx72inSmartRollerShadeLinenLFWithRemote_322197931_L1_TIF.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/37.avif"
       },
       {
         "filename": "images/40.avif",
-        "url": "https://dam.thdstatic.com/content/production/YHkJ2nz7DIsTpio5wv89oA/ZIwYVvUWq9Tcquiaxz7j8Q/Original%20file/bali-0952-cellular-shades-rs22-v3.jpg?im=Crop,rect=(1288.515994725608,-0.09619391025641026,4800.769888793841,4802);Resize=(703,703)"
+        "url": "../images/ui/40.avif"
       },
       {
         "filename": "images/41.avif",
-        "url": "https://dam.thdstatic.com/content/production/wBzwx9c2R7p59B98u-OaBw/MRyXiEXAkcRQv9uf7YlEwA/Original%20file/REDO-3Black-Sharpen-images.png?im=Crop,rect=(0,579.7676282051283,2000.0000000000002,1333.3333333333335);Resize=(703,395.44)"
+        "url": "../images/heroes/41.avif"
       },
       {
         "filename": "images/43.avif",
-        "url": "https://dam.thdstatic.com/content/production/2SNmZXmEJ5BTdvHsb9YkHA/E-wQFkJ8iFtxjnXfwNekbw/Original%20file/REDO-Light-image.png?im=Crop,rect=(0,579.4471153846155,2000.0000000000002,1333.3333333333335);Resize=(703,395.44)"
+        "url": "../images/heroes/43.avif"
       },
       {
         "filename": "images/45.avif",
-        "url": "https://dam.thdstatic.com/content/production/pAq9VvjX4cx2Mui7f3P1eA/gmmc7c3ytfix7aIGbNYu2Q/Original%20file/3c8gD9jfrKdqgmZ0FHmJIL_ShutterInstallation.png?im=Resize=(703,395.44)"
+        "url": "../images/heroes/45.avif"
       },
       {
         "filename": "images/34.avif",
-        "url": "https://dam.thdstatic.com/content/production/V4U6p9rem6DKUBMEC4JxdQ/cCK1O4p2x_XNEPo3dz3_QQ/Original%20file/4h1JqVSO9KfNWKf1gL78EU_RollerShades.png?im=Resize=(703,703)"
+        "url": "../images/ui/34.avif"
       },
       {
         "filename": "images/36.avif",
-        "url": "https://dam.thdstatic.com/content/production/lm9BLvDBc8KG5LU74yVqeg/Bd8XJw8AMIfk_UEehI7rQg/Crop%201:1/herFCeqyBCbn1fVpXdzzFg==.jpg?im=Crop,rect=(1097.123076923077,748.0384615384615,2659.6923076923076,2659.6923076923076);Resize=(703,703)"
+        "url": "../images/heroes/36.avif"
       },
       {
         "filename": "images/42.avif",
-        "url": "https://dam.thdstatic.com/content/production/5U_fS0OUlFNhuVCDN2-Y_w/k84P2nuME6wJCUhjy_qObA/Original%20file/REDO-Medium-Sharpen-image-alt.png?im=Crop,rect=(0,577.6041666666667,2000.0000000000002,1333.3333333333335);Resize=(703,395.44)"
+        "url": "../images/heroes/42.avif"
       },
       {
         "filename": "images/49.avif",
-        "url": "https://dam.thdstatic.com/content/production/L6WT8qDqOpfZjuFTvNe2hw/x7qEnEB34TbN7ZcV_-DYuQ/optimizedFile/2018_FallDecor_FD918_Cottage_LivingRoom_207080658_EF.jpg?im=Crop,rect=(0,67.28200120192305,1052.3364485981308,592.2665264423077);Resize=(703,395.44)"
+        "url": "../images/ui/49.avif"
       },
       {
         "filename": "images/23.avif",
-        "url": "https://dam.thdstatic.com/content/production/FW2icu9Bg7wyyFgl0HNX5A/5Py9-uCP5YCrwVGxp9kFcw/Original%20file/74f4b209-8cc4-43e3-860d-15e708a5e031_LVLR_Faux_Wood_2in_White_Sunroom_Motorized_F_120WH053.jpeg?im=Crop,rect=(239.62144974468598,-0.0812099358974359,4054.666666666667,4054);Resize=(703,703)"
+        "url": "../images/heroes/23.avif"
       },
       {
         "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/nylz62BztG_Q6tzs18c_Bw/stT0BhHcePPE_3_0nwhqhw/Original%20file/1nIwacQFLXh0BzGBK8gjko_TypesWindowTreatments.png?im=Resize=(703,395.44)"
+        "url": "../images/heroes/48.avif"
       },
       {
         "filename": "images/25.avif",
-        "url": "https://dam.thdstatic.com/content/production/-rqbUIKkV5GA8lfnOiBehg/iDP5Yh7FWU5TOuf4y-dgRQ/Original%20file/1FEZLywKoBrXG2zGOgUuKO_RoomDarkeningCurtains.png?im=Resize=(703,703)"
+        "url": "../images/heroes/25.avif"
       },
       {
         "filename": "images/20.avif",
-        "url": "https://dam.thdstatic.com/content/production/jarPHe1HWzdln5YsCzgf7Q/NnD8KRgACUegsMXoRx6pYg/Original%20file/1ApBoxxrj9nANK3wr7eKIH_VerticalBlinds.png?im=Resize=(703,703)"
+        "url": "../images/heroes/20.avif"
       },
       {
         "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/4pNzABVMPNoFtRAhdj5g0w/gNWq1bYroM3u-qtInLFQKw/Original%20file/5OJ4jEX6H3h4ywSTjzhQ3s_ProDesignServices.png?im=Resize=(703,395.44)"
+        "url": "../images/heroes/46.avif"
       },
       {
         "filename": "images/44.avif",
-        "url": "https://dam.thdstatic.com/content/production/ywzWeNicRYvX3Kb8dlJFTQ/dsrSd6osqHE1zitZLfXrZg/Original%20file/6SX6BSQblHTFvk1pNFRcqk_BlindsInstallation.png?im=Resize=(703,395.44)"
+        "url": "../images/heroes/44.avif"
       },
       {
         "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/QJdEd90TRpw68oRgeLDnPg/JnY61AJVdpT5dsajpgeM2g/Original%20file/6wqRAGE5G9QbZr3c287Zqk_TypesBlinds.png?im=Resize=(703,395.44)"
+        "url": "../images/heroes/47.avif"
       }
     ],
     "svgs": [
       {
         "filename": "images/54.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+        "url": "../images/brands/54.svg"
       },
       {
         "filename": "images/55.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+        "url": "../images/brands/55.svg"
       },
       {
         "filename": "images/56.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+        "url": "../images/brands/56.svg"
       },
       {
         "filename": "images/57.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
+        "url": "../images/brands/57.svg"
       },
       {
         "filename": "images/58.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
+        "url": "../images/brands/58.svg"
       },
       {
         "filename": "images/59.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
+        "url": "../images/brands/59.svg"
       },
       {
         "filename": "images/60.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
+        "url": "../images/brands/60.svg"
       },
       {
         "filename": "images/61.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
+        "url": "../images/brands/61.svg"
       },
       {
         "filename": "images/62.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
+        "url": "../images/brands/62.svg"
       },
       {
         "filename": "images/63.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
+        "url": "../images/brands/63.svg"
       },
       {
         "filename": "images/64.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
+        "url": "../images/brands/64.svg"
       },
       {
         "filename": "images/65.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
+        "url": "../images/brands/65.svg"
       },
       {
         "filename": "images/66.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
+        "url": "../images/brands/66.svg"
       },
       {
         "filename": "images/67.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
+        "url": "../images/brands/67.svg"
       },
       {
         "filename": "images/68.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
+        "url": "../images/brands/68.svg"
       },
       {
         "filename": "images/69.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
+        "url": "../images/brands/69.svg"
       },
       {
         "filename": "images/70.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
+        "url": "../images/brands/70.svg"
       },
       {
         "filename": "images/71.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
+        "url": "../images/brands/71.svg"
       },
       {
         "filename": "images/72.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
+        "url": "../images/brands/72.svg"
       },
       {
         "filename": "images/73.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
+        "url": "../images/brands/73.svg"
       },
       {
         "filename": "images/74.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
+        "url": "../images/brands/74.svg"
       },
       {
         "filename": "images/75.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
+        "url": "../images/brands/75.svg"
       },
       {
         "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+        "url": "../images/brands/77.svg"
       },
       {
         "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
+        "url": "../images/brands/76.svg"
       }
     ],
     "other": [
       {
-        "filename": "images/10.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
-      },
-      {
-        "filename": "images/11.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
-      },
-      {
         "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/content/production/gg_B8zErFqADbNOqefXOig/p9e9xeVBDfkiJ2WmP95g0A/Original%20file/Faux%20Wood%20Blinds_T_MAIN1.jpg"
+        "url": "../images/heroes/12.avif"
       },
       {
         "filename": "images/50.avif",
-        "url": "https://images.thdstatic.com/productImages/cdaa4602-9b36-4934-b138-c1e4eed161a7/svn/white-home-decorators-collection-faux-wood-blinds-10793478184453-64_300.jpg"
+        "url": "../images/heroes/50.avif"
       },
       {
         "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/cdaa4602-9b36-4934-b138-c1e4eed161a7/svn/white-home-decorators-collection-faux-wood-blinds-10793478184446-64_300.jpg"
+        "url": "../images/heroes/51.avif"
       },
       {
         "filename": "images/52.avif",
-        "url": "https://images.thdstatic.com/productImages/cdaa4602-9b36-4934-b138-c1e4eed161a7/svn/white-home-decorators-collection-faux-wood-blinds-10793478184590-64_300.jpg"
+        "url": "../images/heroes/52.avif"
       },
       {
         "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/fcd49271-8438-4fbf-9842-ec876d58cdf8/svn/crown-white-home-decorators-collection-vertical-blinds-10793478808588-64_300.jpg"
+        "url": "../images/ui/53.avif"
       }
     ]
   },

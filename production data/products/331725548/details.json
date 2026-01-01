@@ -1,0 +1,45 @@
+{
+  "productId": "331725548",
+  "identifiers": {
+    "internetNumber": "331725548",
+    "modelNumber": "",
+    "storeSkuNumber": "331725548"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "13 ft. Artificial Fiddle Leaf Fig Tree",
+  "shortDescription": "13 ft. Artificial Fiddle Leaf Fig Tree",
+  "longDescription": "13 ft. Artificial Fiddle Leaf Fig Tree",
+  "pricing": {
+    "currentPrice": 604.87,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/331725548/nearly-natural-artificial-trees-t4852-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331725548/nearly-natural-artificial-trees-t4852-64_100.jpg",
+        "altText": "13 ft. Artificial Fiddle Leaf Fig Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.519756"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "337521623",
+  "identifiers": {
+    "internetNumber": "337521623",
+    "modelNumber": "",
+    "storeSkuNumber": "337521623"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18V Lithium-Ion Cordless FORCE LOGIC Cable Cutter with CU/AL Jaws and Hard Case",
+  "shortDescription": "M18 18V Lithium-Ion Cordless FORCE LOGIC Cable Cutter with CU/AL Jaws and Hard Case",
+  "longDescription": "M18 18V Lithium-Ion Cordless FORCE LOGIC Cable Cutter with CU/AL Jaws and Hard Case",
+  "pricing": {
+    "currentPrice": 1899.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4,
+    "count": 15
+  },
+  "media": {
+    "primaryImage": "/products/337521623/milwaukee-power-cutting-tools-2672-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337521623/milwaukee-power-cutting-tools-2672-20-64_100.jpg",
+        "altText": "M18 18V Lithium-Ion Cordless FORCE LOGIC Cable Cutter with CU/AL Jaws and Hard Case",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.671078"
+}

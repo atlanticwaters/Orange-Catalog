@@ -1,0 +1,45 @@
+{
+  "productId": "316319541",
+  "identifiers": {
+    "internetNumber": "316319541",
+    "modelNumber": "",
+    "storeSkuNumber": "316319541"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "3 ft. Boxwood Triple Ball Topiary Artificial Tree (Indoor/Outdoor)",
+  "shortDescription": "3 ft. Boxwood Triple Ball Topiary Artificial Tree (Indoor/Outdoor)",
+  "longDescription": "3 ft. Boxwood Triple Ball Topiary Artificial Tree (Indoor/Outdoor)",
+  "pricing": {
+    "currentPrice": 39.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0588,
+    "count": 34
+  },
+  "media": {
+    "primaryImage": "/products/316319541/nearly-natural-artificial-topiaries-t2021-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316319541/nearly-natural-artificial-topiaries-t2021-64_100.jpg",
+        "altText": "3 ft. Boxwood Triple Ball Topiary Artificial Tree (Indoor/Outdoor)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.526034"
+}

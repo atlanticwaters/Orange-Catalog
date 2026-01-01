@@ -1,0 +1,45 @@
+{
+  "productId": "339174347",
+  "identifiers": {
+    "internetNumber": "339174347",
+    "modelNumber": "",
+    "storeSkuNumber": "339174347"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "Profile 5.3 cu. ft. Smart Front Load Washer and 7.8 cu. ft. Dryer set in Sapphire Blue",
+  "shortDescription": "Profile 5.3 cu. ft. Smart Front Load Washer and 7.8 cu. ft. Dryer set in Sapphire Blue",
+  "longDescription": "Profile 5.3 cu. ft. Smart Front Load Washer and 7.8 cu. ft. Dryer set in Sapphire Blue",
+  "pricing": {
+    "currentPrice": 1998.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4779,
+    "count": 2239
+  },
+  "media": {
+    "primaryImage": "/products/339174347/ge-front-load-washer-dryer-sets-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/339174347/ge-front-load-washer-dryer-sets-64_100.jpg",
+        "altText": "Profile 5.3 cu. ft. Smart Front Load Washer and 7.8 cu. ft. Dryer set in Sapphire Blue",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.601701"
+}

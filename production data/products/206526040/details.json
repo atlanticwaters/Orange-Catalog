@@ -1,0 +1,45 @@
+{
+  "productId": "206526040",
+  "identifiers": {
+    "internetNumber": "206526040",
+    "modelNumber": "",
+    "storeSkuNumber": "206526040"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V MAX XR Cordless Brushless Deep Cut Band Saw (Tool Only)",
+  "shortDescription": "20V MAX XR Cordless Brushless Deep Cut Band Saw (Tool Only)",
+  "longDescription": "20V MAX XR Cordless Brushless Deep Cut Band Saw (Tool Only)",
+  "pricing": {
+    "currentPrice": 359.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7425,
+    "count": 268
+  },
+  "media": {
+    "primaryImage": "/products/206526040/dewalt-portable-band-saws-dcs374b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206526040/dewalt-portable-band-saws-dcs374b-64_100.jpg",
+        "altText": "20V MAX XR Cordless Brushless Deep Cut Band Saw (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.655216"
+}

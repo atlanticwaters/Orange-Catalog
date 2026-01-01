@@ -1,0 +1,45 @@
+{
+  "productId": "302785353",
+  "identifiers": {
+    "internetNumber": "302785353",
+    "modelNumber": "",
+    "storeSkuNumber": "302785353"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "24.6 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Finish",
+  "shortDescription": "24.6 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Finish",
+  "longDescription": "24.6 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Finish",
+  "pricing": {
+    "currentPrice": 1299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0255,
+    "count": 14991
+  },
+  "media": {
+    "primaryImage": "/products/302785353/fingerprint-resistant-stainless-finish-whirlpool-side-by-side-refrigerators-wrs325sdhz-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302785353/fingerprint-resistant-stainless-finish-whirlpool-side-by-side-refrigerators-wrs325sdhz-64_100.jpg",
+        "altText": "24.6 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Finish",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.432683"
+}

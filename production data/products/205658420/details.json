@@ -1,0 +1,45 @@
+{
+  "productId": "205658420",
+  "identifiers": {
+    "internetNumber": "205658420",
+    "modelNumber": "",
+    "storeSkuNumber": "205658420"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in White with Frameless Glass Shelves",
+  "shortDescription": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in White with Frameless Glass Shelves",
+  "longDescription": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in White with Frameless Glass Shelves",
+  "pricing": {
+    "currentPrice": 799.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2561,
+    "count": 13150
+  },
+  "media": {
+    "primaryImage": "/products/205658420/white-whirlpool-top-freezer-refrigerators-wrt311fzdw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205658420/white-whirlpool-top-freezer-refrigerators-wrt311fzdw-64_100.jpg",
+        "altText": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in White with Frameless Glass Shelves",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.438398"
+}

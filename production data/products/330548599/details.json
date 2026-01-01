@@ -1,0 +1,45 @@
+{
+  "productId": "330548599",
+  "identifiers": {
+    "internetNumber": "330548599",
+    "modelNumber": "",
+    "storeSkuNumber": "330548599"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18-Volt Lithium-Ion Brushless Cordless PACKOUT Jobsite Fan (Tool-Only)",
+  "shortDescription": "M18 18-Volt Lithium-Ion Brushless Cordless PACKOUT Jobsite Fan (Tool-Only)",
+  "longDescription": "M18 18-Volt Lithium-Ion Brushless Cordless PACKOUT Jobsite Fan (Tool-Only)",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8779,
+    "count": 565
+  },
+  "media": {
+    "primaryImage": "/products/330548599/milwaukee-jobsite-fans-0818-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330548599/milwaukee-jobsite-fans-0818-20-64_100.jpg",
+        "altText": "M18 18-Volt Lithium-Ion Brushless Cordless PACKOUT Jobsite Fan (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.666360"
+}

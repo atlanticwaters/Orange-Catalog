@@ -1,0 +1,45 @@
+{
+  "productId": "315869691",
+  "identifiers": {
+    "internetNumber": "315869691",
+    "modelNumber": "",
+    "storeSkuNumber": "315869691"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "Gallery 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+  "shortDescription": "Gallery 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+  "longDescription": "Gallery 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 1349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3709,
+    "count": 5312
+  },
+  "media": {
+    "primaryImage": "/products/315869691/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grsc2352af-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/315869691/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grsc2352af-64_100.jpg",
+        "altText": "Gallery 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.433208"
+}

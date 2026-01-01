@@ -1,0 +1,45 @@
+{
+  "productId": "337636634",
+  "identifiers": {
+    "internetNumber": "337636634",
+    "modelNumber": "",
+    "storeSkuNumber": "337636634"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool with 5.0 Ah Battery and Charger Starter Kit",
+  "shortDescription": "M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool with 5.0 Ah Battery and Charger Starter Kit",
+  "longDescription": "M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool with 5.0 Ah Battery and Charger Starter Kit",
+  "pricing": {
+    "currentPrice": 459.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6528,
+    "count": 1734
+  },
+  "media": {
+    "primaryImage": "/products/337636634/milwaukee-oscillating-tools-2836-20-48-59-1850-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337636634/milwaukee-oscillating-tools-2836-20-48-59-1850-64_100.jpg",
+        "altText": "M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool with 5.0 Ah Battery and Charger Starter Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.694103"
+}

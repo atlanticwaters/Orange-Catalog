@@ -1,0 +1,45 @@
+{
+  "productId": "333699793",
+  "identifiers": {
+    "internetNumber": "333699793",
+    "modelNumber": "",
+    "storeSkuNumber": "333699793"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "PACKOUT 10 Compartment Tilt Bin Organizer",
+  "shortDescription": "PACKOUT 10 Compartment Tilt Bin Organizer",
+  "longDescription": "PACKOUT 10 Compartment Tilt Bin Organizer",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6986,
+    "count": 73
+  },
+  "media": {
+    "primaryImage": "/products/333699793/red-milwaukee-modular-tool-storage-systems-48-22-8433-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333699793/red-milwaukee-modular-tool-storage-systems-48-22-8433-64_100.jpg",
+        "altText": "PACKOUT 10 Compartment Tilt Bin Organizer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.542201"
+}

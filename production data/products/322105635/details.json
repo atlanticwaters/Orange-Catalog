@@ -1,0 +1,45 @@
+{
+  "productId": "322105635",
+  "identifiers": {
+    "internetNumber": "322105635",
+    "modelNumber": "",
+    "storeSkuNumber": "322105635"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Alina Dove Genuine Leather Power Recliner with USB Port",
+  "shortDescription": "Alina Dove Genuine Leather Power Recliner with USB Port",
+  "longDescription": "Alina Dove Genuine Leather Power Recliner with USB Port",
+  "pricing": {
+    "currentPrice": 779.59,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.3333,
+    "count": 6
+  },
+  "media": {
+    "primaryImage": "/products/322105635/dove-recliners-lbl5246-dove-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322105635/dove-recliners-lbl5246-dove-64_100.jpg",
+        "altText": "Alina Dove Genuine Leather Power Recliner with USB Port",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.579133"
+}

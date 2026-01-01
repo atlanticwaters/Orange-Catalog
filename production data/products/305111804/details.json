@@ -1,0 +1,45 @@
+{
+  "productId": "305111804",
+  "identifiers": {
+    "internetNumber": "305111804",
+    "modelNumber": "",
+    "storeSkuNumber": "305111804"
+  },
+  "brand": {
+    "name": "DIABLO",
+    "logoUrl": "images/brands/diablo.svg"
+  },
+  "title": "Tracking Point 7-1/4 in. x 24-Tooth Framing Circular Saw Blade (3-Pack)",
+  "shortDescription": "Tracking Point 7-1/4 in. x 24-Tooth Framing Circular Saw Blade (3-Pack)",
+  "longDescription": "Tracking Point 7-1/4 in. x 24-Tooth Framing Circular Saw Blade (3-Pack)",
+  "pricing": {
+    "currentPrice": 26.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6956,
+    "count": 2750
+  },
+  "media": {
+    "primaryImage": "/products/305111804/diablo-circular-saw-blades-d0724r3-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305111804/diablo-circular-saw-blades-d0724r3-64_100.jpg",
+        "altText": "Tracking Point 7-1/4 in. x 24-Tooth Framing Circular Saw Blade (3-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.668784"
+}

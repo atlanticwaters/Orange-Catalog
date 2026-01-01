@@ -1,0 +1,45 @@
+{
+  "productId": "331921569",
+  "identifiers": {
+    "internetNumber": "331921569",
+    "modelNumber": "",
+    "storeSkuNumber": "331921569"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "36 in. 24.5 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+  "shortDescription": "36 in. 24.5 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+  "longDescription": "36 in. 24.5 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+  "pricing": {
+    "currentPrice": 2099.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0925,
+    "count": 3155
+  },
+  "media": {
+    "primaryImage": "/products/331921569/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrmf3636rz-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331921569/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrmf3636rz-64_100.jpg",
+        "altText": "36 in. 24.5 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.445533"
+}

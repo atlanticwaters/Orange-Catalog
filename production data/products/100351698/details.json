@@ -1,0 +1,45 @@
+{
+  "productId": "100351698",
+  "identifiers": {
+    "internetNumber": "100351698",
+    "modelNumber": "",
+    "storeSkuNumber": "100351698"
+  },
+  "brand": {
+    "name": "Paslode",
+    "logoUrl": "images/brands/paslode.svg"
+  },
+  "title": "4.5 oz. Cordless Tool Oil Lubrication",
+  "shortDescription": "4.5 oz. Cordless Tool Oil Lubrication",
+  "longDescription": "4.5 oz. Cordless Tool Oil Lubrication",
+  "pricing": {
+    "currentPrice": 8.68,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5748,
+    "count": 127
+  },
+  "media": {
+    "primaryImage": "/products/100351698/paslode-air-compressor-oils-401482-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100351698/paslode-air-compressor-oils-401482-64_100.jpg",
+        "altText": "4.5 oz. Cordless Tool Oil Lubrication",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.497510"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "334933868",
+  "identifiers": {
+    "internetNumber": "334933868",
+    "modelNumber": "",
+    "storeSkuNumber": "334933868"
+  },
+  "brand": {
+    "name": "Defiant",
+    "logoUrl": "images/brands/defiant.svg"
+  },
+  "title": "Defiant 2-Pack 3500 Lumens Rechargeable Magnetic Utility Light With Power Bank",
+  "shortDescription": "Defiant 2-Pack 3500 Lumens Rechargeable Magnetic Utility Light With Power Bank",
+  "longDescription": "Defiant 2-Pack 3500 Lumens Rechargeable Magnetic Utility Light With Power Bank",
+  "pricing": {
+    "currentPrice": 29.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7,
+    "count": 160
+  },
+  "media": {
+    "primaryImage": "/products/334933868/defiant-handheld-spotlights-91654-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334933868/defiant-handheld-spotlights-91654-64_100.jpg",
+        "altText": "Defiant 2-Pack 3500 Lumens Rechargeable Magnetic Utility Light With Power Bank",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.630602"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "329445517",
+  "identifiers": {
+    "internetNumber": "329445517",
+    "modelNumber": "",
+    "storeSkuNumber": "329445517"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "10 ft. Artificial Bamboo Tree with Real Bamboo Trunks",
+  "shortDescription": "10 ft. Artificial Bamboo Tree with Real Bamboo Trunks",
+  "longDescription": "10 ft. Artificial Bamboo Tree with Real Bamboo Trunks",
+  "pricing": {
+    "currentPrice": 244.1,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 1.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/329445517/nearly-natural-artificial-trees-t4685-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329445517/nearly-natural-artificial-trees-t4685-64_100.jpg",
+        "altText": "10 ft. Artificial Bamboo Tree with Real Bamboo Trunks",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.611970"
+}

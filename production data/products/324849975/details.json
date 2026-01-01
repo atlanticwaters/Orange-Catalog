@@ -1,0 +1,45 @@
+{
+  "productId": "324849975",
+  "identifiers": {
+    "internetNumber": "324849975",
+    "modelNumber": "",
+    "storeSkuNumber": "324849975"
+  },
+  "brand": {
+    "name": "KitchenAid",
+    "logoUrl": "images/brands/kitchenaid.svg"
+  },
+  "title": "19.4 cu. ft. 36 in. W Counter-Depth 4-Door Refrigerator with PrintShield Finish",
+  "shortDescription": "19.4 cu. ft. 36 in. W Counter-Depth 4-Door Refrigerator with PrintShield Finish",
+  "longDescription": "19.4 cu. ft. 36 in. W Counter-Depth 4-Door Refrigerator with PrintShield Finish",
+  "pricing": {
+    "currentPrice": 2399.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1311,
+    "count": 122
+  },
+  "media": {
+    "primaryImage": "/products/324849975/printshield-finish-kitchenaid-french-door-refrigerators-krqc506mps-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324849975/printshield-finish-kitchenaid-french-door-refrigerators-krqc506mps-64_100.jpg",
+        "altText": "19.4 cu. ft. 36 in. W Counter-Depth 4-Door Refrigerator with PrintShield Finish",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.424977"
+}

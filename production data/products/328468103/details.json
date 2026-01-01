@@ -1,0 +1,45 @@
+{
+  "productId": "328468103",
+  "identifiers": {
+    "internetNumber": "328468103",
+    "modelNumber": "",
+    "storeSkuNumber": "328468103"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "2.1 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave with Wi-Fi",
+  "shortDescription": "2.1 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave with Wi-Fi",
+  "longDescription": "2.1 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave with Wi-Fi",
+  "pricing": {
+    "currentPrice": 299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1093,
+    "count": 421
+  },
+  "media": {
+    "primaryImage": "/products/328468103/stainless-steel-samsung-over-the-range-microwaves-me21dg6300sr-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328468103/stainless-steel-samsung-over-the-range-microwaves-me21dg6300sr-64_100.jpg",
+        "altText": "2.1 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave with Wi-Fi",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.448791"
+}

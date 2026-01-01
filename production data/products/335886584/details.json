@@ -1,0 +1,45 @@
+{
+  "productId": "335886584",
+  "identifiers": {
+    "internetNumber": "335886584",
+    "modelNumber": "",
+    "storeSkuNumber": "335886584"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "OPEN-LOK Variety Oscillating Blade Set w/ Japanese Hardwood Blade (5-Piece)",
+  "shortDescription": "OPEN-LOK Variety Oscillating Blade Set w/ Japanese Hardwood Blade (5-Piece)",
+  "longDescription": "OPEN-LOK Variety Oscillating Blade Set w/ Japanese Hardwood Blade (5-Piece)",
+  "pricing": {
+    "currentPrice": 19.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3944,
+    "count": 71
+  },
+  "media": {
+    "primaryImage": "/products/335886584/milwaukee-oscillating-tool-attachments-49-25-1140-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335886584/milwaukee-oscillating-tool-attachments-49-25-1140-64_100.jpg",
+        "altText": "OPEN-LOK Variety Oscillating Blade Set w/ Japanese Hardwood Blade (5-Piece)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.695432"
+}

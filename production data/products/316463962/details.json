@@ -1,0 +1,45 @@
+{
+  "productId": "316463962",
+  "identifiers": {
+    "internetNumber": "316463962",
+    "modelNumber": "",
+    "storeSkuNumber": "316463962"
+  },
+  "brand": {
+    "name": "Empire Art Direct",
+    "logoUrl": "images/brands/empire-art-direct.svg"
+  },
+  "title": "30 in. x 22 in. Ultra Rectangle Brushed Silver Stainless Steel Framed Wall Mirror",
+  "shortDescription": "30 in. x 22 in. Ultra Rectangle Brushed Silver Stainless Steel Framed Wall Mirror",
+  "longDescription": "30 in. x 22 in. Ultra Rectangle Brushed Silver Stainless Steel Framed Wall Mirror",
+  "pricing": {
+    "currentPrice": 162.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/316463962/empire-art-direct-wall-mirrors-psm-10701-2230-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316463962/empire-art-direct-wall-mirrors-psm-10701-2230-64_100.jpg",
+        "altText": "30 in. x 22 in. Ultra Rectangle Brushed Silver Stainless Steel Framed Wall Mirror",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.570148"
+}

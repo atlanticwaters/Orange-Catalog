@@ -1,0 +1,45 @@
+{
+  "productId": "318898528",
+  "identifiers": {
+    "internetNumber": "318898528",
+    "modelNumber": "",
+    "storeSkuNumber": "318898528"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Cordless Jig Saw (Tool Only)",
+  "shortDescription": "ONE+ 18V Cordless Jig Saw (Tool Only)",
+  "longDescription": "ONE+ 18V Cordless Jig Saw (Tool Only)",
+  "pricing": {
+    "currentPrice": 69.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7597,
+    "count": 1386
+  },
+  "media": {
+    "primaryImage": "/products/318898528/ryobi-jigsaws-pcl525b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318898528/ryobi-jigsaws-pcl525b-64_100.jpg",
+        "altText": "ONE+ 18V Cordless Jig Saw (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.667270"
+}

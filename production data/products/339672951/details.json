@@ -1,0 +1,45 @@
+{
+  "productId": "339672951",
+  "identifiers": {
+    "internetNumber": "339672951",
+    "modelNumber": "",
+    "storeSkuNumber": "339672951"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V Brushless 1/2 in. Hammer Drill/Driver and 18V 4.0 Ah Battery Combo",
+  "shortDescription": "18V Brushless 1/2 in. Hammer Drill/Driver and 18V 4.0 Ah Battery Combo",
+  "longDescription": "18V Brushless 1/2 in. Hammer Drill/Driver and 18V 4.0 Ah Battery Combo",
+  "pricing": {
+    "currentPrice": 268.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/339672951/ridgid-hammer-drills-r86115b-ac87004-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/339672951/ridgid-hammer-drills-r86115b-ac87004-64_100.jpg",
+        "altText": "18V Brushless 1/2 in. Hammer Drill/Driver and 18V 4.0 Ah Battery Combo",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.678280"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "334527593",
+  "identifiers": {
+    "internetNumber": "334527593",
+    "modelNumber": "",
+    "storeSkuNumber": "334527593"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "5000 Lumen Hybrid Power Swivel Rechargeable Spotlight",
+  "shortDescription": "5000 Lumen Hybrid Power Swivel Rechargeable Spotlight",
+  "longDescription": "5000 Lumen Hybrid Power Swivel Rechargeable Spotlight",
+  "pricing": {
+    "currentPrice": 29.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7527,
+    "count": 93
+  },
+  "media": {
+    "primaryImage": "/products/334527593/husky-handheld-spotlights-91640-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334527593/husky-handheld-spotlights-91640-64_100.jpg",
+        "altText": "5000 Lumen Hybrid Power Swivel Rechargeable Spotlight",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.630813"
+}

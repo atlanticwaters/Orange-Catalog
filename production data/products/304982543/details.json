@@ -1,0 +1,45 @@
+{
+  "productId": "304982543",
+  "identifiers": {
+    "internetNumber": "304982543",
+    "modelNumber": "",
+    "storeSkuNumber": "304982543"
+  },
+  "brand": {
+    "name": "Workforce",
+    "logoUrl": "images/brands/workforce.svg"
+  },
+  "title": "Heavy-Duty Pistol Grip Grease Gun with 12 in. Flex Extension",
+  "shortDescription": "Heavy-Duty Pistol Grip Grease Gun with 12 in. Flex Extension",
+  "longDescription": "Heavy-Duty Pistol Grip Grease Gun with 12 in. Flex Extension",
+  "pricing": {
+    "currentPrice": 19.39,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.8333,
+    "count": 12
+  },
+  "media": {
+    "primaryImage": "/products/304982543/workforce-air-grease-guns-l1325-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/304982543/workforce-air-grease-guns-l1325-64_100.jpg",
+        "altText": "Heavy-Duty Pistol Grip Grease Gun with 12 in. Flex Extension",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.616775"
+}

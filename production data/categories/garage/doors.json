@@ -1,0 +1,710 @@
+{
+  "categoryId": "garage/doors",
+  "name": "Doors",
+  "slug": "doors",
+  "path": "/categories/garage/doors",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.720692",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Garage",
+      "url": "/garage"
+    },
+    {
+      "label": "Doors",
+      "url": "/garage/doors"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 31
+  },
+  "featuredBrands": [
+    {
+      "brandId": "clopay",
+      "brandName": "Clopay",
+      "logoUrl": "images/brands/clopay.svg",
+      "count": 15
+    },
+    {
+      "brandId": "chamberlain",
+      "brandName": "Chamberlain",
+      "logoUrl": "images/brands/chamberlain.svg",
+      "count": 9
+    },
+    {
+      "brandId": "genie",
+      "brandName": "Genie",
+      "logoUrl": "images/brands/genie.svg",
+      "count": 5
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    },
+    {
+      "brandId": "blaster",
+      "brandName": "Blaster",
+      "logoUrl": "images/brands/blaster.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "316307827",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "3/4 HP Smart Quiet Belt Drive Garage Door Opener",
+      "rating": {
+        "average": 4.4366,
+        "count": 2412
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7472c3eb-d161-4d4c-ba4b-53975421b535/svn/chamberlain-garage-door-openers-b4505t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 271.2,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322246530",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "1/2 HP Smart Quiet Belt Drive Garage Door Opener with Battery Backup",
+      "rating": {
+        "average": 4.4656,
+        "count": 1323
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1b17e2c-54c7-482d-9bae-0274ccc7a474/svn/chamberlain-garage-door-openers-b2211t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 203.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315283727",
+      "modelNumber": "",
+      "brand": "Genie",
+      "title": "Signature Series 3/4 hp. Ultra-Quiet Belt Drive Smart Garage Door Opener",
+      "rating": {
+        "average": 4.3796,
+        "count": 1947
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/05544fdf-5ee2-4fc3-8495-6477c36be3c1/svn/genie-garage-door-openers-3155d-tsv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336430734",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "3/4 HP Smart Belt Drive Garage Door Opener with Motion Sensing Wall Control, Camera",
+      "rating": {
+        "average": 4.8649,
+        "count": 37
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/384885ca-1a75-4773-8656-6386b5c277d4/svn/chamberlain-garage-door-openers-b2310-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336430699",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "1/2 HP Smart Belt Drive Garage Door Opener with Battery Backup",
+      "rating": {
+        "average": 3.5,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f70d875e-c951-41b3-a232-1073d503c941/svn/chamberlain-garage-door-openers-b3010-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336430744",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "1/2 HP Smart Chain Drive Garage Door Opener",
+      "rating": {
+        "average": 4.3889,
+        "count": 108
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b7436ef4-a562-4abd-83dd-80383ee5c13b/svn/chamberlain-garage-door-openers-d1000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315283735",
+      "modelNumber": "",
+      "brand": "Genie",
+      "title": "Signature Series 1-1/4 HPc Ultra-Quiet Belt Drive Garage Door Opener with Battery Backup",
+      "rating": {
+        "average": 4.3428,
+        "count": 2118
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/576a2de5-bb94-4962-94d0-f5bd0166a3ad/svn/genie-garage-door-openers-7055d-tksv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337215866",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "3/4 HP Smart Quiet Belt Drive Garage Door Opener and 8 ft. Rail Extension Kit Combo",
+      "rating": {
+        "average": 4.4767,
+        "count": 3178
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bd747374-f166-46c2-ab1f-9165f4d917df/svn/chamberlain-garage-door-openers-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 336.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325675581",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "Wall Mount Drive Ultra-Quiet Smart Garage Door Opener with Battery Backup and WiFi Connection",
+      "rating": {
+        "average": 4.3125,
+        "count": 624
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59116478-49e2-4830-babb-536f38a5d2c3/svn/chamberlain-garage-door-openers-rjo101-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 539.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337215867",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "1/2 HP Smart Quiet Belt Drive Garage Door Opener with Battery Backup and 8 ft. Rail Extension Kit",
+      "rating": {
+        "average": 4.5144,
+        "count": 2115
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ba7f8391-9fd3-46b5-8cdd-925f5ca740e1/svn/chamberlain-garage-door-openers-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 268.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338102784",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Signature Series 3/4 hp Garage Door Opener and Battery Doorbell with HD Video and 2-Way Talk - Satin Nickel",
+      "rating": {
+        "average": 4.4176,
+        "count": 2282
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8fed707d-4b27-4d3e-8bc1-674ec26210e5/svn/doorbell-cameras-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 318.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301767884",
+      "modelNumber": "",
+      "brand": "Genie",
+      "title": "Chain Drive 550 1/2 HPc Durable Chain Garage Door Opener with Wireless Keypad",
+      "rating": {
+        "average": 4.5093,
+        "count": 1180
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e59c47d3-fa2a-49d7-bd3a-1095df7cae06/svn/genie-garage-door-openers-2035-tkv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313616246",
+      "modelNumber": "",
+      "brand": "Genie",
+      "title": "Signature Series Ultra-Quiet Wall Mount Smart Garage Door Opener with Battery Backup, Wi-Fi, Wireless Wall Console",
+      "rating": {
+        "average": 4.2823,
+        "count": 372
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd240ded-4682-4571-96b2-5ad8a0cbc271/svn/genie-garage-door-openers-6172h-b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 617.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336430711",
+      "modelNumber": "",
+      "brand": "Chamberlain",
+      "title": "1 HP Smart Belt Drive Garage Door Opener with Battery Backup, Camera and Motion Sensing Wall Control",
+      "rating": {
+        "average": 4.5469,
+        "count": 64
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4f848866-5dd2-48ab-947f-d5fedc877ef9/svn/chamberlain-garage-door-openers-b5330-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 309.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332381033",
+      "modelNumber": "",
+      "brand": "Genie",
+      "title": "Industrial Design 1-1/4 HP Smart Belt Garage Door Opener with LED Lighting and Battery Backup",
+      "rating": {
+        "average": 4.4196,
+        "count": 112
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a5ff4e89-654b-453b-a07c-82794f8d61ee/svn/genie-garage-door-openers-d7155l-tksv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202532761",
+      "modelNumber": "",
+      "brand": "Blaster",
+      "title": "9.3 oz. Premium Silicone Garage Door Lubricant Spray",
+      "rating": {
+        "average": 4.6273,
+        "count": 1245
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa8e0546-4612-4217-895a-050dbd4de1a3/svn/blaster-lubricants-16-gdl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100569764",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 9 ft x 7 ft Insulated 6.5 R-Value White Garage Door with Windows",
+      "rating": {
+        "average": 4.0864,
+        "count": 162
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/438be4de-5c5b-483c-a60b-b15c636c0e91/svn/clopay-garage-doors-2050-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 788.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100583913",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 9 ft x 7 ft Insulated 6.5 R-Value White Garage Door without Windows",
+      "rating": {
+        "average": 4.0375,
+        "count": 427
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f22bb49d-75fd-485f-b045-5834bfd1b0a3/svn/clopay-garage-doors-2050-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 658.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100024403",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 9 ft x 7 ft Non-Insulated White Garage Door without Windows",
+      "rating": {
+        "average": 4.1291,
+        "count": 364
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/39384837-a584-4ec2-969f-c14cb04c582c/svn/clopay-garage-doors-hdb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 488.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100045413",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 8 ft x 7 ft Non-Insulated White Garage Door without Windows",
+      "rating": {
+        "average": 4.0517,
+        "count": 406
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/39384837-a584-4ec2-969f-c14cb04c582c/svn/clopay-garage-doors-hdb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 428.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204598379",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Long Panel 16 ft x 7 ft Non-Insulated White Garage Door without Windows",
+      "rating": {
+        "average": 4.1714,
+        "count": 140
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20f2fc53-2655-4cdd-83d5-7d918aeb510f/svn/clopay-garage-doors-hdbl-sw-sol-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1194.57,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100587029",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 8 ft x 7 ft Insulated 6.5 R-Value White Garage Door without Windows",
+      "rating": {
+        "average": 4.166,
+        "count": 506
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f22bb49d-75fd-485f-b045-5834bfd1b0a3/svn/clopay-garage-doors-2050-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 618.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304751505",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 16 ft x 7 ft Insulated 6.5 R-Value White Garage Door without Windows",
+      "rating": {
+        "average": 3.9179,
+        "count": 207
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/561e5bd8-0a5c-4b3c-9dcb-585b4812246c/svn/clopay-garage-doors-2050-wh-sol-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1742.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204598371",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 16 ft x 7 ft Non-Insulated White Garage Door without Windows",
+      "rating": {
+        "average": 3.9896,
+        "count": 289
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0ee5cb04-c058-47ea-a01f-eca735c5437c/svn/clopay-garage-doors-hdb-sw-sol-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1194.57,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333647411",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Roll-Up 6 ft. x 7 ft. Non-Insulated Glossy White Garage Door Without Windows",
+      "rating": {
+        "average": 4.2632,
+        "count": 76
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/52698871-5527-48c4-b119-c806cce3896b/svn/clopay-garage-doors-ru67gw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.21,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336672329",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Modern Steel 16 ft. x 7 ft. 18.4 R-Value Insulated Wood Look Plank Cedar Garage Door with Slim Windows",
+      "rating": {
+        "average": 2.5,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/16180b83-2424-4af3-a6c6-bc7ab8dae4f3/svn/clopay-garage-doors-gdu482-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2838.08,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206703010",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Collection 8 ft. x 7 ft. Intellicore R12. 9 Insulated White Garage Door with Insulated Windows",
+      "rating": {
+        "average": 4.7277,
+        "count": 393
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c4941d6c-85a5-4993-848a-7aefabbe7cc3/svn/clopay-garage-doors-3000sp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304732642",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Short Panel 16 ft x 7 ft Insulated 6.5 R-Value White Garage Door with Windows",
+      "rating": {
+        "average": 4.1954,
+        "count": 174
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eba8ede3-c3f4-4bbd-a2d9-d3086b02d61d/svn/clopay-garage-doors-2050-wh-plain-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2230.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332885191",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Modern Steel 8 ft. x 7 ft. 18.4 R-Value Insulated Matte Lustra Black Garage Door with Slim Windows",
+      "rating": {
+        "average": 4.6571,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8bed67f0-379a-47fa-9324-fb40e78ebdb6/svn/clopay-garage-doors-gdu444-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2755.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333516307",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Classic Steel Long Panel 16 ft. x 7 ft. Insulated 6.5 R-Value Black Garage Door without windows",
+      "rating": {
+        "average": 4.1042,
+        "count": 48
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc85f7f1-4883-459f-832e-30d4898735ba/svn/clopay-garage-doors-gdu266-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1792.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324875016",
+      "modelNumber": "",
+      "brand": "Clopay",
+      "title": "Coachman Linear Design 9 ft x 7 ft Insulated 18.4 R-Value White Garage Door with SQ24 Windows",
+      "rating": {
+        "average": 4.0222,
+        "count": 45
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d64634e4-68f2-4ce2-a8de-936bbb708f2c/svn/clopay-garage-doors-cxu13-sw-sq24-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3917.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

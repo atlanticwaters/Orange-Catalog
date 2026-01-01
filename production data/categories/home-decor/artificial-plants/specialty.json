@@ -1,0 +1,225 @@
+{
+  "categoryId": "home-decor/artificial-plants/specialty",
+  "name": "Specialty",
+  "slug": "specialty",
+  "path": "/categories/home-decor/artificial-plants/specialty",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.724019",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Home Decor",
+      "url": "/home-decor"
+    },
+    {
+      "label": "Artificial Plants",
+      "url": "/home-decor/artificial-plants"
+    },
+    {
+      "label": "Specialty",
+      "url": "/home-decor/artificial-plants/specialty"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 8
+  },
+  "featuredBrands": [
+    {
+      "brandId": "nearly-natural",
+      "brandName": "Nearly Natural",
+      "logoUrl": "images/brands/nearly-natural.svg",
+      "count": 4
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 2
+    },
+    {
+      "brandId": "mecale",
+      "brandName": "Mecale",
+      "logoUrl": "images/brands/mecale.svg",
+      "count": 1
+    },
+    {
+      "brandId": "lhy",
+      "brandName": "LHY",
+      "logoUrl": "images/brands/lhy.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "301691107",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor and Outdoor 48 in. Artificial Boxwood Spiral Topiary with Planter",
+      "rating": {
+        "average": 4.3514,
+        "count": 37
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d41b9ad9-d474-448d-a372-cb5d0c44caa9/svn/nearly-natural-artificial-topiaries-5475-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 135.54,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301006753",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "50 in. Artificial Boxwood Topiary with Gray Cylindrical Planter UV Resistant (Indoor/Outdoor)",
+      "rating": {
+        "average": 4.8,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2998871e-41ce-4512-856a-a028558fece8/svn/nearly-natural-artificial-topiaries-5961-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 185.59,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335102241",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "24.5 in. Green Indoor Succulent Artificial Cactus, Artificial Plant Fake Cactus for Decktop Office Home Store Decoration",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/71ec317b-1c96-40f6-b8af-d41e05db15e7/svn/artificial-succulents-w2078p294239yf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301694323",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Artificial Spiky Agave Succulent Plant (Set of 2)",
+      "rating": {
+        "average": 4.5556,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9835e9aa-88e2-4185-bcc2-364322ca8e91/svn/nearly-natural-artificial-succulents-6159-s2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.17,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336277365",
+      "modelNumber": "",
+      "brand": "Mecale",
+      "title": "20 in. Green and Brown In-Outdoor Hanging Succulents with 10 Types Artificial Plant (2 Packs)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/65184befdcc64541984a8386f2d0d0fc/svn/mecale-artificial-succulents-zfcr2867-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 95.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308790336",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor Large Succulent Artificial Plant in Decorative Bowl",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c377809-5b36-4758-8624-7736454b218c/svn/nearly-natural-artificial-succulents-8400-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 75.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326830513",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "2-Pcs Artificial 19 in. White Flower Grass Topiary Balls Faux Balls Indoor Outdoor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fff87334-288d-4d45-b11c-79bc73f324bf/svn/artificial-topiaries-gym11760-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 103.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336342352",
+      "modelNumber": "",
+      "brand": "LHY",
+      "title": "15.5 in. Green Artificial Boxwood Grass Balls 2 Balls Artificial Plant Topiary Ball Faux Boxwood Decorative Ball (2 PCS)",
+      "rating": {
+        "average": 4.7778,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cf81c38f-61f6-4d86-bdea-47cafb4ddf11/svn/lhy-artificial-grass-plants-15-5in-2pcs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.39,
+        "currency": "USD"
+      }
+    }
+  ]
+}

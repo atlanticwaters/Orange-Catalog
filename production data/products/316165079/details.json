@@ -1,0 +1,45 @@
+{
+  "productId": "316165079",
+  "identifiers": {
+    "internetNumber": "316165079",
+    "modelNumber": "",
+    "storeSkuNumber": "316165079"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "36.1 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel",
+  "shortDescription": "36.1 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel",
+  "longDescription": "36.1 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel",
+  "pricing": {
+    "currentPrice": 1249.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9224,
+    "count": 3662
+  },
+  "media": {
+    "primaryImage": "/products/316165079/stainless-steel-frigidaire-side-by-side-refrigerators-frsc2333as-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316165079/stainless-steel-frigidaire-side-by-side-refrigerators-frsc2333as-64_100.jpg",
+        "altText": "36.1 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.433135"
+}

@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2025-12-31T22:32:21.640376",
+  "apiVersion": "v1",
+  "endpoints": {
+    "summary": "/SUMMARY.json",
+    "categories": "/categories/index.json",
+    "categoryDetails": "/categories/{department}/{category}.json",
+    "productDetails": "/products/{productId}/details.json",
+    "productImage": "/products/{productId}/{imageFileName}"
+  },
+  "dataIntegrity": {
+    "summary": "ec35b90cbb6dbab2cb0b5da6dc6b2e682ed822d5131c7a1bbe3a52ccde002b72",
+    "categoriesIndex": "59cba5221c08e77a28ea97cafa629bda5ba9fec9af86f8d4a9990a0570f2b782"
+  },
+  "caching": {
+    "recommendedTTL": {
+      "summary": 3600,
+      "categories": 3600,
+      "products": 86400,
+      "images": 2592000
+    }
+  },
+  "metadata": {
+    "totalProducts": 3001,
+    "totalCategories": 76,
+    "totalImages": 3001,
+    "dataSize": {
+      "json": "3.69 MB",
+      "images": "30.40 MB"
+    }
+  }
+}

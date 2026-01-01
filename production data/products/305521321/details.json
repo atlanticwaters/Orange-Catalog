@@ -1,0 +1,45 @@
+{
+  "productId": "305521321",
+  "identifiers": {
+    "internetNumber": "305521321",
+    "modelNumber": "",
+    "storeSkuNumber": "305521321"
+  },
+  "brand": {
+    "name": "National Tree Company",
+    "logoUrl": "images/brands/national-tree-company.svg"
+  },
+  "title": "11 in. Artificial Cymbidium Flower Wall Basket",
+  "shortDescription": "11 in. Artificial Cymbidium Flower Wall Basket",
+  "longDescription": "11 in. Artificial Cymbidium Flower Wall Basket",
+  "pricing": {
+    "currentPrice": 17.22,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/305521321/national-tree-company-artificial-flowers-ras-5428-04n-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305521321/national-tree-company-artificial-flowers-ras-5428-04n-64_100.jpg",
+        "altText": "11 in. Artificial Cymbidium Flower Wall Basket",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.532080"
+}

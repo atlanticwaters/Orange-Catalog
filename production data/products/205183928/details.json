@@ -1,0 +1,45 @@
+{
+  "productId": "205183928",
+  "identifiers": {
+    "internetNumber": "205183928",
+    "modelNumber": "",
+    "storeSkuNumber": "205183928"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Extended Tank Drain Valve Assembly",
+  "shortDescription": "Extended Tank Drain Valve Assembly",
+  "longDescription": "Extended Tank Drain Valve Assembly",
+  "pricing": {
+    "currentPrice": 25.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5882,
+    "count": 221
+  },
+  "media": {
+    "primaryImage": "/products/205183928/husky-air-compressor-parts-072-0023h-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205183928/husky-air-compressor-parts-072-0023h-64_100.jpg",
+        "altText": "Extended Tank Drain Valve Assembly",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.652937"
+}

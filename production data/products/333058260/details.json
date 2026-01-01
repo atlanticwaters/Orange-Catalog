@@ -1,0 +1,45 @@
+{
+  "productId": "333058260",
+  "identifiers": {
+    "internetNumber": "333058260",
+    "modelNumber": "",
+    "storeSkuNumber": "333058260"
+  },
+  "brand": {
+    "name": "CANNON",
+    "logoUrl": "images/brands/cannon.svg"
+  },
+  "title": "Solid Oversized Percale Olive Green King 3 Piece Cotton Comforter Set",
+  "shortDescription": "Solid Oversized Percale Olive Green King 3 Piece Cotton Comforter Set",
+  "longDescription": "Solid Oversized Percale Olive Green King 3 Piece Cotton Comforter Set",
+  "pricing": {
+    "currentPrice": 116.39,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2857,
+    "count": 7
+  },
+  "media": {
+    "primaryImage": "/products/333058260/cannon-bedding-sets-cs5940ogkg-1500-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333058260/cannon-bedding-sets-cs5940ogkg-1500-64_100.jpg",
+        "altText": "Solid Oversized Percale Olive Green King 3 Piece Cotton Comforter Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.473299"
+}

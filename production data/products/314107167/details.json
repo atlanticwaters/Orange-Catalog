@@ -1,0 +1,45 @@
+{
+  "productId": "314107167",
+  "identifiers": {
+    "internetNumber": "314107167",
+    "modelNumber": "",
+    "storeSkuNumber": "314107167"
+  },
+  "brand": {
+    "name": "Rust-Oleum EpoxyShield",
+    "logoUrl": "images/brands/rust-oleum-epoxyshield.svg"
+  },
+  "title": "120 oz. Gray Epoxy 1 Car Garage Floor Paint Kit",
+  "shortDescription": "120 oz. Gray Epoxy 1 Car Garage Floor Paint Kit",
+  "longDescription": "120 oz. Gray Epoxy 1 Car Garage Floor Paint Kit",
+  "pricing": {
+    "currentPrice": 129.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0087,
+    "count": 1498
+  },
+  "media": {
+    "primaryImage": "/products/314107167/gray-rust-oleum-epoxyshield-garage-floor-paint-365184-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314107167/gray-rust-oleum-epoxyshield-garage-floor-paint-365184-64_100.jpg",
+        "altText": "120 oz. Gray Epoxy 1 Car Garage Floor Paint Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.600138"
+}

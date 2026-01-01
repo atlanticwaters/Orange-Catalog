@@ -1,0 +1,45 @@
+{
+  "productId": "329904117",
+  "identifiers": {
+    "internetNumber": "329904117",
+    "modelNumber": "",
+    "storeSkuNumber": "329904117"
+  },
+  "brand": {
+    "name": "Milton Industries, Inc.",
+    "logoUrl": "images/brands/milton-industries-inc.svg"
+  },
+  "title": "EZ-Lock Euro Style Air Chuck-Open Type",
+  "shortDescription": "EZ-Lock Euro Style Air Chuck-Open Type",
+  "longDescription": "EZ-Lock Euro Style Air Chuck-Open Type",
+  "pricing": {
+    "currentPrice": 7.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5556,
+    "count": 9
+  },
+  "media": {
+    "primaryImage": "/products/329904117/milton-industries-inc-air-chucks-697-op-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329904117/milton-industries-inc-air-chucks-697-op-64_100.jpg",
+        "altText": "EZ-Lock Euro Style Air Chuck-Open Type",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.522340"
+}

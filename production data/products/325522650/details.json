@@ -1,0 +1,45 @@
+{
+  "productId": "325522650",
+  "identifiers": {
+    "internetNumber": "325522650",
+    "modelNumber": "",
+    "storeSkuNumber": "325522650"
+  },
+  "brand": {
+    "name": "Gymax",
+    "logoUrl": "images/brands/gymax.svg"
+  },
+  "title": "Artificial Tree 2- Pack Artificial Fiddle Leaf Fig Tree for Indoor and Outdoor",
+  "shortDescription": "Artificial Tree 2- Pack Artificial Fiddle Leaf Fig Tree for Indoor and Outdoor",
+  "longDescription": "Artificial Tree 2- Pack Artificial Fiddle Leaf Fig Tree for Indoor and Outdoor",
+  "pricing": {
+    "currentPrice": 80.1,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/325522650/gymax-artificial-trees-gym10989-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325522650/gymax-artificial-trees-gym10989-64_100.jpg",
+        "altText": "Artificial Tree 2- Pack Artificial Fiddle Leaf Fig Tree for Indoor and Outdoor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.520448"
+}

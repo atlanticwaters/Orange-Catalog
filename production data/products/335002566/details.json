@@ -1,0 +1,45 @@
+{
+  "productId": "335002566",
+  "identifiers": {
+    "internetNumber": "335002566",
+    "modelNumber": "",
+    "storeSkuNumber": "335002566"
+  },
+  "brand": {
+    "name": "Magic Home",
+    "logoUrl": "images/brands/magic-home.svg"
+  },
+  "title": "120 in. Square Arm 5-Piece Linen Upholstered Cloud Modular Sectional Sofa 3-Seater w/ Ottoman, Washable Covers in White",
+  "shortDescription": "120 in. Square Arm 5-Piece Linen Upholstered Cloud Modular Sectional Sofa 3-Seater w/ Ottoman, Washable Covers in White",
+  "longDescription": "120 in. Square Arm 5-Piece Linen Upholstered Cloud Modular Sectional Sofa 3-Seater w/ Ottoman, Washable Covers in White",
+  "pricing": {
+    "currentPrice": 1382.29,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 4
+  },
+  "media": {
+    "primaryImage": "/products/335002566/white-magic-home-sectional-sofas-mh-sf3-2-140we-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335002566/white-magic-home-sectional-sofas-mh-sf3-2-140we-64_100.jpg",
+        "altText": "120 in. Square Arm 5-Piece Linen Upholstered Cloud Modular Sectional Sofa 3-Seater w/ Ottoman, Washable Covers in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.587850"
+}

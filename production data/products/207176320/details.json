@@ -1,0 +1,45 @@
+{
+  "productId": "207176320",
+  "identifiers": {
+    "internetNumber": "207176320",
+    "modelNumber": "",
+    "storeSkuNumber": "207176320"
+  },
+  "brand": {
+    "name": "KitchenAid",
+    "logoUrl": "images/brands/kitchenaid.svg"
+  },
+  "title": "23.8 cu. ft. French Door Refrigerator in PrintShield Stainless Steel, Counter Depth",
+  "shortDescription": "23.8 cu. ft. French Door Refrigerator in PrintShield Stainless Steel, Counter Depth",
+  "longDescription": "23.8 cu. ft. French Door Refrigerator in PrintShield Stainless Steel, Counter Depth",
+  "pricing": {
+    "currentPrice": 4899.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.8463,
+    "count": 2824
+  },
+  "media": {
+    "primaryImage": "/products/207176320/stainless-steel-with-printshield-finish-kitchenaid-french-door-refrigerators-krfc704fps-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/207176320/stainless-steel-with-printshield-finish-kitchenaid-french-door-refrigerators-krfc704fps-64_100.jpg",
+        "altText": "23.8 cu. ft. French Door Refrigerator in PrintShield Stainless Steel, Counter Depth",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.435962"
+}

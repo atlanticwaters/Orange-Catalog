@@ -1,0 +1,45 @@
+{
+  "productId": "327738434",
+  "identifiers": {
+    "internetNumber": "327738434",
+    "modelNumber": "",
+    "storeSkuNumber": "327738434"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Surface Prep Kit (10-Piece)",
+  "shortDescription": "Surface Prep Kit (10-Piece)",
+  "longDescription": "Surface Prep Kit (10-Piece)",
+  "pricing": {
+    "currentPrice": 14.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3,
+    "count": 10
+  },
+  "media": {
+    "primaryImage": "/products/327738434/husky-air-tool-accessory-kits-hda00700-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327738434/husky-air-tool-accessory-kits-hda00700-64_100.jpg",
+        "altText": "Surface Prep Kit (10-Piece)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.536347"
+}

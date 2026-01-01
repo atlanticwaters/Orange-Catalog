@@ -1,0 +1,45 @@
+{
+  "productId": "339793183",
+  "identifiers": {
+    "internetNumber": "339793183",
+    "modelNumber": "",
+    "storeSkuNumber": "339793183"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "Gravity Feed Pneumatic Touch-Up Spray Gun",
+  "shortDescription": "Gravity Feed Pneumatic Touch-Up Spray Gun",
+  "longDescription": "Gravity Feed Pneumatic Touch-Up Spray Gun",
+  "pricing": {
+    "currentPrice": 36.75,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/339793183/dewalt-pneumatic-paint-sprayers-dwmt70778-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/339793183/dewalt-pneumatic-paint-sprayers-dwmt70778-64_100.jpg",
+        "altText": "Gravity Feed Pneumatic Touch-Up Spray Gun",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.642994"
+}

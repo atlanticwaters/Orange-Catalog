@@ -1,0 +1,45 @@
+{
+  "productId": "307654222",
+  "identifiers": {
+    "internetNumber": "307654222",
+    "modelNumber": "",
+    "storeSkuNumber": "307654222"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "72 in. W x 24 in. D Adjustable Height Black Worktable with Solid Wood Top",
+  "shortDescription": "72 in. W x 24 in. D Adjustable Height Black Worktable with Solid Wood Top",
+  "longDescription": "72 in. W x 24 in. D Adjustable Height Black Worktable with Solid Wood Top",
+  "pricing": {
+    "currentPrice": 349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7536,
+    "count": 2066
+  },
+  "media": {
+    "primaryImage": "/products/307654222/husky-workbenches-holt72xdb11-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/307654222/husky-workbenches-holt72xdb11-64_100.jpg",
+        "altText": "72 in. W x 24 in. D Adjustable Height Black Worktable with Solid Wood Top",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.479687"
+}

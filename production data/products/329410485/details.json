@@ -1,0 +1,45 @@
+{
+  "productId": "329410485",
+  "identifiers": {
+    "internetNumber": "329410485",
+    "modelNumber": "",
+    "storeSkuNumber": "329410485"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "12 in. Dual Head Straight Chuck",
+  "shortDescription": "12 in. Dual Head Straight Chuck",
+  "longDescription": "12 in. Dual Head Straight Chuck",
+  "pricing": {
+    "currentPrice": 8.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/329410485/dewalt-air-chucks-dxcm038-0088-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329410485/dewalt-air-chucks-dxcm038-0088-64_100.jpg",
+        "altText": "12 in. Dual Head Straight Chuck",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.522768"
+}

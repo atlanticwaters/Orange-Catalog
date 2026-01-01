@@ -1,0 +1,45 @@
+{
+  "productId": "313010993",
+  "identifiers": {
+    "internetNumber": "313010993",
+    "modelNumber": "",
+    "storeSkuNumber": "313010993"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "30 in. 20 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+  "shortDescription": "30 in. 20 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+  "longDescription": "30 in. 20 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+  "pricing": {
+    "currentPrice": 699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5695,
+    "count": 8434
+  },
+  "media": {
+    "primaryImage": "/products/313010993/stainless-steel-frigidaire-top-freezer-refrigerators-fftr2045vs-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313010993/stainless-steel-frigidaire-top-freezer-refrigerators-fftr2045vs-64_100.jpg",
+        "altText": "30 in. 20 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.438725"
+}

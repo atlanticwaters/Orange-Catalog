@@ -1,0 +1,45 @@
+{
+  "productId": "313454506",
+  "identifiers": {
+    "internetNumber": "313454506",
+    "modelNumber": "",
+    "storeSkuNumber": "313454506"
+  },
+  "brand": {
+    "name": "Flora Bunda",
+    "logoUrl": "images/brands/flora-bunda.svg"
+  },
+  "title": "11 in. Artificial Round Wood and Metal Wall Faux Succulents Mix",
+  "shortDescription": "11 in. Artificial Round Wood and Metal Wall Faux Succulents Mix",
+  "longDescription": "11 in. Artificial Round Wood and Metal Wall Faux Succulents Mix",
+  "pricing": {
+    "currentPrice": 37.5,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.25,
+    "count": 16
+  },
+  "media": {
+    "primaryImage": "/products/313454506/flora-bunda-artificial-succulents-ts1881e-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313454506/flora-bunda-artificial-succulents-ts1881e-64_100.jpg",
+        "altText": "11 in. Artificial Round Wood and Metal Wall Faux Succulents Mix",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.563515"
+}

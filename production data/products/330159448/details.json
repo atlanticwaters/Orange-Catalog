@@ -1,0 +1,45 @@
+{
+  "productId": "330159448",
+  "identifiers": {
+    "internetNumber": "330159448",
+    "modelNumber": "",
+    "storeSkuNumber": "330159448"
+  },
+  "brand": {
+    "name": "SIMZLIFE",
+    "logoUrl": "images/brands/simzlife.svg"
+  },
+  "title": "3.5 cu. ft. Vented Front Load Stackable Electric Compact Dryer in White with Multiple Drying Modes",
+  "shortDescription": "3.5 cu. ft. Vented Front Load Stackable Electric Compact Dryer in White with Multiple Drying Modes",
+  "longDescription": "3.5 cu. ft. Vented Front Load Stackable Electric Compact Dryer in White with Multiple Drying Modes",
+  "pricing": {
+    "currentPrice": 229.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6154,
+    "count": 39
+  },
+  "media": {
+    "primaryImage": "/products/330159448/white-simzlife-electric-dryers-cd-13-hd-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330159448/white-simzlife-electric-dryers-cd-13-hd-64_100.jpg",
+        "altText": "3.5 cu. ft. Vented Front Load Stackable Electric Compact Dryer in White with Multiple Drying Modes",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.629740"
+}

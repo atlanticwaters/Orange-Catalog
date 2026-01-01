@@ -1,0 +1,45 @@
+{
+  "productId": "205558109",
+  "identifiers": {
+    "internetNumber": "205558109",
+    "modelNumber": "",
+    "storeSkuNumber": "205558109"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "5.5 Amp Corded 4-1/2 in. Angle Grinder",
+  "shortDescription": "5.5 Amp Corded 4-1/2 in. Angle Grinder",
+  "longDescription": "5.5 Amp Corded 4-1/2 in. Angle Grinder",
+  "pricing": {
+    "currentPrice": 49.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3249,
+    "count": 1065
+  },
+  "media": {
+    "primaryImage": "/products/205558109/ryobi-angle-grinders-ag4031g-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205558109/ryobi-angle-grinders-ag4031g-64_100.jpg",
+        "altText": "5.5 Amp Corded 4-1/2 in. Angle Grinder",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.688273"
+}

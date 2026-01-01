@@ -1,0 +1,45 @@
+{
+  "productId": "332707621",
+  "identifiers": {
+    "internetNumber": "332707621",
+    "modelNumber": "",
+    "storeSkuNumber": "332707621"
+  },
+  "brand": {
+    "name": "DR.Planzen",
+    "logoUrl": "images/brands/drplanzen.svg"
+  },
+  "title": "7 ft. Artificial Fiddle Leaf Fig Tree with Realistic Leaves and Natural Trunk, Silk Faux Potted Tree",
+  "shortDescription": "7 ft. Artificial Fiddle Leaf Fig Tree with Realistic Leaves and Natural Trunk, Silk Faux Potted Tree",
+  "longDescription": "7 ft. Artificial Fiddle Leaf Fig Tree with Realistic Leaves and Natural Trunk, Silk Faux Potted Tree",
+  "pricing": {
+    "currentPrice": 108.56,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 11
+  },
+  "media": {
+    "primaryImage": "/products/332707621/dr-planzen-artificial-trees-zmgwgqyr2-1m-1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332707621/dr-planzen-artificial-trees-zmgwgqyr2-1m-1-64_100.jpg",
+        "altText": "7 ft. Artificial Fiddle Leaf Fig Tree with Realistic Leaves and Natural Trunk, Silk Faux Potted Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.518576"
+}

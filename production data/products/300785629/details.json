@@ -1,0 +1,45 @@
+{
+  "productId": "300785629",
+  "identifiers": {
+    "internetNumber": "300785629",
+    "modelNumber": "",
+    "storeSkuNumber": "300785629"
+  },
+  "brand": {
+    "name": "Campbell Hausfeld",
+    "logoUrl": "images/brands/campbell-hausfeld.svg"
+  },
+  "title": "80 Gal. Vertical Two Stage Stationary Electric Air Compressor 14CFM 5HP 230V 1PH (HS5180)",
+  "shortDescription": "80 Gal. Vertical Two Stage Stationary Electric Air Compressor 14CFM 5HP 230V 1PH (HS5180)",
+  "longDescription": "80 Gal. Vertical Two Stage Stationary Electric Air Compressor 14CFM 5HP 230V 1PH (HS5180)",
+  "pricing": {
+    "currentPrice": 1351.49,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4844,
+    "count": 64
+  },
+  "media": {
+    "primaryImage": "/products/300785629/campbell-hausfeld-stationary-air-compressors-hs5180-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300785629/campbell-hausfeld-stationary-air-compressors-hs5180-64_100.jpg",
+        "altText": "80 Gal. Vertical Two Stage Stationary Electric Air Compressor 14CFM 5HP 230V 1PH (HS5180)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.516089"
+}

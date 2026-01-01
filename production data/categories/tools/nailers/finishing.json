@@ -1,0 +1,588 @@
+{
+  "categoryId": "tools/nailers/finishing",
+  "name": "Finishing",
+  "slug": "finishing",
+  "path": "/categories/tools/nailers/finishing",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.742742",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Nailers",
+      "url": "/tools/nailers"
+    },
+    {
+      "label": "Finishing",
+      "url": "/tools/nailers/finishing"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 25
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 16
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 4
+    },
+    {
+      "brandId": "porter-cable",
+      "brandName": "Porter-Cable",
+      "logoUrl": "images/brands/porter-cable.svg",
+      "count": 2
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 2
+    },
+    {
+      "brandId": "wen",
+      "brandName": "WEN",
+      "logoUrl": "images/brands/wen.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "304530407",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology, and Tool Bag",
+      "rating": {
+        "average": 4.6865,
+        "count": 1094
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f33eeea-60c6-4136-bad8-8a3235b08dc0/svn/ridgid-brad-nailers-r213bnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205647692",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "18-Gauge Pneumatic Brad Nailer",
+      "rating": {
+        "average": 4.4863,
+        "count": 1098
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78b74650-6de5-46ba-bd1a-2efa8e6a01e2/svn/dewalt-brad-nailers-dwfp12233-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958576",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology with Straight Finish Nailer",
+      "rating": {
+        "average": 4.6674,
+        "count": 1425
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/786c92f1-faf9-4bcb-901e-a210937ed6a4/svn/ridgid-brad-nailers-r213bnf-r250sff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 208.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958574",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology with Angled Finish Nailer",
+      "rating": {
+        "average": 4.626,
+        "count": 1369
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab21b639-1fdd-4a28-909a-aa6c27724c78/svn/ridgid-brad-nailers-r213bnf-r250aff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 308.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958560",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 18-Gague 1-1/2 in. Finish Stapler",
+      "rating": {
+        "average": 4.6771,
+        "count": 1505
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b384b40-2978-483f-8547-c32833d3ddd4/svn/ridgid-brad-nailers-r213bnf-r150fsf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 228.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958558",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 23-Gauge Headless Pin Nailer",
+      "rating": {
+        "average": 4.6599,
+        "count": 1226
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4f2b4d-1c84-40fa-ba16-651dc4dca024/svn/ridgid-brad-nailers-r213bnf-r138hpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 258.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335331558",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 3-1/2 in. Full Size Palm Nailer",
+      "rating": {
+        "average": 4.6798,
+        "count": 1568
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbad78c1-22a9-425d-abcb-0812523423df/svn/ridgid-brad-nailers-r213bnf-r350pnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 198.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203555573",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "18-Gauge Pneumatic Brad Nailer Kit",
+      "rating": {
+        "average": 4.388,
+        "count": 1103
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/330c3956-cac1-4258-9bc8-8c44c549973a/svn/porter-cable-brad-nailers-bn200c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312965786",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer w/ CLEAN DRIVE Technology, and Tool Bag, with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.6191,
+        "count": 1499
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9aae428d-a893-43fc-8648-0193922463eb/svn/ridgid-brad-nailers-r213bnf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204334593",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "18-Gauge Pneumatic 2 in. Brad Nailer with Carrying Case",
+      "rating": {
+        "average": 4.637,
+        "count": 416
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1d13850b-a418-404a-a964-3b1fbfe0dbdb/svn/dewalt-brad-nailers-dwfp12231-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 107.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312309197",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 18-Gauge 2 in. Brad Nailer",
+      "rating": {
+        "average": 4.5779,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/73cd8830-b2f7-4237-a0fa-42fdbf7b2bb1/svn/makita-brad-nailers-af506-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204460873",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "18-Gauge Pneumatic Brad Nailer",
+      "rating": {
+        "average": 4.4965,
+        "count": 141
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/86e04c46-08f2-4606-b392-d4607940c208/svn/porter-cable-brad-nailers-bn200sb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 77.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304105730",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "18-Gauge 3/8 in. to 2 in. Pneumatic Brad Nailer",
+      "rating": {
+        "average": 4.7698,
+        "count": 417
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7321c01f-578c-4417-afb2-5189c01321e3/svn/wen-brad-nailers-61721-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 31.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316243919",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 18-Gauge 1-1/2 in. Finish Stapler",
+      "rating": {
+        "average": 4.6792,
+        "count": 1378
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b384b40-2978-483f-8547-c32833d3ddd4/svn/ridgid-brad-nailers-r213bnf-r150fsf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 180.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316764251",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology with Angled Finish Nailer",
+      "rating": {
+        "average": 4.6345,
+        "count": 1234
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab21b639-1fdd-4a28-909a-aa6c27724c78/svn/ridgid-brad-nailers-r213bnf-r250aff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 248.53,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316243031",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 23-Gauge Headless Pin Nailer",
+      "rating": {
+        "average": 4.6596,
+        "count": 1093
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4f2b4d-1c84-40fa-ba16-651dc4dca024/svn/ridgid-brad-nailers-r213bnf-r138hpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 201.71,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319900418",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 18-Gauge 2 in. Brad Nailer Kit and 1-1/2 in. x 18-Gauge Brad Nails (2500 Per Box)",
+      "rating": {
+        "average": 4.6926,
+        "count": 1223
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97f01bdd-fb54-4568-b7aa-a1c02a6bb030/svn/dewalt-brad-nailers-dwfp12231w150-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 113.54,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305311411",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer with CLEAN DRIVE Technology",
+      "rating": {
+        "average": 4.603,
+        "count": 330
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b847c3d2-e95b-4b65-8bbd-59449e6fa181/svn/ridgid-finishing-nailers-r250sff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205644384",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 16-Gauge 2-1/2 in. Corded Finishing Nailer",
+      "rating": {
+        "average": 4.4193,
+        "count": 322
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e6c8e6cf-7e3e-4fe9-b412-76dd52fe48e6/svn/dewalt-finishing-nailers-dwfp71917-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958548",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15-Gauge 2-1/2 in. Angled Finish Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.4328,
+        "count": 804
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ccdaf07-43f9-4c14-8285-4e0e17238652/svn/ridgid-finishing-nailers-r250aff-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 248.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305311237",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15-Gauge 2-1/2 in. Angled Finish Nailer with CLEAN DRIVE Technology, and Tool Bag",
+      "rating": {
+        "average": 4.366,
+        "count": 265
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2a255c3d-ef20-40e1-a35e-3f43cac96b93/svn/ridgid-finishing-nailers-r250aff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300350027",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 16-Gauge, 2-1/2 in. Straight Finish Nailer",
+      "rating": {
+        "average": 4.5752,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4d6f4291-643a-47f8-b757-cad78afdaba2/svn/makita-finishing-nailers-af601-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958570",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp Corded 12 in. Dual Bevel Sliding Miter Saw with Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with Tool Bag",
+      "rating": {
+        "average": 4.5711,
+        "count": 2609
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/da0aec96-f8b1-46f0-9d89-b17333ac9b50/svn/ridgid-miter-saws-r4222-r213bnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 508.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958542",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Pro Jobsite Table Saw with Rolling Stand and Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer",
+      "rating": {
+        "average": 4.2415,
+        "count": 2733
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3df058d6-7fb5-44f6-a74d-42da78012c81/svn/ridgid-portable-table-saws-r4514-r250sff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 648.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958540",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Pro Jobsite Table Saw with Rolling Stand and Pneumatic 18-Gauge 2-1/8 in. Brad Nailer",
+      "rating": {
+        "average": 4.3471,
+        "count": 3526
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/151817c4-1a45-4afc-a2bd-9384c3e8402e/svn/ridgid-portable-table-saws-r4514-r213bnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 658.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

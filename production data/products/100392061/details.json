@@ -1,0 +1,45 @@
+{
+  "productId": "100392061",
+  "identifiers": {
+    "internetNumber": "100392061",
+    "modelNumber": "",
+    "storeSkuNumber": "100392061"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "1/4 in. x 1/4 in. NPT Female Industrial Steel Coupler",
+  "shortDescription": "1/4 in. x 1/4 in. NPT Female Industrial Steel Coupler",
+  "longDescription": "1/4 in. x 1/4 in. NPT Female Industrial Steel Coupler",
+  "pricing": {
+    "currentPrice": 4.48,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5909,
+    "count": 88
+  },
+  "media": {
+    "primaryImage": "/products/100392061/husky-air-tool-fittings-hdb21200av-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100392061/husky-air-tool-fittings-hdb21200av-64_100.jpg",
+        "altText": "1/4 in. x 1/4 in. NPT Female Industrial Steel Coupler",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.621034"
+}

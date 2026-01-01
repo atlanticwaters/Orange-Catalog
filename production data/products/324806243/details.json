@@ -1,0 +1,45 @@
+{
+  "productId": "324806243",
+  "identifiers": {
+    "internetNumber": "324806243",
+    "modelNumber": "",
+    "storeSkuNumber": "324806243"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "2.4 cu. ft. Washer, 4.2 cu. ft. Dual Inverter Heat Pump Ventless Electric Dryer, Washtower, Center Control AIDD in White",
+  "shortDescription": "2.4 cu. ft. Washer, 4.2 cu. ft. Dual Inverter Heat Pump Ventless Electric Dryer, Washtower, Center Control AIDD in White",
+  "longDescription": "2.4 cu. ft. Washer, 4.2 cu. ft. Dual Inverter Heat Pump Ventless Electric Dryer, Washtower, Center Control AIDD in White",
+  "pricing": {
+    "currentPrice": 3199.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6552,
+    "count": 58
+  },
+  "media": {
+    "primaryImage": "/products/324806243/white-lg-laundry-centers-wkhc152hwa-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324806243/white-lg-laundry-centers-wkhc152hwa-64_100.jpg",
+        "altText": "2.4 cu. ft. Washer, 4.2 cu. ft. Dual Inverter Heat Pump Ventless Electric Dryer, Washtower, Center Control AIDD in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.640767"
+}

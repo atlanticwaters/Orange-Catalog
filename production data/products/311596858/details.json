@@ -1,0 +1,45 @@
+{
+  "productId": "311596858",
+  "identifiers": {
+    "internetNumber": "311596858",
+    "modelNumber": "",
+    "storeSkuNumber": "311596858"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "25 Gal. 200 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+  "shortDescription": "25 Gal. 200 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+  "longDescription": "25 Gal. 200 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+  "pricing": {
+    "currentPrice": 721.49,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2106,
+    "count": 489
+  },
+  "media": {
+    "primaryImage": "/products/311596858/dewalt-portable-air-compressors-dxcm251-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311596858/dewalt-portable-air-compressors-dxcm251-64_100.jpg",
+        "altText": "25 Gal. 200 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.516591"
+}

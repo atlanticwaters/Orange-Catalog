@@ -1,0 +1,45 @@
+{
+  "productId": "336958980",
+  "identifiers": {
+    "internetNumber": "336958980",
+    "modelNumber": "",
+    "storeSkuNumber": "336958980"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Reciprocating Saw",
+  "shortDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Reciprocating Saw",
+  "longDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Reciprocating Saw",
+  "pricing": {
+    "currentPrice": 318.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7257,
+    "count": 813
+  },
+  "media": {
+    "primaryImage": "/products/336958980/ridgid-reciprocating-saws-ac8609340sb-r8647b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958980/ridgid-reciprocating-saws-ac8609340sb-r8647b-64_100.jpg",
+        "altText": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Reciprocating Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.680498"
+}

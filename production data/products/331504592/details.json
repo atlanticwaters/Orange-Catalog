@@ -1,0 +1,45 @@
+{
+  "productId": "331504592",
+  "identifiers": {
+    "internetNumber": "331504592",
+    "modelNumber": "",
+    "storeSkuNumber": "331504592"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with FREE 18V Brushless Multi-Tool",
+  "shortDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with FREE 18V Brushless Multi-Tool",
+  "longDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with FREE 18V Brushless Multi-Tool",
+  "pricing": {
+    "currentPrice": 139.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7715,
+    "count": 963
+  },
+  "media": {
+    "primaryImage": "/products/331504592/ridgid-oscillating-tools-ac8609340sb-r86242b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331504592/ridgid-oscillating-tools-ac8609340sb-r86242b-64_100.jpg",
+        "altText": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with FREE 18V Brushless Multi-Tool",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.694730"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "202353199",
+  "identifiers": {
+    "internetNumber": "202353199",
+    "modelNumber": "",
+    "storeSkuNumber": "202353199"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "40 lbs. Ice Melt Blend Bag",
+  "shortDescription": "40 lbs. Ice Melt Blend Bag",
+  "longDescription": "40 lbs. Ice Melt Blend Bag",
+  "pricing": {
+    "currentPrice": 15.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2705,
+    "count": 2388
+  },
+  "media": {
+    "primaryImage": "/products/202353199/ice-melt-40b-rr-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202353199/ice-melt-40b-rr-64_100.jpg",
+        "altText": "40 lbs. Ice Melt Blend Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.613247"
+}

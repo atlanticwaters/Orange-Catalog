@@ -1,0 +1,45 @@
+{
+  "productId": "307250425",
+  "identifiers": {
+    "internetNumber": "307250425",
+    "modelNumber": "",
+    "storeSkuNumber": "307250425"
+  },
+  "brand": {
+    "name": "Nathan James",
+    "logoUrl": "images/brands/nathan-james.svg"
+  },
+  "title": "Theo Dark Walnut Brown 5-Shelf Ladder Bookcase or Bookshelf with Black Metal Frame",
+  "shortDescription": "Theo Dark Walnut Brown 5-Shelf Ladder Bookcase or Bookshelf with Black Metal Frame",
+  "longDescription": "Theo Dark Walnut Brown 5-Shelf Ladder Bookcase or Bookshelf with Black Metal Frame",
+  "pricing": {
+    "currentPrice": 142.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7868,
+    "count": 483
+  },
+  "media": {
+    "primaryImage": "/products/307250425/warm-walnut-black-nathan-james-bookcases-bookshelves-65501-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/307250425/warm-walnut-black-nathan-james-bookcases-bookshelves-65501-64_100.jpg",
+        "altText": "Theo Dark Walnut Brown 5-Shelf Ladder Bookcase or Bookshelf with Black Metal Frame",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.577171"
+}

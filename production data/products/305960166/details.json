@@ -1,0 +1,45 @@
+{
+  "productId": "305960166",
+  "identifiers": {
+    "internetNumber": "305960166",
+    "modelNumber": "",
+    "storeSkuNumber": "305960166"
+  },
+  "brand": {
+    "name": "Schumacher Electric",
+    "logoUrl": "images/brands/schumacher-electric.svg"
+  },
+  "title": "DSR Professional Grade 12 Volt, 250 Amp Wheeled Rapid Battery Charger, Maintainer, and Engine Starter",
+  "shortDescription": "DSR Professional Grade 12 Volt, 250 Amp Wheeled Rapid Battery Charger, Maintainer, and Engine Starter",
+  "longDescription": "DSR Professional Grade 12 Volt, 250 Amp Wheeled Rapid Battery Charger, Maintainer, and Engine Starter",
+  "pricing": {
+    "currentPrice": 315.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1333,
+    "count": 30
+  },
+  "media": {
+    "primaryImage": "/products/305960166/schumacher-electric-car-battery-chargers-dsr121-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305960166/schumacher-electric-car-battery-chargers-dsr121-64_100.jpg",
+        "altText": "DSR Professional Grade 12 Volt, 250 Amp Wheeled Rapid Battery Charger, Maintainer, and Engine Starter",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.521848"
+}

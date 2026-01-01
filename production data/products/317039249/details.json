@@ -1,0 +1,45 @@
+{
+  "productId": "317039249",
+  "identifiers": {
+    "internetNumber": "317039249",
+    "modelNumber": "",
+    "storeSkuNumber": "317039249"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "PACKOUT 20 in. Deep Small Parts Organizer with 6 Compartments and Quick Adjust Dividers",
+  "shortDescription": "PACKOUT 20 in. Deep Small Parts Organizer with 6 Compartments and Quick Adjust Dividers",
+  "longDescription": "PACKOUT 20 in. Deep Small Parts Organizer with 6 Compartments and Quick Adjust Dividers",
+  "pricing": {
+    "currentPrice": 69.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8395,
+    "count": 623
+  },
+  "media": {
+    "primaryImage": "/products/317039249/red-milwaukee-modular-tool-storage-systems-48-22-8432-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317039249/red-milwaukee-modular-tool-storage-systems-48-22-8432-64_100.jpg",
+        "altText": "PACKOUT 20 in. Deep Small Parts Organizer with 6 Compartments and Quick Adjust Dividers",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.541521"
+}

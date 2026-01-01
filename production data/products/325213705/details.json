@@ -1,0 +1,45 @@
+{
+  "productId": "325213705",
+  "identifiers": {
+    "internetNumber": "325213705",
+    "modelNumber": "",
+    "storeSkuNumber": "325213705"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 1/2 in. Router (Tool-Only)",
+  "shortDescription": "M18 FUEL 18V Lithium-Ion Cordless Brushless 1/2 in. Router (Tool-Only)",
+  "longDescription": "M18 FUEL 18V Lithium-Ion Cordless Brushless 1/2 in. Router (Tool-Only)",
+  "pricing": {
+    "currentPrice": 369.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6111,
+    "count": 90
+  },
+  "media": {
+    "primaryImage": "/products/325213705/milwaukee-wood-routers-2838-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325213705/milwaukee-wood-routers-2838-20-64_100.jpg",
+        "altText": "M18 FUEL 18V Lithium-Ion Cordless Brushless 1/2 in. Router (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.664948"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "318497955",
+  "identifiers": {
+    "internetNumber": "318497955",
+    "modelNumber": "",
+    "storeSkuNumber": "318497955"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V Brushless Cordless 4-1/2 in. Paddle Switch Angle Grinder (Tool Only)",
+  "shortDescription": "18V Brushless Cordless 4-1/2 in. Paddle Switch Angle Grinder (Tool Only)",
+  "longDescription": "18V Brushless Cordless 4-1/2 in. Paddle Switch Angle Grinder (Tool Only)",
+  "pricing": {
+    "currentPrice": 139.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 582
+  },
+  "media": {
+    "primaryImage": "/products/318497955/ridgid-angle-grinders-r86047b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318497955/ridgid-angle-grinders-r86047b-64_100.jpg",
+        "altText": "18V Brushless Cordless 4-1/2 in. Paddle Switch Angle Grinder (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.687742"
+}

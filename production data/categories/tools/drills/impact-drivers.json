@@ -1,0 +1,135 @@
+{
+  "categoryId": "tools/drills/impact-drivers",
+  "name": "Impact Drivers",
+  "slug": "impact-drivers",
+  "path": "/categories/tools/drills/impact-drivers",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:07:23.902635",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Drills",
+      "url": "/tools/drills"
+    },
+    {
+      "label": "Impact Drivers",
+      "url": "/tools/drills/impact-drivers"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 4
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 2
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "336958932",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) 2.0 Ah Batteries, Charger and 18V 4.0 Ah Battery",
+      "rating": {
+        "average": 4.7383,
+        "count": 596
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97f9d85a-3ebf-4a1c-ba3e-5518d88493d6/svn/power-tool-combo-kits-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 268.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335290384",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Brushless Cordless Subcompact Drill and Impact Driver Kit with Hackzall and Multitool 4-Tool Kit",
+      "rating": {
+        "average": 4.4184,
+        "count": 1286
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af487d2f-6909-4dbf-9624-203f9b1e0c2d/svn/milwaukee-power-tool-combo-kits-3494-24-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987595",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) 1.5 Ah Batteries, and Charger",
+      "rating": {
+        "average": 4.6706,
+        "count": 5808
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0a572c1c-8c2c-4eda-b119-8df5de93975a/svn/ryobi-power-tool-combo-kits-pcl1200k2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203111686",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Drill Driver/Impact Driver Combo Kit with Two 1.5Ah Batteries, Charger and Bag (2-Tool)",
+      "rating": {
+        "average": 4.6524,
+        "count": 4732
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ba54b76f-3b94-4504-896e-3ba11700eebc/svn/milwaukee-power-tool-combo-kits-2494-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

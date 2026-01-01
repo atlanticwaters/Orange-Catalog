@@ -1,0 +1,45 @@
+{
+  "productId": "317722837",
+  "identifiers": {
+    "internetNumber": "317722837",
+    "modelNumber": "",
+    "storeSkuNumber": "317722837"
+  },
+  "brand": {
+    "name": "Summit Appliance",
+    "logoUrl": "images/brands/summit-appliance.svg"
+  },
+  "title": "2.7 cu. ft. 24 in. All-in-One Ventless Electric Washer Dryer Combo in Platinum",
+  "shortDescription": "2.7 cu. ft. 24 in. All-in-One Ventless Electric Washer Dryer Combo in Platinum",
+  "longDescription": "2.7 cu. ft. 24 in. All-in-One Ventless Electric Washer Dryer Combo in Platinum",
+  "pricing": {
+    "currentPrice": 1715.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.625,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/317722837/platinum-summit-appliance-all-in-one-washer-dryers-spwd2203pe-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317722837/platinum-summit-appliance-all-in-one-washer-dryers-spwd2203pe-64_100.jpg",
+        "altText": "2.7 cu. ft. 24 in. All-in-One Ventless Electric Washer Dryer Combo in Platinum",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.472548"
+}

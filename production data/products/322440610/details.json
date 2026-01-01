@@ -1,0 +1,45 @@
+{
+  "productId": "322440610",
+  "identifiers": {
+    "internetNumber": "322440610",
+    "modelNumber": "",
+    "storeSkuNumber": "322440610"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "10 ft. Triple Stalk Golden Cane Artificial Palm Tree",
+  "shortDescription": "10 ft. Triple Stalk Golden Cane Artificial Palm Tree",
+  "longDescription": "10 ft. Triple Stalk Golden Cane Artificial Palm Tree",
+  "pricing": {
+    "currentPrice": 208.12,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/322440610/nearly-natural-artificial-trees-t2395-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322440610/nearly-natural-artificial-trees-t2395-64_100.jpg",
+        "altText": "10 ft. Triple Stalk Golden Cane Artificial Palm Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.502651"
+}

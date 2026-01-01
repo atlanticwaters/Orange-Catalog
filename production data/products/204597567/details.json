@@ -1,0 +1,45 @@
+{
+  "productId": "204597567",
+  "identifiers": {
+    "internetNumber": "204597567",
+    "modelNumber": "",
+    "storeSkuNumber": "204597567"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Regular Duty 46 in. W x 72 in. H x 24 in. D 4-Shelf 22-Gauge Steel Freestanding Garage Storage Cabinet in Black and Gray",
+  "shortDescription": "Regular Duty 46 in. W x 72 in. H x 24 in. D 4-Shelf 22-Gauge Steel Freestanding Garage Storage Cabinet in Black and Gray",
+  "longDescription": "Regular Duty 46 in. W x 72 in. H x 24 in. D 4-Shelf 22-Gauge Steel Freestanding Garage Storage Cabinet in Black and Gray",
+  "pricing": {
+    "currentPrice": 629.1,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.8321,
+    "count": 1870
+  },
+  "media": {
+    "primaryImage": "/products/204597567/gray-black-husky-free-standing-cabinets-kf3f462472-h9-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204597567/gray-black-husky-free-standing-cabinets-kf3f462472-h9-64_100.jpg",
+        "altText": "Regular Duty 46 in. W x 72 in. H x 24 in. D 4-Shelf 22-Gauge Steel Freestanding Garage Storage Cabinet in Black and Gray",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.546988"
+}

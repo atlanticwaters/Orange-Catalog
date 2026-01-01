@@ -1,0 +1,45 @@
+{
+  "productId": "314339546",
+  "identifiers": {
+    "internetNumber": "314339546",
+    "modelNumber": "",
+    "storeSkuNumber": "314339546"
+  },
+  "brand": {
+    "name": "IDEAL",
+    "logoUrl": "images/brands/ideal.svg"
+  },
+  "title": "2-Post Car Lift Asymmetric/Symmetric Direct Drive 10,000 lbs. Capacity ALI Certified with PU",
+  "shortDescription": "2-Post Car Lift Asymmetric/Symmetric Direct Drive 10,000 lbs. Capacity ALI Certified with PU",
+  "longDescription": "2-Post Car Lift Asymmetric/Symmetric Direct Drive 10,000 lbs. Capacity ALI Certified with PU",
+  "pricing": {
+    "currentPrice": 5269.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/314339546/ideal-car-lifts-tp10kac-dx-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314339546/ideal-car-lifts-tp10kac-dx-64_100.jpg",
+        "altText": "2-Post Car Lift Asymmetric/Symmetric Direct Drive 10,000 lbs. Capacity ALI Certified with PU",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.549120"
+}

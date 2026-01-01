@@ -1,0 +1,45 @@
+{
+  "productId": "300113754",
+  "identifiers": {
+    "internetNumber": "300113754",
+    "modelNumber": "",
+    "storeSkuNumber": "300113754"
+  },
+  "brand": {
+    "name": "Estwing",
+    "logoUrl": "images/brands/estwing.svg"
+  },
+  "title": "Pneumatic 18-Gauge L-Cleat Flooring Nailer with Fiberglass Mallet and Padded Bag",
+  "shortDescription": "Pneumatic 18-Gauge L-Cleat Flooring Nailer with Fiberglass Mallet and Padded Bag",
+  "longDescription": "Pneumatic 18-Gauge L-Cleat Flooring Nailer with Fiberglass Mallet and Padded Bag",
+  "pricing": {
+    "currentPrice": 258.96,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.9231,
+    "count": 13
+  },
+  "media": {
+    "primaryImage": "/products/300113754/estwing-floor-nailers-ef18glcn-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300113754/estwing-floor-nailers-ef18glcn-64_100.jpg",
+        "altText": "Pneumatic 18-Gauge L-Cleat Flooring Nailer with Fiberglass Mallet and Padded Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.511801"
+}

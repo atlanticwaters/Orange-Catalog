@@ -1,0 +1,45 @@
+{
+  "productId": "306939211",
+  "identifiers": {
+    "internetNumber": "306939211",
+    "modelNumber": "",
+    "storeSkuNumber": "306939211"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "14 Amp Corded 10 in. Compound Miter Saw with LED Cutline Indicator",
+  "shortDescription": "14 Amp Corded 10 in. Compound Miter Saw with LED Cutline Indicator",
+  "longDescription": "14 Amp Corded 10 in. Compound Miter Saw with LED Cutline Indicator",
+  "pricing": {
+    "currentPrice": 179.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5664,
+    "count": 1612
+  },
+  "media": {
+    "primaryImage": "/products/306939211/ryobi-miter-saws-ts1346-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/306939211/ryobi-miter-saws-ts1346-64_100.jpg",
+        "altText": "14 Amp Corded 10 in. Compound Miter Saw with LED Cutline Indicator",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.672239"
+}

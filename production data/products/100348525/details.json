@@ -1,0 +1,45 @@
+{
+  "productId": "100348525",
+  "identifiers": {
+    "internetNumber": "100348525",
+    "modelNumber": "",
+    "storeSkuNumber": "100348525"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "Pneumatic 30 to 34-Degree 3-1/2 in. Clipped Head Framing Nailer",
+  "shortDescription": "Pneumatic 30 to 34-Degree 3-1/2 in. Clipped Head Framing Nailer",
+  "longDescription": "Pneumatic 30 to 34-Degree 3-1/2 in. Clipped Head Framing Nailer",
+  "pricing": {
+    "currentPrice": 209.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4393,
+    "count": 107
+  },
+  "media": {
+    "primaryImage": "/products/100348525/ridgid-framing-nailers-r350chd-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100348525/ridgid-framing-nailers-r350chd-64_100.jpg",
+        "altText": "Pneumatic 30 to 34-Degree 3-1/2 in. Clipped Head Framing Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.484631"
+}

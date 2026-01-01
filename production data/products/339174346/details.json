@@ -1,0 +1,45 @@
+{
+  "productId": "339174346",
+  "identifiers": {
+    "internetNumber": "339174346",
+    "modelNumber": "",
+    "storeSkuNumber": "339174346"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "4.5 cu. ft. High-Efficiency Washer with Self-Clean+ and 7.5 cu. ft. Dryer with Sensor Dry, Brushed Black Set",
+  "shortDescription": "4.5 cu. ft. High-Efficiency Washer with Self-Clean+ and 7.5 cu. ft. Dryer with Sensor Dry, Brushed Black Set",
+  "longDescription": "4.5 cu. ft. High-Efficiency Washer with Self-Clean+ and 7.5 cu. ft. Dryer with Sensor Dry, Brushed Black Set",
+  "pricing": {
+    "currentPrice": 1358.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4204,
+    "count": 3240
+  },
+  "media": {
+    "primaryImage": "/products/339174346/samsung-front-load-washer-dryer-sets-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/339174346/samsung-front-load-washer-dryer-sets-64_100.jpg",
+        "altText": "4.5 cu. ft. High-Efficiency Washer with Self-Clean+ and 7.5 cu. ft. Dryer with Sensor Dry, Brushed Black Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.457627"
+}

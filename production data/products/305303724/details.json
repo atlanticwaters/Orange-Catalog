@@ -1,0 +1,45 @@
+{
+  "productId": "305303724",
+  "identifiers": {
+    "internetNumber": "305303724",
+    "modelNumber": "",
+    "storeSkuNumber": "305303724"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "1/4 in. NPT Inline Desiccant Dryer",
+  "shortDescription": "1/4 in. NPT Inline Desiccant Dryer",
+  "longDescription": "1/4 in. NPT Inline Desiccant Dryer",
+  "pricing": {
+    "currentPrice": 14.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.1778,
+    "count": 45
+  },
+  "media": {
+    "primaryImage": "/products/305303724/husky-compressor-accessories-hda72300-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305303724/husky-compressor-accessories-hda72300-64_100.jpg",
+        "altText": "1/4 in. NPT Inline Desiccant Dryer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.505216"
+}

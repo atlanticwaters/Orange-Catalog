@@ -1,0 +1,45 @@
+{
+  "productId": "300941984",
+  "identifiers": {
+    "internetNumber": "300941984",
+    "modelNumber": "",
+    "storeSkuNumber": "300941984"
+  },
+  "brand": {
+    "name": "Litton Lane",
+    "logoUrl": "images/brands/litton-lane.svg"
+  },
+  "title": "36 in. x 24 in. Brown Metal Industrial Round Wall Mirror (Set of 2)",
+  "shortDescription": "36 in. x 24 in. Brown Metal Industrial Round Wall Mirror (Set of 2)",
+  "longDescription": "36 in. x 24 in. Brown Metal Industrial Round Wall Mirror (Set of 2)",
+  "pricing": {
+    "currentPrice": 74.3,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/300941984/litton-lane-wall-mirrors-69289-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300941984/litton-lane-wall-mirrors-69289-64_100.jpg",
+        "altText": "36 in. x 24 in. Brown Metal Industrial Round Wall Mirror (Set of 2)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.569986"
+}

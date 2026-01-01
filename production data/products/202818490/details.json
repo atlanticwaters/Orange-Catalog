@@ -1,0 +1,45 @@
+{
+  "productId": "202818490",
+  "identifiers": {
+    "internetNumber": "202818490",
+    "modelNumber": "",
+    "storeSkuNumber": "202818490"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "15.4 lbs. Heavy Duty Work Stand with Miter Saw Mounting Brackets",
+  "shortDescription": "15.4 lbs. Heavy Duty Work Stand with Miter Saw Mounting Brackets",
+  "longDescription": "15.4 lbs. Heavy Duty Work Stand with Miter Saw Mounting Brackets",
+  "pricing": {
+    "currentPrice": 126.31,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6331,
+    "count": 338
+  },
+  "media": {
+    "primaryImage": "/products/202818490/dewalt-tool-stands-dwx725b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202818490/dewalt-tool-stands-dwx725b-64_100.jpg",
+        "altText": "15.4 lbs. Heavy Duty Work Stand with Miter Saw Mounting Brackets",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.685692"
+}

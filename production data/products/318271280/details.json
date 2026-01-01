@@ -1,0 +1,45 @@
+{
+  "productId": "318271280",
+  "identifiers": {
+    "internetNumber": "318271280",
+    "modelNumber": "",
+    "storeSkuNumber": "318271280"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "30-Ton Bottle Car Jack",
+  "shortDescription": "30-Ton Bottle Car Jack",
+  "longDescription": "30-Ton Bottle Car Jack",
+  "pricing": {
+    "currentPrice": 99.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3677,
+    "count": 514
+  },
+  "media": {
+    "primaryImage": "/products/318271280/husky-bottle-jacks-hpl30b-dip-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318271280/husky-bottle-jacks-hpl30b-dip-64_100.jpg",
+        "altText": "30-Ton Bottle Car Jack",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.537610"
+}

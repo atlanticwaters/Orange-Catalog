@@ -1,0 +1,45 @@
+{
+  "productId": "305057132",
+  "identifiers": {
+    "internetNumber": "305057132",
+    "modelNumber": "",
+    "storeSkuNumber": "305057132"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "23.5 in. x 17.5 in. Universal Stationary Compact Folding Table Saw Stand",
+  "shortDescription": "23.5 in. x 17.5 in. Universal Stationary Compact Folding Table Saw Stand",
+  "longDescription": "23.5 in. x 17.5 in. Universal Stationary Compact Folding Table Saw Stand",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2921,
+    "count": 380
+  },
+  "media": {
+    "primaryImage": "/products/305057132/milwaukee-tool-stands-48-08-0561-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305057132/milwaukee-tool-stands-48-08-0561-64_100.jpg",
+        "altText": "23.5 in. x 17.5 in. Universal Stationary Compact Folding Table Saw Stand",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.685604"
+}

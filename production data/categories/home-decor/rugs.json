@@ -1,0 +1,344 @@
+{
+  "categoryId": "home-decor/rugs",
+  "name": "Rugs",
+  "slug": "rugs",
+  "path": "/categories/home-decor/rugs",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.727052",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Home Decor",
+      "url": "/home-decor"
+    },
+    {
+      "label": "Rugs",
+      "url": "/home-decor/rugs"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 13
+  },
+  "featuredBrands": [
+    {
+      "brandId": "loomaknoti",
+      "brandName": "LOOMAKNOTI",
+      "logoUrl": "images/brands/loomaknoti.svg",
+      "count": 5
+    },
+    {
+      "brandId": "safavieh",
+      "brandName": "SAFAVIEH",
+      "logoUrl": "images/brands/safavieh.svg",
+      "count": 3
+    },
+    {
+      "brandId": "loloi",
+      "brandName": "Loloi",
+      "logoUrl": "images/brands/loloi.svg",
+      "count": 1
+    },
+    {
+      "brandId": "addison-rugs",
+      "brandName": "Addison Rugs",
+      "logoUrl": "images/brands/addison-rugs.svg",
+      "count": 1
+    },
+    {
+      "brandId": "nuloom",
+      "brandName": "nuLOOM",
+      "logoUrl": "images/brands/nuloom.svg",
+      "count": 1
+    },
+    {
+      "brandId": "dash-albert",
+      "brandName": "DASH & ALBERT",
+      "logoUrl": "images/brands/dash-albert.svg",
+      "count": 1
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "301603303",
+      "modelNumber": "",
+      "brand": "SAFAVIEH",
+      "title": "Mahal Red/Natural 2 ft. x 20 ft. Border Runner Rug",
+      "rating": {
+        "average": 4.4691,
+        "count": 81
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/46813bbe-86f9-4c11-a6ae-a8ed97745045/svn/red-natural-safavieh-area-rugs-mah698a-220-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 130.2,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330202502",
+      "modelNumber": "",
+      "brand": "SAFAVIEH",
+      "title": "Arizona Light Rust/Beige 3 ft. x 8 ft. Distressed Border Ornate Machine Washable Runner Rug",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/532aa2da-faf6-4cf7-a794-8876a7c2bdeb/svn/light-rust-beige-safavieh-area-rugs-arz913p-28-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 40.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329757665",
+      "modelNumber": "",
+      "brand": "Loloi",
+      "title": "Vance Denim/Dove 2 ft. 7 in. x 10 ft. Traditional Fringed Runner Area Rug",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5617af15-1f84-5da6-be45-ab1b1ccc02f6/svn/denim-dove-loloi-area-rugs-vancvan-03dedv27a0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 103.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327934744",
+      "modelNumber": "",
+      "brand": "Addison Rugs",
+      "title": "Chantille ACN581 Blue 5 ft. x 7 ft. 6 in. Machine Washable Indoor/Outdoor Geometric Area Rug",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1e5603e4-8fb6-5441-bc3c-c50f71f4fb8d/svn/blue-addison-rugs-area-rugs-acn581bu5x8-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 110.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310202058",
+      "modelNumber": "",
+      "brand": "SAFAVIEH",
+      "title": "Vision Silver 4 ft. x 4 ft. Round Solid Area Rug",
+      "rating": {
+        "average": 4.4736,
+        "count": 435
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4297b38c-8c7a-4555-a001-e7713546695e/svn/silver-safavieh-area-rugs-vsn606g-4r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 55.68,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322721465",
+      "modelNumber": "",
+      "brand": "LOOMAKNOTI",
+      "title": "Alsbrooke Delary Cream 6 ft. 7 in. x 9 ft. 2 in. Oriental Polypropylene Area Rug",
+      "rating": {
+        "average": 5.0,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59122df5-7d36-4e2a-ad32-ec54554183d8/svn/cream-loomaknoti-area-rugs-ea005-167-60-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322724800",
+      "modelNumber": "",
+      "brand": "LOOMAKNOTI",
+      "title": "Rhane Valeina Gray 9 ft. 10 in. x 12 ft. 10 in. Oriental Polypropylene Area Rug",
+      "rating": {
+        "average": 5.0,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/23bb6c06-55df-40e6-b762-81783e492185/svn/gray-loomaknoti-area-rugs-er004-61-85-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 258.02,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324546530",
+      "modelNumber": "",
+      "brand": "LOOMAKNOTI",
+      "title": "Tecopa Tenavon Blue 4 ft. x 6 ft. Floral Polypropylene Indoor/Outdoor Area Rug",
+      "rating": {
+        "average": 4.875,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fe195648-d2dc-45dc-a0af-9927574c06e9/svn/white-loomaknoti-area-rugs-etr17bwh50-084-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 56.81,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332324713",
+      "modelNumber": "",
+      "brand": "nuLOOM",
+      "title": "Philomena Medallion Spill Proof Machine Washable Area Rug Sage Green 5' ft. x 8' ft. Area Rug",
+      "rating": {
+        "average": 4.8571,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e53baef0-c3f5-459f-b185-b810cd78f333/svn/sage-green-nuloom-area-rugs-hjth22c-508-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322724978",
+      "modelNumber": "",
+      "brand": "LOOMAKNOTI",
+      "title": "Rhane Alemern Gray 9 ft. 10 in. x 12 ft. 10 in. Oriental Polypropylene Area Rug",
+      "rating": {
+        "average": 4.8571,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/db723128-9d91-486f-b4e4-b8266eb21587/svn/cream-loomaknoti-area-rugs-er019-198-85-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 228.93,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322051494",
+      "modelNumber": "",
+      "brand": "LOOMAKNOTI",
+      "title": "Kissandrah Bayrend Gray 9 ft. 10 in. x 12 ft. 10 in. Geometric Polypropylene Area Rug",
+      "rating": {
+        "average": 4.75,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/26ae979b-a387-447a-a6ea-33da1476c924/svn/gray-loomaknoti-area-rugs-eki005-213-85-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 225.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335869573",
+      "modelNumber": "",
+      "brand": "DASH & ALBERT",
+      "title": "Jelly Roll Machine Washable Sky 3 ft. x 5 ft. Indoor Area Rug",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1e8696ed-c989-4a9c-a928-9debc725735a/svn/sky-dash-albert-area-rugs-da2178-35-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 98.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332036754",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Thick Realistic 5 ft. x 8 ft. Green Outdoor Artificial Grass Runner Rug, Grass Roll Decor Patio Balcony Garden Lawn",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37d9248e-f826-4d5e-abab-0eac92fab1cb/svn/artificial-grass-plants-xz-p185861-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 115.04,
+        "currency": "USD"
+      }
+    }
+  ]
+}

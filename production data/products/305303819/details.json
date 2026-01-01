@@ -1,0 +1,45 @@
+{
+  "productId": "305303819",
+  "identifiers": {
+    "internetNumber": "305303819",
+    "modelNumber": "",
+    "storeSkuNumber": "305303819"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "High Flow Aluminum Coupler Plug Set",
+  "shortDescription": "High Flow Aluminum Coupler Plug Set",
+  "longDescription": "High Flow Aluminum Coupler Plug Set",
+  "pricing": {
+    "currentPrice": 18.28,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.534,
+    "count": 103
+  },
+  "media": {
+    "primaryImage": "/products/305303819/husky-air-tool-fittings-hda22500-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305303819/husky-air-tool-fittings-hda22500-64_100.jpg",
+        "altText": "High Flow Aluminum Coupler Plug Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.621374"
+}

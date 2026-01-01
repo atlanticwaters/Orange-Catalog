@@ -1,0 +1,45 @@
+{
+  "productId": "316436689",
+  "identifiers": {
+    "internetNumber": "316436689",
+    "modelNumber": "",
+    "storeSkuNumber": "316436689"
+  },
+  "brand": {
+    "name": "Karl home",
+    "logoUrl": "images/brands/karl-home.svg"
+  },
+  "title": "21.26 in. 14.3 lbs. Portable Top Load Semi-Automatic Twin Tube Washing Machine in White",
+  "shortDescription": "21.26 in. 14.3 lbs. Portable Top Load Semi-Automatic Twin Tube Washing Machine in White",
+  "longDescription": "21.26 in. 14.3 lbs. Portable Top Load Semi-Automatic Twin Tube Washing Machine in White",
+  "pricing": {
+    "currentPrice": 105.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.2838,
+    "count": 74
+  },
+  "media": {
+    "primaryImage": "/products/316436689/gray-karl-home-portable-washing-machines-065436139670-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316436689/gray-karl-home-portable-washing-machines-065436139670-64_100.jpg",
+        "altText": "21.26 in. 14.3 lbs. Portable Top Load Semi-Automatic Twin Tube Washing Machine in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.586110"
+}

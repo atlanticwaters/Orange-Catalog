@@ -1,0 +1,45 @@
+{
+  "productId": "205829437",
+  "identifiers": {
+    "internetNumber": "205829437",
+    "modelNumber": "",
+    "storeSkuNumber": "205829437"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "Rose Artificial Arrangement with Vase",
+  "shortDescription": "Rose Artificial Arrangement with Vase",
+  "longDescription": "Rose Artificial Arrangement with Vase",
+  "pricing": {
+    "currentPrice": 43.26,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/205829437/nearly-natural-artificial-flowers-1367-lp-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205829437/nearly-natural-artificial-flowers-1367-lp-64_100.jpg",
+        "altText": "Rose Artificial Arrangement with Vase",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.530788"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "207086142",
+  "identifiers": {
+    "internetNumber": "207086142",
+    "modelNumber": "",
+    "storeSkuNumber": "207086142"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "Pneumatic 28-Degree Corded Framing Nailer",
+  "shortDescription": "Pneumatic 28-Degree Corded Framing Nailer",
+  "longDescription": "Pneumatic 28-Degree Corded Framing Nailer",
+  "pricing": {
+    "currentPrice": 269.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4828,
+    "count": 58
+  },
+  "media": {
+    "primaryImage": "/products/207086142/dewalt-framing-nailers-dwf83ww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/207086142/dewalt-framing-nailers-dwf83ww-64_100.jpg",
+        "altText": "Pneumatic 28-Degree Corded Framing Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.484732"
+}

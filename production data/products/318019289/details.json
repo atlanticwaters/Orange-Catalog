@@ -1,0 +1,45 @@
+{
+  "productId": "318019289",
+  "identifiers": {
+    "internetNumber": "318019289",
+    "modelNumber": "",
+    "storeSkuNumber": "318019289"
+  },
+  "brand": {
+    "name": "LIVING LUXURY",
+    "logoUrl": "images/brands/living-luxury.svg"
+  },
+  "title": "25 in. Green Yellow Sansevieria Artificial Snake Plant in Grey Pot",
+  "shortDescription": "25 in. Green Yellow Sansevieria Artificial Snake Plant in Grey Pot",
+  "longDescription": "25 in. Green Yellow Sansevieria Artificial Snake Plant in Grey Pot",
+  "pricing": {
+    "currentPrice": 87.72,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/318019289/living-luxury-artificial-tropical-plants-60375-gr-yl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318019289/living-luxury-artificial-tropical-plants-60375-gr-yl-64_100.jpg",
+        "altText": "25 in. Green Yellow Sansevieria Artificial Snake Plant in Grey Pot",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.610283"
+}

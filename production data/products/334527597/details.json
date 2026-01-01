@@ -1,0 +1,45 @@
+{
+  "productId": "334527597",
+  "identifiers": {
+    "internetNumber": "334527597",
+    "modelNumber": "",
+    "storeSkuNumber": "334527597"
+  },
+  "brand": {
+    "name": "Defiant",
+    "logoUrl": "images/brands/defiant.svg"
+  },
+  "title": "250-Lumens 2-in 1 Multi-functional Rechargeable Utility light with String Light",
+  "shortDescription": "250-Lumens 2-in 1 Multi-functional Rechargeable Utility light with String Light",
+  "longDescription": "250-Lumens 2-in 1 Multi-functional Rechargeable Utility light with String Light",
+  "pricing": {
+    "currentPrice": 14.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6538,
+    "count": 52
+  },
+  "media": {
+    "primaryImage": "/products/334527597/defiant-handheld-spotlights-91645-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334527597/defiant-handheld-spotlights-91645-64_100.jpg",
+        "altText": "250-Lumens 2-in 1 Multi-functional Rechargeable Utility light with String Light",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.632131"
+}

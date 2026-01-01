@@ -1,0 +1,45 @@
+{
+  "productId": "307336656",
+  "identifiers": {
+    "internetNumber": "307336656",
+    "modelNumber": "",
+    "storeSkuNumber": "307336656"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Classic Mid Century Modern 1-Drawer Walnut Solid Wood Nightstand Side Table",
+  "shortDescription": "Classic Mid Century Modern 1-Drawer Walnut Solid Wood Nightstand Side Table",
+  "longDescription": "Classic Mid Century Modern 1-Drawer Walnut Solid Wood Nightstand Side Table",
+  "pricing": {
+    "currentPrice": 99.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9329,
+    "count": 298
+  },
+  "media": {
+    "primaryImage": "/products/307336656/walnut-nightstands-hdr1dnswt-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/307336656/walnut-nightstands-hdr1dnswt-64_100.jpg",
+        "altText": "Classic Mid Century Modern 1-Drawer Walnut Solid Wood Nightstand Side Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.581892"
+}

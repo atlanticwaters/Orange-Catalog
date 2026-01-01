@@ -1,0 +1,45 @@
+{
+  "productId": "202947987",
+  "identifiers": {
+    "internetNumber": "202947987",
+    "modelNumber": "",
+    "storeSkuNumber": "202947987"
+  },
+  "brand": {
+    "name": "Powermate",
+    "logoUrl": "images/brands/powermate.svg"
+  },
+  "title": "1 qt. Air Compressor Oil",
+  "shortDescription": "1 qt. Air Compressor Oil",
+  "longDescription": "1 qt. Air Compressor Oil",
+  "pricing": {
+    "currentPrice": 13.22,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 22
+  },
+  "media": {
+    "primaryImage": "/products/202947987/powermate-air-compressor-oils-018-0060ct-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202947987/powermate-air-compressor-oils-018-0060ct-64_100.jpg",
+        "altText": "1 qt. Air Compressor Oil",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.497921"
+}

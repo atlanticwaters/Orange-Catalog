@@ -1,0 +1,45 @@
+{
+  "productId": "332358611",
+  "identifiers": {
+    "internetNumber": "332358611",
+    "modelNumber": "",
+    "storeSkuNumber": "332358611"
+  },
+  "brand": {
+    "name": "poetree",
+    "logoUrl": "images/brands/poetree.svg"
+  },
+  "title": "71 in. Green Artificial Cedar Tree in Pot",
+  "shortDescription": "71 in. Green Artificial Cedar Tree in Pot",
+  "longDescription": "71 in. Green Artificial Cedar Tree in Pot",
+  "pricing": {
+    "currentPrice": 161.91,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4
+  },
+  "media": {
+    "primaryImage": "/products/332358611/poetree-artificial-topiaries-hdsbs-1-8m-2-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332358611/poetree-artificial-topiaries-hdsbs-1-8m-2-64_100.jpg",
+        "altText": "71 in. Green Artificial Cedar Tree in Pot",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.526670"
+}

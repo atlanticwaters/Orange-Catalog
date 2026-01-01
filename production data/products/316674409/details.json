@@ -1,0 +1,45 @@
+{
+  "productId": "316674409",
+  "identifiers": {
+    "internetNumber": "316674409",
+    "modelNumber": "",
+    "storeSkuNumber": "316674409"
+  },
+  "brand": {
+    "name": "Vissani",
+    "logoUrl": "images/brands/vissani.svg"
+  },
+  "title": "18.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+  "shortDescription": "18.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+  "longDescription": "18.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+  "pricing": {
+    "currentPrice": 699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2372,
+    "count": 957
+  },
+  "media": {
+    "primaryImage": "/products/316674409/stainless-steel-vissani-bottom-freezer-refrigerators-mdbf18ss-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316674409/stainless-steel-vissani-bottom-freezer-refrigerators-mdbf18ss-64_100.jpg",
+        "altText": "18.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.430841"
+}

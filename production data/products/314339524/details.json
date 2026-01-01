@@ -1,0 +1,45 @@
+{
+  "productId": "314339524",
+  "identifiers": {
+    "internetNumber": "314339524",
+    "modelNumber": "",
+    "storeSkuNumber": "314339524"
+  },
+  "brand": {
+    "name": "TUXEDO",
+    "logoUrl": "images/brands/tuxedo.svg"
+  },
+  "title": "Bi-Symmetric 2 Post Car Lift Direct Drive 3 Stage Single Point 11,000 lbs.",
+  "shortDescription": "Bi-Symmetric 2 Post Car Lift Direct Drive 3 Stage Single Point 11,000 lbs.",
+  "longDescription": "Bi-Symmetric 2 Post Car Lift Direct Drive 3 Stage Single Point 11,000 lbs.",
+  "pricing": {
+    "currentPrice": 4770.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.875,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/314339524/tuxedo-car-lifts-tp11kc-dx-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314339524/tuxedo-car-lifts-tp11kc-dx-64_100.jpg",
+        "altText": "Bi-Symmetric 2 Post Car Lift Direct Drive 3 Stage Single Point 11,000 lbs.",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.549186"
+}

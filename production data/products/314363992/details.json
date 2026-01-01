@@ -1,0 +1,45 @@
+{
+  "productId": "314363992",
+  "identifiers": {
+    "internetNumber": "314363992",
+    "modelNumber": "",
+    "storeSkuNumber": "314363992"
+  },
+  "brand": {
+    "name": "Picket House Furnishings",
+    "logoUrl": "images/brands/picket-house-furnishings.svg"
+  },
+  "title": "Brooks Antique White 3 Drawer 28 in. Wide Nightstand",
+  "shortDescription": "Brooks Antique White 3 Drawer 28 in. Wide Nightstand",
+  "longDescription": "Brooks Antique White 3 Drawer 28 in. Wide Nightstand",
+  "pricing": {
+    "currentPrice": 200.39,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6667,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/314363992/antique-white-picket-house-furnishings-nightstands-sr600ns-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314363992/antique-white-picket-house-furnishings-nightstands-sr600ns-64_100.jpg",
+        "altText": "Brooks Antique White 3 Drawer 28 in. Wide Nightstand",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.581238"
+}

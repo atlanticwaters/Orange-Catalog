@@ -1,0 +1,45 @@
+{
+  "productId": "205647692",
+  "identifiers": {
+    "internetNumber": "205647692",
+    "modelNumber": "",
+    "storeSkuNumber": "205647692"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "18-Gauge Pneumatic Brad Nailer",
+  "shortDescription": "18-Gauge Pneumatic Brad Nailer",
+  "longDescription": "18-Gauge Pneumatic Brad Nailer",
+  "pricing": {
+    "currentPrice": 129.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4863,
+    "count": 1098
+  },
+  "media": {
+    "primaryImage": "/products/205647692/dewalt-brad-nailers-dwfp12233-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205647692/dewalt-brad-nailers-dwfp12233-64_100.jpg",
+        "altText": "18-Gauge Pneumatic Brad Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.464829"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "305269932",
+  "identifiers": {
+    "internetNumber": "305269932",
+    "modelNumber": "",
+    "storeSkuNumber": "305269932"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "18V ONE+ Cordless 1 Gal. Portable Horizontal Air Compressor with 120 PSI Maximum Pressure (Tool Only)",
+  "shortDescription": "18V ONE+ Cordless 1 Gal. Portable Horizontal Air Compressor with 120 PSI Maximum Pressure (Tool Only)",
+  "longDescription": "18V ONE+ Cordless 1 Gal. Portable Horizontal Air Compressor with 120 PSI Maximum Pressure (Tool Only)",
+  "pricing": {
+    "currentPrice": 169.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4108,
+    "count": 1217
+  },
+  "media": {
+    "primaryImage": "/products/305269932/ryobi-portable-air-compressors-p739-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305269932/ryobi-portable-air-compressors-p739-64_100.jpg",
+        "altText": "18V ONE+ Cordless 1 Gal. Portable Horizontal Air Compressor with 120 PSI Maximum Pressure (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.574817"
+}

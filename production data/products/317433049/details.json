@@ -1,0 +1,45 @@
+{
+  "productId": "317433049",
+  "identifiers": {
+    "internetNumber": "317433049",
+    "modelNumber": "",
+    "storeSkuNumber": "317433049"
+  },
+  "brand": {
+    "name": "Bernzomatic",
+    "logoUrl": "images/brands/bernzomatic.svg"
+  },
+  "title": "Firestarter Blaze Torch Compatible with 20 lb. Propane Tank with Adjustable Wide Brush Flame and Spark Lighter",
+  "shortDescription": "Firestarter Blaze Torch Compatible with 20 lb. Propane Tank with Adjustable Wide Brush Flame and Spark Lighter",
+  "longDescription": "Firestarter Blaze Torch Compatible with 20 lb. Propane Tank with Adjustable Wide Brush Flame and Spark Lighter",
+  "pricing": {
+    "currentPrice": 66.63,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1259,
+    "count": 278
+  },
+  "media": {
+    "primaryImage": "/products/317433049/bernzomatic-torches-tanks-jt855-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317433049/bernzomatic-torches-tanks-jt855-64_100.jpg",
+        "altText": "Firestarter Blaze Torch Compatible with 20 lb. Propane Tank with Adjustable Wide Brush Flame and Spark Lighter",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.665573"
+}

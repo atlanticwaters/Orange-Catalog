@@ -1,0 +1,755 @@
+{
+  "categoryId": "automotive/jacks-lifts",
+  "name": "Jacks Lifts",
+  "slug": "jacks-lifts",
+  "path": "/categories/automotive/jacks-lifts",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.715814",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Automotive",
+      "url": "/automotive"
+    },
+    {
+      "label": "Jacks Lifts",
+      "url": "/automotive/jacks-lifts"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 32
+  },
+  "featuredBrands": [
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 12
+    },
+    {
+      "brandId": "tuxedo",
+      "brandName": "TUXEDO",
+      "logoUrl": "images/brands/tuxedo.svg",
+      "count": 6
+    },
+    {
+      "brandId": "skyshalo",
+      "brandName": "SKYSHALO",
+      "logoUrl": "images/brands/skyshalo.svg",
+      "count": 4
+    },
+    {
+      "brandId": "bendpak",
+      "brandName": "BENDPAK",
+      "logoUrl": "images/brands/bendpak.svg",
+      "count": 3
+    },
+    {
+      "brandId": "quickjack",
+      "brandName": "QUICKJACK",
+      "logoUrl": "images/brands/quickjack.svg",
+      "count": 2
+    },
+    {
+      "brandId": "ideal",
+      "brandName": "IDEAL",
+      "logoUrl": "images/brands/ideal.svg",
+      "count": 2
+    },
+    {
+      "brandId": "big-red",
+      "brandName": "Big Red",
+      "logoUrl": "images/brands/big-red.svg",
+      "count": 1
+    },
+    {
+      "brandId": "max-jax",
+      "brandName": "MAX JAX",
+      "logoUrl": "images/brands/max-jax.svg",
+      "count": 1
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "311259745",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "2-Ton Hydraulic Trolley Car Jack",
+      "rating": {
+        "average": 3.9614,
+        "count": 544
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/36f3a3ca-eac9-4d4b-bf6f-d5a083b364a3/svn/black-husky-floor-jacks-hpl4136-vt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315635318",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Car Jack Stands",
+      "rating": {
+        "average": 4.4314,
+        "count": 612
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6c604ed5-9316-4cef-b707-8673a05a487b/svn/black-husky-jack-stands-hpl4124-zd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308174827",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "6-Ton Hydraulic Bottle Car Jack",
+      "rating": {
+        "average": 4.3677,
+        "count": 514
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e1b98e60-7de1-4b7f-9eda-65306d8fe2d6/svn/husky-bottle-jacks-hpl6b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 32.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334562975",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift",
+      "rating": {
+        "average": 4.6298,
+        "count": 994
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4f96b366-0421-423a-b1af-f9975e7b1afb/svn/black-husky-floor-jacks-hd00120n-hv-th-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318271372",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "2.5-Ton Pro Low Profile Floor Jack",
+      "rating": {
+        "average": 4.6352,
+        "count": 973
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8dca6615-6c69-4bb5-a73d-394492aab78f/svn/black-husky-floor-jacks-hpl4121-dip-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308174828",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "20-Ton Hydraulic Bottle Car Jack",
+      "rating": {
+        "average": 4.3677,
+        "count": 514
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7ecc5338-6781-48d8-9a68-4906335b82e9/svn/husky-bottle-jacks-hpl20b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339352607",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift with 12 in. 4 Pocket Zippered Tool Bag",
+      "rating": {
+        "average": 4.7897,
+        "count": 642
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d469b24e-738d-4dc7-9b09-096c112b5eaa/svn/husky-jack-stands-hd0012060012-bd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 148.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339421685",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift with 14 in. 13 Pocket Rolling Tool Bag",
+      "rating": {
+        "average": 4.7215,
+        "count": 395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8712457e-f11c-4dfa-ad16-993e8dbc948a/svn/husky-jack-stands-hd0012065014-bd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 218.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339421714",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift and Jack Stands",
+      "rating": {
+        "average": 4.4525,
+        "count": 179
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f731892f-bb66-4e70-aee5-3136b4c3bae1/svn/husky-floor-jacks-hd00120-bd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 188.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315530068",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Aluminum/Steel Floor Jack",
+      "rating": {
+        "average": 4.4695,
+        "count": 164
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c41d6eac-757c-437b-a475-40613d231396/svn/black-husky-floor-jacks-hpl4751-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307789471",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-1/2-Ton Low Profile Floor Jack with Quick Lift",
+      "rating": {
+        "average": 4.614,
+        "count": 171
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f56fd346-fff8-4279-8d89-886d20c39229/svn/black-husky-floor-jacks-hd4795-dip-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 246.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318271280",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "30-Ton Bottle Car Jack",
+      "rating": {
+        "average": 4.3677,
+        "count": 514
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0692f348-dabb-4c3f-bee5-433033497440/svn/husky-bottle-jacks-hpl30b-dip-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100594524",
+      "modelNumber": "",
+      "brand": "Big Red",
+      "title": "6-Ton Double-Locking Jack Stands (2-Pack)",
+      "rating": {
+        "average": 4.5568,
+        "count": 185
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/84c3decc-6d29-4102-af3a-39c8cce2b262/svn/red-big-red-jack-stands-t46002c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 63.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334358869",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Car Lift, 7,000 lbs. Capacity Portable Car Lift, with Extended-Length Plates, 26. 8 in. Max. Height, Heavy-duty Steel",
+      "rating": {
+        "average": 4.1667,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d59cea94-3e0a-4ce9-b897-d3b74225149e/svn/skyshalo-car-lifts-qcsjjzg7000lb9kl9v1-s0110-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1465.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335976058",
+      "modelNumber": "",
+      "brand": "QUICKJACK",
+      "title": "6000TL Portable Car Lift 6000 lb. Capacity with 110V Power Unit Included",
+      "rating": {
+        "average": 4.3861,
+        "count": 101
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a19550a0-3bdc-4f7b-9d2d-77b7365428cc/svn/quickjack-car-lifts-5175626-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2213.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319497124",
+      "modelNumber": "",
+      "brand": "QUICKJACK",
+      "title": "5000TL Portable Car Lift with 110V Power Unit Included",
+      "rating": {
+        "average": 4.597,
+        "count": 722
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c51ddbad-93ad-4d89-a9f4-ef3ef4353b82/svn/quickjack-car-lifts-5175630-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1925.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325002915",
+      "modelNumber": "",
+      "brand": "MAX JAX",
+      "title": "MK7 Symmetric Portable 2 Post Car Lift with 7,000 lbs. Weight Capacity and 110V Power Unit Included",
+      "rating": {
+        "average": 4.6413,
+        "count": 92
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a54396c1-62a2-441c-a19f-4b29c10f6fba/svn/max-jax-car-lifts-5175548-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5039.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339510",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Storage 4-Post Car Lift 9,000 lbs. Extended Length/Height - With Poly Casters, Drip Trays, Jack Tray",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/352d9f8d-25f0-466c-91b9-144f85943264/svn/tuxedo-car-lifts-fp9k-dx-xlt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5650.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321886360",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "iDEAL Mobile Column Car Lift, 4 Column Set, 52,000 lbs.",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6189bc76-7f1e-40c9-b24b-474d08eb4a32/svn/car-lifts-msc-13k-b-452-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36883.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339545",
+      "modelNumber": "",
+      "brand": "IDEAL",
+      "title": "Mobile Single Column Car Lift 6,000 lbs. Capacity Heavy Duty Model With Stackable Extensions included",
+      "rating": {
+        "average": 4.375,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6cf818e5-acbb-4b7e-b113-53d593f473cd/svn/ideal-car-lifts-msc-6klp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5610.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339546",
+      "modelNumber": "",
+      "brand": "IDEAL",
+      "title": "2-Post Car Lift Asymmetric/Symmetric Direct Drive 10,000 lbs. Capacity ALI Certified with PU",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d89951bd-f0ea-4b2d-835e-641fa640f4cd/svn/ideal-car-lifts-tp10kac-dx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5269.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339524",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Bi-Symmetric 2 Post Car Lift Direct Drive 3 Stage Single Point 11,000 lbs.",
+      "rating": {
+        "average": 4.875,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/afce9c04-2467-46a5-80bc-756e06ae12bd/svn/tuxedo-car-lifts-tp11kc-dx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4770.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327329410",
+      "modelNumber": "",
+      "brand": "BENDPAK",
+      "title": "10APX-181 2-Post Vehicle Lift 10,000 lb Capacity-Adaptable Clearfloor with Adjustable Width and 220V Power Unit Included",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1fe77687-199e-4d6c-bab7-897c3deb3f6c/svn/bendpak-car-lifts-5175307-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7095.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327329428",
+      "modelNumber": "",
+      "brand": "BENDPAK",
+      "title": "6XP Portable Mid-Rise Scissor Car Lift 6000 lbs. Capacity, 48 in. Max Rise with 110V Power Unit Included",
+      "rating": {
+        "average": 3.5,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dea9739c-c47b-4d0d-8f32-4e10d0f51935/svn/bendpak-car-lifts-5175730-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3412.12,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314300353",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Symmetric 2 Post Car Lift 9,000 lbs. Capacity Heavy Duty in Black",
+      "rating": {
+        "average": 4.8462,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c322925-46fa-49a6-b6ca-5d615d69d411/svn/tuxedo-car-lifts-tp9kf-tux-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3199.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338681941",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Symmetric 2 Post Car Lift, 11000 lb. Capacity, 220V 2.95 HP Motor, Auto Hoist for Sedan/SUV/Pickup, 74.8 in. Height",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3a2f694b-912d-4964-bb07-deb67a430302/svn/skyshalo-car-lifts-szjsj70inchsi669a001v7-250903-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2382.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339549",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Asymmetric 2-Post Car Lift Clear Floor 9,000 lbs. Capacity in Blue",
+      "rating": {
+        "average": 4.0,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8fddd2f-7e81-4c3e-a91f-adbb37678255/svn/tuxedo-car-lifts-tp9kacx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3280.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338681937",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Symmetric 2 Post Car Lift 9000 lb. Capacity, 220V 2.95 HP Motor, Hoist for Sedan/SUV, 74. 8in. Height, Garage/Shop, Blue",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49881325-e25f-4927-a26b-f25cbfa41e8a/svn/skyshalo-car-lifts-szjsj70inchshtari001v7-250903-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1928.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339488",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "4-Post Automotive Deluxe Extended Storage Car Lift 8,000 lb. Capacity Heavy Duty",
+      "rating": {
+        "average": 4.5385,
+        "count": 26
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4d6221-cf06-43b0-82e0-ec5aa09bfdf8/svn/tuxedo-car-lifts-fp8k-dx-xlt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4829.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338681932",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Symmetric 2 Post Car Lift 12000 lb. Capacity, 220V 2.95 HP Motor, Auto Hoist for Sedan/SUV/Pickup, 74.8 in. H, Garage",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8835ff8-5b56-41a4-8568-d95889740e20/svn/skyshalo-car-lifts-szjsj70inchd0ueu6001v7-250903-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2467.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339490",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "4-Post Automotive Deluxe Storage Car Lift 8,000 lb. Capacity with Casters, Drip Trays and Jack Tray",
+      "rating": {
+        "average": 4.2941,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/da3d1569-1236-4633-8315-b3c52a76e39b/svn/tuxedo-car-lifts-fp8k-dx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4660.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327329415",
+      "modelNumber": "",
+      "brand": "BENDPAK",
+      "title": "HD-9XW Extra-Tall 4 Post Car Lift 9000 lbs. Capacity - Versatile Freestanding Lift with 220V Power Unit Included",
+      "rating": {
+        "average": 3.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6afeceb1-940f-4642-aabb-ce364d2a2b4e/svn/bendpak-car-lifts-5175863-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6300.15,
+        "currency": "USD"
+      }
+    }
+  ]
+}

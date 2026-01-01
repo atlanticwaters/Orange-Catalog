@@ -1,0 +1,45 @@
+{
+  "productId": "307789471",
+  "identifiers": {
+    "internetNumber": "307789471",
+    "modelNumber": "",
+    "storeSkuNumber": "307789471"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "3-1/2-Ton Low Profile Floor Jack with Quick Lift",
+  "shortDescription": "3-1/2-Ton Low Profile Floor Jack with Quick Lift",
+  "longDescription": "3-1/2-Ton Low Profile Floor Jack with Quick Lift",
+  "pricing": {
+    "currentPrice": 246.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.614,
+    "count": 171
+  },
+  "media": {
+    "primaryImage": "/products/307789471/black-husky-floor-jacks-hd4795-dip-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/307789471/black-husky-floor-jacks-hd4795-dip-64_100.jpg",
+        "altText": "3-1/2-Ton Low Profile Floor Jack with Quick Lift",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.537537"
+}

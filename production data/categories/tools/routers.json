@@ -1,0 +1,56 @@
+{
+  "categoryId": "tools/routers",
+  "name": "Routers",
+  "slug": "routers",
+  "path": "/categories/tools/routers",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.744960",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Routers",
+      "url": "/tools/routers"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "331285211",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "22 in. W x 34.6 in. D Portable Work Table with Plastic Top and Wood Router Plate",
+      "rating": {
+        "average": 4.4667,
+        "count": 30
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1cc81bb0-82e7-4d52-80a2-f883f8529e8b/svn/ridgid-workbenches-260224-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.98,
+        "currency": "USD"
+      }
+    }
+  ]
+}

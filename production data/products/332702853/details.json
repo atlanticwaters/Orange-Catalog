@@ -1,0 +1,45 @@
+{
+  "productId": "332702853",
+  "identifiers": {
+    "internetNumber": "332702853",
+    "modelNumber": "",
+    "storeSkuNumber": "332702853"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "40V max XGT Brushless Cordless 9 in. Power Cutter (Tool Only)",
+  "shortDescription": "40V max XGT Brushless Cordless 9 in. Power Cutter (Tool Only)",
+  "longDescription": "40V max XGT Brushless Cordless 9 in. Power Cutter (Tool Only)",
+  "pricing": {
+    "currentPrice": 649.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/332702853/makita-concrete-saws-gec03z-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332702853/makita-concrete-saws-gec03z-64_100.jpg",
+        "altText": "40V max XGT Brushless Cordless 9 in. Power Cutter (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.690114"
+}

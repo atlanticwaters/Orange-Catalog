@@ -1,0 +1,45 @@
+{
+  "productId": "204688214",
+  "identifiers": {
+    "internetNumber": "204688214",
+    "modelNumber": "",
+    "storeSkuNumber": "204688214"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "7 ft. Artificial Green Bamboo Tree",
+  "shortDescription": "7 ft. Artificial Green Bamboo Tree",
+  "longDescription": "7 ft. Artificial Green Bamboo Tree",
+  "pricing": {
+    "currentPrice": 138.48,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1,
+    "count": 20
+  },
+  "media": {
+    "primaryImage": "/products/204688214/nearly-natural-artificial-trees-5421-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204688214/nearly-natural-artificial-trees-5421-64_100.jpg",
+        "altText": "7 ft. Artificial Green Bamboo Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.611637"
+}

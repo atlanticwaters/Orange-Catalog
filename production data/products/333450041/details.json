@@ -1,0 +1,45 @@
+{
+  "productId": "333450041",
+  "identifiers": {
+    "internetNumber": "333450041",
+    "modelNumber": "",
+    "storeSkuNumber": "333450041"
+  },
+  "brand": {
+    "name": "Mecale",
+    "logoUrl": "images/brands/mecale.svg"
+  },
+  "title": "4 ft. Artificial Bonsai Topiary Triple Ball Tree Plant Indoor Outdoor",
+  "shortDescription": "4 ft. Artificial Bonsai Topiary Triple Ball Tree Plant Indoor Outdoor",
+  "longDescription": "4 ft. Artificial Bonsai Topiary Triple Ball Tree Plant Indoor Outdoor",
+  "pricing": {
+    "currentPrice": 115.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/333450041/mecale-artificial-topiaries-uxky9960-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333450041/mecale-artificial-topiaries-uxky9960-64_100.jpg",
+        "altText": "4 ft. Artificial Bonsai Topiary Triple Ball Tree Plant Indoor Outdoor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.610117"
+}

@@ -1,0 +1,423 @@
+{
+  "categoryId": "appliances/refrigerators/freezerless",
+  "name": "Freezerless",
+  "slug": "freezerless",
+  "path": "/categories/appliances/refrigerators/freezerless",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.708899",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    },
+    {
+      "label": "Freezerless",
+      "url": "/appliances/refrigerators/freezerless"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 16
+  },
+  "featuredBrands": [
+    {
+      "brandId": "zline-kitchen-and-bath",
+      "brandName": "ZLINE Kitchen and Bath",
+      "logoUrl": "images/brands/zline-kitchen-and-bath.svg",
+      "count": 3
+    },
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 2
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 2
+    },
+    {
+      "brandId": "danby",
+      "brandName": "Danby",
+      "logoUrl": "images/brands/danby.svg",
+      "count": 2
+    },
+    {
+      "brandId": "saba",
+      "brandName": "SABA",
+      "logoUrl": "images/brands/saba.svg",
+      "count": 2
+    },
+    {
+      "brandId": "summit-appliance",
+      "brandName": "Summit Appliance",
+      "logoUrl": "images/brands/summit-appliance.svg",
+      "count": 2
+    },
+    {
+      "brandId": "gladiator",
+      "brandName": "Gladiator",
+      "logoUrl": "images/brands/gladiator.svg",
+      "count": 1
+    },
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 1
+    },
+    {
+      "brandId": "kucht",
+      "brandName": "Kucht",
+      "logoUrl": "images/brands/kucht.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "325646357",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "33 in. 20 cu. ft. Garage Ready Freezerless Refrigerator in White with Temperature Alarm and Auto-Close Door, ENERGY STAR",
+      "rating": {
+        "average": 4.5755,
+        "count": 1013
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/de646900-6610-4c93-b842-35fff437a60d/svn/white-frigidaire-freezerless-refrigerators-frae2024aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329741097",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Professional 19 cu. ft. Single Door Freezerless Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.5029,
+        "count": 1539
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5629d105-ef64-402f-b238-21e94def7a46/svn/smudge-proof-stainless-steel-frigidaire-freezerless-refrigerators-fpru19f8wf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205744994",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "17.7 cu. ft. SideKicks Freezerless Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 2.9853,
+        "count": 477
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9807a4ba-d60e-49d8-9f5e-9a124ff00370/svn/monochromatic-stainless-steel-whirlpool-freezerless-refrigerators-wsr57r18dm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2798.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312423329",
+      "modelNumber": "",
+      "brand": "Danby",
+      "title": "Designer 29.94 in. 17.0 cu. ft. Freezerless Refrigerator in White",
+      "rating": {
+        "average": 4.2131,
+        "count": 61
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ce8cd48-0019-5a47-b7f8-0495fd1e1a66/svn/white-danby-freezerless-refrigerators-dar170a3wdd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1104.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316536615",
+      "modelNumber": "",
+      "brand": "SABA",
+      "title": "54 in. W 47 cu. ft. Commercial Freezerless Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.4375,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d37c81bb-2f9a-491c-ad49-3fe143b4046a/svn/stainless-steel-saba-freezerless-refrigerators-s-47rr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2569.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303841965",
+      "modelNumber": "",
+      "brand": "Gladiator",
+      "title": "17.8 cu. ft. Garage Ready Rolling Freezerless Refrigerator in Black",
+      "rating": {
+        "average": 3.7153,
+        "count": 144
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dab89d8c-bce0-4b93-853a-045479fd36fe/svn/black-gladiator-freezerless-refrigerators-garf30fdgb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1800.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206891678",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "17.78 cu. ft. Freezerless Refrigerator in White",
+      "rating": {
+        "average": 3.9488,
+        "count": 664
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97d53633-c342-4923-8fcc-2d41d81732d5/svn/white-whirlpool-freezerless-refrigerators-wrr56x18fw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1978.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315174233",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Benchmark Series 30 in. W 16.8 cu. ft. Built-In Smart Freezerless Refrigerator, Custom Panel Ready",
+      "rating": {
+        "average": 4.5,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/610389aa-6922-5210-993d-561845c1fd38/svn/multi-bosch-freezerless-refrigerators-b30ir905sp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328911465",
+      "modelNumber": "",
+      "brand": "Kucht",
+      "title": "30 in. 16.6 cu. ft. Countertop Depth Freezerless Refrigerator Panel Ready",
+      "rating": {
+        "average": 4.6923,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/736a1222-d14b-4498-bdb3-6dbfdc15eadf/svn/panel-ready-kucht-freezerless-refrigerators-kr300tr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5232.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335371260",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 16.7 cu. ft. Panel Ready Freezerless Column Refrigerator with Graphite Gray Interior",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9fc3ffef-f2d5-4403-aa50-643da18c023a/svn/panel-ready-zline-kitchen-and-bath-freezerless-refrigerators-rbcrv-30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6799.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326514167",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 5.3 cu. ft. Freezerless Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e591dee0-8fdd-409f-a0b2-cd628725ff2d/svn/stainless-steel-summit-appliance-freezerless-refrigerators-ff708blssada-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1081.52,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335371725",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 16.7 cu. ft. Freezerless Column Refrigerator in Stainless Steel with Graphite Gray Interior and Bronze Accents",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02f9a49f-208a-434c-be1d-5d4523cba831/svn/stainless-steel-zline-kitchen-and-bath-freezerless-refrigerators-rcrvz-30430-cb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7599.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313478837",
+      "modelNumber": "",
+      "brand": "Danby",
+      "title": "23.82 in. 11 cu. ft. Retro Freezerless Refrigerator in Red",
+      "rating": {
+        "average": 4.2727,
+        "count": 33
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c564351a-549c-4b54-8f82-c53c4ee5d8a3/svn/metallic-red-danby-freezerless-refrigerators-dar110a3ldb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 764.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316616709",
+      "modelNumber": "",
+      "brand": "SABA",
+      "title": "29 in. W 23 cu. ft. Freezerless Commercial Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4546b2b6-7332-4f4c-9877-caf604f0fff3/svn/stainless-steel-saba-freezerless-refrigerators-s-23rgg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3312.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335722568",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 16.7 cu. ft. Panel Ready Freezerless Column Refrigerator with Graphite Gray Interior and Matte Black Accents",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6089174b-b3c2-48b5-9294-55062d7b6011/svn/panel-ready-zline-kitchen-and-bath-freezerless-refrigerators-rbcrvz-30-mb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7199.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316803824",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 5.5 cu. ft. Freezerless Refrigerator in Black",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd27badc-6aa1-4cd0-ba46-a1f563f15c08/svn/black-summit-appliance-freezerless-refrigerators-ff63bk2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 756.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "100033809",
+  "identifiers": {
+    "internetNumber": "100033809",
+    "modelNumber": "",
+    "storeSkuNumber": "100033809"
+  },
+  "brand": {
+    "name": "DIABLO",
+    "logoUrl": "images/brands/diablo.svg"
+  },
+  "title": "10in. x 60-Tooth Fine Finish Saw Blade for Wood",
+  "shortDescription": "10in. x 60-Tooth Fine Finish Saw Blade for Wood",
+  "longDescription": "10in. x 60-Tooth Fine Finish Saw Blade for Wood",
+  "pricing": {
+    "currentPrice": 42.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.81,
+    "count": 1258
+  },
+  "media": {
+    "primaryImage": "/products/100033809/diablo-table-saw-blades-miter-saw-blades-d1060x-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100033809/diablo-table-saw-blades-miter-saw-blades-d1060x-64_100.jpg",
+        "altText": "10in. x 60-Tooth Fine Finish Saw Blade for Wood",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.669723"
+}

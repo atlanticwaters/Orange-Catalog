@@ -1,0 +1,45 @@
+{
+  "productId": "328425448",
+  "identifiers": {
+    "internetNumber": "328425448",
+    "modelNumber": "",
+    "storeSkuNumber": "328425448"
+  },
+  "brand": {
+    "name": "Hotpoint",
+    "logoUrl": "images/brands/hotpoint.svg"
+  },
+  "title": "6.2 cu. ft. vented Electric Dryer in White with Auto Dry",
+  "shortDescription": "6.2 cu. ft. vented Electric Dryer in White with Auto Dry",
+  "longDescription": "6.2 cu. ft. vented Electric Dryer in White with Auto Dry",
+  "pricing": {
+    "currentPrice": 629.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.162,
+    "count": 1333
+  },
+  "media": {
+    "primaryImage": "/products/328425448/white-hotpoint-electric-dryers-htx26easwww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328425448/white-hotpoint-electric-dryers-htx26easwww-64_100.jpg",
+        "altText": "6.2 cu. ft. vented Electric Dryer in White with Auto Dry",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.525025"
+}

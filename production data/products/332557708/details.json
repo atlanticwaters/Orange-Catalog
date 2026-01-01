@@ -1,0 +1,45 @@
+{
+  "productId": "332557708",
+  "identifiers": {
+    "internetNumber": "332557708",
+    "modelNumber": "",
+    "storeSkuNumber": "332557708"
+  },
+  "brand": {
+    "name": "VEVOR",
+    "logoUrl": "images/brands/vevor.svg"
+  },
+  "title": "Air Compressor, 15 Gal. Steel Tank, 2 HP 5.3 CFM 90 PSI Oil Free Air Compressor and Max. 125 PSI Gas Pressure",
+  "shortDescription": "Air Compressor, 15 Gal. Steel Tank, 2 HP 5.3 CFM 90 PSI Oil Free Air Compressor and Max. 125 PSI Gas Pressure",
+  "longDescription": "Air Compressor, 15 Gal. Steel Tank, 2 HP 5.3 CFM 90 PSI Oil Free Air Compressor and Max. 125 PSI Gas Pressure",
+  "pricing": {
+    "currentPrice": 279.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/332557708/vevor-portable-air-compressors-wywskyj60l14j9ei6v1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332557708/vevor-portable-air-compressors-wywskyj60l14j9ei6v1-64_100.jpg",
+        "altText": "Air Compressor, 15 Gal. Steel Tank, 2 HP 5.3 CFM 90 PSI Oil Free Air Compressor and Max. 125 PSI Gas Pressure",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.514575"
+}

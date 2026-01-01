@@ -1,0 +1,45 @@
+{
+  "productId": "336958544",
+  "identifiers": {
+    "internetNumber": "336958544",
+    "modelNumber": "",
+    "storeSkuNumber": "336958544"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "Pneumatic 21-Degree 3-1/2 in. Round Head Framing Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+  "shortDescription": "Pneumatic 21-Degree 3-1/2 in. Round Head Framing Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+  "longDescription": "Pneumatic 21-Degree 3-1/2 in. Round Head Framing Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+  "pricing": {
+    "currentPrice": 168.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5696,
+    "count": 1552
+  },
+  "media": {
+    "primaryImage": "/products/336958544/ridgid-framing-nailers-r350rhf-r5025lf-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958544/ridgid-framing-nailers-r350rhf-r5025lf-64_100.jpg",
+        "altText": "Pneumatic 21-Degree 3-1/2 in. Round Head Framing Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.483715"
+}

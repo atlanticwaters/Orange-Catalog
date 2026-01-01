@@ -1,0 +1,426 @@
+{
+  "categoryId": "tools/air-compressors/stationary",
+  "name": "Stationary",
+  "slug": "stationary",
+  "path": "/categories/tools/air-compressors/stationary",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.738140",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Air Compressors",
+      "url": "/tools/air-compressors"
+    },
+    {
+      "label": "Stationary",
+      "url": "/tools/air-compressors/stationary"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 17
+  },
+  "featuredBrands": [
+    {
+      "brandId": "california-air-tools",
+      "brandName": "California Air Tools",
+      "logoUrl": "images/brands/california-air-tools.svg",
+      "count": 7
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 5
+    },
+    {
+      "brandId": "campbell-hausfeld",
+      "brandName": "Campbell Hausfeld",
+      "logoUrl": "images/brands/campbell-hausfeld.svg",
+      "count": 2
+    },
+    {
+      "brandId": "industrial-air",
+      "brandName": "Industrial Air",
+      "logoUrl": "images/brands/industrial-air.svg",
+      "count": 1
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 1
+    },
+    {
+      "brandId": "emax",
+      "brandName": "EMAX",
+      "logoUrl": "images/brands/emax.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "333352602",
+      "modelNumber": "",
+      "brand": "Industrial Air",
+      "title": "3/4 in. Stationary Compressor Installation Kit",
+      "rating": {
+        "average": 3.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eb16ebc8-62c0-424e-a0fb-cb012f86a7e8/svn/industrial-air-compressor-accessories-165-0331ia-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 67.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309832507",
+      "modelNumber": "",
+      "brand": "Campbell Hausfeld",
+      "title": "2-Stage 80 Gal. 175 psi Stationary Electric Air Compressor",
+      "rating": {
+        "average": 4.0833,
+        "count": 96
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ea192c8a-e9a6-411f-a869-1f3db96d4904/svn/campbell-hausfeld-stationary-air-compressors-xc802100-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1142.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300785629",
+      "modelNumber": "",
+      "brand": "Campbell Hausfeld",
+      "title": "80 Gal. Vertical Two Stage Stationary Electric Air Compressor 14CFM 5HP 230V 1PH (HS5180)",
+      "rating": {
+        "average": 4.4844,
+        "count": 64
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a617a3e-8f8c-4dab-96cc-a3944411fd3a/svn/campbell-hausfeld-stationary-air-compressors-hs5180-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1351.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204068469",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "60 Gal. Vertical Stationary Electric Air Compressor",
+      "rating": {
+        "average": 3.7975,
+        "count": 79
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fbe41d73-130a-49c0-8356-703220e3b82a/svn/dewalt-stationary-air-compressors-dxcmla3706056-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 811.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204068487",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "80 Gal. Stationary Electric Air Compressor",
+      "rating": {
+        "average": 4.3143,
+        "count": 105
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/431aa9f7-2b3a-411d-a9a8-06a40313be0c/svn/dewalt-stationary-air-compressors-dxcmv5048055-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1798.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316164251",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "60 Gal. 175 PSI Electric Stationary Single Stage Air compressor, 11.5 SCFM at 90 PSI",
+      "rating": {
+        "average": 3.9792,
+        "count": 48
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3d72ae87-fab5-48ee-a81f-c52742c4fea3/svn/dewalt-stationary-air-compressors-dxcm602-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 990.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301608003",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "60 Gal. 175 PSI Two Stage Stationary Electric Air Compressor",
+      "rating": {
+        "average": 4.2692,
+        "count": 52
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c08e49f-0da6-40e4-a4bd-97ee594aaf13/svn/dewalt-stationary-air-compressors-dxcmv5076055-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1563.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322705721",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "80 Gal. 175 Maximum PSI, Stationary, Electric, Oil Lubricated Vertical Air Compressor, 14.6 SCFM at 100 PSI, 5.0 HP",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc867409-034b-4431-88f2-7928584ef9b7/svn/dewalt-stationary-air-compressors-dxcm803-com-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2302.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306138775",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "60 Gal. Stationary Ultra Quiet and Oil-Free 4.0 HP Electric Air Compressor with Automatic Drain Valve",
+      "rating": {
+        "average": 4.0,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4ee502ca-c4e0-4e81-8808-a84eb3c08e86/svn/california-air-tools-stationary-air-compressors-60040cad-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1550.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206512060",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "20 Gal. 4.0 HP Ultra Quiet and Oil-Free Electric Stationary Air Compressor with Auto Drain",
+      "rating": {
+        "average": 4.5833,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6a715234-a5a4-433f-a1af-0cfd51f273bd/svn/california-air-tools-stationary-air-compressors-20040cad-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1073.23,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307850348",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "20 Gal. 4.0 HP Ultra-Quiet, Ultra Dry and Oil-Free Electric Stationary Air Compressor with Air Dryer and Auto Drain",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/07fde0da-34bb-4dba-b243-b9736a485a94/svn/california-air-tools-stationary-air-compressors-20040dcadc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3264.55,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332873957",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "80060C Ultra-Quiet Oil-Free 220V 80 Gal. 16.8 CFM at 90 PSI, 6.0 HP, Stationary Electric 120 PSI Air Compressor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b0b85ee8-52da-4063-9f82-529d23021bb5/svn/california-air-tools-stationary-air-compressors-80060c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322438121",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "20060CAD 20 Gal. 6.0 Hp 125 PSI Stationary Electric Ultra Quiet and Oil-Free Air Compressor \ufeff with Automatic Drain Valve",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f7389b63-eb75-4df6-ae5d-e0cc0638db0f/svn/california-air-tools-stationary-air-compressors-20060cad-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1639.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206512048",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "20 Gal. 4.0 HP Ultra Quiet and Oil-Free Electric Stationary Air Compressor",
+      "rating": {
+        "average": 3.8182,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbeaa7aa-f78a-4e6d-b1da-3b9a63c2a21a/svn/california-air-tools-stationary-air-compressors-20040c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309826172",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "10 Gal. 2.0 HP Ultra-Quiet and Oil-Free Electric Stationary Air Compressor with Auto Drain",
+      "rating": {
+        "average": 5.0,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/60653252-7def-49b6-ad6b-7d7dc8e52762/svn/california-air-tools-stationary-air-compressors-10020chad-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 495.45,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203187348",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "80 Gal. 2-Stage Stationary Electric Air Compressor",
+      "rating": {
+        "average": 3.7391,
+        "count": 207
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59dfed4e-4728-4488-a7f7-5df8d16c084f/svn/husky-stationary-air-compressors-c803h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306547564",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "Silent Air Industrial E450 80 Gal. 175 psi Electric 7.5HP 31CFM 3-Ph 230V 2-Stage Stationary Air Compressor,30CFM Dryer",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/577efe4d-eb1c-4dca-8bbe-92f8f3a6d69f/svn/emax-stationary-air-compressors-hsp07v080v3p230-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6241.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

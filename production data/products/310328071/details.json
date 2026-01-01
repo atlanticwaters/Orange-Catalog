@@ -1,0 +1,45 @@
+{
+  "productId": "310328071",
+  "identifiers": {
+    "internetNumber": "310328071",
+    "modelNumber": "",
+    "storeSkuNumber": "310328071"
+  },
+  "brand": {
+    "name": "Grizzly Industrial",
+    "logoUrl": "images/brands/grizzly-industrial.svg"
+  },
+  "title": "3 HP Double Canister Dust Collector w/ Aluminum Impeller",
+  "shortDescription": "3 HP Double Canister Dust Collector w/ Aluminum Impeller",
+  "longDescription": "3 HP Double Canister Dust Collector w/ Aluminum Impeller",
+  "pricing": {
+    "currentPrice": 1225.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5128,
+    "count": 39
+  },
+  "media": {
+    "primaryImage": "/products/310328071/grizzly-industrial-dust-collectors-g0562zp-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/310328071/grizzly-industrial-dust-collectors-g0562zp-64_100.jpg",
+        "altText": "3 HP Double Canister Dust Collector w/ Aluminum Impeller",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.675195"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "336625538",
+  "identifiers": {
+    "internetNumber": "336625538",
+    "modelNumber": "",
+    "storeSkuNumber": "336625538"
+  },
+  "brand": {
+    "name": "KitchenAid",
+    "logoUrl": "images/brands/kitchenaid.svg"
+  },
+  "title": "24 in. Top Control Built-In Tall Tub 44 dBA Dishwasher in PrintShield Stainless with 360 MaxJets 3rd Rack",
+  "shortDescription": "24 in. Top Control Built-In Tall Tub 44 dBA Dishwasher in PrintShield Stainless with 360 MaxJets 3rd Rack",
+  "longDescription": "24 in. Top Control Built-In Tall Tub 44 dBA Dishwasher in PrintShield Stainless with 360 MaxJets 3rd Rack",
+  "pricing": {
+    "currentPrice": 949.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5021,
+    "count": 235
+  },
+  "media": {
+    "primaryImage": "/products/336625538/printshield-stainless-kitchenaid-built-in-dishwashers-kdts424sps-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336625538/printshield-stainless-kitchenaid-built-in-dishwashers-kdts424sps-64_100.jpg",
+        "altText": "24 in. Top Control Built-In Tall Tub 44 dBA Dishwasher in PrintShield Stainless with 360 MaxJets 3rd Rack",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.461625"
+}

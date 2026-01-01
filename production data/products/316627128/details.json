@@ -1,0 +1,45 @@
+{
+  "productId": "316627128",
+  "identifiers": {
+    "internetNumber": "316627128",
+    "modelNumber": "",
+    "storeSkuNumber": "316627128"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "ATOMIC 20V MAX Cordless Brushless 1/2 in. Variable Speed Impact Wrench (Tool Only)",
+  "shortDescription": "ATOMIC 20V MAX Cordless Brushless 1/2 in. Variable Speed Impact Wrench (Tool Only)",
+  "longDescription": "ATOMIC 20V MAX Cordless Brushless 1/2 in. Variable Speed Impact Wrench (Tool Only)",
+  "pricing": {
+    "currentPrice": 239.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7532,
+    "count": 628
+  },
+  "media": {
+    "primaryImage": "/products/316627128/dewalt-impact-wrenches-dcf921b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316627128/dewalt-impact-wrenches-dcf921b-64_100.jpg",
+        "altText": "ATOMIC 20V MAX Cordless Brushless 1/2 in. Variable Speed Impact Wrench (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.684070"
+}

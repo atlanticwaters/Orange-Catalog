@@ -1,0 +1,45 @@
+{
+  "productId": "326967134",
+  "identifiers": {
+    "internetNumber": "326967134",
+    "modelNumber": "",
+    "storeSkuNumber": "326967134"
+  },
+  "brand": {
+    "name": "InSinkErator",
+    "logoUrl": "images/brands/insinkerator.svg"
+  },
+  "title": "Evolution .75HP, 3/4 HP Garbage Disposal, Advanced Series EZ Connect Continuous Feed Food Waste Disposer",
+  "shortDescription": "Evolution .75HP, 3/4 HP Garbage Disposal, Advanced Series EZ Connect Continuous Feed Food Waste Disposer",
+  "longDescription": "Evolution .75HP, 3/4 HP Garbage Disposal, Advanced Series EZ Connect Continuous Feed Food Waste Disposer",
+  "pricing": {
+    "currentPrice": 153.58,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7559,
+    "count": 1688
+  },
+  "media": {
+    "primaryImage": "/products/326967134/insinkerator-garbage-disposals-evolution-0-75hp-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326967134/insinkerator-garbage-disposals-evolution-0-75hp-64_100.jpg",
+        "altText": "Evolution .75HP, 3/4 HP Garbage Disposal, Advanced Series EZ Connect Continuous Feed Food Waste Disposer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.460052"
+}

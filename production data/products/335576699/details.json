@@ -1,0 +1,45 @@
+{
+  "productId": "335576699",
+  "identifiers": {
+    "internetNumber": "335576699",
+    "modelNumber": "",
+    "storeSkuNumber": "335576699"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "38IN HIGH PERFORMANCE AIR REGULATOR",
+  "shortDescription": "38IN HIGH PERFORMANCE AIR REGULATOR",
+  "longDescription": "38IN HIGH PERFORMANCE AIR REGULATOR",
+  "pricing": {
+    "currentPrice": 69.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/335576699/husky-air-pressure-regulators-hda72200-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335576699/husky-air-pressure-regulators-hda72200-64_100.jpg",
+        "altText": "38IN HIGH PERFORMANCE AIR REGULATOR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.602382"
+}

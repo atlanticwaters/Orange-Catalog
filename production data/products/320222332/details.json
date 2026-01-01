@@ -1,0 +1,45 @@
+{
+  "productId": "320222332",
+  "identifiers": {
+    "internetNumber": "320222332",
+    "modelNumber": "",
+    "storeSkuNumber": "320222332"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Cordless Cut-Out Tool (Tool Only)",
+  "shortDescription": "ONE+ 18V Cordless Cut-Out Tool (Tool Only)",
+  "longDescription": "ONE+ 18V Cordless Cut-Out Tool (Tool Only)",
+  "pricing": {
+    "currentPrice": 59.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4712,
+    "count": 208
+  },
+  "media": {
+    "primaryImage": "/products/320222332/ryobi-rotary-tools-pcl540b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320222332/ryobi-rotary-tools-pcl540b-64_100.jpg",
+        "altText": "ONE+ 18V Cordless Cut-Out Tool (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.700337"
+}

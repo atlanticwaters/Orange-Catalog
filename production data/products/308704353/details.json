@@ -1,0 +1,45 @@
+{
+  "productId": "308704353",
+  "identifiers": {
+    "internetNumber": "308704353",
+    "modelNumber": "",
+    "storeSkuNumber": "308704353"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "15 in. 50 lb. Built-In Ice Maker in Fingerprint Resistant Stainless Steel",
+  "shortDescription": "15 in. 50 lb. Built-In Ice Maker in Fingerprint Resistant Stainless Steel",
+  "longDescription": "15 in. 50 lb. Built-In Ice Maker in Fingerprint Resistant Stainless Steel",
+  "pricing": {
+    "currentPrice": 2019.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1575,
+    "count": 362
+  },
+  "media": {
+    "primaryImage": "/products/308704353/fingerprint-resistant-stainless-steel-whirlpool-undercounter-ice-makers-wui75x15hz-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308704353/fingerprint-resistant-stainless-steel-whirlpool-undercounter-ice-makers-wui75x15hz-64_100.jpg",
+        "altText": "15 in. 50 lb. Built-In Ice Maker in Fingerprint Resistant Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.451749"
+}

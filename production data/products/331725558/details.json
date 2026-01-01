@@ -1,0 +1,45 @@
+{
+  "productId": "331725558",
+  "identifiers": {
+    "internetNumber": "331725558",
+    "modelNumber": "",
+    "storeSkuNumber": "331725558"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "6 ft. Artificial Autumn Eucalyptus Tree Pre-Lit with Warm White LED Lights",
+  "shortDescription": "6 ft. Artificial Autumn Eucalyptus Tree Pre-Lit with Warm White LED Lights",
+  "longDescription": "6 ft. Artificial Autumn Eucalyptus Tree Pre-Lit with Warm White LED Lights",
+  "pricing": {
+    "currentPrice": 100.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/331725558/nearly-natural-artificial-trees-t4900-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331725558/nearly-natural-artificial-trees-t4900-64_100.jpg",
+        "altText": "6 ft. Artificial Autumn Eucalyptus Tree Pre-Lit with Warm White LED Lights",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.463651"
+}

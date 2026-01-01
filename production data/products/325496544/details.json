@@ -1,0 +1,45 @@
+{
+  "productId": "325496544",
+  "identifiers": {
+    "internetNumber": "325496544",
+    "modelNumber": "",
+    "storeSkuNumber": "325496544"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "USB Lithium Screwdriver Kit with USB Lithium 2.0 Ah Lithium Rechargeable Battery",
+  "shortDescription": "USB Lithium Screwdriver Kit with USB Lithium 2.0 Ah Lithium Rechargeable Battery",
+  "longDescription": "USB Lithium Screwdriver Kit with USB Lithium 2.0 Ah Lithium Rechargeable Battery",
+  "pricing": {
+    "currentPrice": 54.94,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1403,
+    "count": 1703
+  },
+  "media": {
+    "primaryImage": "/products/325496544/ryobi-electric-screwdrivers-fvd50k-fvb02-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325496544/ryobi-electric-screwdrivers-fvd50k-fvb02-64_100.jpg",
+        "altText": "USB Lithium Screwdriver Kit with USB Lithium 2.0 Ah Lithium Rechargeable Battery",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.680025"
+}

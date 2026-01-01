@@ -1,0 +1,45 @@
+{
+  "productId": "300794890",
+  "identifiers": {
+    "internetNumber": "300794890",
+    "modelNumber": "",
+    "storeSkuNumber": "300794890"
+  },
+  "brand": {
+    "name": "Walker Edison Furniture Company",
+    "logoUrl": "images/brands/walker-edison-furniture-company.svg"
+  },
+  "title": "60\" Traditional Wood Trestle Dining Bench - Antique Black",
+  "shortDescription": "60\" Traditional Wood Trestle Dining Bench - Antique Black",
+  "longDescription": "60\" Traditional Wood Trestle Dining Bench - Antique Black",
+  "pricing": {
+    "currentPrice": 199.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6724,
+    "count": 58
+  },
+  "media": {
+    "primaryImage": "/products/300794890/black-walker-edison-furniture-company-dining-benches-hdbw1bl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300794890/black-walker-edison-furniture-company-dining-benches-hdbw1bl-64_100.jpg",
+        "altText": "60\" Traditional Wood Trestle Dining Bench - Antique Black",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.550931"
+}

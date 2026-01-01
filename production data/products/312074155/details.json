@@ -1,0 +1,45 @@
+{
+  "productId": "312074155",
+  "identifiers": {
+    "internetNumber": "312074155",
+    "modelNumber": "",
+    "storeSkuNumber": "312074155"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "30 Gal. 175 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+  "shortDescription": "30 Gal. 175 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+  "longDescription": "30 Gal. 175 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+  "pricing": {
+    "currentPrice": 699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1324,
+    "count": 340
+  },
+  "media": {
+    "primaryImage": "/products/312074155/husky-portable-air-compressors-c304h-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312074155/husky-portable-air-compressors-c304h-64_100.jpg",
+        "altText": "30 Gal. 175 PSI Oil Lubed Belt Drive Portable Vertical Electric Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.507471"
+}

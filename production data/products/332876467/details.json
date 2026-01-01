@@ -1,0 +1,45 @@
+{
+  "productId": "332876467",
+  "identifiers": {
+    "internetNumber": "332876467",
+    "modelNumber": "",
+    "storeSkuNumber": "332876467"
+  },
+  "brand": {
+    "name": "Furniture of America",
+    "logoUrl": "images/brands/furniture-of-america.svg"
+  },
+  "title": "Leander 20 in. Oak Round Wood End Table with Cone-Shaped Pedestal Base",
+  "shortDescription": "Leander 20 in. Oak Round Wood End Table with Cone-Shaped Pedestal Base",
+  "longDescription": "Leander 20 in. Oak Round Wood End Table with Cone-Shaped Pedestal Base",
+  "pricing": {
+    "currentPrice": 242.11,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/332876467/oak-furniture-of-america-end-side-tables-idf-4222nt-e-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332876467/oak-furniture-of-america-end-side-tables-idf-4222nt-e-64_100.jpg",
+        "altText": "Leander 20 in. Oak Round Wood End Table with Cone-Shaped Pedestal Base",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.573703"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "307634135",
+  "identifiers": {
+    "internetNumber": "307634135",
+    "modelNumber": "",
+    "storeSkuNumber": "307634135"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "2.4 cu. ft. Stackable White Front Loading Washing Machine with Steam, ENERGY STAR",
+  "shortDescription": "2.4 cu. ft. Stackable White Front Loading Washing Machine with Steam, ENERGY STAR",
+  "longDescription": "2.4 cu. ft. Stackable White Front Loading Washing Machine with Steam, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 1079.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3026,
+    "count": 1507
+  },
+  "media": {
+    "primaryImage": "/products/307634135/white-ge-front-load-washers-gfw148ssmww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/307634135/white-ge-front-load-washers-gfw148ssmww-64_100.jpg",
+        "altText": "2.4 cu. ft. Stackable White Front Loading Washing Machine with Steam, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.477039"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "313478837",
+  "identifiers": {
+    "internetNumber": "313478837",
+    "modelNumber": "",
+    "storeSkuNumber": "313478837"
+  },
+  "brand": {
+    "name": "Danby",
+    "logoUrl": "images/brands/danby.svg"
+  },
+  "title": "23.82 in. 11 cu. ft. Retro Freezerless Refrigerator in Red",
+  "shortDescription": "23.82 in. 11 cu. ft. Retro Freezerless Refrigerator in Red",
+  "longDescription": "23.82 in. 11 cu. ft. Retro Freezerless Refrigerator in Red",
+  "pricing": {
+    "currentPrice": 764.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2727,
+    "count": 33
+  },
+  "media": {
+    "primaryImage": "/products/313478837/metallic-red-danby-freezerless-refrigerators-dar110a3ldb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313478837/metallic-red-danby-freezerless-refrigerators-dar110a3ldb-64_100.jpg",
+        "altText": "23.82 in. 11 cu. ft. Retro Freezerless Refrigerator in Red",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.443276"
+}

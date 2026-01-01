@@ -1,0 +1,560 @@
+{
+  "categoryId": "appliances/floor-care",
+  "name": "Floor Care",
+  "slug": "floor-care",
+  "path": "/categories/appliances/floor-care",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.705222",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Floor Care",
+      "url": "/appliances/floor-care"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 23
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 12
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 3
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 2
+    },
+    {
+      "brandId": "xtremepowerus",
+      "brandName": "XtremepowerUS",
+      "logoUrl": "images/brands/xtremepowerus.svg",
+      "count": 2
+    },
+    {
+      "brandId": "shark",
+      "brandName": "Shark",
+      "logoUrl": "images/brands/shark.svg",
+      "count": 1
+    },
+    {
+      "brandId": "stark-usa",
+      "brandName": "STARK USA",
+      "logoUrl": "images/brands/stark-usa.svg",
+      "count": 1
+    },
+    {
+      "brandId": "powersmith",
+      "brandName": "PowerSmith",
+      "logoUrl": "images/brands/powersmith.svg",
+      "count": 1
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "319713490",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Cordless Pet Stick Vacuum Cleaner Kit with 4.0 Ah HIGH PERFORMANCE Battery and Charger",
+      "rating": {
+        "average": 4.3535,
+        "count": 5217
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333915143",
+      "modelNumber": "",
+      "brand": "Shark",
+      "title": "PowerPro Bagless Cordless HEPA Filter Portable Stick Vacuum Cleaner for Multisurfaces, up to 50 min Runtime in Black",
+      "rating": {
+        "average": 4.1809,
+        "count": 94
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321546266",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Bagless Cordless Mesh Filter Stick Vacuum Cleaner (Tool Only)",
+      "rating": {
+        "average": 4.3918,
+        "count": 1738
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100520395",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Genuine VF3501 Wet Dry Vac Dry Pick-up Only Dust Bags for 3-4.5 Gallon and HD0600 RIDGID Shop Vacuums, Size C (2-Pack)",
+      "rating": {
+        "average": 4.4748,
+        "count": 3136
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3dd3df5b-e44c-41c7-9077-2b4c3d02337f/svn/ridgid-shop-vacuum-filters-vf3501-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202650894",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Genuine General Debris Pleated Shop Vacuum Filter Replacement for Most 5-16 Gal. RIDGID Wet Dry Vacs (2-Pack) VF4200",
+      "rating": {
+        "average": 4.6426,
+        "count": 7493
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59f8b0bc-60ec-44d2-918d-7f425884e5c7/svn/ridgid-shop-vacuum-filters-vf4200-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304006023",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "12 Gal. 5.0 Peak HP NXT Shop Vacuum Wet Dry Vac with General Debris Filter, Locking Hose and Attachments HD1200",
+      "rating": {
+        "average": 4.6577,
+        "count": 5726
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b53655d7-b994-438a-9898-cfbb0a1bba14/svn/ridgid-wet-dry-vacuums-hd1200-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100021159",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Genuine General Debris Pleated Shop Vacuum Filter Replacement for Most 5-16 Gal. RIDGID Wet Dry Vacs (1-Pack) VF4000",
+      "rating": {
+        "average": 4.6261,
+        "count": 8888
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fcc7ff5b-6586-4382-86b6-186f17e46168/svn/ridgid-shop-vacuum-filters-vf4000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 22.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304795071",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "14 Gal. 6.0 Peak HP NXT Shop Vacuum Wet Dry Vac with Fine Dust Filter, Locking Hose, Wands and Attachments HD1400",
+      "rating": {
+        "average": 4.6575,
+        "count": 1711
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/008ef6e1-608e-4d52-b740-fd4967205ad9/svn/ridgid-wet-dry-vacuums-hd1400-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 124.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202077241",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "4 Gal. 5.0 Peak HP Portable Shop Vacuum Wet Dry Vac with Fine Dust Filter, Locking Hose and Attachments WD4070",
+      "rating": {
+        "average": 4.5811,
+        "count": 7365
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/269ac377-70a0-442d-bd89-6be621c24c36/svn/ridgid-wet-dry-vacuums-wd4070-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100021371",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Genuine Fine Dust Pleated Paper Shop Vacuum Filter Replacement for Most 3-4.5 Gal. RIDGID Wet Dry Vacs (1-Pack) VF3500",
+      "rating": {
+        "average": 4.6496,
+        "count": 2246
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4f9a4144-cdae-4fb1-9d78-9a493a5b5798/svn/ridgid-shop-vacuum-filters-vf3500-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 18.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316514940",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "16 Gal. 5.0 Peak HP NXT Shop Vacuum Wet Dry Vac with General Debris Filter, Locking Hose and Attachments HD1640",
+      "rating": {
+        "average": 4.4195,
+        "count": 2131
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/98f0617a-4d11-4071-ba98-fb9ef9683708/svn/ridgid-wet-dry-vacuums-hd1640-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337674760",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "16 Gal. 5.0 Peak HP NXT Shop Vacuum with Filter, Hose, Wet/Dry Bags (2-Pack)",
+      "rating": {
+        "average": 4.4252,
+        "count": 2119
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/25556e8d-238c-43ca-ae21-ef8650a79b7b/svn/ridgid-wet-dry-vacuums-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 90.77,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337674754",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "16 Gallon 5.0 Peak HP NXT Shop Vacuum with Filter, Locking Hose, Attachments, Storage Bag and 2-1/2 in. Nozzle Kit",
+      "rating": {
+        "average": 4.4197,
+        "count": 2149
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2388146d-6488-4eeb-b929-2e248b725845/svn/ridgid-wet-dry-vacuums-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 101.34,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202043806",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt 2 Gal. Lithium-Ion Cordless Wet/Dry Vacuum (Vacuum-Only)",
+      "rating": {
+        "average": 4.4694,
+        "count": 5366
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b34de9e-2791-42ef-927f-a62fff263181/svn/milwaukee-wet-dry-vacuums-0880-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313725452",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL PACKOUT 18-Volt Lithium-Ion Cordless 2.5 Gal. Wet/Dry Vacuum (Vacuum-Only)",
+      "rating": {
+        "average": 4.4906,
+        "count": 4417
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/735059c1-bd89-4380-bc12-030db4ed6e2f/svn/milwaukee-wet-dry-vacuums-0970-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337113487",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt 2 Gal. Lithium-Ion Cordless Wet/Dry Vacuum with 5.0 Ah Lithium-Ion XC Extended Capacity Battery Pack",
+      "rating": {
+        "average": 4.3125,
+        "count": 32
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3082bba0-14ba-4237-ba44-d9553c6248b1/svn/milwaukee-wet-dry-vacuums-0880-20-48-11-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308343494",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "14 Gal. 6.0 Peak HP NXT Shop Vacuum Wet Dry Vac with Fine Dust Filter, Hose, Accessories and Car Cleaning Kit HD1401",
+      "rating": {
+        "average": 4.6891,
+        "count": 5980
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/701c6a97-6089-4b0a-9d7b-c9aeb07bbb75/svn/ridgid-wet-dry-vacuums-hd1401-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322514985",
+      "modelNumber": "",
+      "brand": "XtremepowerUS",
+      "title": "HVAC AC Repair Complete Set with 3.5 CFM 1/4 HP Vacuum Pump Manifold Gauge Set",
+      "rating": {
+        "average": 4.6154,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8be6b98a-1c1c-4dd8-b0b2-093347a39242/svn/xtremepowerus-air-compressor-parts-71093-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 123.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338943726",
+      "modelNumber": "",
+      "brand": "XtremepowerUS",
+      "title": "1/3 HP 4 CFM Air Vacuum Pump HVAC A/C Refrigerant Kit with AC Manifold Gauge Set and Leak Detector",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ec15c5ee-d691-4a6d-b5f6-4f7392f481ab/svn/xtremepowerus-air-compressor-parts-71098-th-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320576036",
+      "modelNumber": "",
+      "brand": "STARK USA",
+      "title": "1/4 HP 3.5 CFM HVAC A/C Refrigerant Rotary Air Vacuum Pump",
+      "rating": {
+        "average": 4.7826,
+        "count": 23
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7f051ecb-cf1e-45f1-af95-fe50a0d1ad59/svn/stark-usa-air-compressor-parts-71096-h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 65.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203656953",
+      "modelNumber": "",
+      "brand": "PowerSmith",
+      "title": "10 Amp 3 Gal. All-In-One Wheeled Ash/Shop Vacuum with Metal Lined Hose, Washable Filter and 5 Accessory Nozzles",
+      "rating": {
+        "average": 4.3562,
+        "count": 963
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/202defd6-6f00-4dc8-96e6-fcf95feca55e/svn/powersmith-dust-collectors-pavc101-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312370596",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "11 Gal. Wet/Dry HEPA Filter Dust Extractor/Vacuum",
+      "rating": {
+        "average": 4.6316,
+        "count": 19
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f7648d49-fcb7-4f5f-8a52-61b9adada269/svn/makita-dust-collectors-vc4210l-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 819.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958835",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Corded Pro Jobsite Table Saw with Stand and 18V Cordless Hand Held Vacuum (Tool Only)",
+      "rating": {
+        "average": 4.1835,
+        "count": 2807
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/48e46cf2-a7b0-4794-9ef0-021b745406d8/svn/ridgid-portable-table-saws-r4514-r8609021b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 608.97,
+        "currency": "USD"
+      }
+    }
+  ]
+}

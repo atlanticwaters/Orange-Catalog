@@ -1,347 +1,593 @@
 {
   "categoryId": "appliances/range-hoods",
   "name": "Range Hoods",
-  "originalUrl": "https://www.homedepot.com/b/Appliances-Range-Hoods/N-5yc1vZc3nk",
-  "archiveTime": "2025-12-31T18:30:08.943Z",
+  "slug": "range-hoods",
+  "path": "/categories/appliances/range-hoods",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:07:23.854811",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Appliances",
-      "url": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w"
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Range Hoods",
+      "url": "/appliances/range-hoods"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/11.avif",
-  "productIds": [
-    "100080229",
-    "322284418",
-    "322285832",
-    "332153426",
-    "332376331"
+  "pageInfo": {
+    "totalResults": 24
+  },
+  "featuredBrands": [
+    {
+      "brandId": "zline-kitchen-and-bath",
+      "brandName": "ZLINE Kitchen and Bath",
+      "logoUrl": "images/brands/zline-kitchen-and-bath.svg",
+      "count": 8
+    },
+    {
+      "brandId": "vikio",
+      "brandName": "VIKIO",
+      "logoUrl": "images/brands/vikio.svg",
+      "count": 4
+    },
+    {
+      "brandId": "akdy",
+      "brandName": "AKDY",
+      "logoUrl": "images/brands/akdy.svg",
+      "count": 3
+    },
+    {
+      "brandId": "akicon",
+      "brandName": "Akicon",
+      "logoUrl": "images/brands/akicon.svg",
+      "count": 2
+    },
+    {
+      "brandId": "golden-vantage",
+      "brandName": "Golden Vantage",
+      "logoUrl": "images/brands/golden-vantage.svg",
+      "count": 2
+    },
+    {
+      "brandId": "inateck",
+      "brandName": "INATECK",
+      "logoUrl": "images/brands/inateck.svg",
+      "count": 1
+    },
+    {
+      "brandId": "janska",
+      "brandName": "JANSKA",
+      "logoUrl": "images/brands/janska.svg",
+      "count": 1
+    },
+    {
+      "brandId": "cosmo",
+      "brandName": "Cosmo",
+      "logoUrl": "images/brands/cosmo.svg",
+      "count": 1
+    },
+    {
+      "brandId": "home-beyond",
+      "brandName": "Home Beyond",
+      "logoUrl": "images/brands/home-beyond.svg",
+      "count": 1
+    },
+    {
+      "brandId": "winflo",
+      "brandName": "Winflo",
+      "logoUrl": "images/brands/winflo.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 5,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/34.avif",
-        "url": "https://dam.thdstatic.com/content/production/pgtut_6UIowBuijhpOu5GA/0NSD5GzTu7Zt5FfTEPe2RQ/Original%20file/10OCT23_Refrigerators_VN_Zline.png?im=Resize=(703,703)"
+  "products": [
+    {
+      "productId": "206888282",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "34 in. 700 CFM Ducted Range Hood Insert in Stainless Steel",
+      "rating": {
+        "average": 4.3647,
+        "count": 170
       },
-      {
-        "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/l-uBMmxNJLZpCwJ00xAApw/M8yOCUPGV_nRCm-oJEksKw/Original%20file/10OCT23_Dishwashers_VN_Quiet.png?im=Resize=(703,703)"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/305ed9ea-9e33-4502-a327-50b8b4a41538/svn/brushed-stainless-steel-zline-kitchen-and-bath-insert-range-hoods-695-34-64_100.jpg"
       },
-      {
-        "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/mxmv7MzgXqmIQIJ_oxiusQ/0WfBMKaio2H-aak-EN5zyg/Original%20file/10OCT23_Dishwashers_VN_Quieter.png?im=Resize=(703,703)"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/yQsZX4K08qYefh5Ria_FdA/rjdVD8gkR0s4N-n1ky6pvg/Original%20file/10OCT23_Dishwashers_VN_Quietest.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/13.avif",
-        "url": "https://dam.thdstatic.com/content/production/OBGrP6ds0q3HEsy0t8ycKQ/hFgYmkCFnod5-nh_jqw7Zg/optimizedFile/258d233f-220d-4e75-9576-41376ce76dbe_2____B01____10000.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/tLWkAk8KkYf5zcac3aNW9g/f5y8-HpR0BDZizUf6iPk1g/optimizedFile/152d3732-cbb7-4f2e-915e-cbdbc9a4f639_162984_1450346.jpg?im=Crop,rect=(219.33744993324433,231.4903846153846,999.0420560747664,999.3088942307693);Resize=(703,703)"
-      },
-      {
-        "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/content/production/BMwEVqEY31g7Oewne1-paw/T3bH6qYGtczqTP0uZBgSHw/Original%20file/CVM521P2MS1_lifestyle.jpeg?im=Crop,rect=(539.66955941255,35.68209134615385,1360.5891188251,1360.9525240384617);Resize=(703,703)"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/ao4zX7hzFJ9o4R3AdEveog/INtWHW4EpUBu2xF1p6XFhQ/Original%20file/97c13499-77dc-4cbd-909c-4085fa11f78f_Lift_3quarter_environment.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/whulGvZE49GFyXzPq7f1Bw/G6WUjF0YC2ed-pq1LVvEGg/optimizedFile/4b8cb01e-e303-4a33-baa8-39133f4ab479_custom-wood-range-hood-zline-329AH-hood-1.jpeg?im=Crop,rect=(563.0048076923077,490.8894230769231,304.4567307692308,304.4567307692308);Resize=(703,703)"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://dam.thdstatic.com/content/production/f7wLF4XjyDKCM9b_QdmNJw/q3fNgLkbO0zA5s2FfBsp1g/Original%20file/41F.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://dam.thdstatic.com/content/production/cf-FTbADZn35GCIpW3nVWA/DxC7TTePJ5rWC_FktKeF2w/optimizedFile/589c569b-a47e-418a-a6d1-9d525824f154_CGI2405235_1462700.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://dam.thdstatic.com/content/production/KvPbuVq72CI-8hEffBPLmg/PIWsPz5iNm1F1lGLG3PKXw/optimizedFile/6fe94fd4-7ab4-4129-9ed3-ccf6100c2d02_KCGD506GSS_Standalone_Primary.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://dam.thdstatic.com/content/production/lbSDQPWbRVzZ44m2gIHo5w/M0tdZG1vMftE87grRP_rGw/optimizedFile/2023_PCK_GB_Faucets_320379951_S.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://dam.thdstatic.com/content/production/ydeNGC7rnV1choq9YXA6mQ/1AlQYfTeF-oL4ntC_l8o0A/optimizedFile/1006514048_1006544326_D.jpg?im=Crop,rect=(0,3.822205528846154,1142.389553014553,1141.8342247596154);Resize=(703,703)"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://dam.thdstatic.com/content/production/Z44-SCzZgWy2Gqkntv49rQ/86p1O6LPGcwJHgoFpwDyUw/Original%20file/2023_VN1P4_Smart_Wiring_Devices_Controls.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://dam.thdstatic.com/content/production/tTc12g9EdrJNy_AcFGFvVw/Z_utWIfpjZEAllBKiYuPSA/optimizedFile/307583665_2019_MemorialDay_307583665_L.jpeg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/57.avif",
-        "url": "https://dam.thdstatic.com/content/production/I2pIfbkETG_MRUhdu3PtLA/zqfmtGdvJdNWA2EybLR36A/Original%20file/112a7b0b-944f-43c4-bc46-be0050e2f15d_WVU37UC4FS_4.jpeg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "https://dam.thdstatic.com/content/production/R0hjerHNGx186mBpX3F9hg/W5jH2aarwzIvLQuTOPFUCA/optimizedFile/c7460238-e409-4b73-ae21-5b22f350d839_zline--stainless--steel--island--range--hood--KE2iCRN-BT-36--kitchen--side--lifestyle.jpeg?im=Crop,rect=(147.14423076923077,9.403846153846155,1287.7932692307693,1287.7932692307693);Resize=(703,703)"
+      "price": {
+        "current": 620.99,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/62.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+    },
+    {
+      "productId": "322970131",
+      "modelNumber": "",
+      "brand": "AKDY",
+      "title": "30 in. 343 CFM Built-in Insert Kitchen Vent Ducted/Ductless Convertible Range Hood in Stainless Steel with Carbon Filter",
+      "rating": {
+        "average": 4.6333,
+        "count": 30
       },
-      {
-        "filename": "images/63.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c470f57d-0a7a-4275-a250-a04333b81104/svn/stainless-steel-akdy-insert-range-hoods-rh0666-64_100.jpg"
       },
-      {
-        "filename": "images/64.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/65.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/66.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/67.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/68.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/69.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/70.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/71.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/72.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/73.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/74.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/75.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
-      },
-      {
-        "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/24.svg",
-        "url": "https://dam.thdstatic.com/content/production/NL0JiuWhUFC43FJFsmtwbA/pa2e3OwlxGFZ5tc8nIarLg/Original%20file/5064970-d29a-range-hoods--48-inch-width-range-hood-v1-1223.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/20.svg",
-        "url": "https://dam.thdstatic.com/content/production/wOxlwc_tfyInjyIMGbzKFQ/Igv9knaMHKE5Rhopd2ovLA/Original%20file/5064970-d29a-range-hoods--30-inch-width-range-hood-v1-1223.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/23.svg",
-        "url": "https://dam.thdstatic.com/content/production/9FdtDIO88XRa0caCXL2_8g/ER9ZMT_prvJ9wrDPnjgEag/Original%20file/5064970-d29a-range-hoods--42-inch-width-range-hood-v1-1223.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/21.svg",
-        "url": "https://dam.thdstatic.com/content/production/tizSVJNRbOXwl5UymDtxxQ/DPEriszrsQd8mPaBScDx9A/Original%20file/5064970-d29a-range-hoods--34-inch-width-range-hood-v1-1223.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/19.svg",
-        "url": "https://dam.thdstatic.com/content/production/5szsShaQSEH5z_VnFRAMiQ/rcMVyW1xRBczEuNGU7hEJQ/Original%20file/5064970-d29a-range-hoods--28-inch-width-or-less-range-hood-v1-1223.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/22.svg",
-        "url": "https://dam.thdstatic.com/content/production/lmom_GMs7zhwlLkoeKWoBQ/9ltOQWRg0x-V05KT90jDCg/Original%20file/5064970-d29a-range-hoods--36-inch-width-range-hood-v1-1223.svg?im=Resize=(703,703)"
+      "price": {
+        "current": 159.99,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/10.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+    },
+    {
+      "productId": "323516650",
+      "modelNumber": "",
+      "brand": "Akicon",
+      "title": "48 in. 1200 CFM Ducted Insert Range Hood in Stainless Steel with Dimmable LED Lights 4-Speeds",
+      "rating": {
+        "average": 5.0,
+        "count": 3
       },
-      {
-        "filename": "images/11.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26JUN25-AppliancesSavingsBanner-DSK-02.png"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/46cf8d77-e65f-4c4e-a53d-26f7c9be038e/svn/inch-warm-akicon-insert-range-hoods-nx-19il-48-warm-64_100.jpg"
       },
-      {
-        "filename": "images/14.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2ShAr1inieqjdsi4G18aeR/1a35c974cd6c8b02bd059ee2cd5451b5/WallMountedRangeHoods2.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/25.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/4gA5Pk0pHJLR9vDlcfDLOb/69d7264824381d6af0aa0949b06fb1cf/shop-stainless-steelappliances.png"
-      },
-      {
-        "filename": "images/26.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/7b6hP3uYb4YF72SXQzbDsx/0fe5f843c9d1b19917fecf3c2c104e18/shop-black-stainless-appliances.png"
-      },
-      {
-        "filename": "images/27.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/58oH6zRQLTD1cpZnzI0vN7/1011c50bc03f4442933b23d9543eb5f7/shop-white-appliances-80.png"
-      },
-      {
-        "filename": "images/28.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/5ppIAoFRVmFYJjALA5HU97/f4271e2a034ddd37b0a4f5657ed98ed8/shop-black-appliances-80.png"
-      },
-      {
-        "filename": "images/29.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2VxtBE9wKs5GpDH6WM5APh/c1561a54f5f081119ec57214626724fd/shop-copper-appliances.-80.png"
-      },
-      {
-        "filename": "images/31.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/FylpiIokS1yeWHed3Uazp/c678dffc3c91b3d76a4e75efa360b1aa/ductedventnew.jpg"
-      },
-      {
-        "filename": "images/32.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/7ip8INq1472FqviQaGxqb/f8183ccf8c24a9769556fdd27faf758b/ductlessventednew.jpg"
-      },
-      {
-        "filename": "images/33.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/63jbhJ378m6xOGuh4w6cuU/ead050b6026de27ee720bd1e58644234/converiblevent.jpg"
-      },
-      {
-        "filename": "images/35.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/yeZMOEmX0Fyc8BZCxeKIR/317b62f84536aaf42dcc9f3379b278f3/BroanNutone"
-      },
-      {
-        "filename": "images/36.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/5inm4ZzSqzQbgrLwhzOeB1/0d120a0e7199c42f9ddf895bd29a322a/GE.jpg"
-      },
-      {
-        "filename": "images/37.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/T1cErx1tAc65yi8pAjAjb/cdd4c302e142a2d5363e99512879b636/VASSANI.jpg"
-      },
-      {
-        "filename": "images/38.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2G9mhcU0427bRTvVO0ArYW/42eda656403adbde3bf7636d7504c46a/ZE.jpg"
-      },
-      {
-        "filename": "images/39.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/6MoOPoY8JcyIdWzvm4XtLo/7d2a7df62852af5b005d882089526446/KitchenAid.jpg"
-      },
-      {
-        "filename": "images/40.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/Sbkyne88u9HhpvPAOvNbc/cc9d9d5b15fa7434d4b221c1a9566826/d29a-range-hood-capacity--max-air-flow1.png"
-      },
-      {
-        "filename": "images/41.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/2M16LQVcUtMUuOdFC9exXK/057f8bf1d81d7d699215478b3a5461da/d29a-range-hood-capacity--max-air-flow2.png"
-      },
-      {
-        "filename": "images/42.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/bHEbS6fDUDyeWhB3cFwbf/06df82dce01a5c68307bcdf72ac13119/d29a-range-hood-capacity--max-air-flow.3png.png"
-      },
-      {
-        "filename": "images/43.png",
-        "url": "https://images.ctfassets.net/7rldri896b2a/7db4BYT85cn1tcr97nooEo/56c3e69e40d6f7ab8f55ee95720b35bc/d29a-range-hood-capacity--max-air-flow4.png"
-      },
-      {
-        "filename": "images/44.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/5rgQMyhHCEeBS2196gdTnz/ab86e7b08e1a3d47be62a44319b7c86b/d29a-range-hood-capacity--max-air-flow5.jpg"
-      },
-      {
-        "filename": "images/45.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/1WOqApNwdB09aUWEHq8SyD/2a1195ddbef9570ebfc823ae1a43a913/d29a-range-hood-capacity--max-air-flow6.jpg"
-      },
-      {
-        "filename": "images/56.jpg",
-        "url": "https://images.ctfassets.net/7rldri896b2a/4DIM4nlCIb6F2yRkDmuvkR/661b9e43829f4338918a8147b63e21f1/how-to-install-a-range-hood-step-1-New.jpg"
-      },
-      {
-        "filename": "images/59.webp",
-        "url": "https://images.thdstatic.com/productImages/cfd82596-838e-426d-84f0-c150d9999d2a/svn/stainless-steel-vissani-under-cabinet-range-hoods-1803b-hp11-75-64_300.jpg"
-      },
-      {
-        "filename": "images/60.webp",
-        "url": "https://images.thdstatic.com/productImages/c3b2f7c5-f543-46fa-aef8-485b6b3d956a/svn/white-broan-nutone-under-cabinet-range-hoods-rl6230wh-64_300.jpg"
-      },
-      {
-        "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/1df3acf4-d8c9-4e26-9a31-ca91688e541d/svn/stainless-steel-vissani-wall-mount-range-hoods-631t-yp11-75-64_300.jpg"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/7da4b3ec-6b44-47a1-85af-3dcd3174bfca/svn/stainless-steel-vissani-under-cabinet-range-hoods-1806a7-gp11-75-64_300.jpg"
-      },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/content/production/3ExAObKO3fVRC6bSHfMWFg/Hl2mRNG-bSUdlLw1Z5U-Ig/Original%20file/D29A-2025-Winter-Appliances-Hero-Range-Hoods.png"
+      "price": {
+        "current": 969.99,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Range Hoods - The Home Depot",
-    "categoryType": "PLP Landing Pages",
-    "categoryFolder": "Range Hoods"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "308788763",
+      "modelNumber": "",
+      "brand": "Golden Vantage",
+      "title": "30 in. 217 CFM Convertible Black Painted Stainless Steel Wall Mount Range Hood with LED and Carbon Filters",
+      "rating": {
+        "average": 4.6122,
+        "count": 147
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d82c8f2-6443-424e-85cc-744346f86f20/svn/stainless-steel-golden-vantage-wall-mount-range-hoods-rh0474-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337585009",
+      "modelNumber": "",
+      "brand": "INATECK",
+      "title": "42 in. 900 CFM Ducted Under Cabinet Range Hood with 3-Venting Options, Remote, Touch Control LCD in Stainless Steel",
+      "rating": {
+        "average": 4.7385,
+        "count": 65
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d83e6ad6-cd3d-4e13-b54d-23abbd6ed035/svn/stainless-steel-inateck-under-cabinet-range-hoods-nac01-42-900-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 314.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322879733",
+      "modelNumber": "",
+      "brand": "VIKIO",
+      "title": "36 in. 900CFM Convertible Wall Mount Range Hood in Black Stainless Steel 3-Speed / Charcoal Filter and Gesture Control",
+      "rating": {
+        "average": 4.0412,
+        "count": 97
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b37914b-ae16-4982-bf79-416630e8c16e/svn/black-vikio-wall-mount-range-hoods-ik-p02-36-h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 527.54,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321382721",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "Autograph Edition 30 in. 400 CFM Ducted Vent Wall Mount Range Hood with Champagne Bronze Handle in Stainless Steel",
+      "rating": {
+        "average": 4.6156,
+        "count": 385
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/76c3f65b-d62a-4340-bb9e-98501fca919f/svn/brushed-stainless-steel-champagne-bronze-zline-kitchen-and-bath-wall-mount-range-hoods-kb4stz-30-cb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 530.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329658550",
+      "modelNumber": "",
+      "brand": "VIKIO",
+      "title": "36 in. 900 CFM Convertible Wall Mount Range Hood in Stainless Steel with Intelligent Gesture Sensing and Charcoal Filter",
+      "rating": {
+        "average": 3.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/de867cad-f2d7-4cea-adc4-f49bc3aadc51/svn/stainless-steel-vikio-wall-mount-range-hoods-rhwm02-36-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 459.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322054995",
+      "modelNumber": "",
+      "brand": "JANSKA",
+      "title": "48 in. 1300 CFM Ducted Wall Mount Range Hood in Stainless Steel with SS Filters Digital Display LED Lights and Remote",
+      "rating": {
+        "average": 4.3793,
+        "count": 29
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dbdf640b-dd5c-4223-b89c-e8e74ac329eb/svn/stainless-steel-janska-wall-mount-range-hoods-rhw-4813-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1189.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307360818",
+      "modelNumber": "",
+      "brand": "AKDY",
+      "title": "30 in. 343 CFM Convertible Wall Mount Black Stainless Steel Kitchen Range Hood with Touch Panel",
+      "rating": {
+        "average": 4.3436,
+        "count": 163
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/752a05c4-e7c4-44f0-be4a-2a6ba089ce47/svn/black-brushed-stainless-steel-akdy-wall-mount-range-hoods-rh0017-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329652922",
+      "modelNumber": "",
+      "brand": "VIKIO",
+      "title": "30 in. 900 CFM Convertible Insert Range Hood Stainless Steel with Baffle Filters, LED and Gesture Control",
+      "rating": {
+        "average": 4.5,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c7cb6f81-4681-4e2a-b243-7175f99a5443/svn/stainless-steel-vikio-insert-range-hoods-rhin02-30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310402781",
+      "modelNumber": "",
+      "brand": "AKDY",
+      "title": "36 in. 350 CFM Convertible Island Mount Range Hood with LED Lights in Stainless Steel, Touch Control and Carbon Filters",
+      "rating": {
+        "average": 4.2353,
+        "count": 34
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/25011439-8be1-40ce-b05f-3a66dbed2966/svn/brushed-stainless-steel-akdy-island-range-hoods-rh0467-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206686542",
+      "modelNumber": "",
+      "brand": "Cosmo",
+      "title": "30 in. Haven Collection 380 CFM Ducted Under Cabinet Range Hood, LED Lights, Button Control, Stainless Steel",
+      "rating": {
+        "average": 4.3799,
+        "count": 1777
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/31463787-1591-43b5-b6c8-59711fda395b/svn/stainless-steel-with-push-buttons-cosmo-under-cabinet-range-hoods-uc30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 234.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310477750",
+      "modelNumber": "",
+      "brand": "Home Beyond",
+      "title": "28 in. 600 CFM Insert/Built-in Range Hood with Baffle Filters LED Lights 3-Speed \u200b\u200bControl in Stainless Steel",
+      "rating": {
+        "average": 4.0273,
+        "count": 110
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0c855fbb-d3c9-4ac3-8d20-40b8114c9b1b/svn/stainless-steel-home-beyond-insert-range-hoods-h70-27-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 196.86,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307287875",
+      "modelNumber": "",
+      "brand": "Golden Vantage",
+      "title": "30 in. 217 CFM Convertible Wall Mount Range Hood with Tempered Glass and Carbon Filters in Black Painted Stainless Steel",
+      "rating": {
+        "average": 4.6076,
+        "count": 79
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa4e1f19-b70e-4f5d-ac81-17dfc8498168/svn/black-painted-stainless-steel-golden-vantage-wall-mount-range-hoods-rh0475-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206888286",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "34 in. 700 CFM Ducted Range Hood Insert in Stainless Steel",
+      "rating": {
+        "average": 4.375,
+        "count": 120
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ccafcebf-d3b6-421c-b78d-ff5cd22f0e90/svn/brushed-stainless-steel-zline-kitchen-and-bath-insert-range-hoods-698-34-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 764.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306728093",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "ZLINE 30\" Wooden Island Mount Range Hood in White - Includes Motor",
+      "rating": {
+        "average": 4.6142,
+        "count": 381
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/70eb7bec-8e60-41c3-9e27-91291e0207f6/svn/cottage-white-zline-kitchen-and-bath-island-range-hoods-kbitt-30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 989.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322658790",
+      "modelNumber": "",
+      "brand": "VIKIO",
+      "title": "36 in. 900 CFM Island Mount wih LED Light and Glass Panel Range Hood in Stainless Steel",
+      "rating": {
+        "average": 4.125,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c97414fc-b55d-4d21-913d-59cb8ed702ec/svn/black-glass-and-stainless-steel-vikio-island-range-hoods-ikis01-36-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 659.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321421319",
+      "modelNumber": "",
+      "brand": "Akicon",
+      "title": "Range Hood Insert/Built-In 30 in. Ultra Quiet Powerful Suction Stainless Steel Ducted Kitchen Vent Hood with LED Lights",
+      "rating": {
+        "average": 4.4375,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3020e2fc-7ad8-486e-a6c5-43160bfa596d/svn/cool-light-akicon-insert-range-hoods-nx-hood-30-cold-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206888298",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "46 in. 700 CFM Ducted Range Hood Insert in Stainless Steel",
+      "rating": {
+        "average": 4.5752,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e191cf5e-105a-4a56-a5ce-3f8bde17e299/svn/brushed-stainless-steel-zline-kitchen-and-bath-insert-range-hoods-698-46-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1071.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312176349",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "36 in. 700 CFM Ducted Island Mount Range Hood in Stainless Steel",
+      "rating": {
+        "average": 4.3261,
+        "count": 46
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4cfaede0-b735-49b1-9126-0f6c8a614b6b/svn/brushed-stainless-steel-zline-kitchen-and-bath-island-range-hoods-kecomi-36-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1079.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312320490",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "36 in. 400 CFM Convertible Island Mount Range Hood in Black Stainless Steel",
+      "rating": {
+        "average": 4.5816,
+        "count": 392
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49b75a79-1e56-45a3-a263-3e9232dc2821/svn/black-stainless-steel-zline-kitchen-and-bath-island-range-hoods-bske2in-36-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 962.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306526719",
+      "modelNumber": "",
+      "brand": "Winflo",
+      "title": "Stainless Steel Chimney Extension (up to 11 ft. Ceiling) for Wall Mount Range Hood",
+      "rating": {
+        "average": 3.7179,
+        "count": 39
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1118b44a-5e35-4348-ad1d-2e42c6ce7727/svn/stainless-steel-winflo-range-hood-parts-wrhce03-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 135.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339349635",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "Stainless Steel Package with 36 in. 6-Burner Dual Fuel Range and 400 CFM Convertible Wall Mount Range Hood",
+      "rating": {
+        "average": 4.3871,
+        "count": 979
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/be9cb6af-c80d-47ec-9469-1246750a885f/svn/zline-kitchen-and-bath-single-oven-dual-fuel-ranges-2kp-rarh36-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3365.98,
+        "currency": "USD"
+      }
+    }
+  ]
 }

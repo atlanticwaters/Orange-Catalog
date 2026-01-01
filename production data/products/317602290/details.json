@@ -1,0 +1,45 @@
+{
+  "productId": "317602290",
+  "identifiers": {
+    "internetNumber": "317602290",
+    "modelNumber": "",
+    "storeSkuNumber": "317602290"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "Garage Ready 14.2 cu. ft. Frost Free Defrost Upright Freezer in White",
+  "shortDescription": "Garage Ready 14.2 cu. ft. Frost Free Defrost Upright Freezer in White",
+  "longDescription": "Garage Ready 14.2 cu. ft. Frost Free Defrost Upright Freezer in White",
+  "pricing": {
+    "currentPrice": 869.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5934,
+    "count": 6725
+  },
+  "media": {
+    "primaryImage": "/products/317602290/white-ge-upright-freezers-fuf14qrrww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317602290/white-ge-upright-freezers-fuf14qrrww-64_100.jpg",
+        "altText": "Garage Ready 14.2 cu. ft. Frost Free Defrost Upright Freezer in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.449570"
+}

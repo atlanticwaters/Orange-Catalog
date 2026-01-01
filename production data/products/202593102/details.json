@@ -1,0 +1,45 @@
+{
+  "productId": "202593102",
+  "identifiers": {
+    "internetNumber": "202593102",
+    "modelNumber": "",
+    "storeSkuNumber": "202593102"
+  },
+  "brand": {
+    "name": "Powermate",
+    "logoUrl": "images/brands/powermate.svg"
+  },
+  "title": "Air Hose with Tire Chuck",
+  "shortDescription": "Air Hose with Tire Chuck",
+  "longDescription": "Air Hose with Tire Chuck",
+  "pricing": {
+    "currentPrice": 7.76,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1562,
+    "count": 32
+  },
+  "media": {
+    "primaryImage": "/products/202593102/powermate-air-chucks-012-0146rp-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202593102/powermate-air-chucks-012-0146rp-64_100.jpg",
+        "altText": "Air Hose with Tire Chuck",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.522409"
+}

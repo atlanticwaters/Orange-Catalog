@@ -1,0 +1,45 @@
+{
+  "productId": "337442279",
+  "identifiers": {
+    "internetNumber": "337442279",
+    "modelNumber": "",
+    "storeSkuNumber": "337442279"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V MAX Lithium-Ion Battery Kit with 5.0 Ah and 2.0 Ah Battery Packs Charger and 6.0 Ah FLEX VOLT 60V/20V Battery Pack",
+  "shortDescription": "20V MAX Lithium-Ion Battery Kit with 5.0 Ah and 2.0 Ah Battery Packs Charger and 6.0 Ah FLEX VOLT 60V/20V Battery Pack",
+  "longDescription": "20V MAX Lithium-Ion Battery Kit with 5.0 Ah and 2.0 Ah Battery Packs Charger and 6.0 Ah FLEX VOLT 60V/20V Battery Pack",
+  "pricing": {
+    "currentPrice": 199.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5506,
+    "count": 879
+  },
+  "media": {
+    "primaryImage": "/products/337442279/dewalt-power-tool-batteries-dcb606wcb225-2c-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337442279/dewalt-power-tool-batteries-dcb606wcb225-2c-64_100.jpg",
+        "altText": "20V MAX Lithium-Ion Battery Kit with 5.0 Ah and 2.0 Ah Battery Packs Charger and 6.0 Ah FLEX VOLT 60V/20V Battery Pack",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.658117"
+}

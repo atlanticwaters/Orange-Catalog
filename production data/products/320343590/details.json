@@ -1,0 +1,45 @@
+{
+  "productId": "320343590",
+  "identifiers": {
+    "internetNumber": "320343590",
+    "modelNumber": "",
+    "storeSkuNumber": "320343590"
+  },
+  "brand": {
+    "name": "Lumax",
+    "logoUrl": "images/brands/lumax.svg"
+  },
+  "title": "Mini-Pistol Grip Grease Gun with 3 oz. Cartridge",
+  "shortDescription": "Mini-Pistol Grip Grease Gun with 3 oz. Cartridge",
+  "longDescription": "Mini-Pistol Grip Grease Gun with 3 oz. Cartridge",
+  "pricing": {
+    "currentPrice": 17.23,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.8095,
+    "count": 42
+  },
+  "media": {
+    "primaryImage": "/products/320343590/lumax-air-grease-guns-lx-1172-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320343590/lumax-air-grease-guns-lx-1172-64_100.jpg",
+        "altText": "Mini-Pistol Grip Grease Gun with 3 oz. Cartridge",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.616863"
+}

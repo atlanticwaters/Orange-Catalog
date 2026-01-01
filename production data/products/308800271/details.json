@@ -1,0 +1,45 @@
+{
+  "productId": "308800271",
+  "identifiers": {
+    "internetNumber": "308800271",
+    "modelNumber": "",
+    "storeSkuNumber": "308800271"
+  },
+  "brand": {
+    "name": "BEHR PREMIUM",
+    "logoUrl": "images/brands/behr-premium.svg"
+  },
+  "title": "5 gal. White Self-Priming 1 Part Epoxy Interior/Exterior Concrete and Garage Floor Paint",
+  "shortDescription": "5 gal. White Self-Priming 1 Part Epoxy Interior/Exterior Concrete and Garage Floor Paint",
+  "longDescription": "5 gal. White Self-Priming 1 Part Epoxy Interior/Exterior Concrete and Garage Floor Paint",
+  "pricing": {
+    "currentPrice": 212.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0433,
+    "count": 1063
+  },
+  "media": {
+    "primaryImage": "/products/308800271/white-satin-behr-premium-garage-floor-paint-90005-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308800271/white-satin-behr-premium-garage-floor-paint-90005-64_100.jpg",
+        "altText": "5 gal. White Self-Priming 1 Part Epoxy Interior/Exterior Concrete and Garage Floor Paint",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.600241"
+}

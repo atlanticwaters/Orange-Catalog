@@ -1,0 +1,45 @@
+{
+  "productId": "334223018",
+  "identifiers": {
+    "internetNumber": "334223018",
+    "modelNumber": "",
+    "storeSkuNumber": "334223018"
+  },
+  "brand": {
+    "name": "KENMORE",
+    "logoUrl": "images/brands/kenmore.svg"
+  },
+  "title": "4.0 cu. ft. Ventless Front-Load Stackable Front-Load Dryer in White",
+  "shortDescription": "4.0 cu. ft. Ventless Front-Load Stackable Front-Load Dryer in White",
+  "longDescription": "4.0 cu. ft. Ventless Front-Load Stackable Front-Load Dryer in White",
+  "pricing": {
+    "currentPrice": 899.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.24,
+    "count": 100
+  },
+  "media": {
+    "primaryImage": "/products/334223018/white-kenmore-electric-dryers-2681202-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334223018/white-kenmore-electric-dryers-2681202-64_100.jpg",
+        "altText": "4.0 cu. ft. Ventless Front-Load Stackable Front-Load Dryer in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.471879"
+}

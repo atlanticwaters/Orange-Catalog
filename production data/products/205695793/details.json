@@ -1,0 +1,45 @@
+{
+  "productId": "205695793",
+  "identifiers": {
+    "internetNumber": "205695793",
+    "modelNumber": "",
+    "storeSkuNumber": "205695793"
+  },
+  "brand": {
+    "name": "GarageEscape",
+    "logoUrl": "images/brands/garageescape.svg"
+  },
+  "title": "48 in. Aluminum Metal Groove Inserts",
+  "shortDescription": "48 in. Aluminum Metal Groove Inserts",
+  "longDescription": "48 in. Aluminum Metal Groove Inserts",
+  "pricing": {
+    "currentPrice": 113.44,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1379,
+    "count": 29
+  },
+  "media": {
+    "primaryImage": "/products/205695793/aluminum-garageescape-slatwall-panels-0924-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205695793/aluminum-garageescape-slatwall-panels-0924-64_100.jpg",
+        "altText": "48 in. Aluminum Metal Groove Inserts",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.626770"
+}

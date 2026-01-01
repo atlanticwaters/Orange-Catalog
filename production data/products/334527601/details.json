@@ -1,0 +1,45 @@
+{
+  "productId": "334527601",
+  "identifiers": {
+    "internetNumber": "334527601",
+    "modelNumber": "",
+    "storeSkuNumber": "334527601"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "500-Lumen Compact Rechargeable Flashlight with Holster Base",
+  "shortDescription": "500-Lumen Compact Rechargeable Flashlight with Holster Base",
+  "longDescription": "500-Lumen Compact Rechargeable Flashlight with Holster Base",
+  "pricing": {
+    "currentPrice": 19.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4355,
+    "count": 62
+  },
+  "media": {
+    "primaryImage": "/products/334527601/husky-handheld-flashlights-91648-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334527601/husky-handheld-flashlights-91648-64_100.jpg",
+        "altText": "500-Lumen Compact Rechargeable Flashlight with Holster Base",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.631760"
+}

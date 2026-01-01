@@ -1,0 +1,45 @@
+{
+  "productId": "100082336",
+  "identifiers": {
+    "internetNumber": "100082336",
+    "modelNumber": "",
+    "storeSkuNumber": "100082336"
+  },
+  "brand": {
+    "name": "Paslode",
+    "logoUrl": "images/brands/paslode.svg"
+  },
+  "title": "Pneumatic 3-1/2 in. 30 degree Air Corded PowerMaster Plus Clipped-Head Framing Nailer",
+  "shortDescription": "Pneumatic 3-1/2 in. 30 degree Air Corded PowerMaster Plus Clipped-Head Framing Nailer",
+  "longDescription": "Pneumatic 3-1/2 in. 30 degree Air Corded PowerMaster Plus Clipped-Head Framing Nailer",
+  "pricing": {
+    "currentPrice": 289.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4603,
+    "count": 189
+  },
+  "media": {
+    "primaryImage": "/products/100082336/paslode-framing-nailers-501000-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100082336/paslode-framing-nailers-501000-64_100.jpg",
+        "altText": "Pneumatic 3-1/2 in. 30 degree Air Corded PowerMaster Plus Clipped-Head Framing Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.484241"
+}

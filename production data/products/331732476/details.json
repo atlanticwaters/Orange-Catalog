@@ -1,0 +1,45 @@
+{
+  "productId": "331732476",
+  "identifiers": {
+    "internetNumber": "331732476",
+    "modelNumber": "",
+    "storeSkuNumber": "331732476"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "5 ft. Artificial Green Cedar Bush UV Resistant (Indoor/Outdoor)",
+  "shortDescription": "5 ft. Artificial Green Cedar Bush UV Resistant (Indoor/Outdoor)",
+  "longDescription": "5 ft. Artificial Green Cedar Bush UV Resistant (Indoor/Outdoor)",
+  "pricing": {
+    "currentPrice": 160.36,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/331732476/nearly-natural-artificial-shrubs-t4764-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331732476/nearly-natural-artificial-shrubs-t4764-64_100.jpg",
+        "altText": "5 ft. Artificial Green Cedar Bush UV Resistant (Indoor/Outdoor)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.648531"
+}

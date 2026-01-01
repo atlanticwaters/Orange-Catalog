@@ -1,0 +1,45 @@
+{
+  "productId": "312370596",
+  "identifiers": {
+    "internetNumber": "312370596",
+    "modelNumber": "",
+    "storeSkuNumber": "312370596"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "11 Gal. Wet/Dry HEPA Filter Dust Extractor/Vacuum",
+  "shortDescription": "11 Gal. Wet/Dry HEPA Filter Dust Extractor/Vacuum",
+  "longDescription": "11 Gal. Wet/Dry HEPA Filter Dust Extractor/Vacuum",
+  "pricing": {
+    "currentPrice": 819.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6316,
+    "count": 19
+  },
+  "media": {
+    "primaryImage": "/products/312370596/makita-dust-collectors-vc4210l-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312370596/makita-dust-collectors-vc4210l-64_100.jpg",
+        "altText": "11 Gal. Wet/Dry HEPA Filter Dust Extractor/Vacuum",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.674657"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "319751620",
+  "identifiers": {
+    "internetNumber": "319751620",
+    "modelNumber": "",
+    "storeSkuNumber": "319751620"
+  },
+  "brand": {
+    "name": "Freeman",
+    "logoUrl": "images/brands/freeman.svg"
+  },
+  "title": "2nd Generation Pneumatic 15 Degree 2-1/2 in. Coil Siding Nailer with Metal Belt Hook and 1/4 in. NPT Air Connector",
+  "shortDescription": "2nd Generation Pneumatic 15 Degree 2-1/2 in. Coil Siding Nailer with Metal Belt Hook and 1/4 in. NPT Air Connector",
+  "longDescription": "2nd Generation Pneumatic 15 Degree 2-1/2 in. Coil Siding Nailer with Metal Belt Hook and 1/4 in. NPT Air Connector",
+  "pricing": {
+    "currentPrice": 219.96,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9333,
+    "count": 15
+  },
+  "media": {
+    "primaryImage": "/products/319751620/freeman-siding-nailers-g2cn65-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/319751620/freeman-siding-nailers-g2cn65-64_100.jpg",
+        "altText": "2nd Generation Pneumatic 15 Degree 2-1/2 in. Coil Siding Nailer with Metal Belt Hook and 1/4 in. NPT Air Connector",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.528313"
+}

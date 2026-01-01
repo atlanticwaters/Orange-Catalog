@@ -1,0 +1,45 @@
+{
+  "productId": "317854723",
+  "identifiers": {
+    "internetNumber": "317854723",
+    "modelNumber": "",
+    "storeSkuNumber": "317854723"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "1/4 in. 3-Way Manifold",
+  "shortDescription": "1/4 in. 3-Way Manifold",
+  "longDescription": "1/4 in. 3-Way Manifold",
+  "pricing": {
+    "currentPrice": 20.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6333,
+    "count": 150
+  },
+  "media": {
+    "primaryImage": "/products/317854723/husky-air-tool-fittings-hkata091019-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317854723/husky-air-tool-fittings-hkata091019-64_100.jpg",
+        "altText": "1/4 in. 3-Way Manifold",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.619828"
+}

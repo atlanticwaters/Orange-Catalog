@@ -1,0 +1,45 @@
+{
+  "productId": "320703574",
+  "identifiers": {
+    "internetNumber": "320703574",
+    "modelNumber": "",
+    "storeSkuNumber": "320703574"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "5 cu. ft. Extra-Large Capacity Smart Front Load Washer in Brushed Black with Super Speed Wash and Steam",
+  "shortDescription": "5 cu. ft. Extra-Large Capacity Smart Front Load Washer in Brushed Black with Super Speed Wash and Steam",
+  "longDescription": "5 cu. ft. Extra-Large Capacity Smart Front Load Washer in Brushed Black with Super Speed Wash and Steam",
+  "pricing": {
+    "currentPrice": 1199.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6523,
+    "count": 1323
+  },
+  "media": {
+    "primaryImage": "/products/320703574/brushed-black-samsung-front-load-washers-wf50bg8300av-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320703574/brushed-black-samsung-front-load-washers-wf50bg8300av-64_100.jpg",
+        "altText": "5 cu. ft. Extra-Large Capacity Smart Front Load Washer in Brushed Black with Super Speed Wash and Steam",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.518323"
+}

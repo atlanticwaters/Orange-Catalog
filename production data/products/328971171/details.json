@@ -1,0 +1,45 @@
+{
+  "productId": "328971171",
+  "identifiers": {
+    "internetNumber": "328971171",
+    "modelNumber": "",
+    "storeSkuNumber": "328971171"
+  },
+  "brand": {
+    "name": "InSinkErator",
+    "logoUrl": "images/brands/insinkerator.svg"
+  },
+  "title": "Evolution 1300, 3/4 HP Garbage Disposal, Continuous Feed Food Waste Disposer w EZ Connect Cord & Putty-Free Sink Seal",
+  "shortDescription": "Evolution 1300, 3/4 HP Garbage Disposal, Continuous Feed Food Waste Disposer w EZ Connect Cord & Putty-Free Sink Seal",
+  "longDescription": "Evolution 1300, 3/4 HP Garbage Disposal, Continuous Feed Food Waste Disposer w EZ Connect Cord & Putty-Free Sink Seal",
+  "pricing": {
+    "currentPrice": 289.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4215,
+    "count": 522
+  },
+  "media": {
+    "primaryImage": "/products/328971171/insinkerator-garbage-disposals-evolution-1300-w-crd-ez-flg-seal-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328971171/insinkerator-garbage-disposals-evolution-1300-w-crd-ez-flg-seal-64_100.jpg",
+        "altText": "Evolution 1300, 3/4 HP Garbage Disposal, Continuous Feed Food Waste Disposer w EZ Connect Cord & Putty-Free Sink Seal",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.460792"
+}

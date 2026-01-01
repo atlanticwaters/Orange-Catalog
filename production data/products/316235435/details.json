@@ -1,0 +1,45 @@
+{
+  "productId": "316235435",
+  "identifiers": {
+    "internetNumber": "316235435",
+    "modelNumber": "",
+    "storeSkuNumber": "316235435"
+  },
+  "brand": {
+    "name": "The Home Depot",
+    "logoUrl": "images/brands/the-home-depot.svg"
+  },
+  "title": "20 in. L x 16 in. W x 15 in. D Medium Moving Shipping and Packing Box with Handles",
+  "shortDescription": "20 in. L x 16 in. W x 15 in. D Medium Moving Shipping and Packing Box with Handles",
+  "longDescription": "20 in. L x 16 in. W x 15 in. D Medium Moving Shipping and Packing Box with Handles",
+  "pricing": {
+    "currentPrice": 2.28,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5616,
+    "count": 20966
+  },
+  "media": {
+    "primaryImage": "/products/316235435/the-home-depot-moving-boxes-mbx-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316235435/the-home-depot-moving-boxes-mbx-64_100.jpg",
+        "altText": "20 in. L x 16 in. W x 15 in. D Medium Moving Shipping and Packing Box with Handles",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.423879"
+}

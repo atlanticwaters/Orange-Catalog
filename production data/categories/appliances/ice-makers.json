@@ -1,657 +1,572 @@
 {
   "categoryId": "appliances/ice-makers",
   "name": "Ice Makers",
-  "originalUrl": "https://www.homedepot.com/b/Appliances-Ice-Makers/N-5yc1vZ2fkour0",
-  "archiveTime": "2025-12-31T18:30:55.336Z",
+  "slug": "ice-makers",
+  "path": "/categories/appliances/ice-makers",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.706031",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Appliances",
-      "url": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w"
+      "label": "Appliances",
+      "url": "/appliances"
     },
     {
-      "name": "Ice Makers",
-      "url": "https://www.homedepot.com/b/Appliances-Ice-Makers/N-5yc1vZ2fkour0"
+      "label": "Ice Makers",
+      "url": "/appliances/ice-makers"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/12.avif",
-  "productIds": [
-    "205504269",
-    "205504275",
-    "207050866",
-    "207050899",
-    "207169820",
-    "302253240",
-    "305186649",
-    "305322350",
-    "305411502",
-    "305626986",
-    "306817210",
-    "308665729",
-    "308672788",
-    "308674577",
-    "308703944",
-    "308704353",
-    "308704441",
-    "309328282",
-    "309328284",
-    "309374689",
-    "311231763",
-    "312576635",
-    "312582884",
-    "313460578",
-    "315779324",
-    "319502657",
-    "319503107",
-    "319503467",
-    "319519717",
-    "319923566",
-    "319923732",
-    "320324356",
-    "320324360",
-    "322038211",
-    "324992974",
-    "325158253",
-    "326504176",
-    "326505236",
-    "326566082",
-    "326915276",
-    "328501726",
-    "328877543",
-    "331725579",
-    "331740898",
-    "331843223",
-    "332297204",
-    "332298926",
-    "332477067",
-    "333484523",
-    "333535381",
-    "333535410",
-    "333535581",
-    "334735374",
-    "334736604",
-    "334736658",
-    "336212327",
-    "336298758",
-    "336320655",
-    "336337079",
-    "336451236",
-    "337275019",
-    "337499479",
-    "337556967",
-    "337829964",
-    "337856797",
-    "338147250",
-    "338150266",
-    "338211196",
-    "338234282",
-    "338269732",
-    "338270355",
-    "338343906",
-    "338369666",
-    "338976899",
-    "339965410"
+  "pageInfo": {
+    "totalResults": 23
+  },
+  "featuredBrands": [
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 3
+    },
+    {
+      "brandId": "cowsar",
+      "brandName": "COWSAR",
+      "logoUrl": "images/brands/cowsar.svg",
+      "count": 3
+    },
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 2
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 2
+    },
+    {
+      "brandId": "simzlife",
+      "brandName": "SIMZLIFE",
+      "logoUrl": "images/brands/simzlife.svg",
+      "count": 2
+    },
+    {
+      "brandId": "euhomy",
+      "brandName": "EUHOMY",
+      "logoUrl": "images/brands/euhomy.svg",
+      "count": 2
+    },
+    {
+      "brandId": "zline-kitchen-and-bath",
+      "brandName": "ZLINE Kitchen and Bath",
+      "logoUrl": "images/brands/zline-kitchen-and-bath.svg",
+      "count": 2
+    },
+    {
+      "brandId": "frigidaire-gallery",
+      "brandName": "FRIGIDAIRE GALLERY",
+      "logoUrl": "images/brands/frigidaire-gallery.svg",
+      "count": 1
+    },
+    {
+      "brandId": "magic-chef",
+      "brandName": "Magic Chef",
+      "logoUrl": "images/brands/magic-chef.svg",
+      "count": 1
+    },
+    {
+      "brandId": "vissani",
+      "brandName": "Vissani",
+      "logoUrl": "images/brands/vissani.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 75,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/105.avif",
-        "url": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf29bb86004m-64_600.jpg"
-      },
-      {
-        "filename": "images/106.avif",
-        "url": "https://images.thdstatic.com/productImages/f08fc639-a68b-4b41-9e7a-e2c589ee474e/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf23bb86004m-64_600.jpg"
-      },
-      {
-        "filename": "images/107.avif",
-        "url": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg"
-      },
-      {
-        "filename": "images/108.avif",
-        "url": "https://images.thdstatic.com/productImages/f3824ac0-3b8e-4b46-b8cc-f56a5d572c96/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/109.avif",
-        "url": "https://images.thdstatic.com/productImages/5b111963-e652-4619-a4ac-59fe0319a51f/svn/charcoal-glass-matte-black-steel-samsung-french-door-refrigerators-rf29bb89008m-64_600.jpg"
-      },
-      {
-        "filename": "images/110.avif",
-        "url": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/111.avif",
-        "url": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_600.jpg"
-      },
-      {
-        "filename": "images/112.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_600.jpg"
-      },
-      {
-        "filename": "images/113.avif",
-        "url": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_600.jpg"
-      },
-      {
-        "filename": "images/114.avif",
-        "url": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_600.jpg"
-      },
-      {
-        "filename": "images/115.avif",
-        "url": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_600.jpg"
-      },
-      {
-        "filename": "images/116.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_600.jpg"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://images.thdstatic.com/productImages/1e72fbe9-6831-496c-980e-1a801efafa9f/svn/black-frigidaire-gallery-countertop-ice-makers-efic201-black-64_600.jpg"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "https://images.thdstatic.com/productImages/b3c3fe30-091a-4927-9d09-2ec0752a7b27/svn/stainless-magic-chef-countertop-ice-makers-hmim27st-64_600.jpg"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "https://images.thdstatic.com/productImages/6f5ca06b-be41-4f45-87c5-5fa06e2252a1/svn/printshield-stainless-finish-kitchenaid-undercounter-ice-makers-kuix315sps-64_600.jpg"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://images.thdstatic.com/productImages/e158984f-9dba-4ca0-aef1-00254b93770f/svn/stainless-steel-with-printshield-finish-kitchenaid-undercounter-ice-makers-kuix335hps-64_600.jpg"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://images.thdstatic.com/productImages/d43914cc-1196-45a4-b7c2-8d465c75f24a/svn/fingerprint-resistant-stainless-steel-whirlpool-undercounter-ice-makers-wui95x15hz-64_600.jpg"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "https://images.thdstatic.com/productImages/0e97fcda-4708-4226-a895-8a7102ee7534/svn/custom-panels-ge-undercounter-ice-makers-unc15npwii-64_600.jpg"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://images.thdstatic.com/productImages/ed10b71f-e2b0-4f15-83d6-3d41f1befe3f/svn/black-cowsar-countertop-ice-makers-hd58112rim0-bk-64_600.jpg"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://images.thdstatic.com/productImages/9b3ba11a-060c-4166-b322-9956d70f7bef/svn/black-euhomy-countertop-ice-makers-im025-nbs-e1-64_600.jpg"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://images.thdstatic.com/productImages/c672f483-f629-48d5-b34e-74a93bd02614/svn/black-euhomy-undercounter-ice-makers-cim010-80bl-s1-64_600.jpg"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/c3cf6b01-39af-48e5-a3e1-b08f2ed9cb98/svn/stainless-steel-ge-countertop-ice-makers-xpio13scss-64_600.jpg"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://images.thdstatic.com/productImages/cdce0124-5d66-448d-baab-ac5f275b7d68/svn/black-simzlife-countertop-ice-makers-im030-bbl-s2-64_600.jpg"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://images.thdstatic.com/productImages/732effb6-2c2f-41c8-8bdc-177767a6442c/svn/black-cowsar-countertop-ice-makers-58012rim1-bk-64_600.jpg"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://images.thdstatic.com/productImages/389482fd-a4ca-4da4-b9b7-c0e55cf7ab11/svn/gray-cowsar-countertop-ice-makers-58012rim1-gy-64_600.jpg"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://images.thdstatic.com/productImages/72fd8b11-28fb-4514-8143-d53adc538296/svn/black-cowsar-countertop-ice-makers-58020rim0-sl-64_600.jpg"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://images.thdstatic.com/productImages/3daecbdb-b127-459e-b13f-f1dc3190fe76/svn/black-simzlife-countertop-ice-makers-im030-bbl-s1-64_600.jpg"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://images.thdstatic.com/productImages/26d5246e-3f66-477e-a51a-19122b448f07/svn/black-euhomy-undercounter-ice-makers-cim010-80bl-e-64_600.jpg"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://images.thdstatic.com/productImages/ebad593a-55f2-455e-b115-aad4ce25693c/svn/black-euhomy-countertop-ice-makers-im024-sbl-e-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://images.thdstatic.com/productImages/964930a2-fc4c-4d85-be13-ee544b8b9038/svn/stainless-steel-edgestar-undercounter-ice-makers-ib250ssod-64_600.jpg"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://images.thdstatic.com/productImages/65bfedb6-2f54-42e1-8a9d-dc840017a991/svn/stainless-steel-thor-kitchen-undercounter-ice-makers-tim1501-64_600.jpg"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/36169d15-f1e8-4dc2-b185-32ad3de65769/svn/silver-simzlife-countertop-ice-makers-zx-im-15s-s-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://images.thdstatic.com/productImages/e5205bde-3e35-4eb6-8f01-db3d0a5e6738/svn/black-cowsar-countertop-ice-makers-hd58212rim0-bk-64_600.jpg"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://images.thdstatic.com/productImages/56c5453c-fc3a-492e-9dd9-cb8b0cf30ce5/svn/silver-euhomy-countertop-ice-makers-im018-l1bs-e1-64_600.jpg"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://images.thdstatic.com/productImages/d43914cc-1196-45a4-b7c2-8d465c75f24a/svn/fingerprint-resistant-stainless-steel-whirlpool-undercounter-ice-makers-wui75x15hz-64_600.jpg"
-      },
-      {
-        "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/153b9500-f6d0-4ae9-981a-8c2f2bd8e746/svn/stainless-steel-with-printshield-finish-kitchenaid-undercounter-ice-makers-kuix535hps-64_600.jpg"
-      },
-      {
-        "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/b85ec407-584b-4332-86b1-1c4c5bcf2ecd/svn/white-euhomy-countertop-ice-makers-im021-bbl-s-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/2c4a2bd8-6a7a-4339-9a6c-baa8f002f92e/svn/white-magic-chef-countertop-ice-makers-mcim22w-64_600.jpg"
-      },
-      {
-        "filename": "images/77.avif",
-        "url": "https://images.thdstatic.com/productImages/c289d408-179b-4a28-90f4-92d288052b3e/svn/stainless-steel-frigidaire-countertop-ice-makers-efic117-ss-64_600.jpg"
-      },
-      {
-        "filename": "images/76.avif",
-        "url": "https://images.thdstatic.com/productImages/dea202c2-72f2-448f-bad8-9262134255b6/svn/red-newair-countertop-ice-makers-ai-100r-64_600.jpg"
-      },
-      {
-        "filename": "images/28.avif",
-        "url": "https://images.thdstatic.com/productImages/0d29c5b4-fd36-411c-80b8-e9ed62901111/svn/stainless-steel-vissani-countertop-ice-makers-ak45-64_600.jpg"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://images.thdstatic.com/productImages/3f8ef20d-a533-4c19-96cf-fd771b7c5808/svn/silver-cowsar-undercounter-ice-makers-kk58036rci0-sl-64_600.jpg"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://images.thdstatic.com/productImages/5bef62ae-d088-4f03-9c45-2050d76e95a5/svn/black-euhomy-countertop-ice-makers-im025-nbs-s1-64_600.jpg"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://images.thdstatic.com/productImages/f48ee9da-8e3b-4857-8cca-d5fdebe77fd6/svn/black-edgestar-undercounter-ice-makers-ib450bl-64_600.jpg"
-      },
-      {
-        "filename": "images/59.avif",
-        "url": "https://images.thdstatic.com/productImages/38d3daae-ecb5-4828-9a51-f85426929a2e/svn/stainless-steel-cotlin-undercounter-ice-makers-imc25bi-64_600.jpg"
-      },
-      {
-        "filename": "images/68.avif",
-        "url": "https://images.thdstatic.com/productImages/2c7f8505-3724-4271-be52-657e1cd0b3ef/svn/silver-cowsar-countertop-ice-makers-z58hd20dn-sl-64_600.jpg"
-      },
-      {
-        "filename": "images/71.avif",
-        "url": "https://images.thdstatic.com/productImages/5a8c6a5a-b04a-4d3f-879f-9cd938b3295f/svn/black-stainless-ge-countertop-ice-makers-xpio13bcbt-64_600.jpg"
-      },
-      {
-        "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/c632344a-6c98-49a3-8284-3ea84b9c3b10/svn/red-magic-chef-countertop-ice-makers-mcim22r-64_600.jpg"
-      },
-      {
-        "filename": "images/74.avif",
-        "url": "https://images.thdstatic.com/productImages/213e9fee-91ee-471c-a50a-3258178cc919/svn/stainless-steel-black-newair-countertop-ice-makers-ai-215ss-64_600.jpg"
-      },
-      {
-        "filename": "images/82.avif",
-        "url": "https://images.thdstatic.com/productImages/87637d10-152c-4fce-ae30-74f6c6e2560f/svn/black-frigidaire-freestanding-ice-makers-efic101-black-64_600.jpg"
-      },
-      {
-        "filename": "images/83.avif",
-        "url": "https://images.thdstatic.com/productImages/fb93191a-d16d-470f-a959-8a922a7326b6/svn/stainless-steel-frigidaire-countertop-ice-makers-efic115-ss-64_600.jpg"
-      },
-      {
-        "filename": "images/84.avif",
-        "url": "https://images.thdstatic.com/productImages/7f108242-d424-42ae-a2c0-f611bdc86db4/svn/stainless-frigidaire-countertop-ice-makers-efic452-64_600.jpg"
-      },
-      {
-        "filename": "images/86.avif",
-        "url": "https://images.thdstatic.com/productImages/a45d987c-8833-4646-bbcf-a347ce1bdeb6/svn/black-simzlife-countertop-ice-makers-zx-im-16s-s-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/87.avif",
-        "url": "https://images.thdstatic.com/productImages/3c59cdca-49a5-4adc-b244-0f8220db42d9/svn/stainless-steel-zline-kitchen-and-bath-undercounter-ice-makers-iccd-st-15-64_600.jpg"
-      },
-      {
-        "filename": "images/88.avif",
-        "url": "https://images.thdstatic.com/productImages/924c6f78-021e-4a71-adab-a9a3d52e7ec6/svn/silver-cowsar-undercounter-ice-makers-kkz58sl36-64_600.jpg"
-      },
-      {
-        "filename": "images/91.avif",
-        "url": "https://images.thdstatic.com/productImages/69362082-33e3-499a-a81d-6db6d14fa815/svn/black-euhomy-countertop-ice-makers-im024-sbl-s-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/75.avif",
-        "url": "https://images.thdstatic.com/productImages/fd56ce83-7849-40e1-8811-9cbc46e49ab3/svn/black-stainless-ge-countertop-ice-makers-xpio23bcbt-64_600.jpg"
-      },
-      {
-        "filename": "images/60.avif",
-        "url": "https://images.thdstatic.com/productImages/1867048d-ba10-4fc7-90b3-a40b56ee733a/svn/stainless-steel-cotlin-undercounter-ice-makers-imc25bi-e4_600.jpg"
-      },
-      {
-        "filename": "images/104.avif",
-        "url": "https://images.thdstatic.com/productImages/c8b460e3-5fc6-4afe-a094-6ba1e1bc7614/svn/stainless-steel-cotlin-undercounter-ice-makers-zb04-64_600.jpg"
-      },
-      {
-        "filename": "images/93.avif",
-        "url": "https://images.thdstatic.com/productImages/44bb070f-d340-4d36-b5ac-3877fd63d2b4/svn/stainless-steel-edgestar-undercounter-ice-makers-ib250ss-64_600.jpg"
-      },
-      {
-        "filename": "images/98.avif",
-        "url": "https://images.thdstatic.com/productImages/cf8eed12-e041-4aae-8a42-7b178b14e8dc/svn/silver-stainless-steel-tittla-undercounter-ice-makers-hy45ft-e4_600.jpg"
-      },
-      {
-        "filename": "images/80.avif",
-        "url": "https://images.thdstatic.com/productImages/a0d6bf93-b250-4212-8a00-ab3da6b9cacb/svn/blue-frigidaire-countertop-ice-makers-efic113-blue-64_600.jpg"
-      },
-      {
-        "filename": "images/81.avif",
-        "url": "https://images.thdstatic.com/productImages/7a9c2591-e6b2-49c4-9e3e-d3388e669c9e/svn/black-frigidaire-countertop-ice-makers-efic117-ssblk-64_600.jpg"
-      },
-      {
-        "filename": "images/92.avif",
-        "url": "https://images.thdstatic.com/productImages/5de100bf-cdf5-4807-ab31-d95d52292bfa/svn/panel-ready-zline-kitchen-and-bath-undercounter-ice-makers-iccdp-15-64_600.jpg"
-      },
-      {
-        "filename": "images/99.avif",
-        "url": "https://images.thdstatic.com/productImages/79d7c36c-968a-4319-bee5-738c8d4353e7/svn/silver-simzlife-countertop-ice-makers-zx-im-18s-s-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/100.avif",
-        "url": "https://images.thdstatic.com/productImages/503f03e6-6e71-415c-a3fd-08194db26cd0/svn/black-stainless-steel-newair-countertop-ice-makers-nim005bsw0-64_600.jpg"
-      },
-      {
-        "filename": "images/97.avif",
-        "url": "https://images.thdstatic.com/productImages/a2ae1879-3475-4046-b946-0d8003f48cde/svn/silver-stainless-steel-tittla-undercounter-ice-makers-hy45ft-64_600.jpg"
-      },
-      {
-        "filename": "images/85.avif",
-        "url": "https://images.thdstatic.com/productImages/2bf64106-c9f7-4910-863d-d8e3828be16e/svn/stainless-steel-frigidaire-countertop-ice-makers-efic103-64_600.jpg"
-      },
-      {
-        "filename": "images/78.avif",
-        "url": "https://images.thdstatic.com/productImages/97f4012c-c1c7-4434-bcdc-9c680619d172/svn/silver-frigidaire-freestanding-ice-makers-efic108-silver-64_600.jpg"
-      },
-      {
-        "filename": "images/101.avif",
-        "url": "https://images.thdstatic.com/productImages/669733e9-d42f-4b60-b2f5-bd8311d8fa6e/svn/panel-ready-zline-kitchen-and-bath-undercounter-ice-makers-igmdp-15-64_600.jpg"
-      },
-      {
-        "filename": "images/102.avif",
-        "url": "https://images.thdstatic.com/productImages/dfe29cf6-a82c-44c8-aa25-b25cf9c22460/svn/stainless-steel-tittla-undercounter-ice-makers-hy90ef-64_600.jpg"
-      },
-      {
-        "filename": "images/103.avif",
-        "url": "https://images.thdstatic.com/productImages/adbb5cea-6040-41ed-be41-bf4a2e196bf0/svn/custom-panel-ge-undercounter-ice-makers-ucc15nprii-64_600.jpg"
-      },
-      {
-        "filename": "images/79.avif",
-        "url": "https://images.thdstatic.com/productImages/441fcb42-6283-41b4-99e9-4dfde6080e6f/svn/white-frigidaire-freestanding-ice-makers-efic108-white-64_600.jpg"
+  "products": [
+    {
+      "productId": "332298926",
+      "modelNumber": "",
+      "brand": "FRIGIDAIRE GALLERY",
+      "title": "33 Lb Countertop Nugget Ice Maker with Touch Controls with Stainless Steel Trim and a Matt Finish",
+      "rating": {
+        "average": 3.8622,
+        "count": 254
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1e72fbe9-6831-496c-980e-1a801efafa9f/svn/black-frigidaire-gallery-countertop-ice-makers-efic201-black-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/10.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
+    },
+    {
+      "productId": "331740898",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "15 in. 50 lb. Nugget Ice Built-in or Freestanding Ice Maker with Custom Panels and Integrated Water Filtration",
+      "rating": {
+        "average": 4.125,
+        "count": 24
       },
-      {
-        "filename": "images/121.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0e97fcda-4708-4226-a895-8a7102ee7534/svn/custom-panels-ge-undercounter-ice-makers-unc15npwii-64_100.jpg"
       },
-      {
-        "filename": "images/122.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/124.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/123.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
-      },
-      {
-        "filename": "images/125.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/126.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/127.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/128.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/129.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/130.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/131.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/132.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/133.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/134.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/135.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/136.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/137.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/138.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/139.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/140.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/141.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/142.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/143.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/144.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+      "price": {
+        "current": 3609.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+    },
+    {
+      "productId": "328877543",
+      "modelNumber": "",
+      "brand": "Magic Chef",
+      "title": "27 lbs. Bullet Ice Countertop Ice Maker in Stainless Steel",
+      "rating": {
+        "average": 4.3104,
+        "count": 3524
       },
-      {
-        "filename": "images/19.avif",
-        "url": "https://assets.thdstatic.com/images/special-buy--pod.jpg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b3c3fe30-091a-4927-9d09-2ec0752a7b27/svn/stainless-magic-chef-countertop-ice-makers-hmim27st-64_100.jpg"
       },
-      {
-        "filename": "images/11.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/14.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/f3/f3321849-389e-411a-92ab-27cd8861c659_300.jpg"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/c3/c3cf6b01-39af-48e5-a3e1-b08f2ed9cb98_300.jpg"
-      },
-      {
-        "filename": "images/13.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/ff/fffcc89d-0c6d-45c6-8fe0-ac5fa9d6561a_300.jpg"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/50/50cb8ed2-8a1d-4d89-8abb-0b40dc33fa81_300.jpg"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/15/153b9500-f6d0-4ae9-981a-8c2f2bd8e746_300.jpg"
-      },
-      {
-        "filename": "images/23.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/f1/f1cf8217-fa6a-4d25-b4dc-dfcbb84a760b_35.jpg"
-      },
-      {
-        "filename": "images/25.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/3a/3a3337bc-a58e-43a6-b3f9-1dcf12fd2f70_35.jpg"
-      },
-      {
-        "filename": "images/26.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/9d/9d1bd9b9-8d94-4b15-8e94-47dba05b6334_35.jpg"
-      },
-      {
-        "filename": "images/27.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/48/482c0924-2cab-48b9-aa58-2915b8ac7fb6_35.jpg"
-      },
-      {
-        "filename": "images/17.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/51/519e955c-c777-4644-9223-b3b48b05118d_300.jpg"
-      },
-      {
-        "filename": "images/33.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/b6/b6d3967f-eb98-4b88-8284-e5affb55514c_35.jpg"
-      },
-      {
-        "filename": "images/24.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/b5/b582023a-68bc-4c07-91ea-0e2d80483805_35.jpg"
-      },
-      {
-        "filename": "images/34.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/f8/f8ec7664-23b3-478b-8a30-4f81017ac2fd_35.jpg"
-      },
-      {
-        "filename": "images/52.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/ca/ca23bf75-dfad-460b-a445-49fafccd8c16_35.jpg"
-      },
-      {
-        "filename": "images/53.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/86/86a80c81-349a-44c6-be28-5389669bde68_35.jpg"
-      },
-      {
-        "filename": "images/55.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/4c/4c9da569-86a5-45e7-b253-fbca16aef4b4_35.jpg"
-      },
-      {
-        "filename": "images/57.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/27/27f38fa7-cf83-4491-a30e-308371699ecb_35.jpg"
-      },
-      {
-        "filename": "images/62.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/ad/addc70b1-1a5e-4775-beb4-a29baf2a406b_35.jpg"
-      },
-      {
-        "filename": "images/63.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/13/13fe21ec-e0a3-4016-aec3-86dd6911191c_35.jpg"
-      },
-      {
-        "filename": "images/56.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/69/69931ed1-47d2-4ce3-a40b-7cd286dda26d_35.jpg"
-      },
-      {
-        "filename": "images/64.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/00/00b2a6df-7013-4d1e-ab8e-6a1e47c892e1_35.jpg"
-      },
-      {
-        "filename": "images/66.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/0f/0f644c50-517f-4187-85e7-61b239a59ced_35.jpg"
-      },
-      {
-        "filename": "images/69.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/1e/1e2c8d1c-0a23-4589-96f6-db0cd5a4f110_35.jpg"
-      },
-      {
-        "filename": "images/70.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/14/14564d57-da8a-448c-a2c9-28b9ff95feee_35.jpg"
-      },
-      {
-        "filename": "images/67.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/7f/7fbcd416-1718-4764-b85c-a9f4e7cf85f3_35.jpg"
-      },
-      {
-        "filename": "images/89.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/78/78670ebb-8d9f-4dae-b5df-b1f226c6f36c_35.jpg"
-      },
-      {
-        "filename": "images/90.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/d2/d22b8978-7857-4015-8d30-3e690e9684ea_35.jpg"
-      },
-      {
-        "filename": "images/94.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/14/1486eb42-57a5-4770-ae99-6c68bc76d070_35.jpg"
-      },
-      {
-        "filename": "images/95.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/ba/ba358ba6-fba2-4779-bf45-d5a53c6e121c_35.jpg"
-      },
-      {
-        "filename": "images/96.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/6e/6e91a330-194b-401d-a826-a07834c7f113_35.jpg"
-      },
-      {
-        "filename": "images/117.avif",
-        "url": "https://images.thdstatic.com/productImages/0d29c5b4-fd36-411c-80b8-e9ed62901111/svn/stainless-steel-vissani-countertop-ice-makers-ak45-64_300.jpg"
-      },
-      {
-        "filename": "images/118.avif",
-        "url": "https://images.thdstatic.com/productImages/1e72fbe9-6831-496c-980e-1a801efafa9f/svn/black-frigidaire-gallery-countertop-ice-makers-efic201-black-64_300.jpg"
-      },
-      {
-        "filename": "images/119.avif",
-        "url": "https://images.thdstatic.com/productImages/b3c3fe30-091a-4927-9d09-2ec0752a7b27/svn/stainless-magic-chef-countertop-ice-makers-hmim27st-64_300.jpg"
-      },
-      {
-        "filename": "images/120.avif",
-        "url": "https://images.thdstatic.com/productImages/0e97fcda-4708-4226-a895-8a7102ee7534/svn/custom-panels-ge-undercounter-ice-makers-unc15npwii-64_300.jpg"
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Ice Makers - The Home Depot",
-    "categoryType": "PLP Landing Pages",
-    "categoryFolder": "Ice Makers"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "333484523",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "Vissani Countertop Portable Nugget Ice Maker in Stainless Steel with Automatic Cleaning Function",
+      "rating": {
+        "average": 3.9028,
+        "count": 72
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0d29c5b4-fd36-411c-80b8-e9ed62901111/svn/stainless-steel-vissani-countertop-ice-makers-ak45-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338976899",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "15 in. lb. Cubes Built-In Ice Maker in PrintShield Stainless Finish with Fully Flush Installation",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6f5ca06b-be41-4f45-87c5-5fa06e2252a1/svn/printshield-stainless-finish-kitchenaid-undercounter-ice-makers-kuix315sps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2749.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308674577",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "50 lb. Built-in Ice Maker in PrintShield Stainless Steel",
+      "rating": {
+        "average": 3.9039,
+        "count": 229
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e158984f-9dba-4ca0-aef1-00254b93770f/svn/stainless-steel-with-printshield-finish-kitchenaid-undercounter-ice-makers-kuix335hps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2469.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308704441",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "15 in. 50 lb. Built-In Ice Maker in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.9752,
+        "count": 121
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d43914cc-1196-45a4-b7c2-8d465c75f24a/svn/fingerprint-resistant-stainless-steel-whirlpool-undercounter-ice-makers-wui95x15hz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2339.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337499479",
+      "modelNumber": "",
+      "brand": "COWSAR",
+      "title": "15.28 in. 80 lbs. Per Day Full Size Cubes Freestanding Built-in Ice Maker with 22 lbs. Storage in Stainless Steel Silver",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3f8ef20d-a533-4c19-96cf-fd771b7c5808/svn/silver-cowsar-undercounter-ice-makers-kk58036rci0-sl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 220.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315779324",
+      "modelNumber": "",
+      "brand": "Thor Kitchen",
+      "title": "15 in. 50 lbs. Built-in Ice Maker in Stainless Steel",
+      "rating": {
+        "average": 4.3333,
+        "count": 108
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/65bfedb6-2f54-42e1-8a9d-dc840017a991/svn/stainless-steel-thor-kitchen-undercounter-ice-makers-tim1501-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320324360",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile Opal 38lbs. 13.5in. Daily Nugget Portable Ice Maker w/ Wi-Fi and Auto Ice Level Control - Stainless Steel Finish",
+      "rating": {
+        "average": 4.4534,
+        "count": 5783
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c3cf6b01-39af-48e5-a3e1-b08f2ed9cb98/svn/stainless-steel-ge-countertop-ice-makers-xpio13scss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308704353",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "15 in. 50 lb. Built-In Ice Maker in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.1575,
+        "count": 362
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d43914cc-1196-45a4-b7c2-8d465c75f24a/svn/fingerprint-resistant-stainless-steel-whirlpool-undercounter-ice-makers-wui75x15hz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2019.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333535381",
+      "modelNumber": "",
+      "brand": "SIMZLIFE",
+      "title": "9.1 in. 35 lb. /24H Nugget Ice Countertop Portable Ice Maker in Silver, Stainless Steel, Ready in 6 Mins, Auto-Cleaning",
+      "rating": {
+        "average": 4.25,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/36169d15-f1e8-4dc2-b185-32ad3de65769/svn/silver-simzlife-countertop-ice-makers-zx-im-15s-s-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328501726",
+      "modelNumber": "",
+      "brand": "COTLIN",
+      "title": "15 in. Undercounter/Freestanding Ice Maker in Stainless Steel, 25 lbs/Day Crescent Ice, 22 lb. Storage, Reversible Door",
+      "rating": {
+        "average": 4.2857,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38d3daae-ecb5-4828-9a51-f85426929a2e/svn/stainless-steel-cotlin-undercounter-ice-makers-imc25bi-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 889.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308703944",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "15 in. 50 lb. Built-In Ice Maker in PrintShield Stainless Steel",
+      "rating": {
+        "average": 3.8721,
+        "count": 305
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/153b9500-f6d0-4ae9-981a-8c2f2bd8e746/svn/stainless-steel-with-printshield-finish-kitchenaid-undercounter-ice-makers-kuix535hps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2829.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336320655",
+      "modelNumber": "",
+      "brand": "EUHOMY",
+      "title": "8.1 in. 27 lb./Day Bullet Countertop Portable Ice Maker in Black with 2-Ice Sizes, Ice Scoop, Self-Cleaning, 6-Min Ice",
+      "rating": {
+        "average": 4.6154,
+        "count": 26
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b85ec407-584b-4332-86b1-1c4c5bcf2ecd/svn/white-euhomy-countertop-ice-makers-im021-bbl-s-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332477067",
+      "modelNumber": "",
+      "brand": "COWSAR",
+      "title": "10.63 in. 44 lbs. Countertop or Portable Nugget/Pebble Ice Maker in Stainless Steel Silver",
+      "rating": {
+        "average": 4.5793,
+        "count": 145
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2c7f8505-3724-4271-be52-657e1cd0b3ef/svn/silver-cowsar-countertop-ice-makers-z58hd20dn-sl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 271.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333535410",
+      "modelNumber": "",
+      "brand": "SIMZLIFE",
+      "title": "9.6 in. 45lb/24H Nugget Ice Countertop Portable Ice Maker in Black - 9 Cubes/6Mins, Auto-Clean, Basket and Scoop",
+      "rating": {
+        "average": 4.1562,
+        "count": 32
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a45d987c-8833-4646-bbcf-a347ce1bdeb6/svn/black-simzlife-countertop-ice-makers-zx-im-16s-s-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334736658",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "Touchstone 15 in. 75 lb. Full Size Ice Cubes Per Day Ice Maker with Drain Pump and Solid Stainless Steel Door",
+      "rating": {
+        "average": 4.7692,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c59cdca-49a5-4adc-b244-0f8220db42d9/svn/stainless-steel-zline-kitchen-and-bath-undercounter-ice-makers-iccd-st-15-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2719.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336212327",
+      "modelNumber": "",
+      "brand": "COWSAR",
+      "title": "15 in. 80 lb. /24H Freestanding/Built-in Ice Maker 25 lb. Storage, 3-Thick Ice Cube Sizes in Stainless Steel Silver",
+      "rating": {
+        "average": 3.5556,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/924c6f78-021e-4a71-adab-a9a3d52e7ec6/svn/silver-cowsar-undercounter-ice-makers-kkz58sl36-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 609.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336337079",
+      "modelNumber": "",
+      "brand": "EUHOMY",
+      "title": "12.6 in. 22 lbs. Whiskey Ball Shaped Cocktail Ice Portable Countertop Ice Maker in Black with Auto-Cleaning",
+      "rating": {
+        "average": 3.6429,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/69362082-33e3-499a-a81d-6db6d14fa815/svn/black-euhomy-countertop-ice-makers-im024-sbl-s-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 339.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334736604",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "Touchstone 15 in. 75 lb. Full Size Ice Cubes Per Day Ice Maker with Drain Pump in Panel Ready Custom Door",
+      "rating": {
+        "average": 4.9167,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5de100bf-cdf5-4807-ab31-d95d52292bfa/svn/panel-ready-zline-kitchen-and-bath-undercounter-ice-makers-iccdp-15-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2464.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312582884",
+      "modelNumber": "",
+      "brand": "EdgeStar",
+      "title": "15 in. Wide 20 lbs. Built-In Ice Maker in Stainless Steel and Black with upto 25 lbs. Daily Ice Production",
+      "rating": {
+        "average": 3.404,
+        "count": 151
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/44bb070f-d340-4d36-b5ac-3877fd63d2b4/svn/stainless-steel-edgestar-undercounter-ice-makers-ib250ss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326504176",
+      "modelNumber": "",
+      "brand": "TITTLA",
+      "title": "14 in. 120 lbs. Full Size Ice Cubes per day Ice Maker with Water Filter Interior Blue LEDs in Silver Stainless Steel",
+      "rating": {
+        "average": 3.597,
+        "count": 67
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a2ae1879-3475-4046-b946-0d8003f48cde/svn/silver-stainless-steel-tittla-undercounter-ice-makers-hy45ft-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.99,
+        "currency": "USD"
+      }
+    }
+  ]
 }

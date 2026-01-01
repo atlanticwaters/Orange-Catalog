@@ -1,0 +1,45 @@
+{
+  "productId": "313115321",
+  "identifiers": {
+    "internetNumber": "313115321",
+    "modelNumber": "",
+    "storeSkuNumber": "313115321"
+  },
+  "brand": {
+    "name": "DIABLO",
+    "logoUrl": "images/brands/diablo.svg"
+  },
+  "title": "T-Shank Jig Saw Blade Set (20-Piece)",
+  "shortDescription": "T-Shank Jig Saw Blade Set (20-Piece)",
+  "longDescription": "T-Shank Jig Saw Blade Set (20-Piece)",
+  "pricing": {
+    "currentPrice": 25.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7063,
+    "count": 1597
+  },
+  "media": {
+    "primaryImage": "/products/313115321/diablo-jigsaw-blade-djt20s-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313115321/diablo-jigsaw-blade-djt20s-64_100.jpg",
+        "altText": "T-Shank Jig Saw Blade Set (20-Piece)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.669197"
+}

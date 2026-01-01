@@ -1,0 +1,45 @@
+{
+  "productId": "329445515",
+  "identifiers": {
+    "internetNumber": "329445515",
+    "modelNumber": "",
+    "storeSkuNumber": "329445515"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "10 ft. Artificial Travelers Palm Tree",
+  "shortDescription": "10 ft. Artificial Travelers Palm Tree",
+  "longDescription": "10 ft. Artificial Travelers Palm Tree",
+  "pricing": {
+    "currentPrice": 213.75,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/329445515/nearly-natural-artificial-trees-t4679-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329445515/nearly-natural-artificial-trees-t4679-64_100.jpg",
+        "altText": "10 ft. Artificial Travelers Palm Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.501696"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "316307827",
+  "identifiers": {
+    "internetNumber": "316307827",
+    "modelNumber": "",
+    "storeSkuNumber": "316307827"
+  },
+  "brand": {
+    "name": "Chamberlain",
+    "logoUrl": "images/brands/chamberlain.svg"
+  },
+  "title": "3/4 HP Smart Quiet Belt Drive Garage Door Opener",
+  "shortDescription": "3/4 HP Smart Quiet Belt Drive Garage Door Opener",
+  "longDescription": "3/4 HP Smart Quiet Belt Drive Garage Door Opener",
+  "pricing": {
+    "currentPrice": 271.2,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4366,
+    "count": 2412
+  },
+  "media": {
+    "primaryImage": "/products/316307827/chamberlain-garage-door-openers-b4505t-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316307827/chamberlain-garage-door-openers-b4505t-64_100.jpg",
+        "altText": "3/4 HP Smart Quiet Belt Drive Garage Door Opener",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.558368"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "332294366",
+  "identifiers": {
+    "internetNumber": "332294366",
+    "modelNumber": "",
+    "storeSkuNumber": "332294366"
+  },
+  "brand": {
+    "name": "Simply Bio",
+    "logoUrl": "images/brands/simply-bio.svg"
+  },
+  "title": "64 Gal. Compostable Trash Bags, Flat Top Heavy-Duty 2 mil Large Lawn and Yard Waste Bag, Leaf Bag (12-Count)",
+  "shortDescription": "64 Gal. Compostable Trash Bags, Flat Top Heavy-Duty 2 mil Large Lawn and Yard Waste Bag, Leaf Bag (12-Count)",
+  "longDescription": "64 Gal. Compostable Trash Bags, Flat Top Heavy-Duty 2 mil Large Lawn and Yard Waste Bag, Leaf Bag (12-Count)",
+  "pricing": {
+    "currentPrice": 21.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.3333,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/332294366/simply-bio-lawn-leaf-bags-sb-64gal-f-12pk-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332294366/simply-bio-lawn-leaf-bags-sb-64gal-f-12pk-64_100.jpg",
+        "altText": "64 Gal. Compostable Trash Bags, Flat Top Heavy-Duty 2 mil Large Lawn and Yard Waste Bag, Leaf Bag (12-Count)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.568047"
+}

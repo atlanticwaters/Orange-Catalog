@@ -1,0 +1,45 @@
+{
+  "productId": "309991679",
+  "identifiers": {
+    "internetNumber": "309991679",
+    "modelNumber": "",
+    "storeSkuNumber": "309991679"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout",
+  "shortDescription": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout",
+  "longDescription": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.448,
+    "count": 125
+  },
+  "media": {
+    "primaryImage": "/products/309991679/ridgid-pin-nailers-r138hpf-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309991679/ridgid-pin-nailers-r138hpf-64_100.jpg",
+        "altText": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.487907"
+}

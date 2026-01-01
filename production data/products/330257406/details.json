@@ -1,0 +1,45 @@
+{
+  "productId": "330257406",
+  "identifiers": {
+    "internetNumber": "330257406",
+    "modelNumber": "",
+    "storeSkuNumber": "330257406"
+  },
+  "brand": {
+    "name": "Harper & Bright Designs",
+    "logoUrl": "images/brands/harper-bright-designs.svg"
+  },
+  "title": "123 in. W Pillow Top Arm Velvet U-Shaped Sectional Sofa in. Gray with 4 Lumbar Pillows, Console, Cup Holders, USB Ports",
+  "shortDescription": "123 in. W Pillow Top Arm Velvet U-Shaped Sectional Sofa in. Gray with 4 Lumbar Pillows, Console, Cup Holders, USB Ports",
+  "longDescription": "123 in. W Pillow Top Arm Velvet U-Shaped Sectional Sofa in. Gray with 4 Lumbar Pillows, Console, Cup Holders, USB Ports",
+  "pricing": {
+    "currentPrice": 792.39,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.2857,
+    "count": 7
+  },
+  "media": {
+    "primaryImage": "/products/330257406/gray-harper-bright-designs-sectional-sofas-gtt029aae-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330257406/gray-harper-bright-designs-sectional-sofas-gtt029aae-64_100.jpg",
+        "altText": "123 in. W Pillow Top Arm Velvet U-Shaped Sectional Sofa in. Gray with 4 Lumbar Pillows, Console, Cup Holders, USB Ports",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.588457"
+}

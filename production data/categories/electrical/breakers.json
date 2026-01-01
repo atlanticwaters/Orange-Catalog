@@ -1,0 +1,200 @@
+{
+  "categoryId": "electrical/breakers",
+  "name": "Breakers",
+  "slug": "breakers",
+  "path": "/categories/electrical/breakers",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.716262",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Electrical",
+      "url": "/electrical"
+    },
+    {
+      "label": "Breakers",
+      "url": "/electrical/breakers"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 7
+  },
+  "featuredBrands": [
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 3
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 2
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 1
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "202080349",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "15 Amp 1-1/8 in. Corded Concrete Electric Hex Breaker Hammer Kit with Hard Carrying Case with Wheels",
+      "rating": {
+        "average": 4.5082,
+        "count": 122
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbceef89-5186-4012-ae76-6d7b863472e6/svn/bosch-demolition-breaker-hammers-11335k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202869505",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Brute 15 Amp 1-1/8 in. Corded Concrete Portable Electric Hex Breaker Hammer Kit with Cart and 2 Chisels",
+      "rating": {
+        "average": 4.7292,
+        "count": 48
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c005315-9bd4-41ae-b19c-3cf3ebc00e25/svn/bosch-demolition-breaker-hammers-bh2760vcb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311739614",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "MX FUEL Lithium-Ion Cordless 1-1/8 in. Breaker with Battery and Charger",
+      "rating": {
+        "average": 4.3214,
+        "count": 28
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8778e2a9-ac33-4d2c-92e0-6c365d49fadf/svn/milwaukee-demolition-breaker-hammers-mxf368-1xc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202993943",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "15 Amp 1-1/8 in. Hex Corded 70 lb. AVT Breaker Hammer with Anti-Vibration Technology, Cart and (4) Bits",
+      "rating": {
+        "average": 4.5,
+        "count": 54
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6530bbe0-b0f1-4a48-aec3-d004414cd1a1/svn/makita-demolition-breaker-hammers-hm1810x3-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203866691",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Brute Turbo 15 Amp 1-1/8 in. Corded Concrete/Masonry Variable Speed Electric Hex Breaker Hammer Kit w/ Cart & 4 Chisels",
+      "rating": {
+        "average": 4.8387,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dd13b2ec-5e40-47e9-b6db-2618cf4cf2cf/svn/bosch-demolition-breaker-hammers-bh2770vcd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206356257",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "70 lb. 1-1/8 in. Hex Advanced AVT Breaker Hammer",
+      "rating": {
+        "average": 4.3333,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0852f104-bf1c-4637-a463-b50ca6247dc2/svn/makita-demolition-breaker-hammers-hm1812x3-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2689.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327242236",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "39.5 in. x 20 in. 60-Volt Lithium-Lon Cordless HEX Breaker Hammer Kit with two 15 Ah Batteries and Charger",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a08012ae-f946-501c-8dc3-9bfe4c0d8b81/svn/dewalt-demolition-breaker-hammers-dch966z2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2399.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "337641120",
+  "identifiers": {
+    "internetNumber": "337641120",
+    "modelNumber": "",
+    "storeSkuNumber": "337641120"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Subcompact Multi-Material Saw",
+  "shortDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Subcompact Multi-Material Saw",
+  "longDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Subcompact Multi-Material Saw",
+  "pricing": {
+    "currentPrice": 278.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4696,
+    "count": 1248
+  },
+  "media": {
+    "primaryImage": "/products/337641120/ridgid-power-cutting-tools-ac8609340sb-r87547b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337641120/ridgid-power-cutting-tools-ac8609340sb-r87547b-64_100.jpg",
+        "altText": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Subcompact Multi-Material Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.670162"
+}

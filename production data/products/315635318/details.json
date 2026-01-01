@@ -1,0 +1,45 @@
+{
+  "productId": "315635318",
+  "identifiers": {
+    "internetNumber": "315635318",
+    "modelNumber": "",
+    "storeSkuNumber": "315635318"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "3-Ton Car Jack Stands",
+  "shortDescription": "3-Ton Car Jack Stands",
+  "longDescription": "3-Ton Car Jack Stands",
+  "pricing": {
+    "currentPrice": 49.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4314,
+    "count": 612
+  },
+  "media": {
+    "primaryImage": "/products/315635318/black-husky-jack-stands-hpl4124-zd-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/315635318/black-husky-jack-stands-hpl4124-zd-64_100.jpg",
+        "altText": "3-Ton Car Jack Stands",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.536621"
+}

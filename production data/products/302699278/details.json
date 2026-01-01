@@ -1,0 +1,45 @@
+{
+  "productId": "302699278",
+  "identifiers": {
+    "internetNumber": "302699278",
+    "modelNumber": "",
+    "storeSkuNumber": "302699278"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "3.1 cu. ft. High-Efficiency White Front Load Commercial Washing Machine Coin Operated",
+  "shortDescription": "3.1 cu. ft. High-Efficiency White Front Load Commercial Washing Machine Coin Operated",
+  "longDescription": "3.1 cu. ft. High-Efficiency White Front Load Commercial Washing Machine Coin Operated",
+  "pricing": {
+    "currentPrice": 1749.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.7632,
+    "count": 38
+  },
+  "media": {
+    "primaryImage": "/products/302699278/white-whirlpool-top-load-washers-chw9150gw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302699278/white-whirlpool-top-load-washers-chw9150gw-64_100.jpg",
+        "altText": "3.1 cu. ft. High-Efficiency White Front Load Commercial Washing Machine Coin Operated",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.478297"
+}

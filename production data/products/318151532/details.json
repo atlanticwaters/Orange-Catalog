@@ -1,0 +1,45 @@
+{
+  "productId": "318151532",
+  "identifiers": {
+    "internetNumber": "318151532",
+    "modelNumber": "",
+    "storeSkuNumber": "318151532"
+  },
+  "brand": {
+    "name": "Martha Stewart Living",
+    "logoUrl": "images/brands/martha-stewart-living.svg"
+  },
+  "title": "300 Threadcount Sateen Cotton RDS Down Light Warmth King Comforter",
+  "shortDescription": "300 Threadcount Sateen Cotton RDS Down Light Warmth King Comforter",
+  "longDescription": "300 Threadcount Sateen Cotton RDS Down Light Warmth King Comforter",
+  "pricing": {
+    "currentPrice": 156.22,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.9231,
+    "count": 26
+  },
+  "media": {
+    "primaryImage": "/products/318151532/martha-stewart-living-comforters-ms010206-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318151532/martha-stewart-living-comforters-ms010206-64_100.jpg",
+        "altText": "300 Threadcount Sateen Cotton RDS Down Light Warmth King Comforter",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.473045"
+}

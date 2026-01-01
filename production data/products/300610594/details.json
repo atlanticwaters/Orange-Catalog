@@ -1,0 +1,45 @@
+{
+  "productId": "300610594",
+  "identifiers": {
+    "internetNumber": "300610594",
+    "modelNumber": "",
+    "storeSkuNumber": "300610594"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "FLEXVOLT 20V/60V MAX Lithium-Ion 9.0Ah Battery",
+  "shortDescription": "FLEXVOLT 20V/60V MAX Lithium-Ion 9.0Ah Battery",
+  "longDescription": "FLEXVOLT 20V/60V MAX Lithium-Ion 9.0Ah Battery",
+  "pricing": {
+    "currentPrice": 259.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5615,
+    "count": 2089
+  },
+  "media": {
+    "primaryImage": "/products/300610594/dewalt-power-tool-batteries-dcb609-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300610594/dewalt-power-tool-batteries-dcb609-64_100.jpg",
+        "altText": "FLEXVOLT 20V/60V MAX Lithium-Ion 9.0Ah Battery",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.658047"
+}

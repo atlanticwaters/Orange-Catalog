@@ -12,7 +12,7 @@
   "filters": [],
   "quickFilters": [],
   "featuredBrands": [],
-  "heroImage": "images/11.avif",
+  "heroImage": "../images/heroes/11.avif",
   "productIds": [
     "316235435",
     "322631796",
@@ -25,311 +25,303 @@
     "600px": [
       {
         "filename": "images/14.avif",
-        "url": "https://dam.thdstatic.com/content/production/dD70x1zSUPUCqpmxtGbzEg/apBWI8WD09Nll_FM7UiRXA/Original%20file/WinterStorageSavings-PromoNavPod1.1.jpg?im=Resize=(328,328)"
+        "url": "../images/heroes/14.avif"
       },
       {
         "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/QSQlLO0eHGYgVLHAbfMRKg/GAR7jXYEglxTrDxe8tXGpA/Original%20file/WinterStorageSavings-PromoNavPod3.jpg?im=Resize=(328,328)"
+        "url": "../images/heroes/15.avif"
       },
       {
         "filename": "images/16.avif",
-        "url": "https://dam.thdstatic.com/content/production/caDcMiohnTwSgYb3hb8oyw/mf_AVBLZMynG_eeulyTWLw/Original%20file/WinterStorageSavings-PromoNavPod4.jpg?im=Resize=(328,328)"
+        "url": "../images/heroes/16.avif"
       },
       {
         "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/content/production/qntE-iX2OWfYb_rpvoHjJg/_GTU0xi6QPe6QSLiij_FMA/Original%20file/WinterStorageSavings-PromoNavPod5.jpg?im=Resize=(328,328)"
+        "url": "../images/heroes/17.avif"
       },
       {
         "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/Ughy-qefz1OOHwtTzrtbAg/3VzUu2xu8b-LrPe_ISJTrA/Original%20file/WinterStorageSavings-PromoNavPod6.1.png?im=Resize=(328,328)"
+        "url": "../images/ui/18.avif"
       },
       {
         "filename": "images/21.avif",
-        "url": "https://dam.thdstatic.com/content/production/vnvNtI8yLLAyymu7sOjZ3g/Q0o2gbGXUukiekWyGplgVQ/optimizedFile/1_2020_WSE_Signage_205978361_S.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/21.avif"
       },
       {
         "filename": "images/22.avif",
-        "url": "https://dam.thdstatic.com/content/production/KWCevlA8A0hdDZQQomH2uA/DU8xjF3XTI--NsfEYGRAEQ/optimizedFile/d90ea779-32e0-4881-a26e-ed11e8f33ed9_outdoor-shed-single_p3.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/22.avif"
       },
       {
         "filename": "images/23.avif",
-        "url": "https://dam.thdstatic.com/content/production/Q-kk2lPOOPtBEdkU6gtAbQ/PhtE84QhExlfsldTrKrE5g/Original%20file/2d372012-4657-4621-a25c-49fd60a22d85_210412_Pratt_Corrugate_1006188660_Heavy-Duty-Extra-Small-Moving-Box_CLOSED.jpeg?im=Crop,rect=(174.59935897435898,187.0592948717949,644.0504807692308,644.0504807692308);Resize=(703,703)"
+        "url": "../images/heroes/23.avif"
       },
       {
         "filename": "images/24.avif",
-        "url": "https://dam.thdstatic.com/content/production/J5TJ-WS2j9Fgb8L60UQH0Q/XLsIJU1nYjxAjQr6wLFwvA/Original%20file/c4ec01e1-2e9d-40b8-b2d6-b7f864c298bb_gg_11236600_3a_-top.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/24.avif"
       },
       {
         "filename": "images/27.avif",
-        "url": "https://dam.thdstatic.com/content/production/4HdwzEkfwfawCO6uwBkHIQ/ZGP9HOK0SuwM3fGkovvBMg/optimizedFile/117c6e7d-2cff-401a-88a1-78a883cbbcc0_PH167-WH_4.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/27.avif"
       },
       {
         "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/c0ZdXoIdeVTh9nHZ1864Uw/EQm05o_iMzJBxDs_3uM8jQ/Original%20file/7d46592e-87b6-4768-ad99-7b31f19caf26_54945_lifestyle.jpeg?im=Resize=(703,703)"
+        "url": "../images/ui/30.avif"
       },
       {
         "filename": "images/31.avif",
-        "url": "https://dam.thdstatic.com/content/production/c0CovSXtnhc7tCQS4K_dxA/7P0032iukp4Lagv_vHgGQw/optimizedFile/8c8b0f36-7d13-4553-b689-c464681ba671_TBFZ-2702_Livingroom_Prop.jpeg?im=Crop,rect=(0,62.03076923076924,1440.36355475763,1439.9942307692309);Resize=(703,703)"
+        "url": "../images/heroes/31.avif"
       },
       {
         "filename": "images/32.avif",
-        "url": "https://dam.thdstatic.com/content/production/lJiZz6OUuj6bcMqSi9rYQw/Sh9EPwmFMtsqCk7gsZi22Q/optimizedFile/1b2b1513-bf47-442b-a9fe-42f456eaa6a8_WH13_2.jpeg?im=Crop,rect=(459.87759336099583,0,932.0975103734439,931.9813301282051);Resize=(703,703)"
+        "url": "../images/ui/32.avif"
       },
       {
         "filename": "images/34.avif",
-        "url": "https://dam.thdstatic.com/content/production/D6JLQrSe1UW2yn9cBiDvJA/6kXN77z_IZRKZ9j-1iDv2g/optimizedFile/6b0f3d48-b0ce-493b-a174-c06ac94d1a5b_2020_SHOE_4RedBlackShelf_202251082_L_TIF.jpg?im=Crop,rect=(402.1935832732516,0,798.5958904109589,798.7878605769231);Resize=(703,703)"
+        "url": "../images/ui/34.avif"
       },
       {
         "filename": "images/35.avif",
-        "url": "https://dam.thdstatic.com/content/production/afGWRVDTbW8gvcnj_W1U3Q/xkaTe1lw2HpZGljaFrtT6w/Original%20file/3b23e60f-f77e-49b1-9c2f-27d12700f0f9_73_2020_HuskyBLKCabinets_306605255_L_A_TIF.jpg?im=Crop,rect=(176.16185897435898,192.74839743589746,620.4527243589744,620.4527243589744);Resize=(703,703)"
+        "url": "../images/heroes/35.avif"
       },
       {
         "filename": "images/36.avif",
-        "url": "https://dam.thdstatic.com/content/production/cf1xRD6JwLmJSbs35roFqA/2_TDGODTme78IX03PcObuA/Original%20file/5f4c498d-d7f9-44e1-9a75-5659bf261b56_26_2020_HuskyBLKCabinets_305501547_L_TIF.jpg?im=Crop,rect=(156.47035256410257,168.08894230769232,664.6434294871796,664.6434294871796);Resize=(703,703)"
+        "url": "../images/heroes/36.avif"
       },
       {
         "filename": "images/37.avif",
-        "url": "https://dam.thdstatic.com/content/production/nzbpiY-2agofRrrsJ-ETxQ/ZHyip-H-IxcxnVW780UeyA/optimizedFile/da134d92-9565-4a2b-9c59-a332cd82968e_2019_WSE_305858888_Product_Image__square_.jpg?im=Crop,rect=(308.79807692307696,0,961.4134615384615,961.4134615384615);Resize=(703,703)"
+        "url": "../images/heroes/37.avif"
       },
       {
         "filename": "images/40.avif",
-        "url": "https://dam.thdstatic.com/content/production/Igj4LHzF9vrNa5qNGMK0JQ/s709vtT4SnnzZ_wIaFMdvg/Product%20Image%20(square)/2020_SHOE_5BlackYellowShelf_306331734_L_Product%20Image%20(square).jpg?im=Resize=(703,703)"
+        "url": "../images/ui/40.avif"
       },
       {
         "filename": "images/41.avif",
-        "url": "https://dam.thdstatic.com/content/production/PckLmGbxUL4Rgvtecxt7WQ/EE0-vlveL2QQmU07FvyveQ/Product%20Image%20(square)/14_2020_PB_Shelving_203846551_L_Product%20Image%20(square).jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/41.avif"
       },
       {
         "filename": "images/43.avif",
-        "url": "https://dam.thdstatic.com/content/production/NQBpcK9S6I-GCpB-1A405g/7WL7Cg2ZRmxD_YbNoJ-sfQ/optimizedFile/7_2022_Husky_NextGenShelving_319132811_L.jpg?im=Crop,rect=(344.59615384615387,0,960,960);Resize=(703,703)"
+        "url": "../images/heroes/43.avif"
       },
       {
         "filename": "images/44.avif",
-        "url": "https://dam.thdstatic.com/content/production/FUTxyOFIk5dRMoJT7Ep6fQ/1zch38j9HbQp0jY6Ql58RA/Product%20Image%20(square)/31_2020_PB_Shelving_207149520_L_Product%20Image%20(square).jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/44.avif"
       },
       {
         "filename": "images/45.avif",
-        "url": "https://dam.thdstatic.com/content/production/q3edGnBiS58JQ9TPer7pGw/Q38yOpe8ZpchoUApZJg5JA/Original%20file/96f4fe34-ebc4-4742-8143-96c2ce5dffba_34299_1005126823_Arch_6inx8in_Black.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/45.avif"
       },
       {
         "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/wklpVjvSCOhnU2034IPyEQ/PE6k-HzVkLpMwKXB4_NvOQ/Original%20file/771418a8-5fc7-4433-834e-f86aa9065021_ClosetMaid.jpg.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/46.avif"
       },
       {
         "filename": "images/50.avif",
-        "url": "https://dam.thdstatic.com/content/production/mzepNbP1mzdPRN-UzK_uNQ/amZDZanyOztN_PaOe1K8Tg/Original%20file/Husky_Logo.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/50.avif"
       },
       {
         "filename": "images/53.avif",
-        "url": "https://dam.thdstatic.com/content/production/p2H9RUy6NAUlKedTzJwa2w/a3tlds9OoHX2pjeKDRjE4g/Original%20file/Gladiator.jpg?im=Resize=(703,703)"
+        "url": "../images/ui/53.avif"
       },
       {
         "filename": "images/52.avif",
-        "url": "https://dam.thdstatic.com/content/production/pjMklmViV0qREojcrowcLQ/W3M0NHfmUr-R1y5lQsYpKA/Original%20file/2022_RYOBI_Logo.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/52.avif"
       },
       {
         "filename": "images/54.avif",
-        "url": "https://dam.thdstatic.com/content/production/H4WUH4PwFCukksL8sW2dCQ/jNp4TGQL-QZlR2iVEQw9Gg/Original%20file/5-6_Rubbermaid.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/54.avif"
       },
       {
         "filename": "images/57.avif",
-        "url": "https://dam.thdstatic.com/content/production/4xO629hOnY4Z1hsJpJ-WEg/M1dTin6ZZxOcMLoVF6f1bA/optimizedFile/Mike%20Rapp_Mad%20Raven%20Woodworks_Clean%20Sweep%202018_303099670_8.jpg.jpg?im=Crop,rect=(0,0,1440,900);Resize=(703,395.44)"
+        "url": "../images/heroes/57.avif"
       },
       {
         "filename": "images/55.avif",
-        "url": "https://dam.thdstatic.com/content/production/axIBjlUkdG7bvqprwNvN3Q/YxLk7eq75WffUN7R7o43BQ/optimizedFile/2023_Movers_Garage_Storage_Org_B.jpg?im=Crop,rect=(25.403846153846157,0,1414.5961538461538,884.1225961538462);Resize=(703,395.44)"
+        "url": "../images/ui/55.avif"
       },
       {
         "filename": "images/56.avif",
-        "url": "https://dam.thdstatic.com/content/production/OUtJxAeTuW8ksx_7xnWZ1Q/V3HEIeWfyD3caZSQSBZ6iw/optimizedFile/2023_Movers_Storage_Org_Closet_Totes.jpg?im=Crop,rect=(0,60.04807692307693,1439.923076923077,899.9519230769231);Resize=(703,395.44)"
+        "url": "../images/heroes/56.avif"
       },
       {
         "filename": "images/42.avif",
-        "url": "https://dam.thdstatic.com/content/production/Hp7Crj8aIwSvlEWGk_pJow/eG7uy5PAcYMfVDIEZLkKBg/optimizedFile/c46fd7b3-ab0a-4189-93ba-3d37778858cc_Desk_Birch_L_Bracket.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/42.avif"
       },
       {
         "filename": "images/25.avif",
-        "url": "https://dam.thdstatic.com/content/production/p_LbJgBxa5DHtdzUUNE4xw/gLnq3NxzcWblYVZR52fuAA/Original%20file/432afe85-b238-42bf-a06f-2853c5d63fd8_1.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/25.avif"
       },
       {
         "filename": "images/29.avif",
-        "url": "https://dam.thdstatic.com/content/production/hcoPloLefjv-xU060YzQrg/m_6RVTsV6OyXjdjCwwb6Ig/Original%20file/41a057cb-b8ac-4af5-b4e6-0a4c991ef0de_78506_White_25-CubeOrganizer_LivingRoom_Lifestyle__1_.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/29.avif"
       },
       {
         "filename": "images/39.avif",
-        "url": "https://dam.thdstatic.com/content/production/dajCQ8X9BPT9xoALG1sehQ/8dj1KWa8-ToSoAopk-C_Gg/optimizedFile/142_2020_HuskyBLKCabinets_306659735_L_12-09-2020.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/39.avif"
       },
       {
         "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/-Qi5gLL0kI2RnOlFQwPKCg/bIkRtTnk9rwsXXAYcD4AtA/Original%20file/2023_VN2P2_Closet_Evolution_logo.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/47.avif"
       },
       {
         "filename": "images/51.avif",
-        "url": "https://dam.thdstatic.com/content/production/0ytrQYab8xxLa1PHgDH9dQ/OPtQjEOsHEKziRYOezbOQQ/Original%20file/4eyFzPLo9pVPAeHkPhyKTy_177x177-Milwaukee-logo.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/51.avif"
       },
       {
         "filename": "images/26.avif",
-        "url": "https://dam.thdstatic.com/content/production/9-Ri8btXZgGOoc_AS4XNeg/OL8KNJC49JzqHmbaUtK7RA/Original%20file/820ae473-ea52-49a4-af86-143402d30f6a_8936058514416-1.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/26.avif"
       },
       {
         "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/tFE2eacx8ca1hrwYqKRuWQ/KECGA9pmtevlnUzulwqYoA/Original%20file/2023_VN2P4_Everbilt_logo.jpg?im=Resize=(703,703)"
+        "url": "../images/heroes/48.avif"
       },
       {
         "filename": "images/49.avif",
-        "url": "https://dam.thdstatic.com/content/production/F4wFGEvTrrKvJ4NOGCxjVQ/EaBjPg8QJjM1nzKVzIY8kg/Original%20file/03MAY23_PatioFurniture_VN_StyleWell.png?im=Resize=(703,703)"
+        "url": "../images/ui/49.avif"
       },
       {
         "filename": "images/38.avif",
-        "url": "https://dam.thdstatic.com/content/production/Yrsv1Lm1KsLKMHB_XaeBlg/EvmsW2mF5h_QMgk41dnu9w/optimizedFile/GG1120_Gifts_for_the_Doers_Tools_Held_1_309586202_EF.jpg?im=Crop,rect=(44.48979591836735,0,1335.9183673469388,1336.9995192307692);Resize=(703,703)"
+        "url": "../images/heroes/38.avif"
       },
       {
         "filename": "images/28.avif",
-        "url": "https://dam.thdstatic.com/content/production/AHYuYca-Y0nfHctCeO4BBA/2Dr5F0YZvpd0QTAlvW-Q2Q/optimizedFile/9751843a-5c07-432c-ad72-866fac1bc39b_WUSR-0009-1_main.jpeg?im=Resize=(703,703)"
+        "url": "../images/heroes/28.avif"
       }
     ],
     "svgs": [
       {
         "filename": "images/62.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+        "url": "../images/brands/62.svg"
       },
       {
         "filename": "images/63.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+        "url": "../images/brands/63.svg"
       },
       {
         "filename": "images/64.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+        "url": "../images/brands/64.svg"
       },
       {
         "filename": "images/65.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
+        "url": "../images/brands/65.svg"
       },
       {
         "filename": "images/66.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
+        "url": "../images/brands/66.svg"
       },
       {
         "filename": "images/67.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
+        "url": "../images/brands/67.svg"
       },
       {
         "filename": "images/68.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
+        "url": "../images/brands/68.svg"
       },
       {
         "filename": "images/69.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
+        "url": "../images/brands/69.svg"
       },
       {
         "filename": "images/70.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
+        "url": "../images/brands/70.svg"
       },
       {
         "filename": "images/71.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
+        "url": "../images/brands/71.svg"
       },
       {
         "filename": "images/72.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
+        "url": "../images/brands/72.svg"
       },
       {
         "filename": "images/73.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
+        "url": "../images/brands/73.svg"
       },
       {
         "filename": "images/74.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
+        "url": "../images/brands/74.svg"
       },
       {
         "filename": "images/75.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
+        "url": "../images/brands/75.svg"
       },
       {
         "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
+        "url": "../images/brands/76.svg"
       },
       {
         "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
+        "url": "../images/brands/77.svg"
       },
       {
         "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
+        "url": "../images/brands/78.svg"
       },
       {
         "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
+        "url": "../images/brands/79.svg"
       },
       {
         "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
+        "url": "../images/brands/80.svg"
       },
       {
         "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
+        "url": "../images/brands/81.svg"
       },
       {
         "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
+        "url": "../images/brands/82.svg"
       },
       {
         "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
+        "url": "../images/brands/83.svg"
       },
       {
         "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
+        "url": "../images/brands/84.svg"
       },
       {
         "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+        "url": "../images/brands/85.svg"
       }
     ],
     "other": [
       {
-        "filename": "images/10.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
-      },
-      {
-        "filename": "images/11.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
-      },
-      {
         "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/9752328f-8c5f-406a-84fc-af39ebf5a347/svn/hdx-storage-bins-999-27g-hdx-64_300.jpg"
+        "url": "../images/heroes/58.avif"
       },
       {
         "filename": "images/20.avif",
-        "url": "https://dam.thdstatic.com/content/production/s_m5HEyYlTr-XtgwHbxwEg/LQS7ShSK-Z8xnTvsUMsb5w/Original%20file/HD-hs-logo-lockup_layered.png"
+        "url": "../images/heroes/20.avif"
       },
       {
         "filename": "images/60.avif",
-        "url": "https://images.thdstatic.com/productImages/543143f2-ba4a-4440-92e6-5edae4da19ca/svn/hdx-storage-bins-999-27g-hdx-red-64_300.jpg"
+        "url": "../images/heroes/60.avif"
       },
       {
         "filename": "images/59.webp",
-        "url": "https://images.thdstatic.com/productImages/3a7f862a-9f80-4f14-bcc7-8fed023f37bc/svn/black-husky-freestanding-shelving-units-n2w772472w4b-64_300.jpg"
+        "url": "../images/products/59.webp"
       },
       {
         "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/content/production/mUhjtsxUIUiKm1L8RsvjEQ/CxSwGA3B1Z0XrECU9Clxvg/Original%20file/Dec2025-WinterStorage-NON-Holiday-Hero.jpg"
+        "url": "../images/heroes/12.avif"
       },
       {
         "filename": "images/13.avif",
-        "url": "https://dam.thdstatic.com/content/production/od4WOiFh74qcXkEc5W7xpA/YcCaZzC_wVYiecdCbj3Ugg/Original%20file/D25S-Storage-Hero-contentful.jpg"
+        "url": "../images/heroes/13.avif"
       },
       {
         "filename": "images/19.avif",
-        "url": "https://dam.thdstatic.com/content/production/3gscKKci3uHrZiGR6am1vw/7QG5_eLnMrDXLhOsXtlMfw/Original%20file/8f395dd2-3202-4d77-b662-565ade34db28_202265920__7140_alternate1.jpg.jpeg"
+        "url": "../images/heroes/19.avif"
       },
       {
         "filename": "images/33.avif",
-        "url": "https://dam.thdstatic.com/content/production/50_CQ_quUfARQL0XMWmTpg/BFPfvn3BsQ_N9tmP_gsmVQ/optimizedFile/StorOrg-MedioBnr-HmSvcs-dsgn_installDSK.jpg"
+        "url": "../images/heroes/33.avif"
       },
       {
         "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/6a6095f9-76a4-4154-83a7-ddcf3681a6c2/svn/the-home-depot-moving-boxes-mbx-64_300.jpg"
+        "url": "../images/heroes/61.avif"
       }
     ]
   },

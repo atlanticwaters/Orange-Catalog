@@ -1,0 +1,45 @@
+{
+  "productId": "324295999",
+  "identifiers": {
+    "internetNumber": "324295999",
+    "modelNumber": "",
+    "storeSkuNumber": "324295999"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "5.0 cu. ft. Stackable Front Load Washer in White with 6 Motion Cleaning Technology",
+  "shortDescription": "5.0 cu. ft. Stackable Front Load Washer in White with 6 Motion Cleaning Technology",
+  "longDescription": "5.0 cu. ft. Stackable Front Load Washer in White with 6 Motion Cleaning Technology",
+  "pricing": {
+    "currentPrice": 849.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.216,
+    "count": 514
+  },
+  "media": {
+    "primaryImage": "/products/324295999/white-lg-front-load-washers-wm3470cw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324295999/white-lg-front-load-washers-wm3470cw-64_100.jpg",
+        "altText": "5.0 cu. ft. Stackable Front Load Washer in White with 6 Motion Cleaning Technology",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.548314"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "305505790",
+  "identifiers": {
+    "internetNumber": "305505790",
+    "modelNumber": "",
+    "storeSkuNumber": "305505790"
+  },
+  "brand": {
+    "name": "DIABLO",
+    "logoUrl": "images/brands/diablo.svg"
+  },
+  "title": "12 in. x 44-Tooth General Purpose Circular Saw Blade Value Pack (2-Pack)",
+  "shortDescription": "12 in. x 44-Tooth General Purpose Circular Saw Blade Value Pack (2-Pack)",
+  "longDescription": "12 in. x 44-Tooth General Purpose Circular Saw Blade Value Pack (2-Pack)",
+  "pricing": {
+    "currentPrice": 54.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.769,
+    "count": 316
+  },
+  "media": {
+    "primaryImage": "/products/305505790/diablo-table-saw-blades-miter-saw-blades-d124444vp-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305505790/diablo-table-saw-blades-miter-saw-blades-d124444vp-64_100.jpg",
+        "altText": "12 in. x 44-Tooth General Purpose Circular Saw Blade Value Pack (2-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.669130"
+}

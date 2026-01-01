@@ -1,0 +1,45 @@
+{
+  "productId": "100333077",
+  "identifiers": {
+    "internetNumber": "100333077",
+    "modelNumber": "",
+    "storeSkuNumber": "100333077"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "12 in. x 12 in. x 1.5 in. Pewter Square Concrete Step Stone",
+  "shortDescription": "12 in. x 12 in. x 1.5 in. Pewter Square Concrete Step Stone",
+  "longDescription": "12 in. x 12 in. x 1.5 in. Pewter Square Concrete Step Stone",
+  "pricing": {
+    "currentPrice": 1.78,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.52,
+    "count": 15732
+  },
+  "media": {
+    "primaryImage": "/products/100333077/pewter-stepping-stones-71200-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100333077/pewter-stepping-stones-71200-64_100.jpg",
+        "altText": "12 in. x 12 in. x 1.5 in. Pewter Square Concrete Step Stone",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.422881"
+}

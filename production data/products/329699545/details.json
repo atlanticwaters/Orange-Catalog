@@ -1,0 +1,45 @@
+{
+  "productId": "329699545",
+  "identifiers": {
+    "internetNumber": "329699545",
+    "modelNumber": "",
+    "storeSkuNumber": "329699545"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "Hybrid Tri-Power Tripod Light (Tool Only)",
+  "shortDescription": "Hybrid Tri-Power Tripod Light (Tool Only)",
+  "longDescription": "Hybrid Tri-Power Tripod Light (Tool Only)",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7951,
+    "count": 288
+  },
+  "media": {
+    "primaryImage": "/products/329699545/ryobi-jobsite-lighting-pcl691b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329699545/ryobi-jobsite-lighting-pcl691b-64_100.jpg",
+        "altText": "Hybrid Tri-Power Tripod Light (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.666433"
+}

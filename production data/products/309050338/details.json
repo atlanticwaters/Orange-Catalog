@@ -1,0 +1,45 @@
+{
+  "productId": "309050338",
+  "identifiers": {
+    "internetNumber": "309050338",
+    "modelNumber": "",
+    "storeSkuNumber": "309050338"
+  },
+  "brand": {
+    "name": "Stinger",
+    "logoUrl": "images/brands/stinger.svg"
+  },
+  "title": "CN100B Cap Nailer",
+  "shortDescription": "CN100B Cap Nailer",
+  "longDescription": "CN100B Cap Nailer",
+  "pricing": {
+    "currentPrice": 346.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5532,
+    "count": 47
+  },
+  "media": {
+    "primaryImage": "/products/309050338/stinger-roofing-nailers-0136252-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309050338/stinger-roofing-nailers-0136252-64_100.jpg",
+        "altText": "CN100B Cap Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.504088"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "329290770",
+  "identifiers": {
+    "internetNumber": "329290770",
+    "modelNumber": "",
+    "storeSkuNumber": "329290770"
+  },
+  "brand": {
+    "name": "VECELO",
+    "logoUrl": "images/brands/vecelo.svg"
+  },
+  "title": "Upholstered Bed, Light Gray Twin Bed Platform Bed with Adjustable Headboard, Strong Wooden Slats Support Bed Frame",
+  "shortDescription": "Upholstered Bed, Light Gray Twin Bed Platform Bed with Adjustable Headboard, Strong Wooden Slats Support Bed Frame",
+  "longDescription": "Upholstered Bed, Light Gray Twin Bed Platform Bed with Adjustable Headboard, Strong Wooden Slats Support Bed Frame",
+  "pricing": {
+    "currentPrice": 114.04,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6667,
+    "count": 45
+  },
+  "media": {
+    "primaryImage": "/products/329290770/light-gray-vecelo-platform-beds-thd-cy-tb01-lgry-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329290770/light-gray-vecelo-platform-beds-thd-cy-tb01-lgry-64_100.jpg",
+        "altText": "Upholstered Bed, Light Gray Twin Bed Platform Bed with Adjustable Headboard, Strong Wooden Slats Support Bed Frame",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.615330"
+}

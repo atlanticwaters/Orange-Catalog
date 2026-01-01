@@ -1,0 +1,45 @@
+{
+  "productId": "324875016",
+  "identifiers": {
+    "internetNumber": "324875016",
+    "modelNumber": "",
+    "storeSkuNumber": "324875016"
+  },
+  "brand": {
+    "name": "Clopay",
+    "logoUrl": "images/brands/clopay.svg"
+  },
+  "title": "Coachman Linear Design 9 ft x 7 ft Insulated 18.4 R-Value White Garage Door with SQ24 Windows",
+  "shortDescription": "Coachman Linear Design 9 ft x 7 ft Insulated 18.4 R-Value White Garage Door with SQ24 Windows",
+  "longDescription": "Coachman Linear Design 9 ft x 7 ft Insulated 18.4 R-Value White Garage Door with SQ24 Windows",
+  "pricing": {
+    "currentPrice": 3917.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0222,
+    "count": 45
+  },
+  "media": {
+    "primaryImage": "/products/324875016/clopay-garage-doors-cxu13-sw-sq24-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324875016/clopay-garage-doors-cxu13-sw-sq24-64_100.jpg",
+        "altText": "Coachman Linear Design 9 ft x 7 ft Insulated 18.4 R-Value White Garage Door with SQ24 Windows",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.652420"
+}

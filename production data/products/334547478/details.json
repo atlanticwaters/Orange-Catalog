@@ -1,0 +1,45 @@
+{
+  "productId": "334547478",
+  "identifiers": {
+    "internetNumber": "334547478",
+    "modelNumber": "",
+    "storeSkuNumber": "334547478"
+  },
+  "brand": {
+    "name": "Vissani",
+    "logoUrl": "images/brands/vissani.svg"
+  },
+  "title": "18.1 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+  "shortDescription": "18.1 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+  "longDescription": "18.1 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+  "pricing": {
+    "currentPrice": 569.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2017,
+    "count": 1036
+  },
+  "media": {
+    "primaryImage": "/products/334547478/white-vissani-top-freezer-refrigerators-mdtf18whr5-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334547478/white-vissani-top-freezer-refrigerators-mdtf18whr5-64_100.jpg",
+        "altText": "18.1 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.438931"
+}

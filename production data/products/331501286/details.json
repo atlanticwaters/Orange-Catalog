@@ -1,0 +1,45 @@
+{
+  "productId": "331501286",
+  "identifiers": {
+    "internetNumber": "331501286",
+    "modelNumber": "",
+    "storeSkuNumber": "331501286"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "Compact Needle Scaler",
+  "shortDescription": "Compact Needle Scaler",
+  "longDescription": "Compact Needle Scaler",
+  "pricing": {
+    "currentPrice": 169.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/331501286/aircat-air-hammers-6390-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331501286/aircat-air-hammers-6390-64_100.jpg",
+        "altText": "Compact Needle Scaler",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.627319"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "316426768",
+  "identifiers": {
+    "internetNumber": "316426768",
+    "modelNumber": "",
+    "storeSkuNumber": "316426768"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "Professional 2 Amp Automotive Battery Charger and Maintainer",
+  "shortDescription": "Professional 2 Amp Automotive Battery Charger and Maintainer",
+  "longDescription": "Professional 2 Amp Automotive Battery Charger and Maintainer",
+  "pricing": {
+    "currentPrice": 49.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9363,
+    "count": 628
+  },
+  "media": {
+    "primaryImage": "/products/316426768/dewalt-car-battery-chargers-dxaec2-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316426768/dewalt-car-battery-chargers-dxaec2-64_100.jpg",
+        "altText": "Professional 2 Amp Automotive Battery Charger and Maintainer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.520768"
+}

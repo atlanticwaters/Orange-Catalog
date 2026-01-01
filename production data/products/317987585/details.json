@@ -1,0 +1,45 @@
+{
+  "productId": "317987585",
+  "identifiers": {
+    "internetNumber": "317987585",
+    "modelNumber": "",
+    "storeSkuNumber": "317987585"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Cordless Reciprocating Saw (Tool Only)",
+  "shortDescription": "ONE+ 18V Cordless Reciprocating Saw (Tool Only)",
+  "longDescription": "ONE+ 18V Cordless Reciprocating Saw (Tool Only)",
+  "pricing": {
+    "currentPrice": 79.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5801,
+    "count": 2141
+  },
+  "media": {
+    "primaryImage": "/products/317987585/ryobi-reciprocating-saws-pcl515b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317987585/ryobi-reciprocating-saws-pcl515b-64_100.jpg",
+        "altText": "ONE+ 18V Cordless Reciprocating Saw (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.680922"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "330107045",
+  "identifiers": {
+    "internetNumber": "330107045",
+    "modelNumber": "",
+    "storeSkuNumber": "330107045"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless 4-1/2 in./6 in. Braking Grinder with Paddle Switch (Tool-Only)",
+  "shortDescription": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless 4-1/2 in./6 in. Braking Grinder with Paddle Switch (Tool-Only)",
+  "longDescription": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless 4-1/2 in./6 in. Braking Grinder with Paddle Switch (Tool-Only)",
+  "pricing": {
+    "currentPrice": 279.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7326,
+    "count": 1664
+  },
+  "media": {
+    "primaryImage": "/products/330107045/milwaukee-angle-grinders-3670-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330107045/milwaukee-angle-grinders-3670-20-64_100.jpg",
+        "altText": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless 4-1/2 in./6 in. Braking Grinder with Paddle Switch (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.686881"
+}

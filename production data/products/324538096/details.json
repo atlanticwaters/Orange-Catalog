@@ -1,0 +1,45 @@
+{
+  "productId": "324538096",
+  "identifiers": {
+    "internetNumber": "324538096",
+    "modelNumber": "",
+    "storeSkuNumber": "324538096"
+  },
+  "brand": {
+    "name": "Glacier Bay",
+    "logoUrl": "images/brands/glacier-bay.svg"
+  },
+  "title": "TurboGrind 1/2 hp. Continuous Feed Garbage Disposal with Power Cord",
+  "shortDescription": "TurboGrind 1/2 hp. Continuous Feed Garbage Disposal with Power Cord",
+  "longDescription": "TurboGrind 1/2 hp. Continuous Feed Garbage Disposal with Power Cord",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6019,
+    "count": 1133
+  },
+  "media": {
+    "primaryImage": "/products/324538096/glacier-bay-garbage-disposals-10-us-gb500-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324538096/glacier-bay-garbage-disposals-10-us-gb500-64_100.jpg",
+        "altText": "TurboGrind 1/2 hp. Continuous Feed Garbage Disposal with Power Cord",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.459754"
+}

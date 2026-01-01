@@ -1,0 +1,45 @@
+{
+  "productId": "302766973",
+  "identifiers": {
+    "internetNumber": "302766973",
+    "modelNumber": "",
+    "storeSkuNumber": "302766973"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "1 HP 4 in. Extended Inside Cut-Off Tool",
+  "shortDescription": "1 HP 4 in. Extended Inside Cut-Off Tool",
+  "longDescription": "1 HP 4 in. Extended Inside Cut-Off Tool",
+  "pricing": {
+    "currentPrice": 234.22,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3333,
+    "count": 6
+  },
+  "media": {
+    "primaryImage": "/products/302766973/aircat-air-cut-off-tools-6275-a-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302766973/aircat-air-cut-off-tools-6275-a-64_100.jpg",
+        "altText": "1 HP 4 in. Extended Inside Cut-Off Tool",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.638290"
+}

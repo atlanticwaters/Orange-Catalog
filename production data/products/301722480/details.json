@@ -1,0 +1,45 @@
+{
+  "productId": "301722480",
+  "identifiers": {
+    "internetNumber": "301722480",
+    "modelNumber": "",
+    "storeSkuNumber": "301722480"
+  },
+  "brand": {
+    "name": "BOSS Office Products",
+    "logoUrl": "images/brands/boss-office-products.svg"
+  },
+  "title": "Bomber Brown Leather Big and Tall Desk Chair Heavy Duty Black Steel Construction, 400 LB Capacity",
+  "shortDescription": "Bomber Brown Leather Big and Tall Desk Chair Heavy Duty Black Steel Construction, 400 LB Capacity",
+  "longDescription": "Bomber Brown Leather Big and Tall Desk Chair Heavy Duty Black Steel Construction, 400 LB Capacity",
+  "pricing": {
+    "currentPrice": 283.33,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.128,
+    "count": 125
+  },
+  "media": {
+    "primaryImage": "/products/301722480/brown-boss-office-products-executive-chairs-b991-bb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301722480/brown-boss-office-products-executive-chairs-b991-bb-64_100.jpg",
+        "altText": "Bomber Brown Leather Big and Tall Desk Chair Heavy Duty Black Steel Construction, 400 LB Capacity",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.577447"
+}

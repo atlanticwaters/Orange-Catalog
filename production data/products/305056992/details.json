@@ -1,0 +1,45 @@
+{
+  "productId": "305056992",
+  "identifiers": {
+    "internetNumber": "305056992",
+    "modelNumber": "",
+    "storeSkuNumber": "305056992"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL ONE-KEY 18- volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw Kit W/(1) 12.0Ah Battery & Rapid Charger",
+  "shortDescription": "M18 FUEL ONE-KEY 18- volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw Kit W/(1) 12.0Ah Battery & Rapid Charger",
+  "longDescription": "M18 FUEL ONE-KEY 18- volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw Kit W/(1) 12.0Ah Battery & Rapid Charger",
+  "pricing": {
+    "currentPrice": 649.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6084,
+    "count": 1075
+  },
+  "media": {
+    "primaryImage": "/products/305056992/milwaukee-portable-table-saws-2736-21hd-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305056992/milwaukee-portable-table-saws-2736-21hd-64_100.jpg",
+        "altText": "M18 FUEL ONE-KEY 18- volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw Kit W/(1) 12.0Ah Battery & Rapid Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.676323"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "339027169",
+  "identifiers": {
+    "internetNumber": "339027169",
+    "modelNumber": "",
+    "storeSkuNumber": "339027169"
+  },
+  "brand": {
+    "name": "Hilti",
+    "logoUrl": "images/brands/hilti.svg"
+  },
+  "title": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. Equidist SPX Diamond Blade",
+  "shortDescription": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. Equidist SPX Diamond Blade",
+  "longDescription": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. Equidist SPX Diamond Blade",
+  "pricing": {
+    "currentPrice": 2109.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/339027169/hilti-concrete-saws-5001796-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/339027169/hilti-concrete-saws-5001796-64_100.jpg",
+        "altText": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. Equidist SPX Diamond Blade",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.689906"
+}

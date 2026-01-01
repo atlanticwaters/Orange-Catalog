@@ -1,0 +1,45 @@
+{
+  "productId": "328296486",
+  "identifiers": {
+    "internetNumber": "328296486",
+    "modelNumber": "",
+    "storeSkuNumber": "328296486"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger",
+  "shortDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger",
+  "longDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.783,
+    "count": 871
+  },
+  "media": {
+    "primaryImage": "/products/328296486/ridgid-power-tool-batteries-ac8609340sb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328296486/ridgid-power-tool-batteries-ac8609340sb-64_100.jpg",
+        "altText": "18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.657847"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "206512048",
+  "identifiers": {
+    "internetNumber": "206512048",
+    "modelNumber": "",
+    "storeSkuNumber": "206512048"
+  },
+  "brand": {
+    "name": "California Air Tools",
+    "logoUrl": "images/brands/california-air-tools.svg"
+  },
+  "title": "20 Gal. 4.0 HP Ultra Quiet and Oil-Free Electric Stationary Air Compressor",
+  "shortDescription": "20 Gal. 4.0 HP Ultra Quiet and Oil-Free Electric Stationary Air Compressor",
+  "longDescription": "20 Gal. 4.0 HP Ultra Quiet and Oil-Free Electric Stationary Air Compressor",
+  "pricing": {
+    "currentPrice": 899.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.8182,
+    "count": 11
+  },
+  "media": {
+    "primaryImage": "/products/206512048/california-air-tools-stationary-air-compressors-20040c-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206512048/california-air-tools-stationary-air-compressors-20040c-64_100.jpg",
+        "altText": "20 Gal. 4.0 HP Ultra Quiet and Oil-Free Electric Stationary Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.557903"
+}

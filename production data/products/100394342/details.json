@@ -1,0 +1,45 @@
+{
+  "productId": "100394342",
+  "identifiers": {
+    "internetNumber": "100394342",
+    "modelNumber": "",
+    "storeSkuNumber": "100394342"
+  },
+  "brand": {
+    "name": "Grip-Rite",
+    "logoUrl": "images/brands/grip-rite.svg"
+  },
+  "title": "1-1/4 in. x 0.120-Gauge 15\u00b0 Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
+  "shortDescription": "1-1/4 in. x 0.120-Gauge 15\u00b0 Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
+  "longDescription": "1-1/4 in. x 0.120-Gauge 15\u00b0 Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
+  "pricing": {
+    "currentPrice": 49.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5111,
+    "count": 765
+  },
+  "media": {
+    "primaryImage": "/products/100394342/grip-rite-collated-roofing-nails-grcr3dgal-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100394342/grip-rite-collated-roofing-nails-grcr3dgal-64_100.jpg",
+        "altText": "1-1/4 in. x 0.120-Gauge 15\u00b0 Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.516778"
+}

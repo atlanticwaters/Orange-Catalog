@@ -1,0 +1,45 @@
+{
+  "productId": "202567624",
+  "identifiers": {
+    "internetNumber": "202567624",
+    "modelNumber": "",
+    "storeSkuNumber": "202567624"
+  },
+  "brand": {
+    "name": "POWERNAIL",
+    "logoUrl": "images/brands/powernail.svg"
+  },
+  "title": "Pneumatic 18-Gauge Flex Hardwood Flooring Cleat Nailer",
+  "shortDescription": "Pneumatic 18-Gauge Flex Hardwood Flooring Cleat Nailer",
+  "longDescription": "Pneumatic 18-Gauge Flex Hardwood Flooring Cleat Nailer",
+  "pricing": {
+    "currentPrice": 549.37,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6667,
+    "count": 15
+  },
+  "media": {
+    "primaryImage": "/products/202567624/powernail-floor-nailers-50pflexw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202567624/powernail-floor-nailers-50pflexw-64_100.jpg",
+        "altText": "Pneumatic 18-Gauge Flex Hardwood Flooring Cleat Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.511632"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "311485319",
+  "identifiers": {
+    "internetNumber": "311485319",
+    "modelNumber": "",
+    "storeSkuNumber": "311485319"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "20-Gal. Professional Heavy Duty Waterproof Stackable Plastic Storage Container with Hinged Lid in Red",
+  "shortDescription": "20-Gal. Professional Heavy Duty Waterproof Stackable Plastic Storage Container with Hinged Lid in Red",
+  "longDescription": "20-Gal. Professional Heavy Duty Waterproof Stackable Plastic Storage Container with Hinged Lid in Red",
+  "pricing": {
+    "currentPrice": 29.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7461,
+    "count": 4025
+  },
+  "media": {
+    "primaryImage": "/products/311485319/husky-storage-bins-246842-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311485319/husky-storage-bins-246842-64_100.jpg",
+        "altText": "20-Gal. Professional Heavy Duty Waterproof Stackable Plastic Storage Container with Hinged Lid in Red",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.625390"
+}

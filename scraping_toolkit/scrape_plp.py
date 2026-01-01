@@ -1,0 +1,432 @@
+#!/usr/bin/env python3
+"""
+Scrape Product List Pages (PLPs) from Home Depot
+Extracts: product IDs, filters, brands, category metadata
+"""
+
+import json
+import time
+import argparse
+import re
+from pathlib import Path
+from datetime import datetime
+from typing import Dict, List, Optional, Tuple
+import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
+from tqdm import tqdm
+import config
+
+
+class PLPScraper:
+    """Scrapes Product List Pages from Home Depot"""
+    
+    def __init__(self, use_selenium: bool = True, headless: bool = True):
+        self.use_selenium = use_selenium
+        self.session = requests.Session()
+        self.session.headers.update({'User-Agent': config.USER_AGENT})
+        
+        if use_selenium:
+            self.driver = self._setup_selenium(headless)
+        else:
+            self.driver = None
+    
+    def _setup_selenium(self, headless: bool) -> webdriver.Chrome:
+        """Setup Selenium WebDriver with anti-detection measures"""
+        chrome_options = Options()
+        if headless:
+            chrome_options.add_argument('--headless=new')
+        
+        # Anti-detection measures
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_argument('--disable-blink-features=AutomationControlled')
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        chrome_options.add_experimental_option('useAutomationExtension', False)
+        
+        # Realistic window size
+        chrome_options.add_argument('--window-size=1920,1080')
+        
+        # User agent
+        chrome_options.add_argument(f'user-agent={config.USER_AGENT}')
+        
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.set_page_load_timeout(config.PAGE_LOAD_TIMEOUT)
+        
+        # Execute CDP command to hide webdriver property
+        driver.execute_cdp_cmd('Network.setUserAgentOverride', {
+            "userAgent": config.USER_AGENT
+        })
+        driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        
+        return driver
+    
+    def scrape_plp(self, url: str, category_name: str) -> Tuple[Optional[Dict], Optional[str]]:
+        """Scrape a single PLP page - returns (data, html_content)"""
+        print(f"\n🔍 Scraping: {category_name}")
+        print(f"   URL: {url}")
+        
+        try:
+            if self.use_selenium:
+                html_content = self._fetch_with_selenium(url)
+            else:
+                html_content = self._fetch_with_requests(url)
+            
+            # Parse the page
+            soup = BeautifulSoup(html_content, 'lxml')
+            
+            # Extract data
+            data = {
+                'categoryName': category_name,
+                'url': url,
+                'scrapedAt': datetime.now().isoformat(),
+                'productIds': self._extract_product_ids(soup),
+                'filters': self._extract_filters(soup),
+                'brands': self._extract_brands(soup),
+                'breadcrumbs': self._extract_breadcrumbs(soup),
+                'heroImage': self._extract_hero_image(soup),
+                'totalProducts': self._extract_product_count(soup),
+            }
+            
+            print(f"   ✅ Found {len(data['productIds'])} products")
+            return (data, html_content)
+            
+        except Exception as e:
+            print(f"   ❌ Error: {str(e)}")
+            return (None, None)
+    
+    def _fetch_with_selenium(self, url: str) -> str:
+        """Fetch page using Selenium"""
+        self.driver.get(url)
+        
+        # Check if we got redirected to homepage
+        current_url = self.driver.current_url
+        if current_url == "https://www.homedepot.com/" or current_url == "https://www.homedepot.com":
+            print(f"   ⚠️  REDIRECTED TO HOMEPAGE - Anti-bot detected!")
+            print(f"   💡 Try: 1) Running in headless mode, 2) Adding delays between requests, 3) Using a VPN")
+            raise Exception("Redirected to homepage - anti-bot detection triggered")
+        
+        # Check for "Please refresh" or CAPTCHA messages
+        try:
+            # Look for refresh button or CAPTCHA
+            refresh_indicators = [
+                "//button[contains(text(), 'Refresh')]",
+                "//button[contains(text(), 'refresh')]",
+                "//*[contains(text(), 'Please refresh')]",
+                "//*[contains(text(), 'Checking your browser')]",
+            ]
+            
+            for xpath in refresh_indicators:
+                try:
+                    refresh_elem = self.driver.find_element(By.XPATH, xpath)
+                    if refresh_elem:
+                        print("   🔄 Page requires refresh - clicking refresh button...")
+                        refresh_elem.click()
+                        time.sleep(5)
+                        break
+                except:
+                    continue
+        except:
+            pass
+        
+        # Wait for page to fully load - Home Depot needs at least 10 seconds
+        print("   ⏳ Waiting for JavaScript to load (15 seconds)...")
+        time.sleep(15)  # Increased from 10 to 15 seconds
+        
+        # Try multiple selectors that Home Depot might use
+        selectors = [
+            "a[href*='/p/']",  # Product links
+            "div[data-pod-type]",  # Product pods
+            "[data-product-id]",  # Product data attributes
+            "div.product-pod",  # Class-based selector
+            "img[data-image]",  # Product images
+        ]
+        
+        found = False
+        for selector in selectors:
+            try:
+                WebDriverWait(self.driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                )
+                print(f"   ✓ Found elements with: {selector}")
+                found = True
+                break
+            except:
+                continue
+        
+        if not found:
+            print("   ⚠️  No product elements found with any selector")
+        
+        # Scroll to load more products (lazy loading)
+        print("   📜 Scrolling to load more products...")
+        last_height = self.driver.execute_script("return document.body.scrollHeight")
+        for i in range(5):  # Scroll 5 times
+            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)  # Wait longer for lazy load
+            new_height = self.driver.execute_script("return document.body.scrollHeight")
+            if new_height == last_height:
+                print(f"   ✓ Page fully loaded after {i+1} scrolls")
+                break
+            last_height = new_height
+        
+        # Final wait for all images to load
+        time.sleep(2)
+        
+        return self.driver.page_source
+    
+    def _fetch_with_requests(self, url: str) -> str:
+        """Fetch page using requests"""
+        response = self.session.get(url, timeout=config.REQUEST_TIMEOUT)
+        response.raise_for_status()
+        return response.text
+    
+    def _extract_product_ids(self, soup: BeautifulSoup) -> List[str]:
+        """Extract product IDs from the page"""
+        product_ids = []
+        
+        # Method 1: Check data attributes (various formats)
+        for attr in ['data-product-id', 'data-itemid', 'data-id', 'data-sku']:
+            for elem in soup.find_all(attrs={attr: True}):
+                pid = elem.get(attr)
+                if pid and str(pid).isdigit() and len(str(pid)) >= 8 and pid not in product_ids:
+                    product_ids.append(str(pid))
+        
+        # Method 2: Check links to product pages - IMPROVED
+        for link in soup.find_all('a', href=True):
+            href = link['href']
+            if '/p/' in href:
+                parts = href.split('/p/')
+                if len(parts) > 1:
+                    # URL format: /p/ProductName/123456789 or /p/123456789
+                    remaining = parts[1]
+                    # Split by / and look for the product ID
+                    path_parts = remaining.split('/')
+                    for part in path_parts:
+                        # Product IDs are 9-digit numbers
+                        if part.isdigit() and len(part) >= 9 and part not in product_ids:
+                            product_ids.append(part)
+                            break
+                    
+                    # Also try the last part before query string
+                    clean_part = remaining.split('?')[0].split('/')[-1]
+                    if clean_part.isdigit() and len(clean_part) >= 9 and clean_part not in product_ids:
+                        product_ids.append(clean_part)
+        
+        # Method 3: Check JSON-LD structured data
+        for script in soup.find_all('script', type='application/ld+json'):
+            try:
+                data = json.loads(script.string)
+                if isinstance(data, dict):
+                    # Check various fields
+                    for field in ['sku', 'productID', 'itemId']:
+                        if field in data:
+                            pid = str(data[field])
+                            if pid.isdigit() and len(pid) >= 8 and pid not in product_ids:
+                                product_ids.append(pid)
+                elif isinstance(data, list):
+                    for item in data:
+                        if isinstance(item, dict):
+                            for field in ['sku', 'productID', 'itemId']:
+                                if field in item:
+                                    pid = str(item[field])
+                                    if pid.isdigit() and len(pid) >= 8 and pid not in product_ids:
+                                        product_ids.append(pid)
+            except:
+                continue
+        
+        # Method 4: Check for embedded JSON data (Next.js/React apps)
+        for script in soup.find_all('script', id=lambda x: x and 'data' in str(x).lower()):
+            try:
+                if script.string:
+                    # Look for product IDs in the format "productId":"123456789"
+                    matches = re.findall(r'"(?:productId|itemId|sku)":\s*"?(\d{9,})"?', script.string)
+                    for pid in matches:
+                        if pid not in product_ids:
+                            product_ids.append(pid)
+            except:
+                continue
+        
+        print(f"   → Extraction stats: data-attrs={sum(1 for _ in soup.find_all(attrs={'data-product-id': True}))}, "
+              f"links={len([l for l in soup.find_all('a', href=True) if '/p/' in l.get('href', '')])}")
+        
+        return product_ids
+    
+    def _extract_filters(self, soup: BeautifulSoup) -> List[Dict]:
+        """Extract filter options"""
+        filters = []
+        
+        # Look for filter sections
+        filter_sections = soup.find_all(['div', 'section'], class_=lambda x: x and ('filter' in x.lower() or 'facet' in x.lower()))
+        
+        for section in filter_sections:
+            filter_name = section.find(['h3', 'h4', 'label'])
+            if filter_name:
+                filter_data = {
+                    'name': filter_name.get_text(strip=True),
+                    'options': []
+                }
+                
+                # Extract options
+                for option in section.find_all(['input', 'button', 'a'], limit=50):
+                    option_text = option.get_text(strip=True)
+                    if option_text:
+                        filter_data['options'].append(option_text)
+                
+                if filter_data['options']:
+                    filters.append(filter_data)
+        
+        return filters
+    
+    def _extract_brands(self, soup: BeautifulSoup) -> List[str]:
+        """Extract featured brands"""
+        brands = []
+        
+        # Look for brand elements
+        brand_elements = soup.find_all(['img', 'a'], alt=lambda x: x and 'brand' in x.lower())
+        for elem in brand_elements:
+            brand = elem.get('alt', '').replace('brand', '').strip()
+            if brand and brand not in brands:
+                brands.append(brand)
+        
+        return brands
+    
+    def _extract_breadcrumbs(self, soup: BeautifulSoup) -> List[Dict]:
+        """Extract breadcrumb navigation"""
+        breadcrumbs = []
+        
+        # Look for breadcrumb elements
+        breadcrumb_nav = soup.find('nav', attrs={'aria-label': lambda x: x and 'breadcrumb' in x.lower()})
+        if breadcrumb_nav:
+            for link in breadcrumb_nav.find_all('a'):
+                breadcrumbs.append({
+                    'name': link.get_text(strip=True),
+                    'url': link.get('href', '')
+                })
+        
+        return breadcrumbs
+    
+    def _extract_hero_image(self, soup: BeautifulSoup) -> Optional[str]:
+        """Extract hero/banner image"""
+        # Look for hero images
+        hero = soup.find('img', class_=lambda x: x and 'hero' in x.lower())
+        if hero:
+            return hero.get('src', '')
+        
+        return None
+    
+    def _extract_product_count(self, soup: BeautifulSoup) -> Optional[int]:
+        """Extract total product count"""
+        # Look for result count text like "1-24 of 156 results"
+        count_elem = soup.find(string=lambda x: x and 'results' in x.lower() and 'of' in x.lower())
+        if count_elem:
+            match = re.search(r'of\s+(\d+)', count_elem)
+            if match:
+                return int(match.group(1))
+        
+        return None
+    
+    def save_results(self, data: Dict, output_dir: Path, category_slug: str, html_content: str = None):
+        """Save scraped data to files"""
+        # Create category directory
+        cat_dir = output_dir / category_slug
+        cat_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Save JSON data
+        json_file = cat_dir / f"{category_slug}_plp.json"
+        with open(json_file, 'w') as f:
+            json.dump(data, f, indent=2)
+        
+        print(f"   💾 Saved to: {json_file}")
+        
+        # Save HTML for debugging (if config allows)
+        if config.SAVE_HTML and html_content:
+            html_file = cat_dir / f"{category_slug}_page.html"
+            with open(html_file, 'w', encoding='utf-8') as f:
+                f.write(html_content)
+            print(f"   💾 HTML saved: {html_file}")
+        
+        # Create manifest (compatible with existing format)
+        manifest = {
+            'timestamp': data['scrapedAt'],
+            'url': data['url'],
+            'productCount': len(data['productIds']),
+            'totalProducts': data.get('totalProducts'),
+        }
+        
+        manifest_file = cat_dir / "manifest.json"
+        with open(manifest_file, 'w') as f:
+            json.dump(manifest, f, indent=2)
+    
+    def close(self):
+        """Clean up resources"""
+        if self.driver:
+            self.driver.quit()
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Scrape Home Depot Product List Pages')
+    parser.add_argument('--categories', nargs='+', help='Specific categories to scrape')
+    parser.add_argument('--no-selenium', action='store_true', help='Use requests instead of Selenium')
+    parser.add_argument('--visible', action='store_true', help='Show browser window (not headless)')
+    parser.add_argument('--output', type=str, default=str(config.OUTPUT_DIR), help='Output directory')
+    
+    args = parser.parse_args()
+    
+    # Initialize scraper
+    scraper = PLPScraper(
+        use_selenium=not args.no_selenium,
+        headless=not args.visible
+    )
+    
+    output_dir = Path(args.output) / "plp_data"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Collect URLs to scrape
+    urls_to_scrape = []
+    
+    if args.categories:
+        # Scrape specific categories
+        for cat_name in args.categories:
+            for dept, categories in config.PRIORITY_CATEGORIES.items():
+                if cat_name in categories:
+                    urls_to_scrape.append((f"{dept}_{cat_name}", categories[cat_name]))
+    else:
+        # Scrape all priority categories
+        for dept, categories in config.PRIORITY_CATEGORIES.items():
+            for cat_name, url in categories.items():
+                urls_to_scrape.append((f"{dept}_{cat_name}", url))
+    
+    print(f"\n📋 Scraping {len(urls_to_scrape)} categories...")
+    
+    # Scrape each URL
+    results = []
+    for category_slug, url in tqdm(urls_to_scrape, desc="Scraping"):
+        data, html_content = scraper.scrape_plp(url, category_slug)
+        
+        if data:
+            scraper.save_results(data, output_dir, category_slug, html_content)
+            results.append(data)
+        
+        # Rate limiting
+        time.sleep(config.RATE_LIMIT_DELAY)
+    
+    # Clean up
+    scraper.close()
+    
+    # Summary
+    print(f"\n{'='*70}")
+    print(f"✨ Scraping Complete!")
+    print(f"   Categories scraped: {len(results)}")
+    print(f"   Total products found: {sum(len(r['productIds']) for r in results)}")
+    print(f"   Output directory: {output_dir}")
+
+
+if __name__ == '__main__':
+    main()

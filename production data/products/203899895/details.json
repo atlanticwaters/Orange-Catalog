@@ -1,0 +1,45 @@
+{
+  "productId": "203899895",
+  "identifiers": {
+    "internetNumber": "203899895",
+    "modelNumber": "",
+    "storeSkuNumber": "203899895"
+  },
+  "brand": {
+    "name": "Bosch",
+    "logoUrl": "images/brands/bosch.svg"
+  },
+  "title": "Portable Folding Gravity Rise Miter Saw Stand with Wheels",
+  "shortDescription": "Portable Folding Gravity Rise Miter Saw Stand with Wheels",
+  "longDescription": "Portable Folding Gravity Rise Miter Saw Stand with Wheels",
+  "pricing": {
+    "currentPrice": 319.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6561,
+    "count": 1137
+  },
+  "media": {
+    "primaryImage": "/products/203899895/bosch-tool-stands-t4b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203899895/bosch-tool-stands-t4b-64_100.jpg",
+        "altText": "Portable Folding Gravity Rise Miter Saw Stand with Wheels",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.685386"
+}

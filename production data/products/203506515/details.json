@@ -1,0 +1,45 @@
+{
+  "productId": "203506515",
+  "identifiers": {
+    "internetNumber": "203506515",
+    "modelNumber": "",
+    "storeSkuNumber": "203506515"
+  },
+  "brand": {
+    "name": "Eagle",
+    "logoUrl": "images/brands/eagle.svg"
+  },
+  "title": "Wheelbarrow Honda GX-160 10 Gal. 5.5 HP Gas Engine",
+  "shortDescription": "Wheelbarrow Honda GX-160 10 Gal. 5.5 HP Gas Engine",
+  "longDescription": "Wheelbarrow Honda GX-160 10 Gal. 5.5 HP Gas Engine",
+  "pricing": {
+    "currentPrice": 1399.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 6
+  },
+  "media": {
+    "primaryImage": "/products/203506515/eagle-portable-air-compressors-tt55g-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203506515/eagle-portable-air-compressors-tt55g-64_100.jpg",
+        "altText": "Wheelbarrow Honda GX-160 10 Gal. 5.5 HP Gas Engine",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.514228"
+}

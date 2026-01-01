@@ -1,0 +1,45 @@
+{
+  "productId": "204692339",
+  "identifiers": {
+    "internetNumber": "204692339",
+    "modelNumber": "",
+    "storeSkuNumber": "204692339"
+  },
+  "brand": {
+    "name": "Best Barns",
+    "logoUrl": "images/brands/best-barns.svg"
+  },
+  "title": "Tailored Titan-Tall 12 ft. x 24 ft. Wood Garage Kit with Spacious Loft and High Side Walls",
+  "shortDescription": "Tailored Titan-Tall 12 ft. x 24 ft. Wood Garage Kit with Spacious Loft and High Side Walls",
+  "longDescription": "Tailored Titan-Tall 12 ft. x 24 ft. Wood Garage Kit with Spacious Loft and High Side Walls",
+  "pricing": {
+    "currentPrice": 7033.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/204692339/clear-best-barns-garages-ttitnd24lf-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204692339/clear-best-barns-garages-ttitnd24lf-64_100.jpg",
+        "altText": "Tailored Titan-Tall 12 ft. x 24 ft. Wood Garage Kit with Spacious Loft and High Side Walls",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.582994"
+}

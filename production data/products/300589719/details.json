@@ -1,0 +1,45 @@
+{
+  "productId": "300589719",
+  "identifiers": {
+    "internetNumber": "300589719",
+    "modelNumber": "",
+    "storeSkuNumber": "300589719"
+  },
+  "brand": {
+    "name": "Dremel",
+    "logoUrl": "images/brands/dremel.svg"
+  },
+  "title": "4300 Series 1.8 Amp Variable Speed Corded Rotary Tool Kit w/ Mounted Light, 40 Accessories, 5 Attachments, Carrying Case",
+  "shortDescription": "4300 Series 1.8 Amp Variable Speed Corded Rotary Tool Kit w/ Mounted Light, 40 Accessories, 5 Attachments, Carrying Case",
+  "longDescription": "4300 Series 1.8 Amp Variable Speed Corded Rotary Tool Kit w/ Mounted Light, 40 Accessories, 5 Attachments, Carrying Case",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5117,
+    "count": 727
+  },
+  "media": {
+    "primaryImage": "/products/300589719/dremel-rotary-tools-4300-5-40-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300589719/dremel-rotary-tools-4300-5-40-64_100.jpg",
+        "altText": "4300 Series 1.8 Amp Variable Speed Corded Rotary Tool Kit w/ Mounted Light, 40 Accessories, 5 Attachments, Carrying Case",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.699613"
+}

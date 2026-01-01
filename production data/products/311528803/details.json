@@ -1,0 +1,45 @@
+{
+  "productId": "311528803",
+  "identifiers": {
+    "internetNumber": "311528803",
+    "modelNumber": "",
+    "storeSkuNumber": "311528803"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "3 Amp Corded 5 in. Variable Speed Random Orbital Sander",
+  "shortDescription": "3 Amp Corded 5 in. Variable Speed Random Orbital Sander",
+  "longDescription": "3 Amp Corded 5 in. Variable Speed Random Orbital Sander",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5441,
+    "count": 1055
+  },
+  "media": {
+    "primaryImage": "/products/311528803/dewalt-orbital-sanders-dwe6423-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311528803/dewalt-orbital-sanders-dwe6423-64_100.jpg",
+        "altText": "3 Amp Corded 5 in. Variable Speed Random Orbital Sander",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.696980"
+}

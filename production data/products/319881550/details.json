@@ -1,0 +1,45 @@
+{
+  "productId": "319881550",
+  "identifiers": {
+    "internetNumber": "319881550",
+    "modelNumber": "",
+    "storeSkuNumber": "319881550"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "21.9 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Garage Ready",
+  "shortDescription": "21.9 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Garage Ready",
+  "longDescription": "21.9 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Garage Ready",
+  "pricing": {
+    "currentPrice": 1299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.371,
+    "count": 12115
+  },
+  "media": {
+    "primaryImage": "/products/319881550/fingerprint-resistant-stainless-steel-ge-top-freezer-refrigerators-gts22kynrfs-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/319881550/fingerprint-resistant-stainless-steel-ge-top-freezer-refrigerators-gts22kynrfs-64_100.jpg",
+        "altText": "21.9 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Garage Ready",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.437857"
+}

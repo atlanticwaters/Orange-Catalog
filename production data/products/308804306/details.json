@@ -1,0 +1,45 @@
+{
+  "productId": "308804306",
+  "identifiers": {
+    "internetNumber": "308804306",
+    "modelNumber": "",
+    "storeSkuNumber": "308804306"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "30 in. Smart Double Electric Wall Oven with Self Clean in Stainless Steel",
+  "shortDescription": "30 in. Smart Double Electric Wall Oven with Self Clean in Stainless Steel",
+  "longDescription": "30 in. Smart Double Electric Wall Oven with Self Clean in Stainless Steel",
+  "pricing": {
+    "currentPrice": 3099.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5431,
+    "count": 1149
+  },
+  "media": {
+    "primaryImage": "/products/308804306/stainless-steel-ge-double-electric-wall-ovens-jtd3000snss-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308804306/stainless-steel-ge-double-electric-wall-ovens-jtd3000snss-64_100.jpg",
+        "altText": "30 in. Smart Double Electric Wall Oven with Self Clean in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.458388"
+}

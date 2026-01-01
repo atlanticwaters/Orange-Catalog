@@ -1,0 +1,45 @@
+{
+  "productId": "314001465",
+  "identifiers": {
+    "internetNumber": "314001465",
+    "modelNumber": "",
+    "storeSkuNumber": "314001465"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V MAX Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw (Tool Only)",
+  "shortDescription": "20V MAX Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw (Tool Only)",
+  "longDescription": "20V MAX Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw (Tool Only)",
+  "pricing": {
+    "currentPrice": 229.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6037,
+    "count": 4209
+  },
+  "media": {
+    "primaryImage": "/products/314001465/dewalt-circular-saws-dcs565b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314001465/dewalt-circular-saws-dcs565b-64_100.jpg",
+        "altText": "20V MAX Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.681884"
+}

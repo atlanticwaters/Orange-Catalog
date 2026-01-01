@@ -1,0 +1,45 @@
+{
+  "productId": "338102819",
+  "identifiers": {
+    "internetNumber": "338102819",
+    "modelNumber": "",
+    "storeSkuNumber": "338102819"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "46 in. x 72 in. x 24 in. 3-Shelf Steel Garage Cabinet and 18 in. x 100 in. Drawer Liner Combo",
+  "shortDescription": "46 in. x 72 in. x 24 in. 3-Shelf Steel Garage Cabinet and 18 in. x 100 in. Drawer Liner Combo",
+  "longDescription": "46 in. x 72 in. x 24 in. 3-Shelf Steel Garage Cabinet and 18 in. x 100 in. Drawer Liner Combo",
+  "pricing": {
+    "currentPrice": 665.06,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1981,
+    "count": 2903
+  },
+  "media": {
+    "primaryImage": "/products/338102819/husky-free-standing-cabinets-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338102819/husky-free-standing-cabinets-64_100.jpg",
+        "altText": "46 in. x 72 in. x 24 in. 3-Shelf Steel Garage Cabinet and 18 in. x 100 in. Drawer Liner Combo",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.546886"
+}

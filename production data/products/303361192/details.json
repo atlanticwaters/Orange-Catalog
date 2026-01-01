@@ -1,0 +1,45 @@
+{
+  "productId": "303361192",
+  "identifiers": {
+    "internetNumber": "303361192",
+    "modelNumber": "",
+    "storeSkuNumber": "303361192"
+  },
+  "brand": {
+    "name": "Campbell Hausfeld",
+    "logoUrl": "images/brands/campbell-hausfeld.svg"
+  },
+  "title": "Get Stuff Done 3/8 Air Ratchet with Shock Absorption (XT051000)",
+  "shortDescription": "Get Stuff Done 3/8 Air Ratchet with Shock Absorption (XT051000)",
+  "longDescription": "Get Stuff Done 3/8 Air Ratchet with Shock Absorption (XT051000)",
+  "pricing": {
+    "currentPrice": 77.07,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6,
+    "count": 15
+  },
+  "media": {
+    "primaryImage": "/products/303361192/campbell-hausfeld-air-ratchet-wrenches-xt051000-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/303361192/campbell-hausfeld-air-ratchet-wrenches-xt051000-64_100.jpg",
+        "altText": "Get Stuff Done 3/8 Air Ratchet with Shock Absorption (XT051000)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.529068"
+}

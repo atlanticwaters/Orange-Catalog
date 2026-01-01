@@ -1,0 +1,45 @@
+{
+  "productId": "331506441",
+  "identifiers": {
+    "internetNumber": "331506441",
+    "modelNumber": "",
+    "storeSkuNumber": "331506441"
+  },
+  "brand": {
+    "name": "NewAir",
+    "logoUrl": "images/brands/newair.svg"
+  },
+  "title": "19 in. Single Zone 126 (12 oz.) Cans, Beverage and Wine Cooler Fridge with Flip Shelf, in Stainless Steel",
+  "shortDescription": "19 in. Single Zone 126 (12 oz.) Cans, Beverage and Wine Cooler Fridge with Flip Shelf, in Stainless Steel",
+  "longDescription": "19 in. Single Zone 126 (12 oz.) Cans, Beverage and Wine Cooler Fridge with Flip Shelf, in Stainless Steel",
+  "pricing": {
+    "currentPrice": 299.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6893,
+    "count": 1268
+  },
+  "media": {
+    "primaryImage": "/products/331506441/stainless-steel-black-body-newair-beverage-wine-combos-ab-1200fls-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331506441/stainless-steel-black-body-newair-beverage-wine-combos-ab-1200fls-64_100.jpg",
+        "altText": "19 in. Single Zone 126 (12 oz.) Cans, Beverage and Wine Cooler Fridge with Flip Shelf, in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.455415"
+}

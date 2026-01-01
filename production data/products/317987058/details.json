@@ -1,0 +1,45 @@
+{
+  "productId": "317987058",
+  "identifiers": {
+    "internetNumber": "317987058",
+    "modelNumber": "",
+    "storeSkuNumber": "317987058"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "18.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+  "shortDescription": "18.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+  "longDescription": "18.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+  "pricing": {
+    "currentPrice": 2299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9853,
+    "count": 4908
+  },
+  "media": {
+    "primaryImage": "/products/317987058/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gwe19jylfs-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317987058/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gwe19jylfs-64_100.jpg",
+        "altText": "18.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.435215"
+}

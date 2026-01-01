@@ -1,0 +1,45 @@
+{
+  "productId": "309495334",
+  "identifiers": {
+    "internetNumber": "309495334",
+    "modelNumber": "",
+    "storeSkuNumber": "309495334"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 4-in-1 Installation 3/8 in. Drill Driver Kit with 4-Tool Heads",
+  "shortDescription": "M12 FUEL 12V Lithium-Ion Brushless Cordless 4-in-1 Installation 3/8 in. Drill Driver Kit with 4-Tool Heads",
+  "longDescription": "M12 FUEL 12V Lithium-Ion Brushless Cordless 4-in-1 Installation 3/8 in. Drill Driver Kit with 4-Tool Heads",
+  "pricing": {
+    "currentPrice": 229.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6947,
+    "count": 2096
+  },
+  "media": {
+    "primaryImage": "/products/309495334/milwaukee-power-drills-2505-22-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309495334/milwaukee-power-drills-2505-22-64_100.jpg",
+        "altText": "M12 FUEL 12V Lithium-Ion Brushless Cordless 4-in-1 Installation 3/8 in. Drill Driver Kit with 4-Tool Heads",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.659040"
+}

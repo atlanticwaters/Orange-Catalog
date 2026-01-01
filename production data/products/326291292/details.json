@@ -1,0 +1,45 @@
+{
+  "productId": "326291292",
+  "identifiers": {
+    "internetNumber": "326291292",
+    "modelNumber": "",
+    "storeSkuNumber": "326291292"
+  },
+  "brand": {
+    "name": "DIABLO",
+    "logoUrl": "images/brands/diablo.svg"
+  },
+  "title": "4-1/2 in. Turbo Rim Masonry Diamond Cut Off Blade Value Pack (2-Pack)",
+  "shortDescription": "4-1/2 in. Turbo Rim Masonry Diamond Cut Off Blade Value Pack (2-Pack)",
+  "longDescription": "4-1/2 in. Turbo Rim Masonry Diamond Cut Off Blade Value Pack (2-Pack)",
+  "pricing": {
+    "currentPrice": 19.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7574,
+    "count": 136
+  },
+  "media": {
+    "primaryImage": "/products/326291292/diablo-diamond-blades-ddd045tur1vp-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326291292/diablo-diamond-blades-ddd045tur1vp-64_100.jpg",
+        "altText": "4-1/2 in. Turbo Rim Masonry Diamond Cut Off Blade Value Pack (2-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.669561"
+}

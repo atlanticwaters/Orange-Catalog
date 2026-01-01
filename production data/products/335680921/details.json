@@ -1,0 +1,45 @@
+{
+  "productId": "335680921",
+  "identifiers": {
+    "internetNumber": "335680921",
+    "modelNumber": "",
+    "storeSkuNumber": "335680921"
+  },
+  "brand": {
+    "name": "AFI",
+    "logoUrl": "images/brands/afi.svg"
+  },
+  "title": "Westfield Walnut Brown Wood Frame Queen Low Profile Murphy Bed Chest with 6 in. Mattress",
+  "shortDescription": "Westfield Walnut Brown Wood Frame Queen Low Profile Murphy Bed Chest with 6 in. Mattress",
+  "longDescription": "Westfield Walnut Brown Wood Frame Queen Low Profile Murphy Bed Chest with 6 in. Mattress",
+  "pricing": {
+    "currentPrice": 1232.74,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6667,
+    "count": 6
+  },
+  "media": {
+    "primaryImage": "/products/335680921/walnut-afi-murphy-beds-ac724144-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335680921/walnut-afi-murphy-beds-ac724144-64_100.jpg",
+        "altText": "Westfield Walnut Brown Wood Frame Queen Low Profile Murphy Bed Chest with 6 in. Mattress",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.633878"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "205851875",
+  "identifiers": {
+    "internetNumber": "205851875",
+    "modelNumber": "",
+    "storeSkuNumber": "205851875"
+  },
+  "brand": {
+    "name": "KitchenAid",
+    "logoUrl": "images/brands/kitchenaid.svg"
+  },
+  "title": "19 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+  "shortDescription": "19 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+  "longDescription": "19 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+  "pricing": {
+    "currentPrice": 2069.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0231,
+    "count": 477
+  },
+  "media": {
+    "primaryImage": "/products/205851875/stainless-steel-kitchenaid-bottom-freezer-refrigerators-krbr109ess-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205851875/stainless-steel-kitchenaid-bottom-freezer-refrigerators-krbr109ess-64_100.jpg",
+        "altText": "19 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.436933"
+}

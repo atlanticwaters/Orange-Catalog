@@ -1,0 +1,45 @@
+{
+  "productId": "100678208",
+  "identifiers": {
+    "internetNumber": "100678208",
+    "modelNumber": "",
+    "storeSkuNumber": "100678208"
+  },
+  "brand": {
+    "name": "Paslode",
+    "logoUrl": "images/brands/paslode.svg"
+  },
+  "title": "3 in. x 0.120-Gauge 30 -Degree Galvanized Ring Shank Paper Tape Framing Nails (2000 per Box)",
+  "shortDescription": "3 in. x 0.120-Gauge 30 -Degree Galvanized Ring Shank Paper Tape Framing Nails (2000 per Box)",
+  "longDescription": "3 in. x 0.120-Gauge 30 -Degree Galvanized Ring Shank Paper Tape Framing Nails (2000 per Box)",
+  "pricing": {
+    "currentPrice": 129.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6641,
+    "count": 774
+  },
+  "media": {
+    "primaryImage": "/products/100678208/paslode-collated-framing-nails-650385-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100678208/paslode-collated-framing-nails-650385-64_100.jpg",
+        "altText": "3 in. x 0.120-Gauge 30 -Degree Galvanized Ring Shank Paper Tape Framing Nails (2000 per Box)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.517239"
+}

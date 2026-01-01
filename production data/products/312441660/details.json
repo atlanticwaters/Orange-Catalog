@@ -1,0 +1,45 @@
+{
+  "productId": "312441660",
+  "identifiers": {
+    "internetNumber": "312441660",
+    "modelNumber": "",
+    "storeSkuNumber": "312441660"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "5.0 cu. ft. Top Load Washer in White with Impeller, NeverRust Drum and TurboDrum Technology",
+  "shortDescription": "5.0 cu. ft. Top Load Washer in White with Impeller, NeverRust Drum and TurboDrum Technology",
+  "longDescription": "5.0 cu. ft. Top Load Washer in White with Impeller, NeverRust Drum and TurboDrum Technology",
+  "pricing": {
+    "currentPrice": 699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1861,
+    "count": 2477
+  },
+  "media": {
+    "primaryImage": "/products/312441660/white-lg-top-load-washers-wt7150cw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312441660/white-lg-top-load-washers-wt7150cw-64_100.jpg",
+        "altText": "5.0 cu. ft. Top Load Washer in White with Impeller, NeverRust Drum and TurboDrum Technology",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.481914"
+}

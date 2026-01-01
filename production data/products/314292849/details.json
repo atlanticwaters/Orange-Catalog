@@ -1,0 +1,45 @@
+{
+  "productId": "314292849",
+  "identifiers": {
+    "internetNumber": "314292849",
+    "modelNumber": "",
+    "storeSkuNumber": "314292849"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 GEN-2 18-Volt Lithium-Ion Cordless 4000 Lumens ROVER LED AC/DC Flood Light (Tool-Only)",
+  "shortDescription": "M18 GEN-2 18-Volt Lithium-Ion Cordless 4000 Lumens ROVER LED AC/DC Flood Light (Tool-Only)",
+  "longDescription": "M18 GEN-2 18-Volt Lithium-Ion Cordless 4000 Lumens ROVER LED AC/DC Flood Light (Tool-Only)",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6791,
+    "count": 832
+  },
+  "media": {
+    "primaryImage": "/products/314292849/milwaukee-jobsite-lighting-2366-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314292849/milwaukee-jobsite-lighting-2366-20-64_100.jpg",
+        "altText": "M18 GEN-2 18-Volt Lithium-Ion Cordless 4000 Lumens ROVER LED AC/DC Flood Light (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.666287"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "300844950",
+  "identifiers": {
+    "internetNumber": "300844950",
+    "modelNumber": "",
+    "storeSkuNumber": "300844950"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "2 ft. Artificial Cedar Bush Indoor/Outdoor",
+  "shortDescription": "2 ft. Artificial Cedar Bush Indoor/Outdoor",
+  "longDescription": "2 ft. Artificial Cedar Bush Indoor/Outdoor",
+  "pricing": {
+    "currentPrice": 56.96,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8,
+    "count": 50
+  },
+  "media": {
+    "primaryImage": "/products/300844950/nearly-natural-artificial-shrubs-6880-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300844950/nearly-natural-artificial-shrubs-6880-64_100.jpg",
+        "altText": "2 ft. Artificial Cedar Bush Indoor/Outdoor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.648340"
+}

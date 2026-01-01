@@ -1,0 +1,45 @@
+{
+  "productId": "327585040",
+  "identifiers": {
+    "internetNumber": "327585040",
+    "modelNumber": "",
+    "storeSkuNumber": "327585040"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "USB Lithium Multi-Head Screwdriver Kit w/2Ah Battery, Charging Cable, 10-Piece Bit Set, Case and 3-Interchangeable Heads",
+  "shortDescription": "USB Lithium Multi-Head Screwdriver Kit w/2Ah Battery, Charging Cable, 10-Piece Bit Set, Case and 3-Interchangeable Heads",
+  "longDescription": "USB Lithium Multi-Head Screwdriver Kit w/2Ah Battery, Charging Cable, 10-Piece Bit Set, Case and 3-Interchangeable Heads",
+  "pricing": {
+    "currentPrice": 49.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5944,
+    "count": 466
+  },
+  "media": {
+    "primaryImage": "/products/327585040/ryobi-electric-screwdrivers-fvd51k-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327585040/ryobi-electric-screwdrivers-fvd51k-64_100.jpg",
+        "altText": "USB Lithium Multi-Head Screwdriver Kit w/2Ah Battery, Charging Cable, 10-Piece Bit Set, Case and 3-Interchangeable Heads",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.679217"
+}

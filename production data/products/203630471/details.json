@@ -1,0 +1,45 @@
+{
+  "productId": "203630471",
+  "identifiers": {
+    "internetNumber": "203630471",
+    "modelNumber": "",
+    "storeSkuNumber": "203630471"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M12 12-Volt Lithium-Ion XC Extended Capacity 3.0 Ah Battery Pack (2-Pack)",
+  "shortDescription": "M12 12-Volt Lithium-Ion XC Extended Capacity 3.0 Ah Battery Pack (2-Pack)",
+  "longDescription": "M12 12-Volt Lithium-Ion XC Extended Capacity 3.0 Ah Battery Pack (2-Pack)",
+  "pricing": {
+    "currentPrice": 79.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6559,
+    "count": 8082
+  },
+  "media": {
+    "primaryImage": "/products/203630471/milwaukee-power-tool-batteries-48-11-2412-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203630471/milwaukee-power-tool-batteries-48-11-2412-64_100.jpg",
+        "altText": "M12 12-Volt Lithium-Ion XC Extended Capacity 3.0 Ah Battery Pack (2-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.656667"
+}

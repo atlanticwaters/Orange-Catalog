@@ -1,0 +1,45 @@
+{
+  "productId": "100520395",
+  "identifiers": {
+    "internetNumber": "100520395",
+    "modelNumber": "",
+    "storeSkuNumber": "100520395"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "Genuine VF3501 Wet Dry Vac Dry Pick-up Only Dust Bags for 3-4.5 Gallon and HD0600 RIDGID Shop Vacuums, Size C (2-Pack)",
+  "shortDescription": "Genuine VF3501 Wet Dry Vac Dry Pick-up Only Dust Bags for 3-4.5 Gallon and HD0600 RIDGID Shop Vacuums, Size C (2-Pack)",
+  "longDescription": "Genuine VF3501 Wet Dry Vac Dry Pick-up Only Dust Bags for 3-4.5 Gallon and HD0600 RIDGID Shop Vacuums, Size C (2-Pack)",
+  "pricing": {
+    "currentPrice": 19.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4748,
+    "count": 3136
+  },
+  "media": {
+    "primaryImage": "/products/100520395/ridgid-shop-vacuum-filters-vf3501-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100520395/ridgid-shop-vacuum-filters-vf3501-64_100.jpg",
+        "altText": "Genuine VF3501 Wet Dry Vac Dry Pick-up Only Dust Bags for 3-4.5 Gallon and HD0600 RIDGID Shop Vacuums, Size C (2-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.461017"
+}

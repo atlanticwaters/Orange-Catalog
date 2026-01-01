@@ -1,0 +1,45 @@
+{
+  "productId": "337674733",
+  "identifiers": {
+    "internetNumber": "337674733",
+    "modelNumber": "",
+    "storeSkuNumber": "337674733"
+  },
+  "brand": {
+    "name": "HDX",
+    "logoUrl": "images/brands/hdx.svg"
+  },
+  "title": "2-Shelf Steel Wire Rack (22 in. x 69 in. x 28.5 in.) and 5-Pack 27 Gal. Totes",
+  "shortDescription": "2-Shelf Steel Wire Rack (22 in. x 69 in. x 28.5 in.) and 5-Pack 27 Gal. Totes",
+  "longDescription": "2-Shelf Steel Wire Rack (22 in. x 69 in. x 28.5 in.) and 5-Pack 27 Gal. Totes",
+  "pricing": {
+    "currentPrice": 124.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7759,
+    "count": 5573
+  },
+  "media": {
+    "primaryImage": "/products/337674733/hdx-wire-shelving-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337674733/hdx-wire-shelving-64_100.jpg",
+        "altText": "2-Shelf Steel Wire Rack (22 in. x 69 in. x 28.5 in.) and 5-Pack 27 Gal. Totes",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.427257"
+}

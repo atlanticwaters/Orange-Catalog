@@ -1,0 +1,45 @@
+{
+  "productId": "333099408",
+  "identifiers": {
+    "internetNumber": "333099408",
+    "modelNumber": "",
+    "storeSkuNumber": "333099408"
+  },
+  "brand": {
+    "name": "DURASTAR",
+    "logoUrl": "images/brands/durastar.svg"
+  },
+  "title": "8,000 BTU 115V Window Air Conditioner Cools 350 Sq. Ft. with Heater and Remote in White",
+  "shortDescription": "8,000 BTU 115V Window Air Conditioner Cools 350 Sq. Ft. with Heater and Remote in White",
+  "longDescription": "8,000 BTU 115V Window Air Conditioner Cools 350 Sq. Ft. with Heater and Remote in White",
+  "pricing": {
+    "currentPrice": 282.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.8,
+    "count": 55
+  },
+  "media": {
+    "primaryImage": "/products/333099408/durastar-window-air-conditioners-drwhc081xna1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333099408/durastar-window-air-conditioners-drwhc081xna1-64_100.jpg",
+        "altText": "8,000 BTU 115V Window Air Conditioner Cools 350 Sq. Ft. with Heater and Remote in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.458879"
+}

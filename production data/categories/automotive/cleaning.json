@@ -1,0 +1,83 @@
+{
+  "categoryId": "automotive/cleaning",
+  "name": "Cleaning",
+  "slug": "cleaning",
+  "path": "/categories/automotive/cleaning",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.715522",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Automotive",
+      "url": "/automotive"
+    },
+    {
+      "label": "Cleaning",
+      "url": "/automotive/cleaning"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2
+  },
+  "featuredBrands": [
+    {
+      "brandId": "rain-x",
+      "brandName": "Rain-X",
+      "logoUrl": "images/brands/rain-x.svg",
+      "count": 1
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "319875804",
+      "modelNumber": "",
+      "brand": "Rain-X",
+      "title": "100 oz. High Foaming Car Wash",
+      "rating": {
+        "average": 4.4472,
+        "count": 161
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/328a8388-fbf5-423c-a939-5986e30512a5/svn/rain-x-car-washing-supplies-620191-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339377625",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "64 fl. oz. Ultra Shine Wash and Wax, 128 oz. All-Purpose Car Wash, 5 Gallon Bucket and 2-in-1 Scrub Sponge Combo",
+      "rating": {
+        "average": 4.6838,
+        "count": 7186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa303610-ec0b-4a6e-8009-8ef12898976d/svn/car-washing-supplies-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 30.7,
+        "currency": "USD"
+      }
+    }
+  ]
+}

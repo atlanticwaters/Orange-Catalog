@@ -1,0 +1,45 @@
+{
+  "productId": "329383832",
+  "identifiers": {
+    "internetNumber": "329383832",
+    "modelNumber": "",
+    "storeSkuNumber": "329383832"
+  },
+  "brand": {
+    "name": "Coaster",
+    "logoUrl": "images/brands/coaster.svg"
+  },
+  "title": "Ganso 23.5 in. Black Round Metal End Table with Tempered Glass Top",
+  "shortDescription": "Ganso 23.5 in. Black Round Metal End Table with Tempered Glass Top",
+  "longDescription": "Ganso 23.5 in. Black Round Metal End Table with Tempered Glass Top",
+  "pricing": {
+    "currentPrice": 135.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/329383832/sandy-black-coaster-end-side-tables-709687-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329383832/sandy-black-coaster-end-side-tables-709687-64_100.jpg",
+        "altText": "Ganso 23.5 in. Black Round Metal End Table with Tempered Glass Top",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.607933"
+}

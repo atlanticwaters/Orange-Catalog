@@ -1,0 +1,45 @@
+{
+  "productId": "314065486",
+  "identifiers": {
+    "internetNumber": "314065486",
+    "modelNumber": "",
+    "storeSkuNumber": "314065486"
+  },
+  "brand": {
+    "name": "NATURAE DECOR",
+    "logoUrl": "images/brands/naturae-decor.svg"
+  },
+  "title": "Artificial 35 in. Fiddle Leaf Indoor and Outdoor Plants",
+  "shortDescription": "Artificial 35 in. Fiddle Leaf Indoor and Outdoor Plants",
+  "longDescription": "Artificial 35 in. Fiddle Leaf Indoor and Outdoor Plants",
+  "pricing": {
+    "currentPrice": 43.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7513,
+    "count": 189
+  },
+  "media": {
+    "primaryImage": "/products/314065486/naturae-decor-artificial-tropical-plants-out-fiddle-35bc-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314065486/naturae-decor-artificial-tropical-plants-out-fiddle-35bc-64_100.jpg",
+        "altText": "Artificial 35 in. Fiddle Leaf Indoor and Outdoor Plants",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.560111"
+}

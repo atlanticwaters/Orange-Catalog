@@ -1,0 +1,45 @@
+{
+  "productId": "302583404",
+  "identifiers": {
+    "internetNumber": "302583404",
+    "modelNumber": "",
+    "storeSkuNumber": "302583404"
+  },
+  "brand": {
+    "name": "Milton Industries, Inc.",
+    "logoUrl": "images/brands/milton-industries-inc.svg"
+  },
+  "title": "32 oz High-Performance Conventional Air Tool Oil",
+  "shortDescription": "32 oz High-Performance Conventional Air Tool Oil",
+  "longDescription": "32 oz High-Performance Conventional Air Tool Oil",
+  "pricing": {
+    "currentPrice": 12.06,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6667,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/302583404/milton-industries-inc-air-compressor-oils-1001-32-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302583404/milton-industries-inc-air-compressor-oils-1001-32-64_100.jpg",
+        "altText": "32 oz High-Performance Conventional Air Tool Oil",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.498441"
+}

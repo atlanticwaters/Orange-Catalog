@@ -1,0 +1,45 @@
+{
+  "productId": "337058792",
+  "identifiers": {
+    "internetNumber": "337058792",
+    "modelNumber": "",
+    "storeSkuNumber": "337058792"
+  },
+  "brand": {
+    "name": "Maytag",
+    "logoUrl": "images/brands/maytag.svg"
+  },
+  "title": "5.3 cu. ft. Pet Pro Top Load Washer in Midnight Steel with Extra Power and Sanitize Cycle with Oxi",
+  "shortDescription": "5.3 cu. ft. Pet Pro Top Load Washer in Midnight Steel with Extra Power and Sanitize Cycle with Oxi",
+  "longDescription": "5.3 cu. ft. Pet Pro Top Load Washer in Midnight Steel with Extra Power and Sanitize Cycle with Oxi",
+  "pricing": {
+    "currentPrice": 949.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1371,
+    "count": 124
+  },
+  "media": {
+    "primaryImage": "/products/337058792/midnight-steel-maytag-top-load-washers-mtw7200rf-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337058792/midnight-steel-maytag-top-load-washers-mtw7200rf-64_100.jpg",
+        "altText": "5.3 cu. ft. Pet Pro Top Load Washer in Midnight Steel with Extra Power and Sanitize Cycle with Oxi",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.482562"
+}

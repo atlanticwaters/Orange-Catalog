@@ -1,0 +1,45 @@
+{
+  "productId": "304290535",
+  "identifiers": {
+    "internetNumber": "304290535",
+    "modelNumber": "",
+    "storeSkuNumber": "304290535"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "1.6 cu.ft Electric Stacked Laundry Center 6 Wash cycles and AutoDry",
+  "shortDescription": "1.6 cu.ft Electric Stacked Laundry Center 6 Wash cycles and AutoDry",
+  "longDescription": "1.6 cu.ft Electric Stacked Laundry Center 6 Wash cycles and AutoDry",
+  "pricing": {
+    "currentPrice": 1249.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2582,
+    "count": 2157
+  },
+  "media": {
+    "primaryImage": "/products/304290535/white-whirlpool-laundry-centers-wet4024hw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/304290535/white-whirlpool-laundry-centers-wet4024hw-64_100.jpg",
+        "altText": "1.6 cu.ft Electric Stacked Laundry Center 6 Wash cycles and AutoDry",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.639904"
+}

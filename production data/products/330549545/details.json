@@ -1,0 +1,45 @@
+{
+  "productId": "330549545",
+  "identifiers": {
+    "internetNumber": "330549545",
+    "modelNumber": "",
+    "storeSkuNumber": "330549545"
+  },
+  "brand": {
+    "name": "LIVING LUXURY",
+    "logoUrl": "images/brands/living-luxury.svg"
+  },
+  "title": "30 in. Yellow Artificial Wild Berry Filler Flower Stem Spray (Set of 4)",
+  "shortDescription": "30 in. Yellow Artificial Wild Berry Filler Flower Stem Spray (Set of 4)",
+  "longDescription": "30 in. Yellow Artificial Wild Berry Filler Flower Stem Spray (Set of 4)",
+  "pricing": {
+    "currentPrice": 46.8,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/330549545/living-luxury-artificial-flowers-31598-yl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330549545/living-luxury-artificial-flowers-31598-yl-64_100.jpg",
+        "altText": "30 in. Yellow Artificial Wild Berry Filler Flower Stem Spray (Set of 4)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.610198"
+}

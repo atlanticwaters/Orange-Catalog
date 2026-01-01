@@ -1,0 +1,45 @@
+{
+  "productId": "206825507",
+  "identifiers": {
+    "internetNumber": "206825507",
+    "modelNumber": "",
+    "storeSkuNumber": "206825507"
+  },
+  "brand": {
+    "name": "Homecraft Furniture",
+    "logoUrl": "images/brands/homecraft-furniture.svg"
+  },
+  "title": "White Storage End Table",
+  "shortDescription": "White Storage End Table",
+  "longDescription": "White Storage End Table",
+  "pricing": {
+    "currentPrice": 51.33,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6364,
+    "count": 11
+  },
+  "media": {
+    "primaryImage": "/products/206825507/white-homecraft-furniture-end-side-tables-wh162-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206825507/white-homecraft-furniture-end-side-tables-wh162-64_100.jpg",
+        "altText": "White Storage End Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.574131"
+}

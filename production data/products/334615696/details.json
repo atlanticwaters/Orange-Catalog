@@ -1,0 +1,45 @@
+{
+  "productId": "334615696",
+  "identifiers": {
+    "internetNumber": "334615696",
+    "modelNumber": "",
+    "storeSkuNumber": "334615696"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "PACKOUT 19 in. Rolling Drawer Tool Box",
+  "shortDescription": "PACKOUT 19 in. Rolling Drawer Tool Box",
+  "longDescription": "PACKOUT 19 in. Rolling Drawer Tool Box",
+  "pricing": {
+    "currentPrice": 249.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4231,
+    "count": 208
+  },
+  "media": {
+    "primaryImage": "/products/334615696/red-black-milwaukee-portable-tool-boxes-48-22-8420-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334615696/red-black-milwaukee-portable-tool-boxes-48-22-8420-64_100.jpg",
+        "altText": "PACKOUT 19 in. Rolling Drawer Tool Box",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.641837"
+}

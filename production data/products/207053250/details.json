@@ -1,0 +1,45 @@
+{
+  "productId": "207053250",
+  "identifiers": {
+    "internetNumber": "207053250",
+    "modelNumber": "",
+    "storeSkuNumber": "207053250"
+  },
+  "brand": {
+    "name": "Mayhew",
+    "logoUrl": "images/brands/mayhew.svg"
+  },
+  "title": "Pro Pneumatic Hammer",
+  "shortDescription": "Pro Pneumatic Hammer",
+  "longDescription": "Pro Pneumatic Hammer",
+  "pricing": {
+    "currentPrice": 18.61,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6957,
+    "count": 23
+  },
+  "media": {
+    "primaryImage": "/products/207053250/mayhew-air-hammers-31982-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/207053250/mayhew-air-hammers-31982-64_100.jpg",
+        "altText": "Pro Pneumatic Hammer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.628316"
+}

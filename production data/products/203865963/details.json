@@ -1,0 +1,45 @@
+{
+  "productId": "203865963",
+  "identifiers": {
+    "internetNumber": "203865963",
+    "modelNumber": "",
+    "storeSkuNumber": "203865963"
+  },
+  "brand": {
+    "name": "Crescent",
+    "logoUrl": "images/brands/crescent.svg"
+  },
+  "title": "Jobox 60 in. W x 30 in. D x 39.5 in. H Heavy Duty Steel Slope Lid Chest with Site-Vault Locking System",
+  "shortDescription": "Jobox 60 in. W x 30 in. D x 39.5 in. H Heavy Duty Steel Slope Lid Chest with Site-Vault Locking System",
+  "longDescription": "Jobox 60 in. W x 30 in. D x 39.5 in. H Heavy Duty Steel Slope Lid Chest with Site-Vault Locking System",
+  "pricing": {
+    "currentPrice": 1071.25,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/203865963/assorted-crescent-jobsite-boxes-1-680990-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203865963/assorted-crescent-jobsite-boxes-1-680990-64_100.jpg",
+        "altText": "Jobox 60 in. W x 30 in. D x 39.5 in. H Heavy Duty Steel Slope Lid Chest with Site-Vault Locking System",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.470520"
+}

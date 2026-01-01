@@ -1,0 +1,45 @@
+{
+  "productId": "317914032",
+  "identifiers": {
+    "internetNumber": "317914032",
+    "modelNumber": "",
+    "storeSkuNumber": "317914032"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "Profile 5.0 cu. ft. High-Efficiency Smart Top Load Washer in White with Impeller and Microban Technology, Energy Star",
+  "shortDescription": "Profile 5.0 cu. ft. High-Efficiency Smart Top Load Washer in White with Impeller and Microban Technology, Energy Star",
+  "longDescription": "Profile 5.0 cu. ft. High-Efficiency Smart Top Load Washer in White with Impeller and Microban Technology, Energy Star",
+  "pricing": {
+    "currentPrice": 699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0934,
+    "count": 5513
+  },
+  "media": {
+    "primaryImage": "/products/317914032/white-ge-top-load-washers-ptw600bsrws-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317914032/white-ge-top-load-washers-ptw600bsrws-64_100.jpg",
+        "altText": "Profile 5.0 cu. ft. High-Efficiency Smart Top Load Washer in White with Impeller and Microban Technology, Energy Star",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.482146"
+}

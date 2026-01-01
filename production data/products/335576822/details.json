@@ -1,0 +1,45 @@
+{
+  "productId": "335576822",
+  "identifiers": {
+    "internetNumber": "335576822",
+    "modelNumber": "",
+    "storeSkuNumber": "335576822"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "TIRE INFLATION GUN",
+  "shortDescription": "TIRE INFLATION GUN",
+  "longDescription": "TIRE INFLATION GUN",
+  "pricing": {
+    "currentPrice": 27.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/335576822/husky-compressor-accessories-hda51500-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335576822/husky-compressor-accessories-hda51500-64_100.jpg",
+        "altText": "TIRE INFLATION GUN",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.504686"
+}

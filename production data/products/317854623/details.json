@@ -1,0 +1,45 @@
+{
+  "productId": "317854623",
+  "identifiers": {
+    "internetNumber": "317854623",
+    "modelNumber": "",
+    "storeSkuNumber": "317854623"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Tire Inflation Gun Air Chuck with Pressure Gauge",
+  "shortDescription": "Tire Inflation Gun Air Chuck with Pressure Gauge",
+  "longDescription": "Tire Inflation Gun Air Chuck with Pressure Gauge",
+  "pricing": {
+    "currentPrice": 27.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0248,
+    "count": 606
+  },
+  "media": {
+    "primaryImage": "/products/317854623/husky-air-chucks-hkata091015-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317854623/husky-air-chucks-hkata091015-64_100.jpg",
+        "altText": "Tire Inflation Gun Air Chuck with Pressure Gauge",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.506283"
+}

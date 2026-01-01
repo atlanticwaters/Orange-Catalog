@@ -1,0 +1,45 @@
+{
+  "productId": "202567596",
+  "identifiers": {
+    "internetNumber": "202567596",
+    "modelNumber": "",
+    "storeSkuNumber": "202567596"
+  },
+  "brand": {
+    "name": "POWERNAIL",
+    "logoUrl": "images/brands/powernail.svg"
+  },
+  "title": "16-Gauge Flex Power Roller Pneumatic Hardwood Flooring Cleat Nailer",
+  "shortDescription": "16-Gauge Flex Power Roller Pneumatic Hardwood Flooring Cleat Nailer",
+  "longDescription": "16-Gauge Flex Power Roller Pneumatic Hardwood Flooring Cleat Nailer",
+  "pricing": {
+    "currentPrice": 687.95,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 5
+  },
+  "media": {
+    "primaryImage": "/products/202567596/powernail-floor-nailers-445flexprw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202567596/powernail-floor-nailers-445flexprw-64_100.jpg",
+        "altText": "16-Gauge Flex Power Roller Pneumatic Hardwood Flooring Cleat Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.511542"
+}

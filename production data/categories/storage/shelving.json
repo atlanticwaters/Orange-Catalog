@@ -1,0 +1,212 @@
+{
+  "categoryId": "storage/shelving",
+  "name": "Shelving",
+  "slug": "shelving",
+  "path": "/categories/storage/shelving",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.734640",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Storage",
+      "url": "/storage"
+    },
+    {
+      "label": "Shelving",
+      "url": "/storage/shelving"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 7
+  },
+  "featuredBrands": [
+    {
+      "brandId": "hdx",
+      "brandName": "HDX",
+      "logoUrl": "images/brands/hdx.svg",
+      "count": 2
+    },
+    {
+      "brandId": "newair",
+      "brandName": "NewAir",
+      "logoUrl": "images/brands/newair.svg",
+      "count": 1
+    },
+    {
+      "brandId": "prepac",
+      "brandName": "Prepac",
+      "logoUrl": "images/brands/prepac.svg",
+      "count": 1
+    },
+    {
+      "brandId": "keter",
+      "brandName": "Keter",
+      "logoUrl": "images/brands/keter.svg",
+      "count": 1
+    },
+    {
+      "brandId": "harper-bright-designs",
+      "brandName": "Harper & Bright Designs",
+      "logoUrl": "images/brands/harper-bright-designs.svg",
+      "count": 1
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "331506441",
+      "modelNumber": "",
+      "brand": "NewAir",
+      "title": "19 in. Single Zone 126 (12 oz.) Cans, Beverage and Wine Cooler Fridge with Flip Shelf, in Stainless Steel",
+      "rating": {
+        "average": 3.6893,
+        "count": 1268
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8dc7c05-85ec-4457-bb4c-5c35c22fc7d9/svn/stainless-steel-black-body-newair-beverage-wine-combos-ab-1200fls-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336819078",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "Premium Grey Resin Freestanding Cabinet Combo: 35 in.x71.7 in.x18.5 in. 4-Shelf & 26.9 in.x33.8 in.x15.8 in. 2-Shelf",
+      "rating": {
+        "average": 4.0319,
+        "count": 345
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c6eb88b-2392-4fc4-a4c7-439670046d93/svn/hdx-free-standing-cabinets-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 293.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330608174",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "Premium One 35 in. W x 71.7 in. x 18.5 in. D 4-Shelf Resin Freestanding Cabinet in Grey",
+      "rating": {
+        "average": 4.1176,
+        "count": 255
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1cee4cc4-595f-4e0c-91f4-f5c5a320067a/svn/gray-hdx-free-standing-cabinets-259916-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203055485",
+      "modelNumber": "",
+      "brand": "Prepac",
+      "title": "Elite 32 in. W x 65 in. H x 24.5 in. D 2-Shelf Engineered Wood Freestanding Cabinet Wardrobe Cabinet in White",
+      "rating": {
+        "average": 3.9055,
+        "count": 254
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/200222fa-c0ea-49e7-aaa4-22b984ed1b20/svn/white-prepac-free-standing-cabinets-wew-3264-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331693883",
+      "modelNumber": "",
+      "brand": "Keter",
+      "title": "Premium One 35 in. W x 71.7 in. H. x 18.5 in. D 5-Shelf Resin Freestanding Cabinet in Black",
+      "rating": {
+        "average": 3.4778,
+        "count": 90
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/35fdb913-29ea-40ad-91e5-38ad6dbcb69c/svn/black-keter-free-standing-cabinets-259990-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330446071",
+      "modelNumber": "",
+      "brand": "Harper & Bright Designs",
+      "title": "50 in. Antique White Rectangle MDF Console Table, Entryway Table with 3-Drawers and Storage Bottom Shelf",
+      "rating": {
+        "average": 3.6,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/012fe645-8836-4f52-8310-9afe44773d7c/svn/antique-white-harper-bright-designs-console-tables-xw135aak-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 230.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318430289",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "LINK Tool Organizer Shelf with LINK 8-Piece Wall Storage Kit",
+      "rating": {
+        "average": 4.4595,
+        "count": 346
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/54e63f50-647a-4403-b153-eb9423d06ea2/svn/ryobi-modular-tool-storage-systems-stm401-stm503k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.94,
+        "currency": "USD"
+      }
+    }
+  ]
+}

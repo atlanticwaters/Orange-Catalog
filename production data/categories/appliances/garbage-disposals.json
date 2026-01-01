@@ -1,424 +1,383 @@
 {
   "categoryId": "appliances/garbage-disposals",
   "name": "Garbage Disposals",
-  "originalUrl": "https://www.homedepot.com/b/Appliances-Garbage-Disposals/N-5yc1vZc3no",
-  "archiveTime": "2025-12-31T18:31:27.461Z",
+  "slug": "garbage-disposals",
+  "path": "/categories/appliances/garbage-disposals",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.705722",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Appliances",
-      "url": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w"
+      "label": "Appliances",
+      "url": "/appliances"
     },
     {
-      "name": "Garbage Disposals",
-      "url": "https://www.homedepot.com/b/Appliances-Garbage-Disposals/N-5yc1vZc3no"
+      "label": "Garbage Disposals",
+      "url": "/appliances/garbage-disposals"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/17.avif",
-  "productIds": [
-    "100091168",
-    "206577650",
-    "300278660",
-    "300278672",
-    "302253240",
-    "302453560",
-    "303948105",
-    "306116684",
-    "306935836",
-    "311231763",
-    "319502657",
-    "319503107",
-    "319503467",
-    "319923566",
-    "319923732",
-    "320216760",
-    "321511603",
-    "321511605",
-    "322038211",
-    "322620654",
-    "322620659",
-    "324538076",
-    "324538096",
-    "325158253",
-    "326067211",
-    "326067216",
-    "326096793",
-    "326915276",
-    "326967134",
-    "326967135",
-    "326967145",
-    "327486145",
-    "327486146",
-    "328971171",
-    "328985143",
-    "331843223",
-    "332606910",
-    "336451236"
+  "pageInfo": {
+    "totalResults": 16
+  },
+  "featuredBrands": [
+    {
+      "brandId": "insinkerator",
+      "brandName": "InSinkErator",
+      "logoUrl": "images/brands/insinkerator.svg",
+      "count": 12
+    },
+    {
+      "brandId": "moen",
+      "brandName": "MOEN",
+      "logoUrl": "images/brands/moen.svg",
+      "count": 2
+    },
+    {
+      "brandId": "glacier-bay",
+      "brandName": "Glacier Bay",
+      "logoUrl": "images/brands/glacier-bay.svg",
+      "count": 2
+    }
   ],
-  "totalProducts": 38,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/60.avif",
-        "url": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf29bb86004m-64_600.jpg"
+  "products": [
+    {
+      "productId": "321511605",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Badger 500, 1/2 HP Continuous Feed Kitchen Garbage Disposal, Badger Series",
+      "rating": {
+        "average": 4.5321,
+        "count": 13195
       },
-      {
-        "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/f08fc639-a68b-4b41-9e7a-e2c589ee474e/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf23bb86004m-64_600.jpg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/606009f9-6f3c-49dd-924b-2e84c0d29863/svn/insinkerator-garbage-disposals-badger-500-64_100.jpg"
       },
-      {
-        "filename": "images/62.avif",
-        "url": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/63.avif",
-        "url": "https://images.thdstatic.com/productImages/f3824ac0-3b8e-4b46-b8cc-f56a5d572c96/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/64.avif",
-        "url": "https://images.thdstatic.com/productImages/5b111963-e652-4619-a4ac-59fe0319a51f/svn/charcoal-glass-matte-black-steel-samsung-french-door-refrigerators-rf29bb89008m-64_600.jpg"
-      },
-      {
-        "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/66.avif",
-        "url": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_600.jpg"
-      },
-      {
-        "filename": "images/67.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_600.jpg"
-      },
-      {
-        "filename": "images/68.avif",
-        "url": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_600.jpg"
-      },
-      {
-        "filename": "images/69.avif",
-        "url": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_600.jpg"
-      },
-      {
-        "filename": "images/70.avif",
-        "url": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_600.jpg"
-      },
-      {
-        "filename": "images/71.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_600.jpg"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/kdxO5_YHcDGl0Jq6BBWrBw/vabyB1j-IM7jshzd0sasWg/Original%20file/2f80a096-5127-4394-b5ce-f464a863fc09_InSinkErator_Badger_100_Garbage_Disposal_Image1_square.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://dam.thdstatic.com/content/production/8b520ZfvqIqbnPix9EPMgg/9DExE4stSKUQauDXcNbz1Q/Original%20file/df3807c4-df88-43d3-b3f0-8c558ea4365c_InSinkErator_Evolution1300_Garbage_Disposal_Image1_square.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "https://dam.thdstatic.com/content/production/zgMWNk2qZ95gAnYQ1q1MCA/XYu7yld_24CeNa7qSgv8gw/Original%20file/1_2024_DisposalImageColorEdi_GlacierBay_324538076_S_square.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/19.avif",
-        "url": "https://dam.thdstatic.com/content/production/ShK_tfyObft8Aczp1KOPkw/X5iunaE-5RPSZ9BJKKsXvA/Original%20file/71dcfb1a-a679-4a35-b96a-72c9dd9b770f_gxp50c_cord-newX_square.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "https://images.thdstatic.com/productImages/606009f9-6f3c-49dd-924b-2e84c0d29863/svn/insinkerator-garbage-disposals-badger-500-64_600.jpg"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "https://images.thdstatic.com/productImages/45217c45-9391-4e4c-8855-4e40609ed5a3/svn/insinkerator-garbage-disposals-badger-500-e4_600.jpg"
-      },
-      {
-        "filename": "images/24.avif",
-        "url": "https://images.thdstatic.com/productImages/e153b7cd-a089-48a7-b280-b56bb6226fe9/svn/insinkerator-garbage-disposals-badger-100-64_600.jpg"
-      },
-      {
-        "filename": "images/25.avif",
-        "url": "https://images.thdstatic.com/productImages/1ea3248d-dbf2-4d36-89e3-840361190326/svn/insinkerator-garbage-disposals-badger-100-e4_600.jpg"
-      },
-      {
-        "filename": "images/27.avif",
-        "url": "https://images.thdstatic.com/productImages/beb04e55-c4d6-456c-8a2a-5f09efcd1bb1/svn/insinkerator-garbage-disposals-power-900-e4_600.jpg"
-      },
-      {
-        "filename": "images/28.avif",
-        "url": "https://images.thdstatic.com/productImages/5a57f0b4-7cf0-49cc-97ab-035c7189bcc6/svn/moen-garbage-disposals-gxp50c-64_600.jpg"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "https://images.thdstatic.com/productImages/40eb679c-7775-40c8-ba98-c3838f04571f/svn/moen-garbage-disposals-gxp50c-e4_600.jpg"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://images.thdstatic.com/productImages/24bfaf92-4292-4ae2-92fe-01086903f496/svn/moen-garbage-disposals-ex75c-e4_600.jpg"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://images.thdstatic.com/productImages/620b582e-8a59-4b41-9cc5-6b88af342257/svn/glacier-bay-garbage-disposals-10-us-gb500-64_600.jpg"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://images.thdstatic.com/productImages/8993bc36-4ded-44e2-869c-15d1a3cca9a0/svn/glacier-bay-garbage-disposals-10-us-gb500-e4_600.jpg"
-      },
-      {
-        "filename": "images/34.avif",
-        "url": "https://images.thdstatic.com/productImages/6854adc4-9c39-446e-a459-3990a05f3729/svn/insinkerator-garbage-disposals-evolution-1300-64_600.jpg"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://images.thdstatic.com/productImages/baa94105-027c-493e-ab7b-d70d4d1586a5/svn/insinkerator-garbage-disposals-evolution-1300-e4_600.jpg"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://images.thdstatic.com/productImages/a32cccc2-5b27-42f6-8404-1a2a00e4571a/svn/glacier-bay-garbage-disposals-10-us-gb1000-sl-64_600.jpg"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://images.thdstatic.com/productImages/cbf0db1d-1c17-4611-9c65-baeb3c769038/svn/glacier-bay-garbage-disposals-10-us-gb1000-sl-e4_600.jpg"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://images.thdstatic.com/productImages/07896ce8-4b3f-4c19-bcbb-f1628ca01e99/svn/insinkerator-garbage-disposals-79883a-ise-e4_600.jpg"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/38e71fd8-068f-4dbb-920f-641a35ba9f3d/svn/insinkerator-garbage-disposals-evolution-1hp-64_600.jpg"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://images.thdstatic.com/productImages/15e32e8a-c255-43c6-b3b2-acf066d80683/svn/insinkerator-garbage-disposals-evolution-0-75hp-64_600.jpg"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/5c39e830-5283-4ce5-b686-5595c2f0fe18/svn/insinkerator-garbage-disposals-badger-1-w-c-64_600.jpg"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://images.thdstatic.com/productImages/98b1226c-63fd-4a8a-92dc-4c8b0a2b8b73/svn/insinkerator-garbage-disposals-evolution-1hp-e4_600.jpg"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://images.thdstatic.com/productImages/0535cbd6-c515-43c8-9343-c4ac7ca7ff2d/svn/insinkerator-garbage-disposals-badger-1-w-c-e4_600.jpg"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://images.thdstatic.com/productImages/ce581b04-8c28-4b7b-a7ed-498ce86dd144/svn/insinkerator-garbage-disposals-evolution-0-75hp-e4_600.jpg"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://images.thdstatic.com/productImages/54306406-27a1-490d-8e06-4334e7b73b24/svn/insinkerator-garbage-disposals-badger-100-3pack-64_600.jpg"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://images.thdstatic.com/productImages/8a5ef106-deeb-4e25-8405-8f2791fea729/svn/insinkerator-garbage-disposals-power-900-w-crd-ez-flg-seal-64_600.jpg"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://images.thdstatic.com/productImages/f2774b74-1d82-439d-97c6-dcacbc5bb9e5/svn/insinkerator-garbage-disposals-79883a-ise-64_600.jpg"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://images.thdstatic.com/productImages/eeb4dd62-97a3-4c99-aa5c-e2677b1beef0/svn/moen-garbage-disposals-ex75c-64_600.jpg"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://images.thdstatic.com/productImages/a1519829-0771-4297-bf13-464bcc33e39d/svn/moen-garbage-disposals-gxp33c-kit01-64_600.jpg"
-      },
-      {
-        "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/60a322f1-7b14-4335-9eeb-e1154f91e96d/svn/insinkerator-garbage-disposals-badger-5xp-w-c-64_600.jpg"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://images.thdstatic.com/productImages/8f678c37-2c82-4e4c-8810-e037cd38aea3/svn/insinkerator-garbage-disposals-evolution-1300-w-crd-ez-flg-seal-64_600.jpg"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://images.thdstatic.com/productImages/fd2abe69-afb4-4353-9e1c-a0ced7f93269/svn/glacier-bay-garbage-disposals-10-us-gb1250-ht-64_600.jpg"
-      },
-      {
-        "filename": "images/46.webp",
-        "url": "https://images.thdstatic.com/productImages/ab8ca64d-6694-53fc-8632-48b636e18ec2/svn/anzzi-garbage-disposals-gd-az212-64_600.jpg"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://images.thdstatic.com/productImages/44e6b357-349d-4525-ac69-e667674a505a/svn/insinkerator-garbage-disposals-power-1hp-w-crd-ez-flg-seal-64_600.jpg"
-      },
-      {
-        "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/606009f9-6f3c-49dd-924b-2e84c0d29863/svn/insinkerator-garbage-disposals-badger-500-64_300.jpg"
-      },
-      {
-        "filename": "images/26.avif",
-        "url": "https://images.thdstatic.com/productImages/a528c889-fb4b-45b7-b3c3-599a4e39cde5/svn/insinkerator-garbage-disposals-power-900-64_600.jpg"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://images.thdstatic.com/productImages/89a12646-3b74-4ca8-9eec-f7241c0002dc/svn/moen-garbage-disposals-exl100c-64_600.jpg"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://images.thdstatic.com/productImages/19307011-6b5a-4a66-9eda-81efc7c4bc63/svn/insinkerator-garbage-disposals-badger-500-3pack-64_600.jpg"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://images.thdstatic.com/productImages/7a7a1e1f-0b9b-4610-8165-101dcffa9370/svn/glacier-bay-garbage-disposals-10-us-gb750-64_600.jpg"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/2178a154-35c1-4c97-9433-4343988dcb45/svn/moen-garbage-disposals-ex100c-64_600.jpg"
-      },
-      {
-        "filename": "images/59.avif",
-        "url": "https://images.thdstatic.com/productImages/a001812a-f0b9-440a-b019-d6fd02581868/svn/insinkerator-garbage-disposals-power-1hp-64_600.jpg"
-      },
-      {
-        "filename": "images/57.avif",
-        "url": "https://images.thdstatic.com/productImages/dadf1afa-974a-4415-af67-930a4a576625/svn/insinkerator-garbage-disposals-79883-ise-64_600.jpg"
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+    },
+    {
+      "productId": "321511603",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Badger 100, 1/3 HP Continuous Feed Kitchen Garbage Disposal, Badger Series",
+      "rating": {
+        "average": 4.5126,
+        "count": 7712
       },
-      {
-        "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e153b7cd-a089-48a7-b280-b56bb6226fe9/svn/insinkerator-garbage-disposals-badger-100-64_100.jpg"
       },
-      {
-        "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/86.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/87.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/88.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/89.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/90.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/91.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/92.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/93.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/94.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/95.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/96.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/98.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/97.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/99.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
-      },
-      {
-        "filename": "images/15.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
-      },
-      {
-        "filename": "images/14.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Bulk-Price.svg"
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/16.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+    },
+    {
+      "productId": "326067211",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Power 900, 3/4 HP Garbage Disposal, Power Series EZ Connect Continuous Feed Food Waste Disposer",
+      "rating": {
+        "average": 4.3949,
+        "count": 1170
       },
-      {
-        "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a528c889-fb4b-45b7-b3c3-599a4e39cde5/svn/insinkerator-garbage-disposals-power-900-64_100.jpg"
       },
-      {
-        "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/e153b7cd-a089-48a7-b280-b56bb6226fe9/svn/insinkerator-garbage-disposals-badger-100-64_300.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/75.avif",
-        "url": "https://images.thdstatic.com/productImages/5a57f0b4-7cf0-49cc-97ab-035c7189bcc6/svn/moen-garbage-disposals-gxp50c-64_300.jpg"
-      },
-      {
-        "filename": "images/74.avif",
-        "url": "https://images.thdstatic.com/productImages/a528c889-fb4b-45b7-b3c3-599a4e39cde5/svn/insinkerator-garbage-disposals-power-900-64_300.jpg"
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Garbage Disposals - The Home Depot",
-    "categoryType": "PLP Landing Pages",
-    "categoryFolder": "Garbage Disposals"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "206577650",
+      "modelNumber": "",
+      "brand": "MOEN",
+      "title": "Prep Series 1/2 HP Continuous Feed Garbage Disposal with Power Cord and Universal Mount",
+      "rating": {
+        "average": 4.3978,
+        "count": 3902
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5a57f0b4-7cf0-49cc-97ab-035c7189bcc6/svn/moen-garbage-disposals-gxp50c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306116684",
+      "modelNumber": "",
+      "brand": "MOEN",
+      "title": "Host Series 3/4-HP Continuous Feed Space Saving Garbage Disposal with Sound Reduction and Fast Track Installation",
+      "rating": {
+        "average": 4.3466,
+        "count": 3312
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eeb4dd62-97a3-4c99-aa5c-e2677b1beef0/svn/moen-garbage-disposals-ex75c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 134.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324538096",
+      "modelNumber": "",
+      "brand": "Glacier Bay",
+      "title": "TurboGrind 1/2 hp. Continuous Feed Garbage Disposal with Power Cord",
+      "rating": {
+        "average": 4.6019,
+        "count": 1133
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/620b582e-8a59-4b41-9cc5-6b88af342257/svn/glacier-bay-garbage-disposals-10-us-gb500-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326067216",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Evolution 1300, 3/4 HP Garbage Disposal, Advanced Series EZ Connect Continuous Feed Food Waste Disposer",
+      "rating": {
+        "average": 4.4349,
+        "count": 545
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6854adc4-9c39-446e-a459-3990a05f3729/svn/insinkerator-garbage-disposals-evolution-1300-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324538076",
+      "modelNumber": "",
+      "brand": "Glacier Bay",
+      "title": "TurboGrind Max 1 hp. Continuous Feed Garbage Disposal with Power Cord",
+      "rating": {
+        "average": 4.6019,
+        "count": 1133
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a32cccc2-5b27-42f6-8404-1a2a00e4571a/svn/glacier-bay-garbage-disposals-10-us-gb1000-sl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326967134",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Evolution .75HP, 3/4 HP Garbage Disposal, Advanced Series EZ Connect Continuous Feed Food Waste Disposer",
+      "rating": {
+        "average": 4.7559,
+        "count": 1688
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/15e32e8a-c255-43c6-b3b2-acf066d80683/svn/insinkerator-garbage-disposals-evolution-0-75hp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 153.58,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300278672",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Badger 5, 1/2 HP Continuous Feed Kitchen Garbage Disposal with Power Cord, Badger Series",
+      "rating": {
+        "average": 4.568,
+        "count": 20711
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f2774b74-1d82-439d-97c6-dcacbc5bb9e5/svn/insinkerator-garbage-disposals-79883a-ise-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326967135",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Evolution 1HP, 1 HP Garbage Disposal, Advanced Series EZ Connect Continuous Feed Food Waste Disposer",
+      "rating": {
+        "average": 4.4444,
+        "count": 621
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38e71fd8-068f-4dbb-920f-641a35ba9f3d/svn/insinkerator-garbage-disposals-evolution-1hp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 296.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300278660",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Badger 1 W/C, 1/3 HP Continuous Feed Kitchen Garbage Disposal with Power Cord, Badger Series",
+      "rating": {
+        "average": 4.5427,
+        "count": 12815
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5c39e830-5283-4ce5-b686-5595c2f0fe18/svn/insinkerator-garbage-disposals-badger-1-w-c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 102.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328985143",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Power 900, 3/4 HP Garbage Disposal, Continuous Feed Food Waste Disposer w EZ Connect Power Cord & Putty-Free Sink Seal",
+      "rating": {
+        "average": 4.3876,
+        "count": 1148
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8a5ef106-deeb-4e25-8405-8f2791fea729/svn/insinkerator-garbage-disposals-power-900-w-crd-ez-flg-seal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302453560",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Badger 5XP W/C, 3/4 HP Continuous Feed Kitchen Garbage Disposal with Power Cord, Badger Series",
+      "rating": {
+        "average": 4.5944,
+        "count": 17708
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/60a322f1-7b14-4335-9eeb-e1154f91e96d/svn/insinkerator-garbage-disposals-badger-5xp-w-c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 177.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100091168",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Badger 5, 1/2 HP Continuous Feed Kitchen Garbage Disposal, Badger Series",
+      "rating": {
+        "average": 4.568,
+        "count": 20711
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dadf1afa-974a-4415-af67-930a4a576625/svn/insinkerator-garbage-disposals-79883-ise-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 116.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328971171",
+      "modelNumber": "",
+      "brand": "InSinkErator",
+      "title": "Evolution 1300, 3/4 HP Garbage Disposal, Continuous Feed Food Waste Disposer w EZ Connect Cord & Putty-Free Sink Seal",
+      "rating": {
+        "average": 4.4215,
+        "count": 522
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f678c37-2c82-4e4c-8810-e037cd38aea3/svn/insinkerator-garbage-disposals-evolution-1300-w-crd-ez-flg-seal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 289.98,
+        "currency": "USD"
+      }
+    }
+  ]
 }

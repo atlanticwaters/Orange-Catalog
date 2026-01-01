@@ -1,0 +1,45 @@
+{
+  "productId": "330170699",
+  "identifiers": {
+    "internetNumber": "330170699",
+    "modelNumber": "",
+    "storeSkuNumber": "330170699"
+  },
+  "brand": {
+    "name": "bali & pari",
+    "logoUrl": "images/brands/bali-pari.svg"
+  },
+  "title": "Curacao 67.7 in. Tall Light Honey Rattan Wicker Bookcase",
+  "shortDescription": "Curacao 67.7 in. Tall Light Honey Rattan Wicker Bookcase",
+  "longDescription": "Curacao 67.7 in. Tall Light Honey Rattan Wicker Bookcase",
+  "pricing": {
+    "currentPrice": 388.31,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2,
+    "count": 5
+  },
+  "media": {
+    "primaryImage": "/products/330170699/light-honey-bali-pari-bookcases-bookshelves-243-13570-hd-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330170699/light-honey-bali-pari-bookcases-bookshelves-243-13570-hd-64_100.jpg",
+        "altText": "Curacao 67.7 in. Tall Light Honey Rattan Wicker Bookcase",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.577912"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "206214752",
+  "identifiers": {
+    "internetNumber": "206214752",
+    "modelNumber": "",
+    "storeSkuNumber": "206214752"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "Profile 2.1 cu. ft. Over the Range Microwave in Stainless Steel with Sensor Cooking",
+  "shortDescription": "Profile 2.1 cu. ft. Over the Range Microwave in Stainless Steel with Sensor Cooking",
+  "longDescription": "Profile 2.1 cu. ft. Over the Range Microwave in Stainless Steel with Sensor Cooking",
+  "pricing": {
+    "currentPrice": 719.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1901,
+    "count": 4909
+  },
+  "media": {
+    "primaryImage": "/products/206214752/stainless-steel-ge-over-the-range-microwaves-pvm9005sjss-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206214752/stainless-steel-ge-over-the-range-microwaves-pvm9005sjss-64_100.jpg",
+        "altText": "Profile 2.1 cu. ft. Over the Range Microwave in Stainless Steel with Sensor Cooking",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.448944"
+}

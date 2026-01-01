@@ -1,0 +1,45 @@
+{
+  "productId": "318632809",
+  "identifiers": {
+    "internetNumber": "318632809",
+    "modelNumber": "",
+    "storeSkuNumber": "318632809"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Digital Inflator Gauge",
+  "shortDescription": "Digital Inflator Gauge",
+  "longDescription": "Digital Inflator Gauge",
+  "pricing": {
+    "currentPrice": 39.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2525,
+    "count": 99
+  },
+  "media": {
+    "primaryImage": "/products/318632809/husky-compressor-accessories-17889hom-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318632809/husky-compressor-accessories-17889hom-64_100.jpg",
+        "altText": "Digital Inflator Gauge",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.504847"
+}

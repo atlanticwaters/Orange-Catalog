@@ -1,0 +1,45 @@
+{
+  "productId": "324589090",
+  "identifiers": {
+    "internetNumber": "324589090",
+    "modelNumber": "",
+    "storeSkuNumber": "324589090"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "SHOCKWAVE Carbide Hammer Drill Bit Set w/Titanium Drill Bit Set (33-Piece)",
+  "shortDescription": "SHOCKWAVE Carbide Hammer Drill Bit Set w/Titanium Drill Bit Set (33-Piece)",
+  "longDescription": "SHOCKWAVE Carbide Hammer Drill Bit Set w/Titanium Drill Bit Set (33-Piece)",
+  "pricing": {
+    "currentPrice": 44.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5174,
+    "count": 2851
+  },
+  "media": {
+    "primaryImage": "/products/324589090/milwaukee-masonry-drill-bits-48-20-9058-48-89-4631-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324589090/milwaukee-masonry-drill-bits-48-20-9058-48-89-4631-64_100.jpg",
+        "altText": "SHOCKWAVE Carbide Hammer Drill Bit Set w/Titanium Drill Bit Set (33-Piece)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.673962"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "337059101",
+  "identifiers": {
+    "internetNumber": "337059101",
+    "modelNumber": "",
+    "storeSkuNumber": "337059101"
+  },
+  "brand": {
+    "name": "Maytag",
+    "logoUrl": "images/brands/maytag.svg"
+  },
+  "title": "5.3 cu. ft. Top Load Washer in Classic Silver with Extra Power Option and Smart Appliance",
+  "shortDescription": "5.3 cu. ft. Top Load Washer in Classic Silver with Extra Power Option and Smart Appliance",
+  "longDescription": "5.3 cu. ft. Top Load Washer in Classic Silver with Extra Power Option and Smart Appliance",
+  "pricing": {
+    "currentPrice": 849.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.8919,
+    "count": 111
+  },
+  "media": {
+    "primaryImage": "/products/337059101/classic-silver-maytag-top-load-washers-mtw6200rr-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337059101/classic-silver-maytag-top-load-washers-mtw6200rr-64_100.jpg",
+        "altText": "5.3 cu. ft. Top Load Washer in Classic Silver with Extra Power Option and Smart Appliance",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.483076"
+}

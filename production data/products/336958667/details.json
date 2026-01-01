@@ -1,0 +1,45 @@
+{
+  "productId": "336958667",
+  "identifiers": {
+    "internetNumber": "336958667",
+    "modelNumber": "",
+    "storeSkuNumber": "336958667"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V High Pressure Portable Inflator Kit with 2.0 Ah Battery, Charger, and USB Portable Power Source with Activate Button",
+  "shortDescription": "18V High Pressure Portable Inflator Kit with 2.0 Ah Battery, Charger, and USB Portable Power Source with Activate Button",
+  "longDescription": "18V High Pressure Portable Inflator Kit with 2.0 Ah Battery, Charger, and USB Portable Power Source with Activate Button",
+  "pricing": {
+    "currentPrice": 132.64,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.646,
+    "count": 1771
+  },
+  "media": {
+    "primaryImage": "/products/336958667/ridgid-inflators-r87044kn-ac86072b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958667/ridgid-inflators-r87044kn-ac86072b-64_100.jpg",
+        "altText": "18V High Pressure Portable Inflator Kit with 2.0 Ah Battery, Charger, and USB Portable Power Source with Activate Button",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.512912"
+}

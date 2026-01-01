@@ -1,0 +1,45 @@
+{
+  "productId": "306116684",
+  "identifiers": {
+    "internetNumber": "306116684",
+    "modelNumber": "",
+    "storeSkuNumber": "306116684"
+  },
+  "brand": {
+    "name": "MOEN",
+    "logoUrl": "images/brands/moen.svg"
+  },
+  "title": "Host Series 3/4-HP Continuous Feed Space Saving Garbage Disposal with Sound Reduction and Fast Track Installation",
+  "shortDescription": "Host Series 3/4-HP Continuous Feed Space Saving Garbage Disposal with Sound Reduction and Fast Track Installation",
+  "longDescription": "Host Series 3/4-HP Continuous Feed Space Saving Garbage Disposal with Sound Reduction and Fast Track Installation",
+  "pricing": {
+    "currentPrice": 134.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3466,
+    "count": 3312
+  },
+  "media": {
+    "primaryImage": "/products/306116684/moen-garbage-disposals-ex75c-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/306116684/moen-garbage-disposals-ex75c-64_100.jpg",
+        "altText": "Host Series 3/4-HP Continuous Feed Space Saving Garbage Disposal with Sound Reduction and Fast Track Installation",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.459627"
+}

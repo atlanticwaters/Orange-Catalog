@@ -1,0 +1,45 @@
+{
+  "productId": "327443512",
+  "identifiers": {
+    "internetNumber": "327443512",
+    "modelNumber": "",
+    "storeSkuNumber": "327443512"
+  },
+  "brand": {
+    "name": "CERAKOTE",
+    "logoUrl": "images/brands/cerakote.svg"
+  },
+  "title": "Headlight Restoration Kit",
+  "shortDescription": "Headlight Restoration Kit",
+  "longDescription": "Headlight Restoration Kit",
+  "pricing": {
+    "currentPrice": 17.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6906,
+    "count": 307
+  },
+  "media": {
+    "primaryImage": "/products/327443512/cerakote-car-washing-supplies-ah-hlkit-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327443512/cerakote-car-washing-supplies-ah-hlkit-64_100.jpg",
+        "altText": "Headlight Restoration Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.616024"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "302598734",
+  "identifiers": {
+    "internetNumber": "302598734",
+    "modelNumber": "",
+    "storeSkuNumber": "302598734"
+  },
+  "brand": {
+    "name": "Summit Appliance",
+    "logoUrl": "images/brands/summit-appliance.svg"
+  },
+  "title": "24 in. W 4.8 cu. ft. Freezerless Mini Refrigerator in Stainless Steel Counter Depth",
+  "shortDescription": "24 in. W 4.8 cu. ft. Freezerless Mini Refrigerator in Stainless Steel Counter Depth",
+  "longDescription": "24 in. W 4.8 cu. ft. Freezerless Mini Refrigerator in Stainless Steel Counter Depth",
+  "pricing": {
+    "currentPrice": 1149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9474,
+    "count": 19
+  },
+  "media": {
+    "primaryImage": "/products/302598734/stainless-steel-black-summit-appliance-mini-fridges-al54-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302598734/stainless-steel-black-summit-appliance-mini-fridges-al54-64_100.jpg",
+        "altText": "24 in. W 4.8 cu. ft. Freezerless Mini Refrigerator in Stainless Steel Counter Depth",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.429475"
+}

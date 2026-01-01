@@ -1,0 +1,533 @@
+{
+  "categoryId": "electrical/wire-cable",
+  "name": "Wire Cable",
+  "slug": "wire-cable",
+  "path": "/categories/electrical/wire-cable",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.716665",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Electrical",
+      "url": "/electrical"
+    },
+    {
+      "label": "Wire Cable",
+      "url": "/electrical/wire-cable"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 22
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 11
+    },
+    {
+      "brandId": "hdx",
+      "brandName": "HDX",
+      "logoUrl": "images/brands/hdx.svg",
+      "count": 3
+    },
+    {
+      "brandId": "grip-rite",
+      "brandName": "Grip-Rite",
+      "logoUrl": "images/brands/grip-rite.svg",
+      "count": 3
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 2
+    },
+    {
+      "brandId": "porter-cable",
+      "brandName": "Porter-Cable",
+      "logoUrl": "images/brands/porter-cable.svg",
+      "count": 1
+    },
+    {
+      "brandId": "luck-home",
+      "brandName": "LUCK HOME",
+      "logoUrl": "images/brands/luck-home.svg",
+      "count": 1
+    },
+    {
+      "brandId": "lincoln-electric",
+      "brandName": "Lincoln Electric",
+      "logoUrl": "images/brands/lincoln-electric.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "203846551",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "6-Tier Commercial Grade Heavy Duty Steel Wire Shelving Unit in Chrome (48 in. W x 72 in. H x 18 in. D)",
+      "rating": {
+        "average": 4.7808,
+        "count": 3910
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/77f5b3f9-90fd-4c1b-a4fd-621d22c5b34c/svn/chrome-hdx-freestanding-shelving-units-hd18481302ps-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337674733",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "2-Shelf Steel Wire Rack (22 in. x 69 in. x 28.5 in.) and 5-Pack 27 Gal. Totes",
+      "rating": {
+        "average": 4.7759,
+        "count": 5573
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a6e661d-ea1a-4c3d-9899-b2ef877f67cd/svn/hdx-wire-shelving-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 124.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100394342",
+      "modelNumber": "",
+      "brand": "Grip-Rite",
+      "title": "1-1/4 in. x 0.120-Gauge 15\u00b0 Smooth Shank Electrogalvanized Wire Collated Coil Roofing Nails 7,200 per Box",
+      "rating": {
+        "average": 4.5111,
+        "count": 765
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c11eddf5-17af-4698-a3d3-1e266d2cb2d9/svn/grip-rite-collated-roofing-nails-grcr3dgal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205865848",
+      "modelNumber": "",
+      "brand": "Grip-Rite",
+      "title": "2 in. x 0.092 in. 15\u00b0 Exterior Galvanized Wire Collated Ring Shank Nails 3000 per Box",
+      "rating": {
+        "average": 4.2093,
+        "count": 129
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/006ce293-e4f3-43b8-902a-f313361f38f5/svn/grip-rite-collated-siding-nails-grc6r90dhg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202447756",
+      "modelNumber": "",
+      "brand": "Grip-Rite",
+      "title": "2-1/2 in. 15\u00b0 Wire and Plastic Collation Coil Siding Nailer",
+      "rating": {
+        "average": 4.4167,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/279d84aa-e178-43af-b964-c0d6b2be54e3/svn/grip-rite-siding-nailers-grtcs250-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 404.91,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329377440",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "Porter-Cable 1/2 in. Drive Impact Wrench with 550 ft./lbs. Torque",
+      "rating": {
+        "average": 4.6,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9d89d7c0-83ec-4f0b-88b4-d2628f4f53b4/svn/porter-cable-air-impact-wrenches-pxcm024-0440-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 88.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322605711",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Cordless Bike and Ball Pump Inflator Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.0766,
+        "count": 1123
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e535fef5-1a31-42b0-b249-9419898c5dd6/svn/ryobi-inflators-fvif51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329635624",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Cordless High Volume Inflator Kit with USB Lithium 2.0 Ah Battery and Charging Cable",
+      "rating": {
+        "average": 4.1391,
+        "count": 151
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f1a4c47f-3c28-44a4-a2ec-fc55a145f59a/svn/ryobi-inflators-fvif61k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203846576",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "5-Tier Steel Wire Shelving Unit in Black (36 in. W x 72 in. H x 16 in. D)",
+      "rating": {
+        "average": 4.6589,
+        "count": 11557
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9d8c6f9c-8446-4086-afd6-d84118564610/svn/black-hdx-freestanding-shelving-units-21656ps-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334127766",
+      "modelNumber": "",
+      "brand": "LUCK HOME",
+      "title": "94.48 in. Walnut Colored TV Cabinet, Suitable for 90 in. Maximum TV, with Cable Management Hole",
+      "rating": {
+        "average": 4.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e768af2d-7573-45ba-b200-5d23dd202b0d/svn/walnut-color-luck-home-tv-stands-240-dsg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 478.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320706156",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Cordless Pivoting 625 Lumens Rechargeable Head Flashlight Kit with 2.0 Ah Battery and Charging Cable",
+      "rating": {
+        "average": 4.8056,
+        "count": 1188
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6d6a5748-1348-4f27-bb88-81164a2908a7/svn/ryobi-handheld-flashlights-fvl54k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324118671",
+      "modelNumber": "",
+      "brand": "Lincoln Electric",
+      "title": "WELD-PAK 90i FC Flux-Cored Wire Feeder Welder (No Gas)",
+      "rating": {
+        "average": 4.68,
+        "count": 100
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/871c235b-d402-40fa-a493-030ca4d64406/svn/lincoln-electric-wire-feeders-k5255-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 398.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318584392",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Power Cutter Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.2437,
+        "count": 1194
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8951401c-61c4-4364-a1a8-6601ca5e51ce/svn/ryobi-power-cutting-tools-fvc51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203756598",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 600 MCM Cable Cutter Kit with One 3.0Ah Battery, Charger and Hard Case",
+      "rating": {
+        "average": 4.6148,
+        "count": 135
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b9a047a3-376c-436a-96db-ba65e5445ce0/svn/milwaukee-power-cutting-tools-2472-21xc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 629.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324808968",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Hot Wire Foam Cutter Kit with 2.0 Ah Lithium-ion Rechargeable Battery",
+      "rating": {
+        "average": 4.4048,
+        "count": 84
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3819700a-ee28-407c-8d78-2447c689e094/svn/ryobi-power-cutting-tools-fvh64k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337521623",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless FORCE LOGIC Cable Cutter with CU/AL Jaws and Hard Case",
+      "rating": {
+        "average": 4.4,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/76da577a-6f44-4c70-805b-434358398e1a/svn/milwaukee-power-cutting-tools-2672-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318964392",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Screwdriver Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.3253,
+        "count": 2705
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f38f7c2-8969-4408-99a2-8f16ccba78fc/svn/ryobi-electric-screwdrivers-fvd50k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327585040",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Multi-Head Screwdriver Kit w/2Ah Battery, Charging Cable, 10-Piece Bit Set, Case and 3-Interchangeable Heads",
+      "rating": {
+        "average": 4.5944,
+        "count": 466
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d00adba6-6d0e-40ae-97f6-28c7c13e0591/svn/ryobi-electric-screwdrivers-fvd51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335978390",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Screwdriver Kit with 2.0 Ah USB Lithium Battery, Charging Cable, and Impact Rated Driving Set (40-Piece)",
+      "rating": {
+        "average": 4.1206,
+        "count": 1517
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eb9b06b9-7277-4113-b70e-37f21f50e099/svn/ryobi-electric-screwdrivers-fvd50k-a964001-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331727075",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Multi-Head Screwdriver Kit with 2 Ah Battery, Charging Cable, & USB Lithium 2.0 Ah Rechargeable Battery",
+      "rating": {
+        "average": 4.4269,
+        "count": 253
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0f37e66-fcaf-4714-a6f5-656285c707b8/svn/ryobi-electric-screwdrivers-fvd51k-fvb02-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 73.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318580448",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Rotary Tool Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+      "rating": {
+        "average": 4.448,
+        "count": 712
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5568593-442d-4c01-9a0a-50c8785245ff/svn/ryobi-rotary-tools-fvm51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325354296",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium 3/8 in. Ratchet Kit with 2.0 Ah Battery and USB Charging Cable",
+      "rating": {
+        "average": 3.8,
+        "count": 630
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f73afa6f-5086-4fd7-b0d0-c9a171b34712/svn/ryobi-cordless-ratchets-fvrc51k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    }
+  ]
+}

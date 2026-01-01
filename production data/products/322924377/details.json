@@ -1,0 +1,45 @@
+{
+  "productId": "322924377",
+  "identifiers": {
+    "internetNumber": "322924377",
+    "modelNumber": "",
+    "storeSkuNumber": "322924377"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "18-Volt LXT Lithium-Ion 6.0 Ah Battery with 18-Volt LXT Lithium-Ion Cordless Inflator (Tool-Only)",
+  "shortDescription": "18-Volt LXT Lithium-Ion 6.0 Ah Battery with 18-Volt LXT Lithium-Ion Cordless Inflator (Tool-Only)",
+  "longDescription": "18-Volt LXT Lithium-Ion 6.0 Ah Battery with 18-Volt LXT Lithium-Ion Cordless Inflator (Tool-Only)",
+  "pricing": {
+    "currentPrice": 298.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5534,
+    "count": 421
+  },
+  "media": {
+    "primaryImage": "/products/322924377/makita-inflators-bl1860bdmp180zx-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322924377/makita-inflators-bl1860bdmp180zx-64_100.jpg",
+        "altText": "18-Volt LXT Lithium-Ion 6.0 Ah Battery with 18-Volt LXT Lithium-Ion Cordless Inflator (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.468497"
+}

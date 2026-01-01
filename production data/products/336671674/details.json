@@ -1,0 +1,45 @@
+{
+  "productId": "336671674",
+  "identifiers": {
+    "internetNumber": "336671674",
+    "modelNumber": "",
+    "storeSkuNumber": "336671674"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "7.0 cu. ft. Vented Front Load Electric Dryer in White with Adaptive Dry",
+  "shortDescription": "7.0 cu. ft. Vented Front Load Electric Dryer in White with Adaptive Dry",
+  "longDescription": "7.0 cu. ft. Vented Front Load Electric Dryer in White with Adaptive Dry",
+  "pricing": {
+    "currentPrice": 549.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3609,
+    "count": 169
+  },
+  "media": {
+    "primaryImage": "/products/336671674/white-whirlpool-electric-dryers-wed4107sw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336671674/white-whirlpool-electric-dryers-wed4107sw-64_100.jpg",
+        "altText": "7.0 cu. ft. Vented Front Load Electric Dryer in White with Adaptive Dry",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.524307"
+}

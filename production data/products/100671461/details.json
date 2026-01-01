@@ -1,0 +1,45 @@
+{
+  "productId": "100671461",
+  "identifiers": {
+    "internetNumber": "100671461",
+    "modelNumber": "",
+    "storeSkuNumber": "100671461"
+  },
+  "brand": {
+    "name": "Campbell Hausfeld",
+    "logoUrl": "images/brands/campbell-hausfeld.svg"
+  },
+  "title": "Desiccant Dryer",
+  "shortDescription": "Desiccant Dryer",
+  "longDescription": "Desiccant Dryer",
+  "pricing": {
+    "currentPrice": 147.02,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2439,
+    "count": 41
+  },
+  "media": {
+    "primaryImage": "/products/100671461/campbell-hausfeld-air-compressor-parts-pa208503av-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100671461/campbell-hausfeld-air-compressor-parts-pa208503av-64_100.jpg",
+        "altText": "Desiccant Dryer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.653302"
+}

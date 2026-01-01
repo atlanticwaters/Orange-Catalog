@@ -1,0 +1,1598 @@
+{
+  "categoryId": "tools/batteries",
+  "name": "Batteries",
+  "slug": "batteries",
+  "path": "/categories/tools/batteries",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.738460",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Batteries",
+      "url": "/tools/batteries"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 73
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 29
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 16
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 13
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 12
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 2
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "322924377",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18-Volt LXT Lithium-Ion 6.0 Ah Battery with 18-Volt LXT Lithium-Ion Cordless Inflator (Tool-Only)",
+      "rating": {
+        "average": 4.5534,
+        "count": 421
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/66a7526d-9782-4fd5-a554-0d69693aded7/svn/makita-inflators-bl1860bdmp180zx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 298.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331592826",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Lithium-Ion Cordless Electric Portable Inflator with Compact Battery Pack 2.0Ah and Charger Starter Kit",
+      "rating": {
+        "average": 4.6146,
+        "count": 1881
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32672c0f-b794-4327-885d-fbb0edda05e9/svn/milwaukee-inflators-2475-20-48-59-2420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304770024",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Lithium-Ion Cordless Electric Portable Inflator Kit with 4.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.5677,
+        "count": 3317
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a8c2f214-f138-4fcb-b914-3f37795993d8/svn/milwaukee-inflators-2475-21xc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328104963",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Electric Portable Inflator (Tool-Only) and M12 12V 1.5 Ah Lithium-Ion Compact Battery Pack (2-Pack)",
+      "rating": {
+        "average": 4.6236,
+        "count": 2173
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/61386114-1397-4f11-8348-cfdf0c4b7d43/svn/milwaukee-inflators-2475-20-48-11-2411-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 188.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328104961",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Electric Portable Inflator (Tool-Only) with M12 12-Volt Lithium-Ion 2.0 Ah Compact Battery Pack",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/56efa5f2-5fb8-4e08-8ed5-f577ac251c88/svn/milwaukee-inflators-2475-20-48-11-2420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316817359",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Grease Gun with 2.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.4805,
+        "count": 1669
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4859b403-d706-49de-bca4-074876cce310/svn/ryobi-air-grease-guns-p3410-psk005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 218.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325387082",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Digital Inflator with FREE 2AH Battery",
+      "rating": {
+        "average": 4.5995,
+        "count": 3116
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eab7acc8-eb48-4ac4-b579-86fc695becae/svn/ridgid-inflators-r87044-ac8400802-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641095",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Dual Function Cordless Inflator with 2.0 Ah Lithium-Ion Battery",
+      "rating": {
+        "average": 4.6601,
+        "count": 306
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a9f2a20b-7c5f-4985-bf2e-345df5ce1bca/svn/ridgid-inflators-r86051b-ac8400802-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 168.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959087",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Portable Inflator with 18V Cordless AC Inverter, 2.0 Ah Lithium-Ion Battery, and Charger",
+      "rating": {
+        "average": 4.5872,
+        "count": 3394
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1959f53c-08a9-45bd-8e51-487a74c61eab/svn/ridgid-inflators-r87044-ac86097ksb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 168.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334804262",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Dual Function Inflator Kit with 2 Ah Battery and Charger",
+      "rating": {
+        "average": 4.5455,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9b9cf57c-aa0a-473d-a451-dc6933a837fa/svn/ridgid-inflators-r86051k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321284179",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Battery Booster Combo Pack Compatible With 20V XR 5 AH Lithium-Ion Battery, includes 5AH Battery and Charger",
+      "rating": {
+        "average": 3.9298,
+        "count": 57
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5492a5a9-b310-422f-a19d-45f192a31ce4/svn/dewalt-car-battery-chargers-dxae20vbbk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 157.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315479169",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 ROVER 12-Volt Lithium-Ion Service and Repair 700 Lumens Flood Light with USB Charging with 2.0Ah Battery",
+      "rating": {
+        "average": 4.8308,
+        "count": 1070
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/215d20df-cf95-4f59-a307-2b5b4260e0d5/svn/milwaukee-jobsite-lighting-2367-20-48-11-2420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326781687",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless High Pressure Inflator Kit with 2.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7111,
+        "count": 4531
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1be0298-54d9-4222-93e9-13c9450a92b6/svn/ryobi-inflators-pcl001k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 64.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331160343",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless High Pressure Inflator with ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack)",
+      "rating": {
+        "average": 4.6667,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/861dc7e5-8273-4f09-936a-407b70de37cf/svn/ryobi-inflators-pcl001b-pbp2005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 93.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326781669",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Dual Function Inflator Kit with 2.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.443,
+        "count": 833
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cb3769cf-6d35-4c19-a137-fdb2171fdbc2/svn/ryobi-inflators-pcl031k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326781673",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V High Volume Inflator Kit with 2.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.4873,
+        "count": 353
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9eec46f6-55f8-440a-9601-e76e3f0003b3/svn/ryobi-inflators-pcl016k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 64.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336226954",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ Dual Function Inflator with 2.0 Ah Battery and Charger Kit",
+      "rating": {
+        "average": 4.3999,
+        "count": 1758
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4e6a3cc2-7393-45ec-ae3b-b78c711e061a/svn/ryobi-inflators-pcl031b-psk005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 158.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327354338",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "40V 120 MPH 550 CFM Cordless Battery Leaf Blower With 4.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.6064,
+        "count": 3935
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50039219-dbde-46e9-b593-e0df9a758195/svn/ryobi-cordless-leaf-blowers-ry40lb01k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308410662",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium-Ion Cordless Grease Gun Kit and (1) 20V MAX Premium Lithium-Ion 5.0Ah Battery",
+      "rating": {
+        "average": 4.6848,
+        "count": 1361
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ff721aca-5ff9-4907-932e-c8d0d7d43744/svn/dewalt-air-grease-guns-dcgg571m1w205-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 391.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987591",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 6-Tool Combo Kit with 1.5 Ah Battery, 4.0 Ah Battery, and Charger",
+      "rating": {
+        "average": 4.6382,
+        "count": 8507
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b16b4743-d4cf-4c84-b731-5ccd3e2cc507/svn/ryobi-power-tool-combo-kits-pcl1600k2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301113053",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless Combo Kit (5-Tool) with (1) 3.0Ah and (1) 1.5Ah Battery, (1) Charger, (1) Tool Bag",
+      "rating": {
+        "average": 4.606,
+        "count": 5035
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/16a79927-cec0-4b40-93e2-24d69f20b0d2/svn/milwaukee-power-tool-combo-kits-2695-25cx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330351152",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless 8-Tool Combo Kit with 2.0 Ah Battery, 4.0 Ah Battery, Charger, and Tool Bag",
+      "rating": {
+        "average": 4.3753,
+        "count": 2811
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4e677b81-a86c-40cf-8358-a52764375e84/svn/ridgid-power-tool-combo-kits-r96850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205620421",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt 5.0 Ah Lithium-Ion XC Extended Capacity Battery Pack",
+      "rating": {
+        "average": 4.6459,
+        "count": 4888
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b3e1c3ac-eb90-4ea2-8ea2-f1d4280960a1/svn/milwaukee-power-tool-batteries-48-11-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203630471",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Lithium-Ion XC Extended Capacity 3.0 Ah Battery Pack (2-Pack)",
+      "rating": {
+        "average": 4.6559,
+        "count": 8082
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b688a0aa-e39f-4177-bfd3-ff6786201748/svn/milwaukee-power-tool-batteries-48-11-2412-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315112825",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Lithium-Ion 2.0 Ah Compact Battery and Charger Starter Kit",
+      "rating": {
+        "average": 4.577,
+        "count": 3846
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a687c6b6-4c64-4d5d-ac7b-2304db592c7d/svn/ryobi-power-tool-batteries-psk005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337055963",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium-Ion Battery Kit with 5.0Ah and 2.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.5885,
+        "count": 1135
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5939282-41ac-458e-b5c0-f178c43c578f/svn/dewalt-power-tool-batteries-dcb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336449894",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion REDLITHIUM FORGE Starter Kit with 12. 0Ah Battery and Charger",
+      "rating": {
+        "average": 4.7836,
+        "count": 365
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b357afad-25c1-43d7-957f-784db1f7fe88/svn/milwaukee-power-tool-batteries-48-59-1813gb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337126822",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lith-Ion REDLITHIUM FORGE XC 8.0 Ah Battery w/ FORGE 12. 0Ah Battery & Charger",
+      "rating": {
+        "average": 4.818,
+        "count": 868
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fa034ac4-4117-4802-95f0-f085b07f7a8a/svn/milwaukee-power-tool-batteries-48-59-1813gb-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329791962",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+      "rating": {
+        "average": 4.7992,
+        "count": 737
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/31192e78-4dd0-4992-b741-7c3e238a9d8e/svn/milwaukee-power-tool-batteries-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315426486",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion High Output Starter Kit with Two 6.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7689,
+        "count": 2302
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ad00b400-73d0-4ead-b8d1-636daadae854/svn/milwaukee-power-tool-batteries-48-59-1862s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316767033",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack)",
+      "rating": {
+        "average": 4.6752,
+        "count": 11347
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aae3664f-73cb-48e5-a78a-316ed314665c/svn/ryobi-power-tool-batteries-pbp2005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335106901",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V/60V MAX FLEXVOLT Lithium-Ion 9.0Ah Battery and Charger Starter Kit",
+      "rating": {
+        "average": 4.5986,
+        "count": 1146
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/25912668-7f9f-461e-a834-bb9a540c0f9b/svn/dewalt-power-tool-batteries-dcb609c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335291555",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion XC Extended Capacity Battery Pack 6. 0Ah (2-Pack)",
+      "rating": {
+        "average": 4.6561,
+        "count": 7915
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/79364cc1-1b2f-4fb5-b179-7788d0ebd5c3/svn/milwaukee-power-tool-batteries-48-11-2462b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205510787",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium-Ion 5.0Ah Battery (2-Pack)",
+      "rating": {
+        "average": 4.5821,
+        "count": 7265
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0d35620c-cc54-4e27-8ea1-fd2ecec231db/svn/dewalt-power-tool-batteries-dcb205-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331594080",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion REDLITHIUM FORGE 8.0 Ah Battery (2-Pack) with M18 18V Dual Bay Simultaneous Super Charger",
+      "rating": {
+        "average": 4.7956,
+        "count": 827
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/800bad4c-f27c-492f-b81e-cc17a345bdb5/svn/milwaukee-power-tool-batteries-48-59-1881sc-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203806660",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Lithium-Ion 2.0 Ah Compact Battery Pack",
+      "rating": {
+        "average": 4.6524,
+        "count": 8155
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/60817fdf-3bcb-4ea8-b395-74dd4e17e5f2/svn/milwaukee-power-tool-batteries-48-11-2420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 64.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336391846",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18-Volt LXT Lithium-Ion Battery and Rapid Optimum Charger Starter Pack (4. 0Ah)",
+      "rating": {
+        "average": 4.7872,
+        "count": 343
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d28e2e41-5b96-4b5c-aaaa-c8214f4c0629/svn/makita-power-tool-batteries-bl1840bdc2x-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300610594",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 20V/60V MAX Lithium-Ion 9.0Ah Battery",
+      "rating": {
+        "average": 4.5615,
+        "count": 2089
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b2f8f961-e0fa-4eaf-982a-1e5df34e8c42/svn/dewalt-power-tool-batteries-dcb609-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 259.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442279",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium-Ion Battery Kit with 5.0 Ah and 2.0 Ah Battery Packs Charger and 6.0 Ah FLEX VOLT 60V/20V Battery Pack",
+      "rating": {
+        "average": 4.5506,
+        "count": 879
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51d0f56d-dc22-4b06-afa3-241541a6fa02/svn/dewalt-power-tool-batteries-dcb606wcb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442343",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX XR Lithium-Ion Cordless Impact Driver with 20-Volt MAX 5.0 Ah and 2.0 Ah Battery Packs and Charger",
+      "rating": {
+        "average": 4.7365,
+        "count": 444
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49c8ed8d-be84-4346-b903-7907bdd0e5a1/svn/dewalt-impact-drivers-dcf860bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315994093",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Atomic 20V Max Lithium-Ion Brushless Cordless Compact 1/4 in. Impact Driver Kit with 2.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.6758,
+        "count": 657
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8dc92dd0-34f8-4bb0-8d4f-2036b146038b/svn/dewalt-impact-drivers-dcf809d1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325480442",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Compact Brushless Cordless 1/4 in. Impact Driver Kit with One 2.0 Ah Battery, Charger & Tool Bag",
+      "rating": {
+        "average": 4.5463,
+        "count": 1600
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20ab690c-f129-47f1-9cdd-8836f3290f6a/svn/milwaukee-impact-drivers-3650-21p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332250133",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact Impact Driver Kit with 18V 2.0 Ah HIGH PERFORMANCE Battery and Charger",
+      "rating": {
+        "average": 4.5714,
+        "count": 119
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e891da10-9689-4814-a3e3-9e1600a52b6b/svn/ryobi-impact-drivers-psbid02k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329607545",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 1/4 in. Impact Driver Kit with 1.5 Ah Battery and Charger",
+      "rating": {
+        "average": 4.616,
+        "count": 539
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c362a988-72a8-4fee-9cf7-9b77e144ecf0/svn/ryobi-impact-drivers-pcl235k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316629766",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Lithium-Ion Cordless 1/4 in. Brushless Impact Driver Kit, 5 Ah Battery, Charger, and Bag",
+      "rating": {
+        "average": 4.6515,
+        "count": 1185
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0ddcc6a2-169e-4de4-9e6b-4138f1ed4e3f/svn/dewalt-impact-drivers-dcf850p1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337129451",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL SURGE 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver with 2. 0Ah Battery and Charger Starter Kit",
+      "rating": {
+        "average": 4.6424,
+        "count": 425
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/467f8aaa-ef5c-4ee8-964a-e1e6f4316000/svn/milwaukee-impact-drivers-2551-20-48-59-2420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312763746",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Compact Router with M18 5.0 Ah Battery",
+      "rating": {
+        "average": 4.7303,
+        "count": 3964
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2e0888b0-27df-4503-9fb6-ff9ac3b5ab77/svn/milwaukee-wood-routers-2723-20-48-11-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 358.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959130",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V 4.0 Ah Battery (2-Pack) with Charger, Bag, and 18V Brushless Cordless Compact Router",
+      "rating": {
+        "average": 4.7794,
+        "count": 3499
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7f367b9e-ce4c-4b62-95e8-8142b265a8ac/svn/ridgid-wood-routers-ac93044sbn-r860444b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 456.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339741740",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Compact Router with FREE 4.0 Ah Lithium-Ion Battery",
+      "rating": {
+        "average": 4.6283,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2f02b67f-ed13-4570-a6e0-5be32e2442bb/svn/ridgid-wood-routers-r860444b-ac87004-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336304784",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Copper Tubing Cutter with 3.0 Ah Battery Pack (2-Pack)",
+      "rating": {
+        "average": 4.6337,
+        "count": 2637
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/15335374-de06-407b-9888-b0081dcc1e04/svn/milwaukee-power-cutting-tools-2471-20-48-11-2412-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 259.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339672950",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment and 18V 4.0 Ah Battery Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e1f2ba9-278a-4e39-8009-a349ffa59a56/svn/ridgid-electric-screwdrivers-r86630b-ac87004-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 288.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327852010",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 1/4 in. Hex Screwdriver Kit with 1.5 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7611,
+        "count": 226
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c7b81e86-8738-45ab-ac39-55ce974616d9/svn/ryobi-electric-screwdrivers-pcl212k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958620",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment Kit with 2.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.2881,
+        "count": 236
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a51fdcfa-96fd-44af-8e43-28c3c0177017/svn/ridgid-electric-screwdrivers-r86630b-ac9302-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 298.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958594",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment and 18V 4.0 Ah Battery Combo",
+      "rating": {
+        "average": 4.3187,
+        "count": 182
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e1f2ba9-278a-4e39-8009-a349ffa59a56/svn/electric-screwdrivers-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 288.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325496544",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "USB Lithium Screwdriver Kit with USB Lithium 2.0 Ah Lithium Rechargeable Battery",
+      "rating": {
+        "average": 4.1403,
+        "count": 1703
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/31b340aa-c5b7-42d8-9573-1468b6b6095c/svn/ryobi-electric-screwdrivers-fvd50k-fvb02-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337636647",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL18V Lithium-Ion Brushless Cordless 15MM DA Polisher with 5.0 Ah Battery and Charger Starter Kit",
+      "rating": {
+        "average": 4.6295,
+        "count": 1290
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/341a272c-e217-476b-80d2-75112396dbe9/svn/milwaukee-polishers-2684-20-48-59-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 539.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325446058",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless Oscillating Multi-Tool Kit with one 1.5 Ah Battery & Charger",
+      "rating": {
+        "average": 4.704,
+        "count": 2507
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2dadc770-3bc2-4245-a615-5c515543cd40/svn/milwaukee-oscillating-tools-2626-21-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313593921",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless Brushless Oscillating Multi Tool with (1) 20V 2.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.7391,
+        "count": 2633
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/250cc1d1-e28a-4a44-b04e-002e4f56a8f6/svn/dewalt-oscillating-tools-dcs354d1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312871969",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless 3-Speed Oscillating Multi Tool with (1) 20V 1.5Ah Battery and Charger",
+      "rating": {
+        "average": 4.7559,
+        "count": 1282
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5fda5b54-fe34-46a0-afbc-98c6791baabe/svn/dewalt-oscillating-tools-dcs356c1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337636634",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool with 5.0 Ah Battery and Charger Starter Kit",
+      "rating": {
+        "average": 4.6528,
+        "count": 1734
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/763719b6-d11c-46e2-b2e6-c06bf74396d7/svn/milwaukee-oscillating-tools-2836-20-48-59-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 459.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958823",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Oscillating Multi-Tool w/ 2.0 Ah Battery, Charger, and 14-Piece Oscillating Multi-Tool Blade Accessory Kit",
+      "rating": {
+        "average": 4.6132,
+        "count": 936
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/caf081bb-f510-4a53-9877-fca28b87e466/svn/ridgid-oscillating-tools-r86241k-ac24j14-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 133.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318111384",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Oscillating Multi-Tool with 2.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.4961,
+        "count": 387
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/93188a53-ebce-40e1-be19-9a24a347cef0/svn/ridgid-oscillating-tools-r86241k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319962730",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Oscillating Multi-Tool Kit with 2.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.4047,
+        "count": 1868
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a9cba2eb-773f-4e83-bb2f-9b06537550b1/svn/ryobi-oscillating-tools-pcl430k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333178374",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/2 in. x 18 in. Bandfile with M12 XC High Output 5.0 Ah Battery Pack",
+      "rating": {
+        "average": 4.8255,
+        "count": 785
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b07e8972-dad9-47db-ad12-47ffd070d0dd/svn/milwaukee-belt-sanders-2482-20-48-11-2450-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331594991",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless 1 in. SDS-Plus Rotary Hammer with M18 REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+      "rating": {
+        "average": 4.7621,
+        "count": 454
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f753005b-ba09-4c50-988f-fac7a721e6cc/svn/milwaukee-rotary-hammers-2912-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442689",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "XR 20-Volt Lithium-Ion Cordless Rotary Drywall Cut-Out Tool with 20-Volt MAX 5.0 Ah and 2.0 Ah Battery Packs and Charger",
+      "rating": {
+        "average": 4.6021,
+        "count": 377
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f845697-6e18-49c9-b4c8-5c53bc33e5ac/svn/dewalt-rotary-tools-dce555bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337132523",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Brushless Rotary Tool with 2. 0Ah Battery and Charger Starter Kit",
+      "rating": {
+        "average": 4.5974,
+        "count": 313
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d9b917e4-79da-48b6-8f2a-6b6e2750c45c/svn/milwaukee-rotary-tools-2525-20-48-59-2420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314064365",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Drywall Cut-Out Tool Kit with 2.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.6189,
+        "count": 614
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab50b752-c550-45cb-bfe8-983627f22886/svn/ridgid-rotary-tools-r84730ksbn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326988179",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Brushless Rotary Tool with (1) 2.0 Ah Battery Pack and Charger",
+      "rating": {
+        "average": 4.6964,
+        "count": 168
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/277dbde7-a067-4c31-8289-b45c0ac61b0f/svn/milwaukee-rotary-tools-2525-21-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329966929",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Multi-Size Ratchet Kit with 1.5 Ah Battery and Charger",
+      "rating": {
+        "average": 4.4578,
+        "count": 83
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c664eb22-be3f-4ff5-af1d-4fc883e59fd2/svn/ryobi-cordless-ratchets-pcl280k1sb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306636225",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 3/8 in. Ratchet with M12 2.0Ah Battery",
+      "rating": {
+        "average": 4.5624,
+        "count": 3019
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d90c6b32-73de-4c46-9d1a-c53b277a48a7/svn/milwaukee-cordless-ratchets-2457-20-48-11-2420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333442036",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL INSIDER 12V Lithium-Ion 1/4 in.-3/8 in. Brushless Cordless Ratchet Extended Reach Box Ratchet w 5. 0Ah Battery",
+      "rating": {
+        "average": 4.7285,
+        "count": 954
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9dd533c4-7789-408b-8404-30ae07c32fc0/svn/milwaukee-cordless-ratchets-3050-20-48-11-2450-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 379.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308037273",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL ONE-KEY 18V Lithium-Ion Brushless Cordless 1-3/4 in. SDS-MAX Rotary Hammer with Two 12.0 Ah Battery",
+      "rating": {
+        "average": 4.5333,
+        "count": 105
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/505449e2-e706-4656-91ae-a46b8dc97543/svn/milwaukee-rotary-hammers-2718-22hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

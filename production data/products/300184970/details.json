@@ -1,0 +1,45 @@
+{
+  "productId": "300184970",
+  "identifiers": {
+    "internetNumber": "300184970",
+    "modelNumber": "",
+    "storeSkuNumber": "300184970"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1-9/16 in. SDS-Max Rotary Hammer (Tool-Only)",
+  "shortDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1-9/16 in. SDS-Max Rotary Hammer (Tool-Only)",
+  "longDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1-9/16 in. SDS-Max Rotary Hammer (Tool-Only)",
+  "pricing": {
+    "currentPrice": 599.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6679,
+    "count": 274
+  },
+  "media": {
+    "primaryImage": "/products/300184970/milwaukee-rotary-hammers-2717-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300184970/milwaukee-rotary-hammers-2717-20-64_100.jpg",
+        "altText": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1-9/16 in. SDS-Max Rotary Hammer (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.702901"
+}

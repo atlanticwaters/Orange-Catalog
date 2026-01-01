@@ -1,0 +1,45 @@
+{
+  "productId": "329241860",
+  "identifiers": {
+    "internetNumber": "329241860",
+    "modelNumber": "",
+    "storeSkuNumber": "329241860"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "24 in. Top Control Standard 48 dBA Dishwasher with QuadWash in Stainless Steel",
+  "shortDescription": "24 in. Top Control Standard 48 dBA Dishwasher with QuadWash in Stainless Steel",
+  "longDescription": "24 in. Top Control Standard 48 dBA Dishwasher with QuadWash in Stainless Steel",
+  "pricing": {
+    "currentPrice": 549.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.7876,
+    "count": 1714
+  },
+  "media": {
+    "primaryImage": "/products/329241860/stainless-steel-lg-built-in-dishwashers-ldpn454ht-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329241860/stainless-steel-lg-built-in-dishwashers-ldpn454ht-64_100.jpg",
+        "altText": "24 in. Top Control Standard 48 dBA Dishwasher with QuadWash in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.461486"
+}

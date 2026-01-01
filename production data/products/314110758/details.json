@@ -1,0 +1,45 @@
+{
+  "productId": "314110758",
+  "identifiers": {
+    "internetNumber": "314110758",
+    "modelNumber": "",
+    "storeSkuNumber": "314110758"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V 5 in. Variable Speed Dual Action Polisher (Tool Only)",
+  "shortDescription": "ONE+ 18V 5 in. Variable Speed Dual Action Polisher (Tool Only)",
+  "longDescription": "ONE+ 18V 5 in. Variable Speed Dual Action Polisher (Tool Only)",
+  "pricing": {
+    "currentPrice": 159.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3542,
+    "count": 384
+  },
+  "media": {
+    "primaryImage": "/products/314110758/ryobi-polishers-pbf100b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314110758/ryobi-polishers-pbf100b-64_100.jpg",
+        "altText": "ONE+ 18V 5 in. Variable Speed Dual Action Polisher (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.692679"
+}

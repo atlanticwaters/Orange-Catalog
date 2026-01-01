@@ -1,0 +1,45 @@
+{
+  "productId": "318404345",
+  "identifiers": {
+    "internetNumber": "318404345",
+    "modelNumber": "",
+    "storeSkuNumber": "318404345"
+  },
+  "brand": {
+    "name": "Costway",
+    "logoUrl": "images/brands/costway.svg"
+  },
+  "title": "3.5 cu.ft. 26 lbs. Portable Semi-automatic Traditional Top Load Washer in Gray with UL Certified",
+  "shortDescription": "3.5 cu.ft. 26 lbs. Portable Semi-automatic Traditional Top Load Washer in Gray with UL Certified",
+  "longDescription": "3.5 cu.ft. 26 lbs. Portable Semi-automatic Traditional Top Load Washer in Gray with UL Certified",
+  "pricing": {
+    "currentPrice": 199.76,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9722,
+    "count": 108
+  },
+  "media": {
+    "primaryImage": "/products/318404345/gray-costway-portable-washing-machines-n4-ah-10n021u1-gr-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318404345/gray-costway-portable-washing-machines-n4-ah-10n021u1-gr-64_100.jpg",
+        "altText": "3.5 cu.ft. 26 lbs. Portable Semi-automatic Traditional Top Load Washer in Gray with UL Certified",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.586037"
+}

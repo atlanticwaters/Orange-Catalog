@@ -1,0 +1,45 @@
+{
+  "productId": "204671962",
+  "identifiers": {
+    "internetNumber": "204671962",
+    "modelNumber": "",
+    "storeSkuNumber": "204671962"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "6 in. Dual Action Sander",
+  "shortDescription": "6 in. Dual Action Sander",
+  "longDescription": "6 in. Dual Action Sander",
+  "pricing": {
+    "currentPrice": 69.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.129,
+    "count": 62
+  },
+  "media": {
+    "primaryImage": "/products/204671962/husky-air-sanders-polishers-h4870-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204671962/husky-air-sanders-polishers-h4870-64_100.jpg",
+        "altText": "6 in. Dual Action Sander",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.461766"
+}

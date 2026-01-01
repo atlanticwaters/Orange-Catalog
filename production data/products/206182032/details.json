@@ -1,0 +1,45 @@
+{
+  "productId": "206182032",
+  "identifiers": {
+    "internetNumber": "206182032",
+    "modelNumber": "",
+    "storeSkuNumber": "206182032"
+  },
+  "brand": {
+    "name": "Hamilton Beach",
+    "logoUrl": "images/brands/hamilton-beach.svg"
+  },
+  "title": "1.6 cu. ft. Top Load Portable Washer in White",
+  "shortDescription": "1.6 cu. ft. Top Load Portable Washer in White",
+  "longDescription": "1.6 cu. ft. Top Load Portable Washer in White",
+  "pricing": {
+    "currentPrice": 355.06,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3542,
+    "count": 432
+  },
+  "media": {
+    "primaryImage": "/products/206182032/white-hamilton-beach-portable-washing-machines-hbpw160-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206182032/white-hamilton-beach-portable-washing-machines-hbpw160-64_100.jpg",
+        "altText": "1.6 cu. ft. Top Load Portable Washer in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.556175"
+}

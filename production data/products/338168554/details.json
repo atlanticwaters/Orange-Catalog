@@ -1,0 +1,45 @@
+{
+  "productId": "338168554",
+  "identifiers": {
+    "internetNumber": "338168554",
+    "modelNumber": "",
+    "storeSkuNumber": "338168554"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "5.2 cu. ft. Washer with Super Speed Wash and 7.4 cu. ft. Dryer in Brushed Black Set",
+  "shortDescription": "5.2 cu. ft. Washer with Super Speed Wash and 7.4 cu. ft. Dryer in Brushed Black Set",
+  "longDescription": "5.2 cu. ft. Washer with Super Speed Wash and 7.4 cu. ft. Dryer in Brushed Black Set",
+  "pricing": {
+    "currentPrice": 1398.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4095,
+    "count": 1365
+  },
+  "media": {
+    "primaryImage": "/products/338168554/samsung-top-load-washer-dryer-sets-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338168554/samsung-top-load-washer-dryer-sets-64_100.jpg",
+        "altText": "5.2 cu. ft. Washer with Super Speed Wash and 7.4 cu. ft. Dryer in Brushed Black Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.458007"
+}

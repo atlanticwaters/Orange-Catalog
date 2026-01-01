@@ -1,470 +1,3693 @@
 {
   "categoryId": "tools",
   "name": "Tools",
-  "originalUrl": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
-  "archiveTime": "2025-12-31T18:23:37.622Z",
+  "slug": "tools",
+  "path": "/categories/tools",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.734897",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/11.avif",
-  "productIds": [
-    "310825229",
-    "317987591",
-    "320326787",
-    "322138483",
-    "322631796",
-    "330260801",
-    "334549390",
-    "334838623"
+  "pageInfo": {
+    "totalResults": 172
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 64
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 21
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 18
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 17
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 14
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 11
+    },
+    {
+      "brandId": "aircat",
+      "brandName": "AIRCAT",
+      "logoUrl": "images/brands/aircat.svg",
+      "count": 6
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 3
+    },
+    {
+      "brandId": "milton",
+      "brandName": "Milton",
+      "logoUrl": "images/brands/milton.svg",
+      "count": 2
+    },
+    {
+      "brandId": "gearwrench",
+      "brandName": "GEARWRENCH",
+      "logoUrl": "images/brands/gearwrench.svg",
+      "count": 2
+    }
   ],
-  "totalProducts": 8,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/24.avif",
-        "url": "https://dam.thdstatic.com/content/production/Q4F6mr5zKtD25Ty0jKGo_w/of79Fbxu4oKCjW_jQ0N4LA/Original%20file/07JUL23_MiniSplitAC_VN_Bosch.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/59.avif",
-        "url": "https://dam.thdstatic.com/content/production/lZOriW69f08FNoYC3mVtfQ/WLu5slZL-msIYDhYYFxwNQ/Original%20file/a8e2e484-95e1-4529-ac40-a16368217a2a_076174711899_DWST14825.jpg.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/13.avif",
-        "url": "https://dam.thdstatic.com/content/production/rDMyLthLM4KNLXiiqG4-Nw/kottk5fnvkjEFVjzQcwsjg/Original%20file/tool-savings-2025-phase-4-tools-visnav-1.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "https://dam.thdstatic.com/content/production/dib8Lmy4gFAPer2VzAhXuQ/JozMBEhHkoGZa8Eh7b0YOA/Original%20file/tool-savings-2025-phase-4-tools-visnav-4.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/19.avif",
-        "url": "https://dam.thdstatic.com/content/production/lya9CaVQjnbpFyKIVsRvXA/SWeJ81fYiGu-mLEqmcqQxQ/Original%20file/Exclusive-Ryobi_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "https://dam.thdstatic.com/content/production/gfVk-N-slUJphzEbpFoWlg/yAUCzALJtqNE4RlrRAzWZQ/Original%20file/Grizzly-Logo.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/17.avif",
-        "url": "https://dam.thdstatic.com/content/production/WhVvoNdsddLnTC7MNei6nQ/UD_4UZuvtesl2SUkNPsi-w/Original%20file/Exclusive-Milwaukee_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/27.avif",
-        "url": "https://dam.thdstatic.com/content/production/PsunDL0_4_pCXiCVPm61kA/BUd6OwpPc2hdHa9tjKviEg/Original%20file/1003896315_A_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/28.avif",
-        "url": "https://dam.thdstatic.com/content/production/78buaTFO0DL7TtTwnxlO2w/u0IS9bKug5U-60R2SA6rlA/Original%20file/a46f3d4c-f094-4ddd-b8b4-dab7a7754bb8_DSC_9383_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "https://dam.thdstatic.com/content/production/A_13DwWXiN61PpDFOztwqA/bFH8iUL3oixHiLIoy9TV3g/optimizedFile/dd498417-19b3-4999-887d-83f2b6ba5cb9_DCMWSP255Y2_EN_GEC1.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/VgIW56XSpB4cll4PbvZrRA/sEtQtmYyURaBWOfXrzVSDg/Original%20file/321033418.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://dam.thdstatic.com/content/production/4-Lainl6mup5raSe1UM00w/ia0vsXb40uqWDIASAAsETw/optimizedFile/aa9125e4-5c17-466e-a653-d229666dd9e7_DCN680B_EN_GEC_1_New.jpg?im=Crop,rect=(251.5096153846154,306.69230769230774,950.5384615384615,950.5384615384615);Resize=(703,703)"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://dam.thdstatic.com/content/production/FWwZ73Q1pTexDtITwIB5KQ/4XiemsX_Ftzx-pZcIq_y0w/Original%20file/2024_Brand_Page_RidgidTTi_VisNav8.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://dam.thdstatic.com/content/production/7oTSFAkqF3cwfj9VkU-Xyw/07UHBkEQWMgC79Ae_Ld-IQ/Original%20file/55136d65-1e3f-4732-b027-ebde3b02279b_K2514-1.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://dam.thdstatic.com/content/production/U3B4J-3yKKIldJDa_ZMnbQ/_grRqOpyAx8PEJjOX5C3yg/Original%20file/2692577c-fe54-4262-beb3-04d4a22245b0_2695-27S_Kit.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://dam.thdstatic.com/content/production/W5oOgutyffl80w_3VQ-2Eg/lQ5dlaaRNAwmwnFw5AucEw/Original%20file/97b7c377-04d6-494a-aaa2-adba7d544435_315445886_PIU.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://dam.thdstatic.com/content/production/pL9QFYWsKQnumLunuOeycw/bFM_kRAR7vPyMPrDd_e7Nw/Original%20file/c162c94b-d6c2-4965-b5b6-265230eaac8a_48-22-9416-48-22-9516_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://dam.thdstatic.com/content/production/dhrztZIiuJKx75Drl2Mq9Q/oMICDO3730hV9pdr2P8zWg/optimizedFile/076174773743_DW089LG_1.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://dam.thdstatic.com/content/production/m4Uns52qIakbhWD3IHjMNw/wvU6nm5yNNd_nl5HyN6qWQ/Original%20file/4cdda408-f6d8-4d0a-b300-567cce0d28de_STHT84401_1_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/s6AReTLFlDVF0xzIyFOMfg/bWdiqMry87JAgMT6vb0REA/Original%20file/970d642c-7184-4441-819b-dd0e4c99f7d5_48-22-4530_1.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "https://dam.thdstatic.com/content/production/WZ0Lj6b0QgPtSjXW_rJ6Kw/yH7ix4zX8RKpnc1bs4OcJg/Original%20file/4pHbPoah2zfflCE7JgRUCt_177x177-Makita-logo.jpg?im=Crop,rect=(25.25,26.484375,213.9375,213.9375);Resize=(703,703)"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://dam.thdstatic.com/content/production/OqbD4iFiWfH3pWV-SdAAgg/GLT3t9-uevODD1SW4UTRKg/optimizedFile/e07ced80-cb8b-4cde-9807-0eddb1d3ec64_HD1400_304795071_Main_Q1Test-new.new.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://dam.thdstatic.com/content/production/crGBdxDT_nUgrdy6IvuX7A/uOKTtZ0Q_XksyETd2g7dWA/Original%20file/Ridgid.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://dam.thdstatic.com/content/production/SenEm0vriXjtGfAeV3YElA/DDDAI17ABBs-2BVj6BPhlw/optimizedFile/586ff477-70bc-4e54-9ae6-5ee7baf402d2_DXAEJ14_Hero_3Qtr.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://dam.thdstatic.com/content/production/5Vwy26iwX6YSjnZwDAxeXA/wJdHsE0VHIigfsTNEMF-FQ/Original%20file/78bedf23-0541-4016-b7f0-307b02c31d55_PDD209K.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://dam.thdstatic.com/content/production/vQp8hF_e2G1yUAz57T3G9w/F_k4tHzL16ur4KH5fZ_QOw/Original%20file/4fd248bb-7f63-4f8e-b5c7-b2db36e331f8_R86212B.jpeg?im=Crop,rect=(135.67708333333334,195.17227564102566,748.818108974359,748.818108974359);Resize=(703,703)"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/tVeh-2xBneujELoDW79cjg/VUgTwB1xG3VPNHIyyq2dvw/Original%20file/276455da-330b-4c28-a80c-a7cd0f5d8b77_33-725_1_new.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://dam.thdstatic.com/content/production/DC006W-_k-zn9ybNr1iLDA/Y87kSIt0VW4W_IS86VHwdg/Original%20file/c3ab1c7a-b7c1-4632-998b-9d0d550cbe11_PBP2005.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/zYMio9lDMvyvOVCMp8VvFA/ve1wu_nswBz6MJRwIPcDIQ/Original%20file/tool-savings-2025-phase-4-tools-visnav-3.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://dam.thdstatic.com/content/production/dc62EdtpGntytBsVheIgog/RwY0Btoj7m8QQ9p6v42OBQ/Original%20file/ca05e224-77a2-453d-903b-e198020c22ef_A18MS01G_2_Final.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://dam.thdstatic.com/content/production/sRknY8oLH_2eJOCEcsDFnA/Tnc74_hhlcUD64oErXHRRw/optimizedFile/1005074275_Vendor.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://dam.thdstatic.com/content/production/aubJUI9JJ0QJg0pT8l5zpg/Kz_Msv5gybibe0YAmnEkKA/Original%20file/313615421.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/56.avif",
-        "url": "https://dam.thdstatic.com/content/production/1CnChfrxs33A1AUMXilggA/fIP0ChNCJgamru-rlTF63w/Original%20file/c6c25dac-5240-48b3-8394-c6ac5a5f4cb8_1DM-428-2_EMPTY_copy_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/63.avif",
-        "url": "https://dam.thdstatic.com/content/production/_GepXhkwIqYH-tJjrrDRBg/zPvKxp7jIuhtXIq7h7Emvg/optimizedFile/908de91a-4d6b-4664-a5d1-54c743f63ef7_Honda_HRN216VKA_Right_Digital_square.jpg?im=Crop,rect=(154.26923076923077,173.3653846153846,1117.2403846153848,1117.2403846153848);Resize=(703,703)"
-      },
-      {
-        "filename": "images/66.avif",
-        "url": "https://dam.thdstatic.com/content/production/wsl5K_XdQVp0i6mAgzCXlA/rV45bFXPjnAELJhxEEnrFQ/optimizedFile/2384a7b0-3313-43ef-a707-d00f88abaac1_Westinghouse_WPX3200_pressure_washer_1_hero.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/67.avif",
-        "url": "https://dam.thdstatic.com/content/production/j5MgguTOgvrAjOeb4CfvOw/gwEH-Ii9b0CrVPWYhWmD2Q/Original%20file/305187973.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/68.avif",
-        "url": "https://dam.thdstatic.com/content/production/n5c-Rt_uK_UrodWFMYtSyQ/Vsoay3_YwqBXQQy5ywM2FA/optimizedFile/af238ac0-480f-4edf-be22-e83277ffdb59_BL-5000TL-Frames_ONLY.jpeg?im=Crop,rect=(207.0088408644401,0,1099.1625736738704,1099.8201923076924);Resize=(703,703)"
-      },
-      {
-        "filename": "images/71.avif",
-        "url": "https://dam.thdstatic.com/content/production/lfprFVYv2nHF_P85AoUH5Q/Jd4scaDKS-k94DaBlsVORw/optimizedFile/d18c47d1-a87b-4ab4-b518-5c952f026c10_DXAEPS14_1.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/72.avif",
-        "url": "https://dam.thdstatic.com/content/production/FN5SduRp2NjmxiXiJwtppA/9JcDDhh4-38upUJYqfAvwA/Original%20file/2023_1_DuPont_205959934_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/75.avif",
-        "url": "https://dam.thdstatic.com/content/production/dhdy3Gs7jAFlHAtc1bAokQ/8GZHdKkuEWkE7TMSUk_Q3w/Original%20file/57043_RIDGID_Power-Spin+_Left_1000x1000.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/76.avif",
-        "url": "https://dam.thdstatic.com/content/production/enW1FIZGIpsIytrjbGrj3w/GWBrJgHzAZOoNP0aNqeLFw/optimizedFile/4a152897-60c8-4c92-b16d-988019c2595e_PS700R_1903A_300dpi.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/79.avif",
-        "url": "https://dam.thdstatic.com/content/production/qXFNCnO2IYkS8cBujhIo4A/inyNd46cOpFX_C3lSEl0bQ/optimizedFile/3058f139-588e-48ef-b5cb-6107a2b359fd_HDX46502-Ghosted-2500x2500.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/80.avif",
-        "url": "https://dam.thdstatic.com/content/production/vnl6K5ivmBevZPbugr1G-A/vjJOIndV2D_TvRK6B1L_SQ/Original%20file/Klein_Tools_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://dam.thdstatic.com/content/production/7WtBJNg8ZffcnygM9H-rHQ/fO1aqrsz3SwPhy6xw-pq7w/Original%20file/8dbaf5b2-e6fe-4584-882d-9ddbbf6bef9a_313829283_Back_VIEW_MI.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://dam.thdstatic.com/content/production/wd-TaYsMkLmf-u1q6U_1MA/E9-odkc_R1OHQYyX4f-aVg/Original%20file/ffd8db43-a388-411e-b44f-cc5950cacb22_48-89-4631_Primary_Image_New.jpg?im=Crop,rect=(157.01121794871796,84.15464743589745,661.4983974358975,661.4983974358975);Resize=(703,703)"
-      },
-      {
-        "filename": "images/69.avif",
-        "url": "https://dam.thdstatic.com/content/production/Dc3bjnK4KFoxiyh7XBZ1Nw/KfhB96qQWwY2_rA_BsWsLQ/Original%20file/320379671.png?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/77.avif",
-        "url": "https://dam.thdstatic.com/content/production/7NuXMqIxnQUFBpo5zowfEw/ARNn-kFrzdv6nm8lg11hQA/optimizedFile/eaf02f00-eaf3-46c3-83c1-765edefa283e_I-CISCH1-Rev_New.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/81.avif",
-        "url": "https://dam.thdstatic.com/content/production/wa1BvISULUrWDKVw0MOtsA/rRnzBShoKFOM0M3OfYT3bQ/Original%20file/Logo_Stanley_THD_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/82.avif",
-        "url": "https://dam.thdstatic.com/content/production/prWUO287GNdMNagiiXe4Dw/WT0i-3A573XQG7dxS1dyFQ/Original%20file/Porter_Cable_Vertical_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/14.avif",
-        "url": "https://dam.thdstatic.com/content/production/NZ0EF4If3zAG34DRdWLOig/dsDOifld_uIHBNe1ZJK8Mw/Original%20file/tool-savings-2025-phase-4-tools-visnav-2.jpg?im=Resize=(328,328)"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "https://dam.thdstatic.com/content/production/oH-5QDWY-mfiNlCzpLlKhw/ZWFDr7dZDPpMJj2tYrP69g/Original%20file/Husky-red-logo-square.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/34.avif",
-        "url": "https://dam.thdstatic.com/content/production/JLIrUzmjekPKcQmi16b7aA/AGlj8RdryYj2RSwnkkdJJg/Original%20file/f6982949-5b4e-4241-9b29-0a670e9c5dc4_D0724RVP_Main-Image.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://dam.thdstatic.com/content/production/n87tdF0JEhJqre2nl6dqWA/JChWjuF4rSHOUo7Azei2ig/optimizedFile/0c07724a-0c6a-4041-9e98-b5cd051a6e3f_DAXSTILL_DEWALT_203070202__20inVariable-SpeedScrollSaw_Left_-1.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://dam.thdstatic.com/content/production/0KKFbG39E6eV_Sg2B2sHig/lOKOGeWvD2u2kpvolXTx7Q/Original%20file/c59275b7-e558-46ab-96f5-f084ecde5844_48-59-1806_3_1000X1000.jpg.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/25.avif",
-        "url": "https://dam.thdstatic.com/content/production/ocfxuB662zsVJ0rvMRJ0Gw/4y5uAsxp0A9S1Vq94pxBwQ/Original%20file/66312c7a-e585-4e49-a57a-a9e64aff230d_3697-22-48-11-1880_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://dam.thdstatic.com/content/production/l7rFbJ9PvygisXo8Oasd7w/yGwknY_ReRJmIyrFqOiauA/optimizedFile/79068683-3513-4955-bf9c-1c18e2108950_Husky_Buildout-RTB-01-NEWW.jpg?im=Crop,rect=(314.3269230769231,49.23076923076923,862.5576923076924,862.5576923076924);Resize=(703,703)"
-      },
-      {
-        "filename": "images/62.avif",
-        "url": "https://dam.thdstatic.com/content/production/UZukjURyvRMRUG6hZ5veZA/q8-Vmq3fc1P78aDH9PglMw/Original%20file/7d77e41f-a281-4f00-a5d0-9c2b61e8c5d7_307753410_1003924257_sized.psd.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/64.avif",
-        "url": "https://dam.thdstatic.com/content/production/sA_rlo8batmxnX39H5IOGA/0WApQmIH3O_mwfdv37vF-A/Original%20file/3367ada5-599f-4d53-89da-3ab93e2b09b7_THD_CC_13AQA9TTA10_Carousel_2000x2000_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/70.avif",
-        "url": "https://dam.thdstatic.com/content/production/4CEFP7KSdsRq9L_ti_BbHA/wIvfqEempPk2K7VaJtDbXA/optimizedFile/4727f0ef-a528-4b1e-bd2c-68963e4ba74a_HD00107-ZD-DIP_1_p.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/78.avif",
-        "url": "https://dam.thdstatic.com/content/production/unsm1tgPVrzixRc8CVP1vw/aPW76peycoBEySdQOpSd_A/optimizedFile/6cf9c78c-3e59-4881-b031-a4f76378066d_F_SD9112_ProdPho_Pho_Prod_SD-ConnectorScrew_C0.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/84.avif",
-        "url": "https://dam.thdstatic.com/content/production/IrG6qyqK9TA66ejq1XVzlA/xN752-gVNcWpK_q0pzBhiw/Original%20file/Diablo_sized.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/85.avif",
-        "url": "https://dam.thdstatic.com/content/production/IAFnp6jkMfwCR9INbTZL-g/Zf7O-9iC2WjbALDBVgwucw/Original%20file/6e33c49d-db82-4af5-974a-7015eb4e8165_PCL235_D_sup_2000px__1___1___1_.jpeg?im=Crop,rect=(54.70753205128206,214.14262820512823,945.292467948718,590.8077924679487);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/73.avif",
-        "url": "https://dam.thdstatic.com/content/production/FVfHRn5KBMYlIrP86mPvWQ/_iUG8XvevDX1zC_CyofvNA/Original%20file/b60afd6b-423a-4b97-9502-8daf414366a2_550045126_FRONT.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/26.avif",
-        "url": "https://dam.thdstatic.com/content/production/hFd_NyhS4fhaxi3rPRqFPA/srG57BNqMcP-Pmf5CTuyuQ/Original%20file/2023_11_Husky_312945780.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/65.avif",
-        "url": "https://dam.thdstatic.com/content/production/h4BkkpE-b3LOLa5TObfrPg/TJephB0OKpJCOvTn-XU3gw/Original%20file/327717985_RM_RYOBI_cropped.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/86.avif",
-        "url": "https://dam.thdstatic.com/content/production/G4vg3MTXMPlNrkeeqWZPcQ/ghLk2afiLJnwPFe5icDP-A/optimizedFile/076174773743_DW089LG_A2.jpg?im=Crop,rect=(5.019230769230769,349.96153846153845,1434.9807692307693,896.8629807692308);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/87.avif",
-        "url": "https://dam.thdstatic.com/content/production/V8APFfzKHWJluM-1Bb5Dxg/3ai927iqhqE82Zz0SPzHNg/Original%20file/d2edb0fe-1797-432d-a4b0-44802b5c93ff_48-22-8110_A.jpeg?im=Crop,rect=(0,196.36919070512823,1000.0000000000001,625);Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://dam.thdstatic.com/content/production/rA72kyPrk6OB1cKiyE1gTw/c0wmN7es5lnedQ5s7LY3Cg/Original%20file/2023_VN5P6_DeWalt.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/liqTn8yxzlRaHK2l_wI8sQ/nvbT945E83KDMGJ_QSFAHQ/Original%20file/076174770827_DWHTTR510_1.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/74.avif",
-        "url": "https://dam.thdstatic.com/content/production/UPM1vFlIBSPC0_qaBRZwWg/lYGB__Wf06xi1VLkSPIpJA/Original%20file/6386f8a4-b286-5d7b-9036-114b3b52a82f_et450_front.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/91.avif",
-        "url": "https://images.thdstatic.com/productImages/b16b4743-d4cf-4c84-b731-5ccd3e2cc507/svn/ryobi-power-tool-combo-kits-pcl1600k2-64_300.jpg"
-      },
-      {
-        "filename": "images/60.avif",
-        "url": "https://dam.thdstatic.com/content/production/cI_yNKdqlaLbMjUsuVNRIw/f9DBW4ix3JzvtUVape_ZMg/Original%20file/1d51d947-44c0-4114-89fc-5a5f4776e294_102100-53-01_PI_NEW.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/57.avif",
-        "url": "https://dam.thdstatic.com/content/production/fyfrTATj34C-BVYXv3d2gQ/t4S3MK2SCymYusVhc9pySw/optimizedFile/3e930d4c-fafa-4afb-9a1a-fa91e79a481c_HD60012-TH_1-NEW.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/83.avif",
-        "url": "https://dam.thdstatic.com/content/production/1RUApcOGzeS50K8dPoi6yg/ePcEGsiCXg4wQlw8PwJDQw/Original%20file/861e89ad-ff13-48eb-9d5a-7281472b3081_GrearWrench_Logo.jpg.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://dam.thdstatic.com/content/production/daRxqxnU4wYABja2QbjxjQ/iUPzQYYJWs73kQNZxD6DJg/Original%20file/400054d6-7dcc-4153-8297-7da37a655a4d_PCL406B.jpeg?im=Resize=(703,703)"
+  "products": [
+    {
+      "productId": "320033032",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Compact Fixed Base Router (Tool Only)",
+      "rating": {
+        "average": 4.6792,
+        "count": 1147
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa38106e-3feb-413b-afff-422b13e13e47/svn/ryobi-wood-routers-pcl424b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/93.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+    },
+    {
+      "productId": "330035447",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. Rolling Tool Box, 22 in. Large Tool Box and 22 in. Medium Tool Box ProSystem Low Profile Handle",
+      "rating": {
+        "average": 4.7147,
+        "count": 1262
       },
-      {
-        "filename": "images/94.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50c4b855-e780-4965-824d-bdb09cefe46d/svn/red-milwaukee-modular-tool-storage-systems-48-22-8401-64_100.jpg"
       },
-      {
-        "filename": "images/96.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/95.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
-      },
-      {
-        "filename": "images/97.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/98.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/99.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/100.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/101.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/102.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/103.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/106.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/104.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/105.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/108.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/107.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/109.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/111.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/110.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/112.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/113.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/114.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/115.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/116.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/10.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+    },
+    {
+      "productId": "312596068",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Lithium-Ion Cordless Electric Portable Inflator (Tool-Only)",
+      "rating": {
+        "average": 4.5844,
+        "count": 486
       },
-      {
-        "filename": "images/11.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c0a2531-461b-4b3b-9a86-bb950f3722a9/svn/makita-inflators-dmp180zx-64_100.jpg"
       },
-      {
-        "filename": "images/61.avif",
-        "url": "https://dam.thdstatic.com/content/production/d_sDiiOIj4q194oYyVkpcg/tBnMgW4WI_8P5TK5f9rMng/Original%20file/BatteryPlatforms-banner-dsktop.png"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/88.avif",
-        "url": "https://dam.thdstatic.com/content/production/sv0khM6A-PbmGMSTb4IiSg/xypJMWjYTE6YZ2M-eCsA9A/Original%20file/ToolPickup-banner-dsktop.png"
-      },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/content/production/GIKAXfvWEiIXhVm5ftZxcA/-ZduegyBpoeFrLcZ-YPayA/Original%20file/175_CordlessDominationStillsFY24_315855110_S_GRAY.jpg?im=Crop,rect=(1139.156537371685,1110.5819310897436,6269.783355164671,3917.217861077724)"
-      },
-      {
-        "filename": "images/89.avif",
-        "url": "https://images.thdstatic.com/productImages/880445c5-d412-41b5-b45a-35e00d7de46e/svn/milwaukee-power-tool-combo-kits-3697-22-64_300.jpg"
-      },
-      {
-        "filename": "images/90.avif",
-        "url": "https://images.thdstatic.com/productImages/f68361df-37a0-40db-9f49-29a4757cecec/svn/dewalt-power-tool-combo-kits-dck225d2-64_300.jpg"
-      },
-      {
-        "filename": "images/92.avif",
-        "url": "https://images.thdstatic.com/productImages/ede11586-0a4c-49ff-a3d5-fb8243b1187c/svn/husky-mechanics-tool-sets-h280mts-64_300.jpg"
+      "price": {
+        "current": 154.0,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Tools - The Home Depot",
-    "categoryType": "Top Level THD Pages",
-    "categoryFolder": "Tools"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "319388904",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Lithium-Ion Cordless Electric High-Pressure Portable Inflator (Tool Only)",
+      "rating": {
+        "average": 4.3333,
+        "count": 51
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9e0da1b2-40c2-4a2a-904f-27008827c510/svn/makita-inflators-dmp181zx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      }
+    },
+    {
+      "productId": "309596392",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "12V MAX CXT Lithium-Ion Cordless Electric Portable Inflator (Tool-Only)",
+      "rating": {
+        "average": 4.375,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc291bda-befa-4bba-9add-ce96b70b85f0/svn/makita-inflators-mp100dz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 101.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309019895",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Tool Storage 60 in. W Black Steel Job Site Toolbox",
+      "rating": {
+        "average": 4.1885,
+        "count": 244
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c2415ff1-25f7-4790-bab2-6b136a1c83c1/svn/black-husky-jobsite-boxes-h60jsb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 498.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309019898",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Tool Storage 32 in. W Black Steel Job Site Toolbox",
+      "rating": {
+        "average": 4.1765,
+        "count": 238
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a93b9786-8b18-4d83-ad08-4f899f9b696f/svn/black-husky-jobsite-boxes-h32jsb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 228.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318547273",
+      "modelNumber": "",
+      "brand": "Milton",
+      "title": "AeroBlade 24 in. Extension Reach Nozzle Blow Gun, Powerful Air Tool Filter, Radiator and Condenser Cleaner",
+      "rating": {
+        "average": 4.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbc96fad-c7e6-4c0c-b6d1-6cecaf63e1c7/svn/milton-air-blow-guns-158-ab24-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333438348",
+      "modelNumber": "",
+      "brand": "Milton",
+      "title": "Radiator Rocket Coil and Line Cleaner Blow Gun Tool",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c0810ce1-d017-45a8-aa04-75c98798ca15/svn/milton-air-blow-guns-lt886-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 76.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312063230",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Tool Storage 46 in. W x 24 in. D 2-Drawer Adjustable Height Black Worktable with Solid Wood Top",
+      "rating": {
+        "average": 4.8051,
+        "count": 5058
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37c1896d-a2e4-4f5f-afd1-2e0d7834e818/svn/husky-workbenches-holt4602b12-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 289.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338530435",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "SPEEDBENCH Rolling Tool Box and SlotBox Organizer Kit (2-Piece)",
+      "rating": {
+        "average": 4.6327,
+        "count": 1326
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0df9c2b-5f22-4a32-9c90-d3d79bc8f875/svn/ryobi-workbenches-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 408.92,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312063233",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Tool Storage 62 in. W White Adjustable Height Work Table with 2-Drawers",
+      "rating": {
+        "average": 4.802,
+        "count": 5692
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af8da236-9f9d-49a2-ac3d-8ef93bf911c2/svn/husky-workbenches-holt6202bj2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 389.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320022879",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Cordless Electric Portable Inflator (Tool-Only)",
+      "rating": {
+        "average": 4.7774,
+        "count": 3410
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b71396a-8e44-4951-9d08-104a02cf3101/svn/milwaukee-inflators-2848-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304768834",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Lithium-Ion Cordless Electric Portable Inflator (Tool-Only)",
+      "rating": {
+        "average": 4.5654,
+        "count": 3426
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2e11f8f0-ef85-4d69-8631-ddfb68d0ea15/svn/milwaukee-inflators-2475-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100047286",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "8 oz. Air Tool Oil",
+      "rating": {
+        "average": 4.632,
+        "count": 231
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1878c86f-6fcc-4c4a-a56b-3da0a0f975a1/svn/husky-air-compressor-oils-hda10800av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100351698",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "4.5 oz. Cordless Tool Oil Lubrication",
+      "rating": {
+        "average": 4.5748,
+        "count": 127
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a2acaa98-5946-4115-a4a2-aa7c6c0d0e37/svn/paslode-air-compressor-oils-401482-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8.68,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306353551",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "8 oz. Air Tool Oil",
+      "rating": {
+        "average": 4.7083,
+        "count": 24
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e269ce22-018b-444d-b972-ab5fd1263dbf/svn/freeman-air-compressor-oils-ptto-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302583404",
+      "modelNumber": "",
+      "brand": "Milton Industries, Inc.",
+      "title": "32 oz High-Performance Conventional Air Tool Oil",
+      "rating": {
+        "average": 4.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6fba2d9d-beb4-4f90-bc90-60a3cc8ea1a9/svn/milton-industries-inc-air-compressor-oils-1001-32-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 12.06,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304783951",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3 in. Cut-Off Tool",
+      "rating": {
+        "average": 4.2979,
+        "count": 47
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/58933818-97d9-4a17-9479-772723e0dec6/svn/husky-air-cut-off-tools-h4210-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 67.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300537385",
+      "modelNumber": "",
+      "brand": "GENESIS",
+      "title": "3.5 Amp 3 in. High Speed Corded Cut Off Tool with Quick-Release Adjustable Guard and Safety Switch",
+      "rating": {
+        "average": 4.2368,
+        "count": 152
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7954ecf0-ce23-44c5-8477-feb49b851c61/svn/genesis-air-cut-off-tools-gcot335-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.62,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335331576",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Dual Function Cordless Inflator with 18V Cordless LED Work Light (Tools Only)",
+      "rating": {
+        "average": 4.6699,
+        "count": 306
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bd92bdfb-c98b-4419-b15c-8b606def90fd/svn/ridgid-inflators-r86051b-r8695b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 118.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335331573",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Dual Function Cordless Inflator with 18V Cordless LED Spotlight (Tools Only)",
+      "rating": {
+        "average": 4.6782,
+        "count": 404
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2026c4e8-8d9f-4d40-8108-2c7a2a121a30/svn/ridgid-inflators-r86051b-r8699b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 178.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330630807",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Dual Function Cordless Inflator (Tool Only) with Valve Adaptor, Needle, (2) Nozzles, and 12V Power Cord",
+      "rating": {
+        "average": 4.6603,
+        "count": 209
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0c7ee8a2-a685-4675-8b4f-c0e99889445a/svn/ridgid-inflators-r86051b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313257505",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Portable Inflator (Tool Only)",
+      "rating": {
+        "average": 4.603,
+        "count": 4232
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0c6d4978-40d8-463b-a4f0-42bb0455e266/svn/ridgid-inflators-r87044-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305709688",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Electric Portable Inflator (Tool Only)",
+      "rating": {
+        "average": 4.6413,
+        "count": 2236
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b965652-ad55-4336-a87c-0ac89be1a48c/svn/dewalt-inflators-dcc020ib-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317854599",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "7-Piece Air Tool Accessory Kit",
+      "rating": {
+        "average": 4.587,
+        "count": 184
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ddd9bcf6-2e19-464a-bfed-d8c0df5c8830/svn/husky-air-tool-accessory-kits-hkata071016-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 17.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205331964",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "13-Piece Air Tool Accessory Kit",
+      "rating": {
+        "average": 3.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c646e44f-9a62-437e-ac60-2260d07ecc84/svn/husky-air-tool-accessory-kits-41255hom-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202519168",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Air Tool Accessory Kit (7-Piece)",
+      "rating": {
+        "average": 4.5955,
+        "count": 178
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b8e1b5d-77bf-4be6-9a1b-45d169ed33f4/svn/husky-air-tool-accessory-kits-hda22000av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 17.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323630489",
+      "modelNumber": "",
+      "brand": "Tradespro",
+      "title": "Air Tool Set (71-Piece)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9864f9f9-feeb-4344-b13c-b6159dafa6e2/svn/tradespro-air-tool-kits-836668-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328116054",
+      "modelNumber": "",
+      "brand": "GEARWRENCH",
+      "title": "MEGAMOD 41 in. 16-Drawer Tool Rolling Chest and Cabinet Combo with Master Mechanics Tool Set in Foam Trays (873-Piece)",
+      "rating": {
+        "average": 3.25,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/41a0fc46-3b84-4f99-aaee-5623f51bf210/svn/orange-black-powder-coat-gearwrench-tool-chest-combos-megamod873-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328116061",
+      "modelNumber": "",
+      "brand": "GEARWRENCH",
+      "title": "MEGAMOD 26 in. 9-Drawer Tool Rolling Chest and Cabinet Combo with Master Mechanics Tool Set in Foam Trays (791-Pieces)",
+      "rating": {
+        "average": 3.6,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f8f3bf36-d923-4bff-b905-60551673d1fe/svn/orange-black-powder-coat-gearwrench-tool-chest-combos-megamodpro-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4799.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338590886",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "22 in. Connect Rolling System Tool Box and Connect Stackable Portable Cantilever 22 Organizer with Steel Handle Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37ee8dad-b6ae-4d00-9d89-1907773d6513/svn/husky-small-parts-organizers-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338590865",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "22 in. Connect Rolling System Tool Box and Connect Stackable 2 Drawer Organizer with Removable Dividers Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/849da9f0-82c4-4e72-a790-a35887dc4794/svn/husky-small-parts-organizers-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338102847",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "22 in. Rolling System Tool Box and Connect Stackable 10-Compartment Small Tool Organizer Combo",
+      "rating": {
+        "average": 4.5489,
+        "count": 829
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e99646d-6e2f-418c-b66e-6427b78d52d2/svn/husky-small-parts-organizers-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328957947",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "4 SCFM at 90 PSI 20000 RPM 3 in. Air Cut Off Tool",
+      "rating": {
+        "average": 4.3333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7869851f-8880-495d-93eb-1a1be6af315b/svn/porter-cable-air-cut-off-tools-pxcm024-0271-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339855358",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "Air Tool Hanger",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c5540bf-3029-4994-a327-10c981499ec6/svn/porter-cable-compressor-accessories-pxcm024-0445-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 13.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315059770",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. 2-Drawer Tool Box with Metal Reinforced Corners",
+      "rating": {
+        "average": 4.7245,
+        "count": 9815
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0e787109-4adc-4054-82ed-45c176c7fc73/svn/red-milwaukee-modular-tool-storage-systems-48-22-8442-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311569700",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 18.6 in. Tool Storage Crate Bin with Carrying Handles and 50 lbs. Weight Capacity",
+      "rating": {
+        "average": 4.7304,
+        "count": 9795
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7c3fe71b-04bf-48b2-b00f-589cde98c59a/svn/red-milwaukee-modular-tool-storage-systems-48-22-8440-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326479354",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. Modular 3-Drawer Multi Drawer Tool Box with Metal Reinforced Corners and 50 lbs. Capacity",
+      "rating": {
+        "average": 4.7006,
+        "count": 668
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/67c40742-1da0-4c08-97ad-51aa7311cf9d/svn/red-milwaukee-modular-tool-storage-systems-48-22-8447-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315059793",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. Modular 3-Drawer Tool Box with Metal Reinforced Corners",
+      "rating": {
+        "average": 4.7323,
+        "count": 9770
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ef783092-1fb6-4157-b4d8-c5e891e5ff8d/svn/red-milwaukee-modular-tool-storage-systems-48-22-8443-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307635674",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "15 in. PACKOUT Tool Backpack",
+      "rating": {
+        "average": 4.5192,
+        "count": 1768
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e243e2eb-7013-489e-a702-3e5bfc800f2b/svn/red-milwaukee-modular-tool-storage-systems-48-22-8301-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310989240",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT Dolly 24 in. x 18 in. Black Multi-Purpose Utility Tool Cart",
+      "rating": {
+        "average": 4.6447,
+        "count": 591
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dde6a17d-cfc4-4b9f-8e77-66d1a8c1edf9/svn/black-milwaukee-modular-tool-storage-systems-48-22-8410-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303005621",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. Large Portable Tool Box Fits Modular Storage System",
+      "rating": {
+        "average": 4.7338,
+        "count": 9889
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ef890460-b7f8-4d9d-a902-9e1356cc17bf/svn/red-milwaukee-modular-tool-storage-systems-48-22-8425-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 94.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320785569",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "TOUGHSYSTEM 2.0 24 in. Tower Tool Box System (3 Piece Set)",
+      "rating": {
+        "average": 4.5891,
+        "count": 421
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a4b27737-fe42-4785-9655-c4d8e726dda7/svn/black-dewalt-modular-tool-storage-systems-dwst60437-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312485586",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "TOUGHSYSTEM 2.0 24 in. W Modular Tool Box",
+      "rating": {
+        "average": 4.6023,
+        "count": 2912
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d870444f-7f90-4c28-80db-7cdf2974715d/svn/black-dewalt-modular-tool-storage-systems-dwst08450-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320483537",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pro Gear System Gen 2.0 Stackable 25 in All Terrain Rolling Tool Box with 9 in. Wheels",
+      "rating": {
+        "average": 4.6119,
+        "count": 5024
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e326426-2b0b-493d-8e52-bddc49e733b4/svn/black-ridgid-modular-tool-storage-systems-254065-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303005652",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. Medium Red Tool Box with 75 lbs. Weight Capacity",
+      "rating": {
+        "average": 4.7877,
+        "count": 1069
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78cee513-7c5f-4726-9128-80586149af2f/svn/red-milwaukee-modular-tool-storage-systems-48-22-8424-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327406129",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless High Pressure Inflator (Tool Only)",
+      "rating": {
+        "average": 4.7134,
+        "count": 5004
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d3c561a9-1101-42e0-b7c2-3c221c23183a/svn/ryobi-inflators-pcl001b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 24.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326666980",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Dual Function Inflator/Deflator(Tool Only)",
+      "rating": {
+        "average": 4.4683,
+        "count": 993
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d7007348-2b0e-4677-8986-4466910282e6/svn/ryobi-inflators-pcl031b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327560521",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless High Pressure Inflator with ONE+ 18V Cordless High Volume Inflator (Tools Only)",
+      "rating": {
+        "average": 4.6798,
+        "count": 3923
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7f12a27a-7caa-49c4-9f3e-7dcef47bed28/svn/ryobi-inflators-pcl001b-pcl016b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325910587",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless High Volume Inflator (Tool Only)",
+      "rating": {
+        "average": 4.5168,
+        "count": 387
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2179cbd5-3c1c-4f26-9fcb-4f5579fc7869/svn/ryobi-inflators-pcl016b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333029390",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "13 ft. x 20 ft. Dark Gray Metal Garage Utility Tool House with 2 Doors and 4 Vents for Car, Truck, Tool, Lawnmower",
+      "rating": {
+        "average": 3.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4fe8d148-ec82-4ba8-8c6b-0f7905de6163/svn/gray-garages-out-d-498-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2547.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333029235",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "10 ft. x 20 ft. Dark Gray Metal Garage Utility Tool House with 2 Doors and 4 Vents for Car, Truck, Tool, Lawnmower",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4fe8d148-ec82-4ba8-8c6b-0f7905de6163/svn/gray-garages-out-d-497-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2333.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333028623",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "13 ft. x 20 ft. Black Metal Garage Utility Tool House with 2-Doors and 4-Vents for Car, Truck, Tool, Lawnmower",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d7d0868d-4405-4e45-a9dc-80dc9cefe73f/svn/black-garages-out-d-495-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3153.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333197781",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. Rolling Modular Tool Box LP Handle and XL Tool Box",
+      "rating": {
+        "average": 4.4286,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cae11ff7-8da2-4e70-b463-eb0e4711ab7b/svn/red-milwaukee-modular-tool-storage-systems-48-22-8427-8429-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 224.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326290517",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 120 MPH 500 CFM 18V Lithium-Ion Brushless Cordless Handheld Blower (Tool-Only)",
+      "rating": {
+        "average": 4.4049,
+        "count": 1998
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6831e132-183a-4c99-af53-9c3a525bdbf0/svn/milwaukee-cordless-leaf-blowers-3017-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328602816",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "500-Lumens Dual Power Focusing Aluminum Flashlight",
+      "rating": {
+        "average": 4.5752,
+        "count": 266
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1045db69-a09a-4292-9921-81b42146fc07/svn/husky-pen-lights-91309-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 24.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329160387",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "1800 Lumens Dual Power LED Rechargeable Tactical Focusing Flashlight",
+      "rating": {
+        "average": 4.5717,
+        "count": 600
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b7081d25-bcc6-4ffc-a0be-5c092eaea597/svn/husky-handheld-flashlights-pvl-flt-0021-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334933868",
+      "modelNumber": "",
+      "brand": "Defiant",
+      "title": "Defiant 2-Pack 3500 Lumens Rechargeable Magnetic Utility Light With Power Bank",
+      "rating": {
+        "average": 4.7,
+        "count": 160
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/755fb900-ce0f-4785-8511-dab2f22b533e/svn/defiant-handheld-spotlights-91654-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334527593",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "5000 Lumen Hybrid Power Swivel Rechargeable Spotlight",
+      "rating": {
+        "average": 4.7527,
+        "count": 93
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c74e5e6c-cf3b-453f-a25a-378366d9abca/svn/husky-handheld-spotlights-91640-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329790779",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Cordless 2500 Lumens LED Magnetic Extendable Boom Light (Tool Only)",
+      "rating": {
+        "average": 4.4833,
+        "count": 60
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8a1fe2a1-b90f-4d1f-815d-f75f0b0c3eaf/svn/milwaukee-handheld-flashlights-2129-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334527613",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "800 Lumen 3-in-1 Rechargeable Utility Light with 10000 mAh Power Bank",
+      "rating": {
+        "average": 4.8088,
+        "count": 68
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/25d22730-fc49-4e21-b16f-e041f521a06b/svn/husky-handheld-spotlights-91641-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329160398",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "7000-Lumens Dual Power LED Rechargeable Tactical Focusing Handheld Flashlight",
+      "rating": {
+        "average": 4.3784,
+        "count": 74
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b01d4da0-102a-4861-9659-c51d825c787a/svn/husky-handheld-flashlights-pvl-flt-0019-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 64.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100081323",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Replacement Discs for Air Powered Cut-Off Tools (5-Pack)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f282e1e1-c40f-471b-a9d4-9b5fc44484c7/svn/husky-air-cut-off-tools-hda10600av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 11.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205805299",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Side Mounted Cut-Off Tool",
+      "rating": {
+        "average": 4.1,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d18780c1-f9ba-4324-9045-bb57b2e171da/svn/husky-air-cut-off-tools-h4250-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 94.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766973",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "1 HP 4 in. Extended Inside Cut-Off Tool",
+      "rating": {
+        "average": 4.3333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02216a29-6719-4802-84df-6c99956415a5/svn/aircat-air-cut-off-tools-6275-a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 234.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766971",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 1 HP 4 in. Cut-Off Tool",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/79531335-286d-4ea1-92e3-9dce439fbb5b/svn/aircat-air-cut-off-tools-6560-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 120.54,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766976",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 3 in. In-Line Cut-Off Tool",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/85344be5-85de-45d0-9562-279343821303/svn/aircat-air-cut-off-tools-6525-a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 123.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766975",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 3 in. Reversible Cut-Off Tool",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/143bc02a-6d80-4437-825e-9d8d09fdcebc/svn/aircat-air-cut-off-tools-6520-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 105.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307322876",
+      "modelNumber": "",
+      "brand": "Florida Pneumatic",
+      "title": "3 in. Cut-Off Tool",
+      "rating": {
+        "average": 4.8,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6caa7028-5207-40ba-8871-2d2b8d633a86/svn/florida-pneumatic-air-cut-off-tools-fpx-200-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 24.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303361330",
+      "modelNumber": "",
+      "brand": "Campbell Hausfeld",
+      "title": "Get Stuff Done Air Cut-Off Tool Horsepower, 3 in. Cutting Disc, 360 Degree Rotating Guard (XT200000)",
+      "rating": {
+        "average": 4.2667,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5433c43c-c69b-4f77-ab9a-86826eae6d4a/svn/campbell-hausfeld-air-cut-off-tools-xt200000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 32.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331468922",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": ".5 HP 3 in. Cut-Off Tool",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e6252456-a4fd-4293-995d-05850c8f5364/svn/aircat-air-cut-off-tools-6515-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202591253",
+      "modelNumber": "",
+      "brand": "Powermate",
+      "title": "3 in. Air Utility Cut-Off Tool",
+      "rating": {
+        "average": 4.0,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13d15ec5-1107-4d19-91a2-599a5dba4006/svn/powermate-air-cut-off-tools-024-0089ct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 22.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766972",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 3 in. Cut-Off Tool",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ba3d80c-9c0c-402c-a2d0-7649ec05f7f7/svn/aircat-air-cut-off-tools-6505-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 92.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300010811",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "3 in. Industrial Duty Cut-Off Tool",
+      "rating": {
+        "average": 4.8333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0c1fc33f-9d6b-4361-9db6-664ce7357c99/svn/emax-air-cut-off-tools-hatco30s1p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 65.07,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330541151",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 22 in. Rolling Modular Tool Box Low Profile Handle",
+      "rating": {
+        "average": 4.6588,
+        "count": 592
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c46c623e-679e-44c6-81cf-ac7e3d98bc3c/svn/red-milwaukee-portable-tool-boxes-48-22-8427-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320483663",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pro Gear System Gen 2.0 Stackable Durable 22 in. Modular Tool Box Storage With Heavy Duty Latches and Handles",
+      "rating": {
+        "average": 4.6259,
+        "count": 4932
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20e79c34-a4fb-4408-9597-42b99a91400c/svn/black-ridgid-modular-tool-storage-systems-254067-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334615696",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "PACKOUT 19 in. Rolling Drawer Tool Box",
+      "rating": {
+        "average": 4.4231,
+        "count": 208
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3fc5f4f8-071f-44d5-803c-f38b07adf72c/svn/red-black-milwaukee-portable-tool-boxes-48-22-8420-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333196597",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL SURGE 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+      "rating": {
+        "average": 4.931,
+        "count": 29
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/36e23985-18d7-46f5-b831-5b95a85f9880/svn/milwaukee-impact-drivers-2761-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329528442",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Impact Driver (Tool Only)",
+      "rating": {
+        "average": 4.827,
+        "count": 318
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8a4faed5-f9cf-408f-b58f-c50862909685/svn/dewalt-impact-drivers-dcf860b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320326875",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+      "rating": {
+        "average": 4.7209,
+        "count": 1351
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ed31a212-869a-4b72-86bf-ee1a937fa8d3/svn/milwaukee-impact-drivers-2953-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321180351",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+      "rating": {
+        "average": 4.7922,
+        "count": 1198
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/76c584ce-9f1b-4d15-a012-4076103cf3cc/svn/milwaukee-impact-drivers-3453-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300193508",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL SURGE 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+      "rating": {
+        "average": 4.5583,
+        "count": 4340
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c416e16-396a-4b33-bc4b-0c51dcfb1e06/svn/milwaukee-impact-drivers-2760-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316627328",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless Brushless Compact 1/4 in. Impact Driver (Tool Only)",
+      "rating": {
+        "average": 4.4277,
+        "count": 1494
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/89678aff-b6ca-4c69-90f6-d3c2243418c6/svn/dewalt-impact-drivers-dcf850b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331253709",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V XR Brushless Cordless 1/4 in. Quiet Hydraulic Impact Driver (Tool-Only)",
+      "rating": {
+        "average": 4.5357,
+        "count": 56
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f641a25-1608-4a2f-a4f7-53cef3a8cc65/svn/dewalt-impact-drivers-dcf870b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325543967",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless 1/4 in. 3-Speed Impact Driver (Tool-Only)",
+      "rating": {
+        "average": 4.6623,
+        "count": 154
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8605f92-8232-47c1-96aa-b44c018d02be/svn/dewalt-impact-drivers-dcf845b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310179064",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Compact Router (Tool-Only)",
+      "rating": {
+        "average": 4.7303,
+        "count": 5602
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/edbcda0e-abaf-4db8-8a99-51059e68fc1d/svn/milwaukee-wood-routers-2723-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305964582",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless Fixed Base Compact Router (Tool Only)",
+      "rating": {
+        "average": 4.7361,
+        "count": 1406
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/be397cde-ec5d-47ca-a8eb-6d95fbc3f5ad/svn/dewalt-wood-routers-dcw600b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100341666",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "12 Amp 2-1/4 Horse Power Corded Peak Variable Speed Plunge and Fixed Base Router Kit with Hard Case",
+      "rating": {
+        "average": 4.5405,
+        "count": 1628
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32ab7c95-dead-4532-848c-ebd08b9f9233/svn/bosch-wood-routers-1617evspk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325213705",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 1/2 in. Router (Tool-Only)",
+      "rating": {
+        "average": 4.6111,
+        "count": 90
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e4db4ba-a4f9-4754-9718-338aa4f6b9d8/svn/milwaukee-wood-routers-2838-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 369.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323704010",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Compact Router (Tool Only)",
+      "rating": {
+        "average": 4.5982,
+        "count": 112
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/92985bc3-d2e1-4af4-a708-83b0ac5d9d52/svn/ridgid-wood-routers-r860444b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301687775",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Lithium-Ion Brushless Cordless Variable Speed Compact Router with Built-In LED Light (Tool Only)",
+      "rating": {
+        "average": 4.6634,
+        "count": 4611
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/682f86c0-a421-419a-aae2-df4243486882/svn/makita-wood-routers-xtr01z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304984170",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Cordless Rocket Dual Power Tower Light (Tool-Only)",
+      "rating": {
+        "average": 4.7437,
+        "count": 1916
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cfe657ae-00f2-48ea-9a81-3e175e077de7/svn/milwaukee-jobsite-lighting-2131-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329967178",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Cordless 4500 Lumens ROVER Dual Power Triple-Panel Flood & Area Light (Tool-Only)",
+      "rating": {
+        "average": 4.8313,
+        "count": 326
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7ed61b31-eee5-4aee-bedf-3228edbd6317/svn/milwaukee-jobsite-lighting-2368-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314292849",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 GEN-2 18-Volt Lithium-Ion Cordless 4000 Lumens ROVER LED AC/DC Flood Light (Tool-Only)",
+      "rating": {
+        "average": 4.6791,
+        "count": 832
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a744a4a4-78c6-4fa6-99c0-43ca412ff5e1/svn/milwaukee-jobsite-lighting-2366-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329699545",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "Hybrid Tri-Power Tripod Light (Tool Only)",
+      "rating": {
+        "average": 4.7951,
+        "count": 288
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/316915fc-1750-4dd7-8a1b-646a8294b503/svn/ryobi-jobsite-lighting-pcl691b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313294359",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Cordless 6,000 Lumens Rocket Dual Power Tower Light with Charger (Tool-Only)",
+      "rating": {
+        "average": 4.746,
+        "count": 248
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/95454446-52e8-45aa-99e1-2192fe8ed73e/svn/milwaukee-jobsite-lighting-2136-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329967077",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt 2000 Lumens Lithium-Ion Cordless Rover LED Clamping Flood Light (Tool Only)",
+      "rating": {
+        "average": 4.8154,
+        "count": 65
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a03e6af5-fdff-4f45-8084-e65f6bd3b131/svn/milwaukee-jobsite-lighting-2358-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330544523",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Cordless 1000 Lumens ROVER Compact Folding Flood Light with USB Charging (Tool-Only)",
+      "rating": {
+        "average": 4.8128,
+        "count": 219
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1446994-f6f6-4863-939d-a6f29fabb03a/svn/milwaukee-jobsite-lighting-2359-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317267403",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V XR Cordless 3 in. Cut-Off Tool (Tool Only)",
+      "rating": {
+        "average": 4.5667,
+        "count": 360
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/98c81242-81ec-4df2-8469-92c4c50f698e/svn/dewalt-power-cutting-tools-dcs438b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313438685",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact Cut-Off Tool (Tool Only)",
+      "rating": {
+        "average": 4.5685,
+        "count": 1562
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6e099a75-a9b4-4838-b3d8-57a1fad977ab/svn/ryobi-power-cutting-tools-psbcs02b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339349674",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless PVC Pipe Shear with M12 12V Lithium-Ion Cordless Copper Tubing Cutter (Tools-Only)",
+      "rating": {
+        "average": 4.2088,
+        "count": 977
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bfd52aa1-b1ad-4565-8816-ed565a688435/svn/milwaukee-power-cutting-tools-2470-20-2471-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 393.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196530",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Copper Tubing Cutter (Tool-Only)",
+      "rating": {
+        "average": 4.1063,
+        "count": 997
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a9cf34cb-c6dd-4d35-a884-9062cb8207ba/svn/milwaukee-power-cutting-tools-2471-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 164.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196528",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless PVC Pipe Shear (Tool-Only)",
+      "rating": {
+        "average": 4.4313,
+        "count": 575
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6d922931-3d45-43a7-8ef4-ef6c9e9d74c9/svn/milwaukee-power-cutting-tools-2470-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334919563",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in.-1 in. Steel Pipe Cutter (Tool-Only)",
+      "rating": {
+        "average": 4.7143,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/62e838cf-df4d-41f7-8158-74916d27660f/svn/milwaukee-power-cutting-tools-3469-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 435.52,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315965829",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18-Volt Lithium-Ion Cordless HammerVac HEPA Filtered Dust Extractor for 1 in. SDS Plus Rotary Hammer (Tool-Only)",
+      "rating": {
+        "average": 4.6491,
+        "count": 57
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b3c64551-46e2-4fef-af81-c617ba7d542f/svn/milwaukee-dust-collectors-2912-de-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308681787",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V Max Cordless Dust Extractor Kit (Tool Only)",
+      "rating": {
+        "average": 3.6667,
+        "count": 30
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e24319df-9265-4bdb-a282-be137297978d/svn/dewalt-dust-collectors-dcv585b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 584.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334549390",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Mechanics Tool Set (280-Piece)",
+      "rating": {
+        "average": 4.5007,
+        "count": 4194
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ede11586-0a4c-49ff-a3d5-fb8243b1187c/svn/husky-mechanics-tool-sets-h280mts-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331027272",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "1/4 in., 3/8 in. and 1/2 in. Drive Mechanics Tool Set (300-Piece)",
+      "rating": {
+        "average": 4.5007,
+        "count": 4194
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8c5a0292-2f21-4447-ad52-4c89cdfc7315/svn/husky-mechanics-tool-sets-h300mts-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100615066",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 1/4 in. Hex Screwdriver Kit with Two 1.5Ah Batteries, Charger and Tool Bag",
+      "rating": {
+        "average": 4.695,
+        "count": 2400
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/01966a6a-3609-4427-975f-795864bdf959/svn/milwaukee-electric-screwdrivers-2401-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309613814",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment (Tool Only)",
+      "rating": {
+        "average": 4.1215,
+        "count": 107
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b2e26df7-ce55-4c7f-be20-bfd1332425b3/svn/ridgid-electric-screwdrivers-r86630b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203835505",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex 2-Speed Screwdriver (Tool-Only)",
+      "rating": {
+        "average": 4.7675,
+        "count": 856
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/981c021e-db06-41e4-927a-e947b4b74fc3/svn/milwaukee-electric-screwdrivers-2402-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322342179",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "80V max (40V max X2) XGT Brushless Cordless 14 in. Power Cutter Kit (8.0Ah)",
+      "rating": {
+        "average": 4.3333,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/34560d28-8323-4048-807d-d98a0587d419/svn/makita-concrete-saws-gec01pl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314942336",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V X2 (36V) LXT Lithium\u2011Ion Brushless Cordless 9 in. Power Cutter Kit, with AFT, Electric Brake, 4 Batteries (5.0 Ah)",
+      "rating": {
+        "average": 4.4286,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0add165-f232-4470-82b9-e8dba7d8a8ac/svn/makita-concrete-saws-xec01pt1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332702834",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "40V max XGT Brushless Cordless 9 in. Power Cutter Kit (5.0 Ah)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3b7b5ee8-0eab-4cc2-aa5f-ab2eff0c38e2/svn/makita-concrete-saws-gec03t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 949.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322342183",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "80V max (40V max X2) XGT Brushless Cordless 14 in. Power Cutter Kit with 4 Batteries (8.0Ah)",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0dc52456-067b-40f6-9139-8fa2d773e958/svn/makita-concrete-saws-gec01pl4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2849.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332702853",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "40V max XGT Brushless Cordless 9 in. Power Cutter (Tool Only)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7b4c77ac-e773-414c-a580-41acdab358d4/svn/makita-concrete-saws-gec03z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205561439",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless 1/4 in. Hex 2-Speed Right Angle Impact Driver (Tool-Only)",
+      "rating": {
+        "average": 4.529,
+        "count": 138
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/355e2a4e-6a53-4c64-98f7-9f4e1f85dcad/svn/milwaukee-right-angle-drills-2667-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320222353",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 10 in. Variable Speed Random Orbit Buffer (Tool Only)",
+      "rating": {
+        "average": 4.585,
+        "count": 253
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b2af7254-09de-40d7-853f-70b048071fef/svn/ryobi-polishers-pcl465b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317847150",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL18V Lithium-Ion Brushless Cordless 15MM DA Polisher (Tool-Only)",
+      "rating": {
+        "average": 4.6463,
+        "count": 229
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f29c1e50-2e09-4429-9364-245604529a4d/svn/milwaukee-polishers-2684-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207163625",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 7 in. Variable Speed Polisher (Tool-Only)",
+      "rating": {
+        "average": 4.6902,
+        "count": 326
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ad9ddfb0-54e3-44e2-8269-79a1161ec298/svn/milwaukee-polishers-2738-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320459258",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL18V Lithium-Ion Brushless Cordless 21MM DA Polisher (Tool-Only)",
+      "rating": {
+        "average": 4.6145,
+        "count": 83
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/87f661ab-5166-4e17-a1dd-b54fc7a2ac92/svn/milwaukee-polishers-2685-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312029291",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless 7 in. Variable Speed Rotary Polisher (Tool Only)",
+      "rating": {
+        "average": 4.2195,
+        "count": 41
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dd38c796-91f1-4ca1-9375-8898b281b752/svn/dewalt-polishers-dcm849b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 251.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314110758",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V 5 in. Variable Speed Dual Action Polisher (Tool Only)",
+      "rating": {
+        "average": 4.3542,
+        "count": 384
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/60e87d98-de1e-49b9-ac17-e9989b89af0c/svn/ryobi-polishers-pbf100b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313856451",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless 5 in. Variable Speed Random Orbit Polisher (Tool Only)",
+      "rating": {
+        "average": 4.6071,
+        "count": 56
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d0329fc-7d0b-4e69-8b53-ccc331072af3/svn/dewalt-polishers-dcm848b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204463218",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless Oscillating Multi-Tool (Tool-Only)",
+      "rating": {
+        "average": 4.628,
+        "count": 6344
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b24ee631-ece6-4ae7-9f9b-a4c3fcdb90f8/svn/milwaukee-oscillating-tools-2626-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987594",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Oscillating Multi-Tool (Tool Only)",
+      "rating": {
+        "average": 4.3823,
+        "count": 1933
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eb6e170c-9cf7-49f4-8083-74ce74ac1806/svn/ryobi-oscillating-tools-pcl430b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318430879",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Sub-Compact Lithium-Ion Brushless StarlockMax Cordless Multi-Tool (Tool Only)",
+      "rating": {
+        "average": 4.6699,
+        "count": 309
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e2d34c44-f380-4fdf-bfe2-4bb0cb2e6dc5/svn/makita-oscillating-tools-xmt04zb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314292748",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool (Tool-Only)",
+      "rating": {
+        "average": 4.7661,
+        "count": 1941
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8eae3dc4-d5bd-4611-b5c0-5e6ea3a2314c/svn/milwaukee-oscillating-tools-2836-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641113",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Multi-Tool with 18V (2) 4.0 Ah Batteries and Charger Kit",
+      "rating": {
+        "average": 4.7778,
+        "count": 3632
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b9f8f92e-0920-44e3-b009-d6b644deaa50/svn/ridgid-oscillating-tools-ac93044sbn-r86242b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 426.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958665",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Oscillating Multi-Tool with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+      "rating": {
+        "average": 4.7587,
+        "count": 3614
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/901c7b04-940b-432a-982f-afbf070eb569/svn/ridgid-oscillating-tools-r86241b-ac93044sbn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 386.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205302496",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Lithium-Ion Cordless Variable Speed Oscillating Multi-Tool (Tool-Only) With Blade and Accessory Adapters",
+      "rating": {
+        "average": 4.6488,
+        "count": 4322
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/18f38ded-fab1-4026-bc73-5c69b3b845a0/svn/makita-oscillating-tools-xmt03z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313294375",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Oscillating Multi-Tool (Tool-Only)",
+      "rating": {
+        "average": 4.7884,
+        "count": 1583
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c5db317f-a41e-41d3-ae7d-f6778642f263/svn/milwaukee-oscillating-tools-2526-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327655219",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Multi-Tool (Tool Only)",
+      "rating": {
+        "average": 4.6707,
+        "count": 246
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/33769dc6-8710-4f2c-999b-81698f805552/svn/ridgid-oscillating-tools-r86242b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331504592",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with FREE 18V Brushless Multi-Tool",
+      "rating": {
+        "average": 4.7715,
+        "count": 963
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c3fa8343-8d9f-4e5a-8d20-574d114b0624/svn/ridgid-oscillating-tools-ac8609340sb-r86242b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327055449",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Oscillating Multi-Tool (Tool Only)",
+      "rating": {
+        "average": 4.605,
+        "count": 362
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/41903a6f-fb16-4fc8-8676-e216f8052777/svn/ryobi-oscillating-tools-pblmt51b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313829283",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "1-3/8 in. Titanium Bi-Metal Universal Fit Wood and Metal Cutting Multi-Tool Oscillating Blade (3-Pack)",
+      "rating": {
+        "average": 4.1806,
+        "count": 1091
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b5f0619f-a5c5-41d2-a50c-59ce66d9ef5e/svn/milwaukee-oscillating-tool-attachments-49-25-1233-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 34.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314892336",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "4-Piece Wood and Metal Oscillating Multi-Tool Blade Set",
+      "rating": {
+        "average": 4.4526,
+        "count": 285
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/70bb953f-ec66-4709-a74d-64cc57d36528/svn/ryobi-oscillating-tool-attachments-a24402-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311644914",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "1-3/8 in. High Carbon Steel Universal Fit Wood Cutting Multi-Tool Oscillating Blade (3-Pack)",
+      "rating": {
+        "average": 4.25,
+        "count": 1248
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8b05e8c1-94ce-44f3-a4af-c2592901612f/svn/milwaukee-oscillating-tool-attachments-49-25-1103-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313721486",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Multi-Tool Oscillating Blade Kit (5-Piece)",
+      "rating": {
+        "average": 4.3659,
+        "count": 328
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97f17abd-1599-461f-bb65-9a1b3e6e7ad6/svn/milwaukee-oscillating-tool-attachments-49-10-9211-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 41.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313721607",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Oscillating Multi-Tool Blade Kit (8-Piece)",
+      "rating": {
+        "average": 4.5125,
+        "count": 240
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38d9bb7b-8358-4b02-97ea-e2abb8518dd8/svn/milwaukee-oscillating-tool-attachments-49-10-9212-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325633421",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Oscillating Multi-Tool Blade Set (8-Piece)",
+      "rating": {
+        "average": 4.6667,
+        "count": 129
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6cf1adc6-fac8-4503-93da-f1292225704e/svn/milwaukee-oscillating-tool-attachments-49-10-9208-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323974692",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Universal Fit OPEN-LOK Diamond MAX Diamond Grit Grout Removal Multi-Tool Blade (1-Pack)",
+      "rating": {
+        "average": 4.0196,
+        "count": 255
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af170d5c-df32-49dc-b7d8-3e9dfd98d9d8/svn/milwaukee-oscillating-tool-attachments-49-25-2272-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325330851",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "1-3/8 in. Nitrus Carbide Universal Fit Extreme Metal Cutting Oscillating Multi-Tool Blade (3-Pack)",
+      "rating": {
+        "average": 3.9439,
+        "count": 303
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d7e7f690-f05c-47bd-873d-235ae8d6da4d/svn/milwaukee-oscillating-tool-attachments-49-25-1563-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330992051",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "4-Piece Wood Oscillating Multi-Tool Blade Set with 16-Piece Oscillating Multi-Tool Blade Accessory Set",
+      "rating": {
+        "average": 4.4429,
+        "count": 727
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b28a2468-0656-4236-8d74-350401de6b2a/svn/ryobi-oscillating-tool-attachments-a24401-a241601-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313833802",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "1-3/8 in. High Carbon Steel Universal Fit Japanese Teeth Hardwood Cutting Multi-Tool Oscillating Blade (3-Pack)",
+      "rating": {
+        "average": 4.213,
+        "count": 338
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ef9335b9-f628-4866-8590-1550dfe7d107/svn/milwaukee-oscillating-tool-attachments-49-25-1133-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 33.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302189324",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "14-Piece Oscillating Multi-Tool Blade Accessory Kit",
+      "rating": {
+        "average": 4.6158,
+        "count": 609
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6db4f3e7-4c57-4377-8460-d045b982fc19/svn/ridgid-oscillating-tool-attachments-ac24j14-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314892334",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "16-Piece Oscillating Multi-Tool Blade Accessory Set",
+      "rating": {
+        "average": 4.4233,
+        "count": 300
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ea1259c8-bdee-4d0a-aec2-2db907460656/svn/ryobi-oscillating-tool-attachments-a241601-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314718820",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "1-1/4 in. AMPED Steel Demon Universal Fit Carbide Teeth Oscillating Tool Blades for Metal",
+      "rating": {
+        "average": 3.9094,
+        "count": 618
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/61b3fd80-ad23-439f-aa06-7c6f25c29a03/svn/diablo-oscillating-tool-attachments-dou125cf3-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323139310",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/2 in. x 18 in. Bandfile (Tool-Only)",
+      "rating": {
+        "average": 4.8547,
+        "count": 289
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7787e846-7dde-4e00-823b-487d4d3e21bf/svn/milwaukee-belt-sanders-2482-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315444524",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1 in. SDS-Plus Rotary Hammer (Tool-Only)",
+      "rating": {
+        "average": 4.8202,
+        "count": 840
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/326dfcfb-9806-40e0-b5ef-401a588ed0d6/svn/milwaukee-rotary-hammers-2912-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319991860",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "XR 20V Lithium-Ion Cordless Rotary Drywall Cut-Out Tool (Tool Only)",
+      "rating": {
+        "average": 4.4967,
+        "count": 151
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/04bea9b9-46c5-46ed-8010-8b7f9db1aa4e/svn/dewalt-rotary-tools-dce555b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300272269",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless Drywall Cut Out Rotary Tool (Tool-Only)",
+      "rating": {
+        "average": 4.4129,
+        "count": 758
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/35e00a94-2a63-44c6-8299-8ff6ae18e31c/svn/milwaukee-rotary-tools-2627-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959010",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V (2) 4.0 Ah Batteries and Charger Kit with 18V Drywall Cut-Out Tool",
+      "rating": {
+        "average": 4.7745,
+        "count": 3583
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/092fbcec-f781-4eef-868e-ae74aa03d9d7/svn/ridgid-rotary-tools-ac93044sbn-r84730b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 366.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203111683",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Rotary Tool (Tool-Only)",
+      "rating": {
+        "average": 4.2873,
+        "count": 1166
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49568b78-861f-4cec-ba2a-bcdd834147fa/svn/milwaukee-rotary-tools-2460-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326190804",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Brushless Rotary Tool (Tool-Only)",
+      "rating": {
+        "average": 4.6432,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d9cc89c9-c02d-4e58-a5c1-ccdf6ec41000/svn/milwaukee-rotary-tools-2525-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320222332",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Cut-Out Tool (Tool Only)",
+      "rating": {
+        "average": 4.4712,
+        "count": 208
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5a51af31-d921-4e2f-9565-1340d61b85e4/svn/ryobi-rotary-tools-pcl540b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203111681",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 3/8 in. Ratchet (Tool-Only)",
+      "rating": {
+        "average": 4.5707,
+        "count": 3683
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7b389695-3db5-4891-9580-1ae87e65258b/svn/milwaukee-cordless-ratchets-2457-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323867902",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL INSIDER 12V Lithium-Ion Brushless Cordless 1/4 in. - 3/8 in. Extended Reach Box Ratchet (Tool-Only)",
+      "rating": {
+        "average": 4.5484,
+        "count": 527
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/44818109-0f00-4571-9a2a-e88b98fbb488/svn/milwaukee-cordless-ratchets-3050-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315442497",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless High Speed 3/8 in. Ratchet (Tool-Only)",
+      "rating": {
+        "average": 4.657,
+        "count": 1271
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a99b18e9-e82c-4261-a633-edd35ab314d5/svn/milwaukee-cordless-ratchets-2567-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321455267",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 3/8 in. Extended Reach High Speed Ratchet (Tool Only)",
+      "rating": {
+        "average": 4.56,
+        "count": 550
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3cac76bc-b18e-4eb3-b48b-12a1788b0ca5/svn/milwaukee-cordless-ratchets-2569-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318631244",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless 3/8 in. Ratchet (Tool Only)",
+      "rating": {
+        "average": 4.4727,
+        "count": 440
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/06e03b77-e5d0-45be-b30e-cd7d1dd66e71/svn/dewalt-cordless-ratchets-dcf513b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318631225",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless 1/2 in. Ratchet (Tool Only)",
+      "rating": {
+        "average": 4.4277,
+        "count": 166
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ee791ff0-f6da-4648-8f59-3cbabd3bc52d/svn/dewalt-cordless-ratchets-dcf512b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328814689",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless 1/4 in. and 3/8 in. Extended Reach Ratchets (Tools Only)",
+      "rating": {
+        "average": 4.5897,
+        "count": 290
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ce04bc06-2150-444a-be18-a8f75506a1e9/svn/ryobi-cordless-ratchets-pblrc2501sb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302451803",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 3/8 in. Ratchet (Tool-Only)",
+      "rating": {
+        "average": 4.7334,
+        "count": 5364
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b6e6ef1-c540-4574-9a8d-555760a045e0/svn/milwaukee-cordless-ratchets-2557-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315733726",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless High Speed 1/4 in. Ratchet (Tool-Only)",
+      "rating": {
+        "average": 4.6598,
+        "count": 873
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9a7aa522-50b0-4c58-aa8b-cfe3ef73c5e0/svn/milwaukee-cordless-ratchets-2566-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323337327",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Multi Size Ratchet (Tool Only)",
+      "rating": {
+        "average": 4.7279,
+        "count": 283
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/63e59766-f0c4-4d8a-87e5-37e8c6c3418c/svn/ryobi-cordless-ratchets-pcl280b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315649179",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless 1-1/4 in. SDS Plus Rotary Hammer (Tool Only)",
+      "rating": {
+        "average": 4.5882,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f528e618-25cb-42ff-a3ab-63a04edfa800/svn/dewalt-rotary-hammers-dch416b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300184970",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1-9/16 in. SDS-Max Rotary Hammer (Tool-Only)",
+      "rating": {
+        "average": 4.6679,
+        "count": 274
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ce6b6f9b-0f82-49ee-a4f0-f4f0bc2ed275/svn/milwaukee-rotary-hammers-2717-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206319947",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless 1 in. SDS Plus L-Shape Rotary Hammer (Tool Only)",
+      "rating": {
+        "average": 4.6605,
+        "count": 377
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/df20c6c2-d802-4df9-8e38-455fa3f7c38d/svn/dewalt-rotary-hammers-dch273b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330543152",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 5/8 in. SDS-Plus Rotary Hammer (Tool-Only)",
+      "rating": {
+        "average": 4.4348,
+        "count": 23
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/44199d53-14f7-4aa1-acda-ba089d5da764/svn/milwaukee-rotary-hammers-2908-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323509690",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Brushless Cordless 1 in. SDS-Plus D-Handle Rotary Hammer (Tool-Only)",
+      "rating": {
+        "average": 4.6478,
+        "count": 230
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab611fa0-1e27-469f-9c05-219ba3e62e58/svn/milwaukee-rotary-hammers-2613-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    }
+  ]
 }

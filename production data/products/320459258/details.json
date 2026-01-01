@@ -1,0 +1,45 @@
+{
+  "productId": "320459258",
+  "identifiers": {
+    "internetNumber": "320459258",
+    "modelNumber": "",
+    "storeSkuNumber": "320459258"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL18V Lithium-Ion Brushless Cordless 21MM DA Polisher (Tool-Only)",
+  "shortDescription": "M18 FUEL18V Lithium-Ion Brushless Cordless 21MM DA Polisher (Tool-Only)",
+  "longDescription": "M18 FUEL18V Lithium-Ion Brushless Cordless 21MM DA Polisher (Tool-Only)",
+  "pricing": {
+    "currentPrice": 349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6145,
+    "count": 83
+  },
+  "media": {
+    "primaryImage": "/products/320459258/milwaukee-polishers-2685-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320459258/milwaukee-polishers-2685-20-64_100.jpg",
+        "altText": "M18 FUEL18V Lithium-Ion Brushless Cordless 21MM DA Polisher (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.692454"
+}

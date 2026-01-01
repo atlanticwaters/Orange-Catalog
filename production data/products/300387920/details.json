@@ -1,0 +1,45 @@
+{
+  "productId": "300387920",
+  "identifiers": {
+    "internetNumber": "300387920",
+    "modelNumber": "",
+    "storeSkuNumber": "300387920"
+  },
+  "brand": {
+    "name": "Shell Rotella",
+    "logoUrl": "images/brands/shell-rotella.svg"
+  },
+  "title": "T4 Triple Protection SAE 15W-40 Diesel Motor Oil 1 Gal.",
+  "shortDescription": "T4 Triple Protection SAE 15W-40 Diesel Motor Oil 1 Gal.",
+  "longDescription": "T4 Triple Protection SAE 15W-40 Diesel Motor Oil 1 Gal.",
+  "pricing": {
+    "currentPrice": 15.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7918,
+    "count": 341
+  },
+  "media": {
+    "primaryImage": "/products/300387920/shell-rotella-motor-oil-550045126-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300387920/shell-rotella-motor-oil-550045126-64_100.jpg",
+        "altText": "T4 Triple Protection SAE 15W-40 Diesel Motor Oil 1 Gal.",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.635468"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "204821020",
+  "identifiers": {
+    "internetNumber": "204821020",
+    "modelNumber": "",
+    "storeSkuNumber": "204821020"
+  },
+  "brand": {
+    "name": "Florida Pneumatic",
+    "logoUrl": "images/brands/florida-pneumatic.svg"
+  },
+  "title": "5 in. Straight Handle Needle Scaler",
+  "shortDescription": "5 in. Straight Handle Needle Scaler",
+  "longDescription": "5 in. Straight Handle Needle Scaler",
+  "pricing": {
+    "currentPrice": 267.3,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/204821020/florida-pneumatic-air-hammers-fp-1061a-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204821020/florida-pneumatic-air-hammers-fp-1061a-64_100.jpg",
+        "altText": "5 in. Straight Handle Needle Scaler",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.628858"
+}

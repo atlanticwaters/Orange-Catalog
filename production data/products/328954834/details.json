@@ -1,0 +1,45 @@
+{
+  "productId": "328954834",
+  "identifiers": {
+    "internetNumber": "328954834",
+    "modelNumber": "",
+    "storeSkuNumber": "328954834"
+  },
+  "brand": {
+    "name": "Porter-Cable",
+    "logoUrl": "images/brands/porter-cable.svg"
+  },
+  "title": "1/4 in. Air Right-Angle Die Grinder",
+  "shortDescription": "1/4 in. Air Right-Angle Die Grinder",
+  "longDescription": "1/4 in. Air Right-Angle Die Grinder",
+  "pricing": {
+    "currentPrice": 46.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7,
+    "count": 10
+  },
+  "media": {
+    "primaryImage": "/products/328954834/porter-cable-air-grinders-pxcm024-0275-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328954834/porter-cable-air-grinders-pxcm024-0275-64_100.jpg",
+        "altText": "1/4 in. Air Right-Angle Die Grinder",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.500559"
+}

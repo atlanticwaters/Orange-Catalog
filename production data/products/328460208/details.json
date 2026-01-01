@@ -1,0 +1,45 @@
+{
+  "productId": "328460208",
+  "identifiers": {
+    "internetNumber": "328460208",
+    "modelNumber": "",
+    "storeSkuNumber": "328460208"
+  },
+  "brand": {
+    "name": "Summit Appliance",
+    "logoUrl": "images/brands/summit-appliance.svg"
+  },
+  "title": "24 in. W 10.8 cu. ft. Bottom Freezer Refrigerator in Stainless Look, ENERGY STAR",
+  "shortDescription": "24 in. W 10.8 cu. ft. Bottom Freezer Refrigerator in Stainless Look, ENERGY STAR",
+  "longDescription": "24 in. W 10.8 cu. ft. Bottom Freezer Refrigerator in Stainless Look, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 1134.03,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/328460208/stainless-look-summit-appliance-bottom-freezer-refrigerators-ffbf235pl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328460208/stainless-look-summit-appliance-bottom-freezer-refrigerators-ffbf235pl-64_100.jpg",
+        "altText": "24 in. W 10.8 cu. ft. Bottom Freezer Refrigerator in Stainless Look, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.441630"
+}

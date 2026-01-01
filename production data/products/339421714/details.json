@@ -1,0 +1,45 @@
+{
+  "productId": "339421714",
+  "identifiers": {
+    "internetNumber": "339421714",
+    "modelNumber": "",
+    "storeSkuNumber": "339421714"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "3-Ton Low Profile Floor Jack with Quick Lift and Jack Stands",
+  "shortDescription": "3-Ton Low Profile Floor Jack with Quick Lift and Jack Stands",
+  "longDescription": "3-Ton Low Profile Floor Jack with Quick Lift and Jack Stands",
+  "pricing": {
+    "currentPrice": 188.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4525,
+    "count": 179
+  },
+  "media": {
+    "primaryImage": "/products/339421714/husky-floor-jacks-hd00120-bd-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/339421714/husky-floor-jacks-hd00120-bd-64_100.jpg",
+        "altText": "3-Ton Low Profile Floor Jack with Quick Lift and Jack Stands",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.537308"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "328419310",
+  "identifiers": {
+    "internetNumber": "328419310",
+    "modelNumber": "",
+    "storeSkuNumber": "328419310"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "Bespoke 4.6 cu. ft. Capacity Single Unit AI Laundry Hub Washer with Steam Wash and 7.6 cu. ft. Electric Dryer in White",
+  "shortDescription": "Bespoke 4.6 cu. ft. Capacity Single Unit AI Laundry Hub Washer with Steam Wash and 7.6 cu. ft. Electric Dryer in White",
+  "longDescription": "Bespoke 4.6 cu. ft. Capacity Single Unit AI Laundry Hub Washer with Steam Wash and 7.6 cu. ft. Electric Dryer in White",
+  "pricing": {
+    "currentPrice": 2199.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1702,
+    "count": 47
+  },
+  "media": {
+    "primaryImage": "/products/328419310/white-samsung-laundry-centers-wh46dbh100ew-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328419310/white-samsung-laundry-centers-wh46dbh100ew-64_100.jpg",
+        "altText": "Bespoke 4.6 cu. ft. Capacity Single Unit AI Laundry Hub Washer with Steam Wash and 7.6 cu. ft. Electric Dryer in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.641210"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "326330162",
+  "identifiers": {
+    "internetNumber": "326330162",
+    "modelNumber": "",
+    "storeSkuNumber": "326330162"
+  },
+  "brand": {
+    "name": "Harvest Right",
+    "logoUrl": "images/brands/harvest-right.svg"
+  },
+  "title": "7-Tray X-Large Stainless Steel Home Pro Freeze Dryer with Xl Premier Pump",
+  "shortDescription": "7-Tray X-Large Stainless Steel Home Pro Freeze Dryer with Xl Premier Pump",
+  "longDescription": "7-Tray X-Large Stainless Steel Home Pro Freeze Dryer with Xl Premier Pump",
+  "pricing": {
+    "currentPrice": 4695.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.828,
+    "count": 93
+  },
+  "media": {
+    "primaryImage": "/products/326330162/stainless-steel-harvest-right-dehydrators-hrfdxlss-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326330162/stainless-steel-harvest-right-dehydrators-hrfdxlss-64_100.jpg",
+        "altText": "7-Tray X-Large Stainless Steel Home Pro Freeze Dryer with Xl Premier Pump",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.460944"
+}

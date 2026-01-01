@@ -1,0 +1,426 @@
+{
+  "categoryId": "tools/saws/jigsaws",
+  "name": "Jigsaws",
+  "slug": "jigsaws",
+  "path": "/categories/tools/saws/jigsaws",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.747062",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    },
+    {
+      "label": "Jigsaws",
+      "url": "/tools/saws/jigsaws"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 17
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 4
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 4
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 4
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 3
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 1
+    },
+    {
+      "brandId": "diablo",
+      "brandName": "DIABLO",
+      "logoUrl": "images/brands/diablo.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "305966991",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless Jigsaw (Tool Only)",
+      "rating": {
+        "average": 4.793,
+        "count": 1575
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/568caae1-3b05-4444-a7f7-da8a638381be/svn/dewalt-jigsaws-dcs334b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305658170",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Jig Saw (Tool-Only)",
+      "rating": {
+        "average": 4.8039,
+        "count": 3295
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/75205b75-e01b-4bb4-b3ac-07adbe3e9302/svn/milwaukee-jigsaws-2737-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314109552",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.7329,
+        "count": 1082
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/69f755a5-f573-4e6d-9d6e-3b0a83d80a0b/svn/ryobi-jigsaws-pbljs01b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442787",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX XR Lithium-Ion Cordless Brushless Jigsaw with 20-Volt MAX 5.0 Ah and 2.0 Ah Battery Packs and Charger",
+      "rating": {
+        "average": 4.7845,
+        "count": 1346
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fdd57254-a991-4943-a8cf-4a06708ed4ef/svn/dewalt-jigsaws-dcs334bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318898528",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.7597,
+        "count": 1386
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d8f04eff-d9ee-486d-b617-10118f029358/svn/ryobi-jigsaws-pcl525b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337132198",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Fuel Lithium-Ion Cordless Jig Saw with HIGH OUTPUT XC5. 0 Starter Kit",
+      "rating": {
+        "average": 4.6114,
+        "count": 175
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5d0dbb28-95ed-42f4-bda4-b24949d86723/svn/milwaukee-jigsaws-2545-20-48-59-2450b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 469.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641130",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Jig Saw with (2) 4.0 Ah Batteries, Charger, and Bag",
+      "rating": {
+        "average": 4.7867,
+        "count": 3531
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc310095-e989-4aab-b66c-7a5d351a2e4e/svn/ridgid-jigsaws-r86344b-ac93044sbn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 456.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320221338",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Lithium-Ion Brushless Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.7482,
+        "count": 139
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f8a033d-bba4-4f41-ad06-117b3b90961a/svn/makita-jigsaws-xvj04z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203316449",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.6815,
+        "count": 1058
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5253806-34ec-45c5-bbb3-ea48cd568fba/svn/dewalt-jigsaws-dcs331b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326190782",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Fuel Lithium-Ion Cordless Jig Saw (Tool-Only)",
+      "rating": {
+        "average": 4.6928,
+        "count": 332
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fbcc3d0d-1a76-4b41-a4b7-bc729bf98b11/svn/milwaukee-jigsaws-2545-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959124",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V 6.0 Ah MAX Output Lithium-Ion Batteries (2-Pack) with 18V Brushless Cordless Jig Saw",
+      "rating": {
+        "average": 4.7393,
+        "count": 629
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7bb45809-8695-4fa1-9623-01caba05ae6d/svn/ridgid-jigsaws-ac840060pn-r86344b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 448.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322135296",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Barrel Grip Jig Saw w/5.0Ah Battery Starter Kit",
+      "rating": {
+        "average": 4.5835,
+        "count": 1402
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5caeab47-723e-4cb2-a513-a80af2eb5fed/svn/milwaukee-jigsaws-48-59-1850-2737b-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 439.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205105611",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "4.8 Amp Corded Variable Speed Orbital Jig Saw",
+      "rating": {
+        "average": 4.3013,
+        "count": 1570
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/132e0cec-9f9b-4508-a640-54749501c8e8/svn/ryobi-jigsaws-js481lg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329429373",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact Barrel Grip Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.5833,
+        "count": 144
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a0494ea7-ff56-44b5-976e-52b830a7228a/svn/ryobi-jigsaws-psbjs01b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339742234",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless Barrel Grip Jig Saw\u00a0with FREE 4.0 Ah Lithium-Ion Battery",
+      "rating": {
+        "average": 4.5385,
+        "count": 104
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ee6558b8-3ce0-448c-b4fb-b6c421770422/svn/ridgid-jigsaws-r86346b-ac87004-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325653676",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless Barrel Grip Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.4273,
+        "count": 110
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e550f5d-27de-4df0-a94d-77b14b1f4480/svn/ridgid-jigsaws-r86346b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313115321",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "T-Shank Jig Saw Blade Set (20-Piece)",
+      "rating": {
+        "average": 4.7063,
+        "count": 1597
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/be4ffdf3-7234-43a5-974c-41d7446e9d7d/svn/diablo-jigsaw-blade-djt20s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 25.97,
+        "currency": "USD"
+      }
+    }
+  ]
+}

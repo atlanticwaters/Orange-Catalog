@@ -1,0 +1,45 @@
+{
+  "productId": "312430386",
+  "identifiers": {
+    "internetNumber": "312430386",
+    "modelNumber": "",
+    "storeSkuNumber": "312430386"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hole Hawg 7/16 in. Right Angle Drill W/ Quick-Lok (Tool-Only)",
+  "shortDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hole Hawg 7/16 in. Right Angle Drill W/ Quick-Lok (Tool-Only)",
+  "longDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hole Hawg 7/16 in. Right Angle Drill W/ Quick-Lok (Tool-Only)",
+  "pricing": {
+    "currentPrice": 329.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3212,
+    "count": 193
+  },
+  "media": {
+    "primaryImage": "/products/312430386/milwaukee-right-angle-drills-2808-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312430386/milwaukee-right-angle-drills-2808-20-64_100.jpg",
+        "altText": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hole Hawg 7/16 in. Right Angle Drill W/ Quick-Lok (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.690534"
+}

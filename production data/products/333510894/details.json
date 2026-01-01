@@ -1,0 +1,45 @@
+{
+  "productId": "333510894",
+  "identifiers": {
+    "internetNumber": "333510894",
+    "modelNumber": "",
+    "storeSkuNumber": "333510894"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Cassia Ice Gray Top Grain Leather Arm Chair with Removable Cushions",
+  "shortDescription": "Cassia Ice Gray Top Grain Leather Arm Chair with Removable Cushions",
+  "longDescription": "Cassia Ice Gray Top Grain Leather Arm Chair with Removable Cushions",
+  "pricing": {
+    "currentPrice": 1100.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/333510894/ice-gray-accent-chairs-67259-10v01-lp2515-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333510894/ice-gray-accent-chairs-67259-10v01-lp2515-64_100.jpg",
+        "altText": "Cassia Ice Gray Top Grain Leather Arm Chair with Removable Cushions",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.607833"
+}

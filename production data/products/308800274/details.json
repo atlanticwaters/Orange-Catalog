@@ -1,0 +1,45 @@
+{
+  "productId": "308800274",
+  "identifiers": {
+    "internetNumber": "308800274",
+    "modelNumber": "",
+    "storeSkuNumber": "308800274"
+  },
+  "brand": {
+    "name": "BEHR PREMIUM",
+    "logoUrl": "images/brands/behr-premium.svg"
+  },
+  "title": "1 gal. Slate Gray Self-Priming 1-Part Epoxy Satin Interior/Exterior Concrete and Garage Floor Paint",
+  "shortDescription": "1 gal. Slate Gray Self-Priming 1-Part Epoxy Satin Interior/Exterior Concrete and Garage Floor Paint",
+  "longDescription": "1 gal. Slate Gray Self-Priming 1-Part Epoxy Satin Interior/Exterior Concrete and Garage Floor Paint",
+  "pricing": {
+    "currentPrice": 47.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9178,
+    "count": 2081
+  },
+  "media": {
+    "primaryImage": "/products/308800274/slate-gray-satin-behr-premium-garage-floor-paint-90201-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308800274/slate-gray-satin-behr-premium-garage-floor-paint-90201-64_100.jpg",
+        "altText": "1 gal. Slate Gray Self-Priming 1-Part Epoxy Satin Interior/Exterior Concrete and Garage Floor Paint",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.599137"
+}

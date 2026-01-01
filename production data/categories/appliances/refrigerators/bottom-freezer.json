@@ -1,0 +1,702 @@
+{
+  "categoryId": "appliances/refrigerators/bottom-freezer",
+  "name": "Bottom Freezer",
+  "slug": "bottom-freezer",
+  "path": "/categories/appliances/refrigerators/bottom-freezer",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.708265",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    },
+    {
+      "label": "Bottom Freezer",
+      "url": "/appliances/refrigerators/bottom-freezer"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 29
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 5
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 4
+    },
+    {
+      "brandId": "unique-appliances",
+      "brandName": "Unique Appliances",
+      "logoUrl": "images/brands/unique-appliances.svg",
+      "count": 4
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 3
+    },
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 2
+    },
+    {
+      "brandId": "maytag",
+      "brandName": "Maytag",
+      "logoUrl": "images/brands/maytag.svg",
+      "count": 2
+    },
+    {
+      "brandId": "thor-kitchen",
+      "brandName": "Thor Kitchen",
+      "logoUrl": "images/brands/thor-kitchen.svg",
+      "count": 2
+    },
+    {
+      "brandId": "vissani",
+      "brandName": "Vissani",
+      "logoUrl": "images/brands/vissani.svg",
+      "count": 1
+    },
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 1
+    },
+    {
+      "brandId": "sharp",
+      "brandName": "Sharp",
+      "logoUrl": "images/brands/sharp.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "316674409",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.2372,
+        "count": 957
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dd99414e-d777-4f30-b4d1-0548cb2c1bd3/svn/stainless-steel-vissani-bottom-freezer-refrigerators-mdbf18ss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330243879",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 30 in. 20.3 cu. ft. Bottom Freezer Refrigerator in Smudge-Proof Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.5546,
+        "count": 797
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/09fe5639-6b56-49d4-93a5-e184c593b6d6/svn/stainless-steel-frigidaire-bottom-freezer-refrigerators-grbn2012af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205851875",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "19 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.0231,
+        "count": 477
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8a758e15-e20c-44eb-8027-301eb15fab68/svn/stainless-steel-kitchenaid-bottom-freezer-refrigerators-krbr109ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205851838",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "22 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.1935,
+        "count": 186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9a44eb45-45f5-4e7a-b89b-73727e0a9b14/svn/stainless-steel-kitchenaid-bottom-freezer-refrigerators-krbr102ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205850432",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "20.9 cu. ft. Built-In Bottom Freezer Refrigerator in Stainless Steel, Platinum Interior",
+      "rating": {
+        "average": 3.918,
+        "count": 61
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/abd8765e-1492-4a43-b29c-269757520147/svn/stainless-steel-kitchenaid-bottom-freezer-refrigerators-kbbr306ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8459.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339035524",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20.8 cu.ft. Built-In Bottom Freezer Refrigerator in Stainlss Steel with PrintShield Finish with Platinum Interior",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ce5b2d97-0494-4ab4-88c2-739b7dc0ee49/svn/stainless-steel-with-printshield-finish-kitchenaid-bottom-freezer-refrigerators-kbbr336sps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319240123",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "24.8 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Standard Depth ENERGY STAR",
+      "rating": {
+        "average": 4.2545,
+        "count": 1611
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/29df578f-9919-4aa2-a5cd-b31889d712a0/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gde25eykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205065350",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "22 cu. ft. Bottom Freezer Refrigerator in Stainless Steel with Spill Guard Glass Shelves",
+      "rating": {
+        "average": 4.4515,
+        "count": 12994
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/398aea94-a232-4108-a1d0-9d35baff7f93/svn/stainless-steel-whirlpool-bottom-freezer-refrigerators-wrb322dmbm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312284005",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W 26 cu. ft. Bottom Freezer Refrigerator w/ Multi-Air Flow and Smart Cooling in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.2397,
+        "count": 3046
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/234e8443-3204-4160-ba4d-0e1cdbc8a81e/svn/printproof-stainless-steel-lg-bottom-freezer-refrigerators-lrdcs2603s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318378032",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.7 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.3095,
+        "count": 517
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9fb4be8a-ceff-473e-814b-32836b56439d/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gbe17hyrfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205140689",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "18.7 cu. ft. Bottom Freezer Refrigerator in White",
+      "rating": {
+        "average": 4.3849,
+        "count": 2684
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a499fb3-3d14-4542-89b2-9837bfb271d0/svn/white-whirlpool-bottom-freezer-refrigerators-wrb329dmbw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205065354",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "32.75 in. 22 cu. ft. Bottom Freezer Refrigerator in Black with SPILL GUARD Glass Shelves",
+      "rating": {
+        "average": 4.5035,
+        "count": 11815
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/decf2079-2dd3-4fa3-ab01-f642645cecec/svn/black-whirlpool-bottom-freezer-refrigerators-wrb322dmbb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321134198",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "12 cu. ft. Garage Ready Bottom Freezer Refrigerator in Fingerprint-Resistant Stainless Look",
+      "rating": {
+        "average": 4.5347,
+        "count": 101
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fe872d7e-2b16-405f-8af1-c647b20c3f39/svn/fingerprint-resistant-stainless-look-frigidaire-bottom-freezer-refrigerators-frbg1224av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300095382",
+      "modelNumber": "",
+      "brand": "Maytag",
+      "title": "19 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2614,
+        "count": 547
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/04ac4c36-2400-4e7d-8c88-0a62f99da277/svn/fingerprint-resistant-stainless-steel-maytag-bottom-freezer-refrigerators-mbf1958fez-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331029908",
+      "modelNumber": "",
+      "brand": "Sharp",
+      "title": "24 in. 11.5 cu. ft. Counter Depth Bottom Freezer Refrigerator in Smudge Resistant Stainless Steel ENERGY STAR Certified",
+      "rating": {
+        "average": 4.5278,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/05a7bc56-707d-456d-ac63-5dc70daed6f3/svn/stainless-steel-sharp-bottom-freezer-refrigerators-sjb1255gs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321261066",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Classic Retro 30 in 17.7 cu. ft. Frost Free Retro Bottom Freezer Refrigerator in Marshmallow White, ENERGY STAR",
+      "rating": {
+        "average": 3.85,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/73797e61-f59d-42c0-a067-bb93f3307f5b/svn/marshmallow-white-unique-appliances-bottom-freezer-refrigerators-ugp-510l-w-ac-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300859005",
+      "modelNumber": "",
+      "brand": "Haier",
+      "title": "15.0 cu. ft. Counter Depth Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.4029,
+        "count": 546
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b4c3bc0f-9a96-42b2-9bad-478e4920b3cb/svn/stainless-steel-haier-bottom-freezer-refrigerators-hrb15n3bgs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1439.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330735940",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Classic Retro 23.8 in 11.7 cu. ft. Frost Free Retro Bottom Freezer Refrigerator in Marshmallow White, ENERGY STAR",
+      "rating": {
+        "average": 4.4146,
+        "count": 439
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cd51681a-65a5-477e-b43a-236dc4e0cc3b/svn/marshmallow-white-unique-appliances-bottom-freezer-refrigerators-ugp-340l-w-ac-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330282558",
+      "modelNumber": "",
+      "brand": "Thor Kitchen",
+      "title": "30 in. Panel Ready 16 cu. ft. counter depth Bottom Freezer Refrigerator with internal water dispenser and ice maker",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f27ea0b2-0e29-4b1a-a263-adee6f278b1b/svn/custom-panel-ready-thor-kitchen-bottom-freezer-refrigerators-xrf3016bbp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335560459",
+      "modelNumber": "",
+      "brand": "Thor Kitchen",
+      "title": "X-Series 30 in. 16.1 cu. ft. Counter Depth Panel Ready Bottom Freezer Built-in Fridge w Water Dispenser, Ice Maker in SS",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/18180c20-3ee3-4c6b-8a5f-75c36c1ceae1/svn/stainless-steel-thor-kitchen-bottom-freezer-refrigerators-xrf3016bbp-ss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319236591",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.0 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Standard Depth ENERGY STAR",
+      "rating": {
+        "average": 4.0504,
+        "count": 357
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aec702ba-1040-4948-8d5e-07a952a6e019/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gbe21dykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1579.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300113381",
+      "modelNumber": "",
+      "brand": "Maytag",
+      "title": "22 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.3541,
+        "count": 593
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/04ac4c36-2400-4e7d-8c88-0a62f99da277/svn/fingerprint-resistant-stainless-steel-maytag-bottom-freezer-refrigerators-mbf2258fez-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319240113",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.0 cu. ft. Bottom Freezer in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.1634,
+        "count": 1726
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97513ac6-4b1f-4a46-868c-ddf34b84bd6b/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gde21eykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1979.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321261054",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Classic Retro 30 in 17.7 cu. ft. Frost Free Retro Bottom Freezer Refrigerator in Summer Mint Green, ENERGY STAR",
+      "rating": {
+        "average": 4.4,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d7946db0-30a3-45e6-8cb4-ba39a96e5ab2/svn/summer-mint-green-unique-appliances-bottom-freezer-refrigerators-ugp-510l-lg-ac-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3116.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325607944",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "800 Series 24 in. 12.8 cu. ft. Bottom Freezer Refrigerator in Stainless Steel with Internal Ice Maker, Counter Depth",
+      "rating": {
+        "average": 4.5,
+        "count": 28
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c410c7aa-3b4c-5bf7-80c0-3b71b63f20c9/svn/stainless-steel-bosch-bottom-freezer-refrigerators-b24cb80ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322969395",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 2-Door Panel Ready Bottom Freezer Refrigerator with Internal Water Dispenser",
+      "rating": {
+        "average": 4.6389,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cfbe6860-7949-43f2-87aa-8615468ce885/svn/custom-panel-ready-zline-kitchen-and-bath-bottom-freezer-refrigerators-rbiv-30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6110.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328460208",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 10.8 cu. ft. Bottom Freezer Refrigerator in Stainless Look, ENERGY STAR",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f5f09a5b-5d6e-4efb-90a5-dadb68bf259a/svn/stainless-look-summit-appliance-bottom-freezer-refrigerators-ffbf235pl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1134.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319898032",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Prestige 21.6 in. 8.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.3636,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/91a111c4-f200-4478-9e83-f0d472697a04/svn/stainless-steel-unique-appliances-bottom-freezer-refrigerators-ugp-278l-p-s-s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 849.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328283862",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28 cu. ft Quad Door Bottom Freezer Refrigerator Fingerprint Resistant Stainless w/Dual-Dispense AutoFill Pitcher",
+      "rating": {
+        "average": 4.5704,
+        "count": 412
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6788afa3-d226-4a1a-86a8-e45353eebab3/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pad28bytfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4139.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

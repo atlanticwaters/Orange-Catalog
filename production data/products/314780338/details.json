@@ -1,0 +1,45 @@
+{
+  "productId": "314780338",
+  "identifiers": {
+    "internetNumber": "314780338",
+    "modelNumber": "",
+    "storeSkuNumber": "314780338"
+  },
+  "brand": {
+    "name": "DIABLO",
+    "logoUrl": "images/brands/diablo.svg"
+  },
+  "title": "5-pc Universal Fit General Purpose Oscillating Blade Set",
+  "shortDescription": "5-pc Universal Fit General Purpose Oscillating Blade Set",
+  "longDescription": "5-pc Universal Fit General Purpose Oscillating Blade Set",
+  "pricing": {
+    "currentPrice": 49.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1849,
+    "count": 146
+  },
+  "media": {
+    "primaryImage": "/products/314780338/diablo-oscillating-tool-attachments-dou5s-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314780338/diablo-oscillating-tool-attachments-dou5s-64_100.jpg",
+        "altText": "5-pc Universal Fit General Purpose Oscillating Blade Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.696069"
+}

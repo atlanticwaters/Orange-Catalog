@@ -1,0 +1,45 @@
+{
+  "productId": "324124213",
+  "identifiers": {
+    "internetNumber": "324124213",
+    "modelNumber": "",
+    "storeSkuNumber": "324124213"
+  },
+  "brand": {
+    "name": "Sandberg Furniture",
+    "logoUrl": "images/brands/sandberg-furniture.svg"
+  },
+  "title": "Beringer 60 in. Natural Rectangular Wood Fold Down Console Table",
+  "shortDescription": "Beringer 60 in. Natural Rectangular Wood Fold Down Console Table",
+  "longDescription": "Beringer 60 in. Natural Rectangular Wood Fold Down Console Table",
+  "pricing": {
+    "currentPrice": 614.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/324124213/natural-sandberg-furniture-console-tables-hd0000109-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324124213/natural-sandberg-furniture-console-tables-hd0000109-64_100.jpg",
+        "altText": "Beringer 60 in. Natural Rectangular Wood Fold Down Console Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.551798"
+}

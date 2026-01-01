@@ -1,0 +1,45 @@
+{
+  "productId": "318964428",
+  "identifiers": {
+    "internetNumber": "318964428",
+    "modelNumber": "",
+    "storeSkuNumber": "318964428"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "4V Cordless 1/4 in. Screwdriver",
+  "shortDescription": "4V Cordless 1/4 in. Screwdriver",
+  "longDescription": "4V Cordless 1/4 in. Screwdriver",
+  "pricing": {
+    "currentPrice": 24.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4859,
+    "count": 1484
+  },
+  "media": {
+    "primaryImage": "/products/318964428/ryobi-electric-screwdrivers-fvd01k-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318964428/ryobi-electric-screwdrivers-fvd01k-64_100.jpg",
+        "altText": "4V Cordless 1/4 in. Screwdriver",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.678944"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "304781263",
+  "identifiers": {
+    "internetNumber": "304781263",
+    "modelNumber": "",
+    "storeSkuNumber": "304781263"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "650 ft./lbs. 1/2 in. Impact Wrench",
+  "shortDescription": "650 ft./lbs. 1/2 in. Impact Wrench",
+  "longDescription": "650 ft./lbs. 1/2 in. Impact Wrench",
+  "pricing": {
+    "currentPrice": 99.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2101,
+    "count": 395
+  },
+  "media": {
+    "primaryImage": "/products/304781263/husky-air-impact-wrenches-h4455-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/304781263/husky-air-impact-wrenches-h4455-64_100.jpg",
+        "altText": "650 ft./lbs. 1/2 in. Impact Wrench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.475598"
+}

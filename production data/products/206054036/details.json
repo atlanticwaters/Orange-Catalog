@@ -1,0 +1,45 @@
+{
+  "productId": "206054036",
+  "identifiers": {
+    "internetNumber": "206054036",
+    "modelNumber": "",
+    "storeSkuNumber": "206054036"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "3/8 in. Composite Twin Pawl Ratchet",
+  "shortDescription": "3/8 in. Composite Twin Pawl Ratchet",
+  "longDescription": "3/8 in. Composite Twin Pawl Ratchet",
+  "pricing": {
+    "currentPrice": 125.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/206054036/aircat-air-ratchet-wrenches-802-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206054036/aircat-air-ratchet-wrenches-802-64_100.jpg",
+        "altText": "3/8 in. Composite Twin Pawl Ratchet",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.529545"
+}

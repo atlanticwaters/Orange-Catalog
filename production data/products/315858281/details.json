@@ -1,0 +1,45 @@
+{
+  "productId": "315858281",
+  "identifiers": {
+    "internetNumber": "315858281",
+    "modelNumber": "",
+    "storeSkuNumber": "315858281"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "15 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+  "shortDescription": "15 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+  "longDescription": "15 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+  "pricing": {
+    "currentPrice": 799.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6447,
+    "count": 2803
+  },
+  "media": {
+    "primaryImage": "/products/315858281/white-frigidaire-chest-freezers-ffcl1542aw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/315858281/white-frigidaire-chest-freezers-ffcl1542aw-64_100.jpg",
+        "altText": "15 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.450038"
+}

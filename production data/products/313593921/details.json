@@ -1,0 +1,45 @@
+{
+  "productId": "313593921",
+  "identifiers": {
+    "internetNumber": "313593921",
+    "modelNumber": "",
+    "storeSkuNumber": "313593921"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "ATOMIC 20V MAX Cordless Brushless Oscillating Multi Tool with (1) 20V 2.0Ah Battery and Charger",
+  "shortDescription": "ATOMIC 20V MAX Cordless Brushless Oscillating Multi Tool with (1) 20V 2.0Ah Battery and Charger",
+  "longDescription": "ATOMIC 20V MAX Cordless Brushless Oscillating Multi Tool with (1) 20V 2.0Ah Battery and Charger",
+  "pricing": {
+    "currentPrice": 119.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7391,
+    "count": 2633
+  },
+  "media": {
+    "primaryImage": "/products/313593921/dewalt-oscillating-tools-dcs354d1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313593921/dewalt-oscillating-tools-dcs354d1-64_100.jpg",
+        "altText": "ATOMIC 20V MAX Cordless Brushless Oscillating Multi Tool with (1) 20V 2.0Ah Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.693858"
+}

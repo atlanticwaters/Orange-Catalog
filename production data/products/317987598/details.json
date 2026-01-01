@@ -1,0 +1,45 @@
+{
+  "productId": "317987598",
+  "identifiers": {
+    "internetNumber": "317987598",
+    "modelNumber": "",
+    "storeSkuNumber": "317987598"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (1) 1.5 Ah Battery and Charger",
+  "shortDescription": "ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (1) 1.5 Ah Battery and Charger",
+  "longDescription": "ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (1) 1.5 Ah Battery and Charger",
+  "pricing": {
+    "currentPrice": 59.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6369,
+    "count": 2768
+  },
+  "media": {
+    "primaryImage": "/products/317987598/ryobi-power-drills-pcl206k1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317987598/ryobi-power-drills-pcl206k1-64_100.jpg",
+        "altText": "ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (1) 1.5 Ah Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.658401"
+}

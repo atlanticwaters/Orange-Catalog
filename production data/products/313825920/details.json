@@ -1,0 +1,45 @@
+{
+  "productId": "313825920",
+  "identifiers": {
+    "internetNumber": "313825920",
+    "modelNumber": "",
+    "storeSkuNumber": "313825920"
+  },
+  "brand": {
+    "name": "Costway",
+    "logoUrl": "images/brands/costway.svg"
+  },
+  "title": "14 in. 1.6 cu. ft. Portable Top Load Washing Machine Mini Compact Washer Dryer in White",
+  "shortDescription": "14 in. 1.6 cu. ft. Portable Top Load Washing Machine Mini Compact Washer Dryer in White",
+  "longDescription": "14 in. 1.6 cu. ft. Portable Top Load Washing Machine Mini Compact Washer Dryer in White",
+  "pricing": {
+    "currentPrice": 170.71,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6103,
+    "count": 195
+  },
+  "media": {
+    "primaryImage": "/products/313825920/white-costway-portable-washing-machines-bxd1684-a-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313825920/white-costway-portable-washing-machines-bxd1684-a-64_100.jpg",
+        "altText": "14 in. 1.6 cu. ft. Portable Top Load Washing Machine Mini Compact Washer Dryer in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.556249"
+}

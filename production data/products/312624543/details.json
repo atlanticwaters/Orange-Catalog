@@ -1,0 +1,45 @@
+{
+  "productId": "312624543",
+  "identifiers": {
+    "internetNumber": "312624543",
+    "modelNumber": "",
+    "storeSkuNumber": "312624543"
+  },
+  "brand": {
+    "name": "California Air Tools",
+    "logoUrl": "images/brands/california-air-tools.svg"
+  },
+  "title": "20 Gal. 2.0 HP Ultra Quiet and Oil-Free Electric Air Compressor",
+  "shortDescription": "20 Gal. 2.0 HP Ultra Quiet and Oil-Free Electric Air Compressor",
+  "longDescription": "20 Gal. 2.0 HP Ultra Quiet and Oil-Free Electric Air Compressor",
+  "pricing": {
+    "currentPrice": 496.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3973,
+    "count": 224
+  },
+  "media": {
+    "primaryImage": "/products/312624543/california-air-tools-portable-air-compressors-20020-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312624543/california-air-tools-portable-air-compressors-20020-64_100.jpg",
+        "altText": "20 Gal. 2.0 HP Ultra Quiet and Oil-Free Electric Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.516504"
+}

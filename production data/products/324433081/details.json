@@ -1,0 +1,45 @@
+{
+  "productId": "324433081",
+  "identifiers": {
+    "internetNumber": "324433081",
+    "modelNumber": "",
+    "storeSkuNumber": "324433081"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "7.3 Cu.Ft. Vented Electric Dryer in White with Sensor Dry Technology",
+  "shortDescription": "7.3 Cu.Ft. Vented Electric Dryer in White with Sensor Dry Technology",
+  "longDescription": "7.3 Cu.Ft. Vented Electric Dryer in White with Sensor Dry Technology",
+  "pricing": {
+    "currentPrice": 549.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3243,
+    "count": 1557
+  },
+  "media": {
+    "primaryImage": "/products/324433081/white-lg-electric-dryers-dle6100w-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324433081/white-lg-electric-dryers-dle6100w-64_100.jpg",
+        "altText": "7.3 Cu.Ft. Vented Electric Dryer in White with Sensor Dry Technology",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.524697"
+}

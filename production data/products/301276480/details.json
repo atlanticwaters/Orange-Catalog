@@ -1,0 +1,45 @@
+{
+  "productId": "301276480",
+  "identifiers": {
+    "internetNumber": "301276480",
+    "modelNumber": "",
+    "storeSkuNumber": "301276480"
+  },
+  "brand": {
+    "name": "Green Smart Dekor",
+    "logoUrl": "images/brands/green-smart-dekor.svg"
+  },
+  "title": "40 in. x 80 in. Artificial Lemon Leaf Lattice Screen",
+  "shortDescription": "40 in. x 80 in. Artificial Lemon Leaf Lattice Screen",
+  "longDescription": "40 in. x 80 in. Artificial Lemon Leaf Lattice Screen",
+  "pricing": {
+    "currentPrice": 99.55,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5606,
+    "count": 66
+  },
+  "media": {
+    "primaryImage": "/products/301276480/green-smart-dekor-artificial-hedges-mz-4126-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301276480/green-smart-dekor-artificial-hedges-mz-4126-64_100.jpg",
+        "altText": "40 in. x 80 in. Artificial Lemon Leaf Lattice Screen",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.619428"
+}

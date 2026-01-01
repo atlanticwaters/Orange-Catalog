@@ -1,0 +1,45 @@
+{
+  "productId": "321180351",
+  "identifiers": {
+    "internetNumber": "321180351",
+    "modelNumber": "",
+    "storeSkuNumber": "321180351"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+  "shortDescription": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+  "longDescription": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7922,
+    "count": 1198
+  },
+  "media": {
+    "primaryImage": "/products/321180351/milwaukee-impact-drivers-3453-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321180351/milwaukee-impact-drivers-3453-20-64_100.jpg",
+        "altText": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.661567"
+}

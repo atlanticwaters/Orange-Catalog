@@ -1,0 +1,447 @@
+{
+  "categoryId": "tools/saws/band-saws",
+  "name": "Band Saws",
+  "slug": "band-saws",
+  "path": "/categories/tools/saws/band-saws",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.746204",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    },
+    {
+      "label": "Band Saws",
+      "url": "/tools/saws/band-saws"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 18
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 9
+    },
+    {
+      "brandId": "grizzly-industrial",
+      "brandName": "Grizzly Industrial",
+      "logoUrl": "images/brands/grizzly-industrial.svg",
+      "count": 3
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 3
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 1
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 1
+    },
+    {
+      "brandId": "wen",
+      "brandName": "WEN",
+      "logoUrl": "images/brands/wen.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "337113246",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery",
+      "rating": {
+        "average": 4.7125,
+        "count": 3910
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c88c6a50-c82e-4588-b927-4bf9229f200d/svn/milwaukee-portable-band-saws-2829-20-48-11-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311537759",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Compact Bandsaw (Tool-Only)",
+      "rating": {
+        "average": 4.7024,
+        "count": 1465
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1ca60977-ce11-452f-9013-f562aa666ca2/svn/milwaukee-portable-band-saws-2829-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330545757",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Deep Cut Band Saw (Tool-Only)",
+      "rating": {
+        "average": 4.6732,
+        "count": 1117
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ae8941e-2352-4724-b745-f1a9541c9d32/svn/milwaukee-portable-band-saws-2929-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309893852",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "14 in. 1 HP Bandsaw",
+      "rating": {
+        "average": 4.8289,
+        "count": 228
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fbfc69ed-c38f-492c-9b00-8fe58297fe25/svn/grizzly-industrial-stationary-band-saws-g0555-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 950.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337126517",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Deep Cut Band Saw w/ FORGE XC 8.0 Ah Battery",
+      "rating": {
+        "average": 4.7234,
+        "count": 1822
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c086b52a-e15d-4b42-89aa-8f4ff91a5c0b/svn/milwaukee-portable-band-saws-2929-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315086962",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw XC Kit with One 4.0 Ah Battery, Charger and Bag",
+      "rating": {
+        "average": 4.6784,
+        "count": 510
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/23a87f7c-bd47-48d4-910b-f82fffc7a48b/svn/milwaukee-portable-band-saws-2529-21xc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337131805",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw XC Kit with Copper Tubing Cutter",
+      "rating": {
+        "average": 4.2218,
+        "count": 532
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e3cf597-27fd-42f3-b8fe-b5f6cf38dd67/svn/milwaukee-portable-band-saws-2529-21xc-2471-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315086839",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw (Tool-Only)",
+      "rating": {
+        "average": 4.6809,
+        "count": 749
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0cf7c25d-9eda-47a1-a103-426f4d2c49a3/svn/milwaukee-portable-band-saws-2529-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959118",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V 6.0 Ah MAX Output Lithium-Ion Batteries (2-Pack) with 18V Cordless Compact Band Saw",
+      "rating": {
+        "average": 4.5592,
+        "count": 844
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1eaafb40-13d5-46d1-bc08-1eef663d31aa/svn/ridgid-portable-band-saws-ac840060pn-r8604b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 468.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329477657",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX 3-3/8 in. Cordless Brushless Bandsaw (Tool-Only)",
+      "rating": {
+        "average": 4.5806,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37235716-d1fe-422c-bf36-10e45a71be17/svn/dewalt-portable-band-saws-dcs378b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205503634",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "2.5 Amp 9 in. Corded Band Saw",
+      "rating": {
+        "average": 4.0635,
+        "count": 898
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4ac026f5-b8a4-42f1-8507-963c0da75e92/svn/ryobi-stationary-band-saws-bs904g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331615766",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "17 in. 2 HP Bandsaw with Resaw Fence and Bar",
+      "rating": {
+        "average": 4.1,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4e13b934-5860-4869-b275-b95e115f15d8/svn/grizzly-industrial-stationary-band-saws-g0513z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1450.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321573366",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 1/2 HP Bandsaw",
+      "rating": {
+        "average": 4.5099,
+        "count": 304
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b82f0e6-b159-4552-a3af-1b7225f4ba41/svn/grizzly-industrial-stationary-band-saws-g0948-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 445.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314686799",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless Brushless Compact 1-3/4 in. Bandsaw (Tool Only)",
+      "rating": {
+        "average": 4.6971,
+        "count": 175
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6d54db37-29b9-4ebb-b3f8-23d3bfd9aa4b/svn/dewalt-portable-band-saws-dcs377b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337131804",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw XC Kit with Cut Off Saw, 4.0 Ah Battery, Charger and Bag",
+      "rating": {
+        "average": 4.3726,
+        "count": 1079
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f66c2541-ce21-4c17-b502-8fb3911a3532/svn/milwaukee-portable-band-saws-2529-21xc-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323478266",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "2.8 Amp 9 in. Benchtop Band Saw",
+      "rating": {
+        "average": 4.2613,
+        "count": 287
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0973eddd-e9af-460d-813e-4da55e8ca452/svn/wen-stationary-band-saws-ba3959-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206526040",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless Deep Cut Band Saw (Tool Only)",
+      "rating": {
+        "average": 4.7425,
+        "count": 268
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e9fbcb09-ece4-41ec-959b-fd71bb34206d/svn/dewalt-portable-band-saws-dcs374b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308187655",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "35-3/8 in. 8/10 TPI Compact Extreme Thick Metal Cutting Band Saw Blade (3-Pack) For M18 FUEL/Corded Compact Bandsaw",
+      "rating": {
+        "average": 4.2143,
+        "count": 490
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f91c18f2-d658-4866-bda6-4871ff196cc6/svn/milwaukee-band-saw-blade-48-39-0609-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.97,
+        "currency": "USD"
+      }
+    }
+  ]
+}

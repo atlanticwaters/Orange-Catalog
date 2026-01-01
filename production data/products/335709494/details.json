@@ -1,0 +1,45 @@
+{
+  "productId": "335709494",
+  "identifiers": {
+    "internetNumber": "335709494",
+    "modelNumber": "",
+    "storeSkuNumber": "335709494"
+  },
+  "brand": {
+    "name": "CHRISTOPHER KNIGHT HOME",
+    "logoUrl": "images/brands/christopher-knight-home.svg"
+  },
+  "title": "Lyts Light Green Fabric Upholstery and Wood Accent Chair Armchair",
+  "shortDescription": "Lyts Light Green Fabric Upholstery and Wood Accent Chair Armchair",
+  "longDescription": "Lyts Light Green Fabric Upholstery and Wood Accent Chair Armchair",
+  "pricing": {
+    "currentPrice": 226.22,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/335709494/light-green-christopher-knight-home-accent-chairs-131580-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335709494/light-green-christopher-knight-home-accent-chairs-131580-64_100.jpg",
+        "altText": "Lyts Light Green Fabric Upholstery and Wood Accent Chair Armchair",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.579058"
+}

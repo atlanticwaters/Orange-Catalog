@@ -1,0 +1,45 @@
+{
+  "productId": "312751901",
+  "identifiers": {
+    "internetNumber": "312751901",
+    "modelNumber": "",
+    "storeSkuNumber": "312751901"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "30 in. 1.7 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave",
+  "shortDescription": "30 in. 1.7 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave",
+  "longDescription": "30 in. 1.7 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave",
+  "pricing": {
+    "currentPrice": 248.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.9099,
+    "count": 1654
+  },
+  "media": {
+    "primaryImage": "/products/312751901/fingerprint-resistant-stainless-steel-samsung-over-the-range-microwaves-me17r7021es-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312751901/fingerprint-resistant-stainless-steel-samsung-over-the-range-microwaves-me17r7021es-64_100.jpg",
+        "altText": "30 in. 1.7 cu. ft. 1000 W Fingerprint Resistant Stainless Steel Over-the-Range Microwave",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.448705"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "313130863",
+  "identifiers": {
+    "internetNumber": "313130863",
+    "modelNumber": "",
+    "storeSkuNumber": "313130863"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with Stand and Battery",
+  "shortDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with Stand and Battery",
+  "longDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with Stand and Battery",
+  "pricing": {
+    "currentPrice": 929.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4418,
+    "count": 2218
+  },
+  "media": {
+    "primaryImage": "/products/313130863/milwaukee-miter-saws-2739-21hd-48-08-0551-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313130863/milwaukee-miter-saws-2739-21hd-48-08-0551-64_100.jpg",
+        "altText": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with Stand and Battery",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.672331"
+}

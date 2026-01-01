@@ -1,0 +1,435 @@
+{
+  "categoryId": "tools/saws/reciprocating-saws",
+  "name": "Reciprocating Saws",
+  "slug": "reciprocating-saws",
+  "path": "/categories/tools/saws/reciprocating-saws",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.747941",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    },
+    {
+      "label": "Reciprocating Saws",
+      "url": "/tools/saws/reciprocating-saws"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 18
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 7
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 5
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 4
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 2
+    }
+  ],
+  "products": [
+    {
+      "productId": "331594109",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Super SAWZALL Reciprocating Saw w/M18 REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+      "rating": {
+        "average": 4.7851,
+        "count": 1373
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/785f777c-d8f8-4976-8ef4-16bf9b0a477d/svn/milwaukee-reciprocating-saws-2722-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442896",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX Lithium-Ion Cordless Brushless Reciprocating Saw with 20V MAX 5.0 Ah and 2.0 Ah Battery Packs and Charger",
+      "rating": {
+        "average": 4.6525,
+        "count": 708
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/633554ed-4b9e-4f52-af86-1743123a0436/svn/dewalt-reciprocating-saws-dcs382bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310649299",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium Ion Cordless Grease Gun Kit, 20V MAX Cordless Reciprocating Saw, (1) 20V 4.0Ah Battery, and Charger",
+      "rating": {
+        "average": 4.6332,
+        "count": 1723
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8df1ac33-3828-456a-9545-047e955f97c4/svn/dewalt-air-grease-guns-dcgg571m1w380b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 478.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314292782",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL GEN-2 18V Lithium-Ion Brushless Cordless SAWZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.8095,
+        "count": 1905
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/82b68600-8cf9-47ad-9280-0e4589037575/svn/milwaukee-reciprocating-saws-2821-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316250546",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Brushless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6496,
+        "count": 528
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/46e0c071-5ef1-4d11-83a9-5bf8e8d12708/svn/dewalt-reciprocating-saws-dcs382b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958980",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Reciprocating Saw",
+      "rating": {
+        "average": 4.7257,
+        "count": 813
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c256f87c-bee9-4880-8df5-85cf5c9adc73/svn/ridgid-reciprocating-saws-ac8609340sb-r8647b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 318.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302190765",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7888,
+        "count": 6069
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a3e84f60-44f0-419f-b1ba-e015e46b09e9/svn/milwaukee-reciprocating-saws-2719-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331593998",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw with One 5.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.7217,
+        "count": 2760
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a214bef-eecf-40c4-b1be-f13f72d9f01c/svn/milwaukee-reciprocating-saws-2719-20-48-59-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 409.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307815760",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Super SAWZALL Orbital Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7604,
+        "count": 1035
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c6047e76-a7b7-43b5-a53c-40ff84eaf497/svn/milwaukee-reciprocating-saws-2722-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987585",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.5801,
+        "count": 2141
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b8828aa-e6fb-42b8-b5bf-c8638aefd4d0/svn/ryobi-reciprocating-saws-pcl515b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312742066",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless Brushless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6761,
+        "count": 1655
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/76ea67c1-ee7b-485f-947a-4cf061877a88/svn/dewalt-reciprocating-saws-dcs389b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203164237",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.5957,
+        "count": 14999
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/56a35d1c-b6ef-4231-869b-5a24df325f6e/svn/dewalt-reciprocating-saws-dcs380b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641114",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless One-Handed Reciprocating Saw with 18V (2) 4.0 Ah Batteries and Charger Kit",
+      "rating": {
+        "average": 4.7801,
+        "count": 3824
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f900f1f1-3300-43e9-8cfc-27fdb0f444a1/svn/ridgid-reciprocating-saws-ac93044sbn-r8648b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 376.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205482388",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless SAWZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5837,
+        "count": 4096
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3922c83-cf48-4066-9cda-9dd3cdf990bb/svn/milwaukee-reciprocating-saws-2621-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330351033",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Reciprocating Saw Kit with 4.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7523,
+        "count": 327
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af957b02-1069-4434-bab5-3468583e7ac6/svn/ridgid-reciprocating-saws-r8646k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318370095",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless One-Handed Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6575,
+        "count": 765
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8fd9aa9f-1f18-4bdd-80b6-8b3c6d548440/svn/ridgid-reciprocating-saws-r8648b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196547",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless HACKZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7619,
+        "count": 2402
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/113ac55d-189f-4c98-801c-c21419b68792/svn/milwaukee-reciprocating-saws-2625-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329062475",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact One-Handed Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6667,
+        "count": 231
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a2d0dae1-6be5-4974-9eea-5ac113f9e107/svn/ryobi-reciprocating-saws-psbrs02b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

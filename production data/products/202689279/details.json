@@ -1,0 +1,45 @@
+{
+  "productId": "202689279",
+  "identifiers": {
+    "internetNumber": "202689279",
+    "modelNumber": "",
+    "storeSkuNumber": "202689279"
+  },
+  "brand": {
+    "name": "Best Barns",
+    "logoUrl": "images/brands/best-barns.svg"
+  },
+  "title": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Fortress Floor",
+  "shortDescription": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Fortress Floor",
+  "longDescription": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Fortress Floor",
+  "pricing": {
+    "currentPrice": 5814.29,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/202689279/clear-best-barns-garages-ttitnd24f-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202689279/clear-best-barns-garages-ttitnd24f-64_100.jpg",
+        "altText": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Fortress Floor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.582908"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "205671596",
+  "identifiers": {
+    "internetNumber": "205671596",
+    "modelNumber": "",
+    "storeSkuNumber": "205671596"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "1/2 in. Impact Wrench",
+  "shortDescription": "1/2 in. Impact Wrench",
+  "longDescription": "1/2 in. Impact Wrench",
+  "pricing": {
+    "currentPrice": 191.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7843,
+    "count": 51
+  },
+  "media": {
+    "primaryImage": "/products/205671596/aircat-air-impact-wrenches-1150-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205671596/aircat-air-impact-wrenches-1150-64_100.jpg",
+        "altText": "1/2 in. Impact Wrench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.476220"
+}

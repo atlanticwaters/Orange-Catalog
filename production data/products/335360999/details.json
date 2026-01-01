@@ -1,0 +1,45 @@
+{
+  "productId": "335360999",
+  "identifiers": {
+    "internetNumber": "335360999",
+    "modelNumber": "",
+    "storeSkuNumber": "335360999"
+  },
+  "brand": {
+    "name": "HOMEFUN",
+    "logoUrl": "images/brands/homefun.svg"
+  },
+  "title": "Modern Comfy Light Green Corduroy Lazy Accent Arm Chair with Ottoman Ergonomic Folding Footrest for Small Spaces",
+  "shortDescription": "Modern Comfy Light Green Corduroy Lazy Accent Arm Chair with Ottoman Ergonomic Folding Footrest for Small Spaces",
+  "longDescription": "Modern Comfy Light Green Corduroy Lazy Accent Arm Chair with Ottoman Ergonomic Folding Footrest for Small Spaces",
+  "pricing": {
+    "currentPrice": 140.52,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6667,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/335360999/light-green-homefun-accent-chairs-hfhdhw-860lg-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335360999/light-green-homefun-accent-chairs-hfhdhw-860lg-64_100.jpg",
+        "altText": "Modern Comfy Light Green Corduroy Lazy Accent Arm Chair with Ottoman Ergonomic Folding Footrest for Small Spaces",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.578904"
+}

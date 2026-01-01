@@ -1,0 +1,45 @@
+{
+  "productId": "330141188",
+  "identifiers": {
+    "internetNumber": "330141188",
+    "modelNumber": "",
+    "storeSkuNumber": "330141188"
+  },
+  "brand": {
+    "name": "Nestfair",
+    "logoUrl": "images/brands/nestfair.svg"
+  },
+  "title": "Espresso Brown Wood Frame Queen Platform Bed with Storage Headboard, Shoe Rack and Drawers",
+  "shortDescription": "Espresso Brown Wood Frame Queen Platform Bed with Storage Headboard, Shoe Rack and Drawers",
+  "longDescription": "Espresso Brown Wood Frame Queen Platform Bed with Storage Headboard, Shoe Rack and Drawers",
+  "pricing": {
+    "currentPrice": 620.05,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 6
+  },
+  "media": {
+    "primaryImage": "/products/330141188/espresso-nestfair-platform-beds-pb0079d-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330141188/espresso-nestfair-platform-beds-pb0079d-64_100.jpg",
+        "altText": "Espresso Brown Wood Frame Queen Platform Bed with Storage Headboard, Shoe Rack and Drawers",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.634198"
+}

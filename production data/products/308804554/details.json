@@ -1,0 +1,45 @@
+{
+  "productId": "308804554",
+  "identifiers": {
+    "internetNumber": "308804554",
+    "modelNumber": "",
+    "storeSkuNumber": "308804554"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "3.9 cu. ft. Washer 5.9 cu. ft. Electric Dryer Combo in White, ENERGY STAR",
+  "shortDescription": "3.9 cu. ft. Washer 5.9 cu. ft. Electric Dryer Combo in White, ENERGY STAR",
+  "longDescription": "3.9 cu. ft. Washer 5.9 cu. ft. Electric Dryer Combo in White, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 1574.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3019,
+    "count": 10207
+  },
+  "media": {
+    "primaryImage": "/products/308804554/white-ge-laundry-centers-gud27eesnww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308804554/white-ge-laundry-centers-gud27eesnww-64_100.jpg",
+        "altText": "3.9 cu. ft. Washer 5.9 cu. ft. Electric Dryer Combo in White, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.640834"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "322138444",
+  "identifiers": {
+    "internetNumber": "322138444",
+    "modelNumber": "",
+    "storeSkuNumber": "322138444"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "ATOMIC 20-Volt Lithium-Ion Cordless 1/2 in. Compact Hammer Drill with 3.0Ah Battery, Charger and Bag",
+  "shortDescription": "ATOMIC 20-Volt Lithium-Ion Cordless 1/2 in. Compact Hammer Drill with 3.0Ah Battery, Charger and Bag",
+  "longDescription": "ATOMIC 20-Volt Lithium-Ion Cordless 1/2 in. Compact Hammer Drill with 3.0Ah Battery, Charger and Bag",
+  "pricing": {
+    "currentPrice": 189.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6561,
+    "count": 977
+  },
+  "media": {
+    "primaryImage": "/products/322138444/dewalt-hammer-drills-dcd799l1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322138444/dewalt-hammer-drills-dcd799l1-64_100.jpg",
+        "altText": "ATOMIC 20-Volt Lithium-Ion Cordless 1/2 in. Compact Hammer Drill with 3.0Ah Battery, Charger and Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.677766"
+}

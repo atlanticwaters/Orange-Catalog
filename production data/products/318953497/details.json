@@ -1,0 +1,45 @@
+{
+  "productId": "318953497",
+  "identifiers": {
+    "internetNumber": "318953497",
+    "modelNumber": "",
+    "storeSkuNumber": "318953497"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "28 Cu. Ft. Standard Depth French Door Refrigerator in Stainless Steel, ENERGY STAR",
+  "shortDescription": "28 Cu. Ft. Standard Depth French Door Refrigerator in Stainless Steel, ENERGY STAR",
+  "longDescription": "28 Cu. Ft. Standard Depth French Door Refrigerator in Stainless Steel, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 2699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.496,
+    "count": 7070
+  },
+  "media": {
+    "primaryImage": "/products/318953497/stainless-steel-frigidaire-french-door-refrigerators-frfs2823as-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318953497/stainless-steel-frigidaire-french-door-refrigerators-frfs2823as-64_100.jpg",
+        "altText": "28 Cu. Ft. Standard Depth French Door Refrigerator in Stainless Steel, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.444262"
+}

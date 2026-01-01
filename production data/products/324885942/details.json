@@ -1,0 +1,45 @@
+{
+  "productId": "324885942",
+  "identifiers": {
+    "internetNumber": "324885942",
+    "modelNumber": "",
+    "storeSkuNumber": "324885942"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "2 Amp Battery Charger and Maintainer",
+  "shortDescription": "2 Amp Battery Charger and Maintainer",
+  "longDescription": "2 Amp Battery Charger and Maintainer",
+  "pricing": {
+    "currentPrice": 49.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4615,
+    "count": 65
+  },
+  "media": {
+    "primaryImage": "/products/324885942/ryobi-car-battery-chargers-ac0i2001-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324885942/ryobi-car-battery-chargers-ac0i2001-64_100.jpg",
+        "altText": "2 Amp Battery Charger and Maintainer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.521064"
+}

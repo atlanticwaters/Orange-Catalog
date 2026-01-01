@@ -1,0 +1,45 @@
+{
+  "productId": "332238498",
+  "identifiers": {
+    "internetNumber": "332238498",
+    "modelNumber": "",
+    "storeSkuNumber": "332238498"
+  },
+  "brand": {
+    "name": "SKYSHALO",
+    "logoUrl": "images/brands/skyshalo.svg"
+  },
+  "title": "Air Operated Grease Gun, 6000PSI, 14 oz./400 CC Capacity Heavy Duty Pneumatic Grease Gun, with 18.5 in. Flexible Hose",
+  "shortDescription": "Air Operated Grease Gun, 6000PSI, 14 oz./400 CC Capacity Heavy Duty Pneumatic Grease Gun, with 18.5 in. Flexible Hose",
+  "longDescription": "Air Operated Grease Gun, 6000PSI, 14 oz./400 CC Capacity Heavy Duty Pneumatic Grease Gun, with 18.5 in. Flexible Hose",
+  "pricing": {
+    "currentPrice": 36.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.75,
+    "count": 4
+  },
+  "media": {
+    "primaryImage": "/products/332238498/skyshalo-air-grease-guns-qd18in6000psiexbev0-819-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332238498/skyshalo-air-grease-guns-qd18in6000psiexbev0-819-64_100.jpg",
+        "altText": "Air Operated Grease Gun, 6000PSI, 14 oz./400 CC Capacity Heavy Duty Pneumatic Grease Gun, with 18.5 in. Flexible Hose",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.617124"
+}

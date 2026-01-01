@@ -1,0 +1,45 @@
+{
+  "productId": "302767013",
+  "identifiers": {
+    "internetNumber": "302767013",
+    "modelNumber": "",
+    "storeSkuNumber": "302767013"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "8 in. Composite Geared Sander (3/16 in. Orbit)",
+  "shortDescription": "8 in. Composite Geared Sander (3/16 in. Orbit)",
+  "longDescription": "8 in. Composite Geared Sander (3/16 in. Orbit)",
+  "pricing": {
+    "currentPrice": 288.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 2
+  },
+  "media": {
+    "primaryImage": "/products/302767013/aircat-air-sanders-polishers-6700-8g-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302767013/aircat-air-sanders-polishers-6700-8g-64_100.jpg",
+        "altText": "8 in. Composite Geared Sander (3/16 in. Orbit)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.462399"
+}

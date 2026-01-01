@@ -1,0 +1,45 @@
+{
+  "productId": "203497519",
+  "identifiers": {
+    "internetNumber": "203497519",
+    "modelNumber": "",
+    "storeSkuNumber": "203497519"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Gravity Feed HVLP Spray Gun",
+  "shortDescription": "Gravity Feed HVLP Spray Gun",
+  "longDescription": "Gravity Feed HVLP Spray Gun",
+  "pricing": {
+    "currentPrice": 79.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0563,
+    "count": 213
+  },
+  "media": {
+    "primaryImage": "/products/203497519/husky-pneumatic-paint-sprayers-h4840ghvsg-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203497519/husky-pneumatic-paint-sprayers-h4840ghvsg-64_100.jpg",
+        "altText": "Gravity Feed HVLP Spray Gun",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.642014"
+}

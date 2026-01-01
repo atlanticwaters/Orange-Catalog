@@ -1,0 +1,45 @@
+{
+  "productId": "331594080",
+  "identifiers": {
+    "internetNumber": "331594080",
+    "modelNumber": "",
+    "storeSkuNumber": "331594080"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18V Lithium-Ion REDLITHIUM FORGE 8.0 Ah Battery (2-Pack) with M18 18V Dual Bay Simultaneous Super Charger",
+  "shortDescription": "M18 18V Lithium-Ion REDLITHIUM FORGE 8.0 Ah Battery (2-Pack) with M18 18V Dual Bay Simultaneous Super Charger",
+  "longDescription": "M18 18V Lithium-Ion REDLITHIUM FORGE 8.0 Ah Battery (2-Pack) with M18 18V Dual Bay Simultaneous Super Charger",
+  "pricing": {
+    "currentPrice": 349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7956,
+    "count": 827
+  },
+  "media": {
+    "primaryImage": "/products/331594080/milwaukee-power-tool-batteries-48-59-1881sc-48-11-1881-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331594080/milwaukee-power-tool-batteries-48-59-1881sc-48-11-1881-64_100.jpg",
+        "altText": "M18 18V Lithium-Ion REDLITHIUM FORGE 8.0 Ah Battery (2-Pack) with M18 18V Dual Bay Simultaneous Super Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.657683"
+}

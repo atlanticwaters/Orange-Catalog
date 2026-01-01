@@ -1,0 +1,45 @@
+{
+  "productId": "327018443",
+  "identifiers": {
+    "internetNumber": "327018443",
+    "modelNumber": "",
+    "storeSkuNumber": "327018443"
+  },
+  "brand": {
+    "name": "StyleWell",
+    "logoUrl": "images/brands/stylewell.svg"
+  },
+  "title": "4ft Faux Olive Tree in White Pot",
+  "shortDescription": "4ft Faux Olive Tree in White Pot",
+  "longDescription": "4ft Faux Olive Tree in White Pot",
+  "pricing": {
+    "currentPrice": 74.25,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4706,
+    "count": 17
+  },
+  "media": {
+    "primaryImage": "/products/327018443/stylewell-artificial-trees-t4434-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327018443/stylewell-artificial-trees-t4434-64_100.jpg",
+        "altText": "4ft Faux Olive Tree in White Pot",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.623590"
+}

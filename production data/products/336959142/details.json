@@ -1,0 +1,45 @@
+{
+  "productId": "336959142",
+  "identifiers": {
+    "internetNumber": "336959142",
+    "modelNumber": "",
+    "storeSkuNumber": "336959142"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V (2) 6.0 Ah MAX Output Batteries with 18V Brushless Cordless Compact Router",
+  "shortDescription": "18V (2) 6.0 Ah MAX Output Batteries with 18V Brushless Cordless Compact Router",
+  "longDescription": "18V (2) 6.0 Ah MAX Output Batteries with 18V Brushless Cordless Compact Router",
+  "pricing": {
+    "currentPrice": 448.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6942,
+    "count": 618
+  },
+  "media": {
+    "primaryImage": "/products/336959142/ridgid-wood-routers-ac840060pn-r860444b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336959142/ridgid-wood-routers-ac840060pn-r860444b-64_100.jpg",
+        "altText": "18V (2) 6.0 Ah MAX Output Batteries with 18V Brushless Cordless Compact Router",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.664628"
+}

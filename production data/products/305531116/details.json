@@ -1,0 +1,45 @@
+{
+  "productId": "305531116",
+  "identifiers": {
+    "internetNumber": "305531116",
+    "modelNumber": "",
+    "storeSkuNumber": "305531116"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "Indoor 3.5 ft. Agave Artificial Plant",
+  "shortDescription": "Indoor 3.5 ft. Agave Artificial Plant",
+  "longDescription": "Indoor 3.5 ft. Agave Artificial Plant",
+  "pricing": {
+    "currentPrice": 81.36,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/305531116/nearly-natural-artificial-succulents-6347-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305531116/nearly-natural-artificial-succulents-6347-64_100.jpg",
+        "altText": "Indoor 3.5 ft. Agave Artificial Plant",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.562768"
+}

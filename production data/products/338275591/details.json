@@ -1,0 +1,45 @@
+{
+  "productId": "338275591",
+  "identifiers": {
+    "internetNumber": "338275591",
+    "modelNumber": "",
+    "storeSkuNumber": "338275591"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "4.5 cu. ft. Top Load Washer with Cold Plus and 7.2 cu. ft. Dryer with Auto Dry Set",
+  "shortDescription": "4.5 cu. ft. Top Load Washer with Cold Plus and 7.2 cu. ft. Dryer with Auto Dry Set",
+  "longDescription": "4.5 cu. ft. Top Load Washer with Cold Plus and 7.2 cu. ft. Dryer with Auto Dry Set",
+  "pricing": {
+    "currentPrice": 1698.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3916,
+    "count": 7319
+  },
+  "media": {
+    "primaryImage": "/products/338275591/ge-top-load-washer-dryer-sets-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338275591/ge-top-load-washer-dryer-sets-64_100.jpg",
+        "altText": "4.5 cu. ft. Top Load Washer with Cold Plus and 7.2 cu. ft. Dryer with Auto Dry Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.456139"
+}

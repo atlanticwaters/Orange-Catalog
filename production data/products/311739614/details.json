@@ -1,0 +1,45 @@
+{
+  "productId": "311739614",
+  "identifiers": {
+    "internetNumber": "311739614",
+    "modelNumber": "",
+    "storeSkuNumber": "311739614"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "MX FUEL Lithium-Ion Cordless 1-1/8 in. Breaker with Battery and Charger",
+  "shortDescription": "MX FUEL Lithium-Ion Cordless 1-1/8 in. Breaker with Battery and Charger",
+  "longDescription": "MX FUEL Lithium-Ion Cordless 1-1/8 in. Breaker with Battery and Charger",
+  "pricing": {
+    "currentPrice": 2899.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3214,
+    "count": 28
+  },
+  "media": {
+    "primaryImage": "/products/311739614/milwaukee-demolition-breaker-hammers-mxf368-1xc-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311739614/milwaukee-demolition-breaker-hammers-mxf368-1xc-64_100.jpg",
+        "altText": "MX FUEL Lithium-Ion Cordless 1-1/8 in. Breaker with Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.698066"
+}

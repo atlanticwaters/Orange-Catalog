@@ -1,0 +1,45 @@
+{
+  "productId": "313829283",
+  "identifiers": {
+    "internetNumber": "313829283",
+    "modelNumber": "",
+    "storeSkuNumber": "313829283"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "1-3/8 in. Titanium Bi-Metal Universal Fit Wood and Metal Cutting Multi-Tool Oscillating Blade (3-Pack)",
+  "shortDescription": "1-3/8 in. Titanium Bi-Metal Universal Fit Wood and Metal Cutting Multi-Tool Oscillating Blade (3-Pack)",
+  "longDescription": "1-3/8 in. Titanium Bi-Metal Universal Fit Wood and Metal Cutting Multi-Tool Oscillating Blade (3-Pack)",
+  "pricing": {
+    "currentPrice": 34.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1806,
+    "count": 1091
+  },
+  "media": {
+    "primaryImage": "/products/313829283/milwaukee-oscillating-tool-attachments-49-25-1233-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313829283/milwaukee-oscillating-tool-attachments-49-25-1233-64_100.jpg",
+        "altText": "1-3/8 in. Titanium Bi-Metal Universal Fit Wood and Metal Cutting Multi-Tool Oscillating Blade (3-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.695002"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "207109224",
+  "identifiers": {
+    "internetNumber": "207109224",
+    "modelNumber": "",
+    "storeSkuNumber": "207109224"
+  },
+  "brand": {
+    "name": "HANSEN BUILDINGS LLC",
+    "logoUrl": "images/brands/hansen-buildings-llc.svg"
+  },
+  "title": "Bridle 30 ft. x 36 ft. x 10 ft. Wood Pole Barn Garage Kit without Floor",
+  "shortDescription": "Bridle 30 ft. x 36 ft. x 10 ft. Wood Pole Barn Garage Kit without Floor",
+  "longDescription": "Bridle 30 ft. x 36 ft. x 10 ft. Wood Pole Barn Garage Kit without Floor",
+  "pricing": {
+    "currentPrice": 25468.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/207109224/multi-hansen-buildings-llc-garages-hansen-3000-building-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/207109224/multi-hansen-buildings-llc-garages-hansen-3000-building-64_100.jpg",
+        "altText": "Bridle 30 ft. x 36 ft. x 10 ft. Wood Pole Barn Garage Kit without Floor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.584240"
+}

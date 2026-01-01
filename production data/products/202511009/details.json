@@ -1,0 +1,45 @@
+{
+  "productId": "202511009",
+  "identifiers": {
+    "internetNumber": "202511009",
+    "modelNumber": "",
+    "storeSkuNumber": "202511009"
+  },
+  "brand": {
+    "name": "Freeman",
+    "logoUrl": "images/brands/freeman.svg"
+  },
+  "title": "Pneumatic Mini Palm Nailer with Cushion Hand Grip and Magnetic Tip",
+  "shortDescription": "Pneumatic Mini Palm Nailer with Cushion Hand Grip and Magnetic Tip",
+  "longDescription": "Pneumatic Mini Palm Nailer with Cushion Hand Grip and Magnetic Tip",
+  "pricing": {
+    "currentPrice": 30.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5532,
+    "count": 47
+  },
+  "media": {
+    "primaryImage": "/products/202511009/freeman-palm-nailers-pmpn-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202511009/freeman-palm-nailers-pmpn-64_100.jpg",
+        "altText": "Pneumatic Mini Palm Nailer with Cushion Hand Grip and Magnetic Tip",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.650888"
+}

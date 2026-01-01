@@ -1,0 +1,45 @@
+{
+  "productId": "301068197",
+  "identifiers": {
+    "internetNumber": "301068197",
+    "modelNumber": "",
+    "storeSkuNumber": "301068197"
+  },
+  "brand": {
+    "name": "Rust-Oleum",
+    "logoUrl": "images/brands/rust-oleum.svg"
+  },
+  "title": "1 gal. Gloss Clear Concrete and Garage Floor Finish Topcoat",
+  "shortDescription": "1 gal. Gloss Clear Concrete and Garage Floor Finish Topcoat",
+  "longDescription": "1 gal. Gloss Clear Concrete and Garage Floor Finish Topcoat",
+  "pricing": {
+    "currentPrice": 52.48,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.5899,
+    "count": 395
+  },
+  "media": {
+    "primaryImage": "/products/301068197/clear-gloss-rust-oleum-garage-floor-paint-320202-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301068197/clear-gloss-rust-oleum-garage-floor-paint-320202-64_100.jpg",
+        "altText": "1 gal. Gloss Clear Concrete and Garage Floor Finish Topcoat",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.599509"
+}

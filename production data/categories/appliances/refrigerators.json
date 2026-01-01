@@ -1,0 +1,677 @@
+{
+  "categoryId": "appliances/refrigerators",
+  "name": "Refrigerators",
+  "slug": "refrigerators",
+  "path": "/categories/appliances/refrigerators",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.707576",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 28
+  },
+  "featuredBrands": [
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 7
+    },
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 6
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 3
+    },
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 2
+    },
+    {
+      "brandId": "hamilton-beach",
+      "brandName": "Hamilton Beach",
+      "logoUrl": "images/brands/hamilton-beach.svg",
+      "count": 1
+    },
+    {
+      "brandId": "cooler-depot",
+      "brandName": "Cooler Depot",
+      "logoUrl": "images/brands/cooler-depot.svg",
+      "count": 1
+    },
+    {
+      "brandId": "zline-kitchen-and-bath",
+      "brandName": "ZLINE Kitchen and Bath",
+      "logoUrl": "images/brands/zline-kitchen-and-bath.svg",
+      "count": 1
+    },
+    {
+      "brandId": "vissani",
+      "brandName": "Vissani",
+      "logoUrl": "images/brands/vissani.svg",
+      "count": 1
+    },
+    {
+      "brandId": "euhomy",
+      "brandName": "EUHOMY",
+      "logoUrl": "images/brands/euhomy.svg",
+      "count": 1
+    },
+    {
+      "brandId": "velivi",
+      "brandName": "Velivi",
+      "logoUrl": "images/brands/velivi.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "324849975",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "19.4 cu. ft. 36 in. W Counter-Depth 4-Door Refrigerator with PrintShield Finish",
+      "rating": {
+        "average": 4.1311,
+        "count": 122
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a95122f-1e05-4025-bda7-4fe308754b55/svn/printshield-finish-kitchenaid-french-door-refrigerators-krqc506mps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321887244",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "24 cu. ft. Top Mount Freezer Refrigerator with Multi-Flow Air System in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.395,
+        "count": 1200
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3f497801-2304-4a8e-a2c9-caae4c850510/svn/stainless-steel-lg-top-freezer-refrigerators-lhtns2403s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332464407",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "36 in 23.2 cu. ft. Counter-Depth Fingerprint Resistant 4-Door French-Door Refrigerator w/ Dual-Dispense AutoFill Pitcher",
+      "rating": {
+        "average": 4.692,
+        "count": 276
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0512e3d-13c3-402a-9e47-b2d3e994edba/svn/stainless-steel-ge-french-door-refrigerators-pje23bywfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3959.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322717415",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 22 cu. ft. Counter-Depth 4-Door Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.69,
+        "count": 1939
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bed0ba69-3a1a-4c61-8244-19d13d9dd607/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grqc2255bf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316896170",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24 in. 4.44 cu. ft. Undercounter Double Drawer Refrigerator in Black Cabinet/Stainless Doors",
+      "rating": {
+        "average": 3.7241,
+        "count": 29
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6451f21c-f815-4e9e-8401-9ab7236c378e/svn/black-cabinet-stainless-doors-kitchenaid-drawer-refrigerators-kudr204ksb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3059.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316895522",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24 in. 4.29 cu. ft. Undercounter Double Drawer Refrigerator Freezer in Black Cabinet/Stainless Doors",
+      "rating": {
+        "average": 2.4884,
+        "count": 43
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ef809ab0-8cbb-46e9-a205-b23212d96c30/svn/black-cabinet-stainless-doors-kitchenaid-drawer-refrigerators-kudf204ksb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3489.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332164108",
+      "modelNumber": "",
+      "brand": "Hamilton Beach",
+      "title": "8.5 cu. ft. Commercial Refrigerator with Glass Door in Black",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/07268e1a-bab8-4ffd-b35f-ab1122926d37/svn/black-hamilton-beach-freezerless-refrigerators-hbcbc840-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327865243",
+      "modelNumber": "",
+      "brand": "Cooler Depot",
+      "title": "22 in. 9 cu. ft. Glass Door Merchandiser Refrigerator in Black",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/378b0aca-7715-4904-ae3f-caf06464f8b9/svn/black-cooler-depot-freezerless-refrigerators-dxxlsc-235w-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335353977",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "Autograph Edition 24 in. Satin Steel Column Refrigerator with Graphite Gray Interior and Champagne Bronze Accents",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8389023b-e8b5-4485-9c44-eec7aecf4c29/svn/satin-stainless-steel-zline-kitchen-and-bath-freezerless-refrigerators-rcrvz-sn-24-cb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7359.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334664122",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30-in 14.3 cu. ft. Standard Depth Kimchi Refrigerator in Stainless Steel with 14 Bins",
+      "rating": {
+        "average": 3.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f2e079f-31a2-4270-97ee-d607e244bb5e/svn/stainless-steel-lg-freezerless-refrigerators-lk14s8000v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333940126",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28.3 cu. ft. Quad-Door Smart Refrigerator with Dual-Dispense AutoFill Pitcher and Convertible Temp. Zones",
+      "rating": {
+        "average": 4.7143,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dc3e5926-7fef-4e4b-8915-de6e1a352534/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pae28bytfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3959.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332465544",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "36 in. 23.3 cu. ft. Smart Counter-Depth Fingerprint Resistant 4-Door French-Door Refrigerator with Door In Door",
+      "rating": {
+        "average": 4.6848,
+        "count": 92
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02b7ebbd-0a2e-40f5-87e5-aa3f210ffed3/svn/stainless-steel-ge-french-door-refrigerators-pjd23bywfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325590289",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "7.0 cu. ft. Manual Defrost Chest Freezer with LED Light in White Garage Ready",
+      "rating": {
+        "average": 4.4819,
+        "count": 2401
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9878614f-964d-4b00-bd37-513800aa96b8/svn/white-vissani-chest-freezers-hmcf7w5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317602290",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Garage Ready 14.2 cu. ft. Frost Free Defrost Upright Freezer in White",
+      "rating": {
+        "average": 4.5934,
+        "count": 6725
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9b2ec00e-d85d-44a2-95c8-eccf6bc8645c/svn/white-ge-upright-freezers-fuf14qrrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 869.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317602506",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Garage Ready 21.3 cu. ft. Frost Free Defrost Upright Freezer in White",
+      "rating": {
+        "average": 4.5924,
+        "count": 6881
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/09fab6ec-850e-4a45-ae97-e1f63f406381/svn/white-ge-upright-freezers-fuf21qrrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330243877",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "32.6 in. 20 cu. ft. Frost Free Defrost, Garage Ready Upright Freezer in Carbon",
+      "rating": {
+        "average": 4.6389,
+        "count": 2116
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d155989a-92f9-4d43-ac95-77754369d3f7/svn/carbon-frigidaire-upright-freezers-fruf2020an-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1079.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311372548",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "16 cu. ft. Auto Defrost Garage Ready Upright Freezer in White",
+      "rating": {
+        "average": 4.7747,
+        "count": 21098
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c1041f8a-8130-4f02-af1d-b580ab43b2f2/svn/white-frigidaire-upright-freezers-fffu16f2vw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 679.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310534496",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "13 cu. ft. Auto Defrost Garage Ready Upright Freezer in White",
+      "rating": {
+        "average": 4.7805,
+        "count": 21486
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59f3596e-d0de-4896-9a3b-4cf496c32815/svn/white-frigidaire-upright-freezers-fffu13f2vw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317602480",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Garage Ready 17.3 cu. ft. Frost Free Defrost Upright Freezer in White",
+      "rating": {
+        "average": 4.5587,
+        "count": 5989
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f1a7a88-3c9e-4086-9629-d102adec8d71/svn/white-ge-upright-freezers-fuf17qrrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 969.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315858281",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "15 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+      "rating": {
+        "average": 4.6447,
+        "count": 2803
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/408b3bcf-95d2-43bb-8a0c-bba8979e5e34/svn/white-frigidaire-chest-freezers-ffcl1542aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317041849",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "25 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+      "rating": {
+        "average": 4.5381,
+        "count": 1600
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7be6173a-d02b-4915-a0ed-667b577a0dbf/svn/white-frigidaire-chest-freezers-ffcl2542aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317876230",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "20 cu. ft. Frost Free Defrost, Garage Ready Upright Freezer in White, ENERGY STAR",
+      "rating": {
+        "average": 4.6293,
+        "count": 9647
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5610636c-7e9b-4993-ab8c-b88ce97b5d45/svn/white-frigidaire-upright-freezers-ffue2022aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337556967",
+      "modelNumber": "",
+      "brand": "EUHOMY",
+      "title": "15 in. 80 lb. /24H Freestanding/Built-in Full Size Cubes Ice Maker in Black, Freezer Ice Machine in Black",
+      "rating": {
+        "average": 4.4,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/26d5246e-3f66-477e-a51a-19122b448f07/svn/black-euhomy-undercounter-ice-makers-cim010-80bl-e-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 529.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325522941",
+      "modelNumber": "",
+      "brand": "Velivi",
+      "title": "15 in. 127 (12 oz.) Can Freestanding Beverage Cooler Fridge with Adjustable Shelves in Stainless Steel",
+      "rating": {
+        "average": 4.8095,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/36a6517d-5119-4f7a-a201-7fbfc6e7e82c/svn/stainless-steel-velivi-beverage-refrigerators-kmyl100hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 355.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326103670",
+      "modelNumber": "",
+      "brand": "Hooure",
+      "title": "24 in. Built-in/Freestanding Single Zone Beverage Refrigerator with 210 Can(12 oz. )Beverage, Stainless Steel",
+      "rating": {
+        "average": 4.1408,
+        "count": 71
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/237baffd-84cd-4363-b67d-62bc2fee2a73/svn/stainless-steel-hooure-beverage-refrigerators-d2phd-4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324953094",
+      "modelNumber": "",
+      "brand": "Yeego",
+      "title": "24 in. Single Zone 180-Cans Built-In/Freestanding Beverage Refrigerator in Stainless Steel Beer Drink Cooler Fridge",
+      "rating": {
+        "average": 4.1556,
+        "count": 45
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f22326e1-d0a9-4212-9bfb-ac792af6cc78/svn/stainless-steel-yeego-beverage-refrigerators-yeg-bs24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 436.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320488529",
+      "modelNumber": "",
+      "brand": "Honeywell",
+      "title": "19 in. 116-Can Beverage Refrigerator and Cooler, in Stainless Steel, with Digital Thermostat",
+      "rating": {
+        "average": 4.473,
+        "count": 370
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9d8dfaf-d43a-4e1a-8958-4d333fb7f6de/svn/stainless-steel-honeywell-beverage-refrigerators-h115bcs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326580232",
+      "modelNumber": "",
+      "brand": "TITTLA",
+      "title": "24 in. Single Zone 220 Plus Cans Beverage Refrigerator in Silver with 2-Different Door Handle Built-in Beverage Cooler",
+      "rating": {
+        "average": 4.0938,
+        "count": 32
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fa0c2595-f2ae-4d44-85a3-770a78029dfa/svn/silver-stainless-steel-tittla-beverage-refrigerators-kmbr150-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 439.99,
+        "currency": "USD"
+      }
+    }
+  ]
+}

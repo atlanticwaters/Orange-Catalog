@@ -1,0 +1,45 @@
+{
+  "productId": "336958622",
+  "identifiers": {
+    "internetNumber": "336958622",
+    "modelNumber": "",
+    "storeSkuNumber": "336958622"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (6) Cutting Wheels",
+  "shortDescription": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (6) Cutting Wheels",
+  "longDescription": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (6) Cutting Wheels",
+  "pricing": {
+    "currentPrice": 148.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.206,
+    "count": 796
+  },
+  "media": {
+    "primaryImage": "/products/336958622/ridgid-power-cutting-tools-r87547b-ac7cw32-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958622/ridgid-power-cutting-tools-r87547b-ac7cw32-64_100.jpg",
+        "altText": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (6) Cutting Wheels",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.670992"
+}

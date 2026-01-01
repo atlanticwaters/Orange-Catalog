@@ -1,0 +1,45 @@
+{
+  "productId": "320355970",
+  "identifiers": {
+    "internetNumber": "320355970",
+    "modelNumber": "",
+    "storeSkuNumber": "320355970"
+  },
+  "brand": {
+    "name": "Lumax",
+    "logoUrl": "images/brands/lumax.svg"
+  },
+  "title": "Utility Grease Gun",
+  "shortDescription": "Utility Grease Gun",
+  "longDescription": "Utility Grease Gun",
+  "pricing": {
+    "currentPrice": 23.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.2273,
+    "count": 44
+  },
+  "media": {
+    "primaryImage": "/products/320355970/lumax-air-grease-guns-lx-1100-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320355970/lumax-air-grease-guns-lx-1100-64_100.jpg",
+        "altText": "Utility Grease Gun",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.616608"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "300010514",
+  "identifiers": {
+    "internetNumber": "300010514",
+    "modelNumber": "",
+    "storeSkuNumber": "300010514"
+  },
+  "brand": {
+    "name": "EMAX",
+    "logoUrl": "images/brands/emax.svg"
+  },
+  "title": "Industrial Duty High Speed 90 psi Auto Body Saw",
+  "shortDescription": "Industrial Duty High Speed 90 psi Auto Body Saw",
+  "longDescription": "Industrial Duty High Speed 90 psi Auto Body Saw",
+  "pricing": {
+    "currentPrice": 107.23,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/300010514/emax-air-cut-off-tools-hatbs10s1p-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300010514/emax-air-cut-off-tools-hatbs10s1p-64_100.jpg",
+        "altText": "Industrial Duty High Speed 90 psi Auto Body Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.639225"
+}

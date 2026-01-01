@@ -1,0 +1,45 @@
+{
+  "productId": "331290658",
+  "identifiers": {
+    "internetNumber": "331290658",
+    "modelNumber": "",
+    "storeSkuNumber": "331290658"
+  },
+  "brand": {
+    "name": "Paslode",
+    "logoUrl": "images/brands/paslode.svg"
+  },
+  "title": "2 in. Cordless 0\u00b0 Straight Nail Coil Siding and Fencing Nailer",
+  "shortDescription": "2 in. Cordless 0\u00b0 Straight Nail Coil Siding and Fencing Nailer",
+  "longDescription": "2 in. Cordless 0\u00b0 Straight Nail Coil Siding and Fencing Nailer",
+  "pricing": {
+    "currentPrice": 589.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6364,
+    "count": 22
+  },
+  "media": {
+    "primaryImage": "/products/331290658/paslode-siding-nailers-919100-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331290658/paslode-siding-nailers-919100-64_100.jpg",
+        "altText": "2 in. Cordless 0\u00b0 Straight Nail Coil Siding and Fencing Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.528078"
+}

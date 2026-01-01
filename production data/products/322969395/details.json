@@ -1,0 +1,45 @@
+{
+  "productId": "322969395",
+  "identifiers": {
+    "internetNumber": "322969395",
+    "modelNumber": "",
+    "storeSkuNumber": "322969395"
+  },
+  "brand": {
+    "name": "ZLINE Kitchen and Bath",
+    "logoUrl": "images/brands/zline-kitchen-and-bath.svg"
+  },
+  "title": "30 in. 2-Door Panel Ready Bottom Freezer Refrigerator with Internal Water Dispenser",
+  "shortDescription": "30 in. 2-Door Panel Ready Bottom Freezer Refrigerator with Internal Water Dispenser",
+  "longDescription": "30 in. 2-Door Panel Ready Bottom Freezer Refrigerator with Internal Water Dispenser",
+  "pricing": {
+    "currentPrice": 6110.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6389,
+    "count": 36
+  },
+  "media": {
+    "primaryImage": "/products/322969395/custom-panel-ready-zline-kitchen-and-bath-bottom-freezer-refrigerators-rbiv-30-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322969395/custom-panel-ready-zline-kitchen-and-bath-bottom-freezer-refrigerators-rbiv-30-64_100.jpg",
+        "altText": "30 in. 2-Door Panel Ready Bottom Freezer Refrigerator with Internal Water Dispenser",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.441549"
+}

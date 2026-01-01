@@ -1,0 +1,45 @@
+{
+  "productId": "206936914",
+  "identifiers": {
+    "internetNumber": "206936914",
+    "modelNumber": "",
+    "storeSkuNumber": "206936914"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V MAX XR Cordless Brushless 3-1/4 in. Planer (Tool Only)",
+  "shortDescription": "20V MAX XR Cordless Brushless 3-1/4 in. Planer (Tool Only)",
+  "longDescription": "20V MAX XR Cordless Brushless 3-1/4 in. Planer (Tool Only)",
+  "pricing": {
+    "currentPrice": 258.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6675,
+    "count": 403
+  },
+  "media": {
+    "primaryImage": "/products/206936914/dewalt-planers-dcp580b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206936914/dewalt-planers-dcp580b-64_100.jpg",
+        "altText": "20V MAX XR Cordless Brushless 3-1/4 in. Planer (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.662533"
+}

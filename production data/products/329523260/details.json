@@ -1,0 +1,45 @@
+{
+  "productId": "329523260",
+  "identifiers": {
+    "internetNumber": "329523260",
+    "modelNumber": "",
+    "storeSkuNumber": "329523260"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "7.3 cu. ft. Vented SMART Electric Dryer in Matte Black with EasyLoad Door and Sensor Dry Technology",
+  "shortDescription": "7.3 cu. ft. Vented SMART Electric Dryer in Matte Black with EasyLoad Door and Sensor Dry Technology",
+  "longDescription": "7.3 cu. ft. Vented SMART Electric Dryer in Matte Black with EasyLoad Door and Sensor Dry Technology",
+  "pricing": {
+    "currentPrice": 849.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2642,
+    "count": 352
+  },
+  "media": {
+    "primaryImage": "/products/329523260/matte-black-lg-electric-dryers-dle8400be-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329523260/matte-black-lg-electric-dryers-dle8400be-64_100.jpg",
+        "altText": "7.3 cu. ft. Vented SMART Electric Dryer in Matte Black with EasyLoad Door and Sensor Dry Technology",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.524578"
+}

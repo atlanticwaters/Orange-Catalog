@@ -1,0 +1,45 @@
+{
+  "productId": "204617108",
+  "identifiers": {
+    "internetNumber": "204617108",
+    "modelNumber": "",
+    "storeSkuNumber": "204617108"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "3-Ton Floor Garage Car Jack",
+  "shortDescription": "3-Ton Floor Garage Car Jack",
+  "longDescription": "3-Ton Floor Garage Car Jack",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2781,
+    "count": 597
+  },
+  "media": {
+    "primaryImage": "/products/204617108/black-husky-floor-jacks-hd00107-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204617108/black-husky-floor-jacks-hd00107-64_100.jpg",
+        "altText": "3-Ton Floor Garage Car Jack",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.536755"
+}

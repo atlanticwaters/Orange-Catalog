@@ -1,0 +1,45 @@
+{
+  "productId": "337133622",
+  "identifiers": {
+    "internetNumber": "337133622",
+    "modelNumber": "",
+    "storeSkuNumber": "337133622"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M12 FUEL 12V Lithium-Ion Brushless 5-3/8 in. Cordless Circular Saw Kit with Cut Off Saw Batteries and Charger",
+  "shortDescription": "M12 FUEL 12V Lithium-Ion Brushless 5-3/8 in. Cordless Circular Saw Kit with Cut Off Saw Batteries and Charger",
+  "longDescription": "M12 FUEL 12V Lithium-Ion Brushless 5-3/8 in. Cordless Circular Saw Kit with Cut Off Saw Batteries and Charger",
+  "pricing": {
+    "currentPrice": 279.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3406,
+    "count": 1004
+  },
+  "media": {
+    "primaryImage": "/products/337133622/milwaukee-circular-saws-2521-21ho-2522-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337133622/milwaukee-circular-saws-2521-21ho-2522-20-64_100.jpg",
+        "altText": "M12 FUEL 12V Lithium-Ion Brushless 5-3/8 in. Cordless Circular Saw Kit with Cut Off Saw Batteries and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.566519"
+}

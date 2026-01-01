@@ -1,0 +1,45 @@
+{
+  "productId": "302583395",
+  "identifiers": {
+    "internetNumber": "302583395",
+    "modelNumber": "",
+    "storeSkuNumber": "302583395"
+  },
+  "brand": {
+    "name": "Milton Industries, Inc.",
+    "logoUrl": "images/brands/milton-industries-inc.svg"
+  },
+  "title": "1/4 in. NPT Rubber Filler Faucet Spout",
+  "shortDescription": "1/4 in. NPT Rubber Filler Faucet Spout",
+  "longDescription": "1/4 in. NPT Rubber Filler Faucet Spout",
+  "pricing": {
+    "currentPrice": 12.74,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/302583395/milton-industries-inc-air-blow-guns-209-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302583395/milton-industries-inc-air-blow-guns-209-64_100.jpg",
+        "altText": "1/4 in. NPT Rubber Filler Faucet Spout",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.474670"
+}

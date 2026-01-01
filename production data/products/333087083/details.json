@@ -1,0 +1,45 @@
+{
+  "productId": "333087083",
+  "identifiers": {
+    "internetNumber": "333087083",
+    "modelNumber": "",
+    "storeSkuNumber": "333087083"
+  },
+  "brand": {
+    "name": "Harper & Bright Designs",
+    "logoUrl": "images/brands/harper-bright-designs.svg"
+  },
+  "title": "Industrial 59.06 in. Natural Wood Wash Dining Bench, Bed Bench, Shoe Bench, Entryway Bench",
+  "shortDescription": "Industrial 59.06 in. Natural Wood Wash Dining Bench, Bed Bench, Shoe Bench, Entryway Bench",
+  "longDescription": "Industrial 59.06 in. Natural Wood Wash Dining Bench, Bed Bench, Shoe Bench, Entryway Bench",
+  "pricing": {
+    "currentPrice": 198.92,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/333087083/natural-wood-wash-harper-bright-designs-dining-benches-aqq023aae-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333087083/natural-wood-wash-harper-bright-designs-dining-benches-aqq023aae-64_100.jpg",
+        "altText": "Industrial 59.06 in. Natural Wood Wash Dining Bench, Bed Bench, Shoe Bench, Entryway Bench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.552201"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "204823328",
+  "identifiers": {
+    "internetNumber": "204823328",
+    "modelNumber": "",
+    "storeSkuNumber": "204823328"
+  },
+  "brand": {
+    "name": "Bosch",
+    "logoUrl": "images/brands/bosch.svg"
+  },
+  "title": "12 Amp 1-9/16 in. Corded Variable Speed SDS-Max Combination Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+  "shortDescription": "12 Amp 1-9/16 in. Corded Variable Speed SDS-Max Combination Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+  "longDescription": "12 Amp 1-9/16 in. Corded Variable Speed SDS-Max Combination Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+  "pricing": {
+    "currentPrice": 519.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5492,
+    "count": 193
+  },
+  "media": {
+    "primaryImage": "/products/204823328/bosch-rotary-hammers-rh540m-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204823328/bosch-rotary-hammers-rh540m-64_100.jpg",
+        "altText": "12 Amp 1-9/16 in. Corded Variable Speed SDS-Max Combination Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.703548"
+}

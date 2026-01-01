@@ -1,0 +1,719 @@
+{
+  "categoryId": "garage/flooring",
+  "name": "Flooring",
+  "slug": "flooring",
+  "path": "/categories/garage/flooring",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.721183",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Garage",
+      "url": "/garage"
+    },
+    {
+      "label": "Flooring",
+      "url": "/garage/flooring"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 30
+  },
+  "featuredBrands": [
+    {
+      "brandId": "motordeck",
+      "brandName": "MotorDeck",
+      "logoUrl": "images/brands/motordeck.svg",
+      "count": 5
+    },
+    {
+      "brandId": "rust-oleum-epoxyshield",
+      "brandName": "Rust-Oleum EpoxyShield",
+      "logoUrl": "images/brands/rust-oleum-epoxyshield.svg",
+      "count": 5
+    },
+    {
+      "brandId": "behr-premium",
+      "brandName": "BEHR PREMIUM",
+      "logoUrl": "images/brands/behr-premium.svg",
+      "count": 4
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 3
+    },
+    {
+      "brandId": "rust-oleum-rocksolid",
+      "brandName": "Rust-Oleum RockSolid",
+      "logoUrl": "images/brands/rust-oleum-rocksolid.svg",
+      "count": 3
+    },
+    {
+      "brandId": "armorpoxy",
+      "brandName": "ARMORPOXY",
+      "logoUrl": "images/brands/armorpoxy.svg",
+      "count": 3
+    },
+    {
+      "brandId": "vevor",
+      "brandName": "VEVOR",
+      "logoUrl": "images/brands/vevor.svg",
+      "count": 2
+    },
+    {
+      "brandId": "best-barns",
+      "brandName": "Best Barns",
+      "logoUrl": "images/brands/best-barns.svg",
+      "count": 2
+    },
+    {
+      "brandId": "shelterlogic",
+      "brandName": "ShelterLogic",
+      "logoUrl": "images/brands/shelterlogic.svg",
+      "count": 1
+    },
+    {
+      "brandId": "hansen-buildings-llc",
+      "brandName": "HANSEN BUILDINGS LLC",
+      "logoUrl": "images/brands/hansen-buildings-llc.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "204617108",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Floor Garage Car Jack",
+      "rating": {
+        "average": 4.2781,
+        "count": 597
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4727f0ef-a528-4b1e-bd2c-68963e4ba74a/svn/black-husky-floor-jacks-hd00107-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339352621",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Floor Garage Car Jack and Jack Stands",
+      "rating": {
+        "average": 4.3166,
+        "count": 755
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1bb4ff6-d6eb-4668-9f56-1e0129953b37/svn/husky-jack-stands-hd00107-bd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 198.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204820743",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Coin 10x1 ft. Grey Vinyl Garage Flooring Rolls",
+      "rating": {
+        "average": 4.5771,
+        "count": 175
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ea3dd6ff-34e0-4b41-a7b8-0d7c2a698322/svn/grey-husky-garage-flooring-rolls-hk70cn10x1sg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 28.58,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303420003",
+      "modelNumber": "",
+      "brand": "MotorDeck",
+      "title": "12 in. x 12 in. Diamond Graphite Modular Tile Garage Flooring (24-Pack)",
+      "rating": {
+        "average": 4.7413,
+        "count": 201
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/15adc89d-b008-496e-9b07-6b8007835f23/svn/graphite-motordeck-garage-flooring-tiles-g90024grph-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 66.84,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330786027",
+      "modelNumber": "",
+      "brand": "MotorDeck",
+      "title": "Diamond Black 12 in. x 12 in. x 0.5 in. Modular Garage Flooring Tile 48 Pack Covers 48 sq. ft.",
+      "rating": {
+        "average": 4.7413,
+        "count": 201
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/54d0355d-b988-443d-9e53-5ad43f537525/svn/black-motordeck-garage-flooring-tiles-g90048blak-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 143.52,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303419970",
+      "modelNumber": "",
+      "brand": "MotorDeck",
+      "title": "12 in. x 12 in. Diamond Alloy Modular Tile Garage Flooring (24-Pack)",
+      "rating": {
+        "average": 4.7413,
+        "count": 201
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e24289d0-2af4-40eb-b095-4175fc5e9e55/svn/alloy-motordeck-garage-flooring-tiles-g90024ally-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303270844",
+      "modelNumber": "",
+      "brand": "MotorDeck",
+      "title": "12 in. x 12 in. Diamond Black Modular Tile Garage Flooring (24-Pack)",
+      "rating": {
+        "average": 4.7413,
+        "count": 201
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/54d0355d-b988-443d-9e53-5ad43f537525/svn/black-motordeck-garage-flooring-tiles-g90024blak-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 71.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330572846",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Garage Tiles 12 in. W x 12 in. L Garage Floor Covering 50 sq. ft. Tiles Texture 0.53 in. Flooring Tiles Graphite Gray",
+      "rating": {
+        "average": 3.75,
+        "count": 24
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/745ed39d-a271-566a-af2c-f60fc1ec7a32/svn/gray-vevor-garage-flooring-tiles-ckddsmh501212wo1ov0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331520587",
+      "modelNumber": "",
+      "brand": "MotorDeck",
+      "title": "Diamond Graphite 12 in. x 12 in. x 0.5 in. Modular Garage Flooring Tile 48 pack (Covers 48 sq. ft.)",
+      "rating": {
+        "average": 4.7413,
+        "count": 201
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bb4fe269-7e27-4923-8c8e-2177337783f2/svn/graphite-motordeck-garage-flooring-tiles-g90048grph-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 143.52,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330593846",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Garage Tiles 12 in. W x 12 in. L Garage Floor Covering 50 sq. ft. Tiles Texture 0.53 in. Thickness Flooring Tiles",
+      "rating": {
+        "average": 4.2308,
+        "count": 26
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1dd7637e-0c4b-53c0-b270-223d347064ae/svn/black-vevor-garage-flooring-tiles-ckddhsj501212xqf0v0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 91.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202689303",
+      "modelNumber": "",
+      "brand": "Best Barns",
+      "title": "Maker's Loft 12 ft. x 20 ft. Wood Garage Kit with Spacious Loft and FortressFloor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/817f17f3-dc19-487c-a9ba-584bc4d0c654/svn/clear-best-barns-garages-mlofnd20lff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6353.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202689279",
+      "modelNumber": "",
+      "brand": "Best Barns",
+      "title": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Fortress Floor",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/61d4b100-7c02-45d2-aad0-7c6a7df2039b/svn/clear-best-barns-garages-ttitnd24f-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5814.29,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206292645",
+      "modelNumber": "",
+      "brand": "ShelterLogic",
+      "title": "22 ft. W x 24 ft. D x 13 ft. H Green Steel and Polyethylene Garage Without Floorw/ Corrosion-Resistant Steel Frame",
+      "rating": {
+        "average": 3.4078,
+        "count": 206
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6eccc93-fbfa-4759-999a-861dfe318257/svn/green-shelterlogic-garages-82144-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2902.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207109224",
+      "modelNumber": "",
+      "brand": "HANSEN BUILDINGS LLC",
+      "title": "Bridle 30 ft. x 36 ft. x 10 ft. Wood Pole Barn Garage Kit without Floor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/12423da6-9b10-4a61-94e5-e9e6631496c9/svn/multi-hansen-buildings-llc-garages-hansen-3000-building-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 25468.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308800274",
+      "modelNumber": "",
+      "brand": "BEHR PREMIUM",
+      "title": "1 gal. Slate Gray Self-Priming 1-Part Epoxy Satin Interior/Exterior Concrete and Garage Floor Paint",
+      "rating": {
+        "average": 3.9178,
+        "count": 2081
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0da12548-d97e-44df-93d5-c2e123216a80/svn/slate-gray-satin-behr-premium-garage-floor-paint-90201-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314107168",
+      "modelNumber": "",
+      "brand": "Rust-Oleum EpoxyShield",
+      "title": "Epoxyshield 240 oz. Gray High-Gloss, Low Voc 2-Part Epoxy Concrete Basement and Garage Floor Kit",
+      "rating": {
+        "average": 4.0061,
+        "count": 1637
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/65dfbae8-3dc4-4b53-ac52-cae9d6793cb5/svn/gray-rust-oleum-epoxyshield-garage-floor-paint-365187-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 185.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314107181",
+      "modelNumber": "",
+      "brand": "Rust-Oleum EpoxyShield",
+      "title": "240 oz. Dark Gray Gloss 2.5-Car Garage Floor Kit",
+      "rating": {
+        "average": 4.0172,
+        "count": 1512
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9fd3b8e2-5ef5-4740-a7e6-b936fc0bae53/svn/dark-gray-rust-oleum-epoxyshield-garage-floor-paint-365186-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 185.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301068197",
+      "modelNumber": "",
+      "brand": "Rust-Oleum",
+      "title": "1 gal. Gloss Clear Concrete and Garage Floor Finish Topcoat",
+      "rating": {
+        "average": 3.5899,
+        "count": 395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e97aec86-a896-4b54-a95f-1825e753b119/svn/clear-gloss-rust-oleum-garage-floor-paint-320202-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 52.48,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314107317",
+      "modelNumber": "",
+      "brand": "Rust-Oleum EpoxyShield",
+      "title": "90 oz. Clear High-Gloss 2-Part Epoxy Interior Low VOC Premium Concrete Garage Floor Paint Top Coat Kit",
+      "rating": {
+        "average": 3.5536,
+        "count": 336
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/de8e936e-9b44-4579-baf2-9e74eda358af/svn/clear-rust-oleum-epoxyshield-garage-floor-paint-365188-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 185.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314107167",
+      "modelNumber": "",
+      "brand": "Rust-Oleum EpoxyShield",
+      "title": "120 oz. Gray Epoxy 1 Car Garage Floor Paint Kit",
+      "rating": {
+        "average": 4.0087,
+        "count": 1498
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b83f65b-dcda-4fe8-8c06-f9801e5e593c/svn/gray-rust-oleum-epoxyshield-garage-floor-paint-365184-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308800271",
+      "modelNumber": "",
+      "brand": "BEHR PREMIUM",
+      "title": "5 gal. White Self-Priming 1 Part Epoxy Interior/Exterior Concrete and Garage Floor Paint",
+      "rating": {
+        "average": 4.0433,
+        "count": 1063
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a259af01-c5b3-44b0-85e8-ed35cc2e2dbc/svn/white-satin-behr-premium-garage-floor-paint-90005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 212.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325295894",
+      "modelNumber": "",
+      "brand": "Rust-Oleum RockSolid",
+      "title": "180 oz. Gray Polycuramine 2.5 Car Garage Floor Kit",
+      "rating": {
+        "average": 3.4344,
+        "count": 633
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c5d19ee4-5fe8-497c-98eb-6aace00a675a/svn/gray-rust-oleum-rocksolid-garage-floor-paint-293513-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308800270",
+      "modelNumber": "",
+      "brand": "BEHR PREMIUM",
+      "title": "1 gal. White Self-Priming 1-Part Epoxy Satin Interior/Exterior Concrete and Garage Floor Paint",
+      "rating": {
+        "average": 4.0046,
+        "count": 1093
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fb5dc841-841f-4819-a995-8cb00f67a84f/svn/white-satin-behr-premium-garage-floor-paint-90001-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321712851",
+      "modelNumber": "",
+      "brand": "Rust-Oleum RockSolid",
+      "title": "180 oz. Black Polycuramine 2.5-Car Garage Floor Kit",
+      "rating": {
+        "average": 3.9057,
+        "count": 53
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b6c41a76-af43-4678-9ed4-ae1c548afae4/svn/black-rust-oleum-rocksolid-garage-floor-paint-318697-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 206.05,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314107171",
+      "modelNumber": "",
+      "brand": "Rust-Oleum EpoxyShield",
+      "title": "240 oz. Tan Epoxy 1 Car Garage Floor Kit",
+      "rating": {
+        "average": 4.0087,
+        "count": 1493
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/87a3f51d-cd98-4eb7-b77e-abafbaf08e34/svn/tan-rust-oleum-epoxyshield-garage-floor-paint-365185-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.45,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325295896",
+      "modelNumber": "",
+      "brand": "Rust-Oleum RockSolid",
+      "title": "180 oz. Dark Gray Polycuramine 2.5 Car Garage Floor Kit",
+      "rating": {
+        "average": 3.4344,
+        "count": 633
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/338c4470-cd1f-4165-b68c-bb92b7f6c09c/svn/dark-gray-rust-oleum-rocksolid-garage-floor-paint-317284-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 319.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325063871",
+      "modelNumber": "",
+      "brand": "ARMORPOXY",
+      "title": "3 gal. Gray Gloss 2-Part 600 sq.ft. Epoxy Kit Interior Industrial Concrete Basement & Garage Epoxy Floor Paint Kit",
+      "rating": {
+        "average": 4.657,
+        "count": 207
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/10866e73-f731-4300-bd25-1d433321925e/svn/medium-gray-with-flakes-armorpoxy-garage-floor-paint-tp-kit-medgray-l-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326825845",
+      "modelNumber": "",
+      "brand": "ARMORPOXY",
+      "title": "4 Gallon Gray Gloss 2 Part Epoxy Polyaspartic Interior/Exterior Concrete Basement & Garage Roller Squeegee Floor Paint",
+      "rating": {
+        "average": 4.75,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/451d3660-ebd0-4e44-b85d-1f7ec08f1be6/svn/gray-armorpoxy-garage-floor-paint-160030-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1018.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308921349",
+      "modelNumber": "",
+      "brand": "BEHR PREMIUM",
+      "title": "5 gal. #PFC-63 Slate Gray Self-Priming 1-Part Epoxy Satin Interior/Exterior Concrete and Garage Floor Paint",
+      "rating": {
+        "average": 3.7764,
+        "count": 1306
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ac6b9dbe-98a0-40ef-b7b0-6dda528b471d/svn/slate-gray-behr-premium-garage-floor-paint-90005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 212.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326116168",
+      "modelNumber": "",
+      "brand": "ARMORPOXY",
+      "title": "2 Gal. Clear Gloss 2 Part Epoxy Polyaspartic Interior/Exterior, Concrete Basement and Garage Floor Paint",
+      "rating": {
+        "average": 4.3158,
+        "count": 38
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9fba3fe3-bc3e-447a-9e84-4c04e3283d55/svn/clear-armorpoxy-garage-floor-paint-331000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 341.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

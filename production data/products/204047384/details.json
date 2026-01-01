@@ -1,0 +1,45 @@
+{
+  "productId": "204047384",
+  "identifiers": {
+    "internetNumber": "204047384",
+    "modelNumber": "",
+    "storeSkuNumber": "204047384"
+  },
+  "brand": {
+    "name": "Paslode",
+    "logoUrl": "images/brands/paslode.svg"
+  },
+  "title": "Universal Spare Framing Fuel Cell",
+  "shortDescription": "Universal Spare Framing Fuel Cell",
+  "longDescription": "Universal Spare Framing Fuel Cell",
+  "pricing": {
+    "currentPrice": 13.68,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4963,
+    "count": 403
+  },
+  "media": {
+    "primaryImage": "/products/204047384/paslode-fuel-cells-816008-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204047384/paslode-fuel-cells-816008-64_100.jpg",
+        "altText": "Universal Spare Framing Fuel Cell",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.575819"
+}

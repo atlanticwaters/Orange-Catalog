@@ -1,0 +1,45 @@
+{
+  "productId": "301289865",
+  "identifiers": {
+    "internetNumber": "301289865",
+    "modelNumber": "",
+    "storeSkuNumber": "301289865"
+  },
+  "brand": {
+    "name": "Freeman",
+    "logoUrl": "images/brands/freeman.svg"
+  },
+  "title": "Pneumatic 15 Degree 1-3/4 in. Rapid Fire Coil Roofing Nailer",
+  "shortDescription": "Pneumatic 15 Degree 1-3/4 in. Rapid Fire Coil Roofing Nailer",
+  "longDescription": "Pneumatic 15 Degree 1-3/4 in. Rapid Fire Coil Roofing Nailer",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 12
+  },
+  "media": {
+    "primaryImage": "/products/301289865/freeman-roofing-nailers-pcn450-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301289865/freeman-roofing-nailers-pcn450-64_100.jpg",
+        "altText": "Pneumatic 15 Degree 1-3/4 in. Rapid Fire Coil Roofing Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.504606"
+}

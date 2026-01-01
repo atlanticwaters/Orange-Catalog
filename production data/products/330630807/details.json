@@ -1,0 +1,45 @@
+{
+  "productId": "330630807",
+  "identifiers": {
+    "internetNumber": "330630807",
+    "modelNumber": "",
+    "storeSkuNumber": "330630807"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V Dual Function Cordless Inflator (Tool Only) with Valve Adaptor, Needle, (2) Nozzles, and 12V Power Cord",
+  "shortDescription": "18V Dual Function Cordless Inflator (Tool Only) with Valve Adaptor, Needle, (2) Nozzles, and 12V Power Cord",
+  "longDescription": "18V Dual Function Cordless Inflator (Tool Only) with Valve Adaptor, Needle, (2) Nozzles, and 12V Power Cord",
+  "pricing": {
+    "currentPrice": 79.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6603,
+    "count": 209
+  },
+  "media": {
+    "primaryImage": "/products/330630807/ridgid-inflators-r86051b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330630807/ridgid-inflators-r86051b-64_100.jpg",
+        "altText": "18V Dual Function Cordless Inflator (Tool Only) with Valve Adaptor, Needle, (2) Nozzles, and 12V Power Cord",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.512839"
+}

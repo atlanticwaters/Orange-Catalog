@@ -1,0 +1,45 @@
+{
+  "productId": "205644384",
+  "identifiers": {
+    "internetNumber": "205644384",
+    "modelNumber": "",
+    "storeSkuNumber": "205644384"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "Pneumatic 16-Gauge 2-1/2 in. Corded Finishing Nailer",
+  "shortDescription": "Pneumatic 16-Gauge 2-1/2 in. Corded Finishing Nailer",
+  "longDescription": "Pneumatic 16-Gauge 2-1/2 in. Corded Finishing Nailer",
+  "pricing": {
+    "currentPrice": 199.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4193,
+    "count": 322
+  },
+  "media": {
+    "primaryImage": "/products/205644384/dewalt-finishing-nailers-dwfp71917-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205644384/dewalt-finishing-nailers-dwfp71917-64_100.jpg",
+        "altText": "Pneumatic 16-Gauge 2-1/2 in. Corded Finishing Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.496774"
+}

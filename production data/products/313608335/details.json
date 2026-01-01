@@ -1,0 +1,45 @@
+{
+  "productId": "313608335",
+  "identifiers": {
+    "internetNumber": "313608335",
+    "modelNumber": "",
+    "storeSkuNumber": "313608335"
+  },
+  "brand": {
+    "name": "Amanti Art",
+    "logoUrl": "images/brands/amanti-art.svg"
+  },
+  "title": "Medium Rectangle Vista Brushed Nickel Beveled Glass Modern Mirror (28.5 in. H x 40.5 in. W)",
+  "shortDescription": "Medium Rectangle Vista Brushed Nickel Beveled Glass Modern Mirror (28.5 in. H x 40.5 in. W)",
+  "longDescription": "Medium Rectangle Vista Brushed Nickel Beveled Glass Modern Mirror (28.5 in. H x 40.5 in. W)",
+  "pricing": {
+    "currentPrice": 141.11,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 16
+  },
+  "media": {
+    "primaryImage": "/products/313608335/amanti-art-wall-mirrors-dsw4960961-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313608335/amanti-art-wall-mirrors-dsw4960961-64_100.jpg",
+        "altText": "Medium Rectangle Vista Brushed Nickel Beveled Glass Modern Mirror (28.5 in. H x 40.5 in. W)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.568125"
+}

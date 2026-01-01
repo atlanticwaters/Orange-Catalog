@@ -1,0 +1,45 @@
+{
+  "productId": "321699568",
+  "identifiers": {
+    "internetNumber": "321699568",
+    "modelNumber": "",
+    "storeSkuNumber": "321699568"
+  },
+  "brand": {
+    "name": "Zinus",
+    "logoUrl": "images/brands/zinus.svg"
+  },
+  "title": "Abel Black Metal Queen Platform Bed Frame",
+  "shortDescription": "Abel Black Metal Queen Platform Bed Frame",
+  "longDescription": "Abel Black Metal Queen Platform Bed Frame",
+  "pricing": {
+    "currentPrice": 84.85,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7738,
+    "count": 84
+  },
+  "media": {
+    "primaryImage": "/products/321699568/black-zinus-platform-beds-olb-qlsp-14q-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321699568/black-zinus-platform-beds-olb-qlsp-14q-64_100.jpg",
+        "altText": "Abel Black Metal Queen Platform Bed Frame",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.633309"
+}

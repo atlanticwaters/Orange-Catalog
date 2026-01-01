@@ -1,0 +1,45 @@
+{
+  "productId": "313438681",
+  "identifiers": {
+    "internetNumber": "313438681",
+    "modelNumber": "",
+    "storeSkuNumber": "313438681"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ HP 18V Brushless Cordless Compact 3/8 in. Right Angle Drill (Tool Only)",
+  "shortDescription": "ONE+ HP 18V Brushless Cordless Compact 3/8 in. Right Angle Drill (Tool Only)",
+  "longDescription": "ONE+ HP 18V Brushless Cordless Compact 3/8 in. Right Angle Drill (Tool Only)",
+  "pricing": {
+    "currentPrice": 119.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6918,
+    "count": 808
+  },
+  "media": {
+    "primaryImage": "/products/313438681/ryobi-right-angle-drills-psbra02b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313438681/ryobi-right-angle-drills-psbra02b-64_100.jpg",
+        "altText": "ONE+ HP 18V Brushless Cordless Compact 3/8 in. Right Angle Drill (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.691046"
+}

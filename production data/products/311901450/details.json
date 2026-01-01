@@ -1,0 +1,45 @@
+{
+  "productId": "311901450",
+  "identifiers": {
+    "internetNumber": "311901450",
+    "modelNumber": "",
+    "storeSkuNumber": "311901450"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "97.5 in. W x 43.75 in. H x 32 in. D Adjustable Metal Overhead Garage Storage Rack in White",
+  "shortDescription": "97.5 in. W x 43.75 in. H x 32 in. D Adjustable Metal Overhead Garage Storage Rack in White",
+  "longDescription": "97.5 in. W x 43.75 in. H x 32 in. D Adjustable Metal Overhead Garage Storage Rack in White",
+  "pricing": {
+    "currentPrice": 199.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1912,
+    "count": 1156
+  },
+  "media": {
+    "primaryImage": "/products/311901450/white-husky-overhead-garage-storage-acr3296w-p-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311901450/white-husky-overhead-garage-storage-acr3296w-p-64_100.jpg",
+        "altText": "97.5 in. W x 43.75 in. H x 32 in. D Adjustable Metal Overhead Garage Storage Rack in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.589639"
+}

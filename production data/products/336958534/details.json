@@ -1,0 +1,45 @@
+{
+  "productId": "336958534",
+  "identifiers": {
+    "internetNumber": "336958534",
+    "modelNumber": "",
+    "storeSkuNumber": "336958534"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "15 Amp 12 in. Corded Sliding Miter Saw and Universal Mobile Miter Saw Stand with Mounting Braces",
+  "shortDescription": "15 Amp 12 in. Corded Sliding Miter Saw and Universal Mobile Miter Saw Stand with Mounting Braces",
+  "longDescription": "15 Amp 12 in. Corded Sliding Miter Saw and Universal Mobile Miter Saw Stand with Mounting Braces",
+  "pricing": {
+    "currentPrice": 588.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6272,
+    "count": 6531
+  },
+  "media": {
+    "primaryImage": "/products/336958534/ridgid-miter-saws-r4222-ac9946-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958534/ridgid-miter-saws-r4222-ac9946-64_100.jpg",
+        "altText": "15 Amp 12 in. Corded Sliding Miter Saw and Universal Mobile Miter Saw Stand with Mounting Braces",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.671944"
+}

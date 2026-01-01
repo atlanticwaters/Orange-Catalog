@@ -1,0 +1,45 @@
+{
+  "productId": "308790336",
+  "identifiers": {
+    "internetNumber": "308790336",
+    "modelNumber": "",
+    "storeSkuNumber": "308790336"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "Indoor Large Succulent Artificial Plant in Decorative Bowl",
+  "shortDescription": "Indoor Large Succulent Artificial Plant in Decorative Bowl",
+  "longDescription": "Indoor Large Succulent Artificial Plant in Decorative Bowl",
+  "pricing": {
+    "currentPrice": 75.03,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/308790336/nearly-natural-artificial-succulents-8400-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308790336/nearly-natural-artificial-succulents-8400-64_100.jpg",
+        "altText": "Indoor Large Succulent Artificial Plant in Decorative Bowl",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.564076"
+}

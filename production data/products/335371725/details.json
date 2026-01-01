@@ -1,0 +1,45 @@
+{
+  "productId": "335371725",
+  "identifiers": {
+    "internetNumber": "335371725",
+    "modelNumber": "",
+    "storeSkuNumber": "335371725"
+  },
+  "brand": {
+    "name": "ZLINE Kitchen and Bath",
+    "logoUrl": "images/brands/zline-kitchen-and-bath.svg"
+  },
+  "title": "30 in. 16.7 cu. ft. Freezerless Column Refrigerator in Stainless Steel with Graphite Gray Interior and Bronze Accents",
+  "shortDescription": "30 in. 16.7 cu. ft. Freezerless Column Refrigerator in Stainless Steel with Graphite Gray Interior and Bronze Accents",
+  "longDescription": "30 in. 16.7 cu. ft. Freezerless Column Refrigerator in Stainless Steel with Graphite Gray Interior and Bronze Accents",
+  "pricing": {
+    "currentPrice": 7599.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 4
+  },
+  "media": {
+    "primaryImage": "/products/335371725/stainless-steel-zline-kitchen-and-bath-freezerless-refrigerators-rcrvz-30430-cb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335371725/stainless-steel-zline-kitchen-and-bath-freezerless-refrigerators-rcrvz-30430-cb-64_100.jpg",
+        "altText": "30 in. 16.7 cu. ft. Freezerless Column Refrigerator in Stainless Steel with Graphite Gray Interior and Bronze Accents",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.443195"
+}

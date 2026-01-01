@@ -1,0 +1,45 @@
+{
+  "productId": "202529794",
+  "identifiers": {
+    "internetNumber": "202529794",
+    "modelNumber": "",
+    "storeSkuNumber": "202529794"
+  },
+  "brand": {
+    "name": "Blaster",
+    "logoUrl": "images/brands/blaster.svg"
+  },
+  "title": "11 oz. Industrial Strength Silicone Lubricant Spray",
+  "shortDescription": "11 oz. Industrial Strength Silicone Lubricant Spray",
+  "longDescription": "11 oz. Industrial Strength Silicone Lubricant Spray",
+  "pricing": {
+    "currentPrice": 7.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5811,
+    "count": 1048
+  },
+  "media": {
+    "primaryImage": "/products/202529794/blaster-lubricants-16-sl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202529794/blaster-lubricants-16-sl-64_100.jpg",
+        "altText": "11 oz. Industrial Strength Silicone Lubricant Spray",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.635542"
+}

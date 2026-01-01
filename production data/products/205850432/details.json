@@ -1,0 +1,45 @@
+{
+  "productId": "205850432",
+  "identifiers": {
+    "internetNumber": "205850432",
+    "modelNumber": "",
+    "storeSkuNumber": "205850432"
+  },
+  "brand": {
+    "name": "KitchenAid",
+    "logoUrl": "images/brands/kitchenaid.svg"
+  },
+  "title": "20.9 cu. ft. Built-In Bottom Freezer Refrigerator in Stainless Steel, Platinum Interior",
+  "shortDescription": "20.9 cu. ft. Built-In Bottom Freezer Refrigerator in Stainless Steel, Platinum Interior",
+  "longDescription": "20.9 cu. ft. Built-In Bottom Freezer Refrigerator in Stainless Steel, Platinum Interior",
+  "pricing": {
+    "currentPrice": 8459.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.918,
+    "count": 61
+  },
+  "media": {
+    "primaryImage": "/products/205850432/stainless-steel-kitchenaid-bottom-freezer-refrigerators-kbbr306ess-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205850432/stainless-steel-kitchenaid-bottom-freezer-refrigerators-kbbr306ess-64_100.jpg",
+        "altText": "20.9 cu. ft. Built-In Bottom Freezer Refrigerator in Stainless Steel, Platinum Interior",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.437180"
+}

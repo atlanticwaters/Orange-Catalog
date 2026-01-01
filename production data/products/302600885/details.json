@@ -1,0 +1,45 @@
+{
+  "productId": "302600885",
+  "identifiers": {
+    "internetNumber": "302600885",
+    "modelNumber": "",
+    "storeSkuNumber": "302600885"
+  },
+  "brand": {
+    "name": "Jet",
+    "logoUrl": "images/brands/jet.svg"
+  },
+  "title": "JCDC-1.5 1.5HP 115-Volt Cyclone Dust Collector",
+  "shortDescription": "JCDC-1.5 1.5HP 115-Volt Cyclone Dust Collector",
+  "longDescription": "JCDC-1.5 1.5HP 115-Volt Cyclone Dust Collector",
+  "pricing": {
+    "currentPrice": 1869.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3636,
+    "count": 11
+  },
+  "media": {
+    "primaryImage": "/products/302600885/jet-dust-collectors-717515-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302600885/jet-dust-collectors-717515-64_100.jpg",
+        "altText": "JCDC-1.5 1.5HP 115-Volt Cyclone Dust Collector",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.674576"
+}

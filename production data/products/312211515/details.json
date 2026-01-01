@@ -1,0 +1,45 @@
+{
+  "productId": "312211515",
+  "identifiers": {
+    "internetNumber": "312211515",
+    "modelNumber": "",
+    "storeSkuNumber": "312211515"
+  },
+  "brand": {
+    "name": "NOCO GENIUS",
+    "logoUrl": "images/brands/noco-genius.svg"
+  },
+  "title": "GENIUS10, 10-Amp Fully-Automatic Smart Charger, 6V & 12V Battery Charger & Battery Maintainer",
+  "shortDescription": "GENIUS10, 10-Amp Fully-Automatic Smart Charger, 6V & 12V Battery Charger & Battery Maintainer",
+  "longDescription": "GENIUS10, 10-Amp Fully-Automatic Smart Charger, 6V & 12V Battery Charger & Battery Maintainer",
+  "pricing": {
+    "currentPrice": 99.95,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6516,
+    "count": 155
+  },
+  "media": {
+    "primaryImage": "/products/312211515/noco-genius-car-battery-chargers-genius10-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312211515/noco-genius-car-battery-chargers-genius10-64_100.jpg",
+        "altText": "GENIUS10, 10-Amp Fully-Automatic Smart Charger, 6V & 12V Battery Charger & Battery Maintainer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.521204"
+}

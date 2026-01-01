@@ -1,0 +1,45 @@
+{
+  "productId": "304770024",
+  "identifiers": {
+    "internetNumber": "304770024",
+    "modelNumber": "",
+    "storeSkuNumber": "304770024"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M12 12-Volt Lithium-Ion Cordless Electric Portable Inflator Kit with 4.0 Ah Battery and Charger",
+  "shortDescription": "M12 12-Volt Lithium-Ion Cordless Electric Portable Inflator Kit with 4.0 Ah Battery and Charger",
+  "longDescription": "M12 12-Volt Lithium-Ion Cordless Electric Portable Inflator Kit with 4.0 Ah Battery and Charger",
+  "pricing": {
+    "currentPrice": 239.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5677,
+    "count": 3317
+  },
+  "media": {
+    "primaryImage": "/products/304770024/milwaukee-inflators-2475-21xc-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/304770024/milwaukee-inflators-2475-21xc-64_100.jpg",
+        "altText": "M12 12-Volt Lithium-Ion Cordless Electric Portable Inflator Kit with 4.0 Ah Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.486553"
+}

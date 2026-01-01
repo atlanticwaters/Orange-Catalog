@@ -1,0 +1,45 @@
+{
+  "productId": "310678095",
+  "identifiers": {
+    "internetNumber": "310678095",
+    "modelNumber": "",
+    "storeSkuNumber": "310678095"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "17 in. Garden Croton Artificial Plant in Basket (Real Touch)",
+  "shortDescription": "17 in. Garden Croton Artificial Plant in Basket (Real Touch)",
+  "longDescription": "17 in. Garden Croton Artificial Plant in Basket (Real Touch)",
+  "pricing": {
+    "currentPrice": 53.65,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/310678095/nearly-natural-artificial-shrubs-8870-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/310678095/nearly-natural-artificial-shrubs-8870-64_100.jpg",
+        "altText": "17 in. Garden Croton Artificial Plant in Basket (Real Touch)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.649568"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "336343905",
+  "identifiers": {
+    "internetNumber": "336343905",
+    "modelNumber": "",
+    "storeSkuNumber": "336343905"
+  },
+  "brand": {
+    "name": "Sunex",
+    "logoUrl": "images/brands/sunex.svg"
+  },
+  "title": "Long Barrel Air Hammer",
+  "shortDescription": "Long Barrel Air Hammer",
+  "longDescription": "Long Barrel Air Hammer",
+  "pricing": {
+    "currentPrice": 151.43,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 1.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/336343905/sunex-air-hammers-sx2302-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336343905/sunex-air-hammers-sx2302-64_100.jpg",
+        "altText": "Long Barrel Air Hammer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.628122"
+}

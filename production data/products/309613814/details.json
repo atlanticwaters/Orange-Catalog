@@ -1,0 +1,45 @@
+{
+  "productId": "309613814",
+  "identifiers": {
+    "internetNumber": "309613814",
+    "modelNumber": "",
+    "storeSkuNumber": "309613814"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment (Tool Only)",
+  "shortDescription": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment (Tool Only)",
+  "longDescription": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment (Tool Only)",
+  "pricing": {
+    "currentPrice": 179.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1215,
+    "count": 107
+  },
+  "media": {
+    "primaryImage": "/products/309613814/ridgid-electric-screwdrivers-r86630b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309613814/ridgid-electric-screwdrivers-r86630b-64_100.jpg",
+        "altText": "18V Brushless Cordless Drywall Screwdriver with Collated Attachment (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.679716"
+}

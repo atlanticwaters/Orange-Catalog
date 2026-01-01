@@ -1,0 +1,45 @@
+{
+  "productId": "304581172",
+  "identifiers": {
+    "internetNumber": "304581172",
+    "modelNumber": "",
+    "storeSkuNumber": "304581172"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Conley Cherry 2-Drawer Nightstand",
+  "shortDescription": "Conley Cherry 2-Drawer Nightstand",
+  "longDescription": "Conley Cherry 2-Drawer Nightstand",
+  "pricing": {
+    "currentPrice": 302.84,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5385,
+    "count": 26
+  },
+  "media": {
+    "primaryImage": "/products/304581172/cherry-nightstands-cm750nso-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/304581172/cherry-nightstands-cm750nso-64_100.jpg",
+        "altText": "Conley Cherry 2-Drawer Nightstand",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.580964"
+}

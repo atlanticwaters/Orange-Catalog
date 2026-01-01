@@ -1,0 +1,45 @@
+{
+  "productId": "313294359",
+  "identifiers": {
+    "internetNumber": "313294359",
+    "modelNumber": "",
+    "storeSkuNumber": "313294359"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18-Volt Lithium-Ion Cordless 6,000 Lumens Rocket Dual Power Tower Light with Charger (Tool-Only)",
+  "shortDescription": "M18 18-Volt Lithium-Ion Cordless 6,000 Lumens Rocket Dual Power Tower Light with Charger (Tool-Only)",
+  "longDescription": "M18 18-Volt Lithium-Ion Cordless 6,000 Lumens Rocket Dual Power Tower Light with Charger (Tool-Only)",
+  "pricing": {
+    "currentPrice": 499.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.746,
+    "count": 248
+  },
+  "media": {
+    "primaryImage": "/products/313294359/milwaukee-jobsite-lighting-2136-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313294359/milwaukee-jobsite-lighting-2136-20-64_100.jpg",
+        "altText": "M18 18-Volt Lithium-Ion Cordless 6,000 Lumens Rocket Dual Power Tower Light with Charger (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.666596"
+}

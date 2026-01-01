@@ -1,0 +1,45 @@
+{
+  "productId": "325295234",
+  "identifiers": {
+    "internetNumber": "325295234",
+    "modelNumber": "",
+    "storeSkuNumber": "325295234"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "1.25 in. x 16 ft. Ratchet Tie-Down Straps 3000 lbs. Break Strength (4-Pack)",
+  "shortDescription": "1.25 in. x 16 ft. Ratchet Tie-Down Straps 3000 lbs. Break Strength (4-Pack)",
+  "longDescription": "1.25 in. x 16 ft. Ratchet Tie-Down Straps 3000 lbs. Break Strength (4-Pack)",
+  "pricing": {
+    "currentPrice": 29.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3846,
+    "count": 234
+  },
+  "media": {
+    "primaryImage": "/products/325295234/dewalt-moving-straps-dxbc30004-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325295234/dewalt-moving-straps-dxbc30004-64_100.jpg",
+        "altText": "1.25 in. x 16 ft. Ratchet Tie-Down Straps 3000 lbs. Break Strength (4-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.596821"
+}

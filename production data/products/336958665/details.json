@@ -1,0 +1,45 @@
+{
+  "productId": "336958665",
+  "identifiers": {
+    "internetNumber": "336958665",
+    "modelNumber": "",
+    "storeSkuNumber": "336958665"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V Cordless Oscillating Multi-Tool with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+  "shortDescription": "18V Cordless Oscillating Multi-Tool with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+  "longDescription": "18V Cordless Oscillating Multi-Tool with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+  "pricing": {
+    "currentPrice": 386.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7587,
+    "count": 3614
+  },
+  "media": {
+    "primaryImage": "/products/336958665/ridgid-oscillating-tools-r86241b-ac93044sbn-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958665/ridgid-oscillating-tools-r86241b-ac93044sbn-64_100.jpg",
+        "altText": "18V Cordless Oscillating Multi-Tool with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.694253"
+}

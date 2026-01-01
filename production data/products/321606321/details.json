@@ -1,0 +1,45 @@
+{
+  "productId": "321606321",
+  "identifiers": {
+    "internetNumber": "321606321",
+    "modelNumber": "",
+    "storeSkuNumber": "321606321"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "Smart 30 in. W 2 cu. ft. Over the Range Microwave with EasyClean 1,050-Watt in PrintProof Stainless Steel",
+  "shortDescription": "Smart 30 in. W 2 cu. ft. Over the Range Microwave with EasyClean 1,050-Watt in PrintProof Stainless Steel",
+  "longDescription": "Smart 30 in. W 2 cu. ft. Over the Range Microwave with EasyClean 1,050-Watt in PrintProof Stainless Steel",
+  "pricing": {
+    "currentPrice": 349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4058,
+    "count": 1343
+  },
+  "media": {
+    "primaryImage": "/products/321606321/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321606321/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-64_100.jpg",
+        "altText": "Smart 30 in. W 2 cu. ft. Over the Range Microwave with EasyClean 1,050-Watt in PrintProof Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.448384"
+}

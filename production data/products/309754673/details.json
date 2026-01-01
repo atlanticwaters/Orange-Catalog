@@ -1,0 +1,45 @@
+{
+  "productId": "309754673",
+  "identifiers": {
+    "internetNumber": "309754673",
+    "modelNumber": "",
+    "storeSkuNumber": "309754673"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "3/8 in. Pneumatic Ratchet and 50 ft. x 1/4 in. Air Hose",
+  "shortDescription": "3/8 in. Pneumatic Ratchet and 50 ft. x 1/4 in. Air Hose",
+  "longDescription": "3/8 in. Pneumatic Ratchet and 50 ft. x 1/4 in. Air Hose",
+  "pricing": {
+    "currentPrice": 96.15,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6303,
+    "count": 798
+  },
+  "media": {
+    "primaryImage": "/products/309754673/dewalt-air-ratchet-wrenches-dwmt70776w1450d-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309754673/dewalt-air-ratchet-wrenches-dwmt70776w1450d-64_100.jpg",
+        "altText": "3/8 in. Pneumatic Ratchet and 50 ft. x 1/4 in. Air Hose",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.529170"
+}

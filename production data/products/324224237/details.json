@@ -1,0 +1,45 @@
+{
+  "productId": "324224237",
+  "identifiers": {
+    "internetNumber": "324224237",
+    "modelNumber": "",
+    "storeSkuNumber": "324224237"
+  },
+  "brand": {
+    "name": "Keeper",
+    "logoUrl": "images/brands/keeper.svg"
+  },
+  "title": "Adjustable Ratcheting Cargo Bar",
+  "shortDescription": "Adjustable Ratcheting Cargo Bar",
+  "longDescription": "Adjustable Ratcheting Cargo Bar",
+  "pricing": {
+    "currentPrice": 39.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6557,
+    "count": 122
+  },
+  "media": {
+    "primaryImage": "/products/324224237/keeper-tie-down-hardware-accessories-05062-3-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324224237/keeper-tie-down-hardware-accessories-05062-3-64_100.jpg",
+        "altText": "Adjustable Ratcheting Cargo Bar",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.596625"
+}

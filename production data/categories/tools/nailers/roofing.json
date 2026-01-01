@@ -1,0 +1,260 @@
+{
+  "categoryId": "tools/nailers/roofing",
+  "name": "Roofing",
+  "slug": "roofing",
+  "path": "/categories/tools/nailers/roofing",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.744365",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Nailers",
+      "url": "/tools/nailers"
+    },
+    {
+      "label": "Roofing",
+      "url": "/tools/nailers/roofing"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 9
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 2
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 2
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 1
+    },
+    {
+      "brandId": "wen",
+      "brandName": "WEN",
+      "logoUrl": "images/brands/wen.svg",
+      "count": 1
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 1
+    },
+    {
+      "brandId": "estwing",
+      "brandName": "Estwing",
+      "logoUrl": "images/brands/estwing.svg",
+      "count": 1
+    },
+    {
+      "brandId": "freeman",
+      "brandName": "Freeman",
+      "logoUrl": "images/brands/freeman.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "305345667",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 1-3/4 in. 15 Degree Coil Corded Roofing Nailer",
+      "rating": {
+        "average": 4.2261,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0b1e85a2-9475-46fc-b7a3-f6e032de335d/svn/makita-roofing-nailers-an454-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      }
+    },
+    {
+      "productId": "207103085",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15 Deg. 1-3/4 in. Coil Roofing Nailer",
+      "rating": {
+        "average": 4.0395,
+        "count": 380
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c2c80084-9747-469f-97e3-612e78d484d7/svn/ridgid-roofing-nailers-r175rnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328232073",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "1-3/4 in. 15 Degree Pneumatic Coil Roofing Nailer",
+      "rating": {
+        "average": 4.3846,
+        "count": 52
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78d3624b-1daa-4598-a2f1-5c8729aa6f7c/svn/dewalt-roofing-nailers-dw46rn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958546",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15-Degree 1-3/4 in. Coil Roofing Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.2903,
+        "count": 937
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8c2130b-41a0-4955-9e03-bb3c7c4e319f/svn/ridgid-roofing-nailers-r175rnf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 288.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308458682",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "3/4 in. to 1-3/4 in. 15 degree Pneumatic Coil Roofing Nailer",
+      "rating": {
+        "average": 4.4915,
+        "count": 236
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/58ff65b3-cd9e-4a1a-baf2-b7c0a1a22d7b/svn/wen-roofing-nailers-61783-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 106.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300237329",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Pneumatic 15-Degree 1-3/4 in. Coil Roofing Nailer",
+      "rating": {
+        "average": 4.4545,
+        "count": 88
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/55fb450a-e432-48b4-9554-a3167f97b783/svn/husky-roofing-nailers-dpcn45-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332326357",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "1-3/4 in. 15\u00b0 Pneumatic Coil Roofing Nailer with 1-1/4 in. x 0.120-Gauge Steel Coil Roofing Nails (7,200 Pack)",
+      "rating": {
+        "average": 4.4545,
+        "count": 99
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/46ce208e-0498-458f-9e98-89d6439c3e43/svn/dewalt-roofing-nailers-dw46rnwwcr3dgal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 332.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322419186",
+      "modelNumber": "",
+      "brand": "Estwing",
+      "title": "Pneumatic 15 Degree 1-3/4 in. Coil Roofing Nailer with 1/4 in. NPT Industrial Swivel Fitting and Bag",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/11b2ff15-4198-460d-956d-24385d0744c5/svn/estwing-roofing-nailers-ecn45-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301289865",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "Pneumatic 15 Degree 1-3/4 in. Rapid Fire Coil Roofing Nailer",
+      "rating": {
+        "average": 4.0,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ed232ae-1ad3-440c-a2c3-bba88ddae5d1/svn/freeman-roofing-nailers-pcn450-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

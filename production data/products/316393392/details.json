@@ -1,0 +1,45 @@
+{
+  "productId": "316393392",
+  "identifiers": {
+    "internetNumber": "316393392",
+    "modelNumber": "",
+    "storeSkuNumber": "316393392"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "WashTower Stacked SMART Laundry Center 4.5 Cu.Ft. Front Load Washer & 7.4 Cu.Ft. Gas Dryer in White",
+  "shortDescription": "WashTower Stacked SMART Laundry Center 4.5 Cu.Ft. Front Load Washer & 7.4 Cu.Ft. Gas Dryer in White",
+  "longDescription": "WashTower Stacked SMART Laundry Center 4.5 Cu.Ft. Front Load Washer & 7.4 Cu.Ft. Gas Dryer in White",
+  "pricing": {
+    "currentPrice": 2699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3601,
+    "count": 1947
+  },
+  "media": {
+    "primaryImage": "/products/316393392/white-lg-laundry-centers-wkg101hwa-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316393392/white-lg-laundry-centers-wkg101hwa-64_100.jpg",
+        "altText": "WashTower Stacked SMART Laundry Center 4.5 Cu.Ft. Front Load Washer & 7.4 Cu.Ft. Gas Dryer in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.640218"
+}

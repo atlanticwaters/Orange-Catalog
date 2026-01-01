@@ -1,0 +1,45 @@
+{
+  "productId": "325807971",
+  "identifiers": {
+    "internetNumber": "325807971",
+    "modelNumber": "",
+    "storeSkuNumber": "325807971"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "5.4 cu. ft. Smart Top Load Washer in Brushed Navy Blue with Impeller, Super Speed Wash and Pet Care Solution",
+  "shortDescription": "5.4 cu. ft. Smart Top Load Washer in Brushed Navy Blue with Impeller, Super Speed Wash and Pet Care Solution",
+  "longDescription": "5.4 cu. ft. Smart Top Load Washer in Brushed Navy Blue with Impeller, Super Speed Wash and Pet Care Solution",
+  "pricing": {
+    "currentPrice": 1149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5311,
+    "count": 514
+  },
+  "media": {
+    "primaryImage": "/products/325807971/brushed-navy-samsung-top-load-washers-wa54cg7150ad-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325807971/brushed-navy-samsung-top-load-washers-wa54cg7150ad-64_100.jpg",
+        "altText": "5.4 cu. ft. Smart Top Load Washer in Brushed Navy Blue with Impeller, Super Speed Wash and Pet Care Solution",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.481836"
+}

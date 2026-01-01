@@ -1,0 +1,45 @@
+{
+  "productId": "324433037",
+  "identifiers": {
+    "internetNumber": "324433037",
+    "modelNumber": "",
+    "storeSkuNumber": "324433037"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "7.3 Cu.Ft. Vented Gas Dryer in White with Sensor Dry Technology",
+  "shortDescription": "7.3 Cu.Ft. Vented Gas Dryer in White with Sensor Dry Technology",
+  "longDescription": "7.3 Cu.Ft. Vented Gas Dryer in White with Sensor Dry Technology",
+  "pricing": {
+    "currentPrice": 649.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0306,
+    "count": 425
+  },
+  "media": {
+    "primaryImage": "/products/324433037/white-lg-gas-dryers-dlg6101w-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/324433037/white-lg-gas-dryers-dlg6101w-64_100.jpg",
+        "altText": "7.3 Cu.Ft. Vented Gas Dryer in White with Sensor Dry Technology",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.636253"
+}

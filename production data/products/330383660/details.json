@@ -1,0 +1,45 @@
+{
+  "productId": "330383660",
+  "identifiers": {
+    "internetNumber": "330383660",
+    "modelNumber": "",
+    "storeSkuNumber": "330383660"
+  },
+  "brand": {
+    "name": "PIG",
+    "logoUrl": "images/brands/pig.svg"
+  },
+  "title": "Universal Leak and Spill Pads - 50FT Roll",
+  "shortDescription": "Universal Leak and Spill Pads - 50FT Roll",
+  "longDescription": "Universal Leak and Spill Pads - 50FT Roll",
+  "pricing": {
+    "currentPrice": 24.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6316,
+    "count": 38
+  },
+  "media": {
+    "primaryImage": "/products/330383660/pig-oil-drain-pans-25201-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330383660/pig-oil-drain-pans-25201-64_100.jpg",
+        "altText": "Universal Leak and Spill Pads - 50FT Roll",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.510354"
+}

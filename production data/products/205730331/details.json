@@ -1,0 +1,45 @@
+{
+  "productId": "205730331",
+  "identifiers": {
+    "internetNumber": "205730331",
+    "modelNumber": "",
+    "storeSkuNumber": "205730331"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "18.2 cu. ft. Top Freezer Refrigerator in Monochromatic Stainless Steel",
+  "shortDescription": "18.2 cu. ft. Top Freezer Refrigerator in Monochromatic Stainless Steel",
+  "longDescription": "18.2 cu. ft. Top Freezer Refrigerator in Monochromatic Stainless Steel",
+  "pricing": {
+    "currentPrice": 899.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2775,
+    "count": 7297
+  },
+  "media": {
+    "primaryImage": "/products/205730331/monochromatic-stainless-steel-whirlpool-top-freezer-refrigerators-wrt318fzdm-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205730331/monochromatic-stainless-steel-whirlpool-top-freezer-refrigerators-wrt318fzdm-64_100.jpg",
+        "altText": "18.2 cu. ft. Top Freezer Refrigerator in Monochromatic Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.446300"
+}

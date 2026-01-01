@@ -1,0 +1,45 @@
+{
+  "productId": "337059133",
+  "identifiers": {
+    "internetNumber": "337059133",
+    "modelNumber": "",
+    "storeSkuNumber": "337059133"
+  },
+  "brand": {
+    "name": "Maytag",
+    "logoUrl": "images/brands/maytag.svg"
+  },
+  "title": "4.7 cu. ft. Top Load Washer in White with Pet Pro Option",
+  "shortDescription": "4.7 cu. ft. Top Load Washer in White with Pet Pro Option",
+  "longDescription": "4.7 cu. ft. Top Load Washer in White with Pet Pro Option",
+  "pricing": {
+    "currentPrice": 749.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2918,
+    "count": 257
+  },
+  "media": {
+    "primaryImage": "/products/337059133/white-maytag-top-load-washers-mtw5605rw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337059133/white-maytag-top-load-washers-mtw5605rw-64_100.jpg",
+        "altText": "4.7 cu. ft. Top Load Washer in White with Pet Pro Option",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.489806"
+}

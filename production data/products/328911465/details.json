@@ -1,0 +1,45 @@
+{
+  "productId": "328911465",
+  "identifiers": {
+    "internetNumber": "328911465",
+    "modelNumber": "",
+    "storeSkuNumber": "328911465"
+  },
+  "brand": {
+    "name": "Kucht",
+    "logoUrl": "images/brands/kucht.svg"
+  },
+  "title": "30 in. 16.6 cu. ft. Countertop Depth Freezerless Refrigerator Panel Ready",
+  "shortDescription": "30 in. 16.6 cu. ft. Countertop Depth Freezerless Refrigerator Panel Ready",
+  "longDescription": "30 in. 16.6 cu. ft. Countertop Depth Freezerless Refrigerator Panel Ready",
+  "pricing": {
+    "currentPrice": 5232.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6923,
+    "count": 13
+  },
+  "media": {
+    "primaryImage": "/products/328911465/panel-ready-kucht-freezerless-refrigerators-kr300tr-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328911465/panel-ready-kucht-freezerless-refrigerators-kr300tr-64_100.jpg",
+        "altText": "30 in. 16.6 cu. ft. Countertop Depth Freezerless Refrigerator Panel Ready",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.442844"
+}

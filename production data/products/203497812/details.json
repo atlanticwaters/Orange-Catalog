@@ -1,0 +1,45 @@
+{
+  "productId": "203497812",
+  "identifiers": {
+    "internetNumber": "203497812",
+    "modelNumber": "",
+    "storeSkuNumber": "203497812"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "HVLP and Standard Gravity Feed Spray Gun Kit",
+  "shortDescription": "HVLP and Standard Gravity Feed Spray Gun Kit",
+  "longDescription": "HVLP and Standard Gravity Feed Spray Gun Kit",
+  "pricing": {
+    "currentPrice": 99.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3814,
+    "count": 312
+  },
+  "media": {
+    "primaryImage": "/products/203497812/husky-pneumatic-paint-sprayers-hdk00600sg-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203497812/husky-pneumatic-paint-sprayers-hdk00600sg-64_100.jpg",
+        "altText": "HVLP and Standard Gravity Feed Spray Gun Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.642102"
+}

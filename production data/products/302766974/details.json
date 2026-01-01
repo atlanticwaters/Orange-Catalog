@@ -1,0 +1,45 @@
+{
+  "productId": "302766974",
+  "identifiers": {
+    "internetNumber": "302766974",
+    "modelNumber": "",
+    "storeSkuNumber": "302766974"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "Low Vibration Riciprocating Saw",
+  "shortDescription": "Low Vibration Riciprocating Saw",
+  "longDescription": "Low Vibration Riciprocating Saw",
+  "pricing": {
+    "currentPrice": 136.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8182,
+    "count": 11
+  },
+  "media": {
+    "primaryImage": "/products/302766974/aircat-air-cut-off-tools-6350-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302766974/aircat-air-cut-off-tools-6350-64_100.jpg",
+        "altText": "Low Vibration Riciprocating Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.638440"
+}

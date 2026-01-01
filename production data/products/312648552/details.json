@@ -1,0 +1,45 @@
+{
+  "productId": "312648552",
+  "identifiers": {
+    "internetNumber": "312648552",
+    "modelNumber": "",
+    "storeSkuNumber": "312648552"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "27.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+  "shortDescription": "27.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+  "longDescription": "27.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 3149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.29,
+    "count": 11270
+  },
+  "media": {
+    "primaryImage": "/products/312648552/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe28gynfs-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312648552/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe28gynfs-64_100.jpg",
+        "altText": "27.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.444496"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "339174352",
+  "identifiers": {
+    "internetNumber": "339174352",
+    "modelNumber": "",
+    "storeSkuNumber": "339174352"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "4.5 cu. ft. SMART Front Load Washer and 7.4 cu. ft. Dryer with TurboSteam Set",
+  "shortDescription": "4.5 cu. ft. SMART Front Load Washer and 7.4 cu. ft. Dryer with TurboSteam Set",
+  "longDescription": "4.5 cu. ft. SMART Front Load Washer and 7.4 cu. ft. Dryer with TurboSteam Set",
+  "pricing": {
+    "currentPrice": 2398.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5139,
+    "count": 4590
+  },
+  "media": {
+    "primaryImage": "/products/339174352/lg-front-load-washer-dryer-sets-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/339174352/lg-front-load-washer-dryer-sets-64_100.jpg",
+        "altText": "4.5 cu. ft. SMART Front Load Washer and 7.4 cu. ft. Dryer with TurboSteam Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.457530"
+}

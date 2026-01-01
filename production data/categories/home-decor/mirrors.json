@@ -1,0 +1,866 @@
+{
+  "categoryId": "home-decor/mirrors",
+  "name": "Mirrors",
+  "slug": "mirrors",
+  "path": "/categories/home-decor/mirrors",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.726506",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Home Decor",
+      "url": "/home-decor"
+    },
+    {
+      "label": "Mirrors",
+      "url": "/home-decor/mirrors"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 37
+  },
+  "featuredBrands": [
+    {
+      "brandId": "amanti-art",
+      "brandName": "Amanti Art",
+      "logoUrl": "images/brands/amanti-art.svg",
+      "count": 9
+    },
+    {
+      "brandId": "kate-and-laurel",
+      "brandName": "Kate and Laurel",
+      "logoUrl": "images/brands/kate-and-laurel.svg",
+      "count": 4
+    },
+    {
+      "brandId": "luxhomez",
+      "brandName": "LuxHomez",
+      "logoUrl": "images/brands/luxhomez.svg",
+      "count": 4
+    },
+    {
+      "brandId": "litton-lane",
+      "brandName": "Litton Lane",
+      "logoUrl": "images/brands/litton-lane.svg",
+      "count": 2
+    },
+    {
+      "brandId": "xramfy",
+      "brandName": "XRAMFY",
+      "logoUrl": "images/brands/xramfy.svg",
+      "count": 2
+    },
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 1
+    },
+    {
+      "brandId": "homestock",
+      "brandName": "HOMESTOCK",
+      "logoUrl": "images/brands/homestock.svg",
+      "count": 1
+    },
+    {
+      "brandId": "fufugaga",
+      "brandName": "FUFU&GAGA",
+      "logoUrl": "images/brands/fufugaga.svg",
+      "count": 1
+    },
+    {
+      "brandId": "maykoosh",
+      "brandName": "MAYKOOSH",
+      "logoUrl": "images/brands/maykoosh.svg",
+      "count": 1
+    },
+    {
+      "brandId": "homy-casa",
+      "brandName": "Homy Casa",
+      "logoUrl": "images/brands/homy-casa.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "325158107",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. Counter-Depth MAX French Door Refrigerator w/ Mirrored Instaview & 4 types of ice, PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.2923,
+        "count": 431
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7f0f1301-e7b3-4cb0-9752-5449af24d854/svn/mirrored-stainless-steel-lg-french-door-refrigerators-lrykc2606s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332690337",
+      "modelNumber": "",
+      "brand": "HOMESTOCK",
+      "title": "7-Drawers White Makeup Vanity Sets Dressing Table Sets with Stool, Mirror, Light and Storage Space",
+      "rating": {
+        "average": 3.3,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2eec4315-3cdd-4b3b-9695-f2c56fd120e7/svn/white-7-drawer-homestock-makeup-vanities-19948hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 216.91,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331059820",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "White Makeup Vanity Sets Dressing Chest with Flip-top Mirror, 3-Drawers, See-Through Glass Top, LED Lights and Stool",
+      "rating": {
+        "average": 3.3,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d358dc04-9ac0-4bac-a0bd-58526e58b216/svn/white-fufu-gaga-makeup-vanities-kf210267-01-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335911790",
+      "modelNumber": "",
+      "brand": "MAYKOOSH",
+      "title": "White 4-Drawer Makeup Vanity Set with LED Mirror, Stool, and 4-Shelf Storage Organizer",
+      "rating": {
+        "average": 4.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/25ec415f-b618-483b-8e83-3be71fa5a6d9/svn/white-4-drawer-maykoosh-makeup-vanities-17670hdt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 251.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336803741",
+      "modelNumber": "",
+      "brand": "Homy Casa",
+      "title": "SNOY 11-Drawers Snow White Makeup Vanity Set with Tri-Fold Mirror, Cushioned Stool, LED Strip Lights, Charging Station",
+      "rating": {
+        "average": 1.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a28925a-cc13-4ea8-8d8a-896d14132c6c/svn/snow-white-homy-casa-makeup-vanities-fl-10181-wh-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 332.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338087877",
+      "modelNumber": "",
+      "brand": "LACOO",
+      "title": "Makeup Vanity Sets with Mirror and Power Outlet, Dressing Table Sets with 2-Drawers, 4-Storage Shelves and Bench, Black",
+      "rating": {
+        "average": 3.5,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ce26bf92-10d8-45f3-be5c-900b1eb0543c/svn/black-with-bench-lacoo-makeup-vanities-v-vn-0497a-0c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 134.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331206901",
+      "modelNumber": "",
+      "brand": "PAKASEPT",
+      "title": "White Makeup Vanity Set with LED Lighted Mirror and Power Outlet, 6-Drawers and 3 Storage Movable Shelves",
+      "rating": {
+        "average": 4.5,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3fa3606-7695-4402-8da9-a6a70373f0df/svn/white-pakasept-makeup-vanities-ttb1032-xwb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 228.93,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336969979",
+      "modelNumber": "",
+      "brand": "Bestier",
+      "title": "2-Drawers Black LED Light Makeup Vanity Sets with Touch Screen Dimming Mirror, Bulid-in Outlets and Storage Shelves",
+      "rating": {
+        "average": 4.8571,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b912efa4-3dce-4575-ac41-f731fc26cb32/svn/black-bestier-makeup-vanities-usthdczus-b300480sus-blkbt-m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 195.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336854615",
+      "modelNumber": "",
+      "brand": "Harper & Bright Designs",
+      "title": "Modern 39 in. Espresso Makeup Vanity Table with Touch Screen Lighted Mirror and Drawer",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/684462b7-e715-43e0-9631-5fb733a01aa6/svn/espresso-harper-bright-designs-makeup-vanities-hzz109aap-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 309.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313608335",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Medium Rectangle Vista Brushed Nickel Beveled Glass Modern Mirror (28.5 in. H x 40.5 in. W)",
+      "rating": {
+        "average": 5.0,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1ccf241c-7184-45d6-a07e-299dcdf5af12/svn/amanti-art-wall-mirrors-dsw4960961-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 141.11,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331450991",
+      "modelNumber": "",
+      "brand": "Kate and Laurel",
+      "title": "Myrcelle 30 in. W. x 32 in. H Metal Gold Arch Traditional Framed Decorative Wall Mirror",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/359ecefb-c290-5c11-81b7-d6433ae61e9c/svn/kate-and-laurel-wall-mirrors-224455-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 191.55,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320718024",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Grace Brushed Nickel 30 in. H x 24 in. W Framed Wall Mirror",
+      "rating": {
+        "average": 2.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59f2c9a0-f313-427f-b52a-4edc84810a0f/svn/amanti-art-wall-mirrors-a38865480148-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 137.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313956631",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Large Rectangle Satin Bronze/Copper Metallic Hooks Modern Mirror (51 in. H x 17 in. W)",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/100b7ffb-9b74-40b2-8908-a979f3865973/svn/amanti-art-wall-mirrors-dsw4961039-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 163.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329625242",
+      "modelNumber": "",
+      "brand": "Head West",
+      "title": "32 in. x 20 in. Black Metro Beaded Glass Framed Vanity Mirror",
+      "rating": {
+        "average": 3.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/28430a90-dc56-4059-b7ed-91b0e2bed516/svn/head-west-wall-mirrors-520052web-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 137.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320717824",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Crackled Metallic Narrow 20 in. H x 26 in. W Framed Wall Mirror",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca35ddc0-e8e8-41e6-be3e-a636ce807dc0/svn/amanti-art-wall-mirrors-a38865480180-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323132967",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Trellis Silver 24 in. W x 30 in. H Non-Beveled Wood Bathroom Wall Mirror in Silver",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/84127292-4382-42ef-b537-cfdd72e18b16/svn/amanti-art-wall-mirrors-a38867224198-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 315.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331450998",
+      "modelNumber": "",
+      "brand": "Kate and Laurel",
+      "title": "McLean 20 in. W. x 36 in. H Metal Black Hexagon Modern Framed Decorative Wall Mirror",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/421630cb-1f9a-5cbe-8965-fd366fc1c459/svn/kate-and-laurel-wall-mirrors-224977-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320718042",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Wildwood Brown Narrow 21.25 in. H x 27.25 in. W Framed Wall Mirror",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b58a3c85-f72f-404d-b001-3a149a0cfc96/svn/amanti-art-wall-mirrors-a38865479961-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313956626",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Large Rectangle Silver Metallic Hooks Modern Mirror (52 in. H x 18 in. W)",
+      "rating": {
+        "average": 5.0,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3fc662fa-4653-41f1-a31f-4f7753a62676/svn/amanti-art-wall-mirrors-dsw4961056-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 131.53,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336759021",
+      "modelNumber": "",
+      "brand": "ORGANNICE",
+      "title": "36 in. W x 30 in. H Rectangular Aluminum Framed Modern Black Rounded Wall Mirror",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3502487f-eade-4cad-a63c-abd5aed841c2/svn/organnice-wall-mirrors-or-b7690-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.52,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320718071",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Grand Black Narrow 20 in. H x 24 in. W Framed Wall Mirror",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/94b00768-488c-42ad-a6f3-9c52bfb49c5b/svn/amanti-art-wall-mirrors-a38865479723-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 77.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333205294",
+      "modelNumber": "",
+      "brand": "THKSHOUZ",
+      "title": "Black 36 in. W x 23.6 in. H Retro Arch Resin Decorative Mirror for Wall",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a6c96b4f-0e7e-4aec-b9cc-a726a3520e46/svn/thkshouz-wall-mirrors-sf-wm118bk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.09,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310270914",
+      "modelNumber": "",
+      "brand": "Amanti Art",
+      "title": "Medium Rectangle Walnut Cherry Beveled Glass Classic Mirror (28.5 in. H x 40.5 in. W)",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ebe0add4-cae6-4edf-aac1-0990508c62af/svn/amanti-art-wall-mirrors-dsw4593635-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 155.21,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333520305",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "60 in. W x 40 in. H Silver Rectangular LED Anti-Fog Touch Switch Bathroom Wall Mirror",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/99fbf1f5-de19-4bf3-ace2-c1f1e7c88f71/svn/wall-mirrors-fcbf14-558-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 464.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301297758",
+      "modelNumber": "",
+      "brand": "Stonebriar Collection",
+      "title": "Small Oval White Victorian Mirror (11.654 in. H x 10.039 in. W)",
+      "rating": {
+        "average": 3.8333,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cbaf0e92-65b7-4f56-9869-273ab0470f44/svn/stonebriar-collection-wall-mirrors-sb-6081m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 26.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327267312",
+      "modelNumber": "",
+      "brand": "Kate and Laurel",
+      "title": "Estero 11.00 in. W x 24.25 in. H Gold Capsule MidCentury Framed Decorative Wall Mirror",
+      "rating": {
+        "average": 3.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4bf30ad3-1f89-5f50-8eaa-e774c1f018f6/svn/kate-and-laurel-wall-mirrors-225874-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301923268",
+      "modelNumber": "",
+      "brand": "Litton Lane",
+      "title": "20 in. x 10 in. Hanging Round Framed Dark Gray Wall Mirror (Set of 3)",
+      "rating": {
+        "average": 3.8,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5413a691-c334-4b88-9f28-71831b45dab3/svn/litton-lane-wall-mirrors-54453-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 41.47,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316792006",
+      "modelNumber": "",
+      "brand": "Kate and Laurel",
+      "title": "Sedelle Rectangle Black Wall Mirror (24 in. H x 17 in. W)",
+      "rating": {
+        "average": 3.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3fda751b-49ae-5b2f-81ce-e8e878fff060/svn/kate-and-laurel-wall-mirrors-220522-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 105.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300941984",
+      "modelNumber": "",
+      "brand": "Litton Lane",
+      "title": "36 in. x 24 in. Brown Metal Industrial Round Wall Mirror (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3af29db5-956e-4e44-8527-709ac733e402/svn/litton-lane-wall-mirrors-69289-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 74.3,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324106462",
+      "modelNumber": "",
+      "brand": "Unbranded",
+      "title": "Modern Rustic (72in. W x 30.5in. H) Frameless Rectangular Wall Mirror with Chrome Oval Clips",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/026b8a7d-f8f8-423b-86b7-92665e3f5a5c/svn/unbranded-wall-mirrors-ffs-30-5-72-ch-oval-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 413.02,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316463962",
+      "modelNumber": "",
+      "brand": "Empire Art Direct",
+      "title": "30 in. x 22 in. Ultra Rectangle Brushed Silver Stainless Steel Framed Wall Mirror",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8b2f548c-b2ab-4a88-9c1b-4a47a34fb4a9/svn/empire-art-direct-wall-mirrors-psm-10701-2230-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 162.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337974162",
+      "modelNumber": "",
+      "brand": "LuxHomez",
+      "title": "36 in. W x 72 in. H Rectangular Frameless Tempered HD Wall Mirror/Gym Mirror/Dance Mirror",
+      "rating": {
+        "average": 4.5,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c18c8cd0-3957-4e29-aa06-f376b92377cf/svn/luxhomez-wall-mirrors-ggi-grm-3672-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 178.64,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330445924",
+      "modelNumber": "",
+      "brand": "LuxHomez",
+      "title": "32 in. W. x 71.2 in. H Modern Rectangle Aluminum Alloy Full Length Mirror Black Wall Mirror/Floor Mirror",
+      "rating": {
+        "average": 4.5962,
+        "count": 52
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/761150b7-f4bd-4228-a3b8-adae76619846/svn/luxhomez-wall-mirrors-lrm-80-bk-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 164.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331250725",
+      "modelNumber": "",
+      "brand": "XRAMFY",
+      "title": "34 in. W x 76 in. H Rectangular Black Aluminum Alloy Framed Modern Oversized Wall Mirror",
+      "rating": {
+        "average": 3.9706,
+        "count": 34
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37703081-4ae1-4edc-afe9-b99a6ea3cb5b/svn/xramfy-wall-mirrors-bmomrtsc3476bk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 165.58,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328963984",
+      "modelNumber": "",
+      "brand": "LuxHomez",
+      "title": "32 in. W. x 71 in. H Oversized Aluminum Alloy Rectangle Full Length Black Wall Mounted/Standing Mirror Floor Mirror",
+      "rating": {
+        "average": 4.5455,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a3901346-daeb-400e-bed6-235fadcf7bfe/svn/luxhomez-floor-mirrors-lrm-80-bk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323214930",
+      "modelNumber": "",
+      "brand": "XRAMFY",
+      "title": "24 in. W x 36 in. H Rectangular Aluminum Alloy Framed Rounded Black Wall Mirror",
+      "rating": {
+        "average": 4.4348,
+        "count": 115
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ea3f82e5-fdd0-4c20-b9f5-c149afb4d82c/svn/xramfy-wall-mirrors-brtrc2436-black-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 55.17,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328963829",
+      "modelNumber": "",
+      "brand": "LuxHomez",
+      "title": "32 in. W. x 71 in. H Oversized Aluminum Alloy Arch Full Length Black Wall Mounted/Standing Mirror Floor Mirror",
+      "rating": {
+        "average": 4.7,
+        "count": 30
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f1189552-2a56-48b9-a2bb-d072fd3b4954/svn/luxhomez-floor-mirrors-lam-80-bk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.06,
+        "currency": "USD"
+      }
+    }
+  ]
+}

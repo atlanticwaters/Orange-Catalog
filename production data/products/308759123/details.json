@@ -1,0 +1,45 @@
+{
+  "productId": "308759123",
+  "identifiers": {
+    "internetNumber": "308759123",
+    "modelNumber": "",
+    "storeSkuNumber": "308759123"
+  },
+  "brand": {
+    "name": "WEN",
+    "logoUrl": "images/brands/wen.svg"
+  },
+  "title": "4-Volt Max Lithium Ion Rechargeable Cordless Electric Screwdriver and Flashlight with Carrying Case and 40+ Accessories",
+  "shortDescription": "4-Volt Max Lithium Ion Rechargeable Cordless Electric Screwdriver and Flashlight with Carrying Case and 40+ Accessories",
+  "longDescription": "4-Volt Max Lithium Ion Rechargeable Cordless Electric Screwdriver and Flashlight with Carrying Case and 40+ Accessories",
+  "pricing": {
+    "currentPrice": 21.94,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2321,
+    "count": 224
+  },
+  "media": {
+    "primaryImage": "/products/308759123/wen-electric-screwdrivers-49140-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308759123/wen-electric-screwdrivers-49140-64_100.jpg",
+        "altText": "4-Volt Max Lithium Ion Rechargeable Cordless Electric Screwdriver and Flashlight with Carrying Case and 40+ Accessories",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.680100"
+}

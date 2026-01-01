@@ -1,0 +1,45 @@
+{
+  "productId": "317283440",
+  "identifiers": {
+    "internetNumber": "317283440",
+    "modelNumber": "",
+    "storeSkuNumber": "317283440"
+  },
+  "brand": {
+    "name": "Evolution Power Tools",
+    "logoUrl": "images/brands/evolution-power-tools.svg"
+  },
+  "title": "9 in. Electric Concrete Saw",
+  "shortDescription": "9 in. Electric Concrete Saw",
+  "longDescription": "9 in. Electric Concrete Saw",
+  "pricing": {
+    "currentPrice": 138.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2535,
+    "count": 71
+  },
+  "media": {
+    "primaryImage": "/products/317283440/evolution-power-tools-concrete-saws-r230dct-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317283440/evolution-power-tools-concrete-saws-r230dct-64_100.jpg",
+        "altText": "9 in. Electric Concrete Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.689281"
+}

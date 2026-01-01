@@ -1,0 +1,45 @@
+{
+  "productId": "206582178",
+  "identifiers": {
+    "internetNumber": "206582178",
+    "modelNumber": "",
+    "storeSkuNumber": "206582178"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "1 in. x 8 in. Super Duty Impact Wrench",
+  "shortDescription": "1 in. x 8 in. Super Duty Impact Wrench",
+  "longDescription": "1 in. x 8 in. Super Duty Impact Wrench",
+  "pricing": {
+    "currentPrice": 406.4,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.25,
+    "count": 4
+  },
+  "media": {
+    "primaryImage": "/products/206582178/aircat-air-impact-wrenches-1994-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206582178/aircat-air-impact-wrenches-1994-64_100.jpg",
+        "altText": "1 in. x 8 in. Super Duty Impact Wrench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.476308"
+}

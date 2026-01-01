@@ -1,474 +1,1034 @@
 {
   "categoryId": "tools/grinders",
   "name": "Grinders",
-  "originalUrl": "https://www.homedepot.com/b/Tools-Power-Tools-Grinders/N-5yc1vZc2fv",
-  "archiveTime": "2025-12-31T18:47:09.366Z",
+  "slug": "grinders",
+  "path": "/categories/tools/grinders",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.741106",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Tools",
-      "url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy"
+      "label": "Tools",
+      "url": "/tools"
     },
     {
-      "name": "Power Tools",
-      "url": "https://www.homedepot.com/b/Tools-Power-Tools/N-5yc1vZc298"
-    },
-    {
-      "name": "Grinders",
-      "url": "https://www.homedepot.com/b/Tools-Power-Tools-Grinders/N-5yc1vZc2fv"
+      "label": "Grinders",
+      "url": "/tools/grinders"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/12.avif",
-  "productIds": [
-    "205558109",
-    "205904316",
-    "206743975",
-    "301986732",
-    "302253240",
-    "311231763",
-    "311646209",
-    "311646232",
-    "312742154",
-    "315445886",
-    "318102170",
-    "318497955",
-    "318696913",
-    "319502657",
-    "319503107",
-    "319503467",
-    "319923566",
-    "319923732",
-    "322038211",
-    "324908252",
-    "325158253",
-    "325758326",
-    "326915276",
-    "329236767",
-    "330107045",
-    "330350963",
-    "331504119",
-    "331594731",
-    "331843223",
-    "332413242",
-    "333196643",
-    "335651999",
-    "336451236",
-    "337126539",
-    "337129515",
-    "337129516",
-    "337129519",
-    "337134593",
-    "337134594",
-    "337134595",
-    "337134596",
-    "337134597",
-    "337186190",
-    "337442600",
-    "337487517",
-    "339325784",
-    "339737832",
-    "339759728"
+  "pageInfo": {
+    "totalResults": 45
+  },
+  "featuredBrands": [
+    {
+      "brandId": "aircat",
+      "brandName": "AIRCAT",
+      "logoUrl": "images/brands/aircat.svg",
+      "count": 9
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 8
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 5
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 4
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 3
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 3
+    },
+    {
+      "brandId": "astro-pneumatic",
+      "brandName": "Astro Pneumatic",
+      "logoUrl": "images/brands/astro-pneumatic.svg",
+      "count": 2
+    },
+    {
+      "brandId": "damodpoy",
+      "brandName": "Damodpoy",
+      "logoUrl": "images/brands/damodpoy.svg",
+      "count": 2
+    },
+    {
+      "brandId": "emax",
+      "brandName": "EMAX",
+      "logoUrl": "images/brands/emax.svg",
+      "count": 2
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 48,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf29bb86004m-64_600.jpg"
+  "products": [
+    {
+      "productId": "303033892",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "5 in. Wet Air Stone/Granite Grinder Model GPW-215",
+      "rating": {
+        "average": 5.0,
+        "count": 1
       },
-      {
-        "filename": "images/66.avif",
-        "url": "https://images.thdstatic.com/productImages/f08fc639-a68b-4b41-9e7a-e2c589ee474e/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf23bb86004m-64_600.jpg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/667001e0-b2d2-4a0f-bf96-2951de2c1c20/svn/air-sanders-polishers-gpw215-64_100.jpg"
       },
-      {
-        "filename": "images/67.avif",
-        "url": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/68.avif",
-        "url": "https://images.thdstatic.com/productImages/f3824ac0-3b8e-4b46-b8cc-f56a5d572c96/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/69.avif",
-        "url": "https://images.thdstatic.com/productImages/5b111963-e652-4619-a4ac-59fe0319a51f/svn/charcoal-glass-matte-black-steel-samsung-french-door-refrigerators-rf29bb89008m-64_600.jpg"
-      },
-      {
-        "filename": "images/70.avif",
-        "url": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/71.avif",
-        "url": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_600.jpg"
-      },
-      {
-        "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_600.jpg"
-      },
-      {
-        "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_600.jpg"
-      },
-      {
-        "filename": "images/74.avif",
-        "url": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_600.jpg"
-      },
-      {
-        "filename": "images/75.avif",
-        "url": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_600.jpg"
-      },
-      {
-        "filename": "images/76.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_600.jpg"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://images.thdstatic.com/productImages/0fe49d2f-dfd6-4ea7-921b-0d7887f5ff72/svn/milwaukee-angle-grinders-2880-20-64_600.jpg"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "https://images.thdstatic.com/productImages/028e44d7-9a0f-4bb8-8989-7ca0efa82e2a/svn/milwaukee-angle-grinders-2880-20-48-59-1850-64_600.jpg"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "https://images.thdstatic.com/productImages/8d72cdc7-7bbe-47fc-8111-811771aa4fd4/svn/dewalt-angle-grinders-dcg418b-e4_600.jpg"
-      },
-      {
-        "filename": "images/24.avif",
-        "url": "https://images.thdstatic.com/productImages/68d348bd-b285-41b4-b276-db4e4d1f4312/svn/milwaukee-angle-grinders-2880-20-48-59-1850-e4_600.jpg"
-      },
-      {
-        "filename": "images/25.avif",
-        "url": "https://images.thdstatic.com/productImages/11e13a93-b0d9-4399-9756-a13e9fa3471d/svn/milwaukee-die-grinders-3485-20-64_600.jpg"
-      },
-      {
-        "filename": "images/27.avif",
-        "url": "https://images.thdstatic.com/productImages/e2912b12-9f4d-4f32-8b8c-8d9dfe95fbb2/svn/milwaukee-angle-grinders-3670-20-48-11-1881-64_600.jpg"
-      },
-      {
-        "filename": "images/28.avif",
-        "url": "https://images.thdstatic.com/productImages/d137cfce-4913-4ef4-869f-76da16478882/svn/milwaukee-angle-grinders-3670-20-48-11-1881-e4_600.jpg"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "https://images.thdstatic.com/productImages/38e415c2-0840-4bb5-b532-cbd7321c673d/svn/milwaukee-angle-grinders-3670-20-64_600.jpg"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://images.thdstatic.com/productImages/6809173b-4b49-4f0d-a3fd-34f030814057/svn/milwaukee-angle-grinders-3670-20-e4_600.jpg"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://images.thdstatic.com/productImages/bdeacba1-d0c3-4a81-be0c-0ca806557c52/svn/dewalt-angle-grinders-dcg408b-64_600.jpg"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://images.thdstatic.com/productImages/0b26e263-8ec4-45bf-964c-a74a5e2627a0/svn/dewalt-angle-grinders-dcg408b-e4_600.jpg"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://images.thdstatic.com/productImages/381edf01-d3af-4b6b-b629-12cb812b253f/svn/ryobi-angle-grinders-pcl445b-64_600.jpg"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "https://images.thdstatic.com/productImages/29c5adde-f864-481f-b48c-626959658f79/svn/dewalt-angle-grinders-dcg418b-64_600.jpg"
-      },
-      {
-        "filename": "images/26.avif",
-        "url": "https://images.thdstatic.com/productImages/027856f5-5689-4d81-89f8-6e73fe8ca169/svn/milwaukee-die-grinders-3485-20-e4_600.jpg"
-      },
-      {
-        "filename": "images/34.webp",
-        "url": "https://images.thdstatic.com/productImages/2924cf4c-9369-46e8-9bce-ed12342697d9/svn/ryobi-angle-grinders-pcl445b-e4_600.jpg"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://images.thdstatic.com/productImages/57405c42-3534-4b8f-96c6-96f0e3e32608/svn/milwaukee-die-grinders-2486-22-2522-20-64_600.jpg"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://images.thdstatic.com/productImages/fca29336-6224-4524-ac79-6bc76ef7810e/svn/dewalt-angle-grinders-dcg418bwdcb606c-64_600.jpg"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://images.thdstatic.com/productImages/50c889bd-d48b-42eb-a03a-ed62ac781938/svn/milwaukee-die-grinders-2486-22-2446-20-64_600.jpg"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://images.thdstatic.com/productImages/240b6731-9e7a-4827-8db2-c674ef723f6b/svn/milwaukee-die-grinders-3485-22-48-11-2450-64_600.jpg"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://images.thdstatic.com/productImages/3cad0e5d-d888-4680-8cf3-316ea8c9495f/svn/milwaukee-die-grinders-3485-22-2522-20-64_600.jpg"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://images.thdstatic.com/productImages/369a6759-e7e2-48a1-8558-99cf35cdea91/svn/milwaukee-die-grinders-3485-22-2446-20-64_600.jpg"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://images.thdstatic.com/productImages/123ce64a-2bef-415b-ba75-09bec08b4d05/svn/dewalt-angle-grinders-dcg416bwcbp034c-64_600.jpg"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://images.thdstatic.com/productImages/ffb492fa-b020-4fdb-ac0c-ef78ddb3026e/svn/milwaukee-die-grinders-2486-22-3453-20-64_600.jpg"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://images.thdstatic.com/productImages/f0d8a259-70e2-43d1-ac3c-d0fc743489e1/svn/milwaukee-die-grinders-3485-22-2471-20-64_600.jpg"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://images.thdstatic.com/productImages/45c01fac-412c-4397-9136-ff339b5d7b6a/svn/milwaukee-angle-grinders-3670-22-2882-20-64_600.jpg"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://images.thdstatic.com/productImages/ed9f34cf-8c4b-4a12-9c44-8c6201e62c02/svn/busdays-bench-grinders-djyc-w465p173365-64_600.jpg"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://images.thdstatic.com/productImages/6ae4fe59-29bd-4253-bd72-2ba568e8fa64/svn/damodpoy-bench-grinders-la-gh73365-64_600.jpg"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://images.thdstatic.com/productImages/9af54ce4-8848-4e75-b8fb-0dc8435b2516/svn/damodpoy-bench-grinders-la-gh73360-64_600.jpg"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://images.thdstatic.com/productImages/8a943a6f-917c-4616-9756-5010f29a240a/svn/skyshalo-bench-grinders-tshcqptxss8ik8cxd001v1-sk0630-64_600.jpg"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/661ea7ab-6c93-4b79-a888-5e4a93137407/svn/ridgid-angle-grinders-ac8609340sb-r86047b-64_600.jpg"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/d233830a-dc58-4504-a2fa-2df9957100e8/svn/makita-angle-grinders-xag04z-64_600.jpg"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://images.thdstatic.com/productImages/51d44310-b36a-409d-a00d-467523c4b35f/svn/ridgid-angle-grinders-ac8609340sb-r86047b-e4_600.jpg"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://images.thdstatic.com/productImages/c747a4e8-e12b-4a90-b3be-2f0eeed07699/svn/ridgid-angle-grinders-r86047b-ac93044sbn-64_600.jpg"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://images.thdstatic.com/productImages/5d28d011-ea83-457c-aa4f-acd01991e7ec/svn/ridgid-angle-grinders-ac93044sbn-r860451b-64_600.jpg"
-      },
-      {
-        "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/d3bd6afa-f295-42ee-bd4f-c21d8dbf157c/svn/milwaukee-die-grinders-2486-20-64_600.jpg"
-      },
-      {
-        "filename": "images/57.avif",
-        "url": "https://images.thdstatic.com/productImages/1a87fff4-5606-48d2-a2da-19705c19ff13/svn/ryobi-angle-grinders-pblag02b-64_600.jpg"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/47bb60b2-92b0-43b9-a735-39b2a3024be0/svn/ridgid-angle-grinders-r86047b-64_600.jpg"
-      },
-      {
-        "filename": "images/60.avif",
-        "url": "https://images.thdstatic.com/productImages/57fb009a-2cbd-4cd9-84a4-86c527eca67b/svn/dewalt-angle-grinders-dwe402-64_600.jpg"
-      },
-      {
-        "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/74a07660-4bfa-43db-a035-0488daa394f9/svn/milwaukee-angle-grinders-2686-20-64_600.jpg"
-      },
-      {
-        "filename": "images/62.avif",
-        "url": "https://images.thdstatic.com/productImages/8c370677-d2ca-4f88-83b9-c4c2c40d404d/svn/milwaukee-angle-grinders-2880-20-49-94-4520-64_600.jpg"
-      },
-      {
-        "filename": "images/63.avif",
-        "url": "https://images.thdstatic.com/productImages/019778ff-06fd-40c4-97a1-53458cbe7bb3/svn/ryobi-angle-grinders-ag4031g-64_600.jpg"
-      },
-      {
-        "filename": "images/64.avif",
-        "url": "https://images.thdstatic.com/productImages/60610fa1-8777-4b02-b859-0bc5748ce58c/svn/ridgid-angle-grinders-r860451k-64_600.jpg"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://images.thdstatic.com/productImages/fe055a31-edab-42ae-bb5b-d74b7a093913/svn/milwaukee-die-grinders-3485-22-3453-20-64_600.jpg"
-      },
-      {
-        "filename": "images/59.avif",
-        "url": "https://images.thdstatic.com/productImages/598723bc-041c-4169-9162-7ed10403c1fd/svn/milwaukee-die-grinders-2486-22-64_600.jpg"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://images.thdstatic.com/productImages/6905ba40-7138-479c-a38f-84c56ad1df30/svn/dewalt-angle-grinders-dcg405bwb225-2c-64_600.jpg"
+      "price": {
+        "current": 189.88,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/10.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
+    },
+    {
+      "productId": "326594124",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "GCC M12 FUEL Right Angle Die Grinder w/ 2.5 Ah Battery",
+      "rating": {
+        "average": 0.0,
+        "count": 0
       },
-      {
-        "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/90322332-fa95-4e57-b6e7-834ead1bdf90/svn/milwaukee-air-grinders-613523-64_100.jpg"
       },
-      {
-        "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
-      },
-      {
-        "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/86.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/87.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/88.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/89.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/90.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/91.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/92.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/93.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/94.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/96.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/97.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/95.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/98.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/99.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/100.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/101.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/102.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/103.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/104.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/11.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+    },
+    {
+      "productId": "304783959",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "1/4 in. Angle Die Grinder with Accessory Kit",
+      "rating": {
+        "average": 4.2658,
+        "count": 158
       },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/40c2218c-7581-4263-ba9d-8c59319c9bb2/svn/husky-air-grinders-h4230c-64_100.jpg"
       },
-      {
-        "filename": "images/19.avif",
-        "url": "https://assets.thdstatic.com/images/special-buy--pod.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/13.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/38/381edf01-d3af-4b6b-b629-12cb812b253f_300.jpg"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/2b/2b620c9c-9a6f-4856-87da-1e7d761e403f_300.jpg"
-      },
-      {
-        "filename": "images/14.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/11/11e13a93-b0d9-4399-9756-a13e9fa3471d_300.jpg"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/bd/bdeacba1-d0c3-4a81-be0c-0ca806557c52_300.jpg"
-      },
-      {
-        "filename": "images/17.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/1a/1a87fff4-5606-48d2-a2da-19705c19ff13_300.jpg"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/0f/0fe49d2f-dfd6-4ea7-921b-0d7887f5ff72_300.jpg"
-      },
-      {
-        "filename": "images/77.avif",
-        "url": "https://images.thdstatic.com/productImages/0fe49d2f-dfd6-4ea7-921b-0d7887f5ff72/svn/milwaukee-angle-grinders-2880-20-64_300.jpg"
-      },
-      {
-        "filename": "images/78.avif",
-        "url": "https://images.thdstatic.com/productImages/38e415c2-0840-4bb5-b532-cbd7321c673d/svn/milwaukee-angle-grinders-3670-20-64_300.jpg"
-      },
-      {
-        "filename": "images/79.avif",
-        "url": "https://images.thdstatic.com/productImages/bdeacba1-d0c3-4a81-be0c-0ca806557c52/svn/dewalt-angle-grinders-dcg408b-64_300.jpg"
-      },
-      {
-        "filename": "images/80.avif",
-        "url": "https://images.thdstatic.com/productImages/6ea5fb01-f95a-4eec-b060-904530e3ed37/svn/dewalt-angle-grinders-dwe402w-64_300.jpg"
+      "price": {
+        "current": 79.98,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Grinders - The Home Depot",
-    "categoryType": "Tool Categories",
-    "categoryFolder": "Grinders"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "304783961",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "1/4 in. Straight Die Grinder",
+      "rating": {
+        "average": 4.1728,
+        "count": 81
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aea406c9-08c5-4d14-b0ef-e11fcbcb22ad/svn/husky-air-grinders-h4220-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314773100",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "1 HP 4-1/2 in. 1-Handed Composite Angle Grinder",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5a79154a-2bc4-4de4-8f16-72b3c3168dd1/svn/aircat-air-grinders-6340-a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 211.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766994",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 3/4 HP 1/4 in. Right Angle Die Grinder with Spindle Lock",
+      "rating": {
+        "average": 4.2,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dc447d7d-946d-42b1-a462-e40255b3b8aa/svn/aircat-air-grinders-6280-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 131.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206808789",
+      "modelNumber": "",
+      "brand": "Ingersoll Rand",
+      "title": "Angle Die Grinder",
+      "rating": {
+        "average": 4.1429,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/da6979b0-f239-4657-b625-e41eb73959f0/svn/ingersoll-rand-air-grinders-irt301b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 74.81,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766998",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 1 HP 1/4 in. Straight Die Grinder",
+      "rating": {
+        "average": 4.8571,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/75797053-200b-466a-87b6-154706d42feb/svn/aircat-air-grinders-6260-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 114.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302767000",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 1 HP 1/4 in. Right Angle Die Grinder Combo",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f99b20f2-4911-475d-aeaf-0cdd5f875535/svn/aircat-air-grinders-6265-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 186.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766993",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 1/4 in. Right Angle Die Grinder",
+      "rating": {
+        "average": 4.2,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/527ac6ec-5c7c-4d02-b434-d1a8a656c468/svn/aircat-air-grinders-6255-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 105.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300683196",
+      "modelNumber": "",
+      "brand": "Astro Pneumatic",
+      "title": "1/8 in. 56,000RPM Pencil Die Grinder",
+      "rating": {
+        "average": 4.6429,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5af540f5-df32-4e82-871d-e6d5aec01f73/svn/astro-pneumatic-air-grinders-ast218-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302595756",
+      "modelNumber": "",
+      "brand": "Jet",
+      "title": "R6 JAT-403 1/4 in. Right Angle Die Grinder",
+      "rating": {
+        "average": 3.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3415b543-8bf8-4248-89e1-3ef39d4315f1/svn/jet-air-grinders-505403-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 83.05,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766999",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 1 HP 1/4 in. Extended Straight Die Grinder",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6e010a32-a2e8-484d-a171-0ee91f6d3de2/svn/aircat-air-grinders-6270-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 207.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206859198",
+      "modelNumber": "",
+      "brand": "Astro Pneumatic",
+      "title": "1/4 in. Die Grinder and 8-Piece Burr Set Combo",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ed1bfdc1-eb37-4c43-8309-4217ff3bace2/svn/astro-pneumatic-air-grinders-ast2181b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 94.69,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328954834",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "1/4 in. Air Right-Angle Die Grinder",
+      "rating": {
+        "average": 4.7,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ddfe186-685d-4c30-86ec-3bd693d01472/svn/porter-cable-air-grinders-pxcm024-0275-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 46.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766995",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 3/4 HP 1/4 in. Straight Die Grinder with Spindle Lock",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c9388f9-5790-46c4-9497-0351a37cdd0a/svn/aircat-air-grinders-6285-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 105.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766988",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 1/4 in. Straight Die Grinder",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1ad33ca6-aa67-4a94-a20b-38f348dbb04d/svn/aircat-air-grinders-6201-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 85.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331480725",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "2 in. Angle Grinder",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5444743-5a09-4f12-8655-13a3ebe503ce/svn/aircat-air-grinders-6220-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.05,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202590358",
+      "modelNumber": "",
+      "brand": "Powermate",
+      "title": "Air Die Grinder",
+      "rating": {
+        "average": 4.2222,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/931fa773-7ce5-42cc-8adf-8cd7d1699b4a/svn/powermate-air-grinders-024-0078ct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 13.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319044791",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "4-Pc Air Tool Kit W/ 1/2-in. Impact, 3/8-in. Ratchet, Die Grinder, Hammer, Sockets, Chisels, Grinding Stones (27-Pieces)",
+      "rating": {
+        "average": 3.3636,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/39a26e68-3674-40b1-8197-99c0b1c04dfd/svn/husky-air-tool-kits-hdk1008-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304781258",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "4-Pc Air Tool Kit With 1/2 in. Impact, 3/8 in. Ratchet, Die Grinder, Hammer, Sockets, Chisels, Grinding Stones -27 pcs",
+      "rating": {
+        "average": 3.878,
+        "count": 123
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c83f1342-338c-4f1d-b7e8-d79ffc36852b/svn/husky-air-tool-kits-hdk1008-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 114.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338320871",
+      "modelNumber": "",
+      "brand": "Damodpoy",
+      "title": "44-Piece AirTool Kits, w/ 1/2ft. Impact Wrench, 3/8ft. Air Wrench, 1/4in. Air Grinder, Air Gun, Air Hammer & Accessories",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/72a0ca4f-a7e5-4c22-a22a-4c53af3b7b07/svn/damodpoy-air-tool-kits-la-gh-64153-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 318.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "340093740",
+      "modelNumber": "",
+      "brand": "Damodpoy",
+      "title": "71 Piece Air Tool and Accessories Kit, Impact Wrench, Air Ratchet, Die Grinder, Aire Hammer, Hose Fittings, Storage Case",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0d65b65e-1761-4311-a1e7-ebe9793895b1/svn/damodpoy-air-tool-kits-la-ex78755-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 223.37,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300010517",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "Industrial Duty Air Angle Grinder",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aaf97077-fd4a-4f8e-b51b-d985ec12df23/svn/emax-air-grinders-hatag40s1p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 166.08,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202502880",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "Industrial Duty Air Angle Grinder",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bfad879b-1f68-4b16-ba9b-caccfe981902/svn/emax-air-grinders-eatag40s1p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 166.08,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316330123",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "Cast Iron Bench Grinder Pedestal Stand with Water Pot",
+      "rating": {
+        "average": 4.4737,
+        "count": 342
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cfc8a634-a510-4e16-a323-541df8919587/svn/wen-tool-stands-4288t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.36,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315445886",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Grinder w/Paddle Switch (Tool-Only)",
+      "rating": {
+        "average": 4.786,
+        "count": 3476
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0fe49d2f-dfd6-4ea7-921b-0d7887f5ff72/svn/milwaukee-angle-grinders-2880-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312742154",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless Brushless 4.5 in. to 6 in. Small Angle Grinder with Kickback Brake (Tool Only)",
+      "rating": {
+        "average": 4.6024,
+        "count": 415
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/29c5adde-f864-481f-b48c-626959658f79/svn/dewalt-angle-grinders-dcg418b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318102170",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Grinder and Starter Kit w/(1) 5.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.6746,
+        "count": 2197
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/028e44d7-9a0f-4bb8-8989-7ca0efa82e2a/svn/milwaukee-angle-grinders-2880-20-48-59-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 439.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333196643",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Right Angle Die Grinder (Tool-Only)",
+      "rating": {
+        "average": 4.4091,
+        "count": 110
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/11e13a93-b0d9-4399-9756-a13e9fa3471d/svn/milwaukee-die-grinders-3485-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331594731",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lith-Ion Brushless Cordless 4-1/2 in./6 in. Grinder with M18 REDLITHIUM FORGE XC 8.0 Ah Battery",
+      "rating": {
+        "average": 4.7538,
+        "count": 2384
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e2912b12-9f4d-4f32-8b8c-8d9dfe95fbb2/svn/milwaukee-angle-grinders-3670-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330107045",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless 4-1/2 in./6 in. Braking Grinder with Paddle Switch (Tool-Only)",
+      "rating": {
+        "average": 4.7326,
+        "count": 1664
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38e415c2-0840-4bb5-b532-cbd7321c673d/svn/milwaukee-angle-grinders-3670-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332413242",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Brushless 4-1/2 in. Angle Grinder with Paddle Switch (Tool Only)",
+      "rating": {
+        "average": 4.96,
+        "count": 25
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bdeacba1-d0c3-4a81-be0c-0ca806557c52/svn/dewalt-angle-grinders-dcg408b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318696913",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 4-1/2 in. Angle Grinder (Tool Only)",
+      "rating": {
+        "average": 4.6183,
+        "count": 2028
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/381edf01-d3af-4b6b-b629-12cb812b253f/svn/ryobi-angle-grinders-pcl445b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331504119",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with FREE 18V Brushless Angle Grinder",
+      "rating": {
+        "average": 4.7954,
+        "count": 782
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/661ea7ab-6c93-4b79-a888-5e4a93137407/svn/ridgid-angle-grinders-ac8609340sb-r86047b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301986732",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Cut-Off/Angle Grinder (Tool-Only)",
+      "rating": {
+        "average": 4.6449,
+        "count": 4171
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d233830a-dc58-4504-a2fa-2df9957100e8/svn/makita-angle-grinders-xag04z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641126",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless 4-1/2 in. Paddle Switch Angle Grinder with (2) 4.0 Ah Batteries, Charger, and Bag",
+      "rating": {
+        "average": 4.7544,
+        "count": 3978
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c747a4e8-e12b-4a90-b3be-2f0eeed07699/svn/ridgid-angle-grinders-r86047b-ac93044sbn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 416.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959134",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V 4.0 Ah Battery (2-Pack) with Charger, Bag, and 18V 4-1/2 in. Cordless Angle Grinder",
+      "rating": {
+        "average": 4.7768,
+        "count": 3508
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5d28d011-ea83-457c-aa4f-acd01991e7ec/svn/ridgid-angle-grinders-ac93044sbn-r860451b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 391.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318497955",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless 4-1/2 in. Paddle Switch Angle Grinder (Tool Only)",
+      "rating": {
+        "average": 4.5,
+        "count": 582
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/47bb60b2-92b0-43b9-a735-39b2a3024be0/svn/ridgid-angle-grinders-r86047b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324908252",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Brushless Cordless 4-1/2 in./5 in. Grinder w/Paddle Switch (Tool-Only)",
+      "rating": {
+        "average": 4.6044,
+        "count": 412
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/74a07660-4bfa-43db-a035-0488daa394f9/svn/milwaukee-angle-grinders-2686-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206743975",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "11 Amp Corded 4.5 in. Small Angle Grinder",
+      "rating": {
+        "average": 4.6023,
+        "count": 430
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ea5fb01-f95a-4eec-b060-904530e3ed37/svn/dewalt-angle-grinders-dwe402w-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 118.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330350963",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless 4-1/2 in. Angle Grinder Kit with 4.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7061,
+        "count": 330
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/60610fa1-8777-4b02-b859-0bc5748ce58c/svn/ridgid-angle-grinders-r860451k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311646209",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Straight Die Grinder (Tool-Only)",
+      "rating": {
+        "average": 4.3935,
+        "count": 521
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d3bd6afa-f295-42ee-bd4f-c21d8dbf157c/svn/milwaukee-die-grinders-2486-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329236767",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless 4-1/2 in. Angle Grinder (Tool Only)",
+      "rating": {
+        "average": 4.4928,
+        "count": 209
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a87fff4-5606-48d2-a2da-19705c19ff13/svn/ryobi-angle-grinders-pblag02b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205558109",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "5.5 Amp Corded 4-1/2 in. Angle Grinder",
+      "rating": {
+        "average": 4.3249,
+        "count": 1065
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/019778ff-06fd-40c4-97a1-53458cbe7bb3/svn/ryobi-angle-grinders-ag4031g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.0,
+        "currency": "USD"
+      }
+    }
+  ]
 }

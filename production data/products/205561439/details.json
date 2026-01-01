@@ -1,0 +1,45 @@
+{
+  "productId": "205561439",
+  "identifiers": {
+    "internetNumber": "205561439",
+    "modelNumber": "",
+    "storeSkuNumber": "205561439"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18V Lithium-Ion Cordless 1/4 in. Hex 2-Speed Right Angle Impact Driver (Tool-Only)",
+  "shortDescription": "M18 18V Lithium-Ion Cordless 1/4 in. Hex 2-Speed Right Angle Impact Driver (Tool-Only)",
+  "longDescription": "M18 18V Lithium-Ion Cordless 1/4 in. Hex 2-Speed Right Angle Impact Driver (Tool-Only)",
+  "pricing": {
+    "currentPrice": 179.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.529,
+    "count": 138
+  },
+  "media": {
+    "primaryImage": "/products/205561439/milwaukee-right-angle-drills-2667-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205561439/milwaukee-right-angle-drills-2667-20-64_100.jpg",
+        "altText": "M18 18V Lithium-Ion Cordless 1/4 in. Hex 2-Speed Right Angle Impact Driver (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.691451"
+}

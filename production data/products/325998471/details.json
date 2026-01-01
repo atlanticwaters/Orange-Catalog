@@ -1,0 +1,45 @@
+{
+  "productId": "325998471",
+  "identifiers": {
+    "internetNumber": "325998471",
+    "modelNumber": "",
+    "storeSkuNumber": "325998471"
+  },
+  "brand": {
+    "name": "Home Decorators Collection",
+    "logoUrl": "images/brands/home-decorators-collection.svg"
+  },
+  "title": "3-Piece Oatmeal Cotton Linen Blend Full/Queen Comforter Set",
+  "shortDescription": "3-Piece Oatmeal Cotton Linen Blend Full/Queen Comforter Set",
+  "longDescription": "3-Piece Oatmeal Cotton Linen Blend Full/Queen Comforter Set",
+  "pricing": {
+    "currentPrice": 110.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3077,
+    "count": 13
+  },
+  "media": {
+    "primaryImage": "/products/325998471/home-decorators-collection-comforters-hd018-fq-oatmeal-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325998471/home-decorators-collection-comforters-hd018-fq-oatmeal-64_100.jpg",
+        "altText": "3-Piece Oatmeal Cotton Linen Blend Full/Queen Comforter Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.473460"
+}

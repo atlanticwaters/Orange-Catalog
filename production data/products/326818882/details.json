@@ -1,0 +1,45 @@
+{
+  "productId": "326818882",
+  "identifiers": {
+    "internetNumber": "326818882",
+    "modelNumber": "",
+    "storeSkuNumber": "326818882"
+  },
+  "brand": {
+    "name": "Costway",
+    "logoUrl": "images/brands/costway.svg"
+  },
+  "title": "14 in. White Square HDPE End Table Weather Resistant Garden in White",
+  "shortDescription": "14 in. White Square HDPE End Table Weather Resistant Garden in White",
+  "longDescription": "14 in. White Square HDPE End Table Weather Resistant Garden in White",
+  "pricing": {
+    "currentPrice": 41.18,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/326818882/white-costway-end-side-tables-a1q2-10n939it-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326818882/white-costway-end-side-tables-a1q2-10n939it-64_100.jpg",
+        "altText": "14 in. White Square HDPE End Table Weather Resistant Garden in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.608495"
+}

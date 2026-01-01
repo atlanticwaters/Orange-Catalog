@@ -1,0 +1,45 @@
+{
+  "productId": "316879157",
+  "identifiers": {
+    "internetNumber": "316879157",
+    "modelNumber": "",
+    "storeSkuNumber": "316879157"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Brushless Cordless 4-Mode 1/2 in. High Torque Impact Wrench Kit with 4.0 Battery and Charger",
+  "shortDescription": "ONE+ 18V Brushless Cordless 4-Mode 1/2 in. High Torque Impact Wrench Kit with 4.0 Battery and Charger",
+  "longDescription": "ONE+ 18V Brushless Cordless 4-Mode 1/2 in. High Torque Impact Wrench Kit with 4.0 Battery and Charger",
+  "pricing": {
+    "currentPrice": 149.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7156,
+    "count": 1948
+  },
+  "media": {
+    "primaryImage": "/products/316879157/ryobi-impact-wrenches-pbliw01k1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316879157/ryobi-impact-wrenches-pbliw01k1-64_100.jpg",
+        "altText": "ONE+ 18V Brushless Cordless 4-Mode 1/2 in. High Torque Impact Wrench Kit with 4.0 Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.683789"
+}

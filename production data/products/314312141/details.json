@@ -1,0 +1,45 @@
+{
+  "productId": "314312141",
+  "identifiers": {
+    "internetNumber": "314312141",
+    "modelNumber": "",
+    "storeSkuNumber": "314312141"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "4.5 cu. ft. High-Efficiency Front Load Washer in Brushed Black with Self-Clean+",
+  "shortDescription": "4.5 cu. ft. High-Efficiency Front Load Washer in Brushed Black with Self-Clean+",
+  "longDescription": "4.5 cu. ft. High-Efficiency Front Load Washer in Brushed Black with Self-Clean+",
+  "pricing": {
+    "currentPrice": 679.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3152,
+    "count": 3629
+  },
+  "media": {
+    "primaryImage": "/products/314312141/brushed-black-samsung-front-load-washers-wf45t6000av-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/314312141/brushed-black-samsung-front-load-washers-wf45t6000av-64_100.jpg",
+        "altText": "4.5 cu. ft. High-Efficiency Front Load Washer in Brushed Black with Self-Clean+",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.457719"
+}

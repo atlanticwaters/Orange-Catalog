@@ -1,0 +1,45 @@
+{
+  "productId": "334736658",
+  "identifiers": {
+    "internetNumber": "334736658",
+    "modelNumber": "",
+    "storeSkuNumber": "334736658"
+  },
+  "brand": {
+    "name": "ZLINE Kitchen and Bath",
+    "logoUrl": "images/brands/zline-kitchen-and-bath.svg"
+  },
+  "title": "Touchstone 15 in. 75 lb. Full Size Ice Cubes Per Day Ice Maker with Drain Pump and Solid Stainless Steel Door",
+  "shortDescription": "Touchstone 15 in. 75 lb. Full Size Ice Cubes Per Day Ice Maker with Drain Pump and Solid Stainless Steel Door",
+  "longDescription": "Touchstone 15 in. 75 lb. Full Size Ice Cubes Per Day Ice Maker with Drain Pump and Solid Stainless Steel Door",
+  "pricing": {
+    "currentPrice": 2719.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7692,
+    "count": 13
+  },
+  "media": {
+    "primaryImage": "/products/334736658/stainless-steel-zline-kitchen-and-bath-undercounter-ice-makers-iccd-st-15-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334736658/stainless-steel-zline-kitchen-and-bath-undercounter-ice-makers-iccd-st-15-64_100.jpg",
+        "altText": "Touchstone 15 in. 75 lb. Full Size Ice Cubes Per Day Ice Maker with Drain Pump and Solid Stainless Steel Door",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.452336"
+}

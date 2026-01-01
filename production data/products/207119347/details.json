@@ -1,0 +1,45 @@
+{
+  "productId": "207119347",
+  "identifiers": {
+    "internetNumber": "207119347",
+    "modelNumber": "",
+    "storeSkuNumber": "207119347"
+  },
+  "brand": {
+    "name": "VIM Tools",
+    "logoUrl": "images/brands/vim-tools.svg"
+  },
+  "title": "Soft Tip Air Hammers",
+  "shortDescription": "Soft Tip Air Hammers",
+  "longDescription": "Soft Tip Air Hammers",
+  "pricing": {
+    "currentPrice": 65.37,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/207119347/vim-tools-air-hammers-vimah100-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/207119347/vim-tools-air-hammers-vimah100-64_100.jpg",
+        "altText": "Soft Tip Air Hammers",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.628478"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "207153651",
+  "identifiers": {
+    "internetNumber": "207153651",
+    "modelNumber": "",
+    "storeSkuNumber": "207153651"
+  },
+  "brand": {
+    "name": "California Air Tools",
+    "logoUrl": "images/brands/california-air-tools.svg"
+  },
+  "title": "10 Gal. Lightweight Portable Aluminum Air Tank",
+  "shortDescription": "10 Gal. Lightweight Portable Aluminum Air Tank",
+  "longDescription": "10 Gal. Lightweight Portable Aluminum Air Tank",
+  "pricing": {
+    "currentPrice": 110.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2037,
+    "count": 54
+  },
+  "media": {
+    "primaryImage": "/products/207153651/california-air-tools-compressor-accessories-aux10a-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/207153651/california-air-tools-compressor-accessories-aux10a-64_100.jpg",
+        "altText": "10 Gal. Lightweight Portable Aluminum Air Tank",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.505559"
+}

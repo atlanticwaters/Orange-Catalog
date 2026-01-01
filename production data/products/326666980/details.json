@@ -1,0 +1,45 @@
+{
+  "productId": "326666980",
+  "identifiers": {
+    "internetNumber": "326666980",
+    "modelNumber": "",
+    "storeSkuNumber": "326666980"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Cordless Dual Function Inflator/Deflator(Tool Only)",
+  "shortDescription": "ONE+ 18V Cordless Dual Function Inflator/Deflator(Tool Only)",
+  "longDescription": "ONE+ 18V Cordless Dual Function Inflator/Deflator(Tool Only)",
+  "pricing": {
+    "currentPrice": 39.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4683,
+    "count": 993
+  },
+  "media": {
+    "primaryImage": "/products/326666980/ryobi-inflators-pcl031b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326666980/ryobi-inflators-pcl031b-64_100.jpg",
+        "altText": "ONE+ 18V Cordless Dual Function Inflator/Deflator(Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.574625"
+}

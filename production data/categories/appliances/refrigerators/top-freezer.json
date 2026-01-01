@@ -1,0 +1,735 @@
+{
+  "categoryId": "appliances/refrigerators/top-freezer",
+  "name": "Top Freezer",
+  "slug": "top-freezer",
+  "path": "/categories/appliances/refrigerators/top-freezer",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.711084",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    },
+    {
+      "label": "Top Freezer",
+      "url": "/appliances/refrigerators/top-freezer"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 32
+  },
+  "featuredBrands": [
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 12
+    },
+    {
+      "brandId": "vissani",
+      "brandName": "Vissani",
+      "logoUrl": "images/brands/vissani.svg",
+      "count": 8
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 6
+    },
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 4
+    },
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 2
+    }
+  ],
+  "products": [
+    {
+      "productId": "314983230",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu. ft. Mini Fridge in Cream with Rounded Corners and Top Freezer",
+      "rating": {
+        "average": 3.9699,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2760d1bb-c398-409c-bca8-6046ff296fc3/svn/cream-frigidaire-mini-fridges-efr756-cream-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315472312",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu ft Mini Refrigerator with Top Freezer and Chrome Handles in Black",
+      "rating": {
+        "average": 4.0132,
+        "count": 227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b73cb6cf-4025-4a53-a10c-4f168e40e6e3/svn/black-frigidaire-mini-fridges-efr786-black-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 368.59,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324722051",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu. ft. Retro Mini Fridge in Mint with Top Freezer",
+      "rating": {
+        "average": 3.7714,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9a61b641-726f-4ef7-85c0-eef70445f696/svn/green-frigidaire-mini-fridges-efr753-mint-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 369.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315471317",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu. ft. Mini Refrigerator in Platinum with Top Freezer",
+      "rating": {
+        "average": 3.65,
+        "count": 80
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/647a9a0b-7684-4e6a-8956-c933649f930d/svn/platinum-frigidaire-mini-fridges-efr751-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 334.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315417529",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "3.2 cu. ft. Retro 2-Door Mini Refrigerator in Platinum Design with Top Freezer",
+      "rating": {
+        "average": 4.2297,
+        "count": 74
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/534d995a-48f5-4606-a9f8-6dbacbc66747/svn/platinum-frigidaire-mini-fridges-efr391-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.68,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311231763",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 in. W 20 cu. ft. Top Freezer Refrigerator w/ Multi-Air Flow and Reversible Door in Stainless Steel,ENERGY STAR",
+      "rating": {
+        "average": 4.35,
+        "count": 5305
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1088.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300159571",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "28 in. 17.64 cu. ft. Wide Top Freezer Refrigerator in Stainless Steel with EZ Connect Ice Maker Compatibility",
+      "rating": {
+        "average": 4.2731,
+        "count": 7292
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/528bce3b-81cf-4cba-bce8-d271cc069d26/svn/stainless-steel-whirlpool-top-freezer-refrigerators-wrt518szfm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 729.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319881477",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.5 Cu. Ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4639,
+        "count": 4186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a2024846-cf35-410e-a53b-f82f326d77ea/svn/fingerprint-resistant-stainless-steel-ge-top-freezer-refrigerators-gts18hynrfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1049.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311743486",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 18.3 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.477,
+        "count": 17765
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/85fa865f-fd74-43a1-a96b-9d70875ad9fa/svn/stainless-steel-frigidaire-top-freezer-refrigerators-fftr1835vs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 679.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311743494",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 18.3 cu. ft. Top Freezer Refrigerator, Garage Ready",
+      "rating": {
+        "average": 4.4766,
+        "count": 17783
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/89695bb5-6b3a-46ef-825e-50cb962251aa/svn/white-frigidaire-top-freezer-refrigerators-fftr1835vw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311067745",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "16.6 cu. ft. Top Freezer Refrigerator in White",
+      "rating": {
+        "average": 4.3758,
+        "count": 3952
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2b6ab996-8ccb-405d-8fb4-bdf6e84ff5c2/svn/white-ge-top-freezer-refrigerators-gts17dtnrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 849.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319881550",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.9 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.371,
+        "count": 12115
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b0515da0-fd5c-4f69-8f68-63849bafae6a/svn/fingerprint-resistant-stainless-steel-ge-top-freezer-refrigerators-gts22kynrfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317013048",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.19,
+        "count": 458
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/850e79cf-6861-4341-b638-df1c2df1cef5/svn/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf18ssr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327511518",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 20 cu. ft. Garage Ready Freestanding Top Freezer Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.3021,
+        "count": 1165
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/192d8340-4941-467c-8896-b051312e4611/svn/stainless-steel-frigidaire-top-freezer-refrigerators-ffht2022as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 749.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310378589",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "27.6 in. 14 cu. ft. Top Freezer Refrigerator in Fingerprint-Resistant Stainless Look, ENERGY STAR",
+      "rating": {
+        "average": 4.5225,
+        "count": 6574
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2a87819f-d69a-447e-a1ea-c3f048a4cfcd/svn/fingerprint-resistant-stainless-look-frigidaire-top-freezer-refrigerators-ffht1425vv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 829.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317013047",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18 cu. ft. Top Freezer Refrigerator DOE in White, Garage Ready",
+      "rating": {
+        "average": 4.2023,
+        "count": 1038
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f70ebbd3-485e-44c9-be08-7214c748cd52/svn/white-vissani-top-freezer-refrigerators-mdtf18whr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 569.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317371475",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "10.1 cu. ft. Top Freezer Refrigerator in Black, Garage Ready",
+      "rating": {
+        "average": 4.1102,
+        "count": 644
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/457ddd52-7832-4171-9b19-455bac7186b1/svn/black-vissani-top-freezer-refrigerators-mdtf10bk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 479.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329404447",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "7.2 cu. ft. Top Freezer Refrigerator in Stainless Steel Look",
+      "rating": {
+        "average": 3.8643,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2bec6a5b-5e3d-462b-b3ce-9c699a50ae2b/svn/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf7sses4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205658420",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in White with Frameless Glass Shelves",
+      "rating": {
+        "average": 4.2561,
+        "count": 13150
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9148c1b8-b8a5-4d4d-8cf8-ffc85bf7644c/svn/white-whirlpool-top-freezer-refrigerators-wrt311fzdw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333484522",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "14.2 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+      "rating": {
+        "average": 4.0714,
+        "count": 42
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5d74fd73-66cf-4fdf-a93f-b31558871326/svn/white-vissani-top-freezer-refrigerators-mdtf14wh5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313010993",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 20 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.5695,
+        "count": 8434
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a8d9339d-537b-478b-9ac5-bee731c4c486/svn/stainless-steel-frigidaire-top-freezer-refrigerators-fftr2045vs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318850475",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "18.3 Cu. Ft. Garage Ready Top Freezer Refrigerator in White",
+      "rating": {
+        "average": 4.6534,
+        "count": 5672
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c3bce67b-e96b-4200-abd3-0b27a30093b1/svn/white-frigidaire-top-freezer-refrigerators-fftr1814ww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334547478",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18.1 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+      "rating": {
+        "average": 4.2017,
+        "count": 1036
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4feee724-c733-4820-9c3e-58e382fdd08e/svn/white-vissani-top-freezer-refrigerators-mdtf18whr5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 569.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317371471",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "10.1 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.1512,
+        "count": 291
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ceb0bbf1-6b29-47f5-a30a-ebb2615deba0/svn/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf10ss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329103249",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "28 in. 18 cu. ft. Top Freezer Garage-Ready Refrigerator in White",
+      "rating": {
+        "average": 4.5719,
+        "count": 334
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ce063cc0-bfc5-437e-8d81-0bd764759837/svn/white-lg-top-freezer-refrigerators-lt18s2100w-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205658160",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in Monochromatic Stainless Steel with Frameless Glass Shelves",
+      "rating": {
+        "average": 4.2829,
+        "count": 11260
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/91d88a3f-fbf7-444f-9815-4e4f672ee580/svn/monochromatic-stainless-steel-whirlpool-top-freezer-refrigerators-wrt311fzdm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334610071",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.189,
+        "count": 455
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/061b74ce-a686-493d-b79b-747604ca11ea/svn/stainless-steel-vissani-top-freezer-refrigerators-mdtf18ssr5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311770871",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24 in. 11.6 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Finish, Counter Depth",
+      "rating": {
+        "average": 3.7284,
+        "count": 1977
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b7df29c3-c51d-4789-8e5a-02dc93286424/svn/fingerprint-resistant-stainless-steel-whirlpool-top-freezer-refrigerators-wrt112czjz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 629.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320640466",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "28 in. 18 cu. ft. Top Freezer Refrigerator in Fingerprint-Resistant Stainless Look, ENERGY STAR",
+      "rating": {
+        "average": 4.5465,
+        "count": 871
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6292772c-4fee-4336-bab0-a1d712e04571/svn/fingerprint-resistant-stainless-look-frigidaire-top-freezer-refrigerators-ffht1822uv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312036565",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.5 cu. ft. Top Freezer Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.2757,
+        "count": 515
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4eab35bb-5b28-41e2-a220-7c0f9693fc37/svn/stainless-steel-ge-top-freezer-refrigerators-gie18gsnrss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1061.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205730331",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "18.2 cu. ft. Top Freezer Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 4.2775,
+        "count": 7297
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b26ccd8-bf26-4371-b293-6ca865f6c99c/svn/monochromatic-stainless-steel-whirlpool-top-freezer-refrigerators-wrt318fzdm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302742982",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "20.5 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2561,
+        "count": 13150
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2b6d9f5b-859a-4e8f-b740-b2751ddeda01/svn/fingerprint-resistant-stainless-steel-whirlpool-top-freezer-refrigerators-wrt311fzdz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 899.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

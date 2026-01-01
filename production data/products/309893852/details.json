@@ -1,0 +1,45 @@
+{
+  "productId": "309893852",
+  "identifiers": {
+    "internetNumber": "309893852",
+    "modelNumber": "",
+    "storeSkuNumber": "309893852"
+  },
+  "brand": {
+    "name": "Grizzly Industrial",
+    "logoUrl": "images/brands/grizzly-industrial.svg"
+  },
+  "title": "14 in. 1 HP Bandsaw",
+  "shortDescription": "14 in. 1 HP Bandsaw",
+  "longDescription": "14 in. 1 HP Bandsaw",
+  "pricing": {
+    "currentPrice": 950.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8289,
+    "count": 228
+  },
+  "media": {
+    "primaryImage": "/products/309893852/grizzly-industrial-stationary-band-saws-g0555-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309893852/grizzly-industrial-stationary-band-saws-g0555-64_100.jpg",
+        "altText": "14 in. 1 HP Bandsaw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.654266"
+}

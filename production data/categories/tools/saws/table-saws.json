@@ -1,0 +1,489 @@
+{
+  "categoryId": "tools/saws/table-saws",
+  "name": "Table Saws",
+  "slug": "table-saws",
+  "path": "/categories/tools/saws/table-saws",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.748378",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    },
+    {
+      "label": "Table Saws",
+      "url": "/tools/saws/table-saws"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 20
+  },
+  "featuredBrands": [
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 8
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 4
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 3
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 2
+    },
+    {
+      "brandId": "grizzly-industrial",
+      "brandName": "Grizzly Industrial",
+      "logoUrl": "images/brands/grizzly-industrial.svg",
+      "count": 2
+    },
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "309415135",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Corded Pro Jobsite Table Saw with Stand",
+      "rating": {
+        "average": 4.2062,
+        "count": 3050
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/168e4060-a20d-4665-9db6-29e67b268842/svn/ridgid-portable-table-saws-r4514-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 549.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305056992",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL ONE-KEY 18- volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw Kit W/(1) 12.0Ah Battery & Rapid Charger",
+      "rating": {
+        "average": 4.6084,
+        "count": 1075
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c987f098-276e-4d2e-8d8f-fcd93fbe524c/svn/milwaukee-portable-table-saws-2736-21hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204512007",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 10 in. Job Site Table Saw with Rolling Stand",
+      "rating": {
+        "average": 4.6818,
+        "count": 2850
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32a2d28a-5494-4ca7-87db-4d3fd8a24bc9/svn/dewalt-portable-table-saws-dwe7491rs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312046353",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless Brushless 8-1/4 in. Table Saw Kit and (2) FLEXVOLT 6.0Ah Batteries",
+      "rating": {
+        "average": 4.6312,
+        "count": 1250
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fb026823-aa8c-471d-a747-4faea3884f42/svn/dewalt-stationary-table-saws-dcs7485w6062-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 647.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310178475",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 8-1/4 in. Compact Portable Jobsite Tablesaw (Stand Not Included)",
+      "rating": {
+        "average": 4.6185,
+        "count": 1224
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b3c1f2e-e9d5-4781-b817-d7e88b1922a7/svn/dewalt-portable-table-saws-dwe7485-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313820771",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 8-1/4 in. Compact Jobsite Tablesaw with Compact Table Saw Stand",
+      "rating": {
+        "average": 4.6873,
+        "count": 678
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2876dcd6-6cc0-4d88-a1ae-dd147a58d1f9/svn/dewalt-portable-table-saws-dwe7485ws-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 469.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309412837",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "13 Amp 8-1/4 in. Compact Portable Corded Jobsite Table Saw (No Stand)",
+      "rating": {
+        "average": 4.443,
+        "count": 2192
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0666fc0-6f0f-4cad-919e-7d226c632bb1/svn/ryobi-portable-table-saws-rts08-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309412842",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "15 Amp 10 in. Compact Portable Corded Jobsite Table Saw with Folding Stand",
+      "rating": {
+        "average": 4.2494,
+        "count": 3044
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/194be50c-9708-4477-af55-3ffcfc98d740/svn/ryobi-portable-table-saws-rts12-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309412848",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "15 Amp 10 in. Expanded Capacity Portable Corded Table Saw With Rolling Stand",
+      "rating": {
+        "average": 4.2227,
+        "count": 2905
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/364bcf6e-3237-4e84-980b-0a569a5b05bf/svn/ryobi-portable-table-saws-rts23-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309413142",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Corded Jobsite Table Saw with Folding Stand",
+      "rating": {
+        "average": 4.3161,
+        "count": 813
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d011379b-2593-4d0e-a111-4789a4156c2e/svn/ridgid-portable-table-saws-r4518-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310438324",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 2 HP 120V Hybrid Table Saw w/ T-Shaped Fence",
+      "rating": {
+        "average": 4.5936,
+        "count": 406
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a1de2285-e766-4bce-8a5f-419c617677d1/svn/grizzly-industrial-stationary-table-saws-g0771z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1470.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313513771",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 8-1/4 in. Compact Jobsite Table Saw and Compact Table Saw Stand",
+      "rating": {
+        "average": 4.5892,
+        "count": 1451
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d8637699-862c-467a-ae91-b432b3b38321/svn/dewalt-portable-table-saws-dwe7485wdw7451-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 423.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331596098",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 2 HP Open-Stand Hybrid Table Saw",
+      "rating": {
+        "average": 4.4314,
+        "count": 51
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8cc78f81-9fc1-43e8-82d9-f71757a393d1/svn/grizzly-industrial-stationary-table-saws-g0962-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1195.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307744663",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only)",
+      "rating": {
+        "average": 4.637,
+        "count": 1077
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cf2162d4-3c02-4c4b-8734-3b72cc4f84d3/svn/milwaukee-portable-table-saws-2736-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337133315",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only) & 8-1/4 in Blade",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a5e7843-c869-475f-aabe-36248571f4c8/svn/milwaukee-portable-table-saws-2736-20-48-40-0822-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 489.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205510781",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "31.5 lbs. Rolling Table Saw Stand",
+      "rating": {
+        "average": 4.7401,
+        "count": 227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13a1725b-af9d-449d-a1a8-b364950ff684/svn/dewalt-tool-stands-dwe74911-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 215.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305057132",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "23.5 in. x 17.5 in. Universal Stationary Compact Folding Table Saw Stand",
+      "rating": {
+        "average": 4.2921,
+        "count": 380
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/21767e19-7852-4bf3-bbf5-ac68e376e60b/svn/milwaukee-tool-stands-48-08-0561-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300226904",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "10 in. Compact Table Saw Stand for Jobsite",
+      "rating": {
+        "average": 4.4505,
+        "count": 737
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/130c95de-e1b7-4fe2-ad15-589151f39798/svn/dewalt-tool-stands-dw7451-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 102.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203054768",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "33 lbs. Heavy Duty Rolling Table Saw Stand with Quick-Connect Stand Brackets with 200lbs. Capacity",
+      "rating": {
+        "average": 4.6502,
+        "count": 1395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a0cd55b1-1971-4857-86a3-1321879af19c/svn/dewalt-tool-stands-dw7440rs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206945727",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Portable Folding Gravity Rise Table Saw Stand with Wheels",
+      "rating": {
+        "average": 4.5377,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a81f9038-ccfc-4ff9-a10b-829c49a08c22/svn/bosch-tool-stands-ts2100-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

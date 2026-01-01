@@ -1,0 +1,45 @@
+{
+  "productId": "312444805",
+  "identifiers": {
+    "internetNumber": "312444805",
+    "modelNumber": "",
+    "storeSkuNumber": "312444805"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "Pneumatic 2-1/2 in. 15\u00b0 Siding Coil Nailer",
+  "shortDescription": "Pneumatic 2-1/2 in. 15\u00b0 Siding Coil Nailer",
+  "longDescription": "Pneumatic 2-1/2 in. 15\u00b0 Siding Coil Nailer",
+  "pricing": {
+    "currentPrice": 449.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.7778,
+    "count": 36
+  },
+  "media": {
+    "primaryImage": "/products/312444805/makita-siding-nailers-an613-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312444805/makita-siding-nailers-an613-64_100.jpg",
+        "altText": "Pneumatic 2-1/2 in. 15\u00b0 Siding Coil Nailer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.527896"
+}

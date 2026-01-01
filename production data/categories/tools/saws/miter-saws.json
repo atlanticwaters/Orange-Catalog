@@ -1,0 +1,684 @@
+{
+  "categoryId": "tools/saws/miter-saws",
+  "name": "Miter Saws",
+  "slug": "miter-saws",
+  "path": "/categories/tools/saws/miter-saws",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.747439",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    },
+    {
+      "label": "Miter Saws",
+      "url": "/tools/saws/miter-saws"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 29
+  },
+  "featuredBrands": [
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 11
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 6
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 5
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 4
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    },
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 1
+    },
+    {
+      "brandId": "wen",
+      "brandName": "WEN",
+      "logoUrl": "images/brands/wen.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "337442847",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "60V Lithium-Ion 12 in. Cordless Sliding Miter Saw Kit and Compact Miter Saw Stand with 9.0Ah Battery Pack",
+      "rating": {
+        "average": 4.7486,
+        "count": 533
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1100a522-201c-446d-8357-7430813bbdba/svn/dewalt-miter-saws-dcs781x1wdwx724-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 879.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331711504",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX XR Cordless 10 in. Dual Bevel Fixed Miter Saw (Tool Only)",
+      "rating": {
+        "average": 4.7619,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/29f93a51-2df5-4a3f-98a0-389729f6a486/svn/dewalt-miter-saws-dcs714b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 369.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321488310",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 12 in. Double Bevel Sliding Compound Miter Saw with XPS technology, Blade Wrench and Material Clamp",
+      "rating": {
+        "average": 4.6804,
+        "count": 1261
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b85e3118-6e96-4c1a-9f4c-f4879ec733f8/svn/dewalt-miter-saws-dws780-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641117",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Miter Saw with Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Sliding Miter Saw",
+      "rating": {
+        "average": 4.6613,
+        "count": 933
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/89ef215e-a0d1-4527-b5f0-d74003f0f839/svn/ridgid-miter-saws-ac8609340sb-r48607b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 478.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309814771",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with One 12.0Ah Battery",
+      "rating": {
+        "average": 4.3085,
+        "count": 376
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/729e641d-d6fb-4b85-9ef9-caf17803dcab/svn/milwaukee-miter-saws-2739-21hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 749.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310710519",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "18V ONE+ Cordless 7-1/4 in. Compound Miter Saw with 4.0 Ah Lithium-Ion Battery and 18V Charger",
+      "rating": {
+        "average": 4.5231,
+        "count": 931
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2400eae9-0360-44e7-9d78-b547f9eed5cb/svn/ryobi-miter-saws-p553kn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321488482",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 12 in. Double Bevel Sliding Compound Miter Saw, Blade Wrench and Material Clamp",
+      "rating": {
+        "average": 4.7546,
+        "count": 4205
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b6b73f8-0b36-4aa4-9219-2eabe2239b63/svn/dewalt-miter-saws-dws779-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 431.04,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958534",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 12 in. Corded Sliding Miter Saw and Universal Mobile Miter Saw Stand with Mounting Braces",
+      "rating": {
+        "average": 4.6272,
+        "count": 6531
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e0a74346-089c-4a63-b9a9-938f4399eb45/svn/ridgid-miter-saws-r4222-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 588.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306939244",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp Corded 12 in. Dual Bevel Sliding Miter Saw with 70 Deg. Miter Capacity and LED Cut Line Indicator",
+      "rating": {
+        "average": 4.3928,
+        "count": 2546
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c955a06-76a1-4193-9863-633f88c24aec/svn/ridgid-miter-saws-r4222-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312596511",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V 10 in. Lithium-Ion Brushless Cordless Dual Bevel Sliding Compound Miter Saw Kit with One 8.0 Ah Battery",
+      "rating": {
+        "average": 4.4823,
+        "count": 1748
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/760176da-04d7-4b2a-8a34-9708fe9ec3e1/svn/milwaukee-miter-saws-2734-21-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306939211",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "14 Amp Corded 10 in. Compound Miter Saw with LED Cutline Indicator",
+      "rating": {
+        "average": 4.5664,
+        "count": 1612
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/96944e01-0d09-420f-a67c-c7fff93ddc29/svn/ryobi-miter-saws-ts1346-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313130863",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with Stand and Battery",
+      "rating": {
+        "average": 4.4418,
+        "count": 2218
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fda4d78a-f801-4872-96c7-cf4cfe128065/svn/milwaukee-miter-saws-2739-21hd-48-08-0551-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 929.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958639",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless 7-1/4 in. Dual Bevel Sliding Miter Saw (Tool Only) with Universal Mobile Miter Saw Stand",
+      "rating": {
+        "average": 4.6526,
+        "count": 5227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f397399-2617-43c5-b378-6205985e5f94/svn/ridgid-miter-saws-r48607b-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 518.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958552",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp Corded 12 in. Dual Bevel Miter Saw with LED and Universal Mobile Miter Saw Stand with Mounting Braces",
+      "rating": {
+        "average": 4.6496,
+        "count": 5114
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/304a04be-5af0-43a4-a2fe-d6574c8def0a/svn/ridgid-miter-saws-r4123-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 538.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306939218",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "15 Amp 10 in. Corded Sliding Compound Miter Saw with LED Cutline Indicator",
+      "rating": {
+        "average": 4.5834,
+        "count": 4386
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2662dcf2-7b03-43fb-b06c-dbe6c06615d1/svn/ryobi-miter-saws-tss103-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309749587",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 12 in. Single Bevel Compound Miter Saw",
+      "rating": {
+        "average": 4.7033,
+        "count": 1018
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/285ea7c6-6fb6-480f-ae7a-e6e4d555dc51/svn/dewalt-miter-saws-dws715-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302874550",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 7-1/4 in. Dual Bevel Sliding Compound Miter Saw (Tool-Only)",
+      "rating": {
+        "average": 4.4757,
+        "count": 1869
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/30991cc5-45ce-4e3a-8125-b0fa94edcc75/svn/milwaukee-miter-saws-2733-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206468113",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless 7-1/4 in. Sliding Miter Saw (Tool Only)",
+      "rating": {
+        "average": 4.7583,
+        "count": 542
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c8eeeb9-be63-4fa0-a968-a9fb61e733e6/svn/dewalt-miter-saws-dcs361b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 369.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206992161",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Foldable Mobile Miter Saw Stand with Mounting Braces",
+      "rating": {
+        "average": 4.5803,
+        "count": 5678
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/69b36108-5f6d-481e-b07c-c84089f771aa/svn/ridgid-tool-stands-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202935041",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "32-1/2 in. x 60 in. Rolling Miter Saw Stand with 300 lbs. Capacity",
+      "rating": {
+        "average": 4.3526,
+        "count": 3015
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0624620-dafb-4731-a5cf-f18fcf8b5a2e/svn/dewalt-tool-stands-dwx726-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205642391",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "Foldable Miter Saw QUICKSTAND",
+      "rating": {
+        "average": 4.6108,
+        "count": 3006
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca05e224-77a2-453d-903b-e198020c22ef/svn/ryobi-tool-stands-a18ms01g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202818498",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "29.8 lbs. Compact Miter Saw Stand with 500 lbs. Capacity",
+      "rating": {
+        "average": 4.7679,
+        "count": 530
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e19c26f-37ff-42ce-8be4-3f429abd127b/svn/dewalt-tool-stands-dwx724-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958647",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Universal Mobile Miter Saw Stand with Mounting Braces and Black Fine Point Permanent Workshop Marker",
+      "rating": {
+        "average": 4.6702,
+        "count": 5207
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f1c82e30-6506-4eb1-8e4b-3ba9c226176b/svn/tool-stands-ac9946-rpm121-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.92,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301804452",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Folding Miter Saw Stand",
+      "rating": {
+        "average": 4.0465,
+        "count": 495
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd0b501f-36c3-4146-9387-94a3b999f4a8/svn/milwaukee-tool-stands-48-08-0551-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 259.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203899895",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Portable Folding Gravity Rise Miter Saw Stand with Wheels",
+      "rating": {
+        "average": 4.6561,
+        "count": 1137
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6c259498-5be5-4af3-b3ad-25e2eaf695e4/svn/bosch-tool-stands-t4b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 319.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202665436",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "29 lbs. Heavy Duty Miter Saw Stand with 500 lbs. Capacity",
+      "rating": {
+        "average": 4.6993,
+        "count": 2268
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0f5a46b7-066b-4833-a639-3355c84192f7/svn/dewalt-tool-stands-dwx723-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202818490",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15.4 lbs. Heavy Duty Work Stand with Miter Saw Mounting Brackets",
+      "rating": {
+        "average": 4.6331,
+        "count": 338
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/922251e9-f938-4550-9ca1-13bae7054d82/svn/dewalt-tool-stands-dwx725b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 126.31,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316950937",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "Multi-Purpose Rolling Planer and Miter Saw Tool Stand with Extension Rollers",
+      "rating": {
+        "average": 4.5,
+        "count": 298
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49e79050-683c-4813-a020-21edc2864e0f/svn/wen-tool-stands-msa658t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 174.77,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202516703",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Miter Saw Workstation Tool Mounting Brackets",
+      "rating": {
+        "average": 4.0686,
+        "count": 525
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/73380b25-d5db-4dee-bd98-fb8ecea3b171/svn/dewalt-tool-stands-dw7231-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 38.5,
+        "currency": "USD"
+      }
+    }
+  ]
+}

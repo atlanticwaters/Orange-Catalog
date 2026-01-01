@@ -1,0 +1,45 @@
+{
+  "productId": "330260801",
+  "identifiers": {
+    "internetNumber": "330260801",
+    "modelNumber": "",
+    "storeSkuNumber": "330260801"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18-Volt Lithium-Ion Cordless Combo Kit (9-Tool) with (2) Batteries, Charger, and Tool Bag",
+  "shortDescription": "M18 18-Volt Lithium-Ion Cordless Combo Kit (9-Tool) with (2) Batteries, Charger, and Tool Bag",
+  "longDescription": "M18 18-Volt Lithium-Ion Cordless Combo Kit (9-Tool) with (2) Batteries, Charger, and Tool Bag",
+  "pricing": {
+    "currentPrice": 649.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6145,
+    "count": 8716
+  },
+  "media": {
+    "primaryImage": "/products/330260801/milwaukee-power-tool-combo-kits-2694-29-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330260801/milwaukee-power-tool-combo-kits-2694-29-64_100.jpg",
+        "altText": "M18 18-Volt Lithium-Ion Cordless Combo Kit (9-Tool) with (2) Batteries, Charger, and Tool Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.655289"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "308070341",
+  "identifiers": {
+    "internetNumber": "308070341",
+    "modelNumber": "",
+    "storeSkuNumber": "308070341"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "12 12-Volt Lithium-Ion Cordless Grease Gun Kit With Two Free M12 1.5 Ah Batteries",
+  "shortDescription": "12 12-Volt Lithium-Ion Cordless Grease Gun Kit With Two Free M12 1.5 Ah Batteries",
+  "longDescription": "12 12-Volt Lithium-Ion Cordless Grease Gun Kit With Two Free M12 1.5 Ah Batteries",
+  "pricing": {
+    "currentPrice": 329.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6019,
+    "count": 736
+  },
+  "media": {
+    "primaryImage": "/products/308070341/milwaukee-air-grease-guns-2446-21xc-48-11-2411-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308070341/milwaukee-air-grease-guns-2446-21xc-48-11-2411-64_100.jpg",
+        "altText": "12 12-Volt Lithium-Ion Cordless Grease Gun Kit With Two Free M12 1.5 Ah Batteries",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.487520"
+}

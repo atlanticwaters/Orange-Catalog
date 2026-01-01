@@ -1,0 +1,45 @@
+{
+  "productId": "315479169",
+  "identifiers": {
+    "internetNumber": "315479169",
+    "modelNumber": "",
+    "storeSkuNumber": "315479169"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M12 ROVER 12-Volt Lithium-Ion Service and Repair 700 Lumens Flood Light with USB Charging with 2.0Ah Battery",
+  "shortDescription": "M12 ROVER 12-Volt Lithium-Ion Service and Repair 700 Lumens Flood Light with USB Charging with 2.0Ah Battery",
+  "longDescription": "M12 ROVER 12-Volt Lithium-Ion Service and Repair 700 Lumens Flood Light with USB Charging with 2.0Ah Battery",
+  "pricing": {
+    "currentPrice": 79.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8308,
+    "count": 1070
+  },
+  "media": {
+    "primaryImage": "/products/315479169/milwaukee-jobsite-lighting-2367-20-48-11-2420-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/315479169/milwaukee-jobsite-lighting-2367-20-48-11-2420-64_100.jpg",
+        "altText": "M12 ROVER 12-Volt Lithium-Ion Service and Repair 700 Lumens Flood Light with USB Charging with 2.0Ah Battery",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.566418"
+}

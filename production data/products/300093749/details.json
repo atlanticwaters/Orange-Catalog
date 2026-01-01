@@ -1,0 +1,45 @@
+{
+  "productId": "300093749",
+  "identifiers": {
+    "internetNumber": "300093749",
+    "modelNumber": "",
+    "storeSkuNumber": "300093749"
+  },
+  "brand": {
+    "name": "Jet",
+    "logoUrl": "images/brands/jet.svg"
+  },
+  "title": "1/2 HP 12 in. Benchtop Drill Press, Variable Speed, 115-Volt, JWDP-12",
+  "shortDescription": "1/2 HP 12 in. Benchtop Drill Press, Variable Speed, 115-Volt, JWDP-12",
+  "longDescription": "1/2 HP 12 in. Benchtop Drill Press, Variable Speed, 115-Volt, JWDP-12",
+  "pricing": {
+    "currentPrice": 736.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5909,
+    "count": 44
+  },
+  "media": {
+    "primaryImage": "/products/300093749/jet-drill-presses-716000-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300093749/jet-drill-presses-716000-64_100.jpg",
+        "altText": "1/2 HP 12 in. Benchtop Drill Press, Variable Speed, 115-Volt, JWDP-12",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.660266"
+}

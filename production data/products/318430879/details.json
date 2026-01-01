@@ -1,0 +1,45 @@
+{
+  "productId": "318430879",
+  "identifiers": {
+    "internetNumber": "318430879",
+    "modelNumber": "",
+    "storeSkuNumber": "318430879"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "18V LXT Sub-Compact Lithium-Ion Brushless StarlockMax Cordless Multi-Tool (Tool Only)",
+  "shortDescription": "18V LXT Sub-Compact Lithium-Ion Brushless StarlockMax Cordless Multi-Tool (Tool Only)",
+  "longDescription": "18V LXT Sub-Compact Lithium-Ion Brushless StarlockMax Cordless Multi-Tool (Tool Only)",
+  "pricing": {
+    "currentPrice": 269.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6699,
+    "count": 309
+  },
+  "media": {
+    "primaryImage": "/products/318430879/makita-oscillating-tools-xmt04zb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318430879/makita-oscillating-tools-xmt04zb-64_100.jpg",
+        "altText": "18V LXT Sub-Compact Lithium-Ion Brushless StarlockMax Cordless Multi-Tool (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.693688"
+}

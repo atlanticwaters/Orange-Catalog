@@ -1,0 +1,45 @@
+{
+  "productId": "321375822",
+  "identifiers": {
+    "internetNumber": "321375822",
+    "modelNumber": "",
+    "storeSkuNumber": "321375822"
+  },
+  "brand": {
+    "name": "Hilti",
+    "logoUrl": "images/brands/hilti.svg"
+  },
+  "title": "12 in. DSH 600-X Hand-Held Concrete Gas Saw with Diamond Blade",
+  "shortDescription": "12 in. DSH 600-X Hand-Held Concrete Gas Saw with Diamond Blade",
+  "longDescription": "12 in. DSH 600-X Hand-Held Concrete Gas Saw with Diamond Blade",
+  "pricing": {
+    "currentPrice": 1569.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/321375822/hilti-concrete-saws-3563745-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321375822/hilti-concrete-saws-3563745-64_100.jpg",
+        "altText": "12 in. DSH 600-X Hand-Held Concrete Gas Saw with Diamond Blade",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.689584"
+}

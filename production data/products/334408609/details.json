@@ -1,0 +1,45 @@
+{
+  "productId": "334408609",
+  "identifiers": {
+    "internetNumber": "334408609",
+    "modelNumber": "",
+    "storeSkuNumber": "334408609"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "HD 46 in. Wide 24.5 in. Deep 12-Drawer Tool Chest and Rolling Cab Set, Matte Black",
+  "shortDescription": "HD 46 in. Wide 24.5 in. Deep 12-Drawer Tool Chest and Rolling Cab Set, Matte Black",
+  "longDescription": "HD 46 in. Wide 24.5 in. Deep 12-Drawer Tool Chest and Rolling Cab Set, Matte Black",
+  "pricing": {
+    "currentPrice": 1320.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/334408609/matte-black-husky-tool-chest-combos-hotc4612bb1s-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334408609/matte-black-husky-tool-chest-combos-hotc4612bb1s-64_100.jpg",
+        "altText": "HD 46 in. Wide 24.5 in. Deep 12-Drawer Tool Chest and Rolling Cab Set, Matte Black",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.541326"
+}

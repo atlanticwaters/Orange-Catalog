@@ -1,0 +1,45 @@
+{
+  "productId": "333733470",
+  "identifiers": {
+    "internetNumber": "333733470",
+    "modelNumber": "",
+    "storeSkuNumber": "333733470"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "1/4 in. x  100 ft. Poly Air Hose",
+  "shortDescription": "1/4 in. x  100 ft. Poly Air Hose",
+  "longDescription": "1/4 in. x  100 ft. Poly Air Hose",
+  "pricing": {
+    "currentPrice": 42.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4694,
+    "count": 49
+  },
+  "media": {
+    "primaryImage": "/products/333733470/husky-air-hoses-ab-13-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333733470/husky-air-hoses-ab-13-64_100.jpg",
+        "altText": "1/4 in. x  100 ft. Poly Air Hose",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.637785"
+}

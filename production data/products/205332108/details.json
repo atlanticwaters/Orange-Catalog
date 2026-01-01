@@ -1,0 +1,45 @@
+{
+  "productId": "205332108",
+  "identifiers": {
+    "internetNumber": "205332108",
+    "modelNumber": "",
+    "storeSkuNumber": "205332108"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "3/8 in. NPT Regulator with Gauge",
+  "shortDescription": "3/8 in. NPT Regulator with Gauge",
+  "longDescription": "3/8 in. NPT Regulator with Gauge",
+  "pricing": {
+    "currentPrice": 44.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.0,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/205332108/husky-air-pressure-regulators-24415hom-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205332108/husky-air-pressure-regulators-24415hom-64_100.jpg",
+        "altText": "3/8 in. NPT Regulator with Gauge",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.602698"
+}

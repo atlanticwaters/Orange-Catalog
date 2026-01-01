@@ -1,0 +1,45 @@
+{
+  "productId": "331596098",
+  "identifiers": {
+    "internetNumber": "331596098",
+    "modelNumber": "",
+    "storeSkuNumber": "331596098"
+  },
+  "brand": {
+    "name": "Grizzly Industrial",
+    "logoUrl": "images/brands/grizzly-industrial.svg"
+  },
+  "title": "10 in. 2 HP Open-Stand Hybrid Table Saw",
+  "shortDescription": "10 in. 2 HP Open-Stand Hybrid Table Saw",
+  "longDescription": "10 in. 2 HP Open-Stand Hybrid Table Saw",
+  "pricing": {
+    "currentPrice": 1195.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4314,
+    "count": 51
+  },
+  "media": {
+    "primaryImage": "/products/331596098/grizzly-industrial-stationary-table-saws-g0962-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331596098/grizzly-industrial-stationary-table-saws-g0962-64_100.jpg",
+        "altText": "10 in. 2 HP Open-Stand Hybrid Table Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.677338"
+}

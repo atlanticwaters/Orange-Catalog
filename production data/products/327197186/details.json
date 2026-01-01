@@ -1,0 +1,45 @@
+{
+  "productId": "327197186",
+  "identifiers": {
+    "internetNumber": "327197186",
+    "modelNumber": "",
+    "storeSkuNumber": "327197186"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Presque 68 in. Satin Walnut TV Stand Fits TV's up to 75 in.",
+  "shortDescription": "Presque 68 in. Satin Walnut TV Stand Fits TV's up to 75 in.",
+  "longDescription": "Presque 68 in. Satin Walnut TV Stand Fits TV's up to 75 in.",
+  "pricing": {
+    "currentPrice": 279.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6875,
+    "count": 16
+  },
+  "media": {
+    "primaryImage": "/products/327197186/satin-walnut-tv-stands-tv1963-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327197186/satin-walnut-tv-stands-tv1963-64_100.jpg",
+        "altText": "Presque 68 in. Satin Walnut TV Stand Fits TV's up to 75 in.",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.595693"
+}

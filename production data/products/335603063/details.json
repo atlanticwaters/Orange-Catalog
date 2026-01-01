@@ -1,0 +1,45 @@
+{
+  "productId": "335603063",
+  "identifiers": {
+    "internetNumber": "335603063",
+    "modelNumber": "",
+    "storeSkuNumber": "335603063"
+  },
+  "brand": {
+    "name": "Modway",
+    "logoUrl": "images/brands/modway.svg"
+  },
+  "title": "Emmeline Scalloped 2-Drawer Nightstand in Sage",
+  "shortDescription": "Emmeline Scalloped 2-Drawer Nightstand in Sage",
+  "longDescription": "Emmeline Scalloped 2-Drawer Nightstand in Sage",
+  "pricing": {
+    "currentPrice": 126.88,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/335603063/sage-modway-nightstands-mod-7206-sge-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335603063/sage-modway-nightstands-mod-7206-sge-64_100.jpg",
+        "altText": "Emmeline Scalloped 2-Drawer Nightstand in Sage",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.581331"
+}

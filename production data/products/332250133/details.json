@@ -1,0 +1,45 @@
+{
+  "productId": "332250133",
+  "identifiers": {
+    "internetNumber": "332250133",
+    "modelNumber": "",
+    "storeSkuNumber": "332250133"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ HP 18V Brushless Cordless Compact Impact Driver Kit with 18V 2.0 Ah HIGH PERFORMANCE Battery and Charger",
+  "shortDescription": "ONE+ HP 18V Brushless Cordless Compact Impact Driver Kit with 18V 2.0 Ah HIGH PERFORMANCE Battery and Charger",
+  "longDescription": "ONE+ HP 18V Brushless Cordless Compact Impact Driver Kit with 18V 2.0 Ah HIGH PERFORMANCE Battery and Charger",
+  "pricing": {
+    "currentPrice": 69.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5714,
+    "count": 119
+  },
+  "media": {
+    "primaryImage": "/products/332250133/ryobi-impact-drivers-psbid02k-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332250133/ryobi-impact-drivers-psbid02k-64_100.jpg",
+        "altText": "ONE+ HP 18V Brushless Cordless Compact Impact Driver Kit with 18V 2.0 Ah HIGH PERFORMANCE Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.661832"
+}

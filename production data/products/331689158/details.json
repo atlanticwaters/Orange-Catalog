@@ -1,0 +1,45 @@
+{
+  "productId": "331689158",
+  "identifiers": {
+    "internetNumber": "331689158",
+    "modelNumber": "",
+    "storeSkuNumber": "331689158"
+  },
+  "brand": {
+    "name": "A & B Home",
+    "logoUrl": "images/brands/a-b-home.svg"
+  },
+  "title": "19 .7 in. Red Artificial Assorted Flowers Floral Arrangements",
+  "shortDescription": "19 .7 in. Red Artificial Assorted Flowers Floral Arrangements",
+  "longDescription": "19 .7 in. Red Artificial Assorted Flowers Floral Arrangements",
+  "pricing": {
+    "currentPrice": 54.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/331689158/a-b-home-artificial-flowers-k-f4691-red-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331689158/a-b-home-artificial-flowers-k-f4691-red-64_100.jpg",
+        "altText": "19 .7 in. Red Artificial Assorted Flowers Floral Arrangements",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.428301"
+}

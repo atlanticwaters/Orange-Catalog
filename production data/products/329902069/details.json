@@ -1,0 +1,45 @@
+{
+  "productId": "329902069",
+  "identifiers": {
+    "internetNumber": "329902069",
+    "modelNumber": "",
+    "storeSkuNumber": "329902069"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "1-9/16 in. SDS-Max Rotary Hammer",
+  "shortDescription": "1-9/16 in. SDS-Max Rotary Hammer",
+  "longDescription": "1-9/16 in. SDS-Max Rotary Hammer",
+  "pricing": {
+    "currentPrice": 449.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2766,
+    "count": 47
+  },
+  "media": {
+    "primaryImage": "/products/329902069/milwaukee-rotary-hammers-5517-21-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329902069/milwaukee-rotary-hammers-5517-21-64_100.jpg",
+        "altText": "1-9/16 in. SDS-Max Rotary Hammer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.702792"
+}

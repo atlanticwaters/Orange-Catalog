@@ -1,0 +1,45 @@
+{
+  "productId": "207069973",
+  "identifiers": {
+    "internetNumber": "207069973",
+    "modelNumber": "",
+    "storeSkuNumber": "207069973"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "2 in. Leg 16-Gauge Steel Flooring Cleats (1,000-Pack)",
+  "shortDescription": "2 in. Leg 16-Gauge Steel Flooring Cleats (1,000-Pack)",
+  "longDescription": "2 in. Leg 16-Gauge Steel Flooring Cleats (1,000-Pack)",
+  "pricing": {
+    "currentPrice": 38.48,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6,
+    "count": 270
+  },
+  "media": {
+    "primaryImage": "/products/207069973/dewalt-collated-flooring-nails-dwfln-200-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/207069973/dewalt-collated-flooring-nails-dwfln-200-64_100.jpg",
+        "altText": "2 in. Leg 16-Gauge Steel Flooring Cleats (1,000-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.517419"
+}

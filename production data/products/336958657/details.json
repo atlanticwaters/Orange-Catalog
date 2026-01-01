@@ -1,0 +1,45 @@
+{
+  "productId": "336958657",
+  "identifiers": {
+    "internetNumber": "336958657",
+    "modelNumber": "",
+    "storeSkuNumber": "336958657"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V Cordless 5 in. Random Orbit Sander with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+  "shortDescription": "18V Cordless 5 in. Random Orbit Sander with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+  "longDescription": "18V Cordless 5 in. Random Orbit Sander with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+  "pricing": {
+    "currentPrice": 376.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6859,
+    "count": 4234
+  },
+  "media": {
+    "primaryImage": "/products/336958657/ridgid-orbital-sanders-r8606b-ac93044sbn-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958657/ridgid-orbital-sanders-r8606b-ac93044sbn-64_100.jpg",
+        "altText": "18V Cordless 5 in. Random Orbit Sander with (2) 4.0 Ah Batteries, 18V Charger, and Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.697221"
+}

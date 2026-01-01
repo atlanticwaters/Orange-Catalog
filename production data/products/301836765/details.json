@@ -1,0 +1,45 @@
+{
+  "productId": "301836765",
+  "identifiers": {
+    "internetNumber": "301836765",
+    "modelNumber": "",
+    "storeSkuNumber": "301836765"
+  },
+  "brand": {
+    "name": "Milton Industries, Inc.",
+    "logoUrl": "images/brands/milton-industries-inc.svg"
+  },
+  "title": "1/2 in. NPT Deluxe Metal FR Duo",
+  "shortDescription": "1/2 in. NPT Deluxe Metal FR Duo",
+  "longDescription": "1/2 in. NPT Deluxe Metal FR Duo",
+  "pricing": {
+    "currentPrice": 120.11,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4118,
+    "count": 17
+  },
+  "media": {
+    "primaryImage": "/products/301836765/milton-industries-inc-air-pressure-regulators-1108-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301836765/milton-industries-inc-air-pressure-regulators-1108-64_100.jpg",
+        "altText": "1/2 in. NPT Deluxe Metal FR Duo",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.603173"
+}

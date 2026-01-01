@@ -1,0 +1,45 @@
+{
+  "productId": "204799736",
+  "identifiers": {
+    "internetNumber": "204799736",
+    "modelNumber": "",
+    "storeSkuNumber": "204799736"
+  },
+  "brand": {
+    "name": "Prestone",
+    "logoUrl": "images/brands/prestone.svg"
+  },
+  "title": "All Vehicles - 10yr/300k mi - Antifreeze+Coolant (1 Gal - Ready to Use)",
+  "shortDescription": "All Vehicles - 10yr/300k mi - Antifreeze+Coolant (1 Gal - Ready to Use)",
+  "longDescription": "All Vehicles - 10yr/300k mi - Antifreeze+Coolant (1 Gal - Ready to Use)",
+  "pricing": {
+    "currentPrice": 11.78,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7143,
+    "count": 441
+  },
+  "media": {
+    "primaryImage": "/products/204799736/prestone-car-cleaners-chemicals-af2100-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204799736/prestone-car-cleaners-chemicals-af2100-64_100.jpg",
+        "altText": "All Vehicles - 10yr/300k mi - Antifreeze+Coolant (1 Gal - Ready to Use)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.635393"
+}

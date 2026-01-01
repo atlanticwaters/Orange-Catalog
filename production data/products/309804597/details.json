@@ -1,0 +1,45 @@
+{
+  "productId": "309804597",
+  "identifiers": {
+    "internetNumber": "309804597",
+    "modelNumber": "",
+    "storeSkuNumber": "309804597"
+  },
+  "brand": {
+    "name": "Home Decorators Collection",
+    "logoUrl": "images/brands/home-decorators-collection.svg"
+  },
+  "title": "Cupertine 31 in. Gold/Marble Medium Round Marble Coffee Table with Hammered Base",
+  "shortDescription": "Cupertine 31 in. Gold/Marble Medium Round Marble Coffee Table with Hammered Base",
+  "longDescription": "Cupertine 31 in. Gold/Marble Medium Round Marble Coffee Table with Hammered Base",
+  "pricing": {
+    "currentPrice": 469.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5667,
+    "count": 30
+  },
+  "media": {
+    "primaryImage": "/products/309804597/gold-marble-home-decorators-collection-coffee-tables-dc18-65050-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309804597/gold-marble-home-decorators-collection-coffee-tables-dc18-65050-64_100.jpg",
+        "altText": "Cupertine 31 in. Gold/Marble Medium Round Marble Coffee Table with Hammered Base",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.491935"
+}

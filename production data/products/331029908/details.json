@@ -1,0 +1,45 @@
+{
+  "productId": "331029908",
+  "identifiers": {
+    "internetNumber": "331029908",
+    "modelNumber": "",
+    "storeSkuNumber": "331029908"
+  },
+  "brand": {
+    "name": "Sharp",
+    "logoUrl": "images/brands/sharp.svg"
+  },
+  "title": "24 in. 11.5 cu. ft. Counter Depth Bottom Freezer Refrigerator in Smudge Resistant Stainless Steel ENERGY STAR Certified",
+  "shortDescription": "24 in. 11.5 cu. ft. Counter Depth Bottom Freezer Refrigerator in Smudge Resistant Stainless Steel ENERGY STAR Certified",
+  "longDescription": "24 in. 11.5 cu. ft. Counter Depth Bottom Freezer Refrigerator in Smudge Resistant Stainless Steel ENERGY STAR Certified",
+  "pricing": {
+    "currentPrice": 1099.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5278,
+    "count": 36
+  },
+  "media": {
+    "primaryImage": "/products/331029908/stainless-steel-sharp-bottom-freezer-refrigerators-sjb1255gs-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331029908/stainless-steel-sharp-bottom-freezer-refrigerators-sjb1255gs-64_100.jpg",
+        "altText": "24 in. 11.5 cu. ft. Counter Depth Bottom Freezer Refrigerator in Smudge Resistant Stainless Steel ENERGY STAR Certified",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.440275"
+}

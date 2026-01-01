@@ -1,0 +1,45 @@
+{
+  "productId": "326274717",
+  "identifiers": {
+    "internetNumber": "326274717",
+    "modelNumber": "",
+    "storeSkuNumber": "326274717"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench w/Friction Ring Kit w/One 5.0 Ah Battery and Bag",
+  "shortDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench w/Friction Ring Kit w/One 5.0 Ah Battery and Bag",
+  "longDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench w/Friction Ring Kit w/One 5.0 Ah Battery and Bag",
+  "pricing": {
+    "currentPrice": 399.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7743,
+    "count": 1936
+  },
+  "media": {
+    "primaryImage": "/products/326274717/milwaukee-impact-wrenches-2967-21b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326274717/milwaukee-impact-wrenches-2967-21b-64_100.jpg",
+        "altText": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench w/Friction Ring Kit w/One 5.0 Ah Battery and Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.683392"
+}

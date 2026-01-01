@@ -1,0 +1,45 @@
+{
+  "productId": "202035229",
+  "identifiers": {
+    "internetNumber": "202035229",
+    "modelNumber": "",
+    "storeSkuNumber": "202035229"
+  },
+  "brand": {
+    "name": "DIABLO",
+    "logoUrl": "images/brands/diablo.svg"
+  },
+  "title": "6-1/2in. x 40-Tooth Finish Trim Circular Saw Blade for Wood",
+  "shortDescription": "6-1/2in. x 40-Tooth Finish Trim Circular Saw Blade for Wood",
+  "longDescription": "6-1/2in. x 40-Tooth Finish Trim Circular Saw Blade for Wood",
+  "pricing": {
+    "currentPrice": 19.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7887,
+    "count": 691
+  },
+  "media": {
+    "primaryImage": "/products/202035229/diablo-circular-saw-blades-d0641r-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202035229/diablo-circular-saw-blades-d0641r-64_100.jpg",
+        "altText": "6-1/2in. x 40-Tooth Finish Trim Circular Saw Blade for Wood",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.669798"
+}

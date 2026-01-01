@@ -1,0 +1,45 @@
+{
+  "productId": "330535466",
+  "identifiers": {
+    "internetNumber": "330535466",
+    "modelNumber": "",
+    "storeSkuNumber": "330535466"
+  },
+  "brand": {
+    "name": "JAYDEN CREATION",
+    "logoUrl": "images/brands/jayden-creation.svg"
+  },
+  "title": "Ludwig Beige Wood Frame King 2-Piece Bedroom Platform Bed Set with Storage",
+  "shortDescription": "Ludwig Beige Wood Frame King 2-Piece Bedroom Platform Bed Set with Storage",
+  "longDescription": "Ludwig Beige Wood Frame King 2-Piece Bedroom Platform Bed Set with Storage",
+  "pricing": {
+    "currentPrice": 374.4,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.2,
+    "count": 5
+  },
+  "media": {
+    "primaryImage": "/products/330535466/ivory-jayden-creation-platform-beds-bd0041-kb-ivy-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330535466/ivory-jayden-creation-platform-beds-bd0041-kb-ivy-64_100.jpg",
+        "altText": "Ludwig Beige Wood Frame King 2-Piece Bedroom Platform Bed Set with Storage",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.614295"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "300955177",
+  "identifiers": {
+    "internetNumber": "300955177",
+    "modelNumber": "",
+    "storeSkuNumber": "300955177"
+  },
+  "brand": {
+    "name": "Simpli Home",
+    "logoUrl": "images/brands/simpli-home.svg"
+  },
+  "title": "Warm Shaker 48 in. Wide Rectangle Solid Wood Coffee Table in Tobacco Brown",
+  "shortDescription": "Warm Shaker 48 in. Wide Rectangle Solid Wood Coffee Table in Tobacco Brown",
+  "longDescription": "Warm Shaker 48 in. Wide Rectangle Solid Wood Coffee Table in Tobacco Brown",
+  "pricing": {
+    "currentPrice": 447.09,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1978,
+    "count": 91
+  },
+  "media": {
+    "primaryImage": "/products/300955177/tobacco-brown-simpli-home-coffee-tables-axwsh001-tb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300955177/tobacco-brown-simpli-home-coffee-tables-axwsh001-tb-64_100.jpg",
+        "altText": "Warm Shaker 48 in. Wide Rectangle Solid Wood Coffee Table in Tobacco Brown",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.492514"
+}

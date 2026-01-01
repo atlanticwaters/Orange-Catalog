@@ -1,0 +1,45 @@
+{
+  "productId": "205938069",
+  "identifiers": {
+    "internetNumber": "205938069",
+    "modelNumber": "",
+    "storeSkuNumber": "205938069"
+  },
+  "brand": {
+    "name": "WD-40",
+    "logoUrl": "images/brands/wd-40.svg"
+  },
+  "title": "14.4 oz. EZ-REACH, Classic Formula, Multi-Purpose Lubricant Spray with 8 in. Flexible Straw",
+  "shortDescription": "14.4 oz. EZ-REACH, Classic Formula, Multi-Purpose Lubricant Spray with 8 in. Flexible Straw",
+  "longDescription": "14.4 oz. EZ-REACH, Classic Formula, Multi-Purpose Lubricant Spray with 8 in. Flexible Straw",
+  "pricing": {
+    "currentPrice": 13.63,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7452,
+    "count": 1625
+  },
+  "media": {
+    "primaryImage": "/products/205938069/wd-40-lubricants-490191-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205938069/wd-40-lubricants-490191-64_100.jpg",
+        "altText": "14.4 oz. EZ-REACH, Classic Formula, Multi-Purpose Lubricant Spray with 8 in. Flexible Straw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.634846"
+}

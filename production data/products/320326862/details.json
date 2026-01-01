@@ -1,0 +1,45 @@
+{
+  "productId": "320326862",
+  "identifiers": {
+    "internetNumber": "320326862",
+    "modelNumber": "",
+    "storeSkuNumber": "320326862"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with Two 5.0 Ah Batteries and Hard Case",
+  "shortDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with Two 5.0 Ah Batteries and Hard Case",
+  "longDescription": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with Two 5.0 Ah Batteries and Hard Case",
+  "pricing": {
+    "currentPrice": 329.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7124,
+    "count": 1109
+  },
+  "media": {
+    "primaryImage": "/products/320326862/milwaukee-hammer-drills-2904-22-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320326862/milwaukee-hammer-drills-2904-22-64_100.jpg",
+        "altText": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with Two 5.0 Ah Batteries and Hard Case",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.677638"
+}

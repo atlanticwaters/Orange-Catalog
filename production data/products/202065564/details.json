@@ -1,0 +1,45 @@
+{
+  "productId": "202065564",
+  "identifiers": {
+    "internetNumber": "202065564",
+    "modelNumber": "",
+    "storeSkuNumber": "202065564"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "5 ft. Artificial Paradise Palm Silk Tree",
+  "shortDescription": "5 ft. Artificial Paradise Palm Silk Tree",
+  "longDescription": "5 ft. Artificial Paradise Palm Silk Tree",
+  "pricing": {
+    "currentPrice": 68.48,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1091,
+    "count": 110
+  },
+  "media": {
+    "primaryImage": "/products/202065564/nearly-natural-artificial-trees-5259-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202065564/nearly-natural-artificial-trees-5259-64_100.jpg",
+        "altText": "5 ft. Artificial Paradise Palm Silk Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.502033"
+}

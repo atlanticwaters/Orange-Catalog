@@ -1,0 +1,45 @@
+{
+  "productId": "332041564",
+  "identifiers": {
+    "internetNumber": "332041564",
+    "modelNumber": "",
+    "storeSkuNumber": "332041564"
+  },
+  "brand": {
+    "name": "Benjara",
+    "logoUrl": "images/brands/benjara.svg"
+  },
+  "title": "Lia 39 in. Natural Gray Rectangle Wood Coffee Table with Modern, Transitional Style",
+  "shortDescription": "Lia 39 in. Natural Gray Rectangle Wood Coffee Table with Modern, Transitional Style",
+  "longDescription": "Lia 39 in. Natural Gray Rectangle Wood Coffee Table with Modern, Transitional Style",
+  "pricing": {
+    "currentPrice": 986.37,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/332041564/natural-gray-benjara-coffee-tables-bm311181-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/332041564/natural-gray-benjara-coffee-tables-bm311181-64_100.jpg",
+        "altText": "Lia 39 in. Natural Gray Rectangle Wood Coffee Table with Modern, Transitional Style",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.492606"
+}

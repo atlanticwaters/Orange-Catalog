@@ -1,0 +1,45 @@
+{
+  "productId": "338639447",
+  "identifiers": {
+    "internetNumber": "338639447",
+    "modelNumber": "",
+    "storeSkuNumber": "338639447"
+  },
+  "brand": {
+    "name": "JAYDEN CREATION",
+    "logoUrl": "images/brands/jayden-creation.svg"
+  },
+  "title": "Deliat Modern 35.5 in. Walnut Wood Storage Round Coffee Table",
+  "shortDescription": "Deliat Modern 35.5 in. Walnut Wood Storage Round Coffee Table",
+  "longDescription": "Deliat Modern 35.5 in. Walnut Wood Storage Round Coffee Table",
+  "pricing": {
+    "currentPrice": 376.59,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/338639447/walnut-jayden-creation-coffee-tables-ctsd1204-wal-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338639447/walnut-jayden-creation-coffee-tables-ctsd1204-wal-64_100.jpg",
+        "altText": "Deliat Modern 35.5 in. Walnut Wood Storage Round Coffee Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.491371"
+}

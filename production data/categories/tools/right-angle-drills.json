@@ -24,7 +24,7 @@
   "filters": [],
   "quickFilters": [],
   "featuredBrands": [],
-  "heroImage": "images/12.avif",
+  "heroImage": "../images/heroes/12.avif",
   "productIds": [
     "100000548",
     "100342144",
@@ -78,371 +78,351 @@
     "600px": [
       {
         "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf29bb86004m-64_600.jpg"
+        "url": "../images/heroes/61.avif"
       },
       {
         "filename": "images/62.avif",
-        "url": "https://images.thdstatic.com/productImages/f08fc639-a68b-4b41-9e7a-e2c589ee474e/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf23bb86004m-64_600.jpg"
+        "url": "../images/heroes/62.avif"
       },
       {
         "filename": "images/63.avif",
-        "url": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg"
+        "url": "../images/ui/63.avif"
       },
       {
         "filename": "images/64.avif",
-        "url": "https://images.thdstatic.com/productImages/f3824ac0-3b8e-4b46-b8cc-f56a5d572c96/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_600.jpg"
+        "url": "../images/heroes/64.avif"
       },
       {
         "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/5b111963-e652-4619-a4ac-59fe0319a51f/svn/charcoal-glass-matte-black-steel-samsung-french-door-refrigerators-rf29bb89008m-64_600.jpg"
+        "url": "../images/heroes/65.avif"
       },
       {
         "filename": "images/66.avif",
-        "url": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_600.jpg"
+        "url": "../images/heroes/66.avif"
       },
       {
         "filename": "images/67.avif",
-        "url": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_600.jpg"
+        "url": "../images/heroes/67.avif"
       },
       {
         "filename": "images/68.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_600.jpg"
+        "url": "../images/heroes/68.avif"
       },
       {
         "filename": "images/69.avif",
-        "url": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_600.jpg"
+        "url": "../images/heroes/69.avif"
       },
       {
         "filename": "images/70.avif",
-        "url": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_600.jpg"
+        "url": "../images/heroes/70.avif"
       },
       {
         "filename": "images/71.avif",
-        "url": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_600.jpg"
+        "url": "../images/heroes/71.avif"
       },
       {
         "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_600.jpg"
+        "url": "../images/ui/72.avif"
       },
       {
         "filename": "images/23.avif",
-        "url": "https://images.thdstatic.com/productImages/572392dc-fd43-4630-936f-816804d50ce1/svn/milwaukee-right-angle-drills-2808-20-64_600.jpg"
+        "url": "../images/heroes/23.avif"
       },
       {
         "filename": "images/24.avif",
-        "url": "https://images.thdstatic.com/productImages/a94bf114-9916-4439-a12a-e42a33c81c94/svn/milwaukee-right-angle-drills-2808-20-e4_600.jpg"
+        "url": "../images/heroes/24.avif"
       },
       {
         "filename": "images/25.avif",
-        "url": "https://images.thdstatic.com/productImages/27cc5bc9-9ab6-4846-b050-c80d977b5c1d/svn/milwaukee-right-angle-drills-2415-20-64_600.jpg"
+        "url": "../images/heroes/25.avif"
       },
       {
         "filename": "images/27.avif",
-        "url": "https://images.thdstatic.com/productImages/0659d1e0-97ae-4237-b857-4e4eb6393bed/svn/milwaukee-right-angle-drills-2811-20-64_600.jpg"
+        "url": "../images/heroes/27.avif"
       },
       {
         "filename": "images/28.avif",
-        "url": "https://images.thdstatic.com/productImages/735a08aa-a1b7-481a-9a6c-4b9e17dd3c25/svn/milwaukee-right-angle-drills-2811-20-e4_600.jpg"
+        "url": "../images/heroes/28.avif"
       },
       {
         "filename": "images/29.webp",
-        "url": "https://images.thdstatic.com/productImages/c959b8bd-0496-49bd-9643-97af7b349605/svn/milwaukee-right-angle-drills-2615-20-64_600.jpg"
+        "url": "../images/products/29.webp"
       },
       {
         "filename": "images/32.avif",
-        "url": "https://images.thdstatic.com/productImages/63c48e9a-2888-4554-9b2d-edcf5e82795a/svn/milwaukee-right-angle-drills-1675-6-e4_600.jpg"
+        "url": "../images/ui/32.avif"
       },
       {
         "filename": "images/34.avif",
-        "url": "https://images.thdstatic.com/productImages/200acb3d-0260-4c7f-bfdc-2980de2202c6/svn/milwaukee-right-angle-drills-2668-20-e4_600.jpg"
+        "url": "../images/ui/34.avif"
       },
       {
         "filename": "images/20.avif",
-        "url": "https://images.thdstatic.com/productImages/768accf0-907a-4971-bbeb-3bf41ba25666/svn/milwaukee-right-angle-drills-2807-20-64_600.jpg"
+        "url": "../images/heroes/20.avif"
       },
       {
         "filename": "images/22.avif",
-        "url": "https://images.thdstatic.com/productImages/bff47dcd-3460-46be-a3bf-c239b1640d9a/svn/milwaukee-right-angle-drills-2809-20-e4_600.jpg"
+        "url": "../images/heroes/22.avif"
       },
       {
         "filename": "images/36.avif",
-        "url": "https://images.thdstatic.com/productImages/3bb956a4-c57d-403b-b8be-0ea99abb181f/svn/milwaukee-right-angle-drills-2415-20-48-11-2420-64_600.jpg"
+        "url": "../images/heroes/36.avif"
       },
       {
         "filename": "images/26.avif",
-        "url": "https://images.thdstatic.com/productImages/4ad771ff-4b27-4129-b715-24bf7eedda8b/svn/milwaukee-right-angle-drills-2415-20-e4_600.jpg"
+        "url": "../images/heroes/26.avif"
       },
       {
         "filename": "images/47.avif",
-        "url": "https://images.thdstatic.com/productImages/a20fd4eb-4ccd-4e0d-9565-487ce60f93ba/svn/ryobi-right-angle-drills-psbra02b-64_600.jpg"
+        "url": "../images/heroes/47.avif"
       },
       {
         "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/bc1c9682-501b-4136-9a9e-03de059dce1e/svn/ryobi-right-angle-drills-psbra02b-e4_600.jpg"
+        "url": "../images/heroes/51.avif"
       },
       {
         "filename": "images/40.avif",
-        "url": "https://images.thdstatic.com/productImages/94ca5cd2-3880-4eab-9724-1a9f54901dc5/svn/milwaukee-right-angle-drills-2811-20-2719-20-64_600.jpg"
+        "url": "../images/ui/40.avif"
       },
       {
         "filename": "images/38.avif",
-        "url": "https://images.thdstatic.com/productImages/0c590d54-8e2c-4482-9053-040e607bf8b4/svn/milwaukee-right-angle-drills-2809-20-2719-20-64_600.jpg"
+        "url": "../images/heroes/38.avif"
       },
       {
         "filename": "images/59.avif",
-        "url": "https://images.thdstatic.com/productImages/9f47ac8d-dec2-4fb3-9990-c02d653383ce/svn/dewalt-right-angle-drills-dcd470x1-64_600.jpg"
+        "url": "../images/heroes/59.avif"
       },
       {
         "filename": "images/41.avif",
-        "url": "https://images.thdstatic.com/productImages/a1c50302-844f-40f4-b9fe-07834880f9e7/svn/milwaukee-right-angle-drills-2615-20-48-59-1850-64_600.jpg"
+        "url": "../images/heroes/41.avif"
       },
       {
         "filename": "images/33.avif",
-        "url": "https://images.thdstatic.com/productImages/5ad20314-b2ff-4c98-b12e-f4255098de63/svn/milwaukee-right-angle-drills-2668-20-64_600.jpg"
+        "url": "../images/heroes/33.avif"
       },
       {
         "filename": "images/30.avif",
-        "url": "https://images.thdstatic.com/productImages/a8c9150c-3b0f-421e-af4f-ef3c058a5555/svn/milwaukee-right-angle-drills-2615-20-e4_600.jpg"
+        "url": "../images/ui/30.avif"
       },
       {
         "filename": "images/48.avif",
-        "url": "https://images.thdstatic.com/productImages/03d08635-9574-4ff3-a227-2287eaf30ccd/svn/dewalt-right-angle-drills-dcd470x1w609-64_600.jpg"
+        "url": "../images/heroes/48.avif"
       },
       {
         "filename": "images/35.avif",
-        "url": "https://images.thdstatic.com/productImages/ff95f0d4-2cb4-4ccb-910f-90a0eb77f65e/svn/milwaukee-right-angle-drills-2809-20-48-11-1850-64_600.jpg"
+        "url": "../images/heroes/35.avif"
       },
       {
         "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/faa7e33a-37e8-41ff-a246-71e1374a2dc3/svn/ridgid-right-angle-drills-r87701b-ac8400802-64_600.jpg"
+        "url": "../images/heroes/58.avif"
       },
       {
         "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/5acab752-e31a-4ebb-a6db-806b292b1423/svn/dewalt-right-angle-drills-dcd446b-64_600.jpg"
+        "url": "../images/ui/53.avif"
       },
       {
         "filename": "images/42.avif",
-        "url": "https://images.thdstatic.com/productImages/d93524a4-6eff-4092-8608-8954c5136ae5/svn/milwaukee-right-angle-drills-2415-20-2460-20-48-11-2460-64_600.jpg"
+        "url": "../images/heroes/42.avif"
       },
       {
         "filename": "images/37.avif",
-        "url": "https://images.thdstatic.com/productImages/30b44cbb-d7cc-4315-abbe-2a0e929fa3c4/svn/milwaukee-right-angle-drills-2807-20-2719-20-64_600.jpg"
+        "url": "../images/heroes/37.avif"
       },
       {
         "filename": "images/55.avif",
-        "url": "https://images.thdstatic.com/productImages/355e2a4e-6a53-4c64-98f7-9f4e1f85dcad/svn/milwaukee-right-angle-drills-2667-20-64_600.jpg"
+        "url": "../images/ui/55.avif"
       },
       {
         "filename": "images/54.webp",
-        "url": "https://images.thdstatic.com/productImages/2c2eff39-d442-4a9f-b93d-b11f3257bbac/svn/dewalt-right-angle-drills-dcd445b-64_600.jpg"
+        "url": "../images/products/54.webp"
       },
       {
         "filename": "images/45.webp",
-        "url": "https://images.thdstatic.com/productImages/ca6084bd-beaa-4d1f-b813-d18ee5fc67b3/svn/ryobi-right-angle-drills-p241-64_600.jpg"
+        "url": "../images/products/45.webp"
       },
       {
         "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/78138391-6a71-4898-8d6e-6809d8067de5/svn/dewalt-right-angle-drills-dcd447b-64_600.jpg"
+        "url": "../images/heroes/56.avif"
       },
       {
         "filename": "images/31.avif",
-        "url": "https://images.thdstatic.com/productImages/e7d2b6c7-99b3-4258-80e3-8427308eb181/svn/milwaukee-right-angle-drills-1675-6-64_600.jpg"
+        "url": "../images/heroes/31.avif"
       },
       {
         "filename": "images/60.avif",
-        "url": "https://images.thdstatic.com/productImages/d1869cc4-d7c9-441a-9e8c-188e126e8620/svn/milwaukee-right-angle-drills-2808-20-49-56-9295-64_600.jpg"
+        "url": "../images/heroes/60.avif"
       },
       {
         "filename": "images/52.avif",
-        "url": "https://images.thdstatic.com/productImages/d6cd2d2c-7a05-4063-ba60-5d1bff5f7445/svn/dewalt-right-angle-drills-dcd740b-64_600.jpg"
+        "url": "../images/heroes/52.avif"
       },
       {
         "filename": "images/44.avif",
-        "url": "https://images.thdstatic.com/productImages/e9230b01-2e0e-4770-b4a6-55d8e987cbea/svn/dewalt-right-angle-drills-dcb230cw740b-64_600.jpg"
+        "url": "../images/heroes/44.avif"
       },
       {
         "filename": "images/49.avif",
-        "url": "https://images.thdstatic.com/productImages/4ccf1085-5fb4-48d1-8c05-395be9c22d76/svn/dewalt-right-angle-drills-dcd740bw240-64_600.jpg"
+        "url": "../images/ui/49.avif"
       },
       {
         "filename": "images/21.avif",
-        "url": "https://images.thdstatic.com/productImages/90fa78d5-2aa1-49d0-b40d-629449e23a4e/svn/milwaukee-right-angle-drills-2809-20-64_600.jpg"
+        "url": "../images/heroes/21.avif"
       },
       {
         "filename": "images/50.avif",
-        "url": "https://images.thdstatic.com/productImages/1bd2dd6a-0467-45e3-8aa4-3385c202627a/svn/dewalt-right-angle-drills-dcd740bw204-64_600.jpg"
+        "url": "../images/heroes/50.avif"
       },
       {
         "filename": "images/43.avif",
-        "url": "https://images.thdstatic.com/productImages/b76aa918-3abe-43b8-a43a-4bf44c0f0488/svn/dewalt-right-angle-drills-dcd740bw230-64_600.jpg"
+        "url": "../images/heroes/43.avif"
       },
       {
         "filename": "images/46.avif",
-        "url": "https://images.thdstatic.com/productImages/6255c2db-290e-4ecd-b5e9-678a99c7e71b/svn/milwaukee-right-angle-drills-2807-20-48-11-1862-64_600.jpg"
+        "url": "../images/heroes/46.avif"
       },
       {
         "filename": "images/39.avif",
-        "url": "https://images.thdstatic.com/productImages/65bbab06-1b6d-40cf-b8d7-9d465990d9c6/svn/milwaukee-right-angle-drills-2808-20-2719-20-64_600.jpg"
+        "url": "../images/heroes/39.avif"
       },
       {
         "filename": "images/57.avif",
-        "url": "https://images.thdstatic.com/productImages/a34c5ff5-6b15-4a85-9826-86f3baceb408/svn/makita-right-angle-drills-xad01z-64_600.jpg"
+        "url": "../images/heroes/57.avif"
       }
     ],
     "svgs": [
       {
-        "filename": "images/10.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
-      },
-      {
         "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+        "url": "../images/brands/77.svg"
       },
       {
         "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+        "url": "../images/brands/78.svg"
       },
       {
         "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+        "url": "../images/brands/79.svg"
       },
       {
         "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
+        "url": "../images/brands/80.svg"
       },
       {
         "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
+        "url": "../images/brands/81.svg"
       },
       {
         "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
+        "url": "../images/brands/82.svg"
       },
       {
         "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
+        "url": "../images/brands/83.svg"
       },
       {
         "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
+        "url": "../images/brands/84.svg"
       },
       {
         "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
+        "url": "../images/brands/85.svg"
       },
       {
         "filename": "images/86.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
+        "url": "../images/brands/86.svg"
       },
       {
         "filename": "images/87.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
+        "url": "../images/brands/87.svg"
       },
       {
         "filename": "images/88.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
+        "url": "../images/brands/88.svg"
       },
       {
         "filename": "images/89.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
+        "url": "../images/brands/89.svg"
       },
       {
         "filename": "images/90.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
+        "url": "../images/brands/90.svg"
       },
       {
         "filename": "images/91.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
+        "url": "../images/brands/91.svg"
       },
       {
         "filename": "images/92.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
+        "url": "../images/brands/92.svg"
       },
       {
         "filename": "images/93.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
+        "url": "../images/brands/93.svg"
       },
       {
         "filename": "images/94.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
+        "url": "../images/brands/94.svg"
       },
       {
         "filename": "images/95.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
+        "url": "../images/brands/95.svg"
       },
       {
         "filename": "images/96.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
+        "url": "../images/brands/96.svg"
       },
       {
         "filename": "images/97.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
+        "url": "../images/brands/97.svg"
       },
       {
         "filename": "images/98.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
+        "url": "../images/brands/98.svg"
       },
       {
         "filename": "images/99.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
+        "url": "../images/brands/99.svg"
       },
       {
         "filename": "images/100.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+        "url": "../images/brands/100.svg"
       }
     ],
     "other": [
       {
-        "filename": "images/11.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
-      },
-      {
         "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+        "url": "../images/heroes/12.avif"
       },
       {
         "filename": "images/19.avif",
-        "url": "https://assets.thdstatic.com/images/special-buy--pod.jpg"
-      },
-      {
-        "filename": "images/13.webp",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/d6/d6cd2d2c-7a05-4063-ba60-5d1bff5f7445_300.jpg"
+        "url": "../images/heroes/19.avif"
       },
       {
         "filename": "images/14.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/27/27cc5bc9-9ab6-4846-b050-c80d977b5c1d_300.jpg"
+        "url": "../images/heroes/14.avif"
       },
       {
         "filename": "images/15.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/a2/a20fd4eb-4ccd-4e0d-9565-487ce60f93ba_300.jpg"
+        "url": "../images/heroes/15.avif"
       },
       {
         "filename": "images/16.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/2d/2dd209c7-eab2-42fb-9135-7fbb2fdb05d6_300.jpg"
+        "url": "../images/heroes/16.avif"
       },
       {
         "filename": "images/18.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/76/768accf0-907a-4971-bbeb-3bf41ba25666_300.jpg"
+        "url": "../images/ui/18.avif"
       },
       {
         "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/768accf0-907a-4971-bbeb-3bf41ba25666/svn/milwaukee-right-angle-drills-2807-20-64_300.jpg"
+        "url": "../images/heroes/73.avif"
       },
       {
         "filename": "images/74.avif",
-        "url": "https://images.thdstatic.com/productImages/27cc5bc9-9ab6-4846-b050-c80d977b5c1d/svn/milwaukee-right-angle-drills-2415-20-64_300.jpg"
-      },
-      {
-        "filename": "images/17.webp",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/c9/c959b8bd-0496-49bd-9643-97af7b349605_300.jpg"
+        "url": "../images/heroes/74.avif"
       },
       {
         "filename": "images/75.avif",
-        "url": "https://images.thdstatic.com/productImages/90fa78d5-2aa1-49d0-b40d-629449e23a4e/svn/milwaukee-right-angle-drills-2809-20-64_300.jpg"
-      },
-      {
-        "filename": "images/76.webp",
-        "url": "https://images.thdstatic.com/productImages/e7d2b6c7-99b3-4258-80e3-8427308eb181/svn/milwaukee-right-angle-drills-1675-6-64_300.jpg"
+        "url": "../images/heroes/75.avif"
       }
     ]
   },

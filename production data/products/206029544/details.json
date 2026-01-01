@@ -1,0 +1,45 @@
+{
+  "productId": "206029544",
+  "identifiers": {
+    "internetNumber": "206029544",
+    "modelNumber": "",
+    "storeSkuNumber": "206029544"
+  },
+  "brand": {
+    "name": "Amana",
+    "logoUrl": "images/brands/amana.svg"
+  },
+  "title": "6.5 cu.ft. vented Front Load Electric Dryer in White with Wrinkle Prevent Option",
+  "shortDescription": "6.5 cu.ft. vented Front Load Electric Dryer in White with Wrinkle Prevent Option",
+  "longDescription": "6.5 cu.ft. vented Front Load Electric Dryer in White with Wrinkle Prevent Option",
+  "pricing": {
+    "currentPrice": 499.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.472,
+    "count": 14406
+  },
+  "media": {
+    "primaryImage": "/products/206029544/white-amana-electric-dryers-ned4655ew-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206029544/white-amana-electric-dryers-ned4655ew-64_100.jpg",
+        "altText": "6.5 cu.ft. vented Front Load Electric Dryer in White with Wrinkle Prevent Option",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.525373"
+}

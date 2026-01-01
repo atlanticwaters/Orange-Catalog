@@ -1,0 +1,45 @@
+{
+  "productId": "330445924",
+  "identifiers": {
+    "internetNumber": "330445924",
+    "modelNumber": "",
+    "storeSkuNumber": "330445924"
+  },
+  "brand": {
+    "name": "LuxHomez",
+    "logoUrl": "images/brands/luxhomez.svg"
+  },
+  "title": "32 in. W. x 71.2 in. H Modern Rectangle Aluminum Alloy Full Length Mirror Black Wall Mirror/Floor Mirror",
+  "shortDescription": "32 in. W. x 71.2 in. H Modern Rectangle Aluminum Alloy Full Length Mirror Black Wall Mirror/Floor Mirror",
+  "longDescription": "32 in. W. x 71.2 in. H Modern Rectangle Aluminum Alloy Full Length Mirror Black Wall Mirror/Floor Mirror",
+  "pricing": {
+    "currentPrice": 164.25,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5962,
+    "count": 52
+  },
+  "media": {
+    "primaryImage": "/products/330445924/luxhomez-wall-mirrors-lrm-80-bk-1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330445924/luxhomez-wall-mirrors-lrm-80-bk-1-64_100.jpg",
+        "altText": "32 in. W. x 71.2 in. H Modern Rectangle Aluminum Alloy Full Length Mirror Black Wall Mirror/Floor Mirror",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.650087"
+}

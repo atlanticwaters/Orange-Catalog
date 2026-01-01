@@ -1,0 +1,45 @@
+{
+  "productId": "206154412",
+  "identifiers": {
+    "internetNumber": "206154412",
+    "modelNumber": "",
+    "storeSkuNumber": "206154412"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "30 Gal. 175 PSI 2-Stage Gas-Powered Truck Mount Air Compressor",
+  "shortDescription": "30 Gal. 175 PSI 2-Stage Gas-Powered Truck Mount Air Compressor",
+  "longDescription": "30 Gal. 175 PSI 2-Stage Gas-Powered Truck Mount Air Compressor",
+  "pricing": {
+    "currentPrice": 2664.49,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/206154412/dewalt-portable-air-compressors-dxcmh1393075-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206154412/dewalt-portable-air-compressors-dxcmh1393075-64_100.jpg",
+        "altText": "30 Gal. 175 PSI 2-Stage Gas-Powered Truck Mount Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.513383"
+}

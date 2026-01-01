@@ -1,0 +1,45 @@
+{
+  "productId": "325329879",
+  "identifiers": {
+    "internetNumber": "325329879",
+    "modelNumber": "",
+    "storeSkuNumber": "325329879"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18-Volt Lithium-Ion Cordless Brushless 1/2 in. Router Plunge Base Kit",
+  "shortDescription": "M18 FUEL 18-Volt Lithium-Ion Cordless Brushless 1/2 in. Router Plunge Base Kit",
+  "longDescription": "M18 FUEL 18-Volt Lithium-Ion Cordless Brushless 1/2 in. Router Plunge Base Kit",
+  "pricing": {
+    "currentPrice": 499.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6143,
+    "count": 70
+  },
+  "media": {
+    "primaryImage": "/products/325329879/milwaukee-wood-routers-2838-21-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325329879/milwaukee-wood-routers-2838-21-64_100.jpg",
+        "altText": "M18 FUEL 18-Volt Lithium-Ion Cordless Brushless 1/2 in. Router Plunge Base Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.664702"
+}

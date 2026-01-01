@@ -1,0 +1,45 @@
+{
+  "productId": "305531138",
+  "identifiers": {
+    "internetNumber": "305531138",
+    "modelNumber": "",
+    "storeSkuNumber": "305531138"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "Indoor 4.5 ft. Cactus Artificial Plant",
+  "shortDescription": "Indoor 4.5 ft. Cactus Artificial Plant",
+  "longDescription": "Indoor 4.5 ft. Cactus Artificial Plant",
+  "pricing": {
+    "currentPrice": 151.03,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.0,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/305531138/nearly-natural-artificial-succulents-6329-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305531138/nearly-natural-artificial-succulents-6329-64_100.jpg",
+        "altText": "Indoor 4.5 ft. Cactus Artificial Plant",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.562542"
+}

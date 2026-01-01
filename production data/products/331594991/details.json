@@ -1,0 +1,45 @@
+{
+  "productId": "331594991",
+  "identifiers": {
+    "internetNumber": "331594991",
+    "modelNumber": "",
+    "storeSkuNumber": "331594991"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lith-Ion Brushless Cordless 1 in. SDS-Plus Rotary Hammer with M18 REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+  "shortDescription": "M18 FUEL 18V Lith-Ion Brushless Cordless 1 in. SDS-Plus Rotary Hammer with M18 REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+  "longDescription": "M18 FUEL 18V Lith-Ion Brushless Cordless 1 in. SDS-Plus Rotary Hammer with M18 REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+  "pricing": {
+    "currentPrice": 349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7621,
+    "count": 454
+  },
+  "media": {
+    "primaryImage": "/products/331594991/milwaukee-rotary-hammers-2912-20-48-11-1881-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331594991/milwaukee-rotary-hammers-2912-20-48-11-1881-64_100.jpg",
+        "altText": "M18 FUEL 18V Lith-Ion Brushless Cordless 1 in. SDS-Plus Rotary Hammer with M18 REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.698940"
+}

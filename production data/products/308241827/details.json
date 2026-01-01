@@ -1,0 +1,45 @@
+{
+  "productId": "308241827",
+  "identifiers": {
+    "internetNumber": "308241827",
+    "modelNumber": "",
+    "storeSkuNumber": "308241827"
+  },
+  "brand": {
+    "name": "Maytag",
+    "logoUrl": "images/brands/maytag.svg"
+  },
+  "title": "4.5 cu. ft. White Stackable Front Load Washing Machine with 12-Hour Fresh Spin, ENERGY STAR",
+  "shortDescription": "4.5 cu. ft. White Stackable Front Load Washing Machine with 12-Hour Fresh Spin, ENERGY STAR",
+  "longDescription": "4.5 cu. ft. White Stackable Front Load Washing Machine with 12-Hour Fresh Spin, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 749.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2695,
+    "count": 5336
+  },
+  "media": {
+    "primaryImage": "/products/308241827/white-maytag-front-load-washers-mhw5630hw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308241827/white-maytag-front-load-washers-mhw5630hw-64_100.jpg",
+        "altText": "4.5 cu. ft. White Stackable Front Load Washing Machine with 12-Hour Fresh Spin, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.548570"
+}

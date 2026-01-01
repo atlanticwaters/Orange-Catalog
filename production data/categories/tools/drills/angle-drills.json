@@ -1,0 +1,309 @@
+{
+  "categoryId": "tools/drills/angle-drills",
+  "name": "Angle Drills",
+  "slug": "angle-drills",
+  "path": "/categories/tools/drills/angle-drills",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.740059",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Drills",
+      "url": "/tools/drills"
+    },
+    {
+      "label": "Angle Drills",
+      "url": "/tools/drills/angle-drills"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 12
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 8
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 2
+    },
+    {
+      "brandId": "florida-pneumatic",
+      "brandName": "Florida Pneumatic",
+      "logoUrl": "images/brands/florida-pneumatic.svg",
+      "count": 1
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "303834256",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Lithium-Ion Cordless Grease Gun XC Kit with M12 Right Angle Drill",
+      "rating": {
+        "average": 4.4485,
+        "count": 136
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5c2fd8e8-c1df-472d-86b3-7b2fcc046a41/svn/milwaukee-air-grease-guns-2446-21xc-2415-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 339.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205091551",
+      "modelNumber": "",
+      "brand": "Florida Pneumatic",
+      "title": "3/8 in. Reversible Angle Drill",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b03778e8-01cf-496e-902a-5f398fc26115/svn/florida-pneumatic-air-drills-fp-785-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 151.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312427932",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL GEN II 18V Lithium-Ion Brushless Cordless 1/2 in. Hole Hawg Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.3541,
+        "count": 418
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/768accf0-907a-4971-bbeb-3bf41ba25666/svn/milwaukee-right-angle-drills-2807-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309495657",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless GEN 2 SUPER HAWG 1/2 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6267,
+        "count": 225
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/90fa78d5-2aa1-49d0-b40d-629449e23a4e/svn/milwaukee-right-angle-drills-2809-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312430386",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hole Hawg 7/16 in. Right Angle Drill W/ Quick-Lok (Tool-Only)",
+      "rating": {
+        "average": 4.3212,
+        "count": 193
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/572392dc-fd43-4630-936f-816804d50ce1/svn/milwaukee-right-angle-drills-2808-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196520",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 3/8 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.632,
+        "count": 1068
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/27cc5bc9-9ab6-4846-b050-c80d977b5c1d/svn/milwaukee-right-angle-drills-2415-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309824232",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless GEN 2 SUPER HAWG 7/16 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6864,
+        "count": 118
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0659d1e0-97ae-4237-b857-4e4eb6393bed/svn/milwaukee-right-angle-drills-2811-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202901662",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless 3/8 in. Right-Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.3325,
+        "count": 391
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c959b8bd-0496-49bd-9643-97af7b349605/svn/milwaukee-right-angle-drills-2615-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313438681",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact 3/8 in. Right Angle Drill (Tool Only)",
+      "rating": {
+        "average": 4.6918,
+        "count": 808
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a20fd4eb-4ccd-4e0d-9565-487ce60f93ba/svn/ryobi-right-angle-drills-psbra02b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203316372",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless 3/8 in. Right Angle Drill/Driver (Tool Only)",
+      "rating": {
+        "average": 4.2372,
+        "count": 312
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6cd2d2c-7a05-4063-ba60-5d1bff5f7445/svn/dewalt-right-angle-drills-dcd740b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100342144",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6088,
+        "count": 1025
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca6084bd-beaa-4d1f-b813-d18ee5fc67b3/svn/ryobi-right-angle-drills-p241-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333683682",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL GEN II 18V Lith-Ion Brushless Cordless 1/2 in. Hole Hawg Right Angle Drill w/ (2) High Output 6.0 Ah Battery",
+      "rating": {
+        "average": 4.6335,
+        "count": 996
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6255c2db-290e-4ecd-b5e9-678a99c7e71b/svn/milwaukee-right-angle-drills-2807-20-48-11-1862-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 569.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

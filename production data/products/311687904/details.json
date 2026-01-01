@@ -1,0 +1,45 @@
+{
+  "productId": "311687904",
+  "identifiers": {
+    "internetNumber": "311687904",
+    "modelNumber": "",
+    "storeSkuNumber": "311687904"
+  },
+  "brand": {
+    "name": "Hilti",
+    "logoUrl": "images/brands/hilti.svg"
+  },
+  "title": "DCH 300-X 12 in. Electric Hand Held Diamond Saw Kit with EQD SPX Universal Blade and Twist Lock",
+  "shortDescription": "DCH 300-X 12 in. Electric Hand Held Diamond Saw Kit with EQD SPX Universal Blade and Twist Lock",
+  "longDescription": "DCH 300-X 12 in. Electric Hand Held Diamond Saw Kit with EQD SPX Universal Blade and Twist Lock",
+  "pricing": {
+    "currentPrice": 2069.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 2.75,
+    "count": 4
+  },
+  "media": {
+    "primaryImage": "/products/311687904/hilti-concrete-saws-3625042-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311687904/hilti-concrete-saws-3625042-64_100.jpg",
+        "altText": "DCH 300-X 12 in. Electric Hand Held Diamond Saw Kit with EQD SPX Universal Blade and Twist Lock",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.689796"
+}

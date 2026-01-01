@@ -1,0 +1,45 @@
+{
+  "productId": "337133315",
+  "identifiers": {
+    "internetNumber": "337133315",
+    "modelNumber": "",
+    "storeSkuNumber": "337133315"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only) & 8-1/4 in Blade",
+  "shortDescription": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only) & 8-1/4 in Blade",
+  "longDescription": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only) & 8-1/4 in Blade",
+  "pricing": {
+    "currentPrice": 489.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/337133315/milwaukee-portable-table-saws-2736-20-48-40-0822-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337133315/milwaukee-portable-table-saws-2736-20-48-40-0822-64_100.jpg",
+        "altText": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only) & 8-1/4 in Blade",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.677487"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "300080886",
+  "identifiers": {
+    "internetNumber": "300080886",
+    "modelNumber": "",
+    "storeSkuNumber": "300080886"
+  },
+  "brand": {
+    "name": "POWERNAIL",
+    "logoUrl": "images/brands/powernail.svg"
+  },
+  "title": "Pneumatic 20-Gauge Hardwood Flooring Trigger Pull Cleat Nailer Kit",
+  "shortDescription": "Pneumatic 20-Gauge Hardwood Flooring Trigger Pull Cleat Nailer Kit",
+  "longDescription": "Pneumatic 20-Gauge Hardwood Flooring Trigger Pull Cleat Nailer Kit",
+  "pricing": {
+    "currentPrice": 245.33,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8947,
+    "count": 19
+  },
+  "media": {
+    "primaryImage": "/products/300080886/powernail-floor-nailers-2000f-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300080886/powernail-floor-nailers-2000f-64_100.jpg",
+        "altText": "Pneumatic 20-Gauge Hardwood Flooring Trigger Pull Cleat Nailer Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.511718"
+}

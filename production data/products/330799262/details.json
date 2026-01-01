@@ -1,0 +1,45 @@
+{
+  "productId": "330799262",
+  "identifiers": {
+    "internetNumber": "330799262",
+    "modelNumber": "",
+    "storeSkuNumber": "330799262"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "24 in. 2.2 cu ft Electric Built-In Microwave in Stainless Steel with Sensor Cook",
+  "shortDescription": "24 in. 2.2 cu ft Electric Built-In Microwave in Stainless Steel with Sensor Cook",
+  "longDescription": "24 in. 2.2 cu ft Electric Built-In Microwave in Stainless Steel with Sensor Cook",
+  "pricing": {
+    "currentPrice": 449.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5872,
+    "count": 1112
+  },
+  "media": {
+    "primaryImage": "/products/330799262/smudge-proof-stainless-steel-frigidaire-built-in-microwaves-gmbs3068bf-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330799262/smudge-proof-stainless-steel-frigidaire-built-in-microwaves-gmbs3068bf-64_100.jpg",
+        "altText": "24 in. 2.2 cu ft Electric Built-In Microwave in Stainless Steel with Sensor Cook",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.448062"
+}

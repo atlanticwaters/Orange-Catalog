@@ -1,0 +1,45 @@
+{
+  "productId": "331594865",
+  "identifiers": {
+    "internetNumber": "331594865",
+    "modelNumber": "",
+    "storeSkuNumber": "331594865"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Impact Wrench Kit w/One 5.0 Ah Battery & FORGE XC 8.0 Ah Battery Pack",
+  "shortDescription": "M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Impact Wrench Kit w/One 5.0 Ah Battery & FORGE XC 8.0 Ah Battery Pack",
+  "longDescription": "M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Impact Wrench Kit w/One 5.0 Ah Battery & FORGE XC 8.0 Ah Battery Pack",
+  "pricing": {
+    "currentPrice": 399.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7759,
+    "count": 2570
+  },
+  "media": {
+    "primaryImage": "/products/331594865/milwaukee-impact-wrenches-2967-21b-48-11-1881-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331594865/milwaukee-impact-wrenches-2967-21b-48-11-1881-64_100.jpg",
+        "altText": "M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Impact Wrench Kit w/One 5.0 Ah Battery & FORGE XC 8.0 Ah Battery Pack",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.683693"
+}

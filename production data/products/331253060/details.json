@@ -1,0 +1,45 @@
+{
+  "productId": "331253060",
+  "identifiers": {
+    "internetNumber": "331253060",
+    "modelNumber": "",
+    "storeSkuNumber": "331253060"
+  },
+  "brand": {
+    "name": "VECTOR",
+    "logoUrl": "images/brands/vector.svg"
+  },
+  "title": "4 Amp Battery Charger/Maintainer",
+  "shortDescription": "4 Amp Battery Charger/Maintainer",
+  "longDescription": "4 Amp Battery Charger/Maintainer",
+  "pricing": {
+    "currentPrice": 44.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1086,
+    "count": 267
+  },
+  "media": {
+    "primaryImage": "/products/331253060/vector-car-battery-chargers-vecbc4-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331253060/vector-car-battery-chargers-vecbc4-64_100.jpg",
+        "altText": "4 Amp Battery Charger/Maintainer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.521139"
+}

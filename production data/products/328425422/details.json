@@ -1,0 +1,45 @@
+{
+  "productId": "328425422",
+  "identifiers": {
+    "internetNumber": "328425422",
+    "modelNumber": "",
+    "storeSkuNumber": "328425422"
+  },
+  "brand": {
+    "name": "Hotpoint",
+    "logoUrl": "images/brands/hotpoint.svg"
+  },
+  "title": "4.0 cu.ft. Top Load Washer in White with Cold Plus and Water Level Control",
+  "shortDescription": "4.0 cu.ft. Top Load Washer in White with Cold Plus and Water Level Control",
+  "longDescription": "4.0 cu.ft. Top Load Washer in White with Cold Plus and Water Level Control",
+  "pricing": {
+    "currentPrice": 629.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2186,
+    "count": 2370
+  },
+  "media": {
+    "primaryImage": "/products/328425422/white-hotpoint-top-load-washers-htw265aswww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328425422/white-hotpoint-top-load-washers-htw265aswww-64_100.jpg",
+        "altText": "4.0 cu.ft. Top Load Washer in White with Cold Plus and Water Level Control",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.457437"
+}

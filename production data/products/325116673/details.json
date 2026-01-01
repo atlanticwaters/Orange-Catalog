@@ -1,0 +1,45 @@
+{
+  "productId": "325116673",
+  "identifiers": {
+    "internetNumber": "325116673",
+    "modelNumber": "",
+    "storeSkuNumber": "325116673"
+  },
+  "brand": {
+    "name": "Amana",
+    "logoUrl": "images/brands/amana.svg"
+  },
+  "title": "3.8 cu. ft. Large Capacity Top Load Washer in White with High-Efficiency Agitator",
+  "shortDescription": "3.8 cu. ft. Large Capacity Top Load Washer in White with High-Efficiency Agitator",
+  "longDescription": "3.8 cu. ft. Large Capacity Top Load Washer in White with High-Efficiency Agitator",
+  "pricing": {
+    "currentPrice": 499.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0027,
+    "count": 1877
+  },
+  "media": {
+    "primaryImage": "/products/325116673/white-amana-top-load-washers-ntw4519jw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325116673/white-amana-top-load-washers-ntw4519jw-64_100.jpg",
+        "altText": "3.8 cu. ft. Large Capacity Top Load Washer in White with High-Efficiency Agitator",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.424755"
+}

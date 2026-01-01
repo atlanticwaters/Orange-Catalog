@@ -1,0 +1,45 @@
+{
+  "productId": "329860811",
+  "identifiers": {
+    "internetNumber": "329860811",
+    "modelNumber": "",
+    "storeSkuNumber": "329860811"
+  },
+  "brand": {
+    "name": "Amanti Art",
+    "logoUrl": "images/brands/amanti-art.svg"
+  },
+  "title": "Furniture Espresso 45.75 in. x 32.75 in. Custom Non-Beveled Satin Recycled Polystyrene Bathroom Vanity Wall Mirror",
+  "shortDescription": "Furniture Espresso 45.75 in. x 32.75 in. Custom Non-Beveled Satin Recycled Polystyrene Bathroom Vanity Wall Mirror",
+  "longDescription": "Furniture Espresso 45.75 in. x 32.75 in. Custom Non-Beveled Satin Recycled Polystyrene Bathroom Vanity Wall Mirror",
+  "pricing": {
+    "currentPrice": 400.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/329860811/amanti-art-wall-mirrors-a38868140751-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329860811/amanti-art-wall-mirrors-a38868140751-64_100.jpg",
+        "altText": "Furniture Espresso 45.75 in. x 32.75 in. Custom Non-Beveled Satin Recycled Polystyrene Bathroom Vanity Wall Mirror",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.569832"
+}

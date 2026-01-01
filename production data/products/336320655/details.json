@@ -1,0 +1,45 @@
+{
+  "productId": "336320655",
+  "identifiers": {
+    "internetNumber": "336320655",
+    "modelNumber": "",
+    "storeSkuNumber": "336320655"
+  },
+  "brand": {
+    "name": "EUHOMY",
+    "logoUrl": "images/brands/euhomy.svg"
+  },
+  "title": "8.1 in. 27 lb./Day Bullet Countertop Portable Ice Maker in Black with 2-Ice Sizes, Ice Scoop, Self-Cleaning, 6-Min Ice",
+  "shortDescription": "8.1 in. 27 lb./Day Bullet Countertop Portable Ice Maker in Black with 2-Ice Sizes, Ice Scoop, Self-Cleaning, 6-Min Ice",
+  "longDescription": "8.1 in. 27 lb./Day Bullet Countertop Portable Ice Maker in Black with 2-Ice Sizes, Ice Scoop, Self-Cleaning, 6-Min Ice",
+  "pricing": {
+    "currentPrice": 49.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6154,
+    "count": 26
+  },
+  "media": {
+    "primaryImage": "/products/336320655/white-euhomy-countertop-ice-makers-im021-bbl-s-hd-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336320655/white-euhomy-countertop-ice-makers-im021-bbl-s-hd-64_100.jpg",
+        "altText": "8.1 in. 27 lb./Day Bullet Countertop Portable Ice Maker in Black with 2-Ice Sizes, Ice Scoop, Self-Cleaning, 6-Min Ice",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.452080"
+}

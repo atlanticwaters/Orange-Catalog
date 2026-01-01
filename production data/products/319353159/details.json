@@ -1,0 +1,45 @@
+{
+  "productId": "319353159",
+  "identifiers": {
+    "internetNumber": "319353159",
+    "modelNumber": "",
+    "storeSkuNumber": "319353159"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V Compact Cordless 1/2 in. Hammer Drill (Tool Only)",
+  "shortDescription": "20V Compact Cordless 1/2 in. Hammer Drill (Tool Only)",
+  "longDescription": "20V Compact Cordless 1/2 in. Hammer Drill (Tool Only)",
+  "pricing": {
+    "currentPrice": 150.79,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.55,
+    "count": 140
+  },
+  "media": {
+    "primaryImage": "/products/319353159/dewalt-hammer-drills-dcd805b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/319353159/dewalt-hammer-drills-dcd805b-64_100.jpg",
+        "altText": "20V Compact Cordless 1/2 in. Hammer Drill (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.678657"
+}

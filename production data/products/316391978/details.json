@@ -1,0 +1,45 @@
+{
+  "productId": "316391978",
+  "identifiers": {
+    "internetNumber": "316391978",
+    "modelNumber": "",
+    "storeSkuNumber": "316391978"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "ONE+ 18V Cordless 1 Gal. Portable Air Compressor and 2.0 Ah Compact Battery and Charger Starter Kit",
+  "shortDescription": "ONE+ 18V Cordless 1 Gal. Portable Air Compressor and 2.0 Ah Compact Battery and Charger Starter Kit",
+  "longDescription": "ONE+ 18V Cordless 1 Gal. Portable Air Compressor and 2.0 Ah Compact Battery and Charger Starter Kit",
+  "pricing": {
+    "currentPrice": 215.39,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3339,
+    "count": 1794
+  },
+  "media": {
+    "primaryImage": "/products/316391978/ryobi-portable-air-compressors-p739-psk005-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316391978/ryobi-portable-air-compressors-p739-psk005-64_100.jpg",
+        "altText": "ONE+ 18V Cordless 1 Gal. Portable Air Compressor and 2.0 Ah Compact Battery and Charger Starter Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.575718"
+}

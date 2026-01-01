@@ -1,0 +1,45 @@
+{
+  "productId": "310328063",
+  "identifiers": {
+    "internetNumber": "310328063",
+    "modelNumber": "",
+    "storeSkuNumber": "310328063"
+  },
+  "brand": {
+    "name": "Grizzly Industrial",
+    "logoUrl": "images/brands/grizzly-industrial.svg"
+  },
+  "title": "2 HP Dust Collector w/ Aluminum Impeller",
+  "shortDescription": "2 HP Dust Collector w/ Aluminum Impeller",
+  "longDescription": "2 HP Dust Collector w/ Aluminum Impeller",
+  "pricing": {
+    "currentPrice": 595.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8523,
+    "count": 88
+  },
+  "media": {
+    "primaryImage": "/products/310328063/grizzly-industrial-dust-collectors-g1029z2p-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/310328063/grizzly-industrial-dust-collectors-g1029z2p-64_100.jpg",
+        "altText": "2 HP Dust Collector w/ Aluminum Impeller",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.675029"
+}

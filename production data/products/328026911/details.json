@@ -1,0 +1,45 @@
+{
+  "productId": "328026911",
+  "identifiers": {
+    "internetNumber": "328026911",
+    "modelNumber": "",
+    "storeSkuNumber": "328026911"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "27 Gal. Pro Grip Storage Tote in Black with Red Lid",
+  "shortDescription": "27 Gal. Pro Grip Storage Tote in Black with Red Lid",
+  "longDescription": "27 Gal. Pro Grip Storage Tote in Black with Red Lid",
+  "pricing": {
+    "currentPrice": 19.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6467,
+    "count": 1169
+  },
+  "media": {
+    "primaryImage": "/products/328026911/husky-storage-bins-999-27g-husky-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328026911/husky-storage-bins-999-27g-husky-64_100.jpg",
+        "altText": "27 Gal. Pro Grip Storage Tote in Black with Red Lid",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.625480"
+}

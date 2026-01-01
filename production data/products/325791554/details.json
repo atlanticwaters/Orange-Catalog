@@ -1,0 +1,45 @@
+{
+  "productId": "325791554",
+  "identifiers": {
+    "internetNumber": "325791554",
+    "modelNumber": "",
+    "storeSkuNumber": "325791554"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "12-Volt/120-Volt Home & Auto Tire Inflator",
+  "shortDescription": "12-Volt/120-Volt Home & Auto Tire Inflator",
+  "longDescription": "12-Volt/120-Volt Home & Auto Tire Inflator",
+  "pricing": {
+    "currentPrice": 89.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3901,
+    "count": 182
+  },
+  "media": {
+    "primaryImage": "/products/325791554/husky-inflators-h12120n-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325791554/husky-inflators-h12120n-64_100.jpg",
+        "altText": "12-Volt/120-Volt Home & Auto Tire Inflator",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.507200"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "331253356",
+  "identifiers": {
+    "internetNumber": "331253356",
+    "modelNumber": "",
+    "storeSkuNumber": "331253356"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with (2) 4.0 Ah Batteries, Charger and Kit Bag",
+  "shortDescription": "20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with (2) 4.0 Ah Batteries, Charger and Kit Bag",
+  "longDescription": "20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with (2) 4.0 Ah Batteries, Charger and Kit Bag",
+  "pricing": {
+    "currentPrice": 369.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6074,
+    "count": 163
+  },
+  "media": {
+    "primaryImage": "/products/331253356/dewalt-power-tool-combo-kits-dck2101qq2-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331253356/dewalt-power-tool-combo-kits-dck2101qq2-64_100.jpg",
+        "altText": "20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with (2) 4.0 Ah Batteries, Charger and Kit Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.656447"
+}

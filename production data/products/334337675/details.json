@@ -1,0 +1,45 @@
+{
+  "productId": "334337675",
+  "identifiers": {
+    "internetNumber": "334337675",
+    "modelNumber": "",
+    "storeSkuNumber": "334337675"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "ATOMIC 20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with 5.0 Ah and 2.0 Ah Batteries, Charger and Kit Bag",
+  "shortDescription": "ATOMIC 20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with 5.0 Ah and 2.0 Ah Batteries, Charger and Kit Bag",
+  "longDescription": "ATOMIC 20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with 5.0 Ah and 2.0 Ah Batteries, Charger and Kit Bag",
+  "pricing": {
+    "currentPrice": 299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8723,
+    "count": 94
+  },
+  "media": {
+    "primaryImage": "/products/334337675/dewalt-power-tool-combo-kits-dck200d1p1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334337675/dewalt-power-tool-combo-kits-dck200d1p1-64_100.jpg",
+        "altText": "ATOMIC 20V MAX Lithium-Ion Cordless 2-Tool Combo Kit with 5.0 Ah and 2.0 Ah Batteries, Charger and Kit Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.656230"
+}

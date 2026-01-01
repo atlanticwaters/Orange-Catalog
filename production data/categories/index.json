@@ -1,674 +1,583 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-12-31",
-  "departments": [
-    {
-      "id": "electrical",
-      "name": "Electrical",
-      "slug": "electrical",
-      "path": "/categories/electrical",
-      "subcategories": [],
-      "productCount": 0
-    },
-    {
-      "id": "bath",
-      "name": "Bath",
-      "slug": "bath",
-      "path": "/categories/bath",
-      "subcategories": [],
-      "productCount": 0
-    },
-    {
-      "id": "tools",
-      "name": "Tools",
-      "slug": "tools",
-      "path": "/categories/tools",
-      "subcategories": [
-        {
-          "id": "tools/air-compressor-tools",
-          "name": "Air Compressor Tools",
-          "slug": "air-compressor-tools",
-          "path": "/categories/tools/air-compressor-tools",
-          "parent": "tools",
-          "productCount": 5
-        },
-        {
-          "id": "tools/automotive",
-          "name": "Automotive",
-          "slug": "automotive",
-          "path": "/categories/tools/automotive",
-          "parent": "tools",
-          "productCount": 24
-        },
-        {
-          "id": "tools/band-saws",
-          "name": "Band Saws",
-          "slug": "band-saws",
-          "path": "/categories/tools/band-saws",
-          "parent": "tools",
-          "productCount": 43
-        },
-        {
-          "id": "tools/circular-saws",
-          "name": "Circular Saws",
-          "slug": "circular-saws",
-          "path": "/categories/tools/circular-saws",
-          "parent": "tools",
-          "productCount": 51
-        },
-        {
-          "id": "tools/concrete-drilling-tools",
-          "name": "Concrete Drilling Tools",
-          "slug": "concrete-drilling-tools",
-          "path": "/categories/tools/concrete-drilling-tools",
-          "parent": "tools",
-          "productCount": 49
-        },
-        {
-          "id": "tools/concrete-saws",
-          "name": "Concrete Saws",
-          "slug": "concrete-saws",
-          "path": "/categories/tools/concrete-saws",
-          "parent": "tools",
-          "productCount": 40
-        },
-        {
-          "id": "tools/cordless-ratchets",
-          "name": "Cordless Ratchets",
-          "slug": "cordless-ratchets",
-          "path": "/categories/tools/cordless-ratchets",
-          "parent": "tools",
-          "productCount": 44
-        },
-        {
-          "id": "tools/drill-bits",
-          "name": "Drill Bits",
-          "slug": "drill-bits",
-          "path": "/categories/tools/drill-bits",
-          "parent": "tools",
-          "productCount": 62
-        },
-        {
-          "id": "tools/drill-presses",
-          "name": "Drill Presses",
-          "slug": "drill-presses",
-          "path": "/categories/tools/drill-presses",
-          "parent": "tools",
-          "productCount": 47
-        },
-        {
-          "id": "tools/drills",
-          "name": "Drills",
-          "slug": "drills",
-          "path": "/categories/tools/drills",
-          "parent": "tools",
-          "productCount": 18
-        },
-        {
-          "id": "tools/dust-collectors",
-          "name": "Dust Collectors",
-          "slug": "dust-collectors",
-          "path": "/categories/tools/dust-collectors",
-          "parent": "tools",
-          "productCount": 41
-        },
-        {
-          "id": "tools/electric-screwdrivers",
-          "name": "Electric Screwdrivers",
-          "slug": "electric-screwdrivers",
-          "path": "/categories/tools/electric-screwdrivers",
-          "parent": "tools",
-          "productCount": 38
-        },
-        {
-          "id": "tools/grinders",
-          "name": "Grinders",
-          "slug": "grinders",
-          "path": "/categories/tools/grinders",
-          "parent": "tools",
-          "productCount": 48
-        },
-        {
-          "id": "tools/hammer-drills",
-          "name": "Hammer Drills",
-          "slug": "hammer-drills",
-          "path": "/categories/tools/hammer-drills",
-          "parent": "tools",
-          "productCount": 42
-        },
-        {
-          "id": "tools/hand-tools",
-          "name": "Hand Tools",
-          "slug": "hand-tools",
-          "path": "/categories/tools/hand-tools",
-          "parent": "tools",
-          "productCount": 5
-        },
-        {
-          "id": "tools/impact-drivers",
-          "name": "Impact Drivers",
-          "slug": "impact-drivers",
-          "path": "/categories/tools/impact-drivers",
-          "parent": "tools",
-          "productCount": 47
-        },
-        {
-          "id": "tools/impact-wrenches",
-          "name": "Impact Wrenches",
-          "slug": "impact-wrenches",
-          "path": "/categories/tools/impact-wrenches",
-          "parent": "tools",
-          "productCount": 51
-        },
-        {
-          "id": "tools/jigsaws",
-          "name": "Jigsaws",
-          "slug": "jigsaws",
-          "path": "/categories/tools/jigsaws",
-          "parent": "tools",
-          "productCount": 43
-        },
-        {
-          "id": "tools/jobsite",
-          "name": "Jobsite",
-          "slug": "jobsite",
-          "path": "/categories/tools/jobsite",
-          "parent": "tools",
-          "productCount": 52
-        },
-        {
-          "id": "tools/miter-saws",
-          "name": "Miter Saws",
-          "slug": "miter-saws",
-          "path": "/categories/tools/miter-saws",
-          "parent": "tools",
-          "productCount": 46
-        },
-        {
-          "id": "tools/modular-tool-storage-systems",
-          "name": "Modular Tool Storage Systems",
-          "slug": "modular-tool-storage-systems",
-          "path": "/categories/tools/modular-tool-storage-systems",
-          "parent": "tools",
-          "productCount": 56
-        },
-        {
-          "id": "tools/nail-gunsa",
-          "name": "Nail Gunsa",
-          "slug": "nail-gunsa",
-          "path": "/categories/tools/nail-gunsa",
-          "parent": "tools",
-          "productCount": 8
-        },
-        {
-          "id": "tools/oscillating-tool-attachments",
-          "name": "Oscillating Tool Attachments",
-          "slug": "oscillating-tool-attachments",
-          "path": "/categories/tools/oscillating-tool-attachments",
-          "parent": "tools",
-          "productCount": 49
-        },
-        {
-          "id": "tools/oscillating-tools",
-          "name": "Oscillating Tools",
-          "slug": "oscillating-tools",
-          "path": "/categories/tools/oscillating-tools",
-          "parent": "tools",
-          "productCount": 48
-        },
-        {
-          "id": "tools/outdoor-power-equipment",
-          "name": "Outdoor Power Equipment",
-          "slug": "outdoor-power-equipment",
-          "path": "/categories/tools/outdoor-power-equipment",
-          "parent": "tools",
-          "productCount": 20
-        },
-        {
-          "id": "tools/planers",
-          "name": "Planers",
-          "slug": "planers",
-          "path": "/categories/tools/planers",
-          "parent": "tools",
-          "productCount": 40
-        },
-        {
-          "id": "tools/polishers",
-          "name": "Polishers",
-          "slug": "polishers",
-          "path": "/categories/tools/polishers",
-          "parent": "tools",
-          "productCount": 45
-        },
-        {
-          "id": "tools/power-cutting-tools",
-          "name": "Power Cutting Tools",
-          "slug": "power-cutting-tools",
-          "path": "/categories/tools/power-cutting-tools",
-          "parent": "tools",
-          "productCount": 45
-        },
-        {
-          "id": "tools/power-drills",
-          "name": "Power Drills",
-          "slug": "power-drills",
-          "path": "/categories/tools/power-drills",
-          "parent": "tools",
-          "productCount": 43
-        },
-        {
-          "id": "tools/power-tool-accessoriesa",
-          "name": "Power Tool Accessoriesa",
-          "slug": "power-tool-accessoriesa",
-          "path": "/categories/tools/power-tool-accessoriesa",
-          "parent": "tools",
-          "productCount": 5
-        },
-        {
-          "id": "tools/power-tool-batteries",
-          "name": "Power Tool Batteries",
-          "slug": "power-tool-batteries",
-          "path": "/categories/tools/power-tool-batteries",
-          "parent": "tools",
-          "productCount": 50
-        },
-        {
-          "id": "tools/power-tool-combo-kits",
-          "name": "Power Tool Combo Kits",
-          "slug": "power-tool-combo-kits",
-          "path": "/categories/tools/power-tool-combo-kits",
-          "parent": "tools",
-          "productCount": 48
-        },
-        {
-          "id": "tools/power-tools",
-          "name": "Power Tools",
-          "slug": "power-tools",
-          "path": "/categories/tools/power-tools",
-          "parent": "tools",
-          "productCount": 10
-        },
-        {
-          "id": "tools/reciprocating-saws",
-          "name": "Reciprocating Saws",
-          "slug": "reciprocating-saws",
-          "path": "/categories/tools/reciprocating-saws",
-          "parent": "tools",
-          "productCount": 53
-        },
-        {
-          "id": "tools/right-angle-drills",
-          "name": "Right Angle Drills",
-          "slug": "right-angle-drills",
-          "path": "/categories/tools/right-angle-drills",
-          "parent": "tools",
-          "productCount": 46
-        },
-        {
-          "id": "tools/rotary-hammers",
-          "name": "Rotary Hammers",
-          "slug": "rotary-hammers",
-          "path": "/categories/tools/rotary-hammers",
-          "parent": "tools",
-          "productCount": 51
-        },
-        {
-          "id": "tools/rotary-tools",
-          "name": "Rotary Tools",
-          "slug": "rotary-tools",
-          "path": "/categories/tools/rotary-tools",
-          "parent": "tools",
-          "productCount": 37
-        },
-        {
-          "id": "tools/sanders",
-          "name": "Sanders",
-          "slug": "sanders",
-          "path": "/categories/tools/sanders",
-          "parent": "tools",
-          "productCount": 47
-        },
-        {
-          "id": "tools/saw-blades---power-tool-accessories",
-          "name": "Saw Blades - Power Tool Accessories",
-          "slug": "saw-blades---power-tool-accessories",
-          "path": "/categories/tools/saw-blades---power-tool-accessories",
-          "parent": "tools"
-        },
-        {
-          "id": "tools/saws",
-          "name": "Saws",
-          "slug": "saws",
-          "path": "/categories/tools/saws",
-          "parent": "tools",
-          "productCount": 8
-        },
-        {
-          "id": "tools/shop-vacuumsa",
-          "name": "Shop Vacuumsa",
-          "slug": "shop-vacuumsa",
-          "path": "/categories/tools/shop-vacuumsa",
-          "parent": "tools",
-          "productCount": 50
-        },
-        {
-          "id": "tools/table-saws",
-          "name": "Table Saws",
-          "slug": "table-saws",
-          "path": "/categories/tools/table-saws",
-          "parent": "tools",
-          "productCount": 39
-        },
-        {
-          "id": "tools/tool-stands",
-          "name": "Tool Stands",
-          "slug": "tool-stands",
-          "path": "/categories/tools/tool-stands",
-          "parent": "tools",
-          "productCount": 37
-        },
-        {
-          "id": "tools/tool-storage",
-          "name": "Tool Storage",
-          "slug": "tool-storage",
-          "path": "/categories/tools/tool-storage",
-          "parent": "tools",
-          "productCount": 18
-        },
-        {
-          "id": "tools/welding-soldering",
-          "name": "Welding & Soldering",
-          "slug": "welding-soldering",
-          "path": "/categories/tools/welding-soldering",
-          "parent": "tools",
-          "productCount": 24
-        },
-        {
-          "id": "tools/wood-routers",
-          "name": "Wood Routers",
-          "slug": "wood-routers",
-          "path": "/categories/tools/wood-routers",
-          "parent": "tools",
-          "productCount": 43
-        },
-        {
-          "id": "tools/woodworking-tools",
-          "name": "Woodworking Tools",
-          "slug": "woodworking-tools",
-          "path": "/categories/tools/woodworking-tools",
-          "parent": "tools",
-          "productCount": 7
-        }
-      ],
-      "productCount": 1723
-    },
-    {
-      "id": "garden-center",
-      "name": "Garden Center",
-      "slug": "garden-center",
-      "path": "/categories/garden-center",
-      "subcategories": [],
-      "productCount": 0
-    },
-    {
-      "id": "storage-organization",
-      "name": "Storage & Organization",
-      "slug": "storage-organization",
-      "path": "/categories/storage-organization",
-      "subcategories": [],
-      "productCount": 0
-    },
+  "lastUpdated": "2025-12-31T22:30:04.748837",
+  "totalCategories": 76,
+  "totalProducts": 3001,
+  "categories": [
     {
       "id": "appliances",
       "name": "Appliances",
       "slug": "appliances",
-      "path": "/categories/appliances",
+      "productCount": 621,
       "subcategories": [
         {
           "id": "appliances/air-conditioners",
           "name": "Air Conditioners",
           "slug": "air-conditioners",
-          "path": "/categories/appliances/air-conditioners",
-          "parent": "appliances",
-          "productCount": 8
-        },
-        {
-          "id": "appliances/appliance-parts",
-          "name": "Appliance Parts",
-          "slug": "appliance-parts",
-          "path": "/categories/appliances/appliance-parts",
-          "parent": "appliances",
-          "productCount": 7
+          "productCount": 3,
+          "path": "/categories/appliances/air-conditioners"
         },
         {
           "id": "appliances/beverage-coolers",
           "name": "Beverage Coolers",
           "slug": "beverage-coolers",
-          "path": "/categories/appliances/beverage-coolers",
-          "parent": "appliances",
-          "productCount": 48
-        },
-        {
-          "id": "appliances/bottom-freezer-refrigerators",
-          "name": "Bottom Freezer Refrigerators",
-          "slug": "bottom-freezer-refrigerators",
-          "path": "/categories/appliances/bottom-freezer-refrigerators",
-          "parent": "appliances"
+          "productCount": 8,
+          "path": "/categories/appliances/beverage-coolers"
         },
         {
           "id": "appliances/cooktops",
           "name": "Cooktops",
           "slug": "cooktops",
-          "path": "/categories/appliances/cooktops",
-          "parent": "appliances",
-          "productCount": 13
+          "productCount": 4,
+          "path": "/categories/appliances/cooktops"
         },
         {
           "id": "appliances/dishwashers",
           "name": "Dishwashers",
           "slug": "dishwashers",
-          "path": "/categories/appliances/dishwashers",
-          "parent": "appliances",
-          "productCount": 7
+          "productCount": 5,
+          "path": "/categories/appliances/dishwashers"
         },
         {
           "id": "appliances/fans",
           "name": "Fans",
           "slug": "fans",
-          "path": "/categories/appliances/fans",
-          "parent": "appliances",
-          "productCount": 6
+          "productCount": 3,
+          "path": "/categories/appliances/fans"
         },
         {
-          "id": "appliances/floor-care-vacuums",
-          "name": "Floor Care & Vacuums",
-          "slug": "floor-care-vacuums",
-          "path": "/categories/appliances/floor-care-vacuums",
-          "parent": "appliances",
-          "productCount": 5
-        },
-        {
-          "id": "appliances/freezerless-refrigerators",
-          "name": "Freezerless Refrigerators",
-          "slug": "freezerless-refrigerators",
-          "path": "/categories/appliances/freezerless-refrigerators",
-          "parent": "appliances"
-        },
-        {
-          "id": "appliances/freezers",
-          "name": "Freezers",
-          "slug": "freezers",
-          "path": "/categories/appliances/freezers",
-          "parent": "appliances",
-          "productCount": 4
-        },
-        {
-          "id": "appliances/french-door-refrigerators",
-          "name": "French Door Refrigerators",
-          "slug": "french-door-refrigerators",
-          "path": "/categories/appliances/french-door-refrigerators",
-          "parent": "appliances"
+          "id": "appliances/floor-care",
+          "name": "Floor Care",
+          "slug": "floor-care",
+          "productCount": 23,
+          "path": "/categories/appliances/floor-care"
         },
         {
           "id": "appliances/garbage-disposals",
           "name": "Garbage Disposals",
           "slug": "garbage-disposals",
-          "path": "/categories/appliances/garbage-disposals",
-          "parent": "appliances",
-          "productCount": 38
+          "productCount": 16,
+          "path": "/categories/appliances/garbage-disposals"
         },
         {
           "id": "appliances/ice-makers",
           "name": "Ice Makers",
           "slug": "ice-makers",
-          "path": "/categories/appliances/ice-makers",
-          "parent": "appliances",
-          "productCount": 75
+          "productCount": 23,
+          "path": "/categories/appliances/ice-makers"
         },
         {
           "id": "appliances/microwaves",
           "name": "Microwaves",
           "slug": "microwaves",
-          "path": "/categories/appliances/microwaves",
-          "parent": "appliances",
-          "productCount": 41
-        },
-        {
-          "id": "appliances/mini-fridges",
-          "name": "Mini Fridges",
-          "slug": "mini-fridges",
-          "path": "/categories/appliances/mini-fridges",
-          "parent": "appliances",
-          "productCount": 69
-        },
-        {
-          "id": "appliances/range-hoods",
-          "name": "Range Hoods",
-          "slug": "range-hoods",
-          "path": "/categories/appliances/range-hoods",
-          "parent": "appliances",
-          "productCount": 5
+          "productCount": 8,
+          "path": "/categories/appliances/microwaves"
         },
         {
           "id": "appliances/ranges",
           "name": "Ranges",
           "slug": "ranges",
-          "path": "/categories/appliances/ranges",
-          "parent": "appliances",
-          "productCount": 4
+          "productCount": 29,
+          "path": "/categories/appliances/ranges"
         },
         {
-          "id": "appliances/side-by-side-refrigerators",
-          "name": "Side by Side Refrigerators",
-          "slug": "side-by-side-refrigerators",
-          "path": "/categories/appliances/side-by-side-refrigerators",
-          "parent": "appliances"
+          "id": "appliances/refrigerators",
+          "name": "Refrigerators",
+          "slug": "refrigerators",
+          "productCount": 28,
+          "path": "/categories/appliances/refrigerators"
         },
         {
-          "id": "appliances/small-kitchen-appliances",
-          "name": "Small Kitchen Appliances",
-          "slug": "small-kitchen-appliances",
-          "path": "/categories/appliances/small-kitchen-appliances",
-          "parent": "appliances",
-          "productCount": 6
+          "id": "appliances/refrigerators/bottom-freezer",
+          "name": "Bottom Freezer",
+          "slug": "bottom-freezer",
+          "productCount": 29,
+          "path": "/categories/appliances/refrigerators/bottom-freezer"
         },
         {
-          "id": "appliances/top-freezer-refrigerators",
-          "name": "Top Freezer Refrigerators",
-          "slug": "top-freezer-refrigerators",
-          "path": "/categories/appliances/top-freezer-refrigerators",
-          "parent": "appliances"
+          "id": "appliances/refrigerators/counter-depth",
+          "name": "Counter Depth",
+          "slug": "counter-depth",
+          "productCount": 2,
+          "path": "/categories/appliances/refrigerators/counter-depth"
+        },
+        {
+          "id": "appliances/refrigerators/freezerless",
+          "name": "Freezerless",
+          "slug": "freezerless",
+          "productCount": 16,
+          "path": "/categories/appliances/refrigerators/freezerless"
+        },
+        {
+          "id": "appliances/refrigerators/french-door",
+          "name": "French Door",
+          "slug": "french-door",
+          "productCount": 76,
+          "path": "/categories/appliances/refrigerators/french-door"
+        },
+        {
+          "id": "appliances/refrigerators/mini-fridges",
+          "name": "Mini Fridges",
+          "slug": "mini-fridges",
+          "productCount": 16,
+          "path": "/categories/appliances/refrigerators/mini-fridges"
+        },
+        {
+          "id": "appliances/refrigerators/side-by-side",
+          "name": "Side By Side",
+          "slug": "side-by-side",
+          "productCount": 31,
+          "path": "/categories/appliances/refrigerators/side-by-side"
+        },
+        {
+          "id": "appliances/refrigerators/top-freezer",
+          "name": "Top Freezer",
+          "slug": "top-freezer",
+          "productCount": 32,
+          "path": "/categories/appliances/refrigerators/top-freezer"
         },
         {
           "id": "appliances/wall-ovens",
           "name": "Wall Ovens",
           "slug": "wall-ovens",
-          "path": "/categories/appliances/wall-ovens",
-          "parent": "appliances",
-          "productCount": 8
+          "productCount": 2,
+          "path": "/categories/appliances/wall-ovens"
         },
         {
           "id": "appliances/washers-dryers",
-          "name": "Washers & Dryers",
+          "name": "Washers Dryers",
           "slug": "washers-dryers",
-          "path": "/categories/appliances/washers-dryers",
-          "parent": "appliances",
-          "productCount": 5
+          "productCount": 258,
+          "path": "/categories/appliances/washers-dryers"
         }
-      ],
-      "productCount": 349
+      ]
     },
     {
-      "id": "window-treatments",
-      "name": "Window Treatments",
-      "slug": "window-treatments",
-      "path": "/categories/window-treatments",
-      "subcategories": [],
-      "productCount": 0
+      "id": "automotive",
+      "name": "Automotive",
+      "slug": "automotive",
+      "productCount": 55,
+      "subcategories": [
+        {
+          "id": "automotive/battery-chargers",
+          "name": "Battery Chargers",
+          "slug": "battery-chargers",
+          "productCount": 18,
+          "path": "/categories/automotive/battery-chargers"
+        },
+        {
+          "id": "automotive/cleaning",
+          "name": "Cleaning",
+          "slug": "cleaning",
+          "productCount": 2,
+          "path": "/categories/automotive/cleaning"
+        },
+        {
+          "id": "automotive/fluids",
+          "name": "Fluids",
+          "slug": "fluids",
+          "productCount": 3,
+          "path": "/categories/automotive/fluids"
+        },
+        {
+          "id": "automotive/jacks-lifts",
+          "name": "Jacks Lifts",
+          "slug": "jacks-lifts",
+          "productCount": 32,
+          "path": "/categories/automotive/jacks-lifts"
+        }
+      ]
     },
     {
-      "id": "flooring",
-      "name": "Flooring",
-      "slug": "flooring",
-      "path": "/categories/flooring",
-      "subcategories": [],
-      "productCount": 0
+      "id": "electrical",
+      "name": "Electrical",
+      "slug": "electrical",
+      "productCount": 36,
+      "subcategories": [
+        {
+          "id": "electrical/breakers",
+          "name": "Breakers",
+          "slug": "breakers",
+          "productCount": 7,
+          "path": "/categories/electrical/breakers"
+        },
+        {
+          "id": "electrical/lighting",
+          "name": "Lighting",
+          "slug": "lighting",
+          "productCount": 3,
+          "path": "/categories/electrical/lighting"
+        },
+        {
+          "id": "electrical/outlets",
+          "name": "Outlets",
+          "slug": "outlets",
+          "productCount": 4,
+          "path": "/categories/electrical/outlets"
+        },
+        {
+          "id": "electrical/wire-cable",
+          "name": "Wire Cable",
+          "slug": "wire-cable",
+          "productCount": 22,
+          "path": "/categories/electrical/wire-cable"
+        }
+      ]
     },
     {
-      "id": "lighting",
-      "name": "Lighting",
-      "slug": "lighting",
-      "path": "/categories/lighting",
-      "subcategories": [],
-      "productCount": 0
-    },
-    {
-      "id": "plumbing",
-      "name": "Plumbing",
-      "slug": "plumbing",
-      "path": "/categories/plumbing",
-      "subcategories": [],
-      "productCount": 0
-    },
-    {
-      "id": "cleaning",
-      "name": "Cleaning",
-      "slug": "cleaning",
-      "path": "/categories/cleaning",
-      "subcategories": [],
-      "productCount": 0
-    },
-    {
-      "id": "kitchen",
-      "name": "Kitchen",
-      "slug": "kitchen",
-      "path": "/categories/kitchen",
-      "subcategories": [],
-      "productCount": 0
+      "id": "furniture",
+      "name": "Furniture",
+      "slug": "furniture",
+      "productCount": 260,
+      "subcategories": [
+        {
+          "id": "furniture/bedroom",
+          "name": "Bedroom",
+          "slug": "bedroom",
+          "productCount": 95,
+          "path": "/categories/furniture/bedroom"
+        },
+        {
+          "id": "furniture/dining",
+          "name": "Dining",
+          "slug": "dining",
+          "productCount": 9,
+          "path": "/categories/furniture/dining"
+        },
+        {
+          "id": "furniture/living-room",
+          "name": "Living Room",
+          "slug": "living-room",
+          "productCount": 129,
+          "path": "/categories/furniture/living-room"
+        },
+        {
+          "id": "furniture/office",
+          "name": "Office",
+          "slug": "office",
+          "productCount": 25,
+          "path": "/categories/furniture/office"
+        }
+      ]
     },
     {
       "id": "garage",
       "name": "Garage",
       "slug": "garage",
-      "path": "/categories/garage",
-      "subcategories": [],
-      "productCount": 0
-    },
-    {
-      "id": "building-materials",
-      "name": "Building Materials",
-      "slug": "building-materials",
-      "path": "/categories/building-materials",
-      "subcategories": [],
-      "productCount": 0
+      "productCount": 167,
+      "subcategories": [
+        {
+          "id": "garage/doors",
+          "name": "Doors",
+          "slug": "doors",
+          "productCount": 31,
+          "path": "/categories/garage/doors"
+        },
+        {
+          "id": "garage/flooring",
+          "name": "Flooring",
+          "slug": "flooring",
+          "productCount": 30,
+          "path": "/categories/garage/flooring"
+        },
+        {
+          "id": "garage/storage",
+          "name": "Storage",
+          "slug": "storage",
+          "productCount": 106,
+          "path": "/categories/garage/storage"
+        }
+      ]
     },
     {
       "id": "home-decor",
       "name": "Home Decor",
       "slug": "home-decor",
-      "path": "/categories/home-decor",
-      "subcategories": [],
-      "productCount": 0
+      "productCount": 321,
+      "subcategories": [
+        {
+          "id": "home-decor/artificial-plants",
+          "name": "Artificial Plants",
+          "slug": "artificial-plants",
+          "productCount": 92,
+          "path": "/categories/home-decor/artificial-plants"
+        },
+        {
+          "id": "home-decor/artificial-plants/specialty",
+          "name": "Specialty",
+          "slug": "specialty",
+          "productCount": 8,
+          "path": "/categories/home-decor/artificial-plants/specialty"
+        },
+        {
+          "id": "home-decor/artificial-plants/trees",
+          "name": "Trees",
+          "slug": "trees",
+          "productCount": 157,
+          "path": "/categories/home-decor/artificial-plants/trees"
+        },
+        {
+          "id": "home-decor/bedding",
+          "name": "Bedding",
+          "slug": "bedding",
+          "productCount": 10,
+          "path": "/categories/home-decor/bedding"
+        },
+        {
+          "id": "home-decor/curtains",
+          "name": "Curtains",
+          "slug": "curtains",
+          "productCount": 1,
+          "path": "/categories/home-decor/curtains"
+        },
+        {
+          "id": "home-decor/mirrors",
+          "name": "Mirrors",
+          "slug": "mirrors",
+          "productCount": 37,
+          "path": "/categories/home-decor/mirrors"
+        },
+        {
+          "id": "home-decor/rugs",
+          "name": "Rugs",
+          "slug": "rugs",
+          "productCount": 13,
+          "path": "/categories/home-decor/rugs"
+        },
+        {
+          "id": "home-decor/wall-art",
+          "name": "Wall Art",
+          "slug": "wall-art",
+          "productCount": 3,
+          "path": "/categories/home-decor/wall-art"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "slug": "other",
+      "productCount": 619,
+      "subcategories": []
+    },
+    {
+      "id": "storage",
+      "name": "Storage",
+      "slug": "storage",
+      "productCount": 27,
+      "subcategories": [
+        {
+          "id": "storage/bins-totes",
+          "name": "Bins Totes",
+          "slug": "bins-totes",
+          "productCount": 20,
+          "path": "/categories/storage/bins-totes"
+        },
+        {
+          "id": "storage/shelving",
+          "name": "Shelving",
+          "slug": "shelving",
+          "productCount": 7,
+          "path": "/categories/storage/shelving"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "slug": "tools",
+      "productCount": 895,
+      "subcategories": [
+        {
+          "id": "tools/air-compressors",
+          "name": "Air Compressors",
+          "slug": "air-compressors",
+          "productCount": 69,
+          "path": "/categories/tools/air-compressors"
+        },
+        {
+          "id": "tools/air-compressors/portable",
+          "name": "Portable",
+          "slug": "portable",
+          "productCount": 35,
+          "path": "/categories/tools/air-compressors/portable"
+        },
+        {
+          "id": "tools/air-compressors/stationary",
+          "name": "Stationary",
+          "slug": "stationary",
+          "productCount": 17,
+          "path": "/categories/tools/air-compressors/stationary"
+        },
+        {
+          "id": "tools/batteries",
+          "name": "Batteries",
+          "slug": "batteries",
+          "productCount": 73,
+          "path": "/categories/tools/batteries"
+        },
+        {
+          "id": "tools/combo-kits",
+          "name": "Combo Kits",
+          "slug": "combo-kits",
+          "productCount": 18,
+          "path": "/categories/tools/combo-kits"
+        },
+        {
+          "id": "tools/drills",
+          "name": "Drills",
+          "slug": "drills",
+          "productCount": 32,
+          "path": "/categories/tools/drills"
+        },
+        {
+          "id": "tools/drills/angle-drills",
+          "name": "Angle Drills",
+          "slug": "angle-drills",
+          "productCount": 12,
+          "path": "/categories/tools/drills/angle-drills"
+        },
+        {
+          "id": "tools/drills/drill-presses",
+          "name": "Drill Presses",
+          "slug": "drill-presses",
+          "productCount": 16,
+          "path": "/categories/tools/drills/drill-presses"
+        },
+        {
+          "id": "tools/drills/hammer-drills",
+          "name": "Hammer Drills",
+          "slug": "hammer-drills",
+          "productCount": 28,
+          "path": "/categories/tools/drills/hammer-drills"
+        },
+        {
+          "id": "tools/grinders",
+          "name": "Grinders",
+          "slug": "grinders",
+          "productCount": 45,
+          "path": "/categories/tools/grinders"
+        },
+        {
+          "id": "tools/impact-wrenches",
+          "name": "Impact Wrenches",
+          "slug": "impact-wrenches",
+          "productCount": 36,
+          "path": "/categories/tools/impact-wrenches"
+        },
+        {
+          "id": "tools/nailers",
+          "name": "Nailers",
+          "slug": "nailers",
+          "productCount": 27,
+          "path": "/categories/tools/nailers"
+        },
+        {
+          "id": "tools/nailers/finishing",
+          "name": "Finishing",
+          "slug": "finishing",
+          "productCount": 25,
+          "path": "/categories/tools/nailers/finishing"
+        },
+        {
+          "id": "tools/nailers/flooring",
+          "name": "Flooring",
+          "slug": "flooring",
+          "productCount": 15,
+          "path": "/categories/tools/nailers/flooring"
+        },
+        {
+          "id": "tools/nailers/framing",
+          "name": "Framing",
+          "slug": "framing",
+          "productCount": 17,
+          "path": "/categories/tools/nailers/framing"
+        },
+        {
+          "id": "tools/nailers/pneumatic",
+          "name": "Pneumatic",
+          "slug": "pneumatic",
+          "productCount": 46,
+          "path": "/categories/tools/nailers/pneumatic"
+        },
+        {
+          "id": "tools/nailers/roofing",
+          "name": "Roofing",
+          "slug": "roofing",
+          "productCount": 9,
+          "path": "/categories/tools/nailers/roofing"
+        },
+        {
+          "id": "tools/planers",
+          "name": "Planers",
+          "slug": "planers",
+          "productCount": 16,
+          "path": "/categories/tools/planers"
+        },
+        {
+          "id": "tools/routers",
+          "name": "Routers",
+          "slug": "routers",
+          "productCount": 1,
+          "path": "/categories/tools/routers"
+        },
+        {
+          "id": "tools/sanders",
+          "name": "Sanders",
+          "slug": "sanders",
+          "productCount": 35,
+          "path": "/categories/tools/sanders"
+        },
+        {
+          "id": "tools/saws",
+          "name": "Saws",
+          "slug": "saws",
+          "productCount": 27,
+          "path": "/categories/tools/saws"
+        },
+        {
+          "id": "tools/saws/band-saws",
+          "name": "Band Saws",
+          "slug": "band-saws",
+          "productCount": 18,
+          "path": "/categories/tools/saws/band-saws"
+        },
+        {
+          "id": "tools/saws/circular-saws",
+          "name": "Circular Saws",
+          "slug": "circular-saws",
+          "productCount": 22,
+          "path": "/categories/tools/saws/circular-saws"
+        },
+        {
+          "id": "tools/saws/jigsaws",
+          "name": "Jigsaws",
+          "slug": "jigsaws",
+          "productCount": 17,
+          "path": "/categories/tools/saws/jigsaws"
+        },
+        {
+          "id": "tools/saws/miter-saws",
+          "name": "Miter Saws",
+          "slug": "miter-saws",
+          "productCount": 29,
+          "path": "/categories/tools/saws/miter-saws"
+        },
+        {
+          "id": "tools/saws/reciprocating-saws",
+          "name": "Reciprocating Saws",
+          "slug": "reciprocating-saws",
+          "productCount": 18,
+          "path": "/categories/tools/saws/reciprocating-saws"
+        },
+        {
+          "id": "tools/saws/table-saws",
+          "name": "Table Saws",
+          "slug": "table-saws",
+          "productCount": 20,
+          "path": "/categories/tools/saws/table-saws"
+        }
+      ]
     }
   ]
 }

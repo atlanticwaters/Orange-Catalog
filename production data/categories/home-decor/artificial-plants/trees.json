@@ -1,0 +1,3390 @@
+{
+  "categoryId": "home-decor/artificial-plants/trees",
+  "name": "Trees",
+  "slug": "trees",
+  "path": "/categories/home-decor/artificial-plants/trees",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.724325",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Home Decor",
+      "url": "/home-decor"
+    },
+    {
+      "label": "Artificial Plants",
+      "url": "/home-decor/artificial-plants"
+    },
+    {
+      "label": "Trees",
+      "url": "/home-decor/artificial-plants/trees"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 157
+  },
+  "featuredBrands": [
+    {
+      "brandId": "nearly-natural",
+      "brandName": "Nearly Natural",
+      "logoUrl": "images/brands/nearly-natural.svg",
+      "count": 56
+    },
+    {
+      "brandId": "drplanzen",
+      "brandName": "DR.Planzen",
+      "logoUrl": "images/brands/drplanzen.svg",
+      "count": 23
+    },
+    {
+      "brandId": "vitalismo",
+      "brandName": "Vitalismo",
+      "logoUrl": "images/brands/vitalismo.svg",
+      "count": 12
+    },
+    {
+      "brandId": "vevor",
+      "brandName": "VEVOR",
+      "logoUrl": "images/brands/vevor.svg",
+      "count": 10
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 7
+    },
+    {
+      "brandId": "garvee",
+      "brandName": "Garvee",
+      "logoUrl": "images/brands/garvee.svg",
+      "count": 6
+    },
+    {
+      "brandId": "stylewell",
+      "brandName": "StyleWell",
+      "logoUrl": "images/brands/stylewell.svg",
+      "count": 5
+    },
+    {
+      "brandId": "pure-garden",
+      "brandName": "Pure Garden",
+      "logoUrl": "images/brands/pure-garden.svg",
+      "count": 4
+    },
+    {
+      "brandId": "lightshare",
+      "brandName": "Lightshare",
+      "logoUrl": "images/brands/lightshare.svg",
+      "count": 3
+    },
+    {
+      "brandId": "lhy",
+      "brandName": "LHY",
+      "logoUrl": "images/brands/lhy.svg",
+      "count": 3
+    }
+  ],
+  "products": [
+    {
+      "productId": "332707639",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "7 ft. Artificial Eucalyptus Tree with Oval White Planter, Pre Potted Artificial Eucalyptus Plant for Home Decor",
+      "rating": {
+        "average": 3.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bfed02f1-bd34-434c-8f1a-ab84125bf97e/svn/dr-planzen-artificial-trees-czyjlzty2-1m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.37,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327524518",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "6 ft. Artificial Eucalyptus Tree Tall Faux Plant Secure PE Material and Anti-Tip Tilt Protection Low-Maintenance Plant",
+      "rating": {
+        "average": 4.6364,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ff6df38f-3516-44f8-828e-c99736e98a85/svn/vevor-artificial-trees-rzs6ftas00006c43av0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 50.59,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335930550",
+      "modelNumber": "",
+      "brand": "Garvee",
+      "title": "6 ft. Tree Artificial, Faux Eucalyptus Tree Simulation Plants with Black Pot",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/756a2c17-9609-4c27-b77b-eba65a6a9a90/svn/garvee-artificial-trees-pho-16d0dme5-wls-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327018302",
+      "modelNumber": "",
+      "brand": "StyleWell",
+      "title": "6ft Faux Eucalyptus Tree in White Pot",
+      "rating": {
+        "average": 4.5,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d1e6d448-e26c-42f4-a700-228bf44ab4fc/svn/stylewell-artificial-trees-t4439-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327093045",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "72 in. Green Artificial Eucalyptus Tree in White Decorative Planter",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b55a5c52-7de0-4de6-bbc3-578804e058ce/svn/nearly-natural-artificial-trees-t4417-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 82.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "340050461",
+      "modelNumber": "",
+      "brand": "Afoxsos",
+      "title": "12 ft. Artificial Eucalyptus Tree in Pot Green Lifelike Real Touch Leaves for Home Office Tabletop Decor 2 Pack",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/67a5aaf1-745c-4e2f-b1da-0bfed4a17edd/svn/afoxsos-artificial-trees-hdsa10-3in301-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329445485",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "7 ft. Artificial Greco Eucalyptus Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b557ccb-6795-468b-812d-88299fe8e8af/svn/nearly-natural-artificial-trees-t4649-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329792223",
+      "modelNumber": "",
+      "brand": "CYPRESS & ALABASTER",
+      "title": "Handmade 6 ft. Artificial Eucalyptus Tree in Home Basics Plastic Pot Made with Real Wood and Moss Accents",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cde1b790-4b63-43be-8466-443da6419bb5/svn/cypress-alabaster-artificial-trees-34900-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.69,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337204577",
+      "modelNumber": "",
+      "brand": "Gravee",
+      "title": "7 ft. Artificial Eucalyptus Tree with Lights in White Plastic Pot",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e71d4390-5afc-4a74-bf5a-ddfdd0aa7d8c/svn/gravee-artificial-trees-phk-33ymqgkp-lhd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 94.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725558",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial Autumn Eucalyptus Tree Pre-Lit with Warm White LED Lights",
+      "rating": {
+        "average": 3.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5701595c-b06f-49f8-bc26-160723eac821/svn/nearly-natural-artificial-trees-t4900-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 100.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725513",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "8 ft. Artificial Autumn Eucalyptus Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1c9e19a9-3e1e-492f-95d2-a3cc8c30d960/svn/nearly-natural-artificial-trees-t4813-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 246.16,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725556",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4 ft. Artificial Autumn Eucalyptus Tree Pre-Lit with Warm White LED Lights",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/505437ed-c38e-4868-b124-d11176ac37e9/svn/nearly-natural-artificial-trees-t4898-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337076801",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "7 ft. Fake Artificial Plant, Artificial Eucalyptus Tree in White Pot, Large Faux Floor Plant with 50-Lights Home Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c2928626-fab6-460b-8273-f0cee0197215/svn/artificial-trees-hdxsqphk-33ymqgkp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 72.59,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336947176",
+      "modelNumber": "",
+      "brand": "Afoxsos",
+      "title": "6.5 ft. Artificial Eucalyptus Tree in Planter",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc00c15e-d9ea-4707-a6b7-bbc7f8348292/svn/afoxsos-artificial-trees-hdsa10ot773-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 183.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336606635",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "3ft. Autumn Eucalyptus Artificial Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e42011a-b806-48cd-b109-45836cc813b0/svn/nearly-natural-artificial-trees-t5321-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 32.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725514",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "9 ft. Artificial Autumn Eucalyptus Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/91246289-2619-4540-ac72-be3b84e75abe/svn/nearly-natural-artificial-trees-t4814-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 312.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329445494",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "7 ft. Artificial Long Leaf Greco Eucalyptus Tree with Real Touch Leaves",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/01a8d2ae-a7f4-4b40-8b24-a28f53f08bb0/svn/nearly-natural-artificial-trees-t4656-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 162.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725560",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4 ft. Lighted Artificial Eucalyptus Tree with 240 Warm White LED Lights",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/db00d595-e0f4-4eb0-9df4-02aea84878ff/svn/nearly-natural-artificial-trees-t4902-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 61.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319602",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4ft. Eucalyptus Artificial Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a1a2c9e1-6cf5-4fe3-aac1-1394af335385/svn/nearly-natural-artificial-trees-t1704-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 65.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329445525",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "8 ft. Artificial Eucalyptus Tree",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f4fcf46b-dac0-47b0-8677-c684d8488282/svn/nearly-natural-artificial-trees-t4693-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 125.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332423168",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "5 ft. Faux Eucalyptus Tree with Round White Planter, Pre Potted Fake Eucalyptus Plant for Home Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dbaefd48-8a3a-4817-96c3-478495396df3/svn/dr-planzen-artificial-trees-dbyplsas1-5m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 83.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336904521",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "5 ft. Artificial Eucalyptus Tree In Pot, Tall Large Faux Floor Plant Fake Silk Trees with 50 Lights Artificial Trees",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/07b84806-0665-460e-a950-750dd8afec03/svn/artificial-trees-xd-zsn-phk-33ymp8vq-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 67.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338132798",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "5 ft. Artificial Eucalyptus Tree with Basket Home Office Livingroom Floor Decor Indoor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9e9d69bc-3531-43c6-800e-86f6815a398b/svn/artificial-trees-de5h816-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 208.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327093037",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "72 in. Green Artificial Eucalyptus Tree in Nursery Pot",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c4b080ca-c4f6-48b1-9f25-e314c8357e4f/svn/nearly-natural-artificial-trees-t4409-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334382580",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "2-Pieces Trees 9 ft. Artificial Palm Tree w/ Black Pot and 21-Adjustable Leaves 108 in. Green Plants Outdoor Indooe Dec",
+      "rating": {
+        "average": 3.8333,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0ebc64ce-4341-4cf1-80a5-557b7aa08ce6/svn/vitalismo-artificial-trees-jjs114g10zsn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 131.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330142991",
+      "modelNumber": "",
+      "brand": "Lightshare",
+      "title": "7 ft. Palm Tree 3 Trunks Artificial Palm Tree 218 LED Lights for Decoration Outdoor",
+      "rating": {
+        "average": 4.0,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d4e80103-0d56-4006-a575-8062c4aa0f76/svn/lightshare-artificial-trees-zls3z7ft-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202065565",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 6 ft. Paradise Palm Artificial Tree",
+      "rating": {
+        "average": 3.9533,
+        "count": 150
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/52fa5894-9132-447c-8627-71f0e97c0794/svn/nearly-natural-artificial-trees-5260-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 96.05,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329445515",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "10 ft. Artificial Travelers Palm Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e0698571-cd43-460a-96bf-40bb6aa7dd0f/svn/nearly-natural-artificial-trees-t4679-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 213.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334458998",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "5 ft Artificial Palm Tree White Pot with Real Bark Design Faux Areca Palm Tree for Home Office Living Room Decor Indoor",
+      "rating": {
+        "average": 4.6,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bd3ac7b5-fdb5-431c-9598-b471c63258ac/svn/vitalismo-artificial-trees-rfzhhk0001-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334316451",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "7 ft. Green Plant 84 in. Artificial Phoenix Palm Tree with Black Pot With Adjustable Leaves Large Faux Sago Palm Tree",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bb4fe330-63fb-43a3-a92f-7cc95c3916af/svn/vitalismo-artificial-trees-jjs109g10-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202065564",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Artificial Paradise Palm Silk Tree",
+      "rating": {
+        "average": 4.1091,
+        "count": 110
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/410b3575-5af0-4e0f-8760-329e2d41e650/svn/nearly-natural-artificial-trees-5259-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 68.48,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332086960",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "10 ft. Tall Artificial Palm Tree, Large UV Resistant Faux Tropical Palm Plants for Patio Poolside Home Office Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f8413e1a-b6b9-4ff5-b68a-154eec2c577e/svn/dr-planzen-artificial-trees-dks3m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329445511",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "8 ft. UV Resistant Artificial Areca Palm Tree (Indoor/Outdoor)",
+      "rating": {
+        "average": 4.8333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9bfa48b2-d38b-46df-a7cc-040ec8e1823f/svn/nearly-natural-artificial-trees-t4674-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 231.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332248129",
+      "modelNumber": "",
+      "brand": "Wintergreen Lighting",
+      "title": "6 ft. Artificial Pre-Lit LED Palm Tree with Stand",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/56305948-85dc-42b2-bbb0-27241f8851a7/svn/wintergreen-lighting-artificial-trees-83128-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 127.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319545",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Artificial Double Stalk Golden Cane Palm Tree",
+      "rating": {
+        "average": 4.2353,
+        "count": 34
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/641b376c-e43d-4420-9153-ac63ccaaf4ce/svn/nearly-natural-artificial-tropical-plants-t2018-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 50.47,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334015956",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "5 ft. Artificial Palm Tree with White Tall Pot 60.2 in. Fake Plants Outdoor Floor Plants for Home Office Poolside Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9bdddc0-14b5-4f4e-8227-8b6e7563f2e4/svn/vitalismo-artificial-trees-zhhk0003-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.02,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327555830",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Artificial \u200bPalm Tree 4 ft. Tall Faux Plant with 10-Artificial Leaves and Moss-Covered Potting Soil Lifelike Fake Tree",
+      "rating": {
+        "average": 4.4,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d735de18-37d4-445c-981e-9bf7c04c67c9/svn/vevor-artificial-trees-rzrdzw4ft2bldy2fiv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.12,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322440610",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "10 ft. Triple Stalk Golden Cane Artificial Palm Tree",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ada96c6-7953-4eef-9302-078c2237ef92/svn/nearly-natural-artificial-trees-t2395-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 208.12,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327018305",
+      "modelNumber": "",
+      "brand": "StyleWell",
+      "title": "5ft Faux Golden Cane Tree in White Pot",
+      "rating": {
+        "average": 4.3889,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2a57259d-b17d-421d-b5b5-5aef1ce2c356/svn/stylewell-artificial-trees-t4450-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323017198",
+      "modelNumber": "",
+      "brand": "Fencer Wire",
+      "title": "7 ft. Green Artificial Palm Tree, Faux Dypsis Lutescens Plant in Pot with Dried Moss",
+      "rating": {
+        "average": 4.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3809ac96-7c90-407f-a8d6-2f553b60c58a/svn/fencer-wire-artificial-trees-hdft-chpm8401-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 123.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100656299",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4 ft. Artificial Sago Palm Silk Tree",
+      "rating": {
+        "average": 3.7143,
+        "count": 28
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8b89272e-c2b9-411b-9885-869465d336d2/svn/nearly-natural-artificial-trees-5043-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 81.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337101193",
+      "modelNumber": "",
+      "brand": "CHRISTOPHER KNIGHT HOME",
+      "title": "Nystrom Indoor 5.08 ft. Green PE Artificial Palm Tree With Black Pot, (Set-2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d37d1571-17aa-5d2c-baf8-5b42017517bb/svn/christopher-knight-home-artificial-trees-136006-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 55.69,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204688095",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 4 ft. Artificial Golden Cane Palm Tree",
+      "rating": {
+        "average": 4.4512,
+        "count": 164
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1f286bb1-97ee-4d52-ac6e-4ad2a4453a3a/svn/nearly-natural-artificial-trees-5357-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 57.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315149517",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Travelers Palm Artificial Tree in Tall White Planter",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f352bd1c-952c-4b4e-82cb-eeefd8ba3c69/svn/nearly-natural-artificial-trees-t1309-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 167.07,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335802448",
+      "modelNumber": "",
+      "brand": "Lightshare",
+      "title": "6 ft. Artificial Babys Breath Flowers Leaf Tree 176 LED with St and Warm White Lights Indoor Outdoor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a6402e2f-f516-48b3-b151-57b32ec0be07/svn/lightshare-artificial-trees-mtxs6ft-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 88.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327018441",
+      "modelNumber": "",
+      "brand": "StyleWell",
+      "title": "5ft Faux Fiddle Leaf Fig Tree in White Pot",
+      "rating": {
+        "average": 3.7636,
+        "count": 55
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51f5d354-ab04-48a5-808c-4575078a665c/svn/stylewell-artificial-trees-t4441-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 96.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332707621",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "7 ft. Artificial Fiddle Leaf Fig Tree with Realistic Leaves and Natural Trunk, Silk Faux Potted Tree",
+      "rating": {
+        "average": 4.0,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3032275a-edef-499a-ade7-9f58975f7ef6/svn/dr-planzen-artificial-trees-zmgwgqyr2-1m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 108.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336149479",
+      "modelNumber": "",
+      "brand": "Garvee",
+      "title": "7FT Artificial Fiddle Leaf Fig Tree with Black Nursery Planter, Large Floor Plants for Home or Office Decor",
+      "rating": {
+        "average": 3.8333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8db8383b-181c-4cc4-95ab-9855e707f09a/svn/garvee-artificial-trees-xd-zsn-pho-34hyd9fn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 52.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309566628",
+      "modelNumber": "",
+      "brand": "Pure Garden",
+      "title": "72 in. Artificial Fiddle Leaf Fig Tree",
+      "rating": {
+        "average": 4.4082,
+        "count": 98
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32986ca1-3e3e-44a1-8b12-0a443de71030/svn/pure-garden-artificial-trees-hw1500153-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 97.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336149463",
+      "modelNumber": "",
+      "brand": "Garvee",
+      "title": "5 ft. Artificial Fiddle Leaf Fig Tree with Black Nursery Planter, Large Floor Plants for Home or Office Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6354bcf-8b93-4b83-a7a9-5906d41f0853/svn/garvee-artificial-trees-xd-zsn-pho-34hyfkcr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 30.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725495",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial Fiddle Leaf Tree in Decorative White Planter",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/40ad96d6-4a60-4933-96f2-ed5719d331b3/svn/nearly-natural-artificial-trees-t4776-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 100.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336090537",
+      "modelNumber": "",
+      "brand": "Garvee",
+      "title": "5FT Artificial Fiddle Leaf Fig Tree with White Pot, Artificial Plants 56 Fiddle Leaves Greenery Home Office Decor",
+      "rating": {
+        "average": 4.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7ea1d7f2-524d-440d-a131-167713fd4c2f/svn/garvee-artificial-trees-xd-zsn-pho-34hxyun6-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 60.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327093040",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "108 in. Green Artificial Fiddle Leaf Tree in Nursery Pot",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ef12c09-6ea3-4858-9fb5-e1809e7a79ea/svn/nearly-natural-artificial-trees-t4412-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 162.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309674196",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "54 in. Fiddle Leaf Artificial Tree (Real Touch)",
+      "rating": {
+        "average": 3.7143,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa0245dd-9218-435a-a768-a2bff7aac038/svn/nearly-natural-artificial-trees-9121-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 56.36,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204687959",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial Fiddle Leaf Fig Tree",
+      "rating": {
+        "average": 4.2388,
+        "count": 67
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c474cbf0-d987-43c3-9e9d-b977e4d80016/svn/nearly-natural-artificial-trees-5346-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 124.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305531084",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 6 ft. Fiddle Leaf Fig Artificial Tree",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0b03f0ee-94f6-4ad6-b4c9-eee73c188840/svn/nearly-natural-artificial-trees-5550-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 112.77,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327524885",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "6 ft. Artificial Fiddle Leaf Fig Tree Secure PE Material and Anti-Tip Tilt Protection Low-Maintenance Faux Plant",
+      "rating": {
+        "average": 3.2857,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7af7a6dd-ec3c-48aa-baaa-3a2e3cce59ad/svn/vevor-artificial-trees-rzs6ftqs0000rbzy5v0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 57.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337653025",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "4.5 ft. Artificial Fiddle Leaf Fig Tree Ficus Faux Plant Artificial Trees Indoor Outdoor Garden Living Room Home Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e605a5bc-7187-4101-9eb2-8ad79604c43a/svn/vitalismo-artificial-trees-nohk0066glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725548",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "13 ft. Artificial Fiddle Leaf Fig Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5d33388a-caaa-4d07-85da-af2c28d80c15/svn/nearly-natural-artificial-trees-t4852-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 604.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336149475",
+      "modelNumber": "",
+      "brand": "Garvee",
+      "title": "6 ft. Artificial Fiddle Leaf Fig Tree with Black Nursery Planter, Large Floor Plants for Home or Office Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a503ce2e-760c-4c06-87c8-49692ea7fdcc/svn/garvee-artificial-trees-xd-zsn-pho-34hy9mke-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 44.09,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206585537",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "65 in. Artificial UV Resistant Indoor/Outdoor Fiddle Leaf Tree",
+      "rating": {
+        "average": 4.25,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e44fdcc1-47f1-4c1d-ad7b-3d9fd41ab04e/svn/nearly-natural-artificial-trees-5449-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 210.57,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327093041",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "120 in. Green Artificial Fiddle Leaf Tree in Nursery Pot",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0d955657-6517-4ac5-a994-96bbd7e11928/svn/nearly-natural-artificial-trees-t4413-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 248.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318064949",
+      "modelNumber": "",
+      "brand": "Gymax",
+      "title": "6 ft. Artificial Fiddle Leaf Fig Tree Indoor-Outdoor Home Decorative Planter",
+      "rating": {
+        "average": 4.4286,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f346a787-f1cc-49fb-8fd5-605edaca7086/svn/gymax-artificial-trees-gym03075-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 166.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339194917",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "10 ft. Deluxe Artificial Fiddle Leaf Fig Tree in Black Pot",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13f45e9c-79e8-4b67-96d2-72a7a7b0b3f1/svn/living-luxury-artificial-trees-60630-gr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 498.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336090555",
+      "modelNumber": "",
+      "brand": "Garvee",
+      "title": "7FT Artificial Fiddle Leaf Fig Tree with White Pot, Artificial Plants 107 Fiddle Leaves Greenery Home Office Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2ebb5951-5b62-47e2-9087-b79db85828b3/svn/garvee-artificial-trees-xd-zsn-pho-34hx48uc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334779252",
+      "modelNumber": "",
+      "brand": "VECELO",
+      "title": "6 ft. Artificial Fiddle Leaf Fig Tree, 150-Realistic Leaves in Sturdy Pot for Indoor/Outdoor Home Decor, Faux Plant",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b564f082-ba0b-4222-956d-316bf8ae25e8/svn/vecelo-artificial-trees-thd-cn-qyr18-grn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 108.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319341",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4.5 ft. Artificial Fiddle Leaf Fig Tree",
+      "rating": {
+        "average": 3.5,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d39e984c-3d01-412e-9073-ecfdcc666e40/svn/nearly-natural-artificial-tropical-plants-t2104-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 41.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325522650",
+      "modelNumber": "",
+      "brand": "Gymax",
+      "title": "Artificial Tree 2- Pack Artificial Fiddle Leaf Fig Tree for Indoor and Outdoor",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e312d87b-f057-4aaf-86ca-0422e4c15be6/svn/gymax-artificial-trees-gym10989-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 80.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333886341",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "6 ft. Real Touch Artificial Fiddle Leaf Fig Tree in Black Pot",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f1f9e1cc-89fb-4a1c-ac48-240d420509bc/svn/living-luxury-artificial-trees-60639-gr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 142.73,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324321942",
+      "modelNumber": "",
+      "brand": "LHY",
+      "title": "20 in. 2 Piece Artificial Boxwood Tree Ball UV Proof Faux Topiary Ball Lifelike Greenery Balls Outdoor Indoor",
+      "rating": {
+        "average": 4.2368,
+        "count": 38
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5cbb9e21-cd35-4c9f-9332-469a2eabc443/svn/lhy-artificial-topiaries-ht-19-2ball-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319541",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "3 ft. Boxwood Triple Ball Topiary Artificial Tree (Indoor/Outdoor)",
+      "rating": {
+        "average": 4.0588,
+        "count": 34
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97cd3551-e2f5-4e93-8668-b7a75963494f/svn/nearly-natural-artificial-topiaries-t2021-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327649860",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Artificial Topiaries Boxwood Trees 36 in. Green Artificial Boxwood Topiaries Within Containers, (2-Piece)",
+      "rating": {
+        "average": 4.8788,
+        "count": 33
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d8dea2f1-ff35-4251-9d4b-7ae9fcf8a6ca/svn/vevor-artificial-topiaries-hymrgxjs36ycly992v0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 78.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332827163",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Artificial Cedar Topiary Tree, 60 in. Tall with Pot Faux Evergreen Fake Pine Cypress Trees Plant, UV Rated Greenery Set",
+      "rating": {
+        "average": 4.8571,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/53aacc04-c9ac-48ce-9e9b-e67485c1b692/svn/vevor-artificial-topiaries-xsrgxjs60ycavomhcv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 136.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334085767",
+      "modelNumber": "",
+      "brand": "LHY",
+      "title": "22 in. 2-Packs Artificial Boxwood Tree Ball-Shape Faux Plant Topiary Balls for Outdoor and Indoor Decor",
+      "rating": {
+        "average": 4.8,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/64bf305f-4985-4cbb-a0c2-47947ea6cfe3/svn/lhy-artificial-topiaries-1225b-22in-2pcs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 88.64,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332826451",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Artificial Cedar Topiary Tree, 36 in. Tall, Pot Faux Evergreen Fake Pine Cypress Trees Plant, UV Rated Greenery Set",
+      "rating": {
+        "average": 4.7778,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f4dcb89d-e859-44e7-bc46-0790bce71da1/svn/vevor-artificial-topiaries-xsrgxjs36ycaq7i5uv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 66.29,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205091929",
+      "modelNumber": "",
+      "brand": "Pure Garden",
+      "title": "5 ft. Artificial Hedyotis Triple Ball Topiary Tree",
+      "rating": {
+        "average": 4.2326,
+        "count": 43
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b97219a4-44a2-4bfa-8d39-17e0900f5bcb/svn/pure-garden-artificial-topiaries-50-10007-r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 114.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332358611",
+      "modelNumber": "",
+      "brand": "poetree",
+      "title": "71 in. Green Artificial Cedar Tree in Pot",
+      "rating": {
+        "average": 4.5,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bd84ab6d-c2cd-48e4-9374-85f313463e08/svn/poetree-artificial-topiaries-hdsbs-1-8m-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 161.91,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203141567",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Artificial Green Cypress Spiral Tree",
+      "rating": {
+        "average": 4.1538,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0a3b69b-cc12-4b60-b861-9ff98ee06d11/svn/nearly-natural-artificial-topiaries-5325-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 154.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327649641",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Artificial Topiaries Boxwood Trees 48 in. Green Artificial Boxwood Topiaries With Containers 3 Ball-Shape Plant, (2-Pcs)",
+      "rating": {
+        "average": 4.4286,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e81bcfdf-678e-4944-aa46-f6ee66edadc0/svn/vevor-artificial-topiaries-hymrgxjs48ycu0sg8v0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 171.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337269868",
+      "modelNumber": "",
+      "brand": "VIVATREES",
+      "title": "4 ft. Artificial Triple Ball Topiary Tree 3-Ball Faux Shrubs Plant in Gray Pot Outdoor Decoration (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f171c539-a91f-4c1f-9c9a-e16eb6625b5a/svn/vivatrees-artificial-topiaries-atd-9252-vv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 114.46,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332578346",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "4 ft. Artificial Boxwood Cone Topiary Tree in Pot 2-Pack",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c820da3b-470f-416a-b366-9102a9e9ead3/svn/artificial-topiaries-hdtadgjl120cm-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 177.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327649476",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Artificial Topiaries Boxwood Trees 22 in. Green Artificial Boxwood Topiaries With Containers Ball-Shape Plant, (2-Piece)",
+      "rating": {
+        "average": 4.7826,
+        "count": 23
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50f70d3a-03f4-467d-ad80-6423a2172a1e/svn/vevor-artificial-topiaries-hymrgxjs24ycvvykmv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 66.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333233146",
+      "modelNumber": "",
+      "brand": "poetree",
+      "title": "4 ft. Artificial Cedar Spiral Topiary Tree in Pot 2-Pack",
+      "rating": {
+        "average": 3.1667,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dc7010b1-bd32-475b-ba4d-d4d9e82d6b6e/svn/poetree-artificial-topiaries-hdsssbslx120cm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 110.43,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334085203",
+      "modelNumber": "",
+      "brand": "LHY",
+      "title": "Artificial Topiaries Boxwood Ball Trees 20 in. Green Ball-Shape Plant Balls (2-Packs)",
+      "rating": {
+        "average": 4.3333,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc3b975d-d1fb-437c-b85d-0604db3af77e/svn/lhy-artificial-topiaries-1225b-20in-2pcs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 50.57,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331755944",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Artificial Topiaries Boxwood Trees 16 in. Tall Green Artificial Boxwood Plant Ball-Shape (2-Pieces)",
+      "rating": {
+        "average": 2.6667,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a7f8811-88f6-44ec-b23b-ac896cc46e18/svn/skyshalo-artificial-topiaries-rgzwxjq16yc0l5l4vv0-0711-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 41.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333803207",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "4 ft. Artificial Boxwood Tree in Spiral 2-Pack Tower Topiary Decorative Plant Green Plastic PE Iron",
+      "rating": {
+        "average": 2.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/da72710c-a915-48ac-9737-38f9e0dacb0b/svn/skyshalo-artificial-topiaries-hymrgxjs48ycsvdl7v0-1121-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327649835",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Artificial Topiaries Boxwood Trees 48 in. Green Artificial Boxwood Topiaries Within Containers, (2-Piece)",
+      "rating": {
+        "average": 4.1538,
+        "count": 26
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ea0f8be-9d3d-4093-baee-50c4a378d109/svn/vevor-artificial-topiaries-hymrgxjs48ycsvdl7v0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 102.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332826893",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Tall Artificial Cedar Topiary Tree, Pot Faux Evergreen Fake Pine Cypress Trees Plant, UV Rated Greenery Set 48 in.",
+      "rating": {
+        "average": 4.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5fae0f72-c0e6-4af7-91d9-bcd94c74786b/svn/vevor-artificial-topiaries-xsrgxjs48yca5xa8bv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 100.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205091925",
+      "modelNumber": "",
+      "brand": "Pure Garden",
+      "title": "4 ft. Artificial Boxwood Spiral Topiary Tree",
+      "rating": {
+        "average": 4.4,
+        "count": 75
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fdde74d7-c1f6-497c-9c42-09ba87000cf5/svn/pure-garden-artificial-topiaries-50-10002-r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334142102",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "2-Set 2.36 ft. Artificial Green Tree 28.35 in. Fake Plants Outdoor Indoor Faux Boxwood Bush Plants with Ground Spike",
+      "rating": {
+        "average": 4.375,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ba96a3a-2f92-485f-a176-cf983a482454/svn/vitalismo-artificial-tropical-plants-nohk0013glgrnsn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.04,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322961347",
+      "modelNumber": "",
+      "brand": "HONEY JOY",
+      "title": "5 ft. Artificial Tree Fake Monstera Deliciosa Plant with 15 Split Leave Faux Plant for House Office Living Room (2-Pack)",
+      "rating": {
+        "average": 4.5833,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a321d1b2-d305-4b48-b9a0-f063df9cb659/svn/honey-joy-artificial-tropical-plants-topb006147-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 130.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335597784",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "6 ft. Artificial Bamboo Tree 24 Pack Fake Plant with Silk Leaves Real Wood Trunk for Indoor Outdoor Decor",
+      "rating": {
+        "average": 4.5714,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50801070-67d8-4ed2-b195-c1a9574139f7/svn/dr-planzen-artificial-tropical-plants-yj-zzgzz-24-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.52,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319549",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial Triple Stalk Golden Cane Palm Tree",
+      "rating": {
+        "average": 4.3016,
+        "count": 63
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ff4c3dda-6860-4eaa-ba9f-f435970c2189/svn/nearly-natural-artificial-tropical-plants-t2019-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339425485",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "7 ft. Artificial Bamboo Tree 36 Pack Fake Plant with Silk Leaves Real Wood Trunk for Indoor Outdoor Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7b530d9d-8fcf-49b3-a910-d1fe249c7b9f/svn/dr-planzen-artificial-tropical-plants-zzgzz2-1m-36-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 185.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339425481",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "7 ft. Artificial Bamboo Tree 24 Pack Fake Plant with Silk Leaves Real Wood Trunk for Indoor Outdoor Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ddf22638-6872-4388-9292-1f6931b6445c/svn/dr-planzen-artificial-tropical-plants-zzgzz2-1m-24-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 137.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339425487",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "7 ft.Artificial Bamboo Tree Plant with Silk Leaves Outdoor Indoor with Real Wood Trunk Fake Plants for Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7aca5958-4563-45ab-81b9-e0ed89395157/svn/dr-planzen-artificial-tropical-plants-zzqgzz2-1m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332877603",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "Artificial 8 ft. Olive Tree with 18 in. White Planter, Tall Faux Olive Trees for Indoor, Home Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8ea47d34-7bfc-4846-a456-c22d39e07a8a/svn/dr-planzen-artificial-trees-dzdbpgls2-4m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 308.12,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331608299",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "7 ft. Artificial Olive Tree with White Planter, Large Faux Olive Silk Tree for Indoor Home Decor and Housewarming Gift",
+      "rating": {
+        "average": 4.6494,
+        "count": 77
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ea0b11f-0b93-4f07-b26b-5d5962d360e9/svn/dr-planzen-artificial-trees-bpgls2-1m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 97.59,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335154740",
+      "modelNumber": "",
+      "brand": "hykolity",
+      "title": "7 ft. Artificial Olive Tree in White Pot Tall Faux Olive Tree Artificial Plants with Natural Wood Trunk for Home Decor",
+      "rating": {
+        "average": 4.1667,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/12080352-b3b5-4c9c-ae76-47cb1d19bd4e/svn/hykolity-artificial-trees-ata-7203-a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 80.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334980267",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "8ft.Artificial Olive Tree Indoor/Outdoor, Faux Plant with UV-Resistant in Black Planter for Home Office Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e84f1b3-d1d1-448a-97c8-a711b15a4d1e/svn/dr-planzen-artificial-trees-gjplszgls2-4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 171.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332212369",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "4 ft. Artificial Indoor/Outdoor Topiary Cedar Tree, Fake Cypress Trees, Fake UV Resistant Potted Plants(Set of 2)",
+      "rating": {
+        "average": 4.4255,
+        "count": 47
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d97c4cbe-74e1-42e1-b33a-b786a7bab501/svn/dr-planzen-artificial-trees-hwc-jf-bs1-2m-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.46,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337200142",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "4 ft. Artificial Cedar Topiary Trees, Faux Cypress Tree, Fake Cypress Tree in Pot for Indoor/Outdoor Decor (Set of 2)",
+      "rating": {
+        "average": 3.2222,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2ffd582f-2468-4ecc-a749-fb0778179878/svn/vitalismo-artificial-trees-mdohk0051glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333554869",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial Double Stalk Golden Cane Palm Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f8007cb-94fb-42c1-b2f6-63895690c6a7/svn/nearly-natural-artificial-trees-t5006-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 65.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329453877",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "2.5 ft. UV Resistant Artificial Boxwood Tree Plant with Integrated Ground Stake (Indoor/Outdoor) - Set of 2",
+      "rating": {
+        "average": 3.8462,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af84cc4e-59f7-461e-9475-4bdcfb8f886d/svn/nearly-natural-artificial-trees-p1973-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337882636",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "8 ft. Artificial Olive Tree with White Planter, Fake Olive Silk Tree for Indoor Home Decor and Housewarming Gift",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/86f6130c-122c-4b25-b0e2-857812ecb835/svn/dr-planzen-artificial-trees-zhybpdscltgl2-4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 194.38,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337882630",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "7 ft. Artificial Olive Tree with White Planter, Fake Olive Silk Tree for Indoor Outdoor Home Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/177ef403-d4a1-4ff3-b0d5-242496387bb2/svn/dr-planzen-artificial-trees-ybpcgltgl2-1m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 202.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330793520",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "5 ft. Artificial Dracaena Tree, Fake Tropical Plants Faux Potted Silk Floor Plant Indoor Outdoor Decor",
+      "rating": {
+        "average": 4.3182,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8489f22-e7e6-4274-a48b-a53388aff3c7/svn/dr-planzen-artificial-trees-dbxt1-5m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.16,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332877604",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "Artificial 8 ft. Ficus Tree with 18 in. White Planter, Tall Faux Ficus Tree for Indoor, Home Decor",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cbf2b124-db88-4bc8-be4c-540a12d8a6ec/svn/dr-planzen-artificial-trees-dzdbprs2-4m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 343.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316451915",
+      "modelNumber": "",
+      "brand": "LCG SALES INC",
+      "title": "Artificial 6-foot Ficus Tree in Basket",
+      "rating": {
+        "average": 4.5122,
+        "count": 82
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78d668ed-cbb0-497c-b8af-9839fea644c6/svn/lcg-sales-inc-artificial-trees-19tfp157-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 62.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332877607",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "8 ft. Artificial Olive Tree with White Tall Planter, Faux Olive Tree with Natural Trunk",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f65788d4-5800-4ff7-95dc-49c614326136/svn/dr-planzen-artificial-trees-dbpzmgltgls2-4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 309.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333554878",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial Topiary Cedar Tree UV Resistant (Indoor/Outdoor)-Set of 2",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ae6f94a2-48f5-4764-8c93-12e8ad700807/svn/nearly-natural-artificial-trees-t5056-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 204.02,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205702579",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4.5 ft. Artificial Christmas Tree with Clear Lights and Decorative Planter",
+      "rating": {
+        "average": 3.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5792f76a-b7b6-4659-b3ac-dcf4fb719a60/svn/nearly-natural-artificial-trees-5443-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334980269",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "6ft.Artificial Olive Tree Indoor/Outdoor- Faux Plant UV-Resistant ,Dense Foliage for Home Office Living Room Decor",
+      "rating": {
+        "average": 4.5,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d5b43cfc-c148-4c70-afba-2b55c336694a/svn/dr-planzen-artificial-trees-dbpjmdggl1-8-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 81.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337181527",
+      "modelNumber": "",
+      "brand": "Lightshare",
+      "title": "2-Piece 6 ft. Artificial Maple Tree in Base",
+      "rating": {
+        "average": 4.4286,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/48a66d22-3cfe-4b21-9ccc-766ce4f2cf17/svn/lightshare-artificial-trees-fys6ft-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.38,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307805769",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Indoor Fiddle Leaf Fig Artificial Tree",
+      "rating": {
+        "average": 3.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ab6363b-8e53-4908-9fec-1039db84d9cb/svn/nearly-natural-artificial-trees-5543-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 194.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303557308",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5.5 in. Areca Artificial Palm Tree in White Tower Planter",
+      "rating": {
+        "average": 4.4,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/58532752-8a53-4955-8bee-3ab3e8487c48/svn/nearly-natural-artificial-trees-5871-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 167.89,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300837024",
+      "modelNumber": "",
+      "brand": "A & B Home",
+      "title": "35 in. Artificial Decorative Boxwood Topiary Tree",
+      "rating": {
+        "average": 4.5,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38767b6b-8755-429c-9df1-a2c7e452915b/svn/a-b-home-artificial-topiaries-58147-ds-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 111.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312066041",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "58 in. Ficus Artificial Tree in Black Planter",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7ec9834c-1d87-418f-9651-8b2e9d1b4fc5/svn/nearly-natural-artificial-trees-t1106-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 194.66,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302784333",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor Sweet Bay Artificial Tree in White Glossy Cylinder",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5fc75331-22d5-4845-a7f8-21b06301b2ad/svn/nearly-natural-artificial-trees-5980-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 63.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315149547",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Areca Palm Artificial Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/860c69c1-4953-4228-86f5-1c777be43fb3/svn/nearly-natural-artificial-trees-t1005-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 153.84,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333450041",
+      "modelNumber": "",
+      "brand": "Mecale",
+      "title": "4 ft. Artificial Bonsai Topiary Triple Ball Tree Plant Indoor Outdoor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e9d7a8ed-e38a-4800-857a-665754998196/svn/mecale-artificial-topiaries-uxky9960-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 115.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309674175",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor/Outdoor 7 ft. Bamboo Artificial Tree with Black Trunks UV Resistant",
+      "rating": {
+        "average": 4.1429,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c4e72905-8caf-4727-aaff-fe8810f1f796/svn/nearly-natural-artificial-trees-9145-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 194.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331780994",
+      "modelNumber": "",
+      "brand": "Pure Garden",
+      "title": "6 ft. Artificial Bamboo Trees (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b5db5d3d-37f6-49ce-9544-448f32e4bf7d/svn/pure-garden-artificial-trees-50-lg1193-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 175.05,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337252220",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "6 ft. Artificial Bamboo Tree in Black Pot, 72 in. Silk Faux Bamboo Tree",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/baeb8c47-5094-442a-9736-9cae278c82b1/svn/vitalismo-artificial-trees-nohk0082g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 62.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204688214",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "7 ft. Artificial Green Bamboo Tree",
+      "rating": {
+        "average": 4.1,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ef4c3b3b-92b7-4626-abc9-ee0eb2b8fdf4/svn/nearly-natural-artificial-trees-5421-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.48,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309674186",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor/Outdoor 51 in. Bamboo Artificial Tree with Black Trunks UV Resistant",
+      "rating": {
+        "average": 4.25,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3d15db73-e513-4578-928b-20f710541672/svn/nearly-natural-artificial-trees-9144-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 112.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301691105",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor and Outdoor 6 ft. Artificial Black Bamboo Tree UV Resistant",
+      "rating": {
+        "average": 4.2727,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7622ab08-c96a-49ce-be76-af7de42c481c/svn/nearly-natural-artificial-trees-5481-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 135.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202065589",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "64 in. Artificial Bamboo Silk Tree",
+      "rating": {
+        "average": 4.3462,
+        "count": 52
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2a77e67f-b3ec-4dda-b3fd-74133a2fb80f/svn/nearly-natural-artificial-trees-5253-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 85.77,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329445517",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "10 ft. Artificial Bamboo Tree with Real Bamboo Trunks",
+      "rating": {
+        "average": 1.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f86ba081-7be5-4a7f-9ea0-0a181f1236d3/svn/nearly-natural-artificial-trees-t4685-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 244.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100656287",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "7 ft. Artificial Large Bamboo Silk Tree",
+      "rating": {
+        "average": 4.2,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6d4bf19-b923-4d82-80bf-edb337289e62/svn/nearly-natural-artificial-trees-5191-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 146.74,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204688177",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Artificial UV Resistant Indoor/Outdoor Bamboo Tree",
+      "rating": {
+        "average": 4.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f446423c-5784-47ff-89ec-4edc0438ff30/svn/nearly-natural-artificial-trees-5385-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 116.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204688178",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial UV Resistant Indoor/Outdoor Bamboo Tree",
+      "rating": {
+        "average": 3.6667,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6e54d763-6db3-431b-968d-1fbac58d949e/svn/nearly-natural-artificial-trees-5386-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 113.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204688212",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Artificial Black Bamboo Tree",
+      "rating": {
+        "average": 3.3125,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8643e2cf-492a-4a16-b715-cbd1831e13eb/svn/nearly-natural-artificial-trees-5418-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 90.16,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334760079",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "6 ft. Artificial Bamboo Tree, Artificial Trees In Pot Faux Plants",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b8e2513-8a45-4506-bf94-65f7803bb522/svn/artificial-trees-fqzol-mpgvm6t4-wls-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301695561",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "7 ft. Artificial Curved Slim Bamboo Silk Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0c6cf709-ad77-40ff-80cb-a0c8db1514e5/svn/nearly-natural-artificial-trees-5194-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 181.45,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339425476",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "5 ft. Artificial Bamboo Tree 12 Pack Fake Plant with Silk Leaves Real Wood Trunk for Indoor Outdoor Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9fa225be-34e7-4112-add5-dc98a318c7c2/svn/dr-planzen-artificial-tropical-plants-zzgzz1-5m-12-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 53.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205829319",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Artificial Golden Bamboo Tree with 880 Leaves",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/da6ac75d-d70d-4040-8857-77caa84e6806/svn/nearly-natural-artificial-trees-5395-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 123.09,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329445472",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "12 ft. Artificial Green Bamboo Tree",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/042be595-36ab-4fb7-bb27-60f4e7136406/svn/nearly-natural-artificial-trees-t4635-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 378.89,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100656278",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "6 ft. Artificial Silk Bamboo Tree",
+      "rating": {
+        "average": 4.3,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ee0339c7-feb2-46d7-8d18-a20e1468743b/svn/nearly-natural-artificial-trees-5190-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 136.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335816275",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "8 ft. Artificial Olive Tree-Faux Silk Plant Fake Tree for Home Office Decor Indoor\\Outdoor Plant Living Room",
+      "rating": {
+        "average": 4.0,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3d4a6192-3854-4510-94b5-3ca776838d74/svn/dr-planzen-artificial-trees-dscltgls2-4m-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 196.62,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334980262",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "8 ft. Artificial Olive Tree Indoor/Outdoor UVResistant,MultiBranched Faux Tree for Home Office Living Room Decor",
+      "rating": {
+        "average": 4.1667,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/86cafcce-5b4e-4be2-bf31-93c1e8614d72/svn/dr-planzen-artificial-trees-gjpdcgl2-4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 200.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335101615",
+      "modelNumber": "",
+      "brand": "Swafrrt",
+      "title": "7 ft. Artificial Olive Tree in Pot, Large Faux Olive Silk Tree for Indoor Home Decor and Housewarming Gift",
+      "rating": {
+        "average": 3.3077,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1a151d3-d467-45d1-8bf5-0a1e62146907/svn/swafrrt-artificial-trees-hd-gls1-7ft-us-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 74.24,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335154913",
+      "modelNumber": "",
+      "brand": "hykolity",
+      "title": "5 ft. Artificial Olive Tree Indoor In White Planter Pot Faux Plant Natural Wood Trunk and Lifelike Fruits for Home Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cbbd11c5-acd6-4af6-9b37-04a0a968b2bb/svn/hykolity-artificial-trees-ata-7251h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 57.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337882632",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "8 ft. Artificial Olive Tree with Large White Planter, Faux Olive Silk Tree for Indoor Outdoor Home Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7938962e-7cea-4a6d-9dd2-dff9644dc4cd/svn/dr-planzen-artificial-trees-dhybpcgltgl2-4m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 232.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327018443",
+      "modelNumber": "",
+      "brand": "StyleWell",
+      "title": "4ft Faux Olive Tree in White Pot",
+      "rating": {
+        "average": 4.4706,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9193ee1e-d5db-4e87-917c-ae1f002fc2ce/svn/stylewell-artificial-trees-t4434-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 74.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338923543",
+      "modelNumber": "",
+      "brand": "DR.Planzen",
+      "title": "6 ft. Lighted Artificial Olive Tree with White LED Lights for Holiday Decor Christmas Tree",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/94e9eebf-bf27-492e-a2ad-7551dba258ae/svn/dr-planzen-artificial-trees-akdddggls1-8m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335154897",
+      "modelNumber": "",
+      "brand": "hykolity",
+      "title": "6 ft. Artificial Olive Tree Faux Plant Realistic Silk Tree with White Pot for Home Office Decor Interior Outdoor Decor",
+      "rating": {
+        "average": 4.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/141e5b31-3d8a-4162-9145-4768a45395ca/svn/hykolity-artificial-trees-ata-7202-a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 83.45,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338393184",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "7 ft. Tall Artificial Olive Tree PE Material Faux Olive Tree for Modern Home Office Living Room Decor Indoor/Outdoor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2844073a-236e-4fa9-93c6-125d8af2705e/svn/vitalismo-artificial-trees-nohk0079g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327018301",
+      "modelNumber": "",
+      "brand": "StyleWell",
+      "title": "6ft Faux Olive Tree in White Pot",
+      "rating": {
+        "average": 4.4706,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3722b10b-ba19-4100-91f9-5b13af2b439d/svn/stylewell-artificial-trees-t4436-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334379475",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "5 ft. Artificial Olive Tree with White Planter 60in Fake Plants Indoor Outdoor Realistic Large Faux Potted Tree Home Dec",
+      "rating": {
+        "average": 4.2593,
+        "count": 27
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e7e0451b-0a40-4c18-948c-9ba615d5892f/svn/vitalismo-artificial-trees-zhhk0005zsn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 44.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334380151",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "7 ft. Artificial Olive Tree with White Planter 84in Fake Plants Indoor Outdoor Realistic Large Faux Potted Tree Home Dec",
+      "rating": {
+        "average": 4.3333,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0104a0d6-baa9-4a2d-b2e0-d4ca79e1086d/svn/vitalismo-artificial-trees-zhhk0007zsn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 66.06,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337268945",
+      "modelNumber": "",
+      "brand": "VIVATREES",
+      "title": "7 ft. Artificial Olive Tree Faux Olive Plant Realistic in White Pot for Home Office Interior Outdoor Decor",
+      "rating": {
+        "average": 4.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97f6de79-b487-47ec-825f-02845de0ca08/svn/vivatrees-artificial-trees-ata-7253-vv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 113.38,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337605377",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "8 ft. Artificial Olive Tree with Black Pot, Tall Fake Tree with Natural Wood Trunk and Realistic Green Leaves and Fruits",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/27df5edd-2b91-47e2-9761-7b6f7064c61a/svn/skyshalo-artificial-trees-rzs8ftglsslx8ojbj001v0-250718-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 85.58,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325624794",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "6 ft. Tall Artificial Olive Tree Faux Olive Plants for Indoor and Outdoor (2- Pack)",
+      "rating": {
+        "average": 4.5,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c268fc6b-a08c-431d-a5b3-d30812ff7404/svn/artificial-trees-gym11081-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 148.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339172615",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Lighted Christmas Urn Filler 24 in. Warm White Artificial Plant Pine Tree with Berries Cones 2 Pack Holiday Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ad13dbf0-785c-4278-a24c-5068ab7f70b8/svn/artificial-grass-plants-ph02059b025-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 182.46,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338926165",
+      "modelNumber": "",
+      "brand": "HWT",
+      "title": "15 in. 2 Balls Artificial Boxwood Topiary Ball Trees 4 Layers of UV-Resistant Boxwood Balls for Front Door Decor",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/21950229-e9fe-4825-b7c4-9155120f9990/svn/hwt-artificial-grass-plants-15inx15in-2pcs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338384278",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "1.6 ft. Artificial Cedar Tree with Ground Spike Faux Shrub Bushes for Room Front Porch Garden Backyard Decor(set of 2)",
+      "rating": {
+        "average": 4.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9d07fef3-8f77-4e10-84a9-da8629c2a1d7/svn/vitalismo-artificial-shrubs-nohk0013glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 48.6,
+        "currency": "USD"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "318111059",
+  "identifiers": {
+    "internetNumber": "318111059",
+    "modelNumber": "",
+    "storeSkuNumber": "318111059"
+  },
+  "brand": {
+    "name": "Crossover",
+    "logoUrl": "images/brands/crossover.svg"
+  },
+  "title": "Commercial Laundry 27 in. 2.9 cu. ft. Grey Top Load Washing Machine, Coin Operated and Free Use",
+  "shortDescription": "Commercial Laundry 27 in. 2.9 cu. ft. Grey Top Load Washing Machine, Coin Operated and Free Use",
+  "longDescription": "Commercial Laundry 27 in. 2.9 cu. ft. Grey Top Load Washing Machine, Coin Operated and Free Use",
+  "pricing": {
+    "currentPrice": 1678.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.7143,
+    "count": 7
+  },
+  "media": {
+    "primaryImage": "/products/318111059/gray-crossover-top-load-washers-washer-stand-alone-tl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318111059/gray-crossover-top-load-washers-washer-stand-alone-tl-64_100.jpg",
+        "altText": "Commercial Laundry 27 in. 2.9 cu. ft. Grey Top Load Washing Machine, Coin Operated and Free Use",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.586254"
+}

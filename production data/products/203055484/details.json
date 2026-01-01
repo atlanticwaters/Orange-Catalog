@@ -1,0 +1,45 @@
+{
+  "productId": "203055484",
+  "identifiers": {
+    "internetNumber": "203055484",
+    "modelNumber": "",
+    "storeSkuNumber": "203055484"
+  },
+  "brand": {
+    "name": "Prepac",
+    "logoUrl": "images/brands/prepac.svg"
+  },
+  "title": "Wood Freestanding Garage Cabinet in White (32 in. W x 65 in. H x 16 in. D)",
+  "shortDescription": "Wood Freestanding Garage Cabinet in White (32 in. W x 65 in. H x 16 in. D)",
+  "longDescription": "Wood Freestanding Garage Cabinet in White (32 in. W x 65 in. H x 16 in. D)",
+  "pricing": {
+    "currentPrice": 177.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3535,
+    "count": 1160
+  },
+  "media": {
+    "primaryImage": "/products/203055484/white-prepac-free-standing-cabinets-wes-3264-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203055484/white-prepac-free-standing-cabinets-wes-3264-64_100.jpg",
+        "altText": "Wood Freestanding Garage Cabinet in White (32 in. W x 65 in. H x 16 in. D)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.547256"
+}

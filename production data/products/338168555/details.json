@@ -1,0 +1,45 @@
+{
+  "productId": "338168555",
+  "identifiers": {
+    "internetNumber": "338168555",
+    "modelNumber": "",
+    "storeSkuNumber": "338168555"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "4.5 cu. ft. Top Load Washer with Impeller, Vibration Reduction and 7.2 cu. ft. Dryer Set",
+  "shortDescription": "4.5 cu. ft. Top Load Washer with Impeller, Vibration Reduction and 7.2 cu. ft. Dryer Set",
+  "longDescription": "4.5 cu. ft. Top Load Washer with Impeller, Vibration Reduction and 7.2 cu. ft. Dryer Set",
+  "pricing": {
+    "currentPrice": 1198.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2664,
+    "count": 4430
+  },
+  "media": {
+    "primaryImage": "/products/338168555/samsung-top-load-washer-dryer-sets-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338168555/samsung-top-load-washer-dryer-sets-64_100.jpg",
+        "altText": "4.5 cu. ft. Top Load Washer with Impeller, Vibration Reduction and 7.2 cu. ft. Dryer Set",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.456889"
+}

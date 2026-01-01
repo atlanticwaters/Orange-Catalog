@@ -1,0 +1,45 @@
+{
+  "productId": "325371270",
+  "identifiers": {
+    "internetNumber": "325371270",
+    "modelNumber": "",
+    "storeSkuNumber": "325371270"
+  },
+  "brand": {
+    "name": "NewAge Products",
+    "logoUrl": "images/brands/newage-products.svg"
+  },
+  "title": "71.77 in. H x 80 in. W PVC Slatwall Panel Set in White (40 sq. ft. ) Garage Wall Product",
+  "shortDescription": "71.77 in. H x 80 in. W PVC Slatwall Panel Set in White (40 sq. ft. ) Garage Wall Product",
+  "longDescription": "71.77 in. H x 80 in. W PVC Slatwall Panel Set in White (40 sq. ft. ) Garage Wall Product",
+  "pricing": {
+    "currentPrice": 249.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 28
+  },
+  "media": {
+    "primaryImage": "/products/325371270/white-newage-products-slatwall-panels-51747-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325371270/white-newage-products-slatwall-panels-51747-64_100.jpg",
+        "altText": "71.77 in. H x 80 in. W PVC Slatwall Panel Set in White (40 sq. ft. ) Garage Wall Product",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.625773"
+}

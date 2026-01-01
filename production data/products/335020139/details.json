@@ -1,0 +1,45 @@
+{
+  "productId": "335020139",
+  "identifiers": {
+    "internetNumber": "335020139",
+    "modelNumber": "",
+    "storeSkuNumber": "335020139"
+  },
+  "brand": {
+    "name": "EUHOMY",
+    "logoUrl": "images/brands/euhomy.svg"
+  },
+  "title": "3.5 cu. ft Vented Portable Clothes Dryer in White, 1500-Watt Laundry Dryer with LCD Control, 22 in. W, 26.5 in. H",
+  "shortDescription": "3.5 cu. ft Vented Portable Clothes Dryer in White, 1500-Watt Laundry Dryer with LCD Control, 22 in. W, 26.5 in. H",
+  "longDescription": "3.5 cu. ft Vented Portable Clothes Dryer in White, 1500-Watt Laundry Dryer with LCD Control, 22 in. W, 26.5 in. H",
+  "pricing": {
+    "currentPrice": 239.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4
+  },
+  "media": {
+    "primaryImage": "/products/335020139/white-euhomy-electric-dryers-cd002-350wh-eh-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335020139/white-euhomy-electric-dryers-cd002-350wh-eh-64_100.jpg",
+        "altText": "3.5 cu. ft Vented Portable Clothes Dryer in White, 1500-Watt Laundry Dryer with LCD Control, 22 in. W, 26.5 in. H",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.629653"
+}

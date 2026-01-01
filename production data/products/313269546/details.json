@@ -1,0 +1,45 @@
+{
+  "productId": "313269546",
+  "identifiers": {
+    "internetNumber": "313269546",
+    "modelNumber": "",
+    "storeSkuNumber": "313269546"
+  },
+  "brand": {
+    "name": "American Standard",
+    "logoUrl": "images/brands/american-standard.svg"
+  },
+  "title": "Fairbury 2S Single-Handle Pull-Down Sprayer Kitchen Faucet in Stainless Steel",
+  "shortDescription": "Fairbury 2S Single-Handle Pull-Down Sprayer Kitchen Faucet in Stainless Steel",
+  "longDescription": "Fairbury 2S Single-Handle Pull-Down Sprayer Kitchen Faucet in Stainless Steel",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3466,
+    "count": 1965
+  },
+  "media": {
+    "primaryImage": "/products/313269546/stainless-steel-american-standard-pull-down-kitchen-faucets-7418300-075-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/313269546/stainless-steel-american-standard-pull-down-kitchen-faucets-7418300-075-64_100.jpg",
+        "altText": "Fairbury 2S Single-Handle Pull-Down Sprayer Kitchen Faucet in Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.426243"
+}

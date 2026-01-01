@@ -1,0 +1,45 @@
+{
+  "productId": "336958982",
+  "identifiers": {
+    "internetNumber": "336958982",
+    "modelNumber": "",
+    "storeSkuNumber": "336958982"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless 7-1/4 in. Circular Saw",
+  "shortDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless 7-1/4 in. Circular Saw",
+  "longDescription": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless 7-1/4 in. Circular Saw",
+  "pricing": {
+    "currentPrice": 328.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6692,
+    "count": 931
+  },
+  "media": {
+    "primaryImage": "/products/336958982/ridgid-circular-saws-ac8609340sb-r8657b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336958982/ridgid-circular-saws-ac8609340sb-r8657b-64_100.jpg",
+        "altText": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless 7-1/4 in. Circular Saw",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.682349"
+}

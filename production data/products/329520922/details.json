@@ -1,0 +1,45 @@
+{
+  "productId": "329520922",
+  "identifiers": {
+    "internetNumber": "329520922",
+    "modelNumber": "",
+    "storeSkuNumber": "329520922"
+  },
+  "brand": {
+    "name": "Dremel",
+    "logoUrl": "images/brands/dremel.svg"
+  },
+  "title": "8250 12V Lithium-Ion Cordless Brushless Rotary Tool Kit with 5 Accessories and a Carrying Case",
+  "shortDescription": "8250 12V Lithium-Ion Cordless Brushless Rotary Tool Kit with 5 Accessories and a Carrying Case",
+  "longDescription": "8250 12V Lithium-Ion Cordless Brushless Rotary Tool Kit with 5 Accessories and a Carrying Case",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6667,
+    "count": 426
+  },
+  "media": {
+    "primaryImage": "/products/329520922/dremel-rotary-tools-8250-5-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329520922/dremel-rotary-tools-8250-5-64_100.jpg",
+        "altText": "8250 12V Lithium-Ion Cordless Brushless Rotary Tool Kit with 5 Accessories and a Carrying Case",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.699293"
+}

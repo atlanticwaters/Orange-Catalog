@@ -1,0 +1,45 @@
+{
+  "productId": "204512007",
+  "identifiers": {
+    "internetNumber": "204512007",
+    "modelNumber": "",
+    "storeSkuNumber": "204512007"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "15 Amp Corded 10 in. Job Site Table Saw with Rolling Stand",
+  "shortDescription": "15 Amp Corded 10 in. Job Site Table Saw with Rolling Stand",
+  "longDescription": "15 Amp Corded 10 in. Job Site Table Saw with Rolling Stand",
+  "pricing": {
+    "currentPrice": 699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6818,
+    "count": 2850
+  },
+  "media": {
+    "primaryImage": "/products/204512007/dewalt-portable-table-saws-dwe7491rs-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204512007/dewalt-portable-table-saws-dwe7491rs-64_100.jpg",
+        "altText": "15 Amp Corded 10 in. Job Site Table Saw with Rolling Stand",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.676390"
+}

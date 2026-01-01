@@ -1,0 +1,260 @@
+{
+  "categoryId": "furniture/dining",
+  "name": "Dining",
+  "slug": "dining",
+  "path": "/categories/furniture/dining",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.718428",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Furniture",
+      "url": "/furniture"
+    },
+    {
+      "label": "Dining",
+      "url": "/furniture/dining"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 9
+  },
+  "featuredBrands": [
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 3
+    },
+    {
+      "brandId": "international-concepts",
+      "brandName": "International Concepts",
+      "logoUrl": "images/brands/international-concepts.svg",
+      "count": 1
+    },
+    {
+      "brandId": "vevor",
+      "brandName": "VEVOR",
+      "logoUrl": "images/brands/vevor.svg",
+      "count": 1
+    },
+    {
+      "brandId": "homsee",
+      "brandName": "Homsee",
+      "logoUrl": "images/brands/homsee.svg",
+      "count": 1
+    },
+    {
+      "brandId": "home-decorators-collection",
+      "brandName": "Home Decorators Collection",
+      "logoUrl": "images/brands/home-decorators-collection.svg",
+      "count": 1
+    },
+    {
+      "brandId": "harper-bright-designs",
+      "brandName": "Harper & Bright Designs",
+      "logoUrl": "images/brands/harper-bright-designs.svg",
+      "count": 1
+    },
+    {
+      "brandId": "nestfair",
+      "brandName": "Nestfair",
+      "logoUrl": "images/brands/nestfair.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "300534733",
+      "modelNumber": "",
+      "brand": "International Concepts",
+      "title": "Espresso Solid Wood Dropleaf Dining Table",
+      "rating": {
+        "average": 4.5632,
+        "count": 261
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/63e5be6b-5992-44cc-8863-86ed835b5cb0/svn/espresso-international-concepts-kitchen-dining-tables-t581-42dp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326626290",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Kitchen Island Cart Natural Wood Top 35.4 in. W Mobile Carts with Storage Cabinet Rolling Kitchen Carts White",
+      "rating": {
+        "average": 4.3696,
+        "count": 46
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/061a5dd3-fc01-4849-b070-c54fea8776cf/svn/white-vevor-kitchen-carts-ydkcfdxjmdb12ovniv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 158.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338321568",
+      "modelNumber": "",
+      "brand": "Homsee",
+      "title": "White Finish Wood Top 61 in. Kitchen Island with Adjustable Shelves, Storage Drawers, Built-in Power Outlets",
+      "rating": {
+        "average": 4.25,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d31ba906-e5a7-4ca9-9bbd-daa6a7905a52/svn/white-homsee-kitchen-islands-z-hs260161-02-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 614.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321812361",
+      "modelNumber": "",
+      "brand": "Home Decorators Collection",
+      "title": "Greymont Walnut Brown Finish Round Pedestal Dining Table for 6 (47.6 in. L x 29.8 in. H)",
+      "rating": {
+        "average": 4.4478,
+        "count": 67
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/56e69e29-af6e-430c-aef7-e1f723eddfac/svn/walnut-home-decorators-collection-kitchen-dining-tables-t-11-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 719.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327205907",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "7-Pieces Rectangular Wood Tone Wooden Top Dining Table Set 6 Seats",
+      "rating": {
+        "average": 4.1818,
+        "count": 55
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6985a41-0172-4277-8191-4e0852d0698a/svn/beige-dining-room-sets-d2005-6-dtc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 873.84,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326833579",
+      "modelNumber": "",
+      "brand": "Harper & Bright Designs",
+      "title": "Farmhouse 5-Piece Natural Wood Wash Wood Top Extendable Round Dining Table Set with 4-Upholstered Chairs",
+      "rating": {
+        "average": 4.35,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/48c87ca0-b428-4d6f-98fd-791e1759527f/svn/natural-wood-wash-harper-bright-designs-dining-room-sets-xw072aae-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 717.48,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328724509",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Black Wooden 77.3 in. W Kitchen Island Dining Bar Table With Table Top, Shelves, Door Cabinets",
+      "rating": {
+        "average": 3.75,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5288d490-62b5-4926-9e5d-1a29c2417eb0/svn/black-kitchen-islands-kf020454-012-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 441.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331228512",
+      "modelNumber": "",
+      "brand": "Nestfair",
+      "title": "White Wood 53.5 in. Kitchen Island with Power Outlet, Drop Leaf and Drawers",
+      "rating": {
+        "average": 3.9167,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/92fcff9b-cabf-4341-a6f5-e3037e9c8dd2/svn/white-nestfair-kitchen-islands-ckk348w-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 275.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328776641",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "70.9 in. Industrial Rustic Brown Wooden 4 Legs Dining Table Rectangular Kitchen Table for 8 People",
+      "rating": {
+        "average": 4.4571,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/178d57ab-027d-411f-989a-b2bf1302f859/svn/rustic-brown-kitchen-dining-tables-bb-din-1596ct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 192.37,
+        "currency": "USD"
+      }
+    }
+  ]
+}

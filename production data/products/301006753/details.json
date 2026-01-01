@@ -1,0 +1,45 @@
+{
+  "productId": "301006753",
+  "identifiers": {
+    "internetNumber": "301006753",
+    "modelNumber": "",
+    "storeSkuNumber": "301006753"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "50 in. Artificial Boxwood Topiary with Gray Cylindrical Planter UV Resistant (Indoor/Outdoor)",
+  "shortDescription": "50 in. Artificial Boxwood Topiary with Gray Cylindrical Planter UV Resistant (Indoor/Outdoor)",
+  "longDescription": "50 in. Artificial Boxwood Topiary with Gray Cylindrical Planter UV Resistant (Indoor/Outdoor)",
+  "pricing": {
+    "currentPrice": 185.59,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8,
+    "count": 5
+  },
+  "media": {
+    "primaryImage": "/products/301006753/nearly-natural-artificial-topiaries-5961-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301006753/nearly-natural-artificial-topiaries-5961-64_100.jpg",
+        "altText": "50 in. Artificial Boxwood Topiary with Gray Cylindrical Planter UV Resistant (Indoor/Outdoor)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.526579"
+}

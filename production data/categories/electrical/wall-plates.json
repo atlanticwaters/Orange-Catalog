@@ -1,0 +1,56 @@
+{
+  "categoryId": "electrical/wall-plates",
+  "name": "Wall Plates",
+  "slug": "wall-plates",
+  "path": "/categories/electrical/wall-plates",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:07:23.866249",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Electrical",
+      "url": "/electrical"
+    },
+    {
+      "label": "Wall Plates",
+      "url": "/electrical/wall-plates"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1
+  },
+  "featuredBrands": [
+    {
+      "brandId": "frost-king",
+      "brandName": "Frost King",
+      "logoUrl": "images/brands/frost-king.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "100180324",
+      "modelNumber": "",
+      "brand": "Frost King",
+      "title": "1 Gang Socket Switch and Deco Wall Plate (14-Pack)",
+      "rating": {
+        "average": 4.0414,
+        "count": 169
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e20aa9bd-80e4-4b19-924a-4aefb23c2388/svn/white-frost-king-combination-wall-plates-os14h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2.57,
+        "currency": "USD"
+      }
+    }
+  ]
+}

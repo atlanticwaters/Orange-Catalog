@@ -1,0 +1,45 @@
+{
+  "productId": "305591706",
+  "identifiers": {
+    "internetNumber": "305591706",
+    "modelNumber": "",
+    "storeSkuNumber": "305591706"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "3/8 in. Pneumatic Impact Wrench",
+  "shortDescription": "3/8 in. Pneumatic Impact Wrench",
+  "longDescription": "3/8 in. Pneumatic Impact Wrench",
+  "pricing": {
+    "currentPrice": 65.61,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4,
+    "count": 50
+  },
+  "media": {
+    "primaryImage": "/products/305591706/dewalt-air-impact-wrenches-dwmt70775-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305591706/dewalt-air-impact-wrenches-dwmt70775-64_100.jpg",
+        "altText": "3/8 in. Pneumatic Impact Wrench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.476139"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "318997839",
+  "identifiers": {
+    "internetNumber": "318997839",
+    "modelNumber": "",
+    "storeSkuNumber": "318997839"
+  },
+  "brand": {
+    "name": "CROSLEY FURNITURE",
+    "logoUrl": "images/brands/crosley-furniture.svg"
+  },
+  "title": "Tara White Sideboard with Pantries",
+  "shortDescription": "Tara White Sideboard with Pantries",
+  "longDescription": "Tara White Sideboard with Pantries",
+  "pricing": {
+    "currentPrice": 975.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6552,
+    "count": 29
+  },
+  "media": {
+    "primaryImage": "/products/318997839/white-crosley-furniture-sideboards-buffet-tables-kf33012wh-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318997839/white-crosley-furniture-sideboards-buffet-tables-kf33012wh-64_100.jpg",
+        "altText": "Tara White Sideboard with Pantries",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.566065"
+}

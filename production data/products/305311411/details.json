@@ -1,0 +1,45 @@
+{
+  "productId": "305311411",
+  "identifiers": {
+    "internetNumber": "305311411",
+    "modelNumber": "",
+    "storeSkuNumber": "305311411"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer with CLEAN DRIVE Technology",
+  "shortDescription": "Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer with CLEAN DRIVE Technology",
+  "longDescription": "Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer with CLEAN DRIVE Technology",
+  "pricing": {
+    "currentPrice": 99.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.603,
+    "count": 330
+  },
+  "media": {
+    "primaryImage": "/products/305311411/ridgid-finishing-nailers-r250sff-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305311411/ridgid-finishing-nailers-r250sff-64_100.jpg",
+        "altText": "Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer with CLEAN DRIVE Technology",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.496698"
+}

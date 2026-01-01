@@ -1,0 +1,45 @@
+{
+  "productId": "331285211",
+  "identifiers": {
+    "internetNumber": "331285211",
+    "modelNumber": "",
+    "storeSkuNumber": "331285211"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "22 in. W x 34.6 in. D Portable Work Table with Plastic Top and Wood Router Plate",
+  "shortDescription": "22 in. W x 34.6 in. D Portable Work Table with Plastic Top and Wood Router Plate",
+  "longDescription": "22 in. W x 34.6 in. D Portable Work Table with Plastic Top and Wood Router Plate",
+  "pricing": {
+    "currentPrice": 99.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4667,
+    "count": 30
+  },
+  "media": {
+    "primaryImage": "/products/331285211/ridgid-workbenches-260224-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331285211/ridgid-workbenches-260224-64_100.jpg",
+        "altText": "22 in. W x 34.6 in. D Portable Work Table with Plastic Top and Wood Router Plate",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.479131"
+}

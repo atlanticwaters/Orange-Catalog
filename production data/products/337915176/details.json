@@ -1,0 +1,45 @@
+{
+  "productId": "337915176",
+  "identifiers": {
+    "internetNumber": "337915176",
+    "modelNumber": "",
+    "storeSkuNumber": "337915176"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "Pneumatic 15\u00b0 Coil Corded 2-1/2 in. Siding Nailer and 50 ft. x 1/4 in. Air Hose",
+  "shortDescription": "Pneumatic 15\u00b0 Coil Corded 2-1/2 in. Siding Nailer and 50 ft. x 1/4 in. Air Hose",
+  "longDescription": "Pneumatic 15\u00b0 Coil Corded 2-1/2 in. Siding Nailer and 50 ft. x 1/4 in. Air Hose",
+  "pricing": {
+    "currentPrice": 358.49,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/337915176/dewalt-siding-nailers-dw66c-1w1450d-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337915176/dewalt-siding-nailers-dw66c-1w1450d-64_100.jpg",
+        "altText": "Pneumatic 15\u00b0 Coil Corded 2-1/2 in. Siding Nailer and 50 ft. x 1/4 in. Air Hose",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.528390"
+}

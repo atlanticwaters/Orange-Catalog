@@ -1,0 +1,45 @@
+{
+  "productId": "338613211",
+  "identifiers": {
+    "internetNumber": "338613211",
+    "modelNumber": "",
+    "storeSkuNumber": "338613211"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Goodwin 75.6 in. Sofa, Calluna 30 in. Coffee Table and 16.5 in. W Accent Table Combo",
+  "shortDescription": "Goodwin 75.6 in. Sofa, Calluna 30 in. Coffee Table and 16.5 in. W Accent Table Combo",
+  "longDescription": "Goodwin 75.6 in. Sofa, Calluna 30 in. Coffee Table and 16.5 in. W Accent Table Combo",
+  "pricing": {
+    "currentPrice": 889.95,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.619,
+    "count": 294
+  },
+  "media": {
+    "primaryImage": "/products/338613211/sofas-couches-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338613211/sofas-couches-64_100.jpg",
+        "altText": "Goodwin 75.6 in. Sofa, Calluna 30 in. Coffee Table and 16.5 in. W Accent Table Combo",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.494829"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "205509610",
+  "identifiers": {
+    "internetNumber": "205509610",
+    "modelNumber": "",
+    "storeSkuNumber": "205509610"
+  },
+  "brand": {
+    "name": "RYOBI",
+    "logoUrl": "images/brands/ryobi.svg"
+  },
+  "title": "6 Amp Corded 3-1/4 in. Hand Planer with Dust Bag",
+  "shortDescription": "6 Amp Corded 3-1/4 in. Hand Planer with Dust Bag",
+  "longDescription": "6 Amp Corded 3-1/4 in. Hand Planer with Dust Bag",
+  "pricing": {
+    "currentPrice": 139.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.501,
+    "count": 1018
+  },
+  "media": {
+    "primaryImage": "/products/205509610/ryobi-planers-hpl52k-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205509610/ryobi-planers-hpl52k-64_100.jpg",
+        "altText": "6 Amp Corded 3-1/4 in. Hand Planer with Dust Bag",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.662998"
+}

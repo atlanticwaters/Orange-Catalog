@@ -1,0 +1,45 @@
+{
+  "productId": "309321399",
+  "identifiers": {
+    "internetNumber": "309321399",
+    "modelNumber": "",
+    "storeSkuNumber": "309321399"
+  },
+  "brand": {
+    "name": "Leick Home",
+    "logoUrl": "images/brands/leick-home.svg"
+  },
+  "title": "West Wood Cherry Hardwood 60 in. W TV Stand",
+  "shortDescription": "West Wood Cherry Hardwood 60 in. W TV Stand",
+  "longDescription": "West Wood Cherry Hardwood 60 in. W TV Stand",
+  "pricing": {
+    "currentPrice": 490.64,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5714,
+    "count": 35
+  },
+  "media": {
+    "primaryImage": "/products/309321399/brown-leick-home-tv-stands-87360-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309321399/brown-leick-home-tv-stands-87360-64_100.jpg",
+        "altText": "West Wood Cherry Hardwood 60 in. W TV Stand",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.594981"
+}

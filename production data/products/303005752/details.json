@@ -1,0 +1,45 @@
+{
+  "productId": "303005752",
+  "identifiers": {
+    "internetNumber": "303005752",
+    "modelNumber": "",
+    "storeSkuNumber": "303005752"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "PACKOUT 5-Compartments Small Parts Organizer",
+  "shortDescription": "PACKOUT 5-Compartments Small Parts Organizer",
+  "longDescription": "PACKOUT 5-Compartments Small Parts Organizer",
+  "pricing": {
+    "currentPrice": 36.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8352,
+    "count": 1086
+  },
+  "media": {
+    "primaryImage": "/products/303005752/red-milwaukee-modular-tool-storage-systems-48-22-8435-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/303005752/red-milwaukee-modular-tool-storage-systems-48-22-8435-64_100.jpg",
+        "altText": "PACKOUT 5-Compartments Small Parts Organizer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.541425"
+}

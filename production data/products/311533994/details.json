@@ -1,0 +1,45 @@
+{
+  "productId": "311533994",
+  "identifiers": {
+    "internetNumber": "311533994",
+    "modelNumber": "",
+    "storeSkuNumber": "311533994"
+  },
+  "brand": {
+    "name": "California Air Tools",
+    "logoUrl": "images/brands/california-air-tools.svg"
+  },
+  "title": "Air Powered 18-Gauge Brad Nail Gun",
+  "shortDescription": "Air Powered 18-Gauge Brad Nail Gun",
+  "longDescription": "Air Powered 18-Gauge Brad Nail Gun",
+  "pricing": {
+    "currentPrice": 23.01,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 5
+  },
+  "media": {
+    "primaryImage": "/products/311533994/california-air-tools-brad-nailers-ngtq18g-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311533994/california-air-tools-brad-nailers-ngtq18g-64_100.jpg",
+        "altText": "Air Powered 18-Gauge Brad Nail Gun",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.466640"
+}

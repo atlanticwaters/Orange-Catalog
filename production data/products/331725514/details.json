@@ -1,0 +1,45 @@
+{
+  "productId": "331725514",
+  "identifiers": {
+    "internetNumber": "331725514",
+    "modelNumber": "",
+    "storeSkuNumber": "331725514"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "9 ft. Artificial Autumn Eucalyptus Tree",
+  "shortDescription": "9 ft. Artificial Autumn Eucalyptus Tree",
+  "longDescription": "9 ft. Artificial Autumn Eucalyptus Tree",
+  "pricing": {
+    "currentPrice": 312.5,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/331725514/nearly-natural-artificial-trees-t4814-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331725514/nearly-natural-artificial-trees-t4814-64_100.jpg",
+        "altText": "9 ft. Artificial Autumn Eucalyptus Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.464120"
+}

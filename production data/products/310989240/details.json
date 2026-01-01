@@ -1,0 +1,45 @@
+{
+  "productId": "310989240",
+  "identifiers": {
+    "internetNumber": "310989240",
+    "modelNumber": "",
+    "storeSkuNumber": "310989240"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "PACKOUT Dolly 24 in. x 18 in. Black Multi-Purpose Utility Tool Cart",
+  "shortDescription": "PACKOUT Dolly 24 in. x 18 in. Black Multi-Purpose Utility Tool Cart",
+  "longDescription": "PACKOUT Dolly 24 in. x 18 in. Black Multi-Purpose Utility Tool Cart",
+  "pricing": {
+    "currentPrice": 109.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6447,
+    "count": 591
+  },
+  "media": {
+    "primaryImage": "/products/310989240/black-milwaukee-modular-tool-storage-systems-48-22-8410-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/310989240/black-milwaukee-modular-tool-storage-systems-48-22-8410-64_100.jpg",
+        "altText": "PACKOUT Dolly 24 in. x 18 in. Black Multi-Purpose Utility Tool Cart",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.571835"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "301282463",
+  "identifiers": {
+    "internetNumber": "301282463",
+    "modelNumber": "",
+    "storeSkuNumber": "301282463"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "18V X2 LXT 5.0Ah Lithium-Ion (36V) Brushless Cordless Rear Handle 7-1/4 in. Circular Saw Kit",
+  "shortDescription": "18V X2 LXT 5.0Ah Lithium-Ion (36V) Brushless Cordless Rear Handle 7-1/4 in. Circular Saw Kit",
+  "longDescription": "18V X2 LXT 5.0Ah Lithium-Ion (36V) Brushless Cordless Rear Handle 7-1/4 in. Circular Saw Kit",
+  "pricing": {
+    "currentPrice": 359.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7444,
+    "count": 1737
+  },
+  "media": {
+    "primaryImage": "/products/301282463/makita-circular-saws-xsr01pt-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301282463/makita-circular-saws-xsr01pt-64_100.jpg",
+        "altText": "18V X2 LXT 5.0Ah Lithium-Ion (36V) Brushless Cordless Rear Handle 7-1/4 in. Circular Saw Kit",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.681709"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "338674205",
+  "identifiers": {
+    "internetNumber": "338674205",
+    "modelNumber": "",
+    "storeSkuNumber": "338674205"
+  },
+  "brand": {
+    "name": "Jet",
+    "logoUrl": "images/brands/jet.svg"
+  },
+  "title": "JDP-20S 20-Smart Drill Press",
+  "shortDescription": "JDP-20S 20-Smart Drill Press",
+  "longDescription": "JDP-20S 20-Smart Drill Press",
+  "pricing": {
+    "currentPrice": 2399.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/338674205/jet-drill-presses-jdp-20s-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/338674205/jet-drill-presses-jdp-20s-64_100.jpg",
+        "altText": "JDP-20S 20-Smart Drill Press",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.660022"
+}

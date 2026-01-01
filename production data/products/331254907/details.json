@@ -1,0 +1,45 @@
+{
+  "productId": "331254907",
+  "identifiers": {
+    "internetNumber": "331254907",
+    "modelNumber": "",
+    "storeSkuNumber": "331254907"
+  },
+  "brand": {
+    "name": "Meyer&Cross",
+    "logoUrl": "images/brands/meyercross.svg"
+  },
+  "title": "Hanson 78.5 in. Alder Brown TV Stand Fits TV's up to 85 in.",
+  "shortDescription": "Hanson 78.5 in. Alder Brown TV Stand Fits TV's up to 85 in.",
+  "longDescription": "Hanson 78.5 in. Alder Brown TV Stand Fits TV's up to 85 in.",
+  "pricing": {
+    "currentPrice": 356.69,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.5833,
+    "count": 12
+  },
+  "media": {
+    "primaryImage": "/products/331254907/alder-brown-meyer-cross-tv-stands-tv2211-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331254907/alder-brown-meyer-cross-tv-stands-tv2211-64_100.jpg",
+        "altText": "Hanson 78.5 in. Alder Brown TV Stand Fits TV's up to 85 in.",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.594541"
+}

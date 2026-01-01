@@ -1,0 +1,45 @@
+{
+  "productId": "309413142",
+  "identifiers": {
+    "internetNumber": "309413142",
+    "modelNumber": "",
+    "storeSkuNumber": "309413142"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "15 Amp 10 in. Portable Corded Jobsite Table Saw with Folding Stand",
+  "shortDescription": "15 Amp 10 in. Portable Corded Jobsite Table Saw with Folding Stand",
+  "longDescription": "15 Amp 10 in. Portable Corded Jobsite Table Saw with Folding Stand",
+  "pricing": {
+    "currentPrice": 359.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3161,
+    "count": 813
+  },
+  "media": {
+    "primaryImage": "/products/309413142/ridgid-portable-table-saws-r4518-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309413142/ridgid-portable-table-saws-r4518-64_100.jpg",
+        "altText": "15 Amp 10 in. Portable Corded Jobsite Table Saw with Folding Stand",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.677090"
+}

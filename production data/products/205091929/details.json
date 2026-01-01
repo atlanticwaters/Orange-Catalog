@@ -1,0 +1,45 @@
+{
+  "productId": "205091929",
+  "identifiers": {
+    "internetNumber": "205091929",
+    "modelNumber": "",
+    "storeSkuNumber": "205091929"
+  },
+  "brand": {
+    "name": "Pure Garden",
+    "logoUrl": "images/brands/pure-garden.svg"
+  },
+  "title": "5 ft. Artificial Hedyotis Triple Ball Topiary Tree",
+  "shortDescription": "5 ft. Artificial Hedyotis Triple Ball Topiary Tree",
+  "longDescription": "5 ft. Artificial Hedyotis Triple Ball Topiary Tree",
+  "pricing": {
+    "currentPrice": 114.72,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2326,
+    "count": 43
+  },
+  "media": {
+    "primaryImage": "/products/205091929/pure-garden-artificial-topiaries-50-10007-r-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205091929/pure-garden-artificial-topiaries-50-10007-r-64_100.jpg",
+        "altText": "5 ft. Artificial Hedyotis Triple Ball Topiary Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.526496"
+}

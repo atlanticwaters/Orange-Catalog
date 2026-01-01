@@ -1,0 +1,45 @@
+{
+  "productId": "319388904",
+  "identifiers": {
+    "internetNumber": "319388904",
+    "modelNumber": "",
+    "storeSkuNumber": "319388904"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "18V LXT Lithium-Ion Cordless Electric High-Pressure Portable Inflator (Tool Only)",
+  "shortDescription": "18V LXT Lithium-Ion Cordless Electric High-Pressure Portable Inflator (Tool Only)",
+  "longDescription": "18V LXT Lithium-Ion Cordless Electric High-Pressure Portable Inflator (Tool Only)",
+  "pricing": {
+    "currentPrice": null,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3333,
+    "count": 51
+  },
+  "media": {
+    "primaryImage": "/products/319388904/makita-inflators-dmp181zx-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/319388904/makita-inflators-dmp181zx-64_100.jpg",
+        "altText": "18V LXT Lithium-Ion Cordless Electric High-Pressure Portable Inflator (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.467080"
+}

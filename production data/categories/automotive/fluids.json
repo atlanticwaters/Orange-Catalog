@@ -1,0 +1,110 @@
+{
+  "categoryId": "automotive/fluids",
+  "name": "Fluids",
+  "slug": "fluids",
+  "path": "/categories/automotive/fluids",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.715672",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Automotive",
+      "url": "/automotive"
+    },
+    {
+      "label": "Fluids",
+      "url": "/automotive/fluids"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3
+  },
+  "featuredBrands": [
+    {
+      "brandId": "prestone",
+      "brandName": "Prestone",
+      "logoUrl": "images/brands/prestone.svg",
+      "count": 1
+    },
+    {
+      "brandId": "shell-rotella",
+      "brandName": "Shell Rotella",
+      "logoUrl": "images/brands/shell-rotella.svg",
+      "count": 1
+    },
+    {
+      "brandId": "pennzoil",
+      "brandName": "Pennzoil",
+      "logoUrl": "images/brands/pennzoil.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "337893557",
+      "modelNumber": "",
+      "brand": "Prestone",
+      "title": "DOT 3 Brake Fluid 12 fl oz, Power Steering Fluid 32 fl oz, and Antifreeze Coolant 1 Gal Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 26.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300387920",
+      "modelNumber": "",
+      "brand": "Shell Rotella",
+      "title": "T4 Triple Protection SAE 15W-40 Diesel Motor Oil 1 Gal.",
+      "rating": {
+        "average": 4.7918,
+        "count": 341
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/205938bc-ca9a-4b77-bdb5-53e5074dd32f/svn/shell-rotella-motor-oil-550045126-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 15.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300646438",
+      "modelNumber": "",
+      "brand": "Pennzoil",
+      "title": "Platinum SAE 5W-30 Full Synthetic Motor Oil 5 Qt.",
+      "rating": {
+        "average": 4.8302,
+        "count": 2126
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38055c87-dd80-4e10-b99f-261d3b99e85d/svn/pennzoil-motor-oil-550046126-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.38,
+        "currency": "USD"
+      }
+    }
+  ]
+}

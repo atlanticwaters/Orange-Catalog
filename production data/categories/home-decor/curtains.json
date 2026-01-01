@@ -1,0 +1,56 @@
+{
+  "categoryId": "home-decor/curtains",
+  "name": "Curtains",
+  "slug": "curtains",
+  "path": "/categories/home-decor/curtains",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.726360",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Home Decor",
+      "url": "/home-decor"
+    },
+    {
+      "label": "Curtains",
+      "url": "/home-decor/curtains"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1
+  },
+  "featuredBrands": [
+    {
+      "brandId": "homepop",
+      "brandName": "Homepop",
+      "logoUrl": "images/brands/homepop.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "308391518",
+      "modelNumber": "",
+      "brand": "Homepop",
+      "title": "Draper Large Light Brown Faux Leather Decorative Bench/Ottoman with Button Tufting 17.25 in H x 52.25 W x 15.75 D",
+      "rating": {
+        "average": 4.1176,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32274390-8cbd-49a6-881c-aad50592b933/svn/light-brown-faux-leather-homepop-bedroom-benches-k7116-ydqy-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.28,
+        "currency": "USD"
+      }
+    }
+  ]
+}

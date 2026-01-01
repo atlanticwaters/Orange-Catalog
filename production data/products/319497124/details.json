@@ -1,0 +1,45 @@
+{
+  "productId": "319497124",
+  "identifiers": {
+    "internetNumber": "319497124",
+    "modelNumber": "",
+    "storeSkuNumber": "319497124"
+  },
+  "brand": {
+    "name": "QUICKJACK",
+    "logoUrl": "images/brands/quickjack.svg"
+  },
+  "title": "5000TL Portable Car Lift with 110V Power Unit Included",
+  "shortDescription": "5000TL Portable Car Lift with 110V Power Unit Included",
+  "longDescription": "5000TL Portable Car Lift with 110V Power Unit Included",
+  "pricing": {
+    "currentPrice": 1925.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.597,
+    "count": 722
+  },
+  "media": {
+    "primaryImage": "/products/319497124/quickjack-car-lifts-5175630-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/319497124/quickjack-car-lifts-5175630-64_100.jpg",
+        "altText": "5000TL Portable Car Lift with 110V Power Unit Included",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.548784"
+}

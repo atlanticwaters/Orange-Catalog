@@ -1,0 +1,45 @@
+{
+  "productId": "308241988",
+  "identifiers": {
+    "internetNumber": "308241988",
+    "modelNumber": "",
+    "storeSkuNumber": "308241988"
+  },
+  "brand": {
+    "name": "Whirlpool",
+    "logoUrl": "images/brands/whirlpool.svg"
+  },
+  "title": "7.4 cu. ft. 240 Volt Stackable White Electric Ventless Dryer with Intuitive Touch Controls, ENERGY STAR",
+  "shortDescription": "7.4 cu. ft. 240 Volt Stackable White Electric Ventless Dryer with Intuitive Touch Controls, ENERGY STAR",
+  "longDescription": "7.4 cu. ft. 240 Volt Stackable White Electric Ventless Dryer with Intuitive Touch Controls, ENERGY STAR",
+  "pricing": {
+    "currentPrice": 1439.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.3403,
+    "count": 335
+  },
+  "media": {
+    "primaryImage": "/products/308241988/white-whirlpool-electric-dryers-whd560chw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/308241988/white-whirlpool-electric-dryers-whd560chw-64_100.jpg",
+        "altText": "7.4 cu. ft. 240 Volt Stackable White Electric Ventless Dryer with Intuitive Touch Controls, ENERGY STAR",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.472360"
+}

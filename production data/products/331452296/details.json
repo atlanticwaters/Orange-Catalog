@@ -1,0 +1,45 @@
+{
+  "productId": "331452296",
+  "identifiers": {
+    "internetNumber": "331452296",
+    "modelNumber": "",
+    "storeSkuNumber": "331452296"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "1 in. VIBROTHERM DRIVE Composite Straight Impact Wrench",
+  "shortDescription": "1 in. VIBROTHERM DRIVE Composite Straight Impact Wrench",
+  "longDescription": "1 in. VIBROTHERM DRIVE Composite Straight Impact Wrench",
+  "pricing": {
+    "currentPrice": 728.14,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/331452296/aircat-air-impact-wrenches-1993-1-vxl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331452296/aircat-air-impact-wrenches-1993-1-vxl-64_100.jpg",
+        "altText": "1 in. VIBROTHERM DRIVE Composite Straight Impact Wrench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.476597"
+}

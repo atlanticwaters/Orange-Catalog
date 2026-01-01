@@ -1,0 +1,45 @@
+{
+  "productId": "206356257",
+  "identifiers": {
+    "internetNumber": "206356257",
+    "modelNumber": "",
+    "storeSkuNumber": "206356257"
+  },
+  "brand": {
+    "name": "Makita",
+    "logoUrl": "images/brands/makita.svg"
+  },
+  "title": "70 lb. 1-1/8 in. Hex Advanced AVT Breaker Hammer",
+  "shortDescription": "70 lb. 1-1/8 in. Hex Advanced AVT Breaker Hammer",
+  "longDescription": "70 lb. 1-1/8 in. Hex Advanced AVT Breaker Hammer",
+  "pricing": {
+    "currentPrice": 2689.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3333,
+    "count": 12
+  },
+  "media": {
+    "primaryImage": "/products/206356257/makita-demolition-breaker-hammers-hm1812x3-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206356257/makita-demolition-breaker-hammers-hm1812x3-64_100.jpg",
+        "altText": "70 lb. 1-1/8 in. Hex Advanced AVT Breaker Hammer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.698534"
+}

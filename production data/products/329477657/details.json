@@ -1,0 +1,45 @@
+{
+  "productId": "329477657",
+  "identifiers": {
+    "internetNumber": "329477657",
+    "modelNumber": "",
+    "storeSkuNumber": "329477657"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20-Volt MAX 3-3/8 in. Cordless Brushless Bandsaw (Tool-Only)",
+  "shortDescription": "20-Volt MAX 3-3/8 in. Cordless Brushless Bandsaw (Tool-Only)",
+  "longDescription": "20-Volt MAX 3-3/8 in. Cordless Brushless Bandsaw (Tool-Only)",
+  "pricing": {
+    "currentPrice": 349.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5806,
+    "count": 31
+  },
+  "media": {
+    "primaryImage": "/products/329477657/dewalt-portable-band-saws-dcs378b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329477657/dewalt-portable-band-saws-dcs378b-64_100.jpg",
+        "altText": "20-Volt MAX 3-3/8 in. Cordless Brushless Bandsaw (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.654689"
+}

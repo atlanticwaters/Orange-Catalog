@@ -1,0 +1,537 @@
+{
+  "categoryId": "tools/saws/circular-saws",
+  "name": "Circular Saws",
+  "slug": "circular-saws",
+  "path": "/categories/tools/saws/circular-saws",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.746559",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    },
+    {
+      "label": "Circular Saws",
+      "url": "/tools/saws/circular-saws"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 22
+  },
+  "featuredBrands": [
+    {
+      "brandId": "diablo",
+      "brandName": "DIABLO",
+      "logoUrl": "images/brands/diablo.svg",
+      "count": 7
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 6
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 4
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 2
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 1
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 1
+    },
+    {
+      "brandId": "skyshalo",
+      "brandName": "SKYSHALO",
+      "logoUrl": "images/brands/skyshalo.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "337442741",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium-Ion Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw with 20V 5 Ah & 2 Ah Batteries & Charger",
+      "rating": {
+        "average": 4.6487,
+        "count": 928
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bf0204fd-964d-4e2c-a0c3-cec263d3bc76/svn/dewalt-circular-saws-dcs565bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337133622",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless 5-3/8 in. Cordless Circular Saw Kit with Cut Off Saw Batteries and Charger",
+      "rating": {
+        "average": 4.3406,
+        "count": 1004
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c17f5d1-4329-4b3b-9460-9a1de164ccb9/svn/milwaukee-circular-saws-2521-21ho-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305111804",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "Tracking Point 7-1/4 in. x 24-Tooth Framing Circular Saw Blade (3-Pack)",
+      "rating": {
+        "average": 4.6956,
+        "count": 2750
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/faf16ca8-c57a-42bd-b591-f1bdd7e539a1/svn/diablo-circular-saw-blades-d0724r3-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 26.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100627136",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "7-1/4in. x 60-Tooth Ultra Finish Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7637,
+        "count": 1934
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/960c844b-b84f-4f74-843c-77bfb3e38cda/svn/diablo-circular-saw-blades-d0760r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100017783",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "7-1/4in. x 40-Tooth Finish Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7088,
+        "count": 1188
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc5d3ebb-d026-4c59-87ee-d6bfe7f511bb/svn/diablo-circular-saw-blades-d0740r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 14.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100098836",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "6-1/2in. x 24-Teeth Framing Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.6662,
+        "count": 743
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4ab4c5-e607-4001-9864-ff9441aa4dd6/svn/diablo-circular-saw-blades-d0624r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 10.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305505790",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "12 in. x 44-Tooth General Purpose Circular Saw Blade Value Pack (2-Pack)",
+      "rating": {
+        "average": 4.769,
+        "count": 316
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6835d3b1-b851-4466-9c3c-5e166d7b0794/svn/diablo-table-saw-blades-miter-saw-blades-d124444vp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305111806",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "6-1/2in. x 60-Tooth Ultra Finish Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7637,
+        "count": 1900
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cd4b6716-8ab5-4592-9a0e-b007a3b19aac/svn/diablo-circular-saw-blades-d0660r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 22.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202035229",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "6-1/2in. x 40-Tooth Finish Trim Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7887,
+        "count": 691
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cabd0ef4-3d5b-4a5d-8f46-61a310dbeb4b/svn/diablo-circular-saw-blades-d0641r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301282463",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V X2 LXT 5.0Ah Lithium-Ion (36V) Brushless Cordless Rear Handle 7-1/4 in. Circular Saw Kit",
+      "rating": {
+        "average": 4.7444,
+        "count": 1737
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cfc23621-2616-4c84-84a1-b9ab570dfbdd/svn/makita-circular-saws-xsr01pt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314001465",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.6037,
+        "count": 4209
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9de6b3b-65a7-4ed9-be14-751c46db9af9/svn/dewalt-circular-saws-dcs565b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329716947",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 6-1/2 in. Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5901,
+        "count": 705
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7a582fa8-4aba-4ff4-b09c-0ead3b2c35ec/svn/milwaukee-circular-saws-2833-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958982",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless 7-1/4 in. Circular Saw",
+      "rating": {
+        "average": 4.6692,
+        "count": 931
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2640d7c4-5946-4fd5-b56a-76f6597cd749/svn/ridgid-circular-saws-ac8609340sb-r8657b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 328.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337125811",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless 6-1/2 in. Circular Saw w/ FORGE XC 8.0 Ah Battery",
+      "rating": {
+        "average": 4.7156,
+        "count": 1343
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/27920752-d7ec-4aac-ac6c-07c3f10150f5/svn/milwaukee-circular-saws-2833-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312741235",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless Brushless 7-1/4 in. Circular Saw with Brake (Tool Only)",
+      "rating": {
+        "average": 4.6893,
+        "count": 1815
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/688626c2-caac-4d6f-a3fd-041c94acecf3/svn/dewalt-circular-saws-dcs578b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196549",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless 6-1/2 in. Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5737,
+        "count": 4781
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/469d7953-7d80-4c2b-b268-94a3caef0fe8/svn/milwaukee-circular-saws-2630-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332105045",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless 7-1/4 in. Rear Handle Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7093,
+        "count": 86
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6572d0d6-ef6d-4e2c-8906-cef94048bf22/svn/milwaukee-circular-saws-2930-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329790381",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 7-1/4 in. Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.622,
+        "count": 701
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/62e5f477-54d8-4f14-ab3c-43861e27058a/svn/milwaukee-circular-saws-2834-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203164241",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless 6.5 in. Sidewinder Style Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.553,
+        "count": 10626
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ad370214-3e66-4b07-b532-216be0ec783f/svn/dewalt-circular-saws-dcs391b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725327",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless 7-1/4 in. Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.5321,
+        "count": 109
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/47409652-658c-4049-a944-25a20a1140ad/svn/ryobi-circular-saws-pblcs302b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320033040",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact 6-1/2 in. Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.5597,
+        "count": 913
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1bcbcb0e-afdc-4528-9a3c-02d37853b768/svn/ryobi-circular-saws-psbcs01b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331831089",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Electric Concrete Saw, 12 in. 1,800 Watt 15 Amp Motor Circular Saw Cutter with Max. 4.5 in. Adjustable Cutting Depth Wet",
+      "rating": {
+        "average": 4.1818,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cbafa18a-8bb9-4426-9839-c4f3f79b75f3/svn/skyshalo-concrete-saws-ddhntj1800w12hek8v1-0718-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 164.69,
+        "currency": "USD"
+      }
+    }
+  ]
+}

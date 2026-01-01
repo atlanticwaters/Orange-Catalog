@@ -1,0 +1,45 @@
+{
+  "productId": "204068487",
+  "identifiers": {
+    "internetNumber": "204068487",
+    "modelNumber": "",
+    "storeSkuNumber": "204068487"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "80 Gal. Stationary Electric Air Compressor",
+  "shortDescription": "80 Gal. Stationary Electric Air Compressor",
+  "longDescription": "80 Gal. Stationary Electric Air Compressor",
+  "pricing": {
+    "currentPrice": 1798.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3143,
+    "count": 105
+  },
+  "media": {
+    "primaryImage": "/products/204068487/dewalt-stationary-air-compressors-dxcmv5048055-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204068487/dewalt-stationary-air-compressors-dxcmv5048055-64_100.jpg",
+        "altText": "80 Gal. Stationary Electric Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.516303"
+}

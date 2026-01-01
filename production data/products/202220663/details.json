@@ -1,0 +1,45 @@
+{
+  "productId": "202220663",
+  "identifiers": {
+    "internetNumber": "202220663",
+    "modelNumber": "",
+    "storeSkuNumber": "202220663"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "1/4 in. Industrial NPT Plug and Coupler Kit (4-Piece)",
+  "shortDescription": "1/4 in. Industrial NPT Plug and Coupler Kit (4-Piece)",
+  "longDescription": "1/4 in. Industrial NPT Plug and Coupler Kit (4-Piece)",
+  "pricing": {
+    "currentPrice": 11.68,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5308,
+    "count": 211
+  },
+  "media": {
+    "primaryImage": "/products/202220663/husky-air-tool-fittings-hda21900av-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202220663/husky-air-tool-fittings-hda21900av-64_100.jpg",
+        "altText": "1/4 in. Industrial NPT Plug and Coupler Kit (4-Piece)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.620755"
+}

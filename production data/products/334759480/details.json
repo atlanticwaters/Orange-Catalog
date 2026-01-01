@@ -1,0 +1,45 @@
+{
+  "productId": "334759480",
+  "identifiers": {
+    "internetNumber": "334759480",
+    "modelNumber": "",
+    "storeSkuNumber": "334759480"
+  },
+  "brand": {
+    "name": "FUFU&GAGA",
+    "logoUrl": "images/brands/fufugaga.svg"
+  },
+  "title": "Beige Wood Grain 8-Drawer 54.6 in. Width x 33.1 in. Height Wooden Dresser, Chest of Drawers with Large Storage Space",
+  "shortDescription": "Beige Wood Grain 8-Drawer 54.6 in. Width x 33.1 in. Height Wooden Dresser, Chest of Drawers with Large Storage Space",
+  "longDescription": "Beige Wood Grain 8-Drawer 54.6 in. Width x 33.1 in. Height Wooden Dresser, Chest of Drawers with Large Storage Space",
+  "pricing": {
+    "currentPrice": 215.69,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.125,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/334759480/beige-fufu-gaga-dressers-l-thd-260150-01-c-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334759480/beige-fufu-gaga-dressers-l-thd-260150-01-c-64_100.jpg",
+        "altText": "Beige Wood Grain 8-Drawer 54.6 in. Width x 33.1 in. Height Wooden Dresser, Chest of Drawers with Large Storage Space",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.598287"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "336959134",
+  "identifiers": {
+    "internetNumber": "336959134",
+    "modelNumber": "",
+    "storeSkuNumber": "336959134"
+  },
+  "brand": {
+    "name": "RIDGID",
+    "logoUrl": "images/brands/ridgid.svg"
+  },
+  "title": "18V 4.0 Ah Battery (2-Pack) with Charger, Bag, and 18V 4-1/2 in. Cordless Angle Grinder",
+  "shortDescription": "18V 4.0 Ah Battery (2-Pack) with Charger, Bag, and 18V 4-1/2 in. Cordless Angle Grinder",
+  "longDescription": "18V 4.0 Ah Battery (2-Pack) with Charger, Bag, and 18V 4-1/2 in. Cordless Angle Grinder",
+  "pricing": {
+    "currentPrice": 391.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7768,
+    "count": 3508
+  },
+  "media": {
+    "primaryImage": "/products/336959134/ridgid-angle-grinders-ac93044sbn-r860451b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/336959134/ridgid-angle-grinders-ac93044sbn-r860451b-64_100.jpg",
+        "altText": "18V 4.0 Ah Battery (2-Pack) with Charger, Bag, and 18V 4-1/2 in. Cordless Angle Grinder",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.687650"
+}

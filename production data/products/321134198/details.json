@@ -1,0 +1,45 @@
+{
+  "productId": "321134198",
+  "identifiers": {
+    "internetNumber": "321134198",
+    "modelNumber": "",
+    "storeSkuNumber": "321134198"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "12 cu. ft. Garage Ready Bottom Freezer Refrigerator in Fingerprint-Resistant Stainless Look",
+  "shortDescription": "12 cu. ft. Garage Ready Bottom Freezer Refrigerator in Fingerprint-Resistant Stainless Look",
+  "longDescription": "12 cu. ft. Garage Ready Bottom Freezer Refrigerator in Fingerprint-Resistant Stainless Look",
+  "pricing": {
+    "currentPrice": 1299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5347,
+    "count": 101
+  },
+  "media": {
+    "primaryImage": "/products/321134198/fingerprint-resistant-stainless-look-frigidaire-bottom-freezer-refrigerators-frbg1224av-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321134198/fingerprint-resistant-stainless-look-frigidaire-bottom-freezer-refrigerators-frbg1224av-64_100.jpg",
+        "altText": "12 cu. ft. Garage Ready Bottom Freezer Refrigerator in Fingerprint-Resistant Stainless Look",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.440094"
+}

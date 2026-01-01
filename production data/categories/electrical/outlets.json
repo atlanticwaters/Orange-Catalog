@@ -1,0 +1,137 @@
+{
+  "categoryId": "electrical/outlets",
+  "name": "Outlets",
+  "slug": "outlets",
+  "path": "/categories/electrical/outlets",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.716536",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Electrical",
+      "url": "/electrical"
+    },
+    {
+      "label": "Outlets",
+      "url": "/electrical/outlets"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 4
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 1
+    },
+    {
+      "brandId": "primefit",
+      "brandName": "Primefit",
+      "logoUrl": "images/brands/primefit.svg",
+      "count": 1
+    },
+    {
+      "brandId": "powermate",
+      "brandName": "Powermate",
+      "logoUrl": "images/brands/powermate.svg",
+      "count": 1
+    },
+    {
+      "brandId": "wen",
+      "brandName": "WEN",
+      "logoUrl": "images/brands/wen.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "336958667",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V High Pressure Portable Inflator Kit with 2.0 Ah Battery, Charger, and USB Portable Power Source with Activate Button",
+      "rating": {
+        "average": 4.646,
+        "count": 1771
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/98a31a4e-55fc-4924-ae05-038ddf4e3cad/svn/ridgid-inflators-r87044kn-ac86072b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 132.64,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317371235",
+      "modelNumber": "",
+      "brand": "Primefit",
+      "title": "FR3802G 3/8 in. Air Filter Regulator Combo with Pressure Gauge with Max Inlet 200 PSI and Max Outlet 160 PSI",
+      "rating": {
+        "average": 4.3611,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/664f5d1d-b72a-4eb0-9b9f-6822bd4e83c0/svn/primefit-air-pressure-regulators-fr3802g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 28.47,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202592873",
+      "modelNumber": "",
+      "brand": "Powermate",
+      "title": "1/4 in. NPT Inlet/Outlet x 1/8 in. NPT Gauge Pressure Regulator",
+      "rating": {
+        "average": 4.0909,
+        "count": 33
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/35e6c6d6-a91f-4037-8288-457794d1b305/svn/powermate-air-pressure-regulators-019-0167rp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306588128",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "Collapsible Rolling Miter Saw Stand with 3 Onboard Outlets",
+      "rating": {
+        "average": 4.2857,
+        "count": 343
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3dbf0256-6783-41ce-af29-32570f553823/svn/wen-tool-stands-msa330-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 97.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

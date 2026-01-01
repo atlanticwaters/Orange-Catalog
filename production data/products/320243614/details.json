@@ -2,323 +2,44 @@
   "productId": "320243614",
   "identifiers": {
     "internetNumber": "320243614",
-    "modelNumber": "GFE26JSMSS",
-    "storeSkuNumber": "1004934567",
-    "storeSoSkuNumber": "1004934567-SO",
-    "upc": "084691839163",
-    "manufacturerPartNumber": "GFE26JSMSS"
+    "modelNumber": "",
+    "storeSkuNumber": "320243614"
   },
   "brand": {
     "name": "GE",
-    "logoUrl": "https://images.thdstatic.com/catalog/brandLogos/ge-logo.svg",
-    "brandPageUrl": "/b/GE-Appliances/N-5yc1vZc3oo",
-    "series": "Standard"
+    "logoUrl": "images/brands/ge.svg"
   },
-  "title": "25.6 cu. ft. French Door Refrigerator in Stainless Steel, ENERGY STAR",
-  "shortDescription": "Space-saving design with 36-inch width fits most standard kitchen openings.",
-  "longDescription": "The GE 25.6 cu. ft. French Door Refrigerator offers a perfect balance of capacity and space efficiency. Designed to fit standard 36-inch wide kitchen openings, this refrigerator provides ample storage without sacrificing precious kitchen space. The external ice and water dispenser with Advanced Water Filtration reduces trace pharmaceuticals and 50+ contaminants for cleaner, fresher-tasting water. The factory-installed ice maker produces up to 8 lbs. of ice per day. TwinChill evaporators maintain separate climates in the fresh food and freezer sections for optimal food preservation.",
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "url": "/"
-    },
-    {
-      "label": "Appliances",
-      "url": "/b/Appliances/N-5yc1vZbv1w"
-    },
-    {
-      "label": "Refrigerators",
-      "url": "/b/Appliances-Refrigerators/N-5yc1vZc3pi"
-    },
-    {
-      "label": "French Door Refrigerators",
-      "url": "/b/Appliances-Refrigerators-French-Door-Refrigerators/N-5yc1vZc3oo"
-    }
-  ],
+  "title": "25.6 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+  "shortDescription": "25.6 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+  "longDescription": "25.6 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
   "pricing": {
-    "currentPrice": 1549.0,
-    "originalPrice": 2299.0,
-    "savings": 750.0,
-    "savingsPercent": 33,
-    "isOnSale": true,
-    "seeInCart": false,
-    "financing": {
-      "monthlyPayment": 130.0,
-      "term": 12,
-      "apr": 0
-    }
+    "currentPrice": 2899.0,
+    "currency": "USD"
   },
   "rating": {
-    "average": 4.3,
-    "count": 7234,
-    "recommendationPercent": 84,
-    "distribution": {
-      "5star": 4195,
-      "4star": 1591,
-      "3star": 796,
-      "2star": 362,
-      "1star": 290
-    }
+    "average": 4.0899,
+    "count": 4370
   },
   "media": {
-    "primaryImage": "https://images.thdstatic.com/productImages/ge-gfe26jsmss-64_1000.jpg",
+    "primaryImage": "/products/320243614/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe26jymfs-64_100.jpg",
     "images": [
       {
-        "url": "https://images.thdstatic.com/productImages/ge-gfe26jsmss-64_1000.jpg",
-        "altText": "GE French Door front view",
+        "url": "/products/320243614/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe26jymfs-64_100.jpg",
+        "altText": "25.6 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
         "type": "primary"
-      },
-      {
-        "url": "https://images.thdstatic.com/productImages/ge-gfe26jsmss-int_1000.jpg",
-        "altText": "Interior storage",
-        "type": "detail"
-      },
-      {
-        "url": "https://images.thdstatic.com/productImages/ge-gfe26jsmss-disp_1000.jpg",
-        "altText": "Water dispenser",
-        "type": "detail"
-      }
-    ],
-    "videos": [],
-    "threeSixtyView": null,
-    "augmentedReality": false
-  },
-  "variants": [
-    {
-      "variantId": "320243614",
-      "variantType": "Color/Finish",
-      "variantValue": "Stainless Steel",
-      "price": 1549.0,
-      "imageUrl": "https://images.thdstatic.com/productImages/ge-gfe26jsmss-64_400.jpg",
-      "swatchUrl": "french-door-images/imgi_67_bf5e6e0b-fd07-48db-bd54-f7d39dc73900_Stainless_Steel_Swatch__2_.jpg",
-      "inStock": true,
-      "isSelected": true
-    },
-    {
-      "variantId": "320243615",
-      "variantType": "Color/Finish",
-      "variantValue": "Slate",
-      "price": 1549.0,
-      "imageUrl": "https://images.thdstatic.com/productImages/ge-gfe26jsmss-slate-64_400.jpg",
-      "swatchUrl": "french-door-images/imgi_71_1023Refrigeration_Slate.jpg",
-      "inStock": true,
-      "isSelected": false
-    },
-    {
-      "variantId": "320243616",
-      "variantType": "Color/Finish",
-      "variantValue": "Black",
-      "price": 1449.0,
-      "imageUrl": "https://images.thdstatic.com/productImages/ge-gfe26jsmss-black-64_400.jpg",
-      "swatchUrl": "french-door-images/imgi_70_1023Refrigeration_Black.jpg",
-      "inStock": true,
-      "isSelected": false
-    }
-  ],
-  "keyFeatures": [
-    "25.6 cu. ft. capacity in 36-inch width",
-    "External ice and water dispenser",
-    "Advanced Water Filtration",
-    "TwinChill evaporators",
-    "Factory-installed ice maker",
-    "ENERGY STAR certified"
-  ],
-  "highlights": [
-    {
-      "icon": "capacity",
-      "label": "Total Capacity",
-      "value": "25.6 cu. ft."
-    },
-    {
-      "icon": "width",
-      "label": "Width",
-      "value": "36 in."
-    },
-    {
-      "icon": "filter",
-      "label": "Advanced Filtration",
-      "value": "Yes"
-    },
-    {
-      "icon": "energy",
-      "label": "ENERGY STAR",
-      "value": "Certified"
-    }
-  ],
-  "specifications": {
-    "dimensions": {
-      "productWidth": "35.75 in.",
-      "productHeight": "69.875 in.",
-      "productDepth": "35.75 in.",
-      "productWeight": "295 lbs.",
-      "packageWidth": "38 in.",
-      "packageHeight": "74 in.",
-      "packageDepth": "38 in.",
-      "packageWeight": "328 lbs."
-    },
-    "details": [
-      {
-        "groupName": "Capacity",
-        "attributes": [
-          {
-            "name": "Fresh Food Capacity",
-            "value": "17.5 cu. ft."
-          },
-          {
-            "name": "Freezer Capacity",
-            "value": "8.1 cu. ft."
-          },
-          {
-            "name": "Total Capacity",
-            "value": "25.6 cu. ft."
-          }
-        ]
-      },
-      {
-        "groupName": "Features",
-        "attributes": [
-          {
-            "name": "TwinChill Evaporators",
-            "value": "Yes"
-          },
-          {
-            "name": "Advanced Water Filtration",
-            "value": "Yes"
-          },
-          {
-            "name": "Ice Maker",
-            "value": "Factory Installed"
-          },
-          {
-            "name": "Ice Production",
-            "value": "8 lbs./day"
-          },
-          {
-            "name": "Ice/Water Dispenser",
-            "value": "External"
-          }
-        ]
-      }
-    ]
-  },
-  "badges": [
-    {
-      "type": "energyStar",
-      "label": "ENERGY STAR",
-      "iconUrl": "https://images.thdstatic.com/catalog/badges/energy-star.svg"
-    }
-  ],
-  "certifications": [
-    {
-      "name": "ENERGY STAR",
-      "logoUrl": "https://images.thdstatic.com/catalog/certifications/energystar.svg",
-      "description": "ENERGY STAR certified"
-    }
-  ],
-  "warranty": {
-    "manufacturerWarranty": "1-Year Limited Warranty",
-    "extendedWarrantyAvailable": true,
-    "warrantyDetails": "1-year parts and labor warranty"
-  },
-  "protectionPlan": {
-    "available": true,
-    "options": [
-      {
-        "term": 3,
-        "price": 129.0,
-        "coverage": "3-Year Protection Plan"
-      },
-      {
-        "term": 5,
-        "price": 199.0,
-        "coverage": "5-Year Protection Plan"
       }
     ]
   },
   "availability": {
-    "inStorePickup": {
-      "available": true,
-      "quantity": 5,
-      "storeName": "Home Depot #0901",
-      "storeId": "0901"
-    },
-    "delivery": {
-      "available": true,
-      "estimatedDate": "Dec 16 - Dec 20",
-      "freeDelivery": true,
-      "deliveryCharge": 0
-    },
-    "shipToHome": {
-      "available": false,
-      "estimatedDate": null,
-      "shippingCharge": null,
-      "freeShipping": false
-    }
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
   },
-  "services": {
-    "installation": {
-      "available": true,
-      "price": 159.0,
-      "description": "Professional installation"
-    },
-    "haulAway": {
-      "available": true,
-      "price": 25.0
-    },
-    "assembly": {
-      "available": false,
-      "price": null
-    }
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
   },
-  "requirements": [
-    {
-      "type": "electrical",
-      "description": "Requires 120V, 15A dedicated circuit"
-    },
-    {
-      "type": "water",
-      "description": "Water supply line required"
-    }
-  ],
-  "includedItems": [
-    "Refrigerator unit",
-    "Water filter",
-    "Ice maker",
-    "Owner's manual"
-  ],
-  "relatedProducts": {
-    "accessories": [
-      {
-        "productId": "305901234",
-        "title": "GE MWFP Water Filter",
-        "price": 49.98,
-        "imageUrl": "https://images.thdstatic.com/productImages/ge-mwfp-filter.jpg"
-      }
-    ],
-    "similar": [],
-    "frequentlyBoughtTogether": []
-  },
-  "questionsAndAnswers": {
-    "totalQuestions": 567,
-    "featured": []
-  },
-  "returnPolicy": {
-    "returnWindow": 90,
-    "returnWindowUnit": "days",
-    "specialPolicy": null
-  },
-  "limitPerOrder": 10,
-  "productUrl": "/p/GE-25-6-cu-ft-French-Door-Refrigerator-GFE26JSMSS/320243614",
-  "canonicalUrl": "https://www.homedepot.com/p/GE-25-6-cu-ft-French-Door-Refrigerator-GFE26JSMSS/320243614",
-  "seoMetadata": {
-    "title": "GE 25.6 cu. ft. French Door Refrigerator - GFE26JSMSS",
-    "description": "Space-efficient French door refrigerator with advanced water filtration and TwinChill evaporators. ENERGY STAR certified.",
-    "keywords": [
-      "GE refrigerator",
-      "french door",
-      "25.6 cu ft",
-      "ENERGY STAR",
-      "TwinChill"
-    ]
-  }
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.424829"
 }

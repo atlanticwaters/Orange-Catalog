@@ -24,7 +24,7 @@
   "filters": [],
   "quickFilters": [],
   "featuredBrands": [],
-  "heroImage": "images/12.avif",
+  "heroImage": "../images/heroes/12.avif",
   "productIds": [
     "205983654",
     "206468113",
@@ -78,359 +78,351 @@
     "600px": [
       {
         "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf29bb86004m-64_600.jpg"
+        "url": "../images/heroes/58.avif"
       },
       {
         "filename": "images/59.avif",
-        "url": "https://images.thdstatic.com/productImages/f08fc639-a68b-4b41-9e7a-e2c589ee474e/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf23bb86004m-64_600.jpg"
+        "url": "../images/heroes/59.avif"
       },
       {
         "filename": "images/60.avif",
-        "url": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg"
+        "url": "../images/heroes/60.avif"
       },
       {
         "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/f3824ac0-3b8e-4b46-b8cc-f56a5d572c96/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_600.jpg"
+        "url": "../images/heroes/61.avif"
       },
       {
         "filename": "images/62.avif",
-        "url": "https://images.thdstatic.com/productImages/5b111963-e652-4619-a4ac-59fe0319a51f/svn/charcoal-glass-matte-black-steel-samsung-french-door-refrigerators-rf29bb89008m-64_600.jpg"
+        "url": "../images/heroes/62.avif"
       },
       {
         "filename": "images/63.avif",
-        "url": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_600.jpg"
+        "url": "../images/ui/63.avif"
       },
       {
         "filename": "images/64.avif",
-        "url": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_600.jpg"
+        "url": "../images/heroes/64.avif"
       },
       {
         "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_600.jpg"
+        "url": "../images/heroes/65.avif"
       },
       {
         "filename": "images/66.avif",
-        "url": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_600.jpg"
+        "url": "../images/heroes/66.avif"
       },
       {
         "filename": "images/67.avif",
-        "url": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_600.jpg"
+        "url": "../images/heroes/67.avif"
       },
       {
         "filename": "images/68.avif",
-        "url": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_600.jpg"
+        "url": "../images/heroes/68.avif"
       },
       {
         "filename": "images/69.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_600.jpg"
+        "url": "../images/heroes/69.avif"
       },
       {
         "filename": "images/21.avif",
-        "url": "https://images.thdstatic.com/productImages/29f93a51-2df5-4a3f-98a0-389729f6a486/svn/dewalt-miter-saws-dcs714b-64_600.jpg"
+        "url": "../images/heroes/21.avif"
       },
       {
         "filename": "images/22.avif",
-        "url": "https://images.thdstatic.com/productImages/966bbd89-9fab-49b4-b4f5-0c250bd888bd/svn/dewalt-miter-saws-dcs714b-e4_600.jpg"
+        "url": "../images/heroes/22.avif"
       },
       {
         "filename": "images/23.avif",
-        "url": "https://images.thdstatic.com/productImages/b85e3118-6e96-4c1a-9f4c-f4879ec733f8/svn/dewalt-miter-saws-dws780-64_600.jpg"
+        "url": "../images/heroes/23.avif"
       },
       {
         "filename": "images/24.avif",
-        "url": "https://images.thdstatic.com/productImages/89ef215e-a0d1-4527-b5f0-d74003f0f839/svn/ridgid-miter-saws-ac8609340sb-r48607b-64_600.jpg"
+        "url": "../images/heroes/24.avif"
       },
       {
         "filename": "images/25.avif",
-        "url": "https://images.thdstatic.com/productImages/729e641d-d6fb-4b85-9ef9-caf17803dcab/svn/milwaukee-miter-saws-2739-21hd-64_600.jpg"
+        "url": "../images/heroes/25.avif"
       },
       {
         "filename": "images/27.avif",
-        "url": "https://images.thdstatic.com/productImages/2400eae9-0360-44e7-9d78-b547f9eed5cb/svn/ryobi-miter-saws-p553kn-64_600.jpg"
+        "url": "../images/heroes/27.avif"
       },
       {
         "filename": "images/28.avif",
-        "url": "https://images.thdstatic.com/productImages/6b6b73f8-0b36-4aa4-9219-2eabe2239b63/svn/dewalt-miter-saws-dws779-64_600.jpg"
+        "url": "../images/heroes/28.avif"
       },
       {
         "filename": "images/29.avif",
-        "url": "https://images.thdstatic.com/productImages/b4c2e55d-17ec-4075-a3c1-8a461e9fa8c2/svn/dewalt-miter-saws-dws779-e4_600.jpg"
+        "url": "../images/heroes/29.avif"
       },
       {
         "filename": "images/30.avif",
-        "url": "https://images.thdstatic.com/productImages/da0aec96-f8b1-46f0-9d89-b17333ac9b50/svn/ridgid-miter-saws-r4222-r213bnf-64_600.jpg"
+        "url": "../images/ui/30.avif"
       },
       {
         "filename": "images/33.avif",
-        "url": "https://images.thdstatic.com/productImages/304a04be-5af0-43a4-a2fe-d6574c8def0a/svn/ridgid-miter-saws-r4123-ac9946-64_600.jpg"
+        "url": "../images/heroes/33.avif"
       },
       {
         "filename": "images/20.avif",
-        "url": "https://images.thdstatic.com/productImages/1100a522-201c-446d-8357-7430813bbdba/svn/dewalt-miter-saws-dcs781x1wdwx724-64_600.jpg"
+        "url": "../images/heroes/20.avif"
       },
       {
         "filename": "images/26.avif",
-        "url": "https://images.thdstatic.com/productImages/56bb6d7a-7581-4845-80a1-dc6814c0787b/svn/milwaukee-miter-saws-2739-21hd-e4_600.jpg"
+        "url": "../images/heroes/26.avif"
       },
       {
         "filename": "images/31.avif",
-        "url": "https://images.thdstatic.com/productImages/95955bd5-9dc2-4e0b-87df-67699aef1d2d/svn/ryobi-miter-saws-tss103-a18ms01g-64_600.jpg"
+        "url": "../images/heroes/31.avif"
       },
       {
         "filename": "images/32.avif",
-        "url": "https://images.thdstatic.com/productImages/9f397399-2617-43c5-b378-6205985e5f94/svn/ridgid-miter-saws-r48607b-ac9946-64_600.jpg"
+        "url": "../images/ui/32.avif"
       },
       {
         "filename": "images/34.avif",
-        "url": "https://images.thdstatic.com/productImages/2662dcf2-7b03-43fb-b06c-dbe6c06615d1/svn/ryobi-miter-saws-tss103-64_600.jpg"
+        "url": "../images/ui/34.avif"
       },
       {
         "filename": "images/35.avif",
-        "url": "https://images.thdstatic.com/productImages/2615c7a2-a3eb-40b6-b8af-3ad3cfd5378c/svn/dewalt-miter-saws-dcs361bwcb2460c-64_600.jpg"
+        "url": "../images/heroes/35.avif"
       },
       {
         "filename": "images/36.webp",
-        "url": "https://images.thdstatic.com/productImages/0d296be6-a803-453a-b0bd-0e13ddb85c98/svn/milwaukee-miter-saws-2734-20-64_600.jpg"
+        "url": "../images/heroes/36.webp"
       },
       {
         "filename": "images/37.avif",
-        "url": "https://images.thdstatic.com/productImages/4c955a06-76a1-4193-9863-633f88c24aec/svn/ridgid-miter-saws-r4222-64_600.jpg"
+        "url": "../images/heroes/37.avif"
       },
       {
         "filename": "images/39.avif",
-        "url": "https://images.thdstatic.com/productImages/33aabedc-9f8f-4cd8-b6e8-3a902eeb492b/svn/ryobi-miter-saws-ts1144-a18ms01g-64_600.jpg"
+        "url": "../images/heroes/39.avif"
       },
       {
         "filename": "images/40.avif",
-        "url": "https://images.thdstatic.com/productImages/46197d70-d472-45a7-aef4-70c06c4165ea/svn/dewalt-miter-saws-dws715w723-64_600.jpg"
+        "url": "../images/ui/40.avif"
       },
       {
         "filename": "images/41.avif",
-        "url": "https://images.thdstatic.com/productImages/96944e01-0d09-420f-a67c-c7fff93ddc29/svn/ryobi-miter-saws-ts1346-64_600.jpg"
+        "url": "../images/heroes/41.avif"
       },
       {
         "filename": "images/42.avif",
-        "url": "https://images.thdstatic.com/productImages/c46dfdf9-aa3e-43b4-b6a4-66b4dfe70cfd/svn/ryobi-miter-saws-tss121-p326-64_600.jpg"
+        "url": "../images/heroes/42.avif"
       },
       {
         "filename": "images/43.avif",
-        "url": "https://images.thdstatic.com/productImages/1a9cd73e-f755-4c42-bfc1-f2f5c64ee850/svn/dewalt-miter-saws-dcs361m1w334b-64_600.jpg"
+        "url": "../images/heroes/43.avif"
       },
       {
         "filename": "images/44.avif",
-        "url": "https://images.thdstatic.com/productImages/5c46ac25-5e00-459e-aa71-ac3fba6dc07b/svn/ryobi-miter-saws-pblms01b-a18ms01g-64_600.jpg"
+        "url": "../images/heroes/44.avif"
       },
       {
         "filename": "images/45.avif",
-        "url": "https://images.thdstatic.com/productImages/e0a74346-089c-4a63-b9a9-938f4399eb45/svn/ridgid-miter-saws-r4222-ac9946-64_600.jpg"
+        "url": "../images/heroes/45.avif"
       },
       {
         "filename": "images/47.avif",
-        "url": "https://images.thdstatic.com/productImages/6a4d8753-4cce-4256-8510-f87b0e3dc1b6/svn/ryobi-miter-saws-ts1346-e4_600.jpg"
+        "url": "../images/heroes/47.avif"
       },
       {
         "filename": "images/46.avif",
-        "url": "https://images.thdstatic.com/productImages/760176da-04d7-4b2a-8a34-9708fe9ec3e1/svn/milwaukee-miter-saws-2734-21-64_600.jpg"
+        "url": "../images/heroes/46.avif"
       },
       {
         "filename": "images/48.avif",
-        "url": "https://images.thdstatic.com/productImages/7c8b4f0e-326a-4db2-9b10-465f1fb75966/svn/dewalt-miter-saws-dcs781b-64_600.jpg"
+        "url": "../images/heroes/48.avif"
       },
       {
         "filename": "images/49.avif",
-        "url": "https://images.thdstatic.com/productImages/3c8eeeb9-be63-4fa0-a968-a9fb61e733e6/svn/dewalt-miter-saws-dcs361b-64_600.jpg"
+        "url": "../images/ui/49.avif"
       },
       {
         "filename": "images/50.webp",
-        "url": "https://images.thdstatic.com/productImages/f4eb9f0e-725f-477b-81eb-41cd08ff749c/svn/dewalt-miter-saws-dcs361m1-64_600.jpg"
+        "url": "../images/products/50.webp"
       },
       {
         "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/2deb1e5c-47b3-4ddb-af8d-8f5b54a6e7bd/svn/dewalt-miter-saws-dws716-64_600.jpg"
+        "url": "../images/heroes/51.avif"
       },
       {
         "filename": "images/52.avif",
-        "url": "https://images.thdstatic.com/productImages/30991cc5-45ce-4e3a-8125-b0fa94edcc75/svn/milwaukee-miter-saws-2733-20-64_600.jpg"
+        "url": "../images/heroes/52.avif"
       },
       {
         "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/265b9996-b686-4af2-89bf-02d1d0dafbe5/svn/ryobi-miter-saws-pblms01b-64_600.jpg"
+        "url": "../images/ui/53.avif"
       },
       {
         "filename": "images/54.avif",
-        "url": "https://images.thdstatic.com/productImages/285ea7c6-6fb6-480f-ae7a-e6e4d555dc51/svn/dewalt-miter-saws-dws715-64_600.jpg"
+        "url": "../images/heroes/54.avif"
       },
       {
         "filename": "images/55.avif",
-        "url": "https://images.thdstatic.com/productImages/96fd191c-43e2-4044-a321-ed39c042ab74/svn/dewalt-miter-saws-dcs781x1-64_600.jpg"
+        "url": "../images/ui/55.avif"
       },
       {
         "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/fda4d78a-f801-4872-96c7-cf4cfe128065/svn/milwaukee-miter-saws-2739-21hd-48-08-0551-64_600.jpg"
+        "url": "../images/heroes/56.avif"
       },
       {
         "filename": "images/38.avif",
-        "url": "https://images.thdstatic.com/productImages/a63213b4-f85f-47a2-a768-4c9404e9d413/svn/milwaukee-miter-saws-2734-21-2746-20-64_600.jpg"
+        "url": "../images/heroes/38.avif"
       },
       {
         "filename": "images/57.avif",
-        "url": "https://images.thdstatic.com/productImages/8510c662-f8ae-4794-9242-4f606602f0cc/svn/ryobi-miter-saws-pbt01b-64_600.jpg"
+        "url": "../images/heroes/57.avif"
       }
     ],
     "svgs": [
       {
-        "filename": "images/10.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
-      },
-      {
         "filename": "images/74.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+        "url": "../images/brands/74.svg"
       },
       {
         "filename": "images/75.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+        "url": "../images/brands/75.svg"
       },
       {
         "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+        "url": "../images/brands/76.svg"
       },
       {
         "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
+        "url": "../images/brands/77.svg"
       },
       {
         "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
+        "url": "../images/brands/78.svg"
       },
       {
         "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
+        "url": "../images/brands/79.svg"
       },
       {
         "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
+        "url": "../images/brands/80.svg"
       },
       {
         "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
+        "url": "../images/brands/81.svg"
       },
       {
         "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
+        "url": "../images/brands/82.svg"
       },
       {
         "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
+        "url": "../images/brands/83.svg"
       },
       {
         "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
+        "url": "../images/brands/84.svg"
       },
       {
         "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
+        "url": "../images/brands/85.svg"
       },
       {
         "filename": "images/86.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
+        "url": "../images/brands/86.svg"
       },
       {
         "filename": "images/87.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
+        "url": "../images/brands/87.svg"
       },
       {
         "filename": "images/88.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
+        "url": "../images/brands/88.svg"
       },
       {
         "filename": "images/89.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
+        "url": "../images/brands/89.svg"
       },
       {
         "filename": "images/90.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
+        "url": "../images/brands/90.svg"
       },
       {
         "filename": "images/91.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
+        "url": "../images/brands/91.svg"
       },
       {
         "filename": "images/92.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
+        "url": "../images/brands/92.svg"
       },
       {
         "filename": "images/93.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
+        "url": "../images/brands/93.svg"
       },
       {
         "filename": "images/94.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
+        "url": "../images/brands/94.svg"
       },
       {
         "filename": "images/95.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
+        "url": "../images/brands/95.svg"
       },
       {
         "filename": "images/96.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
+        "url": "../images/brands/96.svg"
       },
       {
         "filename": "images/97.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
+        "url": "../images/brands/97.svg"
       }
     ],
     "other": [
       {
-        "filename": "images/11.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
-      },
-      {
         "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+        "url": "../images/heroes/12.avif"
       },
       {
         "filename": "images/19.avif",
-        "url": "https://assets.thdstatic.com/images/special-buy--pod.jpg"
+        "url": "../images/heroes/19.avif"
       },
       {
         "filename": "images/70.avif",
-        "url": "https://images.thdstatic.com/productImages/b85e3118-6e96-4c1a-9f4c-f4879ec733f8/svn/dewalt-miter-saws-dws780-64_300.jpg"
+        "url": "../images/heroes/70.avif"
       },
       {
         "filename": "images/13.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/b8/b85e3118-6e96-4c1a-9f4c-f4879ec733f8_300.jpg"
+        "url": "../images/heroes/13.avif"
       },
       {
         "filename": "images/14.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/30/30991cc5-45ce-4e3a-8125-b0fa94edcc75_300.jpg"
+        "url": "../images/heroes/14.avif"
       },
       {
         "filename": "images/15.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/96/96944e01-0d09-420f-a67c-c7fff93ddc29_300.jpg"
+        "url": "../images/heroes/15.avif"
       },
       {
         "filename": "images/16.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/26/2662dcf2-7b03-43fb-b06c-dbe6c06615d1_300.jpg"
+        "url": "../images/heroes/16.avif"
       },
       {
         "filename": "images/17.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/2c/2c34fc8e-6545-480c-91ba-3b2563956244_300.jpg"
+        "url": "../images/heroes/17.avif"
       },
       {
         "filename": "images/18.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/6b/6b6b73f8-0b36-4aa4-9219-2eabe2239b63_300.jpg"
+        "url": "../images/ui/18.avif"
       },
       {
         "filename": "images/71.avif",
-        "url": "https://images.thdstatic.com/productImages/760176da-04d7-4b2a-8a34-9708fe9ec3e1/svn/milwaukee-miter-saws-2734-21-64_300.jpg"
+        "url": "../images/heroes/71.avif"
       },
       {
         "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/4c955a06-76a1-4193-9863-633f88c24aec/svn/ridgid-miter-saws-r4222-64_300.jpg"
+        "url": "../images/ui/72.avif"
       },
       {
         "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/96944e01-0d09-420f-a67c-c7fff93ddc29/svn/ryobi-miter-saws-ts1346-64_300.jpg"
+        "url": "../images/heroes/73.avif"
       }
     ]
   },

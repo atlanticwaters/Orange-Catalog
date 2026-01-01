@@ -1,0 +1,45 @@
+{
+  "productId": "300844995",
+  "identifiers": {
+    "internetNumber": "300844995",
+    "modelNumber": "",
+    "storeSkuNumber": "300844995"
+  },
+  "brand": {
+    "name": "Bosch",
+    "logoUrl": "images/brands/bosch.svg"
+  },
+  "title": "8.5 Amp Corded 1-1/8 in. SDS-Plus Variable Speed Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+  "shortDescription": "8.5 Amp Corded 1-1/8 in. SDS-Plus Variable Speed Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+  "longDescription": "8.5 Amp Corded 1-1/8 in. SDS-Plus Variable Speed Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+  "pricing": {
+    "currentPrice": 269.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.645,
+    "count": 200
+  },
+  "media": {
+    "primaryImage": "/products/300844995/bosch-rotary-hammers-gbh2-28l-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/300844995/bosch-rotary-hammers-gbh2-28l-64_100.jpg",
+        "altText": "8.5 Amp Corded 1-1/8 in. SDS-Plus Variable Speed Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.703731"
+}

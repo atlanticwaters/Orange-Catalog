@@ -1,0 +1,45 @@
+{
+  "productId": "316146433",
+  "identifiers": {
+    "internetNumber": "316146433",
+    "modelNumber": "",
+    "storeSkuNumber": "316146433"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "4.5 cu. ft. 2 Door Mini Fridge in Chrome Trim and Platinum Design with Freezer and Manual Defrost",
+  "shortDescription": "4.5 cu. ft. 2 Door Mini Fridge in Chrome Trim and Platinum Design with Freezer and Manual Defrost",
+  "longDescription": "4.5 cu. ft. 2 Door Mini Fridge in Chrome Trim and Platinum Design with Freezer and Manual Defrost",
+  "pricing": {
+    "currentPrice": 269.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2254,
+    "count": 71
+  },
+  "media": {
+    "primaryImage": "/products/316146433/platinum-black-finish-frigidaire-mini-fridges-efr451-c-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316146433/platinum-black-finish-frigidaire-mini-fridges-efr451-c-64_100.jpg",
+        "altText": "4.5 cu. ft. 2 Door Mini Fridge in Chrome Trim and Platinum Design with Freezer and Manual Defrost",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.429735"
+}

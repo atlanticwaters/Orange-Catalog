@@ -1,0 +1,45 @@
+{
+  "productId": "333471482",
+  "identifiers": {
+    "internetNumber": "333471482",
+    "modelNumber": "",
+    "storeSkuNumber": "333471482"
+  },
+  "brand": {
+    "name": "Magic Home",
+    "logoUrl": "images/brands/magic-home.svg"
+  },
+  "title": "Set of 2 Linen Accent Arm Chair with Cloud Overstuffed Deep Seat Cushion and Pine Wood Frame in White",
+  "shortDescription": "Set of 2 Linen Accent Arm Chair with Cloud Overstuffed Deep Seat Cushion and Pine Wood Frame in White",
+  "longDescription": "Set of 2 Linen Accent Arm Chair with Cloud Overstuffed Deep Seat Cushion and Pine Wood Frame in White",
+  "pricing": {
+    "currentPrice": 905.86,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/333471482/white-magic-home-accent-chairs-mh-120we-1-1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/333471482/white-magic-home-accent-chairs-mh-120we-1-1-64_100.jpg",
+        "altText": "Set of 2 Linen Accent Arm Chair with Cloud Overstuffed Deep Seat Cushion and Pine Wood Frame in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.579969"
+}

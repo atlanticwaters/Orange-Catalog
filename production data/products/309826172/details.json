@@ -1,0 +1,45 @@
+{
+  "productId": "309826172",
+  "identifiers": {
+    "internetNumber": "309826172",
+    "modelNumber": "",
+    "storeSkuNumber": "309826172"
+  },
+  "brand": {
+    "name": "California Air Tools",
+    "logoUrl": "images/brands/california-air-tools.svg"
+  },
+  "title": "10 Gal. 2.0 HP Ultra-Quiet and Oil-Free Electric Stationary Air Compressor with Auto Drain",
+  "shortDescription": "10 Gal. 2.0 HP Ultra-Quiet and Oil-Free Electric Stationary Air Compressor with Auto Drain",
+  "longDescription": "10 Gal. 2.0 HP Ultra-Quiet and Oil-Free Electric Stationary Air Compressor with Auto Drain",
+  "pricing": {
+    "currentPrice": 495.45,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 11
+  },
+  "media": {
+    "primaryImage": "/products/309826172/california-air-tools-stationary-air-compressors-10020chad-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309826172/california-air-tools-stationary-air-compressors-10020chad-64_100.jpg",
+        "altText": "10 Gal. 2.0 HP Ultra-Quiet and Oil-Free Electric Stationary Air Compressor with Auto Drain",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.557976"
+}

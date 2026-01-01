@@ -1,0 +1,45 @@
+{
+  "productId": "100019500",
+  "identifiers": {
+    "internetNumber": "100019500",
+    "modelNumber": "",
+    "storeSkuNumber": "100019500"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "1/4 in. Universal Male Coupler",
+  "shortDescription": "1/4 in. Universal Male Coupler",
+  "longDescription": "1/4 in. Universal Male Coupler",
+  "pricing": {
+    "currentPrice": 4.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6389,
+    "count": 108
+  },
+  "media": {
+    "primaryImage": "/products/100019500/husky-air-tool-fittings-hdb20600av-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100019500/husky-air-tool-fittings-hdb20600av-64_100.jpg",
+        "altText": "1/4 in. Universal Male Coupler",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.620856"
+}

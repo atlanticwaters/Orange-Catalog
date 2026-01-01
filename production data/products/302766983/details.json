@@ -1,0 +1,45 @@
+{
+  "productId": "302766983",
+  "identifiers": {
+    "internetNumber": "302766983",
+    "modelNumber": "",
+    "storeSkuNumber": "302766983"
+  },
+  "brand": {
+    "name": "AIRCAT",
+    "logoUrl": "images/brands/aircat.svg"
+  },
+  "title": "Composite 3/8 in. Reversible Drill with Keyless Chuck",
+  "shortDescription": "Composite 3/8 in. Reversible Drill with Keyless Chuck",
+  "longDescription": "Composite 3/8 in. Reversible Drill with Keyless Chuck",
+  "pricing": {
+    "currentPrice": 129.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.3333,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/302766983/aircat-air-drills-4338-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/302766983/aircat-air-drills-4338-64_100.jpg",
+        "altText": "Composite 3/8 in. Reversible Drill with Keyless Chuck",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.553569"
+}

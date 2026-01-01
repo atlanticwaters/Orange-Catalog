@@ -1,0 +1,45 @@
+{
+  "productId": "100011483",
+  "identifiers": {
+    "internetNumber": "100011483",
+    "modelNumber": "",
+    "storeSkuNumber": "100011483"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "15 Amp Corded 13 in. Planer",
+  "shortDescription": "15 Amp Corded 13 in. Planer",
+  "longDescription": "15 Amp Corded 13 in. Planer",
+  "pricing": {
+    "currentPrice": 769.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3457,
+    "count": 457
+  },
+  "media": {
+    "primaryImage": "/products/100011483/yellow-dewalt-planers-dw735-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100011483/yellow-dewalt-planers-dw735-64_100.jpg",
+        "altText": "15 Amp Corded 13 in. Planer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.663745"
+}

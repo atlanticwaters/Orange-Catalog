@@ -1,0 +1,45 @@
+{
+  "productId": "322848196",
+  "identifiers": {
+    "internetNumber": "322848196",
+    "modelNumber": "",
+    "storeSkuNumber": "322848196"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "27 in. W 1 cu. ft. Pedestal Front Load Washer Slim DD Motor in Black Steel",
+  "shortDescription": "27 in. W 1 cu. ft. Pedestal Front Load Washer Slim DD Motor in Black Steel",
+  "longDescription": "27 in. W 1 cu. ft. Pedestal Front Load Washer Slim DD Motor in Black Steel",
+  "pricing": {
+    "currentPrice": 699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3562,
+    "count": 73
+  },
+  "media": {
+    "primaryImage": "/products/322848196/black-steel-lg-front-load-washers-wd300cb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/322848196/black-steel-lg-front-load-washers-wd300cb-64_100.jpg",
+        "altText": "27 in. W 1 cu. ft. Pedestal Front Load Washer Slim DD Motor in Black Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.555792"
+}

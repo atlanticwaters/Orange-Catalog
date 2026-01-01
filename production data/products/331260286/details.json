@@ -1,0 +1,45 @@
+{
+  "productId": "331260286",
+  "identifiers": {
+    "internetNumber": "331260286",
+    "modelNumber": "",
+    "storeSkuNumber": "331260286"
+  },
+  "brand": {
+    "name": "Coaster",
+    "logoUrl": "images/brands/coaster.svg"
+  },
+  "title": "Owens 96 in. Tall Walnut and Sandy Black Wood 6-Shelf Ladder Bookcase",
+  "shortDescription": "Owens 96 in. Tall Walnut and Sandy Black Wood 6-Shelf Ladder Bookcase",
+  "longDescription": "Owens 96 in. Tall Walnut and Sandy Black Wood 6-Shelf Ladder Bookcase",
+  "pricing": {
+    "currentPrice": 295.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/331260286/walnut-sandy-black-coaster-bookcases-bookshelves-980072-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331260286/walnut-sandy-black-coaster-bookcases-bookshelves-980072-64_100.jpg",
+        "altText": "Owens 96 in. Tall Walnut and Sandy Black Wood 6-Shelf Ladder Bookcase",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.578080"
+}

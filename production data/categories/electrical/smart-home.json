@@ -1,0 +1,77 @@
+{
+  "categoryId": "electrical/smart-home",
+  "name": "Smart Home",
+  "slug": "smart-home",
+  "path": "/categories/electrical/smart-home",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:07:23.866129",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Electrical",
+      "url": "/electrical"
+    },
+    {
+      "label": "Smart Home",
+      "url": "/electrical/smart-home"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2
+  },
+  "featuredBrands": [
+    {
+      "brandId": "lutron",
+      "brandName": "Lutron",
+      "logoUrl": "images/brands/lutron.svg",
+      "count": 2
+    }
+  ],
+  "products": [
+    {
+      "productId": "339421858",
+      "modelNumber": "",
+      "brand": "Lutron",
+      "title": "Caseta Smart Lighting Switch (2 Count) Starter Kit, Neutral Wire Required (CASETA-2SWITCH)",
+      "rating": {
+        "average": 4.5056,
+        "count": 356
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308136313",
+      "modelNumber": "",
+      "brand": "Lutron",
+      "title": "Caseta Smart Dimmer Switch and Remote Kit for Wall and Ceiling Lights, 150-Watt LED Bulbs (P-PKG1W-2PK-WH) (2-Pack)",
+      "rating": {
+        "average": 4.7317,
+        "count": 615
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0dd97ba3-3560-41ec-a222-9fbada87266f/svn/white-lutron-dimmers-p-pkg1w-2pk-wh-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.9,
+        "currency": "USD"
+      }
+    }
+  ]
+}

@@ -1,10 +1,148 @@
 {
-  "categories": 88,
-  "products": 30,
-  "images": {
-    "products": 175,
-    "brands": 185,
-    "ui": 11,
-    "heroes": 168
-  }
+  "version": "1.0",
+  "generatedAt": "2025-12-31T22:30:04.749732",
+  "dataStats": {
+    "totalCategories": 76,
+    "totalProducts": 3001,
+    "totalBrands": 372,
+    "categoriesWithProducts": 76
+  },
+  "topBrands": [
+    {
+      "name": "Milwaukee",
+      "productCount": 271
+    },
+    {
+      "name": "Husky",
+      "productCount": 228
+    },
+    {
+      "name": "DEWALT",
+      "productCount": 183
+    },
+    {
+      "name": "RIDGID",
+      "productCount": 127
+    },
+    {
+      "name": "Unknown",
+      "productCount": 111
+    },
+    {
+      "name": "Nearly Natural",
+      "productCount": 111
+    },
+    {
+      "name": "RYOBI",
+      "productCount": 106
+    },
+    {
+      "name": "GE",
+      "productCount": 92
+    },
+    {
+      "name": "LG",
+      "productCount": 86
+    },
+    {
+      "name": "Whirlpool",
+      "productCount": 64
+    },
+    {
+      "name": "Frigidaire",
+      "productCount": 58
+    },
+    {
+      "name": "Samsung",
+      "productCount": 53
+    },
+    {
+      "name": "Makita",
+      "productCount": 49
+    },
+    {
+      "name": "AIRCAT",
+      "productCount": 45
+    },
+    {
+      "name": "KitchenAid",
+      "productCount": 31
+    },
+    {
+      "name": "FUFU&GAGA",
+      "productCount": 29
+    },
+    {
+      "name": "Harper & Bright Designs",
+      "productCount": 28
+    },
+    {
+      "name": "DR.Planzen",
+      "productCount": 24
+    },
+    {
+      "name": "Porter-Cable",
+      "productCount": 24
+    },
+    {
+      "name": "California Air Tools",
+      "productCount": 22
+    }
+  ],
+  "departments": [
+    {
+      "name": "Appliances",
+      "slug": "appliances",
+      "categoryCount": 20,
+      "productCount": 621
+    },
+    {
+      "name": "Automotive",
+      "slug": "automotive",
+      "categoryCount": 4,
+      "productCount": 55
+    },
+    {
+      "name": "Electrical",
+      "slug": "electrical",
+      "categoryCount": 4,
+      "productCount": 36
+    },
+    {
+      "name": "Furniture",
+      "slug": "furniture",
+      "categoryCount": 4,
+      "productCount": 260
+    },
+    {
+      "name": "Garage",
+      "slug": "garage",
+      "categoryCount": 3,
+      "productCount": 167
+    },
+    {
+      "name": "Home Decor",
+      "slug": "home-decor",
+      "categoryCount": 8,
+      "productCount": 321
+    },
+    {
+      "name": "Other",
+      "slug": "other",
+      "categoryCount": 0,
+      "productCount": 619
+    },
+    {
+      "name": "Storage",
+      "slug": "storage",
+      "categoryCount": 2,
+      "productCount": 27
+    },
+    {
+      "name": "Tools",
+      "slug": "tools",
+      "categoryCount": 27,
+      "productCount": 895
+    }
+  ]
 }

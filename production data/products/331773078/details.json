@@ -1,0 +1,45 @@
+{
+  "productId": "331773078",
+  "identifiers": {
+    "internetNumber": "331773078",
+    "modelNumber": "",
+    "storeSkuNumber": "331773078"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "Multi-Purpose Microfiber Cleaning Towels 25PK",
+  "shortDescription": "Multi-Purpose Microfiber Cleaning Towels 25PK",
+  "longDescription": "Multi-Purpose Microfiber Cleaning Towels 25PK",
+  "pricing": {
+    "currentPrice": 14.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5926,
+    "count": 27
+  },
+  "media": {
+    "primaryImage": "/products/331773078/car-detailing-kits-mpx-686767-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331773078/car-detailing-kits-mpx-686767-64_100.jpg",
+        "altText": "Multi-Purpose Microfiber Cleaning Towels 25PK",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.615537"
+}

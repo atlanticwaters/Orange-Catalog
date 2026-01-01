@@ -1,0 +1,45 @@
+{
+  "productId": "327443766",
+  "identifiers": {
+    "internetNumber": "327443766",
+    "modelNumber": "",
+    "storeSkuNumber": "327443766"
+  },
+  "brand": {
+    "name": "CERAKOTE",
+    "logoUrl": "images/brands/cerakote.svg"
+  },
+  "title": "12 oz. Rapid Ceramic Paint Sealant Bottle",
+  "shortDescription": "12 oz. Rapid Ceramic Paint Sealant Bottle",
+  "longDescription": "12 oz. Rapid Ceramic Paint Sealant Bottle",
+  "pricing": {
+    "currentPrice": 16.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.619,
+    "count": 84
+  },
+  "media": {
+    "primaryImage": "/products/327443766/cerakote-car-washing-supplies-ah-rcpaint12-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327443766/cerakote-car-washing-supplies-ah-rcpaint12-64_100.jpg",
+        "altText": "12 oz. Rapid Ceramic Paint Sealant Bottle",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.615857"
+}

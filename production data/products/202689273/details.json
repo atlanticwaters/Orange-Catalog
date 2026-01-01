@@ -1,0 +1,45 @@
+{
+  "productId": "202689273",
+  "identifiers": {
+    "internetNumber": "202689273",
+    "modelNumber": "",
+    "storeSkuNumber": "202689273"
+  },
+  "brand": {
+    "name": "Best Barns",
+    "logoUrl": "images/brands/best-barns.svg"
+  },
+  "title": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Tasteful Gable Roof Design",
+  "shortDescription": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Tasteful Gable Roof Design",
+  "longDescription": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Tasteful Gable Roof Design",
+  "pricing": {
+    "currentPrice": 4380.77,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/202689273/clear-best-barns-garages-ttitnd24-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202689273/clear-best-barns-garages-ttitnd24-64_100.jpg",
+        "altText": "Tailored Titan 12 ft. x 24 ft. Wood Garage Kit with High Side Walls and Tasteful Gable Roof Design",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.582650"
+}

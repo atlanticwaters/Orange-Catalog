@@ -1,0 +1,45 @@
+{
+  "productId": "312871969",
+  "identifiers": {
+    "internetNumber": "312871969",
+    "modelNumber": "",
+    "storeSkuNumber": "312871969"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V MAX XR Cordless Brushless 3-Speed Oscillating Multi Tool with (1) 20V 1.5Ah Battery and Charger",
+  "shortDescription": "20V MAX XR Cordless Brushless 3-Speed Oscillating Multi Tool with (1) 20V 1.5Ah Battery and Charger",
+  "longDescription": "20V MAX XR Cordless Brushless 3-Speed Oscillating Multi Tool with (1) 20V 1.5Ah Battery and Charger",
+  "pricing": {
+    "currentPrice": 129.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7559,
+    "count": 1282
+  },
+  "media": {
+    "primaryImage": "/products/312871969/dewalt-oscillating-tools-dcs356c1-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312871969/dewalt-oscillating-tools-dcs356c1-64_100.jpg",
+        "altText": "20V MAX XR Cordless Brushless 3-Speed Oscillating Multi Tool with (1) 20V 1.5Ah Battery and Charger",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.693948"
+}

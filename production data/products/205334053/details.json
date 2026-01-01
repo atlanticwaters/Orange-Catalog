@@ -1,0 +1,45 @@
+{
+  "productId": "205334053",
+  "identifiers": {
+    "internetNumber": "205334053",
+    "modelNumber": "",
+    "storeSkuNumber": "205334053"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "1-1/8 in. Corded SDS-Plus Rotary Hammer",
+  "shortDescription": "1-1/8 in. Corded SDS-Plus Rotary Hammer",
+  "longDescription": "1-1/8 in. Corded SDS-Plus Rotary Hammer",
+  "pricing": {
+    "currentPrice": 299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4486,
+    "count": 214
+  },
+  "media": {
+    "primaryImage": "/products/205334053/milwaukee-rotary-hammers-5268-21-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205334053/milwaukee-rotary-hammers-5268-21-64_100.jpg",
+        "altText": "1-1/8 in. Corded SDS-Plus Rotary Hammer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.703384"
+}

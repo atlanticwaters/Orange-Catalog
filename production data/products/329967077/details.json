@@ -1,0 +1,45 @@
+{
+  "productId": "329967077",
+  "identifiers": {
+    "internetNumber": "329967077",
+    "modelNumber": "",
+    "storeSkuNumber": "329967077"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18-Volt 2000 Lumens Lithium-Ion Cordless Rover LED Clamping Flood Light (Tool Only)",
+  "shortDescription": "M18 18-Volt 2000 Lumens Lithium-Ion Cordless Rover LED Clamping Flood Light (Tool Only)",
+  "longDescription": "M18 18-Volt 2000 Lumens Lithium-Ion Cordless Rover LED Clamping Flood Light (Tool Only)",
+  "pricing": {
+    "currentPrice": 79.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8154,
+    "count": 65
+  },
+  "media": {
+    "primaryImage": "/products/329967077/milwaukee-jobsite-lighting-2358-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329967077/milwaukee-jobsite-lighting-2358-20-64_100.jpg",
+        "altText": "M18 18-Volt 2000 Lumens Lithium-Ion Cordless Rover LED Clamping Flood Light (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.666679"
+}

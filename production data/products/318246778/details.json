@@ -1,0 +1,45 @@
+{
+  "productId": "318246778",
+  "identifiers": {
+    "internetNumber": "318246778",
+    "modelNumber": "",
+    "storeSkuNumber": "318246778"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 FUEL 18-Volt Lithium-Ion Cordless 2 Gal. Compact Electric Quiet Air Compressor (Tool-Only) w/Clear Safety Glasses",
+  "shortDescription": "M18 FUEL 18-Volt Lithium-Ion Cordless 2 Gal. Compact Electric Quiet Air Compressor (Tool-Only) w/Clear Safety Glasses",
+  "longDescription": "M18 FUEL 18-Volt Lithium-Ion Cordless 2 Gal. Compact Electric Quiet Air Compressor (Tool-Only) w/Clear Safety Glasses",
+  "pricing": {
+    "currentPrice": 319.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2857,
+    "count": 7
+  },
+  "media": {
+    "primaryImage": "/products/318246778/milwaukee-portable-air-compressors-2840-20-48-73-2010-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/318246778/milwaukee-portable-air-compressors-2840-20-48-73-2010-64_100.jpg",
+        "altText": "M18 FUEL 18-Volt Lithium-Ion Cordless 2 Gal. Compact Electric Quiet Air Compressor (Tool-Only) w/Clear Safety Glasses",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.486288"
+}

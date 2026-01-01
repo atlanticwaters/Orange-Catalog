@@ -1,0 +1,45 @@
+{
+  "productId": "305016399",
+  "identifiers": {
+    "internetNumber": "305016399",
+    "modelNumber": "",
+    "storeSkuNumber": "305016399"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "High Performance Blow Gun with Ultimate Flow Tip",
+  "shortDescription": "High Performance Blow Gun with Ultimate Flow Tip",
+  "longDescription": "High Performance Blow Gun with Ultimate Flow Tip",
+  "pricing": {
+    "currentPrice": 19.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2956,
+    "count": 159
+  },
+  "media": {
+    "primaryImage": "/products/305016399/husky-air-blow-guns-035-0018h-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305016399/husky-air-blow-guns-035-0018h-64_100.jpg",
+        "altText": "High Performance Blow Gun with Ultimate Flow Tip",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.473789"
+}

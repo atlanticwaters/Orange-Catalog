@@ -1,0 +1,45 @@
+{
+  "productId": "301836731",
+  "identifiers": {
+    "internetNumber": "301836731",
+    "modelNumber": "",
+    "storeSkuNumber": "301836731"
+  },
+  "brand": {
+    "name": "Milton Industries, Inc.",
+    "logoUrl": "images/brands/milton-industries-inc.svg"
+  },
+  "title": "1/2 in. NPT Regulator",
+  "shortDescription": "1/2 in. NPT Regulator",
+  "longDescription": "1/2 in. NPT Regulator",
+  "pricing": {
+    "currentPrice": 53.46,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.3333,
+    "count": 6
+  },
+  "media": {
+    "primaryImage": "/products/301836731/milton-industries-inc-air-pressure-regulators-1115-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301836731/milton-industries-inc-air-pressure-regulators-1115-64_100.jpg",
+        "altText": "1/2 in. NPT Regulator",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.603541"
+}

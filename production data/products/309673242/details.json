@@ -1,0 +1,45 @@
+{
+  "productId": "309673242",
+  "identifiers": {
+    "internetNumber": "309673242",
+    "modelNumber": "",
+    "storeSkuNumber": "309673242"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "41 in. x 19 in. Mixed Succulent Artificial Living Wall",
+  "shortDescription": "41 in. x 19 in. Mixed Succulent Artificial Living Wall",
+  "longDescription": "41 in. x 19 in. Mixed Succulent Artificial Living Wall",
+  "pricing": {
+    "currentPrice": 290.15,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/309673242/nearly-natural-artificial-succulents-8321-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/309673242/nearly-natural-artificial-succulents-8321-64_100.jpg",
+        "altText": "41 in. x 19 in. Mixed Succulent Artificial Living Wall",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.563682"
+}

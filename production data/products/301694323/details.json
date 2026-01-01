@@ -1,0 +1,45 @@
+{
+  "productId": "301694323",
+  "identifiers": {
+    "internetNumber": "301694323",
+    "modelNumber": "",
+    "storeSkuNumber": "301694323"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "Artificial Spiky Agave Succulent Plant (Set of 2)",
+  "shortDescription": "Artificial Spiky Agave Succulent Plant (Set of 2)",
+  "longDescription": "Artificial Spiky Agave Succulent Plant (Set of 2)",
+  "pricing": {
+    "currentPrice": 43.17,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5556,
+    "count": 9
+  },
+  "media": {
+    "primaryImage": "/products/301694323/nearly-natural-artificial-succulents-6159-s2-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301694323/nearly-natural-artificial-succulents-6159-s2-64_100.jpg",
+        "altText": "Artificial Spiky Agave Succulent Plant (Set of 2)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.562859"
+}

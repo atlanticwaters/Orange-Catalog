@@ -1,0 +1,45 @@
+{
+  "productId": "335667965",
+  "identifiers": {
+    "internetNumber": "335667965",
+    "modelNumber": "",
+    "storeSkuNumber": "335667965"
+  },
+  "brand": {
+    "name": "Knaack",
+    "logoUrl": "images/brands/knaack.svg"
+  },
+  "title": "49 in. W x 30 in. L x 60 in. H, Steel Jobsite Storage Piano Box with Lock",
+  "shortDescription": "49 in. W x 30 in. L x 60 in. H, Steel Jobsite Storage Piano Box with Lock",
+  "longDescription": "49 in. W x 30 in. L x 60 in. H, Steel Jobsite Storage Piano Box with Lock",
+  "pricing": {
+    "currentPrice": 1625.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.6452,
+    "count": 31
+  },
+  "media": {
+    "primaryImage": "/products/335667965/tan-knaack-jobsite-boxes-89-kl-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/335667965/tan-knaack-jobsite-boxes-89-kl-64_100.jpg",
+        "altText": "49 in. W x 30 in. L x 60 in. H, Steel Jobsite Storage Piano Box with Lock",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.469729"
+}

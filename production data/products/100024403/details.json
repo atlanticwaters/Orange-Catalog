@@ -1,0 +1,45 @@
+{
+  "productId": "100024403",
+  "identifiers": {
+    "internetNumber": "100024403",
+    "modelNumber": "",
+    "storeSkuNumber": "100024403"
+  },
+  "brand": {
+    "name": "Clopay",
+    "logoUrl": "images/brands/clopay.svg"
+  },
+  "title": "Classic Steel Short Panel 9 ft x 7 ft Non-Insulated White Garage Door without Windows",
+  "shortDescription": "Classic Steel Short Panel 9 ft x 7 ft Non-Insulated White Garage Door without Windows",
+  "longDescription": "Classic Steel Short Panel 9 ft x 7 ft Non-Insulated White Garage Door without Windows",
+  "pricing": {
+    "currentPrice": 488.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.1291,
+    "count": 364
+  },
+  "media": {
+    "primaryImage": "/products/100024403/clopay-garage-doors-hdb-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/100024403/clopay-garage-doors-hdb-64_100.jpg",
+        "altText": "Classic Steel Short Panel 9 ft x 7 ft Non-Insulated White Garage Door without Windows",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.651129"
+}

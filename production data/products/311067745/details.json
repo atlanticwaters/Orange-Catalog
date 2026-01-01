@@ -1,0 +1,45 @@
+{
+  "productId": "311067745",
+  "identifiers": {
+    "internetNumber": "311067745",
+    "modelNumber": "",
+    "storeSkuNumber": "311067745"
+  },
+  "brand": {
+    "name": "GE",
+    "logoUrl": "images/brands/ge.svg"
+  },
+  "title": "16.6 cu. ft. Top Freezer Refrigerator in White",
+  "shortDescription": "16.6 cu. ft. Top Freezer Refrigerator in White",
+  "longDescription": "16.6 cu. ft. Top Freezer Refrigerator in White",
+  "pricing": {
+    "currentPrice": 849.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3758,
+    "count": 3952
+  },
+  "media": {
+    "primaryImage": "/products/311067745/white-ge-top-freezer-refrigerators-gts17dtnrww-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311067745/white-ge-top-freezer-refrigerators-gts17dtnrww-64_100.jpg",
+        "altText": "16.6 cu. ft. Top Freezer Refrigerator in White",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.437780"
+}

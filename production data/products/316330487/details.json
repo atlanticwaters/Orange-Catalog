@@ -1,0 +1,45 @@
+{
+  "productId": "316330487",
+  "identifiers": {
+    "internetNumber": "316330487",
+    "modelNumber": "",
+    "storeSkuNumber": "316330487"
+  },
+  "brand": {
+    "name": "WEN",
+    "logoUrl": "images/brands/wen.svg"
+  },
+  "title": "48 in. W x 25 in. D 2-Drawer Workbench with Power Outlets and Light",
+  "shortDescription": "48 in. W x 25 in. D 2-Drawer Workbench with Power Outlets and Light",
+  "longDescription": "48 in. W x 25 in. D 2-Drawer Workbench with Power Outlets and Light",
+  "pricing": {
+    "currentPrice": 150.7,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.084,
+    "count": 702
+  },
+  "media": {
+    "primaryImage": "/products/316330487/wen-workbenches-wb4723t-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316330487/wen-workbenches-wb4723t-64_100.jpg",
+        "altText": "48 in. W x 25 in. D 2-Drawer Workbench with Power Outlets and Light",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.479520"
+}

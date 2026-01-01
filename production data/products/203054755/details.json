@@ -1,0 +1,45 @@
+{
+  "productId": "203054755",
+  "identifiers": {
+    "internetNumber": "203054755",
+    "modelNumber": "",
+    "storeSkuNumber": "203054755"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "15 Amp Corded 13 in. Heavy-Duty 2-Speed Bench Planer with (3) Knives, In Feed Table and Out Feed Table",
+  "shortDescription": "15 Amp Corded 13 in. Heavy-Duty 2-Speed Bench Planer with (3) Knives, In Feed Table and Out Feed Table",
+  "longDescription": "15 Amp Corded 13 in. Heavy-Duty 2-Speed Bench Planer with (3) Knives, In Feed Table and Out Feed Table",
+  "pricing": {
+    "currentPrice": 729.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6614,
+    "count": 1450
+  },
+  "media": {
+    "primaryImage": "/products/203054755/yellow-dewalt-planers-dw735x-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203054755/yellow-dewalt-planers-dw735x-64_100.jpg",
+        "altText": "15 Amp Corded 13 in. Heavy-Duty 2-Speed Bench Planer with (3) Knives, In Feed Table and Out Feed Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.663181"
+}

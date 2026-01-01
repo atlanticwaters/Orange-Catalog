@@ -1,0 +1,45 @@
+{
+  "productId": "301704033",
+  "identifiers": {
+    "internetNumber": "301704033",
+    "modelNumber": "",
+    "storeSkuNumber": "301704033"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "Gallery 52 Bottle Undercounter Wine Cooler in Smudge-Proof Stainless Steel",
+  "shortDescription": "Gallery 52 Bottle Undercounter Wine Cooler in Smudge-Proof Stainless Steel",
+  "longDescription": "Gallery 52 Bottle Undercounter Wine Cooler in Smudge-Proof Stainless Steel",
+  "pricing": {
+    "currentPrice": 729.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.055,
+    "count": 400
+  },
+  "media": {
+    "primaryImage": "/products/301704033/smudge-proof-stainless-steel-frigidaire-wine-coolers-fgwc5233ts-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301704033/smudge-proof-stainless-steel-frigidaire-wine-coolers-fgwc5233ts-64_100.jpg",
+        "altText": "Gallery 52 Bottle Undercounter Wine Cooler in Smudge-Proof Stainless Steel",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.454429"
+}

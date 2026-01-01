@@ -1,0 +1,45 @@
+{
+  "productId": "327663370",
+  "identifiers": {
+    "internetNumber": "327663370",
+    "modelNumber": "",
+    "storeSkuNumber": "327663370"
+  },
+  "brand": {
+    "name": "THE RIGHT PATH",
+    "logoUrl": "images/brands/the-right-path.svg"
+  },
+  "title": "78\"-103\" Retracted Extendable TV Stand",
+  "shortDescription": "78\"-103\" Retracted Extendable TV Stand",
+  "longDescription": "78\"-103\" Retracted Extendable TV Stand",
+  "pricing": {
+    "currentPrice": 485.45,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.75,
+    "count": 8
+  },
+  "media": {
+    "primaryImage": "/products/327663370/walnut-color-the-right-path-tv-stands-dsg-67-70-87-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327663370/walnut-color-the-right-path-tv-stands-dsg-67-70-87-64_100.jpg",
+        "altText": "78\"-103\" Retracted Extendable TV Stand",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.595244"
+}

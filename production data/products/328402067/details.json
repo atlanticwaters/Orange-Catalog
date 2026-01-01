@@ -1,0 +1,45 @@
+{
+  "productId": "328402067",
+  "identifiers": {
+    "internetNumber": "328402067",
+    "modelNumber": "",
+    "storeSkuNumber": "328402067"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "5.2 cu. ft. Large Capacity Smart Top Load Washer in White with Impeller and Super Speed Wash",
+  "shortDescription": "5.2 cu. ft. Large Capacity Smart Top Load Washer in White with Impeller and Super Speed Wash",
+  "longDescription": "5.2 cu. ft. Large Capacity Smart Top Load Washer in White with Impeller and Super Speed Wash",
+  "pricing": {
+    "currentPrice": 949.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.349,
+    "count": 1275
+  },
+  "media": {
+    "primaryImage": "/products/328402067/white-samsung-top-load-washers-wa52dg5500aw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328402067/white-samsung-top-load-washers-wa52dg5500aw-64_100.jpg",
+        "altText": "5.2 cu. ft. Large Capacity Smart Top Load Washer in White with Impeller and Super Speed Wash",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.481752"
+}

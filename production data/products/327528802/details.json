@@ -1,0 +1,45 @@
+{
+  "productId": "327528802",
+  "identifiers": {
+    "internetNumber": "327528802",
+    "modelNumber": "",
+    "storeSkuNumber": "327528802"
+  },
+  "brand": {
+    "name": "HDX",
+    "logoUrl": "images/brands/hdx.svg"
+  },
+  "title": "27 Gal. Tough Storage Tote in Black and Yellow",
+  "shortDescription": "27 Gal. Tough Storage Tote in Black and Yellow",
+  "longDescription": "27 Gal. Tough Storage Tote in Black and Yellow",
+  "pricing": {
+    "currentPrice": 8.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7732,
+    "count": 13883
+  },
+  "media": {
+    "primaryImage": "/products/327528802/hdx-storage-bins-999-27g-hdx-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/327528802/hdx-storage-bins-999-27g-hdx-64_100.jpg",
+        "altText": "27 Gal. Tough Storage Tote in Black and Yellow",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.423409"
+}

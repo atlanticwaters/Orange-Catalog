@@ -1,0 +1,45 @@
+{
+  "productId": "312742154",
+  "identifiers": {
+    "internetNumber": "312742154",
+    "modelNumber": "",
+    "storeSkuNumber": "312742154"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "FLEXVOLT 60V MAX Cordless Brushless 4.5 in. to 6 in. Small Angle Grinder with Kickback Brake (Tool Only)",
+  "shortDescription": "FLEXVOLT 60V MAX Cordless Brushless 4.5 in. to 6 in. Small Angle Grinder with Kickback Brake (Tool Only)",
+  "longDescription": "FLEXVOLT 60V MAX Cordless Brushless 4.5 in. to 6 in. Small Angle Grinder with Kickback Brake (Tool Only)",
+  "pricing": {
+    "currentPrice": 299.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6024,
+    "count": 415
+  },
+  "media": {
+    "primaryImage": "/products/312742154/dewalt-angle-grinders-dcg418b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/312742154/dewalt-angle-grinders-dcg418b-64_100.jpg",
+        "altText": "FLEXVOLT 60V MAX Cordless Brushless 4.5 in. to 6 in. Small Angle Grinder with Kickback Brake (Tool Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.686529"
+}

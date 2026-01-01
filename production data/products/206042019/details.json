@@ -1,0 +1,45 @@
+{
+  "productId": "206042019",
+  "identifiers": {
+    "internetNumber": "206042019",
+    "modelNumber": "",
+    "storeSkuNumber": "206042019"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "M18 18V Lithium-Ion Cordless 3-1/4 in. Planer (Tool-Only)",
+  "shortDescription": "M18 18V Lithium-Ion Cordless 3-1/4 in. Planer (Tool-Only)",
+  "longDescription": "M18 18V Lithium-Ion Cordless 3-1/4 in. Planer (Tool-Only)",
+  "pricing": {
+    "currentPrice": 249.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4507,
+    "count": 406
+  },
+  "media": {
+    "primaryImage": "/products/206042019/milwaukee-planers-2623-20-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206042019/milwaukee-planers-2623-20-64_100.jpg",
+        "altText": "M18 18V Lithium-Ion Cordless 3-1/4 in. Planer (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.662884"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "316069461",
+  "identifiers": {
+    "internetNumber": "316069461",
+    "modelNumber": "",
+    "storeSkuNumber": "316069461"
+  },
+  "brand": {
+    "name": "VIVOHOME",
+    "logoUrl": "images/brands/vivohome.svg"
+  },
+  "title": "3.5 cu.ft 110V 1500W White Electric Compact Portable Laundry Dryer",
+  "shortDescription": "3.5 cu.ft 110V 1500W White Electric Compact Portable Laundry Dryer",
+  "longDescription": "3.5 cu.ft 110V 1500W White Electric Compact Portable Laundry Dryer",
+  "pricing": {
+    "currentPrice": 279.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.5741,
+    "count": 54
+  },
+  "media": {
+    "primaryImage": "/products/316069461/white-vivohome-electric-dryers-x002idzo8v-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316069461/white-vivohome-electric-dryers-x002idzo8v-64_100.jpg",
+        "altText": "3.5 cu.ft 110V 1500W White Electric Compact Portable Laundry Dryer",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.629984"
+}

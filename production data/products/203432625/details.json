@@ -1,0 +1,45 @@
+{
+  "productId": "203432625",
+  "identifiers": {
+    "internetNumber": "203432625",
+    "modelNumber": "",
+    "storeSkuNumber": "203432625"
+  },
+  "brand": {
+    "name": "Paslode",
+    "logoUrl": "images/brands/paslode.svg"
+  },
+  "title": "Universal Trim Yellow Fuel Cells for Cordless Trim Nailers (2-Pack)",
+  "shortDescription": "Universal Trim Yellow Fuel Cells for Cordless Trim Nailers (2-Pack)",
+  "longDescription": "Universal Trim Yellow Fuel Cells for Cordless Trim Nailers (2-Pack)",
+  "pricing": {
+    "currentPrice": 19.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5057,
+    "count": 354
+  },
+  "media": {
+    "primaryImage": "/products/203432625/paslode-fuel-cells-816007-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203432625/paslode-fuel-cells-816007-64_100.jpg",
+        "altText": "Universal Trim Yellow Fuel Cells for Cordless Trim Nailers (2-Pack)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.575926"
+}

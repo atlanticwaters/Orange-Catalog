@@ -1,0 +1,45 @@
+{
+  "productId": "205907586",
+  "identifiers": {
+    "internetNumber": "205907586",
+    "modelNumber": "",
+    "storeSkuNumber": "205907586"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "Artificial Mixed Fern with Twig and Moss Basket",
+  "shortDescription": "Artificial Mixed Fern with Twig and Moss Basket",
+  "longDescription": "Artificial Mixed Fern with Twig and Moss Basket",
+  "pricing": {
+    "currentPrice": 45.58,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.25,
+    "count": 12
+  },
+  "media": {
+    "primaryImage": "/products/205907586/nearly-natural-artificial-branches-stems-4846-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/205907586/nearly-natural-artificial-branches-stems-4846-64_100.jpg",
+        "altText": "Artificial Mixed Fern with Twig and Moss Basket",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.647178"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "320718071",
+  "identifiers": {
+    "internetNumber": "320718071",
+    "modelNumber": "",
+    "storeSkuNumber": "320718071"
+  },
+  "brand": {
+    "name": "Amanti Art",
+    "logoUrl": "images/brands/amanti-art.svg"
+  },
+  "title": "Grand Black Narrow 20 in. H x 24 in. W Framed Wall Mirror",
+  "shortDescription": "Grand Black Narrow 20 in. H x 24 in. W Framed Wall Mirror",
+  "longDescription": "Grand Black Narrow 20 in. H x 24 in. W Framed Wall Mirror",
+  "pricing": {
+    "currentPrice": 77.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/320718071/amanti-art-wall-mirrors-a38865479723-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320718071/amanti-art-wall-mirrors-a38865479723-64_100.jpg",
+        "altText": "Grand Black Narrow 20 in. H x 24 in. W Framed Wall Mirror",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.569063"
+}

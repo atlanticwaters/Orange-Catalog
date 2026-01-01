@@ -1,0 +1,87 @@
+{
+  "categoryId": "appliances/refrigerators/counter-depth",
+  "name": "Counter Depth",
+  "slug": "counter-depth",
+  "path": "/categories/appliances/refrigerators/counter-depth",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.708743",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    },
+    {
+      "label": "Counter Depth",
+      "url": "/appliances/refrigerators/counter-depth"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2
+  },
+  "featuredBrands": [
+    {
+      "brandId": "danby",
+      "brandName": "Danby",
+      "logoUrl": "images/brands/danby.svg",
+      "count": 1
+    },
+    {
+      "brandId": "calefort",
+      "brandName": "Ca'Lefort",
+      "logoUrl": "images/brands/calefort.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "205471286",
+      "modelNumber": "",
+      "brand": "Danby",
+      "title": "Designer 24 in. W 11.0 cu. ft. Freezerless Refrigerator in White, Counter Depth",
+      "rating": {
+        "average": 4.2416,
+        "count": 327
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6132ae86-35ea-4ced-a9a3-d173a14f0c51/svn/white-danby-freezerless-refrigerators-dar110a1wdd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 654.48,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333399283",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "24 in. 4.77 cu. ft. Built-in Panel Ready Freezerless Refrigerator Counter Depth in White w/ 4 Glass Shelves Frost Free",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7dd8e79b-859d-49da-8b97-38f4a8a6e95c/svn/white-ca-lefort-freezerless-refrigerators-clf-bc-135w-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1029.99,
+        "currency": "USD"
+      }
+    }
+  ]
+}

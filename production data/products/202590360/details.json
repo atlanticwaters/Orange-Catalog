@@ -1,0 +1,45 @@
+{
+  "productId": "202590360",
+  "identifiers": {
+    "internetNumber": "202590360",
+    "modelNumber": "",
+    "storeSkuNumber": "202590360"
+  },
+  "brand": {
+    "name": "Powermate",
+    "logoUrl": "images/brands/powermate.svg"
+  },
+  "title": "3/8 in. Air Ratchet Wrench",
+  "shortDescription": "3/8 in. Air Ratchet Wrench",
+  "longDescription": "3/8 in. Air Ratchet Wrench",
+  "pricing": {
+    "currentPrice": 33.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6,
+    "count": 10
+  },
+  "media": {
+    "primaryImage": "/products/202590360/powermate-air-ratchet-wrenches-024-0079ct-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202590360/powermate-air-ratchet-wrenches-024-0079ct-64_100.jpg",
+        "altText": "3/8 in. Air Ratchet Wrench",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.529363"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "206815744",
+  "identifiers": {
+    "internetNumber": "206815744",
+    "modelNumber": "",
+    "storeSkuNumber": "206815744"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "8 Gal. 150 PSI 5.5 HP Belt Drive Gas-Powered Wheelbarrow Air Compressor",
+  "shortDescription": "8 Gal. 150 PSI 5.5 HP Belt Drive Gas-Powered Wheelbarrow Air Compressor",
+  "longDescription": "8 Gal. 150 PSI 5.5 HP Belt Drive Gas-Powered Wheelbarrow Air Compressor",
+  "pricing": {
+    "currentPrice": 1274.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4839,
+    "count": 31
+  },
+  "media": {
+    "primaryImage": "/products/206815744/dewalt-portable-air-compressors-dxcmtb5590856-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206815744/dewalt-portable-air-compressors-dxcmtb5590856-64_100.jpg",
+        "altText": "8 Gal. 150 PSI 5.5 HP Belt Drive Gas-Powered Wheelbarrow Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.513678"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "315286185",
+  "identifiers": {
+    "internetNumber": "315286185",
+    "modelNumber": "",
+    "storeSkuNumber": "315286185"
+  },
+  "brand": {
+    "name": "Mercana",
+    "logoUrl": "images/brands/mercana.svg"
+  },
+  "title": "Stella 17 in. L x 17 in. W White Round Marble Top with Gold Base Accent Table",
+  "shortDescription": "Stella 17 in. L x 17 in. W White Round Marble Top with Gold Base Accent Table",
+  "longDescription": "Stella 17 in. L x 17 in. W White Round Marble Top with Gold Base Accent Table",
+  "pricing": {
+    "currentPrice": 162.76,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/315286185/white-mercana-end-side-tables-68960-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/315286185/white-mercana-end-side-tables-68960-64_100.jpg",
+        "altText": "Stella 17 in. L x 17 in. W White Round Marble Top with Gold Base Accent Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.607114"
+}

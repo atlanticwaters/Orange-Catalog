@@ -1,0 +1,45 @@
+{
+  "productId": "321886360",
+  "identifiers": {
+    "internetNumber": "321886360",
+    "modelNumber": "",
+    "storeSkuNumber": "321886360"
+  },
+  "brand": {
+    "name": "Unknown",
+    "logoUrl": null
+  },
+  "title": "iDEAL Mobile Column Car Lift, 4 Column Set, 52,000 lbs.",
+  "shortDescription": "iDEAL Mobile Column Car Lift, 4 Column Set, 52,000 lbs.",
+  "longDescription": "iDEAL Mobile Column Car Lift, 4 Column Set, 52,000 lbs.",
+  "pricing": {
+    "currentPrice": 36883.75,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/321886360/car-lifts-msc-13k-b-452-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321886360/car-lifts-msc-13k-b-452-64_100.jpg",
+        "altText": "iDEAL Mobile Column Car Lift, 4 Column Set, 52,000 lbs.",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.548987"
+}

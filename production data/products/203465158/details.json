@@ -1,0 +1,45 @@
+{
+  "productId": "203465158",
+  "identifiers": {
+    "internetNumber": "203465158",
+    "modelNumber": "",
+    "storeSkuNumber": "203465158"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "6 in. Low Vibration Palm Sander",
+  "shortDescription": "6 in. Low Vibration Palm Sander",
+  "longDescription": "6 in. Low Vibration Palm Sander",
+  "pricing": {
+    "currentPrice": 99.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3204,
+    "count": 103
+  },
+  "media": {
+    "primaryImage": "/products/203465158/husky-air-sanders-polishers-h4830-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/203465158/husky-air-sanders-polishers-h4830-64_100.jpg",
+        "altText": "6 in. Low Vibration Palm Sander",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.461693"
+}

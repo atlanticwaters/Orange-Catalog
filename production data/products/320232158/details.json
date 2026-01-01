@@ -1,0 +1,45 @@
+{
+  "productId": "320232158",
+  "identifiers": {
+    "internetNumber": "320232158",
+    "modelNumber": "",
+    "storeSkuNumber": "320232158"
+  },
+  "brand": {
+    "name": "WEN",
+    "logoUrl": "images/brands/wen.svg"
+  },
+  "title": "7.4 Amp Rolling Dust Collector with Induction Motor, 15 Gal. Bag and Optional Wall Mount",
+  "shortDescription": "7.4 Amp Rolling Dust Collector with Induction Motor, 15 Gal. Bag and Optional Wall Mount",
+  "longDescription": "7.4 Amp Rolling Dust Collector with Induction Motor, 15 Gal. Bag and Optional Wall Mount",
+  "pricing": {
+    "currentPrice": 169.13,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2615,
+    "count": 65
+  },
+  "media": {
+    "primaryImage": "/products/320232158/wen-dust-collectors-dc3474-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320232158/wen-dust-collectors-dc3474-64_100.jpg",
+        "altText": "7.4 Amp Rolling Dust Collector with Induction Motor, 15 Gal. Bag and Optional Wall Mount",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.674066"
+}

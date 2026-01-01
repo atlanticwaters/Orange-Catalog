@@ -1,0 +1,45 @@
+{
+  "productId": "316225876",
+  "identifiers": {
+    "internetNumber": "316225876",
+    "modelNumber": "",
+    "storeSkuNumber": "316225876"
+  },
+  "brand": {
+    "name": "NATURAE DECOR",
+    "logoUrl": "images/brands/naturae-decor.svg"
+  },
+  "title": "Ivy 40 in. X 96 in. Privacy Screen Hedges Artificial",
+  "shortDescription": "Ivy 40 in. X 96 in. Privacy Screen Hedges Artificial",
+  "longDescription": "Ivy 40 in. X 96 in. Privacy Screen Hedges Artificial",
+  "pricing": {
+    "currentPrice": 49.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.3477,
+    "count": 348
+  },
+  "media": {
+    "primaryImage": "/products/316225876/naturae-decor-artificial-hedges-4096-1000-1pk-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316225876/naturae-decor-artificial-hedges-4096-1000-1pk-64_100.jpg",
+        "altText": "Ivy 40 in. X 96 in. Privacy Screen Hedges Artificial",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.618943"
+}

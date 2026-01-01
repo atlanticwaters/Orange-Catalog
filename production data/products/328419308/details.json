@@ -1,0 +1,45 @@
+{
+  "productId": "328419308",
+  "identifiers": {
+    "internetNumber": "328419308",
+    "modelNumber": "",
+    "storeSkuNumber": "328419308"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "Bespoke 4.6 cu. ft. Large Capacity Single Unit AI Laundry Hub Washer with 7.6 cu. ft. Electric Dryer in Brushed Black",
+  "shortDescription": "Bespoke 4.6 cu. ft. Large Capacity Single Unit AI Laundry Hub Washer with 7.6 cu. ft. Electric Dryer in Brushed Black",
+  "longDescription": "Bespoke 4.6 cu. ft. Large Capacity Single Unit AI Laundry Hub Washer with 7.6 cu. ft. Electric Dryer in Brushed Black",
+  "pricing": {
+    "currentPrice": 2699.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0494,
+    "count": 81
+  },
+  "media": {
+    "primaryImage": "/products/328419308/brushed-black-samsung-laundry-centers-wh46dbh500ev-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/328419308/brushed-black-samsung-laundry-centers-wh46dbh500ev-64_100.jpg",
+        "altText": "Bespoke 4.6 cu. ft. Large Capacity Single Unit AI Laundry Hub Washer with 7.6 cu. ft. Electric Dryer in Brushed Black",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.641016"
+}

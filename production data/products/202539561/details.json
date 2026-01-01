@@ -1,0 +1,45 @@
+{
+  "productId": "202539561",
+  "identifiers": {
+    "internetNumber": "202539561",
+    "modelNumber": "",
+    "storeSkuNumber": "202539561"
+  },
+  "brand": {
+    "name": "Bernzomatic",
+    "logoUrl": "images/brands/bernzomatic.svg"
+  },
+  "title": "Utility Torch Kit with 14.1 oz. Propane Gas Cylinder and Adjustable Flame",
+  "shortDescription": "Utility Torch Kit with 14.1 oz. Propane Gas Cylinder and Adjustable Flame",
+  "longDescription": "Utility Torch Kit with 14.1 oz. Propane Gas Cylinder and Adjustable Flame",
+  "pricing": {
+    "currentPrice": 25.98,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.5669,
+    "count": 1353
+  },
+  "media": {
+    "primaryImage": "/products/202539561/bernzomatic-torches-tanks-wk2301-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202539561/bernzomatic-torches-tanks-wk2301-64_100.jpg",
+        "altText": "Utility Torch Kit with 14.1 oz. Propane Gas Cylinder and Adjustable Flame",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.665671"
+}

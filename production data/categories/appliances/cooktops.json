@@ -1,379 +1,125 @@
 {
   "categoryId": "appliances/cooktops",
   "name": "Cooktops",
-  "originalUrl": "https://www.homedepot.com/b/Appliances-Cooktops/N-5yc1vZc3oq",
-  "archiveTime": "2025-12-31T18:30:18.494Z",
+  "slug": "cooktops",
+  "path": "/categories/appliances/cooktops",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.704525",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Appliances",
-      "url": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w"
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Cooktops",
+      "url": "/appliances/cooktops"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/11.avif",
-  "productIds": [
-    "305455086",
-    "305500317",
-    "311995306",
-    "315245741",
-    "321731953",
-    "323664615",
-    "327216795",
-    "327231570",
-    "327754403",
-    "328670096",
-    "333162494",
-    "337644283",
-    "337860979"
+  "pageInfo": {
+    "totalResults": 4
+  },
+  "featuredBrands": [
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 2
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 2
+    }
   ],
-  "totalProducts": 13,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/39.avif",
-        "url": "https://dam.thdstatic.com/content/production/w-qY8WLhtTQy5I4dYqdHFQ/IYtfZzkfZBz76YsTElGlLg/Original%20file/18JUL23_OutdoorKitchens_VN_Kitchenaid_06-14-2023.png?im=Resize=(703,703)"
+  "products": [
+    {
+      "productId": "328670096",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "30 in. 4 Burner Element Radiant Electric Cooktop in Black including 2 Power Boil Burners",
+      "rating": {
+        "average": 4.0611,
+        "count": 540
       },
-      {
-        "filename": "images/40.avif",
-        "url": "https://dam.thdstatic.com/content/production/9p5h_qPJ6BsA_AC0xBBMBA/NZEiCcWoKneFC-G-7xGN6g/Original%20file/46QHtfpDYPNZUqN796tU91_frigidair_11-08-2022.jpg?im=Resize=(703,703)"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f1f6ae3-c685-44ab-8917-42e4a0c422d2/svn/black-ge-electric-cooktops-jp3030dwbb-64_100.jpg"
       },
-      {
-        "filename": "images/41.avif",
-        "url": "https://dam.thdstatic.com/content/production/3l94oDBJyBnvQNfGMKjwCg/8RxOgttBa8r3DwRwqhiIlg/Original%20file/2023_VN3P7_LG.jpg?im=Resize=(703,703)"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/44.avif",
-        "url": "https://dam.thdstatic.com/content/production/TzOMubJ-lYUueggCn2y_3A/Vd7mW1Kdnk12Qj-TWO1HWQ/Original%20file/8kjvlgMwcq0PO3b6itRWQ_Visnav3-Whirlpool.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/ca6eda14-a2f9-47a0-810e-eb7319226a67/svn/stainless-steel-whirlpool-gas-cooktops-wcgk7030ps-64_300.jpg"
-      },
-      {
-        "filename": "images/13.avif",
-        "url": "https://dam.thdstatic.com/content/production/se-ZOUY4d1r0rjn1HaNRug/8VvqdVhG907jj1q2df-_jg/Original%20file/2023_SL1P2_Electric.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/14.avif",
-        "url": "https://dam.thdstatic.com/content/production/udbP3HTEV1wWZ6pxRMxrmQ/24GpyxTPw53aytetZVhWUQ/optimizedFile/afd89c8d-65dc-46e7-9b6f-122ae941012f_PGP7030SLSS_3.jpeg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/21.webp",
-        "url": "https://dam.thdstatic.com/content/production/afwVFb_jS33DgH7Az_Atkg/rsV7Pr6oD4L1NyTBbZrB6A/Original%20file/4934405-d29a-cooktops--shop-all.gif?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/28.avif",
-        "url": "https://dam.thdstatic.com/content/production/Z01E1iO7WM1c5THe8pOn9A/gqIlRzMPX9gN_cfFMZzbjQ/Original%20file/7867ee9a-7ef2-4211-85b0-7f2d8acc2ef2_Color_swatches_400x400_stainless_steel.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/29.avif",
-        "url": "https://dam.thdstatic.com/content/production/ArLYWmYqISqUkVBpqurVjw/zxlObuKnmGsRhwP9kavsIw/optimizedFile/5e20d523-a075-49a4-9ccd-cb072dd186f9_black-stainless-swatch-1800x1800.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://dam.thdstatic.com/content/production/WSRUN2-FY9u6tMGXAdlbog/qSwZLrCEBSiSiANxyYgsDQ/Original%20file/fde359fb-f9bb-4f88-bf5e-6c71f5d788e9_White_Swatch_-_Copy__3_.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/31.png",
-        "url": "https://dam.thdstatic.com/content/production/VqBhG1J6Qo1Al5oOKQ9eEQ/iLAzLr_u5gJHRwyl3pAghA/Original%20file/ccff5e8c-7372-47dd-a6a8-f07e9969b3c6_Swatch_black_color.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://dam.thdstatic.com/content/production/4-tKoFwMl4H0vNTMq_iUjA/hpq5uxAs4Mv_OmRoXioqvw/Original%20file/2-4_Chrome.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://dam.thdstatic.com/content/production/7LzO1SA1CpXcGAH0PZHDjw/9SeE97KBKf9ZxmBjkdEDPg/Original%20file/ec8b70b9-050b-4547-b948-cffa82e8f5c1_matte-black-swatch-1000.jpeg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://dam.thdstatic.com/content/production/HOmK6PfH3LmV1KBxffyofg/JcUlBX_5IpPvZgkovNERog/Original%20file/2023_SL2P1_Radiant.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://dam.thdstatic.com/content/production/lluQ2c7XP2HniW9DrroqFA/xrXlftcDjo7yRMR54zFk5Q/Original%20file/2023_SL2P2_Coil.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://dam.thdstatic.com/content/production/fLFZIz2bGXfbTtjBt9qbOA/0srZHbcr2hJPrXmCMQebpw/Original%20file/2023_VN3P1_GE_v2.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://dam.thdstatic.com/content/production/eEaO3_iMu0EFkUc3hRcXYQ/4OewTo1mYk43quhAlhFlug/Original%20file/2023_VN3P6_Samsung.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://dam.thdstatic.com/content/production/nCk5h3xgX6XvAoY9NuImtA/-ec9vYXi5LWS8xwaoaOA-w/Original%20file/2023_VN3P8_Cafe.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://dam.thdstatic.com/content/production/eEVFOWaJz8aaJ14FMJBWVg/tcH_Ld16kmkOXK897yezlQ/Original%20file/2023_VN3P9_Zine.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://dam.thdstatic.com/content/production/sw-mkY8MhokngdlKc5fqSg/Qd0UsN4D_zjx-mUeZCl8cw/Original%20file/1hak7Fb2eaqH21rWoGxdDA_Visnav12-Maytag.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://dam.thdstatic.com/content/production/mfm6gA7uZqH54nlXeNskWg/pKIXWmdzz8dMO5vageyMhQ/Original%20file/2023_VN3P12_Summit_Appliance.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://dam.thdstatic.com/content/production/f8vIHu2Pvd1WN30h4HWU0w/3s6gHAoAqjkBpkPJIQL-nA/Original%20file/2023_VN4P1_Downdraft_Cooktops.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://dam.thdstatic.com/content/production/rcyyX_0bYKTfAisWLLReOw/TnGjzdR_FgH7UbPlh3R2oQ/Original%20file/2023_VN4P3_Cooktops_with_Griddle.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://dam.thdstatic.com/content/production/Us21mwkglLAK9d5fKbT8cQ/wvarbXaeaeWtRyyYSckiLg/Original%20file/2023_VN4P6_Sealed_Burners.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/57.avif",
-        "url": "https://dam.thdstatic.com/content/production/IDk0qyiJNHHD7td5qZkRQg/gNQfEo4Wd-vPbqsWM6OAIg/Original%20file/2023_VN4P8_Over_Range_Microwaves.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/15.avif",
-        "url": "https://dam.thdstatic.com/content/production/bknJkzMy1k3c4QvRrOC_pw/piwgIdYAHGg6puix6jXwpg/optimizedFile/CHP95362MSS_lifestyle_3.jpeg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/34.avif",
-        "url": "https://dam.thdstatic.com/content/production/g6Gdxvn99Wx0mPtoQrCmEw/_xF5R3VOoEEyM83Gm3OV_w/Original%20file/2023_R1P1_Types_of_Stovetops.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://dam.thdstatic.com/content/production/jCp22dA2CVqBHrz5Un3lew/7Ly3QqRXFkGNcR9Zoyn2Jg/Original%20file/2023_R1P2_Induction_Cooktop_Buying_Guide.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://dam.thdstatic.com/content/production/3lUvHEVUpucIy1P-Aejaow/MYCjhPhWUhyQVdVWPslIVw/Original%20file/Bosch%20New%20Brand%20Logo%2012-13-2022-400x400.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://dam.thdstatic.com/content/production/HuzToSUO5VtMrwBmcg69Jw/QInE1DwRdev1caFNc51K3g/Original%20file/2023_VN3P10_Empava.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://dam.thdstatic.com/content/production/yEW6VkXPCOYZ_oHFsaPeKA/VEC-mB-Ci5vftCx5sOMtLw/Original%20file/2023_VN4P2v2_Stovetop_LP_Convertibles.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://dam.thdstatic.com/content/production/zPCE_eZ10MjAdUAVPSCk4A/82riDeNlqRfZO0HgsnZLCw/Original%20file/2023_VN4P4_Digital_Display_v3.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://dam.thdstatic.com/content/production/4g2_rR06kP4QSDECLg-42w/3FzLBPAcvOOKRsi2jBto5Q/Original%20file/2023_VN4P5_Continuous_Grates.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/56.avif",
-        "url": "https://dam.thdstatic.com/content/production/vdK76-QiKTDdFrEqO5twsw/NV9ShknDc53eMpI1lz4aPQ/Original%20file/2023_VN4P7_Range_Hoods.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://dam.thdstatic.com/content/production/9X4ZfBFS0dC3uhmD6zeKsw/c2SuGgm2c2XSqvLALPYJqA/Original%20file/2023_VN4P10_Wall_Ovens.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/59.avif",
-        "url": "https://dam.thdstatic.com/content/production/z90EVv4As1u-EzfV7fmXrg/Qcui4ofhAJhIzEtjXg13vQ/Original%20file/2023_VN4P11_Appliance_Cleaners.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/61.avif",
-        "url": "https://dam.thdstatic.com/content/production/9LNp9orkVSKIrMo-pz2VBw/KfSLtTaV4rfaV34i3dfNIA/Original%20file/2023_VN4P9_Pots_Pans.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/62.avif",
-        "url": "https://dam.thdstatic.com/content/production/Zp5zF0oa0g3QZJ9_ZWU_iA/Vh5BnunMxE_QQnPuerHSOg/Original%20file/2023_R1P1_How_to_Measure_for_Kitchen_Appliances.jpg?im=Resize=(703,395.44)"
-      },
-      {
-        "filename": "images/60.avif",
-        "url": "https://dam.thdstatic.com/content/production/hOYyh31YnjSUOdfRqXYuUg/m24vI2B9f7M3jpaE21jBsg/Original%20file/2023_VN4P12_Cooktop_Parts_Accessories.jpg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/63.avif",
-        "url": "https://dam.thdstatic.com/content/production/ObtwBbX8Ev__AGPue9Tzqg/w6Jzbkxn4U6Oc8BMafsW9w/Original%20file/2023_R1P2_How_to_Clean_a_Stovetop.jpg?im=Resize=(703,395.44)"
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/68.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+    },
+    {
+      "productId": "323664615",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 30 in. 4 Burner Element Downdraft Electric Cooktop in Black",
+      "rating": {
+        "average": 4.3213,
+        "count": 221
       },
-      {
-        "filename": "images/69.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f4bc091a-4869-46cb-a9c0-49923ffb7fce/svn/black-ge-electric-cooktops-pp9830drbb-64_100.jpg"
       },
-      {
-        "filename": "images/70.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/71.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/72.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/73.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/74.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/75.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/76.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/77.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/78.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/79.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/80.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/81.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/82.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/83.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/84.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/85.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/86.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/87.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/88.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/90.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/91.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
-      },
-      {
-        "filename": "images/89.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/22.svg",
-        "url": "https://dam.thdstatic.com/content/production/i_VGvwiuLxkNrpQ0hd950Q/sp2GAb1qRWmV0loy4245mw/Original%20file/4934405-d29a-cooktops--6-burners.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/16.svg",
-        "url": "https://dam.thdstatic.com/content/production/HQVp8E_bvvGkYhZyI9a6HQ/ekZ_DdJJs29p_ySzp6TtFQ/Original%20file/4934405-d29a-cooktops--36-inch.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/19.svg",
-        "url": "https://dam.thdstatic.com/content/production/-y9FZT-RlO15CW1A0q0Y5w/E_aszrUw1CJMyiKDJhlR3w/Original%20file/4934405-d29a-cooktops--21-in-or-less.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/20.svg",
-        "url": "https://dam.thdstatic.com/content/production/QH8dBXvi0wkX7GJs-iOcdw/lOLf3k1UdG_Ax9Amy7kQ1g/Original%20file/4934405-d29a-cooktops--48-in-or-more.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/23.svg",
-        "url": "https://dam.thdstatic.com/content/production/_jeyB3mKdck9hZyySBJXXg/bPb4u69CVooLLsXJwCJBQQ/Original%20file/4934405-d29a-cooktops--5-burners.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/24.svg",
-        "url": "https://dam.thdstatic.com/content/production/hddZjyVSnJ7dm-2jqbqkRw/H09-kJ4MzXvs63DsacQG2Q/Original%20file/4934405-d29a-cooktops--4-burners.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/25.svg",
-        "url": "https://dam.thdstatic.com/content/production/H4ysksIARr-AmCHQbWuiHw/CclkiUvcvofAcutQkWp1HA/Original%20file/4934405-d29a-cooktops--3-burners.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/27.svg",
-        "url": "https://dam.thdstatic.com/content/production/ewEfx4ARB8ZCfisusi2jSA/AM2H55kfnL9xIDByiFS3MQ/Original%20file/4934405-d29a-cooktops--1-burner.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/18.svg",
-        "url": "https://dam.thdstatic.com/content/production/e5dvyVVq3-_238BrlTVSIQ/KYlr6vITJEtcNSgCDDZFJg/Original%20file/4934405-d29a-cooktops--24-inch.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/26.svg",
-        "url": "https://dam.thdstatic.com/content/production/MuCpVmcZ3CbJKzXkPGQ6zQ/7KcpWG_wmv15nn8L1F12RA/Original%20file/4934405-d29a-cooktops--2-burners.svg?im=Resize=(703,703)"
-      },
-      {
-        "filename": "images/17.svg",
-        "url": "https://dam.thdstatic.com/content/production/q3Lf7t3tbUVq5x8FSPSEOA/usL95YlkrUb3w-6oic1wDQ/Original%20file/4934405-d29a-cooktops--30-inch.svg?im=Resize=(703,703)"
+      "price": {
+        "current": 2429.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/10.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+    },
+    {
+      "productId": "327754403",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "30 in. 5-Burners Recessed Gas Cooktop in Stainless Steel with SpeedHeat Burner",
+      "rating": {
+        "average": 4.7023,
+        "count": 131
       },
-      {
-        "filename": "images/11.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26JUN25-AppliancesSavingsBanner-DSK-02.png"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca6eda14-a2f9-47a0-810e-eb7319226a67/svn/stainless-steel-whirlpool-gas-cooktops-wcgk7030ps-64_100.jpg"
       },
-      {
-        "filename": "images/64.webp",
-        "url": "https://images.thdstatic.com/productImages/8f1f6ae3-c685-44ab-8917-42e4a0c422d2/svn/black-ge-electric-cooktops-jp3030dwbb-64_300.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/66.avif",
-        "url": "https://images.thdstatic.com/productImages/f4bc091a-4869-46cb-a9c0-49923ffb7fce/svn/black-ge-electric-cooktops-pp9830drbb-64_300.jpg"
-      },
-      {
-        "filename": "images/67.webp",
-        "url": "https://images.thdstatic.com/productImages/b7e3abed-5c80-4733-92cd-22ef59071b37/svn/black-whirlpool-electric-cooktops-wce55us0hb-64_300.jpg"
-      },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/content/production/UBk7eGx6G9vD2dFzd8xe4Q/VXenndzNdBvGX_Vety_XVg/Original%20file/D29A-2025-Winter-Appliances-Hero-Cooktops.png"
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Cooktops - The Home Depot",
-    "categoryType": "PLP Landing Pages",
-    "categoryFolder": "Cooktops"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "305455086",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "30 in. Radiant Electric Ceramic Glass Cooktop in Black with 4 Burner Elements including a Dual Radiant Element",
+      "rating": {
+        "average": 4.2294,
+        "count": 1103
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b7e3abed-5c80-4733-92cd-22ef59071b37/svn/black-whirlpool-electric-cooktops-wce55us0hb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    }
+  ]
 }

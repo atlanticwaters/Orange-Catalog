@@ -1,0 +1,45 @@
+{
+  "productId": "304851092",
+  "identifiers": {
+    "internetNumber": "304851092",
+    "modelNumber": "",
+    "storeSkuNumber": "304851092"
+  },
+  "brand": {
+    "name": "Panda",
+    "logoUrl": "images/brands/panda.svg"
+  },
+  "title": "3200 RPM Ultra Fast Portable Spin Dryer Stainless Steel, 110-Volt / Capacity 0.6 cu. ft.",
+  "shortDescription": "3200 RPM Ultra Fast Portable Spin Dryer Stainless Steel, 110-Volt / Capacity 0.6 cu. ft.",
+  "longDescription": "3200 RPM Ultra Fast Portable Spin Dryer Stainless Steel, 110-Volt / Capacity 0.6 cu. ft.",
+  "pricing": {
+    "currentPrice": 181.25,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.2886,
+    "count": 149
+  },
+  "media": {
+    "primaryImage": "/products/304851092/stainless-steel-panda-electric-dryers-pansp22-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/304851092/stainless-steel-panda-electric-dryers-pansp22-64_100.jpg",
+        "altText": "3200 RPM Ultra Fast Portable Spin Dryer Stainless Steel, 110-Volt / Capacity 0.6 cu. ft.",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.543368"
+}

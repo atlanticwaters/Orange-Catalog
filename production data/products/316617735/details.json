@@ -1,0 +1,45 @@
+{
+  "productId": "316617735",
+  "identifiers": {
+    "internetNumber": "316617735",
+    "modelNumber": "",
+    "storeSkuNumber": "316617735"
+  },
+  "brand": {
+    "name": "WINSOME WOOD",
+    "logoUrl": "images/brands/winsome-wood.svg"
+  },
+  "title": "Alex Black 5-piece Snack Table",
+  "shortDescription": "Alex Black 5-piece Snack Table",
+  "longDescription": "Alex Black 5-piece Snack Table",
+  "pricing": {
+    "currentPrice": 81.61,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7778,
+    "count": 9
+  },
+  "media": {
+    "primaryImage": "/products/316617735/black-winsome-wood-end-side-tables-22520-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316617735/black-winsome-wood-end-side-tables-22520-64_100.jpg",
+        "altText": "Alex Black 5-piece Snack Table",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.572792"
+}

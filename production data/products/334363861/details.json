@@ -1,0 +1,45 @@
+{
+  "productId": "334363861",
+  "identifiers": {
+    "internetNumber": "334363861",
+    "modelNumber": "",
+    "storeSkuNumber": "334363861"
+  },
+  "brand": {
+    "name": "Litton Lane",
+    "logoUrl": "images/brands/litton-lane.svg"
+  },
+  "title": "42 in. Tall Sticks Natural Foliage with Grass (One Bundle)",
+  "shortDescription": "42 in. Tall Sticks Natural Foliage with Grass (One Bundle)",
+  "longDescription": "42 in. Tall Sticks Natural Foliage with Grass (One Bundle)",
+  "pricing": {
+    "currentPrice": 11.58,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/334363861/litton-lane-artificial-branches-stems-047398-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/334363861/litton-lane-artificial-branches-stems-047398-64_100.jpg",
+        "altText": "42 in. Tall Sticks Natural Foliage with Grass (One Bundle)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.646531"
+}

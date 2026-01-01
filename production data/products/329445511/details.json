@@ -1,0 +1,45 @@
+{
+  "productId": "329445511",
+  "identifiers": {
+    "internetNumber": "329445511",
+    "modelNumber": "",
+    "storeSkuNumber": "329445511"
+  },
+  "brand": {
+    "name": "Nearly Natural",
+    "logoUrl": "images/brands/nearly-natural.svg"
+  },
+  "title": "8 ft. UV Resistant Artificial Areca Palm Tree (Indoor/Outdoor)",
+  "shortDescription": "8 ft. UV Resistant Artificial Areca Palm Tree (Indoor/Outdoor)",
+  "longDescription": "8 ft. UV Resistant Artificial Areca Palm Tree (Indoor/Outdoor)",
+  "pricing": {
+    "currentPrice": 231.25,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.8333,
+    "count": 6
+  },
+  "media": {
+    "primaryImage": "/products/329445511/nearly-natural-artificial-trees-t4674-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/329445511/nearly-natural-artificial-trees-t4674-64_100.jpg",
+        "altText": "8 ft. UV Resistant Artificial Areca Palm Tree (Indoor/Outdoor)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.502187"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "301092948",
+  "identifiers": {
+    "internetNumber": "301092948",
+    "modelNumber": "",
+    "storeSkuNumber": "301092948"
+  },
+  "brand": {
+    "name": "Flash Furniture",
+    "logoUrl": "images/brands/flash-furniture.svg"
+  },
+  "title": "Hercules Black Metal Frame Vinyl Ladder Back Metal Restaurant Chair",
+  "shortDescription": "Hercules Black Metal Frame Vinyl Ladder Back Metal Restaurant Chair",
+  "longDescription": "Hercules Black Metal Frame Vinyl Ladder Back Metal Restaurant Chair",
+  "pricing": {
+    "currentPrice": 58.39,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.619,
+    "count": 63
+  },
+  "media": {
+    "primaryImage": "/products/301092948/black-vinyl-seat-black-metal-frame-flash-furniture-dining-chairs-xudg694bladblkv-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/301092948/black-vinyl-seat-black-metal-frame-flash-furniture-dining-chairs-xudg694bladblkv-64_100.jpg",
+        "altText": "Hercules Black Metal Frame Vinyl Ladder Back Metal Restaurant Chair",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.565040"
+}

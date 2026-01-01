@@ -1,0 +1,45 @@
+{
+  "productId": "204068469",
+  "identifiers": {
+    "internetNumber": "204068469",
+    "modelNumber": "",
+    "storeSkuNumber": "204068469"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "60 Gal. Vertical Stationary Electric Air Compressor",
+  "shortDescription": "60 Gal. Vertical Stationary Electric Air Compressor",
+  "longDescription": "60 Gal. Vertical Stationary Electric Air Compressor",
+  "pricing": {
+    "currentPrice": 811.49,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 3.7975,
+    "count": 79
+  },
+  "media": {
+    "primaryImage": "/products/204068469/dewalt-stationary-air-compressors-dxcmla3706056-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/204068469/dewalt-stationary-air-compressors-dxcmla3706056-64_100.jpg",
+        "altText": "60 Gal. Vertical Stationary Electric Air Compressor",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.516201"
+}

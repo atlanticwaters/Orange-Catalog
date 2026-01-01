@@ -1,0 +1,45 @@
+{
+  "productId": "337252220",
+  "identifiers": {
+    "internetNumber": "337252220",
+    "modelNumber": "",
+    "storeSkuNumber": "337252220"
+  },
+  "brand": {
+    "name": "Vitalismo",
+    "logoUrl": "images/brands/vitalismo.svg"
+  },
+  "title": "6 ft. Artificial Bamboo Tree in Black Pot, 72 in. Silk Faux Bamboo Tree",
+  "shortDescription": "6 ft. Artificial Bamboo Tree in Black Pot, 72 in. Silk Faux Bamboo Tree",
+  "longDescription": "6 ft. Artificial Bamboo Tree in Black Pot, 72 in. Silk Faux Bamboo Tree",
+  "pricing": {
+    "currentPrice": 62.13,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/337252220/vitalismo-artificial-trees-nohk0082g-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/337252220/vitalismo-artificial-trees-nohk0082g-64_100.jpg",
+        "altText": "6 ft. Artificial Bamboo Tree in Black Pot, 72 in. Silk Faux Bamboo Tree",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.611476"
+}

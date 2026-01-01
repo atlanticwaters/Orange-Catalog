@@ -1,502 +1,233 @@
 {
   "categoryId": "appliances/beverage-coolers",
   "name": "Beverage Coolers",
-  "originalUrl": "https://www.homedepot.com/b/Appliances-Beverage-Coolers/N-5yc1vZc3o4",
-  "archiveTime": "2025-12-31T18:29:41.064Z",
+  "slug": "beverage-coolers",
+  "path": "/categories/appliances/beverage-coolers",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.704316",
   "breadcrumbs": [
     {
-      "name": "Home",
-      "url": "https://www.homedepot.com/"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "name": "Appliances",
-      "url": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w"
+      "label": "Appliances",
+      "url": "/appliances"
     },
     {
-      "name": "Beverage Coolers",
-      "url": "https://www.homedepot.com/b/Appliances-Beverage-Coolers/N-5yc1vZc3o4"
+      "label": "Beverage Coolers",
+      "url": "/appliances/beverage-coolers"
     }
   ],
-  "filters": [],
-  "quickFilters": [],
-  "featuredBrands": [],
-  "heroImage": "images/12.avif",
-  "productIds": [
-    "205504266",
-    "206069416",
-    "300509606",
-    "301704033",
-    "302253240",
-    "305026426",
-    "310610140",
-    "311231763",
-    "312892681",
-    "313661564",
-    "313833353",
-    "314607564",
-    "315293731",
-    "316122444",
-    "316123013",
-    "316123462",
-    "317964308",
-    "318382844",
-    "319502657",
-    "319503107",
-    "319503467",
-    "319923566",
-    "319923732",
-    "320488529",
-    "322038211",
-    "324953094",
-    "325056270",
-    "325091264",
-    "325139202",
-    "325158253",
-    "325522941",
-    "325720849",
-    "326103670",
-    "326439009",
-    "326580232",
-    "326915276",
-    "327318740",
-    "331444853",
-    "331506441",
-    "331843223",
-    "333527475",
-    "333527952",
-    "335138985",
-    "335223984",
-    "335227144",
-    "336451236",
-    "337608525",
-    "337608716"
+  "pageInfo": {
+    "totalResults": 8
+  },
+  "featuredBrands": [
+    {
+      "brandId": "vissani",
+      "brandName": "Vissani",
+      "logoUrl": "images/brands/vissani.svg",
+      "count": 2
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 2
+    },
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 1
+    },
+    {
+      "brandId": "simzlife",
+      "brandName": "SIMZLIFE",
+      "logoUrl": "images/brands/simzlife.svg",
+      "count": 1
+    },
+    {
+      "brandId": "magic-chef",
+      "brandName": "Magic Chef",
+      "logoUrl": "images/brands/magic-chef.svg",
+      "count": 1
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    }
   ],
-  "totalProducts": 48,
-  "images": {
-    "600px": [
-      {
-        "filename": "images/73.avif",
-        "url": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf29bb86004m-64_600.jpg"
+  "products": [
+    {
+      "productId": "318382844",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "23.4 in. 50 Bottle, 154 Can, Wine and Beverage Cooler with Stainless Steel Door",
+      "rating": {
+        "average": 3.8968,
+        "count": 378
       },
-      {
-        "filename": "images/74.avif",
-        "url": "https://images.thdstatic.com/productImages/f08fc639-a68b-4b41-9e7a-e2c589ee474e/svn/morning-blue-glass-white-glass-samsung-french-door-refrigerators-rf23bb86004m-64_600.jpg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2697f561-13cb-46e4-9040-65d0a7ef5d40/svn/stainless-vissani-beverage-wine-combos-hvbc58st-64_100.jpg"
       },
-      {
-        "filename": "images/75.avif",
-        "url": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_600.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/76.avif",
-        "url": "https://images.thdstatic.com/productImages/f3824ac0-3b8e-4b46-b8cc-f56a5d572c96/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/77.avif",
-        "url": "https://images.thdstatic.com/productImages/5b111963-e652-4619-a4ac-59fe0319a51f/svn/charcoal-glass-matte-black-steel-samsung-french-door-refrigerators-rf29bb89008m-64_600.jpg"
-      },
-      {
-        "filename": "images/78.avif",
-        "url": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_600.jpg"
-      },
-      {
-        "filename": "images/79.avif",
-        "url": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_600.jpg"
-      },
-      {
-        "filename": "images/80.avif",
-        "url": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_600.jpg"
-      },
-      {
-        "filename": "images/81.avif",
-        "url": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_600.jpg"
-      },
-      {
-        "filename": "images/82.avif",
-        "url": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_600.jpg"
-      },
-      {
-        "filename": "images/83.avif",
-        "url": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_600.jpg"
-      },
-      {
-        "filename": "images/84.avif",
-        "url": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_600.jpg"
-      },
-      {
-        "filename": "images/20.avif",
-        "url": "https://images.thdstatic.com/productImages/2697f561-13cb-46e4-9040-65d0a7ef5d40/svn/stainless-vissani-beverage-wine-combos-hvbc58st-64_600.jpg"
-      },
-      {
-        "filename": "images/21.avif",
-        "url": "https://images.thdstatic.com/productImages/f3549366-f45f-4d2a-a20b-4bc277f2ad6d/svn/stainless-vissani-beverage-wine-combos-hvbc58st-e4_600.jpg"
-      },
-      {
-        "filename": "images/23.avif",
-        "url": "https://images.thdstatic.com/productImages/f768c2f1-f9be-4277-9ebd-6cc135e9dab3/svn/black-vissani-beverage-wine-combos-hvbc430st-e4_600.jpg"
-      },
-      {
-        "filename": "images/24.avif",
-        "url": "https://images.thdstatic.com/productImages/6fbb6c12-5f3b-4a8c-ad8b-c5b24f26c65a/svn/stainless-steel-kitchenaid-beverage-wine-combos-kubl314kss-64_600.jpg"
-      },
-      {
-        "filename": "images/27.webp",
-        "url": "https://images.thdstatic.com/productImages/a809f03c-dcc6-4561-be57-ac394f57b82e/svn/stainless-steel-kitchenaid-beverage-wine-combos-kubr314kss-64_600.jpg"
-      },
-      {
-        "filename": "images/30.avif",
-        "url": "https://images.thdstatic.com/productImages/f4e62c87-18ff-428f-995c-b2de6eb07eed/svn/smudge-proof-stainless-steel-frigidaire-wine-coolers-fgwc5233ts-64_600.jpg"
-      },
-      {
-        "filename": "images/31.avif",
-        "url": "https://images.thdstatic.com/productImages/16170515-df9a-4696-a055-924c908b22e8/svn/smudge-proof-stainless-steel-frigidaire-wine-coolers-fgwc5233ts-e4_600.jpg"
-      },
-      {
-        "filename": "images/33.avif",
-        "url": "https://images.thdstatic.com/productImages/1a555765-8ee6-4aad-97e5-1ae2b0a11d78/svn/stainless-steel-frigidaire-beverage-refrigerators-fryb4623as-64_600.jpg"
-      },
-      {
-        "filename": "images/34.avif",
-        "url": "https://images.thdstatic.com/productImages/ffcffd26-2838-45fb-8d98-a9ec789e53e4/svn/stainless-steel-frigidaire-beverage-refrigerators-fryb4623as-e4_600.jpg"
-      },
-      {
-        "filename": "images/35.avif",
-        "url": "https://images.thdstatic.com/productImages/36a6517d-5119-4f7a-a201-7fbfc6e7e82c/svn/stainless-steel-velivi-beverage-refrigerators-kmyl100hd-64_600.jpg"
-      },
-      {
-        "filename": "images/36.avif",
-        "url": "https://images.thdstatic.com/productImages/47f35d01-22f0-405c-8838-f2216d00dee3/svn/stainless-steel-velivi-beverage-refrigerators-kmyl100hd-e4_600.jpg"
-      },
-      {
-        "filename": "images/37.avif",
-        "url": "https://images.thdstatic.com/productImages/fd5ec5be-7d8c-40b9-9474-b3fb9fcf6d45/svn/stainless-steel-ca-lefort-beverage-refrigerators-clf-bs24-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/39.avif",
-        "url": "https://images.thdstatic.com/productImages/1d28d130-d36c-4e2b-82fb-474308f69000/svn/black-euhomy-wine-coolers-fwc006-24bl-e1-64_600.jpg"
-      },
-      {
-        "filename": "images/40.avif",
-        "url": "https://images.thdstatic.com/productImages/aa8fa9aa-2907-4d36-9d60-b33cd46d951e/svn/black-euhomy-wine-coolers-fwc006-24bl-e1-e4_600.jpg"
-      },
-      {
-        "filename": "images/42.avif",
-        "url": "https://images.thdstatic.com/productImages/52b75fbd-73ec-4f16-8e34-e628d545972f/svn/black-euhomy-wine-coolers-fwc004-15bl-e1-64_600.jpg"
-      },
-      {
-        "filename": "images/41.avif",
-        "url": "https://images.thdstatic.com/productImages/8e36dfdf-0a69-433f-9ca2-88a51eb88347/svn/ca-lefort-beverage-refrigerators-clf-bs24bs24-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/22.avif",
-        "url": "https://images.thdstatic.com/productImages/d45a9359-db46-4a50-80c7-ce0234a01d04/svn/black-vissani-beverage-wine-combos-hvbc430st-64_600.jpg"
-      },
-      {
-        "filename": "images/32.avif",
-        "url": "https://images.thdstatic.com/productImages/b24be60c-03b6-486a-8e58-3bb3f747c3c5/svn/stainless-steel-whirlpool-wine-coolers-wuw35x24ds-64_600.jpg"
-      },
-      {
-        "filename": "images/38.avif",
-        "url": "https://images.thdstatic.com/productImages/6cd28423-b8cf-4b96-9596-eff98f629aab/svn/stainless-steel-ca-lefort-beverage-refrigerators-clf-bs24-hd-e4_600.jpg"
-      },
-      {
-        "filename": "images/54.avif",
-        "url": "https://images.thdstatic.com/productImages/d6504e1a-4476-46ca-af78-73b59c8189cf/svn/black-simzlife-wine-coolers-zx-wc-145-s-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/56.avif",
-        "url": "https://images.thdstatic.com/productImages/51c0aaa3-033b-4d53-9f95-96f4b7a1d93d/svn/stainless-steel-ca-lefort-beverage-wine-combos-clf-wf24-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/48.avif",
-        "url": "https://images.thdstatic.com/productImages/5bc380cc-2669-4201-bea6-cd24645c427d/svn/black-simzlife-wine-coolers-fwc004-15si-eh-64_600.jpg"
-      },
-      {
-        "filename": "images/52.avif",
-        "url": "https://images.thdstatic.com/productImages/84419196-ed74-48cc-932e-727fb7e9171a/svn/silver-simzlife-beverage-wine-combos-br008-110si-eh-64_600.jpg"
-      },
-      {
-        "filename": "images/69.avif",
-        "url": "https://images.thdstatic.com/productImages/38f031dc-c198-4849-be7b-e25ea1bcc6c5/svn/sliver-vibekio-beverage-wine-combos-br-110-64_600.jpg"
-      },
-      {
-        "filename": "images/70.avif",
-        "url": "https://images.thdstatic.com/productImages/33af7a62-4b39-49f1-a22d-6d6bf18de388/svn/stainless-steel-black-body-newair-beverage-refrigerators-ab-1200-64_600.jpg"
-      },
-      {
-        "filename": "images/72.avif",
-        "url": "https://images.thdstatic.com/productImages/1bfef694-406f-4193-87b4-e456d03ee447/svn/silver-stainless-steel-nipus-beverage-wine-combos-npdual02-64_600.jpg"
-      },
-      {
-        "filename": "images/68.avif",
-        "url": "https://images.thdstatic.com/productImages/26ff7340-6506-4cb6-a602-cf0a6eb5538b/svn/stainless-steel-yeego-wine-coolers-yeg-ws24-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/49.avif",
-        "url": "https://images.thdstatic.com/productImages/06417739-e5d0-40a0-adf2-c264f463c264/svn/black-simzlife-wine-coolers-fwc004-15si-eh-e4_600.jpg"
-      },
-      {
-        "filename": "images/65.avif",
-        "url": "https://images.thdstatic.com/productImages/b31f465f-408a-4d09-9b51-3a2216d5d461/svn/stainless-magic-chef-wine-coolers-hmwc44dz-64_600.jpg"
-      },
-      {
-        "filename": "images/57.avif",
-        "url": "https://images.thdstatic.com/productImages/c36e9e76-d7c4-4df6-b065-c048956eef1a/svn/stainless-steel-ca-lefort-beverage-wine-combos-clf-wf24-hd-e4_600.jpg"
-      },
-      {
-        "filename": "images/45.avif",
-        "url": "https://images.thdstatic.com/productImages/190baf8a-2948-421b-9662-cb9bc54b9420/svn/black-simzlife-wine-coolers-wc-03s-64_600.jpg"
-      },
-      {
-        "filename": "images/61.avif",
-        "url": "https://images.thdstatic.com/productImages/24e9209c-ea20-4c9a-8eb3-49029dd30a4b/svn/stainless-steel-beverage-wine-combos-fgbc5334vs-e4_600.jpg"
-      },
-      {
-        "filename": "images/43.avif",
-        "url": "https://images.thdstatic.com/productImages/237baffd-84cd-4363-b67d-62bc2fee2a73/svn/stainless-steel-hooure-beverage-refrigerators-d2phd-4-64_600.jpg"
-      },
-      {
-        "filename": "images/64.avif",
-        "url": "https://images.thdstatic.com/productImages/5dfd4451-b9ba-4d3e-8260-6e56407a0178/svn/black-cabinet-stainless-doors-kitchenaid-beverage-wine-combos-kubr214ksb-64_600.jpg"
-      },
-      {
-        "filename": "images/59.avif",
-        "url": "https://images.thdstatic.com/productImages/473cbb5a-ea7d-4df5-9ab8-f8d09532e31e/svn/stainless-magic-chef-beverage-wine-combos-hmbc58st-e4_600.jpg"
-      },
-      {
-        "filename": "images/53.avif",
-        "url": "https://images.thdstatic.com/productImages/c9d8dfaf-d43a-4e1a-8958-4d333fb7f6de/svn/stainless-steel-honeywell-beverage-refrigerators-h115bcs-64_600.jpg"
-      },
-      {
-        "filename": "images/47.avif",
-        "url": "https://images.thdstatic.com/productImages/7e447b4f-f4e6-4f04-940e-2725c2dd0c5d/svn/stainless-steel-yeego-beverage-refrigerators-yeg-bs24-hd-e4_600.jpg"
-      },
-      {
-        "filename": "images/51.avif",
-        "url": "https://images.thdstatic.com/productImages/c77a1dcb-a7a9-4487-9f60-510e4899e945/svn/stainless-steel-black-body-newair-beverage-wine-combos-ab-1200fls-e4_600.jpg"
-      },
-      {
-        "filename": "images/63.avif",
-        "url": "https://images.thdstatic.com/productImages/2f81e235-5193-45eb-a126-ca2755075e22/svn/silver-stainless-steel-tittla-beverage-refrigerators-kmbr150-e4_600.jpg"
-      },
-      {
-        "filename": "images/55.avif",
-        "url": "https://images.thdstatic.com/productImages/23d8fa6e-b79d-4314-9592-2372213531c7/svn/black-simzlife-wine-coolers-zx-wc-145-s-hd-e4_600.jpg"
-      },
-      {
-        "filename": "images/46.avif",
-        "url": "https://images.thdstatic.com/productImages/f22326e1-d0a9-4212-9bfb-ac792af6cc78/svn/stainless-steel-yeego-beverage-refrigerators-yeg-bs24-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/62.avif",
-        "url": "https://images.thdstatic.com/productImages/fa0c2595-f2ae-4d44-85a3-770a78029dfa/svn/silver-stainless-steel-tittla-beverage-refrigerators-kmbr150-64_600.jpg"
-      },
-      {
-        "filename": "images/60.avif",
-        "url": "https://images.thdstatic.com/productImages/6a934ddc-0af3-4dd7-9ab7-853d36162bd6/svn/stainless-steel-beverage-wine-combos-fgbc5334vs-64_600.jpg"
-      },
-      {
-        "filename": "images/44.avif",
-        "url": "https://images.thdstatic.com/productImages/23104617-de1c-4649-aeda-f2d6ae119721/svn/stainless-steel-hooure-beverage-refrigerators-d2phd-4-e4_600.jpg"
-      },
-      {
-        "filename": "images/50.avif",
-        "url": "https://images.thdstatic.com/productImages/c8dc7c05-85ec-4457-bb4c-5c35c22fc7d9/svn/stainless-steel-black-body-newair-beverage-wine-combos-ab-1200fls-64_600.jpg"
-      },
-      {
-        "filename": "images/58.avif",
-        "url": "https://images.thdstatic.com/productImages/36df9dd8-d524-4bf2-9e7b-0ea7a402e7e9/svn/stainless-magic-chef-beverage-wine-combos-hmbc58st-64_600.jpg"
-      },
-      {
-        "filename": "images/67.avif",
-        "url": "https://images.thdstatic.com/productImages/37174dc2-a037-44f8-99c7-62612749593f/svn/black-simzlife-beverage-refrigerators-bruc-36-hd-64_600.jpg"
-      },
-      {
-        "filename": "images/66.avif",
-        "url": "https://images.thdstatic.com/productImages/b9b98326-464d-4219-b463-62b95d0f2ea0/svn/black-frigidaire-beverage-refrigerators-efmis155-64_600.jpg"
-      },
-      {
-        "filename": "images/71.avif",
-        "url": "https://images.thdstatic.com/productImages/2c074671-bf4a-4f93-98a8-88ff07804144/svn/black-simzlife-wine-coolers-fwc002-20bl-eh-64_600.jpg"
+      "price": {
+        "current": 549.0,
+        "currency": "USD"
       }
-    ],
-    "svgs": [
-      {
-        "filename": "images/89.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg"
+    },
+    {
+      "productId": "317964308",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "4.3 Cu. ft. Wine and Beverage Cooler in Stainless Steel",
+      "rating": {
+        "average": 4.0,
+        "count": 295
       },
-      {
-        "filename": "images/90.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d45a9359-db46-4a50-80c7-ce0234a01d04/svn/black-vissani-beverage-wine-combos-hvbc430st-64_100.jpg"
       },
-      {
-        "filename": "images/91.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/92.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg"
-      },
-      {
-        "filename": "images/93.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg"
-      },
-      {
-        "filename": "images/94.svg",
-        "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg"
-      },
-      {
-        "filename": "images/95.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg"
-      },
-      {
-        "filename": "images/96.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg"
-      },
-      {
-        "filename": "images/97.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg"
-      },
-      {
-        "filename": "images/98.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/99.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg"
-      },
-      {
-        "filename": "images/100.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg"
-      },
-      {
-        "filename": "images/101.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg"
-      },
-      {
-        "filename": "images/102.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg"
-      },
-      {
-        "filename": "images/103.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg"
-      },
-      {
-        "filename": "images/104.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg"
-      },
-      {
-        "filename": "images/105.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg"
-      },
-      {
-        "filename": "images/106.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg"
-      },
-      {
-        "filename": "images/107.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg"
-      },
-      {
-        "filename": "images/108.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg"
-      },
-      {
-        "filename": "images/109.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg"
-      },
-      {
-        "filename": "images/110.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg"
-      },
-      {
-        "filename": "images/111.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg"
-      },
-      {
-        "filename": "images/112.svg",
-        "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg"
-      },
-      {
-        "filename": "images/10.svg",
-        "url": "https://assets.thdstatic.com/images/v1/Value-Pricing-Special-Buy.svg"
+      "price": {
+        "current": 379.0,
+        "currency": "USD"
       }
-    ],
-    "other": [
-      {
-        "filename": "images/11.ico",
-        "url": "https://www.homedepot.com/favicon.ico"
+    },
+    {
+      "productId": "316122444",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24 in. 14-Bottle Beverage Cooler in Stainless Steel",
+      "rating": {
+        "average": 3.0,
+        "count": 10
       },
-      {
-        "filename": "images/12.avif",
-        "url": "https://dam.thdstatic.com/contentful/heroflattenimage/26DEC25-SWB-DSK-01.png"
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6fbb6c12-5f3b-4a8c-ad8b-c5b24f26c65a/svn/stainless-steel-kitchenaid-beverage-wine-combos-kubl314kss-64_100.jpg"
       },
-      {
-        "filename": "images/14.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/05/05573f1b-17f3-442d-86e3-4f01222c6a92_300.jpg"
+      "badges": [],
+      "availability": {
+        "inStock": true
       },
-      {
-        "filename": "images/15.webp",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/ed/edae68e3-0970-4fbc-b15b-4a25480acb6f_300.jpg"
-      },
-      {
-        "filename": "images/16.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/c8/c8dc7c05-85ec-4457-bb4c-5c35c22fc7d9_300.jpg"
-      },
-      {
-        "filename": "images/18.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/c9/c9d8dfaf-d43a-4e1a-8958-4d333fb7f6de_300.jpg"
-      },
-      {
-        "filename": "images/19.avif",
-        "url": "https://assets.thdstatic.com/images/special-buy--pod.jpg"
-      },
-      {
-        "filename": "images/25.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/3c/3c98e94f-59bc-4aec-a66a-c58850d0e8ed_35.jpg"
-      },
-      {
-        "filename": "images/26.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/db/dbefc18f-2369-4167-9462-89be90c3f95a_35.jpg"
-      },
-      {
-        "filename": "images/28.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/0c/0caf1151-d8ef-429c-b05a-61d3daa0be8c_35.jpg"
-      },
-      {
-        "filename": "images/17.webp",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/c7/c7199ae8-4385-4975-8144-7e422dcb33c4_300.jpg"
-      },
-      {
-        "filename": "images/29.webp",
-        "url": "https://images.thdstatic.com/catalog/swatchImages/35/89/8934e43f-a67f-4d66-874d-618076a3db59_35.jpg"
-      },
-      {
-        "filename": "images/13.avif",
-        "url": "https://images.thdstatic.com/catalog/productImages/300/33/33af7a62-4b39-49f1-a22d-6d6bf18de388_300.jpg"
-      },
-      {
-        "filename": "images/85.avif",
-        "url": "https://images.thdstatic.com/productImages/2697f561-13cb-46e4-9040-65d0a7ef5d40/svn/stainless-vissani-beverage-wine-combos-hvbc58st-64_300.jpg"
-      },
-      {
-        "filename": "images/87.webp",
-        "url": "https://images.thdstatic.com/productImages/6a934ddc-0af3-4dd7-9ab7-853d36162bd6/svn/stainless-steel-beverage-wine-combos-fgbc5334vs-64_300.jpg"
-      },
-      {
-        "filename": "images/86.avif",
-        "url": "https://images.thdstatic.com/productImages/d45a9359-db46-4a50-80c7-ce0234a01d04/svn/black-vissani-beverage-wine-combos-hvbc430st-64_300.jpg"
-      },
-      {
-        "filename": "images/88.avif",
-        "url": "https://images.thdstatic.com/productImages/c77e42f4-5fda-48d7-96cb-3ee5ddaf756f/svn/fingerprint-resistant-matte-white-with-brushed-bronze-hardware-cafe-wine-coolers-ccp06bp4pw2-64_300.jpg"
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
       }
-    ]
-  },
-  "metadata": {
-    "title": "Beverage Coolers - The Home Depot",
-    "categoryType": "PLP Landing Pages",
-    "categoryFolder": "Beverage Coolers"
-  },
-  "version": "1.0",
-  "lastUpdated": "2025-12-31"
+    },
+    {
+      "productId": "316123462",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24 in. 14-Bottle Wine and Beverage Cooler in Stainless Steel",
+      "rating": {
+        "average": 4.1739,
+        "count": 23
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a809f03c-dcc6-4561-be57-ac394f57b82e/svn/stainless-steel-kitchenaid-beverage-wine-combos-kubr314kss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2879.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325720849",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "22 in. Single Zone 138-12 oz Can Beverage Cooler in Stainless Steel with Digital Temperature Control",
+      "rating": {
+        "average": 4.481,
+        "count": 79
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a555765-8ee6-4aad-97e5-1ae2b0a11d78/svn/stainless-steel-frigidaire-beverage-refrigerators-fryb4623as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 559.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335138985",
+      "modelNumber": "",
+      "brand": "SIMZLIFE",
+      "title": "17.3 in. Single Zone-130 Can Freestanding Beverage and Wine Cooler in Silver, LED Light, UV Protection",
+      "rating": {
+        "average": 4.3333,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/84419196-ed74-48cc-932e-727fb7e9171a/svn/silver-simzlife-beverage-wine-combos-br008-110si-eh-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300509606",
+      "modelNumber": "",
+      "brand": "Magic Chef",
+      "title": "Beverage 23.4 in. 154 (12 oz.) Can Beverage Cooler, Stainless Steel",
+      "rating": {
+        "average": 3.9883,
+        "count": 1106
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/36df9dd8-d524-4bf2-9e7b-0ea7a402e7e9/svn/stainless-magic-chef-beverage-wine-combos-hmbc58st-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 539.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312892681",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Gallery 5.3 cu. ft. Beverage Center Cooler with LED Temperature Controls and Display, Single Zone, Stainless Steel",
+      "rating": {
+        "average": 4.4744,
+        "count": 430
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6a934ddc-0af3-4dd7-9ab7-853d36162bd6/svn/stainless-steel-beverage-wine-combos-fgbc5334vs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 729.0,
+        "currency": "USD"
+      }
+    }
+  ]
 }

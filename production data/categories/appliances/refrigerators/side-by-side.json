@@ -1,0 +1,732 @@
+{
+  "categoryId": "appliances/refrigerators/side-by-side",
+  "name": "Side By Side",
+  "slug": "side-by-side",
+  "path": "/categories/appliances/refrigerators/side-by-side",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.710488",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    },
+    {
+      "label": "Side By Side",
+      "url": "/appliances/refrigerators/side-by-side"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 31
+  },
+  "featuredBrands": [
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 10
+    },
+    {
+      "brandId": "samsung",
+      "brandName": "Samsung",
+      "logoUrl": "images/brands/samsung.svg",
+      "count": 4
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 4
+    },
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 4
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 4
+    },
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 3
+    },
+    {
+      "brandId": "maytag",
+      "brandName": "Maytag",
+      "logoUrl": "images/brands/maytag.svg",
+      "count": 1
+    },
+    {
+      "brandId": "calefort",
+      "brandName": "Ca'Lefort",
+      "logoUrl": "images/brands/calefort.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "331129515",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "21.4 cu. ft. Garage Ready Counter Depth Side-By-Side Refrigerator in Fingerprint-Resistant Stainless Look",
+      "rating": {
+        "average": 4.6142,
+        "count": 674
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50588419-1dea-4cbb-89d6-400416dd45ac/svn/fingerprint-resistant-stainless-look-frigidaire-side-by-side-refrigerators-frsg2115av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 949.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320970662",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in. 26 cu. ft. Standard Depth Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.4507,
+        "count": 20620
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0a4c11ea-df91-43c1-90b1-89b54770f933/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frss2623as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312283386",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 27.4 cu. ft. Standard Depth Side by Side Refrigerator in Fingerprint-Resistant Stainless Steel",
+      "rating": {
+        "average": 4.1525,
+        "count": 3247
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5df08eb1-de64-4071-aff9-f74de56b43ed/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs27t5200sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339011919",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in. 26 cu. ft. Standard Depth Side-by-Side Refrigerator in Stainless Steel with CrispSeal Crispers",
+      "rating": {
+        "average": 4.6098,
+        "count": 41
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/de728e81-996d-48b1-a7c9-33b5def33106/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frsn2610af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320484893",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Side by Side Smart Refrigerator w/ Craft Ice, External Ice and Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.0432,
+        "count": 1158
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a392db8-3d1c-4724-bcf0-75919e567e16/svn/stainless-steel-lg-side-by-side-refrigerators-lhsxs2706s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2143.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302785353",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24.6 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Finish",
+      "rating": {
+        "average": 4.0255,
+        "count": 14991
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37c682e6-75df-4e03-97e4-d28313451fd3/svn/fingerprint-resistant-stainless-finish-whirlpool-side-by-side-refrigerators-wrs325sdhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987099",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "25.3 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Steel, Standard Depth",
+      "rating": {
+        "average": 4.4427,
+        "count": 7251
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4220e873-79ec-400f-959b-8c286b94c2ba/svn/fingerprint-resistant-stainless-steel-ge-side-by-side-refrigerators-gss25gypfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317445728",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Side-By-Side Refrigerator with Instaview Glass, Craft Ice, and Recessed Handles in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.0294,
+        "count": 1393
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e71c1061-4175-46cc-978a-9493fb7d34e2/svn/printproof-stainless-steel-lg-side-by-side-refrigerators-lrsos2706s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315423162",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 28 cu. ft. Standard Depth Smart Side by Side Refrigerator in Fingerprint-Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4411,
+        "count": 959
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f301fad3-2abb-40b7-816c-6a893ef074d8/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs28a500asr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320928142",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "33 in. 22.3 cu. ft. Standard Depth Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.2313,
+        "count": 8738
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ccd29180-2c32-40a5-9828-0d90c2b611b1/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frss2323as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309004718",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.8 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.3736,
+        "count": 4392
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eac75025-49fc-4fdd-8541-0bac96298e59/svn/fingerprint-resistant-stainless-steel-ge-side-by-side-refrigerators-gzs22iynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316165079",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36.1 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.9224,
+        "count": 3662
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/152181ec-cf27-4926-b8d0-9e5385144bf1/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frsc2333as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315869691",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.3709,
+        "count": 5312
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ae57eff-67b8-4b5d-9621-e1e678ba478b/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grsc2352af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316379807",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 26 cu. ft. Standard Depth Side by Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.4989,
+        "count": 8471
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c442297-8ef6-4a48-9177-f76613a9d815/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grss2652af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331339601",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 26 cu. ft. Standard Depth Side-by-Side Refrigerator in Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.5526,
+        "count": 485
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/93b8e2fd-55c9-4d38-b597-2574351ed817/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grsn2620af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312283539",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 26.7 cu. ft. Standard Depth Smart Side by Side Refrigerator in Stainless Steel with Family Hub",
+      "rating": {
+        "average": 4.3828,
+        "count": 990
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e1007830-23f9-449a-8b65-6deaa004bbfc/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs27t5561sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312283478",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 22 cu. ft. Counter Depth Smart Side by Side Refrigerator in Fingerprint-Resistant Stainless Steel",
+      "rating": {
+        "average": 4.086,
+        "count": 791
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa69d9df-e08b-4c80-a2c8-276b1c0bbe16/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs22t5201sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334284479",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20.8 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel with Exterior Ice and Water Dispenser",
+      "rating": {
+        "average": 4.0394,
+        "count": 127
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bef027b5-4a07-4d31-bc4c-688c381c7b35/svn/fingerprint-resistant-stainless-steel-kitchenaid-side-by-side-refrigerators-krsc536rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316300759",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 33 in. 22.3 cu. ft.  Standard Depth Side by Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.0978,
+        "count": 2034
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/75a87f79-5a9a-4475-bd2e-45faf2a8b287/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grss2352af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333982683",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 28.70 cu. ft. Full-Depth Side-by-Side Refrigerator in Fingerprint Resistant Stainless Finish with TruCool System",
+      "rating": {
+        "average": 4.2905,
+        "count": 475
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4361e2d2-ea39-4500-a8db-b5e4b47a08a2/svn/fingerprint-resistant-stainless-finish-whirlpool-side-by-side-refrigerators-wrsf5536rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1749.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317445512",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Side by Side Smart Refrigerator with Insta View, Craft Ice in PrintProof Black Stainless Steel",
+      "rating": {
+        "average": 4.0295,
+        "count": 1391
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4fdce664-59d0-47a1-b438-c79e24f412de/svn/printproof-black-stainless-steel-lg-side-by-side-refrigerators-lrsos2706d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329741524",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Professional 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.4337,
+        "count": 362
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7a46ac7e-9ceb-4b7e-b14f-9929bfb20454/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-prsc2222af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333713028",
+      "modelNumber": "",
+      "brand": "Maytag",
+      "title": "36 in. 28.7 cu. ft. Full-Depth Side-by-Side Refrigerator in Fingerprint Resistant Stainless Finish w/ PowerCold Feature",
+      "rating": {
+        "average": 4.486,
+        "count": 107
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f7d22e77-80ea-4e28-bb34-01bb6a96331e/svn/fingerprint-resistant-stainless-finish-maytag-side-by-side-refrigerators-mrsf6636rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322015991",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "47 in. W 29.4 cu. ft. Built-In Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.1311,
+        "count": 122
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e033a51-2a6f-4c64-8b1c-e0156b62f800/svn/stainless-steel-kitchenaid-side-by-side-refrigerators-kbsd708mss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9999.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327472387",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20.8 cu. ft. Countertop Depth Side-by-Side Refrigerator in Stainless Steel with PrintShield Finish",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ac775e4a-78d7-4b8a-a000-7961a92093c3/svn/stainless-steel-kitchenaid-side-by-side-refrigerators-kbsd706mps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9989.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322022366",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "48 in. W 30 cu. ft. Built-In Side by Side Refrigerator in Stainless Steel with PrintShield",
+      "rating": {
+        "average": 3.6897,
+        "count": 58
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5a576903-3409-4d7a-9707-5d4bb1627b8c/svn/stainless-steel-with-printshield-finish-kitchenaid-side-by-side-refrigerators-kbsn708mps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 10709.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309003622",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "25.1 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4829,
+        "count": 5318
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eac75025-49fc-4fdd-8541-0bac96298e59/svn/fingerprint-resistant-stainless-steel-ge-side-by-side-refrigerators-gss25iynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312648540",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28.7 cu. ft. Smart Built-In Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.5676,
+        "count": 111
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/63cbf5b0-6737-428d-8fc8-f261fdd390df/svn/stainless-steel-ge-side-by-side-refrigerators-psb48ysnss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 10376.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303115494",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "25 cu. ft. Side by Side Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 4.1114,
+        "count": 2647
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d578ef86-679f-4a5b-b8db-2a612a17171e/svn/monochromatic-stainless-steel-whirlpool-side-by-side-refrigerators-wrs315snhm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305505697",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "21.4 cu. ft. Side-by-Side Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 3.9178,
+        "count": 572
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d493fbee-abd5-480a-bdc3-44ee7ce0c45b/svn/monochromatic-stainless-steel-whirlpool-side-by-side-refrigerators-wrs331sdhm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1568.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339349601",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "48 in. Dual Zone 440-Cans Beverage Cooler Side-by-Side Refrigerator Built-In or Freestanding Fridge in Stainless Steel",
+      "rating": {
+        "average": 4.0889,
+        "count": 90
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e36dfdf-0a69-433f-9ca2-88a51eb88347/svn/ca-lefort-beverage-refrigerators-clf-bs24bs24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1165.98,
+        "currency": "USD"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+{
+  "categoryId": "tools/nailers/pneumatic",
+  "name": "Pneumatic",
+  "slug": "pneumatic",
+  "path": "/categories/tools/nailers/pneumatic",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.743714",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Nailers",
+      "url": "/tools/nailers"
+    },
+    {
+      "label": "Pneumatic",
+      "url": "/tools/nailers/pneumatic"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 46
+  },
+  "featuredBrands": [
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 15
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 6
+    },
+    {
+      "brandId": "steelman",
+      "brandName": "Steelman",
+      "logoUrl": "images/brands/steelman.svg",
+      "count": 4
+    },
+    {
+      "brandId": "skyshalo",
+      "brandName": "SKYSHALO",
+      "logoUrl": "images/brands/skyshalo.svg",
+      "count": 4
+    },
+    {
+      "brandId": "porter-cable",
+      "brandName": "Porter-Cable",
+      "logoUrl": "images/brands/porter-cable.svg",
+      "count": 4
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 2
+    },
+    {
+      "brandId": "paslode",
+      "brandName": "Paslode",
+      "logoUrl": "images/brands/paslode.svg",
+      "count": 2
+    },
+    {
+      "brandId": "freeman",
+      "brandName": "Freeman",
+      "logoUrl": "images/brands/freeman.svg",
+      "count": 2
+    },
+    {
+      "brandId": "senco",
+      "brandName": "Senco",
+      "logoUrl": "images/brands/senco.svg",
+      "count": 1
+    },
+    {
+      "brandId": "wen",
+      "brandName": "WEN",
+      "logoUrl": "images/brands/wen.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "305591757",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Palm Sander",
+      "rating": {
+        "average": 4.25,
+        "count": 44
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/57bd408a-f0dc-42e9-8b4b-bea6329a7c22/svn/dewalt-air-sanders-polishers-dwmt70781-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 90.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437696",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "1/2 in. W Pneumatic Air Belt Sander",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0e52b86-50e2-47bb-8766-439c94e132f1/svn/steelman-air-sanders-polishers-1612-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305502112",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "1/2 in. Heavy-Duty Pneumatic Impact Wrench",
+      "rating": {
+        "average": 4.4845,
+        "count": 97
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b33b88bc-7197-4564-8460-952b45c2c857/svn/dewalt-air-impact-wrenches-dwmt70773-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305591706",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Impact Wrench",
+      "rating": {
+        "average": 4.4,
+        "count": 50
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/db29ff76-d157-4e22-b82a-90031a70857d/svn/dewalt-air-impact-wrenches-dwmt70775-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 65.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336216947",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "1 In. Air Impact Wrench, Up to 2730 ft.-lbs. Reverse Torque Output 1 in. Pneumatic Impact Gun Lightweight for Repairs",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbf63b12-beff-4a1d-9d61-3af75da33b8c/svn/skyshalo-air-impact-wrenches-kqcjbsy12600nwccdv0-sk0506-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 135.29,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336216706",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "1 In. Air Impact Wrench, Up to 3160ft.-lbs. High Reverse Torque Output 1 in. Pneumatic Impact Gun for Heavy Duty Repairs",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/145adc45-0c1e-4846-9167-073fc5eb3d1a/svn/skyshalo-air-impact-wrenches-kq2800n15500nukerv0-sk0506-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 184.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309991679",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout",
+      "rating": {
+        "average": 4.448,
+        "count": 125
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20117bcc-23ab-4bbe-b5eb-9710f4b720e0/svn/ridgid-pin-nailers-r138hpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335888892",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "23-Gauge 1-3/8 in. Pneumatic Pin Nailer",
+      "rating": {
+        "average": 4.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3e51ff0f-2dd5-463c-9a6e-8fc4585b3398/svn/porter-cable-pin-nailers-pin138b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 117.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336678358",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "23-Gauge 1-3/8 in. Pneumatic Pin Nailer (2-Pack)",
+      "rating": {
+        "average": 4.6111,
+        "count": 288
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dd07f69e-db01-4952-aa8c-3de26af99e03/svn/porter-cable-pin-nailers-pin138bx2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958550",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.4725,
+        "count": 673
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/81b97529-7983-44f9-9afd-b1f8234ba254/svn/ridgid-pin-nailers-r138hpf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 198.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314116762",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.4714,
+        "count": 630
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/81b97529-7983-44f9-9afd-b1f8234ba254/svn/ridgid-pin-nailers-r138hpf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 143.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300347905",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 23-Gauge, 1-3/8 in. Pin Nailer",
+      "rating": {
+        "average": 4.3137,
+        "count": 51
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/717d9f4c-3be1-4ca2-9412-f64614d4654b/svn/makita-pin-nailers-af353-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205647703",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15-Gauge DA Nailer",
+      "rating": {
+        "average": 4.1333,
+        "count": 270
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/26410cb6-f1bf-43b2-b0c2-0d3755a2a30e/svn/dewalt-finishing-nailers-dwfp72155-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100672162",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "Pneumatic 16-Gauge 2-1/2 in. Nailer Kit",
+      "rating": {
+        "average": 4.064,
+        "count": 375
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bac96107-9acd-4a39-8e15-1d87e65e8d28/svn/porter-cable-finishing-nailers-fn250c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100059106",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "15-Gauge Pneumatic 2-1/2 in. Angled Nailer Kit",
+      "rating": {
+        "average": 4.2642,
+        "count": 106
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6e963bfb-83c3-46ee-b2fd-31fa44cbf623/svn/porter-cable-finishing-nailers-da250c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205847778",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "4 oz. Pneumatic Tool Lubricant Oil",
+      "rating": {
+        "average": 4.3717,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c2354b93-fdc3-4f0c-a97c-438b5ebbaff7/svn/dewalt-air-compressor-oils-dwfp4ozoil-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305591806",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Angle Grinder",
+      "rating": {
+        "average": 4.6585,
+        "count": 41
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d28de47e-1fc2-4d99-a849-b584d021c715/svn/dewalt-air-grinders-dwmt70782-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314515822",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "RoofPro445XP Pneumatic 15-Degree 1-3/4 in. Coil Nailer",
+      "rating": {
+        "average": 4.5,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dba47d8d-5420-441d-ab3a-7bf6a0302d71/svn/senco-roofing-nailers-8v0001n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 317.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307638880",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "5-in-1 Pneumatic Multi-Function Tool with Scraper, Shovel and Chisel Attachments",
+      "rating": {
+        "average": 3.9714,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0bd5b96a-cf76-4e0f-8bf8-f1e1fb031d18/svn/wen-air-tool-kits-61635-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 314.86,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205647623",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15-Degree Coil Corded Siding Nailer",
+      "rating": {
+        "average": 4.0422,
+        "count": 332
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/09e77ad7-794e-48ba-80d1-c19b7978638b/svn/dewalt-siding-nailers-dw66c-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312444805",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 2-1/2 in. 15\u00b0 Siding Coil Nailer",
+      "rating": {
+        "average": 3.7778,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b0dab364-69b6-4fbe-ba74-6db0217166fe/svn/makita-siding-nailers-an613-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329719491",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15-Degree Coil Siding Nailer with 2 in. x 0.090 in. Metal Coil Ring Shank Nails (3600 per Box)",
+      "rating": {
+        "average": 4.1462,
+        "count": 431
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/72ef6536-48f4-4f38-9c9f-750bf9c39950/svn/dewalt-siding-nailers-dw66c-1w90bdg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 455.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326498352",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "Pneumatic 1-1/8 in. 0\u00b0 tetraGRIP Coil Siding Nailer",
+      "rating": {
+        "average": 4.8333,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5771692-cc7e-4f2a-ba13-4bfa049aeb9e/svn/paslode-siding-nailers-515400-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 419.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325882306",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "PS225C Pneumatic 0-Degree Coil Siding Nailer",
+      "rating": {
+        "average": 3.6304,
+        "count": 46
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ec1a6719-fdba-45d8-9de5-7c9a5be309fc/svn/paslode-siding-nailers-515900-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 339.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319751620",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "2nd Generation Pneumatic 15 Degree 2-1/2 in. Coil Siding Nailer with Metal Belt Hook and 1/4 in. NPT Air Connector",
+      "rating": {
+        "average": 3.9333,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ceaa1ef-1348-46e2-ad57-a81d9223aed6/svn/freeman-siding-nailers-g2cn65-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337915176",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15\u00b0 Coil Corded 2-1/2 in. Siding Nailer and 50 ft. x 1/4 in. Air Hose",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b90e2167-62df-4db1-8f98-07eef42a5f3d/svn/dewalt-siding-nailers-dw66c-1w1450d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 358.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322420764",
+      "modelNumber": "",
+      "brand": "Estwing",
+      "title": "Pneumatic 15-Degree 2-1/2 in. Coil Siding Nailer with Adjustable Metal Belt Hook, 1/4 in. NPT Swivel Fitting and Bag",
+      "rating": {
+        "average": 3.8,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6cc91194-0a21-40ef-8f30-bb7639478f31/svn/estwing-siding-nailers-ecn65-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305591732",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Ratchet",
+      "rating": {
+        "average": 4.0364,
+        "count": 55
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/74799487-4df9-4c6d-ae1a-073bf4e90771/svn/dewalt-air-ratchet-wrenches-dwmt70776-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309754673",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Ratchet and 50 ft. x 1/4 in. Air Hose",
+      "rating": {
+        "average": 4.6303,
+        "count": 798
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/71806aa3-0fb5-4e5d-a40f-8bd56a992dfd/svn/dewalt-air-ratchet-wrenches-dwmt70776w1450d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 96.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437776",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "3/8 in. Drive Pneumatic Ratchet Air Tool Set with Sockets and Adapters (16-Piece)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a41ef4d8-d1e1-40cb-b12e-51f9f2a2e6c5/svn/steelman-air-ratchet-wrenches-130k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337037724",
+      "modelNumber": "",
+      "brand": "Surebonder",
+      "title": "Pneumatic-7 Piece-Heavy Duty Standard Staple Gun/Staple Kit-1/4 in.,5/16 in.,3/8 in.,1/2 in. and 9/16 in. Staples Incl.",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a4994883-6ac1-48a7-b844-739afa80d0c7/svn/surebonder-air-tool-kits-9600ck-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307280891",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Reversible Drill",
+      "rating": {
+        "average": 4.5333,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bf724daa-6ec1-471e-a74c-59c9e8d46e1e/svn/dewalt-air-drills-dwmt70786-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437792",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "3/8 in. 2-Gear Type Drive Pneumatic Air Drill",
+      "rating": {
+        "average": 3.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c34c45c-74bc-4d0a-91ab-f77a058f15e7/svn/steelman-air-drills-1701-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 67.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332238498",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Air Operated Grease Gun, 6000PSI, 14 oz./400 CC Capacity Heavy Duty Pneumatic Grease Gun, with 18.5 in. Flexible Hose",
+      "rating": {
+        "average": 2.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/47d4784e-cefc-4a66-bc7f-cd3c7f94a0db/svn/skyshalo-air-grease-guns-qd18in6000psiexbev0-819-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307280939",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Air Chisel",
+      "rating": {
+        "average": 3.4324,
+        "count": 37
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2ed78091-b9c6-498e-bc98-c892d4cb4312/svn/dewalt-air-hammers-dwmt70785-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.74,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207053250",
+      "modelNumber": "",
+      "brand": "Mayhew",
+      "title": "Pro Pneumatic Hammer",
+      "rating": {
+        "average": 4.6957,
+        "count": 23
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49be41a6-3205-44ae-ad9a-ace83d5d1d69/svn/mayhew-air-hammers-31982-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 18.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337761096",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Air Needle Scaler, 3400BPM Pneumatic Scaler with 3-Speed Adjustment, 19 Hardened Needles for Rust Paint Removal",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b644712c-0f8e-456d-ae64-77a7e85587a6/svn/skyshalo-air-hammers-qdcczscxqztxntzdr002v0-sk0728-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 78.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339793225",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Cut-Off Tool",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e0af210d-9f7f-4cef-a13c-6c1ab6375343/svn/dewalt-air-cut-off-tools-dwmt70784-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.29,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437575",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "3 in. Air Pneumatic Cut-Off Tool with Metal Safety Guard",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f2fdc77e-b024-419c-a082-c3836102ebad/svn/steelman-air-cut-off-tools-1526a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 34.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339793183",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Gravity Feed Pneumatic Touch-Up Spray Gun",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1fc2814f-2aa9-4d33-8cd0-394af004623a/svn/dewalt-pneumatic-paint-sprayers-dwmt70778-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308910132",
+      "modelNumber": "",
+      "brand": "NuMax",
+      "title": "Pneumatic 0.8 mm Tip Mini HVLP Gravity Feed Spray Gun with 125 cc Plastic Cup",
+      "rating": {
+        "average": 4.0952,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13478444-211f-4770-b890-246f3ca446b2/svn/numax-pneumatic-paint-sprayers-sps08-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 24.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320392306",
+      "modelNumber": "",
+      "brand": "Buffalo Tools",
+      "title": "1 qt. Industrial Paint Pneumatic Spray Gun",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/41ebfcbb-8e08-4680-9ef9-f9604497fef0/svn/buffalo-tools-pneumatic-paint-sprayers-807882-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325211080",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 3-1/2 in. Mini Palm Nailer",
+      "rating": {
+        "average": 4.6667,
+        "count": 72
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/35efbb18-a754-425e-9ceb-cd268a7f0973/svn/ridgid-palm-nailers-r350mpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207103093",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 3-1/2 in. Full-Size Palm Nailer",
+      "rating": {
+        "average": 4.6646,
+        "count": 474
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ad0e60c7-9efb-4667-a57e-8b42870a77a4/svn/ridgid-palm-nailers-r350pnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335331566",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 3-1/2 in. Full-Size Palm Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.559,
+        "count": 1009
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5693d7a5-2fe7-4f1c-9711-458606a3c16d/svn/ridgid-palm-nailers-r350pnf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202511009",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "Pneumatic Mini Palm Nailer with Cushion Hand Grip and Magnetic Tip",
+      "rating": {
+        "average": 4.5532,
+        "count": 47
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c5f2006c-1200-4792-a3e4-315372ad5f05/svn/freeman-palm-nailers-pmpn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 30.98,
+        "currency": "USD"
+      }
+    }
+  ]
+}

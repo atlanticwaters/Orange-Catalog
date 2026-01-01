@@ -1,0 +1,45 @@
+{
+  "productId": "321175228",
+  "identifiers": {
+    "internetNumber": "321175228",
+    "modelNumber": "",
+    "storeSkuNumber": "321175228"
+  },
+  "brand": {
+    "name": "J&E Home",
+    "logoUrl": "images/brands/je-home.svg"
+  },
+  "title": "62 in. H Gray Floor Storage Cabinet with 3-Drawers and Adjustable Shelves",
+  "shortDescription": "62 in. H Gray Floor Storage Cabinet with 3-Drawers and Adjustable Shelves",
+  "longDescription": "62 in. H Gray Floor Storage Cabinet with 3-Drawers and Adjustable Shelves",
+  "pricing": {
+    "currentPrice": 405.16,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 1
+  },
+  "media": {
+    "primaryImage": "/products/321175228/gray-j-e-home-accent-cabinets-gd-w24739717-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321175228/gray-j-e-home-accent-cabinets-gd-w24739717-64_100.jpg",
+        "altText": "62 in. H Gray Floor Storage Cabinet with 3-Drawers and Adjustable Shelves",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.576970"
+}

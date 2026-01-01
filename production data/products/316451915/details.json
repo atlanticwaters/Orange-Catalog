@@ -1,0 +1,45 @@
+{
+  "productId": "316451915",
+  "identifiers": {
+    "internetNumber": "316451915",
+    "modelNumber": "",
+    "storeSkuNumber": "316451915"
+  },
+  "brand": {
+    "name": "LCG SALES INC",
+    "logoUrl": "images/brands/lcg-sales-inc.svg"
+  },
+  "title": "Artificial 6-foot Ficus Tree in Basket",
+  "shortDescription": "Artificial 6-foot Ficus Tree in Basket",
+  "longDescription": "Artificial 6-foot Ficus Tree in Basket",
+  "pricing": {
+    "currentPrice": 62.5,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5122,
+    "count": 82
+  },
+  "media": {
+    "primaryImage": "/products/316451915/lcg-sales-inc-artificial-trees-19tfp157-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316451915/lcg-sales-inc-artificial-trees-19tfp157-64_100.jpg",
+        "altText": "Artificial 6-foot Ficus Tree in Basket",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.605725"
+}

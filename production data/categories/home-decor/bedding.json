@@ -1,0 +1,287 @@
+{
+  "categoryId": "home-decor/bedding",
+  "name": "Bedding",
+  "slug": "bedding",
+  "path": "/categories/home-decor/bedding",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.726111",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Home Decor",
+      "url": "/home-decor"
+    },
+    {
+      "label": "Bedding",
+      "url": "/home-decor/bedding"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 10
+  },
+  "featuredBrands": [
+    {
+      "brandId": "madison-park",
+      "brandName": "Madison Park",
+      "logoUrl": "images/brands/madison-park.svg",
+      "count": 2
+    },
+    {
+      "brandId": "nautica",
+      "brandName": "Nautica",
+      "logoUrl": "images/brands/nautica.svg",
+      "count": 2
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 1
+    },
+    {
+      "brandId": "martha-stewart-living",
+      "brandName": "Martha Stewart Living",
+      "logoUrl": "images/brands/martha-stewart-living.svg",
+      "count": 1
+    },
+    {
+      "brandId": "laura-ashley",
+      "brandName": "Laura Ashley",
+      "logoUrl": "images/brands/laura-ashley.svg",
+      "count": 1
+    },
+    {
+      "brandId": "cannon",
+      "brandName": "CANNON",
+      "logoUrl": "images/brands/cannon.svg",
+      "count": 1
+    },
+    {
+      "brandId": "home-decorators-collection",
+      "brandName": "Home Decorators Collection",
+      "logoUrl": "images/brands/home-decorators-collection.svg",
+      "count": 1
+    },
+    {
+      "brandId": "eddie-bauer",
+      "brandName": "Eddie Bauer",
+      "logoUrl": "images/brands/eddie-bauer.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "319168105",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "White 100% Cotton Goose Feather and Down Full/Queen Comforter",
+      "rating": {
+        "average": 4.6444,
+        "count": 45
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1c95ae59-d923-46e6-9a5d-a948a37ca7b8/svn/comforters-ms004402-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338513533",
+      "modelNumber": "",
+      "brand": "Madison Park",
+      "title": "Stay Puffed Tan King/Cal King Overfilled Down Alternative Comforter",
+      "rating": {
+        "average": 4.7143,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/92849db9-7b94-4862-9b3b-2e017f46f7e4/svn/madison-park-comforters-mp10-8445-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 133.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318151532",
+      "modelNumber": "",
+      "brand": "Martha Stewart Living",
+      "title": "300 Threadcount Sateen Cotton RDS Down Light Warmth King Comforter",
+      "rating": {
+        "average": 4.9231,
+        "count": 26
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/278e7e39-77ae-4a1a-9997-dd0b9b1f1944/svn/martha-stewart-living-comforters-ms010206-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 156.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325355510",
+      "modelNumber": "",
+      "brand": "Laura Ashley",
+      "title": "Delphine 2-Piece Pink Cotton Twin XL Comforter Set",
+      "rating": {
+        "average": 4.3846,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3a094c89-e9f4-4832-a998-7ef5a7eca914/svn/laura-ashley-bedding-sets-ushsa51254460-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 112.3,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334516315",
+      "modelNumber": "",
+      "brand": "Nautica",
+      "title": "Naval Stripe 3-Piece Navy/White Cotton Slub Full/Queen Comforter Set",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f1794d2f-89be-451a-a811-747f1a9d05a9/svn/nautica-bedding-sets-ushsa51330149-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 132.55,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333058260",
+      "modelNumber": "",
+      "brand": "CANNON",
+      "title": "Solid Oversized Percale Olive Green King 3 Piece Cotton Comforter Set",
+      "rating": {
+        "average": 4.2857,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51a6c228-30bf-4b08-b136-e348f570d9c4/svn/cannon-bedding-sets-cs5940ogkg-1500-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 116.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337227289",
+      "modelNumber": "",
+      "brand": "Madison Park",
+      "title": "Ellis 3-Piece Olive Polyester Full/Queen Textured Knit Chenille Comforter Set",
+      "rating": {
+        "average": 4.8889,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e26ce319-f6bb-4419-9797-3f47d09087ef/svn/madison-park-bedding-sets-mp10-8887-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 111.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325998471",
+      "modelNumber": "",
+      "brand": "Home Decorators Collection",
+      "title": "3-Piece Oatmeal Cotton Linen Blend Full/Queen Comforter Set",
+      "rating": {
+        "average": 4.3077,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/58ede03e-d48a-4f72-9368-bc081f6bc492/svn/home-decorators-collection-comforters-hd018-fq-oatmeal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 110.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332301502",
+      "modelNumber": "",
+      "brand": "Eddie Bauer",
+      "title": "Mountain Plaid 3-Piece Light Grey/Beige 100% Cotton Full/Queen Comforter Set",
+      "rating": {
+        "average": 4.8333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9cbdaecd-253f-4121-9d24-ce2316d90c5a/svn/eddie-bauer-bedding-sets-ushsa51304144-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326591793",
+      "modelNumber": "",
+      "brand": "Nautica",
+      "title": "Lewes 3-Piece Dark Grey Microsuede Full/Queen Comforter-Sham Set",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ed3a2d0d-3f8a-4d5d-9b99-71f417944a58/svn/nautica-bedding-sets-ushsa51261822-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 62.18,
+        "currency": "USD"
+      }
+    }
+  ]
+}

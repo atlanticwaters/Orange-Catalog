@@ -1,0 +1,45 @@
+{
+  "productId": "323095588",
+  "identifiers": {
+    "internetNumber": "323095588",
+    "modelNumber": "",
+    "storeSkuNumber": "323095588"
+  },
+  "brand": {
+    "name": "Samsung",
+    "logoUrl": "images/brands/samsung.svg"
+  },
+  "title": "24 in. 4.0 cu. ft. Ventless Smart Dial Electric Heat Pump Dryer in White with Sensor Dry",
+  "shortDescription": "24 in. 4.0 cu. ft. Ventless Smart Dial Electric Heat Pump Dryer in White with Sensor Dry",
+  "longDescription": "24 in. 4.0 cu. ft. Ventless Smart Dial Electric Heat Pump Dryer in White with Sensor Dry",
+  "pricing": {
+    "currentPrice": 1169.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.06,
+    "count": 50
+  },
+  "media": {
+    "primaryImage": "/products/323095588/white-samsung-electric-dryers-dv25b6900hw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/323095588/white-samsung-electric-dryers-dv25b6900hw-64_100.jpg",
+        "altText": "24 in. 4.0 cu. ft. Ventless Smart Dial Electric Heat Pump Dryer in White with Sensor Dry",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.472455"
+}

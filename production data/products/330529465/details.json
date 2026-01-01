@@ -1,0 +1,45 @@
+{
+  "productId": "330529465",
+  "identifiers": {
+    "internetNumber": "330529465",
+    "modelNumber": "",
+    "storeSkuNumber": "330529465"
+  },
+  "brand": {
+    "name": "Vigoro",
+    "logoUrl": "images/brands/vigoro.svg"
+  },
+  "title": "36 in. Green Artificial PVC Expandable Trellis 36 in. x 72 in. Chestnut Leaves",
+  "shortDescription": "36 in. Green Artificial PVC Expandable Trellis 36 in. x 72 in. Chestnut Leaves",
+  "longDescription": "36 in. Green Artificial PVC Expandable Trellis 36 in. x 72 in. Chestnut Leaves",
+  "pricing": {
+    "currentPrice": 59.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.85,
+    "count": 20
+  },
+  "media": {
+    "primaryImage": "/products/330529465/vigoro-artificial-hedges-thd3672br-1200-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/330529465/vigoro-artificial-hedges-thd3672br-1200-64_100.jpg",
+        "altText": "36 in. Green Artificial PVC Expandable Trellis 36 in. x 72 in. Chestnut Leaves",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.618507"
+}

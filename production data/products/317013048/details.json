@@ -1,0 +1,45 @@
+{
+  "productId": "317013048",
+  "identifiers": {
+    "internetNumber": "317013048",
+    "modelNumber": "",
+    "storeSkuNumber": "317013048"
+  },
+  "brand": {
+    "name": "Vissani",
+    "logoUrl": "images/brands/vissani.svg"
+  },
+  "title": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+  "shortDescription": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+  "longDescription": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+  "pricing": {
+    "currentPrice": 599.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.19,
+    "count": 458
+  },
+  "media": {
+    "primaryImage": "/products/317013048/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf18ssr-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/317013048/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf18ssr-64_100.jpg",
+        "altText": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.437938"
+}

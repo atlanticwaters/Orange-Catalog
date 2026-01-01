@@ -1,0 +1,45 @@
+{
+  "productId": "206268536",
+  "identifiers": {
+    "internetNumber": "206268536",
+    "modelNumber": "",
+    "storeSkuNumber": "206268536"
+  },
+  "brand": {
+    "name": "KitchenAid",
+    "logoUrl": "images/brands/kitchenaid.svg"
+  },
+  "title": "21.9 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth",
+  "shortDescription": "21.9 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth",
+  "longDescription": "21.9 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth",
+  "pricing": {
+    "currentPrice": 2599.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.0022,
+    "count": 1368
+  },
+  "media": {
+    "primaryImage": "/products/206268536/stainless-steel-kitchenaid-french-door-refrigerators-krfc302ess-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206268536/stainless-steel-kitchenaid-french-door-refrigerators-krfc302ess-64_100.jpg",
+        "altText": "21.9 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.436273"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "305049155",
+  "identifiers": {
+    "internetNumber": "305049155",
+    "modelNumber": "",
+    "storeSkuNumber": "305049155"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Air Compressor Accessory Kit (20-Piece)",
+  "shortDescription": "Air Compressor Accessory Kit (20-Piece)",
+  "longDescription": "Air Compressor Accessory Kit (20-Piece)",
+  "pricing": {
+    "currentPrice": 18.97,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.538,
+    "count": 526
+  },
+  "media": {
+    "primaryImage": "/products/305049155/husky-air-tool-accessory-kits-41226bxhom-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/305049155/husky-air-tool-accessory-kits-41226bxhom-64_100.jpg",
+        "altText": "Air Compressor Accessory Kit (20-Piece)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.507825"
+}

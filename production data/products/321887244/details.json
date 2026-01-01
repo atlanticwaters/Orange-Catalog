@@ -1,0 +1,45 @@
+{
+  "productId": "321887244",
+  "identifiers": {
+    "internetNumber": "321887244",
+    "modelNumber": "",
+    "storeSkuNumber": "321887244"
+  },
+  "brand": {
+    "name": "LG",
+    "logoUrl": "images/brands/lg.svg"
+  },
+  "title": "24 cu. ft. Top Mount Freezer Refrigerator with Multi-Flow Air System in Stainless Steel, Garage Ready",
+  "shortDescription": "24 cu. ft. Top Mount Freezer Refrigerator with Multi-Flow Air System in Stainless Steel, Garage Ready",
+  "longDescription": "24 cu. ft. Top Mount Freezer Refrigerator with Multi-Flow Air System in Stainless Steel, Garage Ready",
+  "pricing": {
+    "currentPrice": 1199.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.395,
+    "count": 1200
+  },
+  "media": {
+    "primaryImage": "/products/321887244/stainless-steel-lg-top-freezer-refrigerators-lhtns2403s-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/321887244/stainless-steel-lg-top-freezer-refrigerators-lhtns2403s-64_100.jpg",
+        "altText": "24 cu. ft. Top Mount Freezer Refrigerator with Multi-Flow Air System in Stainless Steel, Garage Ready",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.430749"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "316913075",
+  "identifiers": {
+    "internetNumber": "316913075",
+    "modelNumber": "",
+    "storeSkuNumber": "316913075"
+  },
+  "brand": {
+    "name": "Best Master Furniture",
+    "logoUrl": "images/brands/best-master-furniture.svg"
+  },
+  "title": "Princeton 60 in. Traditional Walnut Solid Wood Executive Desk",
+  "shortDescription": "Princeton 60 in. Traditional Walnut Solid Wood Executive Desk",
+  "longDescription": "Princeton 60 in. Traditional Walnut Solid Wood Executive Desk",
+  "pricing": {
+    "currentPrice": 952.6,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5714,
+    "count": 7
+  },
+  "media": {
+    "primaryImage": "/products/316913075/walnut-best-master-furniture-executive-desks-cd100-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/316913075/walnut-best-master-furniture-executive-desks-cd100-64_100.jpg",
+        "altText": "Princeton 60 in. Traditional Walnut Solid Wood Executive Desk",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.576330"
+}

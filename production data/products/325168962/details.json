@@ -1,0 +1,45 @@
+{
+  "productId": "325168962",
+  "identifiers": {
+    "internetNumber": "325168962",
+    "modelNumber": "",
+    "storeSkuNumber": "325168962"
+  },
+  "brand": {
+    "name": "Milwaukee",
+    "logoUrl": "images/brands/milwaukee.svg"
+  },
+  "title": "PACKOUT Builder- Build Your System",
+  "shortDescription": "PACKOUT Builder- Build Your System",
+  "longDescription": "PACKOUT Builder- Build Your System",
+  "pricing": {
+    "currentPrice": 69.94,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6833,
+    "count": 6935
+  },
+  "media": {
+    "primaryImage": "/products/325168962/red-milwaukee-modular-tool-storage-systems-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325168962/red-milwaukee-modular-tool-storage-systems-64_100.jpg",
+        "altText": "PACKOUT Builder- Build Your System",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.427435"
+}

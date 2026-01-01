@@ -1,0 +1,614 @@
+{
+  "categoryId": "furniture/office",
+  "name": "Office",
+  "slug": "office",
+  "path": "/categories/furniture/office",
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.720241",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Furniture",
+      "url": "/furniture"
+    },
+    {
+      "label": "Office",
+      "url": "/furniture/office"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 25
+  },
+  "featuredBrands": [
+    {
+      "brandId": "fufugaga",
+      "brandName": "FUFU&GAGA",
+      "logoUrl": "images/brands/fufugaga.svg",
+      "count": 5
+    },
+    {
+      "brandId": "lacoo",
+      "brandName": "LACOO",
+      "logoUrl": "images/brands/lacoo.svg",
+      "count": 3
+    },
+    {
+      "brandId": "jearey",
+      "brandName": "JEAREY",
+      "logoUrl": "images/brands/jearey.svg",
+      "count": 2
+    },
+    {
+      "brandId": "concepts-in-wood",
+      "brandName": "Concepts In Wood",
+      "logoUrl": "images/brands/concepts-in-wood.svg",
+      "count": 2
+    },
+    {
+      "brandId": "modway",
+      "brandName": "MODWAY",
+      "logoUrl": "images/brands/modway.svg",
+      "count": 2
+    },
+    {
+      "brandId": "bestier",
+      "brandName": "Bestier",
+      "logoUrl": "images/brands/bestier.svg",
+      "count": 2
+    },
+    {
+      "brandId": "comhoma",
+      "brandName": "ComHoma",
+      "logoUrl": "images/brands/comhoma.svg",
+      "count": 1
+    },
+    {
+      "brandId": "best-master-furniture",
+      "brandName": "Best Master Furniture",
+      "logoUrl": "images/brands/best-master-furniture.svg",
+      "count": 1
+    },
+    {
+      "brandId": "sandusky",
+      "brandName": "Sandusky",
+      "logoUrl": "images/brands/sandusky.svg",
+      "count": 1
+    },
+    {
+      "brandId": "harper-bright-designs",
+      "brandName": "Harper & Bright Designs",
+      "logoUrl": "images/brands/harper-bright-designs.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "322540836",
+      "modelNumber": "",
+      "brand": "ComHoma",
+      "title": "Makeup Vanity Desk with 3-Color Modes Adjustable Lights Vanity Table and Chair Set with Charging Station, White",
+      "rating": {
+        "average": 3.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d36d2736-9806-4002-b67e-ea0c546f47ef/svn/white-comhoma-makeup-vanities-hd-gt505-black-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 145.81,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333726111",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "White Makeup Vanity Desk 11-Drawers Wood Dressing Table with Big Lighted Mirror, Glass Top",
+      "rating": {
+        "average": 3.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/77e3c13a-c6d0-48ce-b876-b236997bc6b8/svn/white-fufu-gaga-makeup-vanities-kf210308-01-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 278.46,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "340344477",
+      "modelNumber": "",
+      "brand": "LACOO",
+      "title": "Vanity Desk with Large Lighted Mirror, Power Outlet and LED Lights, Makeup Vanity Table with 7 Drawers White",
+      "rating": {
+        "average": 4.1429,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6f211f4e-2975-4c0a-9a8b-8f2da8edd493/svn/daisy-led-lacoo-makeup-vanities-v-vn-0938-wt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330986910",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "White Makeup Vanity Desk Wood Dressing Table With Sliding Top, Full-Length Mirror, Hidden Shelves, Drawers, LED Lights",
+      "rating": {
+        "average": 3.3333,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6eb584ec-8afe-4c98-adbb-2a631d2c1c34/svn/white-fufu-gaga-makeup-vanities-kf460025-01-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 191.16,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331760832",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "Pink Modern Makeup Vanity Desk 9-Drawers Wood Dressing Table with 3 Mirrors, Hidden Storage Shelves, LED Lighted Lights",
+      "rating": {
+        "average": 3.8738,
+        "count": 103
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3736e62d-b0a5-4bac-8c68-48c30bdddb2c/svn/pink-fufu-gaga-makeup-vanities-kf210213-07-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 183.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338051283",
+      "modelNumber": "",
+      "brand": "LACOO",
+      "title": "Vanity Desk with Lighted Mirror & Power Outlet, Makeup Vanity with Drawer & Cabinet White",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c397b300-6c4d-4234-8557-77f0c7e33ef8/svn/white-lacoo-makeup-vanities-v-vn-0474a-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.74,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336416766",
+      "modelNumber": "",
+      "brand": "JEAREY",
+      "title": "White Makeup Vanity Desk Wood Dressing Table With Mirrors, Drawers, Cabinets, Shelves, 3-Color LED Lighted",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2f65f181-29cb-43cb-817a-af09628ac569/svn/white-jearey-makeup-vanities-sjdzszt-white-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 115.26,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336906017",
+      "modelNumber": "",
+      "brand": "LACOO",
+      "title": "Makeup Vanity with Lights in 3-Colors, Vanity Desk with Large Mirror, Drawers and Shelves, Pink",
+      "rating": {
+        "average": 3.9,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3773ad4a-0efb-483f-8328-558e1ec1a587/svn/light-pink-lacoo-makeup-vanities-v-vn23-0244c-lp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334692063",
+      "modelNumber": "",
+      "brand": "JEAREY",
+      "title": "White 35.43 in.W Makeup Vanity Desk Wood Dressing Table with Mirrors, Drawers, Cabinets, Shelves, 3-Color LED Lighted",
+      "rating": {
+        "average": 4.2,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6bdf9056-2dac-4954-8101-8b8dce02df6d/svn/white-jearey-makeup-vanities-ledszt-white-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 132.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307817271",
+      "modelNumber": "",
+      "brand": "Concepts In Wood",
+      "title": "84 in. Dry Oak Wood 18-shelf Standard Bookcase with Adjustable Shelves",
+      "rating": {
+        "average": 4.471,
+        "count": 155
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/72ec6830-a8b0-4d2d-86c1-025ec4a52b81/svn/dry-oak-concepts-in-wood-bookcases-bookshelves-mi7284-d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 673.62,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328980722",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "63 in. W L- Shaped White Wood Adjustable Height Computer Desk Ergonomic Writing Desk Memory Preset Controller",
+      "rating": {
+        "average": 4.0556,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e85260d1-2eb7-4e29-b07f-ef7e20d472ae/svn/white-fufu-gaga-computer-desks-kf150213-12-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 421.48,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330292817",
+      "modelNumber": "",
+      "brand": "MODWAY",
+      "title": "Evie 71.1 in. Tall Arched Wood Display Bookcase in Black Oak",
+      "rating": {
+        "average": 4.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/83384c06-1f41-4ec3-b090-79de844aedec/svn/black-oak-modway-bookcases-bookshelves-eei-6834-blk-oak-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 455.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316913075",
+      "modelNumber": "",
+      "brand": "Best Master Furniture",
+      "title": "Princeton 60 in. Traditional Walnut Solid Wood Executive Desk",
+      "rating": {
+        "average": 4.5714,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc6e406b-ac2f-4b72-998a-dac0e66fcfbc/svn/walnut-best-master-furniture-executive-desks-cd100-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 952.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203001473",
+      "modelNumber": "",
+      "brand": "Sandusky",
+      "title": "Mobile Bookcase Series 78 in. Tall Red Steel 5-Shelf Standard Bookcase with Casters",
+      "rating": {
+        "average": 4.4167,
+        "count": 24
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/52fde985-82b0-4894-b470-f2368c3e3e09/svn/red-sandusky-bookcases-bookshelves-bm40361872-01-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 483.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335697062",
+      "modelNumber": "",
+      "brand": "Harper & Bright Designs",
+      "title": "83.4 in. Tall Black Wood 3-Shelf Standard Bookcase with Drawer, Sliding Doors and LED Light",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/18bc5207-1025-4b45-85e1-4445d8f35229/svn/black-harper-bright-designs-bookcases-bookshelves-zjr009aab-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 579.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322524399",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "55.1\" W : L-Shaped White Finish 1-Drawer Wooden Commercial Writing Desk with Open Shelves and Eco-Friendly Paint Finish",
+      "rating": {
+        "average": 3.9412,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59eaba1f-df70-4594-8a67-b6619373398c/svn/white-fufu-gaga-computer-desks-lbb-kf210175-01-c1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337637266",
+      "modelNumber": "",
+      "brand": "MODWAY",
+      "title": "Vexley 60 in. Tall Walnut Wood 4-Shelf Arched Open Display Bookcase with Shelves and Storage",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8df55315-e6fe-4c41-9bed-f0b36153069c/svn/walnut-modway-bookcases-bookshelves-eei-7317-wal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 247.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205597840",
+      "modelNumber": "",
+      "brand": "Office Star Products",
+      "title": "Coal FreeFlex Rolling Visitor Office Chair (Set of 2)",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9bcfe4a4-4f2f-4129-b74d-21dd8dcd6e56/svn/black-office-star-products-guest-office-chairs-83220-30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 217.93,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307817274",
+      "modelNumber": "",
+      "brand": "Concepts In Wood",
+      "title": "72 in. Espresso Wood 15-shelf Standard Bookcase with Adjustable Shelves",
+      "rating": {
+        "average": 4.1466,
+        "count": 191
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6fa0b8b9-1cb8-4b22-8f46-d587c6c9ee76/svn/espresso-concepts-in-wood-bookcases-bookshelves-mi7272-e-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 592.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307250425",
+      "modelNumber": "",
+      "brand": "Nathan James",
+      "title": "Theo Dark Walnut Brown 5-Shelf Ladder Bookcase or Bookshelf with Black Metal Frame",
+      "rating": {
+        "average": 4.7868,
+        "count": 483
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b9187ee6-e576-4a99-ae32-00f4e9bb2200/svn/warm-walnut-black-nathan-james-bookcases-bookshelves-65501-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 142.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335621580",
+      "modelNumber": "",
+      "brand": "Bestier",
+      "title": "Faux Leather Cross Legged Office Chair with Wheels, Meditation Chair, Adjustable Height Yoga Office Chair,White",
+      "rating": {
+        "average": 4.7917,
+        "count": 24
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/271e8707-0075-4451-8f0b-84810939cbb4/svn/white-bestier-task-chairs-usthdczus-h200571g-whitebt-m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301722480",
+      "modelNumber": "",
+      "brand": "BOSS Office Products",
+      "title": "Bomber Brown Leather Big and Tall Desk Chair Heavy Duty Black Steel Construction, 400 LB Capacity",
+      "rating": {
+        "average": 4.128,
+        "count": 125
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/034bc18a-a150-4f17-988d-ed235271bdc6/svn/brown-boss-office-products-executive-chairs-b991-bb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 283.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332644990",
+      "modelNumber": "",
+      "brand": "Bestier",
+      "title": "47 in. Rectangular White and Gold 2-Drawers Wood Fluted Computer Desk wth Storage, Makeup Vanity Table",
+      "rating": {
+        "average": 4.8571,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c1bec329-5b97-4f61-a404-0f7664bbbded/svn/white-and-gold-bestier-writing-desks-h105750e-bwht-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 125.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330170699",
+      "modelNumber": "",
+      "brand": "bali & pari",
+      "title": "Curacao 67.7 in. Tall Light Honey Rattan Wicker Bookcase",
+      "rating": {
+        "average": 4.2,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/18910cc1-b0e0-4879-9f36-01d6488ccb7d/svn/light-honey-bali-pari-bookcases-bookshelves-243-13570-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 388.31,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331260286",
+      "modelNumber": "",
+      "brand": "Coaster",
+      "title": "Owens 96 in. Tall Walnut and Sandy Black Wood 6-Shelf Ladder Bookcase",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dddb12ac-6525-4923-9c52-44dbd67639f3/svn/walnut-sandy-black-coaster-bookcases-bookshelves-980072-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 295.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

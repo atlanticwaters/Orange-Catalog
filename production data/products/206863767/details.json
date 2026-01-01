@@ -1,0 +1,45 @@
+{
+  "productId": "206863767",
+  "identifiers": {
+    "internetNumber": "206863767",
+    "modelNumber": "",
+    "storeSkuNumber": "206863767"
+  },
+  "brand": {
+    "name": "Lincoln",
+    "logoUrl": "images/brands/lincoln.svg"
+  },
+  "title": "Heavy Duty Pistol Grip Grease Gun with Whip Hose and Rigid Pipe",
+  "shortDescription": "Heavy Duty Pistol Grip Grease Gun with Whip Hose and Rigid Pipe",
+  "longDescription": "Heavy Duty Pistol Grip Grease Gun with Whip Hose and Rigid Pipe",
+  "pricing": {
+    "currentPrice": 59.99,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.7879,
+    "count": 33
+  },
+  "media": {
+    "primaryImage": "/products/206863767/lincoln-air-grease-guns-lin1134-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/206863767/lincoln-air-grease-guns-lin1134-64_100.jpg",
+        "altText": "Heavy Duty Pistol Grip Grease Gun with Whip Hose and Rigid Pipe",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.510269"
+}

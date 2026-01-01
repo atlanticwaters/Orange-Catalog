@@ -1,0 +1,45 @@
+{
+  "productId": "326917476",
+  "identifiers": {
+    "internetNumber": "326917476",
+    "modelNumber": "",
+    "storeSkuNumber": "326917476"
+  },
+  "brand": {
+    "name": "Husky",
+    "logoUrl": "images/brands/husky.svg"
+  },
+  "title": "Tool Storage 42 in. W x 18 in. D Standard Duty Black Tool Chest Combo",
+  "shortDescription": "Tool Storage 42 in. W x 18 in. D Standard Duty Black Tool Chest Combo",
+  "longDescription": "Tool Storage 42 in. W x 18 in. D Standard Duty Black Tool Chest Combo",
+  "pricing": {
+    "currentPrice": 698.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5404,
+    "count": 755
+  },
+  "media": {
+    "primaryImage": "/products/326917476/black-husky-tool-chest-combos-h42ch4tr8blk-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/326917476/black-husky-tool-chest-combos-h42ch4tr8blk-64_100.jpg",
+        "altText": "Tool Storage 42 in. W x 18 in. D Standard Duty Black Tool Chest Combo",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.539386"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "331780994",
+  "identifiers": {
+    "internetNumber": "331780994",
+    "modelNumber": "",
+    "storeSkuNumber": "331780994"
+  },
+  "brand": {
+    "name": "Pure Garden",
+    "logoUrl": "images/brands/pure-garden.svg"
+  },
+  "title": "6 ft. Artificial Bamboo Trees (Set of 2)",
+  "shortDescription": "6 ft. Artificial Bamboo Trees (Set of 2)",
+  "longDescription": "6 ft. Artificial Bamboo Trees (Set of 2)",
+  "pricing": {
+    "currentPrice": 175.05,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 0.0,
+    "count": 0
+  },
+  "media": {
+    "primaryImage": "/products/331780994/pure-garden-artificial-trees-50-lg1193-2-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/331780994/pure-garden-artificial-trees-50-lg1193-2-64_100.jpg",
+        "altText": "6 ft. Artificial Bamboo Trees (Set of 2)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.611393"
+}

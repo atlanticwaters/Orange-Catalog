@@ -1,0 +1,45 @@
+{
+  "productId": "303361414",
+  "identifiers": {
+    "internetNumber": "303361414",
+    "modelNumber": "",
+    "storeSkuNumber": "303361414"
+  },
+  "brand": {
+    "name": "Campbell Hausfeld",
+    "logoUrl": "images/brands/campbell-hausfeld.svg"
+  },
+  "title": "Get Stuff Done Keyless Reversible Air Drill 1/4 in. Inlet (XT401000)",
+  "shortDescription": "Get Stuff Done Keyless Reversible Air Drill 1/4 in. Inlet (XT401000)",
+  "longDescription": "Get Stuff Done Keyless Reversible Air Drill 1/4 in. Inlet (XT401000)",
+  "pricing": {
+    "currentPrice": 69.15,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5385,
+    "count": 13
+  },
+  "media": {
+    "primaryImage": "/products/303361414/campbell-hausfeld-air-drills-xt401000-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/303361414/campbell-hausfeld-air-drills-xt401000-64_100.jpg",
+        "altText": "Get Stuff Done Keyless Reversible Air Drill 1/4 in. Inlet (XT401000)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.553146"
+}

@@ -1,0 +1,45 @@
+{
+  "productId": "202523000",
+  "identifiers": {
+    "internetNumber": "202523000",
+    "modelNumber": "",
+    "storeSkuNumber": "202523000"
+  },
+  "brand": {
+    "name": "Vigoro",
+    "logoUrl": "images/brands/vigoro.svg"
+  },
+  "title": "0.5 cu. ft. Bagged Pea Gravel Pebble Landscape Rock",
+  "shortDescription": "0.5 cu. ft. Bagged Pea Gravel Pebble Landscape Rock",
+  "longDescription": "0.5 cu. ft. Bagged Pea Gravel Pebble Landscape Rock",
+  "pricing": {
+    "currentPrice": 5.47,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.5125,
+    "count": 5489
+  },
+  "media": {
+    "primaryImage": "/products/202523000/vigoro-bagged-landscape-rocks-54255-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/202523000/vigoro-bagged-landscape-rocks-54255-64_100.jpg",
+        "altText": "0.5 cu. ft. Bagged Pea Gravel Pebble Landscape Rock",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": false
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.423074"
+}

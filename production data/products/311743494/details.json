@@ -1,0 +1,45 @@
+{
+  "productId": "311743494",
+  "identifiers": {
+    "internetNumber": "311743494",
+    "modelNumber": "",
+    "storeSkuNumber": "311743494"
+  },
+  "brand": {
+    "name": "Frigidaire",
+    "logoUrl": "images/brands/frigidaire.svg"
+  },
+  "title": "30 in. 18.3 cu. ft. Top Freezer Refrigerator, Garage Ready",
+  "shortDescription": "30 in. 18.3 cu. ft. Top Freezer Refrigerator, Garage Ready",
+  "longDescription": "30 in. 18.3 cu. ft. Top Freezer Refrigerator, Garage Ready",
+  "pricing": {
+    "currentPrice": 799.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.4766,
+    "count": 17783
+  },
+  "media": {
+    "primaryImage": "/products/311743494/white-frigidaire-top-freezer-refrigerators-fftr1835vw-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/311743494/white-frigidaire-top-freezer-refrigerators-fftr1835vw-64_100.jpg",
+        "altText": "30 in. 18.3 cu. ft. Top Freezer Refrigerator, Garage Ready",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.437698"
+}

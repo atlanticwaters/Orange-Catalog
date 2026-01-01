@@ -1,0 +1,45 @@
+{
+  "productId": "325543967",
+  "identifiers": {
+    "internetNumber": "325543967",
+    "modelNumber": "",
+    "storeSkuNumber": "325543967"
+  },
+  "brand": {
+    "name": "DEWALT",
+    "logoUrl": "images/brands/dewalt.svg"
+  },
+  "title": "20V MAX XR Cordless Brushless 1/4 in. 3-Speed Impact Driver (Tool-Only)",
+  "shortDescription": "20V MAX XR Cordless Brushless 1/4 in. 3-Speed Impact Driver (Tool-Only)",
+  "longDescription": "20V MAX XR Cordless Brushless 1/4 in. 3-Speed Impact Driver (Tool-Only)",
+  "pricing": {
+    "currentPrice": 129.0,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 4.6623,
+    "count": 154
+  },
+  "media": {
+    "primaryImage": "/products/325543967/dewalt-impact-drivers-dcf845b-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/325543967/dewalt-impact-drivers-dcf845b-64_100.jpg",
+        "altText": "20V MAX XR Cordless Brushless 1/4 in. 3-Speed Impact Driver (Tool-Only)",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.662401"
+}

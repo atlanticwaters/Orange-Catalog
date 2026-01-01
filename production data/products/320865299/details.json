@@ -1,0 +1,45 @@
+{
+  "productId": "320865299",
+  "identifiers": {
+    "internetNumber": "320865299",
+    "modelNumber": "",
+    "storeSkuNumber": "320865299"
+  },
+  "brand": {
+    "name": "Basicwise",
+    "logoUrl": "images/brands/basicwise.svg"
+  },
+  "title": "White Tall Standing Bathroom Linen Tower Storage Cabinet for Bathroom and Vanity",
+  "shortDescription": "White Tall Standing Bathroom Linen Tower Storage Cabinet for Bathroom and Vanity",
+  "longDescription": "White Tall Standing Bathroom Linen Tower Storage Cabinet for Bathroom and Vanity",
+  "pricing": {
+    "currentPrice": 154.64,
+    "currency": "USD"
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 3
+  },
+  "media": {
+    "primaryImage": "/products/320865299/white-basicwise-accent-cabinets-qi004021-wt-64_100.jpg",
+    "images": [
+      {
+        "url": "/products/320865299/white-basicwise-accent-cabinets-qi004021-wt-64_100.jpg",
+        "altText": "White Tall Standing Bathroom Linen Tower Storage Cabinet for Bathroom and Vanity",
+        "type": "primary"
+      }
+    ]
+  },
+  "availability": {
+    "inStock": true,
+    "availableForPickup": true,
+    "availableForDelivery": true
+  },
+  "badges": [],
+  "specifications": {},
+  "shipping": {
+    "freeShipping": true
+  },
+  "version": "1.0",
+  "lastUpdated": "2025-12-31T22:30:04.577520"
+}
