@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category - Orange Catalog</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+            color: white;
+            padding: 2rem 1rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .back-link {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 1rem;
+            opacity: 0.9;
+            transition: opacity 0.3s;
+        }
+
+        .back-link:hover {
+            opacity: 1;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+        }
+
+        .category-info {
+            background: white;
+            padding: 2rem 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+
+        .search-filter {
+            background: white;
+            padding: 1.5rem 1rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 0.75rem;
+            font-size: 1rem;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+        }
+
+        #searchInput:focus {
+            outline: none;
+            border-color: #ff6b35;
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 2rem;
+            padding: 1rem;
+        }
+
+        .product-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        }
+
+        .product-image {
+            width: 100%;
+            height: 220px;
+            object-fit: contain;
+            background: #fafafa;
+            padding: 1rem;
+        }
+
+        .product-info {
+            padding: 1.25rem;
+        }
+
+        .product-brand {
+            font-size: 0.85rem;
+            color: #ff6b35;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+        }
+
+        .product-name {
+            font-size: 1rem;
+            font-weight: 500;
+            margin-bottom: 0.75rem;
+            line-height: 1.4;
+            color: #333;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .product-price {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #ff6b35;
+        }
+
+        .product-rating {
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            font-size: 1.2rem;
+            color: #666;
+        }
+
+        .subcategories {
+            background: white;
+            padding: 2rem 1rem;
+            margin-bottom: 2rem;
+            border-radius: 8px;
+        }
+
+        .subcategories h2 {
+            margin-bottom: 1rem;
+            color: #ff6b35;
+        }
+
+        .subcategory-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+
+        .subcategory-tag {
+            background: #f0f0f0;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .subcategory-tag:hover {
+            background: #ff6b35;
+            color: white;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+            margin-top: 4rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html" class="back-link">← Back to Categories</a>
+            <h1 id="categoryTitle">Loading...</h1>
+        </div>
+    </header>
+
+    <div class="category-info">
+        <div class="container">
+            <p id="categoryDescription">Loading category information...</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="subcategoriesSection" class="subcategories" style="display: none;">
+            <h2>Subcategories</h2>
+            <div id="subcategoriesList" class="subcategory-list"></div>
+        </div>
+
+        <div class="search-filter">
+            <input type="text" id="searchInput" placeholder="Search products in this category...">
+        </div>
+
+        <div id="productsGrid" class="products-grid">
+            <div class="loading">Loading products...</div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Orange Catalog. Product data sourced from The Home Depot.</p>
+        </div>
+    </footer>
+
+    <script>
+        let allProducts = [];
+        let categoryData = null;
+
+        function getUrlParameter(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function formatCategoryName(name) {
+            return name
+                .split('-')
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(' ');
+        }
+
+        async function loadCategory() {
+            const categoryId = getUrlParameter('id');
+            if (!categoryId) {
+                window.location.href = 'index.html';
+                return;
+            }
+
+            try {
+                const response = await fetch(`production data/categories/${categoryId}.json`);
+                categoryData = await response.json();
+
+                document.getElementById('categoryTitle').textContent = formatCategoryName(categoryData.category_name);
+                document.getElementById('categoryDescription').textContent = 
+                    `${categoryData.total_products.toLocaleString()} products available`;
+
+                allProducts = categoryData.products;
+
+                // Show subcategories if available
+                if (categoryData.subcategories && categoryData.subcategories.length > 0) {
+                    document.getElementById('subcategoriesSection').style.display = 'block';
+                    document.getElementById('subcategoriesList').innerHTML = 
+                        categoryData.subcategories.map(sub => `
+                            <div class="subcategory-tag">${formatCategoryName(sub.name)} (${sub.count})</div>
+                        `).join('');
+                }
+
+                displayProducts(allProducts);
+            } catch (error) {
+                console.error('Error loading category:', error);
+                document.getElementById('productsGrid').innerHTML = 
+                    '<div class="loading">Error loading products. Please try again later.</div>';
+            }
+        }
+
+        function displayProducts(products) {
+            const grid = document.getElementById('productsGrid');
+            
+            if (products.length === 0) {
+                grid.innerHTML = '<div class="loading">No products found.</div>';
+                return;
+            }
+
+            grid.innerHTML = products.map(product => {
+                const imagePath = product.image_url ? 
+                    `production data/products/${product.product_id}/${product.image_url}` : 
+                    '';
+                
+                return `
+                    <div class="product-card" onclick="viewProduct('${product.product_id}')">
+                        ${imagePath ? `<img src="${imagePath}" alt="${product.name}" class="product-image" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'200\\' height=\\'200\\'%3E%3Crect fill=\\'%23f0f0f0\\' width=\\'200\\' height=\\'200\\'/%3E%3Ctext fill=\\'%23999\\' x=\\'50%25\\' y=\\'50%25\\' dominant-baseline=\\'middle\\' text-anchor=\\'middle\\'%3ENo Image%3C/text%3E%3C/svg%3E'">` : ''}
+                        <div class="product-info">
+                            ${product.brand ? `<div class="product-brand">${product.brand}</div>` : ''}
+                            <div class="product-name">${product.name}</div>
+                            ${product.price ? `<div class="product-price">$${product.price.toFixed(2)}</div>` : ''}
+                            ${product.rating ? `<div class="product-rating">★ ${product.rating.toFixed(1)} (${product.review_count || 0} reviews)</div>` : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function viewProduct(productId) {
+            window.open(`production data/products/${productId}/details.json`, '_blank');
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filtered = allProducts.filter(product => 
+                product.name.toLowerCase().includes(searchTerm) ||
+                (product.brand && product.brand.toLowerCase().includes(searchTerm))
+            );
+            displayProducts(filtered);
+        });
+
+        loadCategory();
+    </script>
+</body>
+</html>
