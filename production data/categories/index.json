@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.748837",
+  "lastUpdated": "2026-01-02T15:00:00.000000",
   "totalCategories": 76,
-  "totalProducts": 3001,
+  "totalProducts": 3042,
   "categories": [
     {
       "id": "appliances",
@@ -74,6 +74,13 @@
           "path": "/categories/appliances/microwaves"
         },
         {
+          "id": "appliances/range-hoods",
+          "name": "Range Hoods",
+          "slug": "range-hoods",
+          "productCount": 24,
+          "path": "/categories/appliances/range-hoods"
+        },
+        {
           "id": "appliances/ranges",
           "name": "Ranges",
           "slug": "ranges",
@@ -84,57 +91,59 @@
           "id": "appliances/refrigerators",
           "name": "Refrigerators",
           "slug": "refrigerators",
-          "productCount": 28,
-          "path": "/categories/appliances/refrigerators"
-        },
-        {
-          "id": "appliances/refrigerators/bottom-freezer",
-          "name": "Bottom Freezer",
-          "slug": "bottom-freezer",
-          "productCount": 29,
-          "path": "/categories/appliances/refrigerators/bottom-freezer"
-        },
-        {
-          "id": "appliances/refrigerators/counter-depth",
-          "name": "Counter Depth",
-          "slug": "counter-depth",
-          "productCount": 2,
-          "path": "/categories/appliances/refrigerators/counter-depth"
-        },
-        {
-          "id": "appliances/refrigerators/freezerless",
-          "name": "Freezerless",
-          "slug": "freezerless",
-          "productCount": 16,
-          "path": "/categories/appliances/refrigerators/freezerless"
-        },
-        {
-          "id": "appliances/refrigerators/french-door",
-          "name": "French Door",
-          "slug": "french-door",
-          "productCount": 76,
-          "path": "/categories/appliances/refrigerators/french-door"
-        },
-        {
-          "id": "appliances/refrigerators/mini-fridges",
-          "name": "Mini Fridges",
-          "slug": "mini-fridges",
-          "productCount": 16,
-          "path": "/categories/appliances/refrigerators/mini-fridges"
-        },
-        {
-          "id": "appliances/refrigerators/side-by-side",
-          "name": "Side By Side",
-          "slug": "side-by-side",
-          "productCount": 31,
-          "path": "/categories/appliances/refrigerators/side-by-side"
-        },
-        {
-          "id": "appliances/refrigerators/top-freezer",
-          "name": "Top Freezer",
-          "slug": "top-freezer",
-          "productCount": 32,
-          "path": "/categories/appliances/refrigerators/top-freezer"
+          "productCount": 230,
+          "path": "/categories/appliances/refrigerators",
+          "subcategories": [
+            {
+              "id": "appliances/refrigerators/bottom-freezer",
+              "name": "Bottom Freezer",
+              "slug": "bottom-freezer",
+              "productCount": 29,
+              "path": "/categories/appliances/refrigerators/bottom-freezer"
+            },
+            {
+              "id": "appliances/refrigerators/counter-depth",
+              "name": "Counter Depth",
+              "slug": "counter-depth",
+              "productCount": 2,
+              "path": "/categories/appliances/refrigerators/counter-depth"
+            },
+            {
+              "id": "appliances/refrigerators/freezerless",
+              "name": "Freezerless",
+              "slug": "freezerless",
+              "productCount": 16,
+              "path": "/categories/appliances/refrigerators/freezerless"
+            },
+            {
+              "id": "appliances/refrigerators/french-door",
+              "name": "French Door",
+              "slug": "french-door",
+              "productCount": 76,
+              "path": "/categories/appliances/refrigerators/french-door"
+            },
+            {
+              "id": "appliances/refrigerators/mini-fridges",
+              "name": "Mini Fridges",
+              "slug": "mini-fridges",
+              "productCount": 16,
+              "path": "/categories/appliances/refrigerators/mini-fridges"
+            },
+            {
+              "id": "appliances/refrigerators/side-by-side",
+              "name": "Side By Side",
+              "slug": "side-by-side",
+              "productCount": 31,
+              "path": "/categories/appliances/refrigerators/side-by-side"
+            },
+            {
+              "id": "appliances/refrigerators/top-freezer",
+              "name": "Top Freezer",
+              "slug": "top-freezer",
+              "productCount": 32,
+              "path": "/categories/appliances/refrigerators/top-freezer"
+            }
+          ]
         },
         {
           "id": "appliances/wall-ovens",
@@ -145,17 +154,10 @@
         },
         {
           "id": "appliances/washers-dryers",
-          "name": "Washers Dryers",
+          "name": "Washers & Dryers",
           "slug": "washers-dryers",
           "productCount": 258,
           "path": "/categories/appliances/washers-dryers"
-        },
-        {
-          "id": "appliances/range-hoods",
-          "name": "Range Hoods",
-          "slug": "range-hoods",
-          "productCount": 24,
-          "path": "/categories/appliances/range-hoods"
         }
       ]
     },
@@ -188,7 +190,7 @@
         },
         {
           "id": "automotive/jacks-lifts",
-          "name": "Jacks Lifts",
+          "name": "Jacks & Lifts",
           "slug": "jacks-lifts",
           "productCount": 32,
           "path": "/categories/automotive/jacks-lifts"
@@ -223,13 +225,6 @@
           "path": "/categories/electrical/outlets"
         },
         {
-          "id": "electrical/wire-cable",
-          "name": "Wire Cable",
-          "slug": "wire-cable",
-          "productCount": 22,
-          "path": "/categories/electrical/wire-cable"
-        },
-        {
           "id": "electrical/smart-home",
           "name": "Smart Home",
           "slug": "smart-home",
@@ -242,6 +237,13 @@
           "slug": "wall-plates",
           "productCount": 1,
           "path": "/categories/electrical/wall-plates"
+        },
+        {
+          "id": "electrical/wire-cable",
+          "name": "Wire & Cable",
+          "slug": "wire-cable",
+          "productCount": 22,
+          "path": "/categories/electrical/wire-cable"
         }
       ]
     },
@@ -320,22 +322,24 @@
           "id": "home-decor/artificial-plants",
           "name": "Artificial Plants",
           "slug": "artificial-plants",
-          "productCount": 92,
-          "path": "/categories/home-decor/artificial-plants"
-        },
-        {
-          "id": "home-decor/artificial-plants/specialty",
-          "name": "Specialty",
-          "slug": "specialty",
-          "productCount": 8,
-          "path": "/categories/home-decor/artificial-plants/specialty"
-        },
-        {
-          "id": "home-decor/artificial-plants/trees",
-          "name": "Trees",
-          "slug": "trees",
-          "productCount": 157,
-          "path": "/categories/home-decor/artificial-plants/trees"
+          "productCount": 257,
+          "path": "/categories/home-decor/artificial-plants",
+          "subcategories": [
+            {
+              "id": "home-decor/artificial-plants/specialty",
+              "name": "Specialty",
+              "slug": "specialty",
+              "productCount": 8,
+              "path": "/categories/home-decor/artificial-plants/specialty"
+            },
+            {
+              "id": "home-decor/artificial-plants/trees",
+              "name": "Trees",
+              "slug": "trees",
+              "productCount": 157,
+              "path": "/categories/home-decor/artificial-plants/trees"
+            }
+          ]
         },
         {
           "id": "home-decor/bedding",
@@ -389,7 +393,7 @@
       "subcategories": [
         {
           "id": "storage/bins-totes",
-          "name": "Bins Totes",
+          "name": "Bins & Totes",
           "slug": "bins-totes",
           "productCount": 20,
           "path": "/categories/storage/bins-totes"
@@ -410,25 +414,34 @@
       "productCount": 899,
       "subcategories": [
         {
+          "id": "tools/accessories",
+          "name": "Accessories",
+          "slug": "accessories",
+          "productCount": 30,
+          "path": "/categories/tools/accessories"
+        },
+        {
           "id": "tools/air-compressors",
           "name": "Air Compressors",
           "slug": "air-compressors",
-          "productCount": 69,
-          "path": "/categories/tools/air-compressors"
-        },
-        {
-          "id": "tools/air-compressors/portable",
-          "name": "Portable",
-          "slug": "portable",
-          "productCount": 35,
-          "path": "/categories/tools/air-compressors/portable"
-        },
-        {
-          "id": "tools/air-compressors/stationary",
-          "name": "Stationary",
-          "slug": "stationary",
-          "productCount": 17,
-          "path": "/categories/tools/air-compressors/stationary"
+          "productCount": 121,
+          "path": "/categories/tools/air-compressors",
+          "subcategories": [
+            {
+              "id": "tools/air-compressors/portable",
+              "name": "Portable",
+              "slug": "portable",
+              "productCount": 35,
+              "path": "/categories/tools/air-compressors/portable"
+            },
+            {
+              "id": "tools/air-compressors/stationary",
+              "name": "Stationary",
+              "slug": "stationary",
+              "productCount": 17,
+              "path": "/categories/tools/air-compressors/stationary"
+            }
+          ]
         },
         {
           "id": "tools/batteries",
@@ -448,29 +461,31 @@
           "id": "tools/drills",
           "name": "Drills",
           "slug": "drills",
-          "productCount": 32,
-          "path": "/categories/tools/drills"
-        },
-        {
-          "id": "tools/drills/angle-drills",
-          "name": "Angle Drills",
-          "slug": "angle-drills",
-          "productCount": 12,
-          "path": "/categories/tools/drills/angle-drills"
-        },
-        {
-          "id": "tools/drills/drill-presses",
-          "name": "Drill Presses",
-          "slug": "drill-presses",
-          "productCount": 16,
-          "path": "/categories/tools/drills/drill-presses"
-        },
-        {
-          "id": "tools/drills/hammer-drills",
-          "name": "Hammer Drills",
-          "slug": "hammer-drills",
-          "productCount": 28,
-          "path": "/categories/tools/drills/hammer-drills"
+          "productCount": 88,
+          "path": "/categories/tools/drills",
+          "subcategories": [
+            {
+              "id": "tools/drills/angle-drills",
+              "name": "Angle Drills",
+              "slug": "angle-drills",
+              "productCount": 12,
+              "path": "/categories/tools/drills/angle-drills"
+            },
+            {
+              "id": "tools/drills/drill-presses",
+              "name": "Drill Presses",
+              "slug": "drill-presses",
+              "productCount": 16,
+              "path": "/categories/tools/drills/drill-presses"
+            },
+            {
+              "id": "tools/drills/hammer-drills",
+              "name": "Hammer Drills",
+              "slug": "hammer-drills",
+              "productCount": 28,
+              "path": "/categories/tools/drills/hammer-drills"
+            }
+          ]
         },
         {
           "id": "tools/grinders",
@@ -480,6 +495,13 @@
           "path": "/categories/tools/grinders"
         },
         {
+          "id": "tools/impact-drivers",
+          "name": "Impact Drivers",
+          "slug": "impact-drivers",
+          "productCount": 4,
+          "path": "/categories/tools/impact-drivers"
+        },
+        {
           "id": "tools/impact-wrenches",
           "name": "Impact Wrenches",
           "slug": "impact-wrenches",
@@ -487,46 +509,55 @@
           "path": "/categories/tools/impact-wrenches"
         },
         {
+          "id": "tools/inflators",
+          "name": "Inflators",
+          "slug": "inflators",
+          "productCount": 15,
+          "path": "/categories/tools/inflators"
+        },
+        {
           "id": "tools/nailers",
           "name": "Nailers",
           "slug": "nailers",
-          "productCount": 27,
-          "path": "/categories/tools/nailers"
-        },
-        {
-          "id": "tools/nailers/finishing",
-          "name": "Finishing",
-          "slug": "finishing",
-          "productCount": 25,
-          "path": "/categories/tools/nailers/finishing"
-        },
-        {
-          "id": "tools/nailers/flooring",
-          "name": "Flooring",
-          "slug": "flooring",
-          "productCount": 15,
-          "path": "/categories/tools/nailers/flooring"
-        },
-        {
-          "id": "tools/nailers/framing",
-          "name": "Framing",
-          "slug": "framing",
-          "productCount": 17,
-          "path": "/categories/tools/nailers/framing"
-        },
-        {
-          "id": "tools/nailers/pneumatic",
-          "name": "Pneumatic",
-          "slug": "pneumatic",
-          "productCount": 46,
-          "path": "/categories/tools/nailers/pneumatic"
-        },
-        {
-          "id": "tools/nailers/roofing",
-          "name": "Roofing",
-          "slug": "roofing",
-          "productCount": 9,
-          "path": "/categories/tools/nailers/roofing"
+          "productCount": 139,
+          "path": "/categories/tools/nailers",
+          "subcategories": [
+            {
+              "id": "tools/nailers/finishing",
+              "name": "Finishing",
+              "slug": "finishing",
+              "productCount": 25,
+              "path": "/categories/tools/nailers/finishing"
+            },
+            {
+              "id": "tools/nailers/flooring",
+              "name": "Flooring",
+              "slug": "flooring",
+              "productCount": 15,
+              "path": "/categories/tools/nailers/flooring"
+            },
+            {
+              "id": "tools/nailers/framing",
+              "name": "Framing",
+              "slug": "framing",
+              "productCount": 17,
+              "path": "/categories/tools/nailers/framing"
+            },
+            {
+              "id": "tools/nailers/pneumatic",
+              "name": "Pneumatic",
+              "slug": "pneumatic",
+              "productCount": 46,
+              "path": "/categories/tools/nailers/pneumatic"
+            },
+            {
+              "id": "tools/nailers/roofing",
+              "name": "Roofing",
+              "slug": "roofing",
+              "productCount": 9,
+              "path": "/categories/tools/nailers/roofing"
+            }
+          ]
         },
         {
           "id": "tools/planers",
@@ -553,64 +584,52 @@
           "id": "tools/saws",
           "name": "Saws",
           "slug": "saws",
-          "productCount": 27,
-          "path": "/categories/tools/saws"
-        },
-        {
-          "id": "tools/saws/band-saws",
-          "name": "Band Saws",
-          "slug": "band-saws",
-          "productCount": 18,
-          "path": "/categories/tools/saws/band-saws"
-        },
-        {
-          "id": "tools/saws/circular-saws",
-          "name": "Circular Saws",
-          "slug": "circular-saws",
-          "productCount": 22,
-          "path": "/categories/tools/saws/circular-saws"
-        },
-        {
-          "id": "tools/saws/jigsaws",
-          "name": "Jigsaws",
-          "slug": "jigsaws",
-          "productCount": 17,
-          "path": "/categories/tools/saws/jigsaws"
-        },
-        {
-          "id": "tools/saws/miter-saws",
-          "name": "Miter Saws",
-          "slug": "miter-saws",
-          "productCount": 29,
-          "path": "/categories/tools/saws/miter-saws"
-        },
-        {
-          "id": "tools/saws/reciprocating-saws",
-          "name": "Reciprocating Saws",
-          "slug": "reciprocating-saws",
-          "productCount": 18,
-          "path": "/categories/tools/saws/reciprocating-saws"
-        },
-        {
-          "id": "tools/saws/table-saws",
-          "name": "Table Saws",
-          "slug": "table-saws",
-          "productCount": 20,
-          "path": "/categories/tools/saws/table-saws"
-        },
-        {
-          "id": "tools/impact-drivers",
-          "name": "Impact Drivers",
-          "slug": "impact-drivers",
-          "productCount": 4,
-          "path": "/categories/tools/impact-drivers"
-        },
-        {
-          "id": "tools/inflators",
-          "name": "Inflators",
-          "slug": "inflators",
-          "productCount": 15,
-          "path": "/categories/tools/inflators"
+          "productCount": 151,
+          "path": "/categories/tools/saws",
+          "subcategories": [
+            {
+              "id": "tools/saws/band-saws",
+              "name": "Band Saws",
+              "slug": "band-saws",
+              "productCount": 18,
+              "path": "/categories/tools/saws/band-saws"
+            },
+            {
+              "id": "tools/saws/circular-saws",
+              "name": "Circular Saws",
+              "slug": "circular-saws",
+              "productCount": 22,
+              "path": "/categories/tools/saws/circular-saws"
+            },
+            {
+              "id": "tools/saws/jigsaws",
+              "name": "Jigsaws",
+              "slug": "jigsaws",
+              "productCount": 17,
+              "path": "/categories/tools/saws/jigsaws"
+            },
+            {
+              "id": "tools/saws/miter-saws",
+              "name": "Miter Saws",
+              "slug": "miter-saws",
+              "productCount": 29,
+              "path": "/categories/tools/saws/miter-saws"
+            },
+            {
+              "id": "tools/saws/reciprocating-saws",
+              "name": "Reciprocating Saws",
+              "slug": "reciprocating-saws",
+              "productCount": 18,
+              "path": "/categories/tools/saws/reciprocating-saws"
+            },
+            {
+              "id": "tools/saws/table-saws",
+              "name": "Table Saws",
+              "slug": "table-saws",
+              "productCount": 20,
+              "path": "/categories/tools/saws/table-saws"
+            }
+          ]
         },
         {
           "id": "tools/tool-storage",
@@ -618,13 +637,6 @@
           "slug": "tool-storage",
           "productCount": 20,
           "path": "/categories/tools/tool-storage"
-        },
-        {
-          "id": "tools/accessories",
-          "name": "Accessories",
-          "slug": "accessories",
-          "productCount": 30,
-          "path": "/categories/tools/accessories"
         }
       ]
     }
