@@ -1,0 +1,3010 @@
+{
+  "categoryId": "tools/nailers",
+  "name": "Nailers",
+  "slug": "nailers",
+  "path": "/categories/tools/nailers",
+  "version": "1.0",
+  "lastUpdated": "2026-01-02T15:33:10.431281",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Nailers",
+      "url": "/tools/nailers"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 139
+  },
+  "featuredBrands": [
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 32
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 30
+    },
+    {
+      "brandId": "porter-cable",
+      "brandName": "Porter-Cable",
+      "logoUrl": "images/brands/porter-cable.svg",
+      "count": 9
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 8
+    },
+    {
+      "brandId": "powernail",
+      "brandName": "POWERNAIL",
+      "logoUrl": "images/brands/powernail.svg",
+      "count": 7
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 6
+    }
+  ],
+  "filterOptions": {
+    "subcategories": [
+      {
+        "slug": "pneumatic",
+        "name": "Pneumatic",
+        "productCount": 46
+      },
+      {
+        "slug": "finishing",
+        "name": "Finishing",
+        "productCount": 30
+      },
+      {
+        "slug": "framing",
+        "name": "Framing",
+        "productCount": 27
+      },
+      {
+        "slug": "flooring",
+        "name": "Flooring",
+        "productCount": 15
+      },
+      {
+        "slug": "roofing",
+        "name": "Roofing",
+        "productCount": 13
+      },
+      {
+        "slug": "other",
+        "name": "Other",
+        "productCount": 8
+      }
+    ]
+  },
+  "products": [
+    {
+      "productId": "304530407",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology, and Tool Bag",
+      "rating": {
+        "average": 4.6865,
+        "count": 1094
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f33eeea-60c6-4136-bad8-8a3235b08dc0/svn/ridgid-brad-nailers-r213bnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205647692",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "18-Gauge Pneumatic Brad Nailer",
+      "rating": {
+        "average": 4.4863,
+        "count": 1098
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78b74650-6de5-46ba-bd1a-2efa8e6a01e2/svn/dewalt-brad-nailers-dwfp12233-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958576",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology with Straight Finish Nailer",
+      "rating": {
+        "average": 4.6674,
+        "count": 1425
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/786c92f1-faf9-4bcb-901e-a210937ed6a4/svn/ridgid-brad-nailers-r213bnf-r250sff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 208.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958574",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology with Angled Finish Nailer",
+      "rating": {
+        "average": 4.626,
+        "count": 1369
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab21b639-1fdd-4a28-909a-aa6c27724c78/svn/ridgid-brad-nailers-r213bnf-r250aff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 308.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958560",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 18-Gague 1-1/2 in. Finish Stapler",
+      "rating": {
+        "average": 4.6771,
+        "count": 1505
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b384b40-2978-483f-8547-c32833d3ddd4/svn/ridgid-brad-nailers-r213bnf-r150fsf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 228.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958558",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 23-Gauge Headless Pin Nailer",
+      "rating": {
+        "average": 4.6599,
+        "count": 1226
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4f2b4d-1c84-40fa-ba16-651dc4dca024/svn/ridgid-brad-nailers-r213bnf-r138hpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 258.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335331558",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 3-1/2 in. Full Size Palm Nailer",
+      "rating": {
+        "average": 4.6798,
+        "count": 1568
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbad78c1-22a9-425d-abcb-0812523423df/svn/ridgid-brad-nailers-r213bnf-r350pnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 198.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203555573",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "18-Gauge Pneumatic Brad Nailer Kit",
+      "rating": {
+        "average": 4.388,
+        "count": 1103
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/330c3956-cac1-4258-9bc8-8c44c549973a/svn/porter-cable-brad-nailers-bn200c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312965786",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer w/ CLEAN DRIVE Technology, and Tool Bag, with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.6191,
+        "count": 1499
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9aae428d-a893-43fc-8648-0193922463eb/svn/ridgid-brad-nailers-r213bnf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204334593",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "18-Gauge Pneumatic 2 in. Brad Nailer with Carrying Case",
+      "rating": {
+        "average": 4.637,
+        "count": 416
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1d13850b-a418-404a-a964-3b1fbfe0dbdb/svn/dewalt-brad-nailers-dwfp12231-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 107.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312309197",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 18-Gauge 2 in. Brad Nailer",
+      "rating": {
+        "average": 4.5779,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/73cd8830-b2f7-4237-a0fa-42fdbf7b2bb1/svn/makita-brad-nailers-af506-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204460873",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "18-Gauge Pneumatic Brad Nailer",
+      "rating": {
+        "average": 4.4965,
+        "count": 141
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/86e04c46-08f2-4606-b392-d4607940c208/svn/porter-cable-brad-nailers-bn200sb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 77.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304105730",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "18-Gauge 3/8 in. to 2 in. Pneumatic Brad Nailer",
+      "rating": {
+        "average": 4.7698,
+        "count": 417
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7321c01f-578c-4417-afb2-5189c01321e3/svn/wen-brad-nailers-61721-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 31.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316243919",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 18-Gauge 1-1/2 in. Finish Stapler",
+      "rating": {
+        "average": 4.6792,
+        "count": 1378
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b384b40-2978-483f-8547-c32833d3ddd4/svn/ridgid-brad-nailers-r213bnf-r150fsf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 180.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316764251",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology with Angled Finish Nailer",
+      "rating": {
+        "average": 4.6345,
+        "count": 1234
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab21b639-1fdd-4a28-909a-aa6c27724c78/svn/ridgid-brad-nailers-r213bnf-r250aff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 248.53,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316243031",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 23-Gauge Headless Pin Nailer",
+      "rating": {
+        "average": 4.6596,
+        "count": 1093
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4f2b4d-1c84-40fa-ba16-651dc4dca024/svn/ridgid-brad-nailers-r213bnf-r138hpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 201.71,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319900418",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 18-Gauge 2 in. Brad Nailer Kit and 1-1/2 in. x 18-Gauge Brad Nails (2500 Per Box)",
+      "rating": {
+        "average": 4.6926,
+        "count": 1223
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97f01bdd-fb54-4568-b7aa-a1c02a6bb030/svn/dewalt-brad-nailers-dwfp12231w150-2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 113.54,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305311411",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer with CLEAN DRIVE Technology",
+      "rating": {
+        "average": 4.603,
+        "count": 330
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b847c3d2-e95b-4b65-8bbd-59449e6fa181/svn/ridgid-finishing-nailers-r250sff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205644384",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 16-Gauge 2-1/2 in. Corded Finishing Nailer",
+      "rating": {
+        "average": 4.4193,
+        "count": 322
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e6c8e6cf-7e3e-4fe9-b412-76dd52fe48e6/svn/dewalt-finishing-nailers-dwfp71917-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958548",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15-Gauge 2-1/2 in. Angled Finish Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.4328,
+        "count": 804
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6ccdaf07-43f9-4c14-8285-4e0e17238652/svn/ridgid-finishing-nailers-r250aff-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 248.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305311237",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15-Gauge 2-1/2 in. Angled Finish Nailer with CLEAN DRIVE Technology, and Tool Bag",
+      "rating": {
+        "average": 4.366,
+        "count": 265
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2a255c3d-ef20-40e1-a35e-3f43cac96b93/svn/ridgid-finishing-nailers-r250aff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300350027",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 16-Gauge, 2-1/2 in. Straight Finish Nailer",
+      "rating": {
+        "average": 4.5752,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4d6f4291-643a-47f8-b757-cad78afdaba2/svn/makita-finishing-nailers-af601-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958570",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp Corded 12 in. Dual Bevel Sliding Miter Saw with Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with Tool Bag",
+      "rating": {
+        "average": 4.5711,
+        "count": 2609
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/da0aec96-f8b1-46f0-9d89-b17333ac9b50/svn/ridgid-miter-saws-r4222-r213bnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 508.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958542",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Pro Jobsite Table Saw with Rolling Stand and Pneumatic 16-Gauge 2-1/2 in. Straight Finish Nailer",
+      "rating": {
+        "average": 4.2415,
+        "count": 2733
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3df058d6-7fb5-44f6-a74d-42da78012c81/svn/ridgid-portable-table-saws-r4514-r250sff-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 648.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958540",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Pro Jobsite Table Saw with Rolling Stand and Pneumatic 18-Gauge 2-1/8 in. Brad Nailer",
+      "rating": {
+        "average": 4.3471,
+        "count": 3526
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/151817c4-1a45-4afc-a2bd-9384c3e8402e/svn/ridgid-portable-table-saws-r4514-r213bnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 658.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319036436",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "3/8 in. x 2 in. 18-Gauge Brad Nailer with Carrying Case and 2000 Nails",
+      "rating": {
+        "average": 4.871,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7321c01f-578c-4417-afb2-5189c01321e3/svn/wen-brad-nailers-61723k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.16,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315855110",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer (Tool Only)",
+      "rating": {
+        "average": 4.4771,
+        "count": 2924
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ef0de29-0377-486b-ad46-60ce55390049/svn/ryobi-brad-nailers-p321-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309752194",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Gen II 18-Gauge Brad Nailer (Tool-Only)",
+      "rating": {
+        "average": 4.6786,
+        "count": 2523
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51b96705-56f2-4ffc-8eeb-72c2f4407dd5/svn/milwaukee-finishing-nailers-2746-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315854773",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V AirStrike 16-Gauge Cordless Finish Nailer (Tool Only)",
+      "rating": {
+        "average": 4.2487,
+        "count": 772
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/95ed407c-ea0f-4db2-a2a8-e0154a99dfa3/svn/ryobi-finishing-nailers-p326-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302029641",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Lithium-Ion Electric Cordless 18-Gauge Brad Nailer (Tool Only)",
+      "rating": {
+        "average": 4.7061,
+        "count": 2341
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa9125e4-5c17-466e-a653-d229666dd9e7/svn/dewalt-brad-nailers-dcn680b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205665226",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Pneumatic 3-in-1 15.5-Gauge and 16-Gauge 2 in. Flooring Nailer and Stapler with Quick Jam Release",
+      "rating": {
+        "average": 4.1602,
+        "count": 206
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2a658365-5b41-4153-842e-64ea05011626/svn/husky-floor-nailers-hdufl50-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204334521",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "2-in-1 Pneumatic 15.5-Gauge and 16-Gauge Flooring Tool",
+      "rating": {
+        "average": 4.4977,
+        "count": 219
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b5a4c09c-683b-4d3d-bd18-ed76d2236f57/svn/dewalt-floor-nailers-dwfp12569-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206967042",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15.5-Gauge 2 in. Hardwood Flooring Stapler",
+      "rating": {
+        "average": 4.8148,
+        "count": 27
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b4671f53-b4dc-4d64-a7dd-e5f04d01f408/svn/dewalt-floor-nailers-dwmiiifs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311567724",
+      "modelNumber": "",
+      "brand": "POWERNAIL",
+      "title": "F-Series 18-Gauge Pneumatic Trigger-Pull Engineered Flooring Nailer",
+      "rating": {
+        "average": 4.8108,
+        "count": 37
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/95321d9f-e1f2-4fac-8ec6-6d05166b1f2b/svn/powernail-floor-nailers-50fkit-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 326.62,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203954526",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "Pneumatic 18-Gauge 1-3/4 in. L-Cleat Flooring Nailer with Flooring Mallet and Interchangeable Base Plates",
+      "rating": {
+        "average": 4.48,
+        "count": 50
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8a56b887-265f-432c-8169-1f776a47966a/svn/freeman-floor-nailers-pf18glcn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300114378",
+      "modelNumber": "",
+      "brand": "Estwing",
+      "title": "Pneumatic 2-in-1 15.5-Gauge and 16-Gauge 2 in. Flooring Nailer and Stapler with Bag",
+      "rating": {
+        "average": 4.4706,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/87aab7d2-8db0-44da-b01a-2be0dd2ce1d9/svn/estwing-floor-nailers-efl50q-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 241.53,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322965053",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "4-In-1 18-Gauge Pneumatic Flooring Nailer and Stapler",
+      "rating": {
+        "average": 4.1651,
+        "count": 109
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/34de50bb-e17b-48d5-9a44-70d77e1b2de8/svn/wen-floor-nailers-61741k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 88.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203729907",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "Ultimate Pneumatic Flooring Nailer Kit with Fasteners (2-Piece)",
+      "rating": {
+        "average": 4.3889,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3d560473-f6b1-42a1-ac56-0719afcde6a1/svn/freeman-floor-nailers-ufk1012-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202567596",
+      "modelNumber": "",
+      "brand": "POWERNAIL",
+      "title": "16-Gauge Flex Power Roller Pneumatic Hardwood Flooring Cleat Nailer",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fba55e20-7754-4997-8dc9-18b57db09d3e/svn/powernail-floor-nailers-445flexprw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 687.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202567624",
+      "modelNumber": "",
+      "brand": "POWERNAIL",
+      "title": "Pneumatic 18-Gauge Flex Hardwood Flooring Cleat Nailer",
+      "rating": {
+        "average": 4.6667,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/88cddcd0-7769-4fca-88d2-be8bf226ac0b/svn/powernail-floor-nailers-50pflexw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 549.37,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300080886",
+      "modelNumber": "",
+      "brand": "POWERNAIL",
+      "title": "Pneumatic 20-Gauge Hardwood Flooring Trigger Pull Cleat Nailer Kit",
+      "rating": {
+        "average": 4.8947,
+        "count": 19
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/83c01576-56c9-4bee-ae51-2dfa478dcaf9/svn/powernail-floor-nailers-2000f-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 245.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300113754",
+      "modelNumber": "",
+      "brand": "Estwing",
+      "title": "Pneumatic 18-Gauge L-Cleat Flooring Nailer with Fiberglass Mallet and Padded Bag",
+      "rating": {
+        "average": 4.9231,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/18976d99-ca7c-443e-82c3-c3e74230ccb0/svn/estwing-floor-nailers-ef18glcn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 258.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202567551",
+      "modelNumber": "",
+      "brand": "POWERNAIL",
+      "title": "15.5-Gauge Pneumatic Hardwood Flooring Power Stapler",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6c90448f-31c0-4efa-a168-812f6a43a498/svn/powernail-floor-nailers-445fsw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 435.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202567549",
+      "modelNumber": "",
+      "brand": "POWERNAIL",
+      "title": "Pneumatic 16-Gauge Hardwood Flooring Cleat Nailer",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dff8dfa9-97ef-430b-8bd6-d196776685c2/svn/powernail-floor-nailers-445lsw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 589.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203586632",
+      "modelNumber": "",
+      "brand": "POWERNAIL",
+      "title": "PowerPalm Pneumatic Hardwood Flooring Cleat Nailer",
+      "rating": {
+        "average": 4.3492,
+        "count": 63
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f7415138-0576-4d43-be14-26f0178d3c25/svn/powernail-palm-nailers-powerpalm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 178.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958556",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer and 21-Degree Round Head Framing Nailer",
+      "rating": {
+        "average": 4.643,
+        "count": 2098
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/456463a5-3d0f-4a74-b6b2-73b769f35011/svn/ridgid-brad-nailers-r213bnf-r350rhf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 218.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207103100",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 21-Degree 3-1/2 in. Round Head Framing Nailer",
+      "rating": {
+        "average": 4.6282,
+        "count": 987
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/39fcaffa-228a-4a36-8121-c07fcf11a105/svn/ridgid-framing-nailers-r350rhf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307660432",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 3-1/2 in. 21\u00b0 Full Round Head Corded Framing Nailer",
+      "rating": {
+        "average": 4.509,
+        "count": 389
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6a524918-43cf-4877-a04e-213e11640970/svn/makita-framing-nailers-an924-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      }
+    },
+    {
+      "productId": "336958544",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 21-Degree 3-1/2 in. Round Head Framing Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.5696,
+        "count": 1552
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/48b2d904-5dcd-4819-8282-855c369c6a8e/svn/ridgid-framing-nailers-r350rhf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 168.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958530",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 21\u00b0 3-1/2 in. Round-Head Framing Nailer and 15\u00b0 1-3/4 in. Coil Roofing Nailer",
+      "rating": {
+        "average": 4.4693,
+        "count": 1366
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/981bd776-8f67-4d5e-823f-5837b54de0b2/svn/ridgid-framing-nailers-r350rhf-r175rnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 378.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206966758",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 21-Degree Collated Corded Framing Nailer",
+      "rating": {
+        "average": 4.3288,
+        "count": 371
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4e5e52ef-1f75-40cd-87c1-f321d27eb98b/svn/dewalt-framing-nailers-dwf83pl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100082336",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "Pneumatic 3-1/2 in. 30 degree Air Corded PowerMaster Plus Clipped-Head Framing Nailer",
+      "rating": {
+        "average": 4.4603,
+        "count": 189
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5de1ec75-1003-4b8b-b72f-770b1dc91b88/svn/paslode-framing-nailers-501000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 289.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205444294",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "Pneumatic 3-1/4 in. 30 Degree Air Corded Compact Framing Nailer",
+      "rating": {
+        "average": 4.35,
+        "count": 180
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/04c5ff66-b06e-4d65-bab6-4d0635455feb/svn/paslode-framing-nailers-513000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301571362",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15\u00b0 Coil Framing Nailer",
+      "rating": {
+        "average": 3.6491,
+        "count": 57
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/74c9d91c-7f5d-40bf-b265-0b3f9e810110/svn/dewalt-framing-nailers-dwf83c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100348525",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 30 to 34-Degree 3-1/2 in. Clipped Head Framing Nailer",
+      "rating": {
+        "average": 4.4393,
+        "count": 107
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4011afcf-7d17-4f1c-836d-105d138352f0/svn/ridgid-framing-nailers-r350chd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207086142",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 28-Degree Corded Framing Nailer",
+      "rating": {
+        "average": 4.4828,
+        "count": 58
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/810635dc-af23-43ef-a09a-c2e3305d571a/svn/dewalt-framing-nailers-dwf83ww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313138248",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 21-Degree Collated Framing Nailer and 3 in. x 0.131 in. Metal Framing Nails (2000 Pack)",
+      "rating": {
+        "average": 4.4094,
+        "count": 552
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/71b9d147-796f-4396-8b1f-a8a55e72b436/svn/dewalt-framing-nailers-dwf83plw10d131-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 284.89,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334067724",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Coil Siding Nailer MCN55,1 in. to 2-1/4 in. 15 Degree Pneumatic Siding Nail Gun, 70-120PSI Air Coil Nailer framing",
+      "rating": {
+        "average": 3.8333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c127f101-7484-4572-a2ea-47039b3ca97b/svn/vevor-framing-nailers-qdjpdq55ms00td9jvv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334068126",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Coil Siding Nailer MCN70,1-3/4 in. to 2-3/4 in. 15 Degree Pneumatic Siding Nail Gun, 70-120PSI Air Coil Nailer Framing",
+      "rating": {
+        "average": 1.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/254046e7-9b5f-48ab-9e68-af3d2c1b61c7/svn/vevor-framing-nailers-qdjpdq70ms00wchruv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334210952",
+      "modelNumber": "",
+      "brand": "VEVOR",
+      "title": "Framing Nailer, 80-120 PSI Air Nail Gun, 2 in. to 3-1/2 in. 21 Degree Full Round Head Pneumatic Framing Nailer",
+      "rating": {
+        "average": 2.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/75236974-7057-41c1-b018-45e15c19dc6b/svn/vevor-framing-nailers-qdkjdq215090n69cvv0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 97.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335495694",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Framing Nailer, 80-120 PSI Air Nail Gun, 2 in. to 3-1/2 in. 21\u00b0 Full Round Head Pneumatic Framing Nailer",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f59df1ad-bcca-4edf-8199-a2a87e513d19/svn/skyshalo-framing-nailers-qdkjdq215090n69cvv0-sk0318-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 93.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958532",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 21-Degree 3-1/2 in. Round-Head Framing Nailer and 3-1/2 in. Full-Size Palm Nailer",
+      "rating": {
+        "average": 4.6403,
+        "count": 1479
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1ad104df-a0eb-416c-b619-9016066e1b3c/svn/ridgid-palm-nailers-r350rhf-r350pnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 208.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203555586",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "21-Degree 3-1/2 in. Full Round Framing Nailer",
+      "rating": {
+        "average": 4.49,
+        "count": 2092
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d00f90a0-48f1-433a-8525-35f585384988/svn/porter-cable-framing-nailers-fr350b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308017214",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "FramePro 30-Degree to 34-Degree Framing Nailer",
+      "rating": {
+        "average": 4.3636,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50eb7a2f-c678-4959-8563-3a2412c8eba1/svn/senco-framing-nailers-4z0101n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100095739",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "FramePro 3-1/2 in. 34-Degree Framing Nailer",
+      "rating": {
+        "average": 4.3,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6885c00d-86bb-4e85-a086-a71f84386239/svn/senco-framing-nailers-2h0133n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205446977",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "20-Degree 3 1/4 in Plastic Collated Framing Nailer",
+      "rating": {
+        "average": 3.9286,
+        "count": 28
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/488ffbcc-67ce-41b6-af65-42f9230bfcaf/svn/senco-framing-nailers-4h0101n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 212.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308017188",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "FramePro751XP 30-Degree to 34-Degree Framing Nailer",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c69a6747-f1a2-4767-84fb-44c87b57f8bd/svn/senco-framing-nailers-2j0103n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309989561",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 30-Degree Framing Nailer Extended Capacity Magazine",
+      "rating": {
+        "average": 4.5556,
+        "count": 135
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3b625da2-fb7f-48c5-8d01-698b7b56d8f1/svn/milwaukee-compressor-accessories-48-08-2745-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309988489",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 21-Degree Framing Nailer Extended Capacity Magazine",
+      "rating": {
+        "average": 4.5841,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eaa2cf85-1179-4d7a-a068-e142223694f4/svn/milwaukee-compressor-accessories-48-08-2744-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323915684",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Extended Magazine for 21\u00b0 Framing Nailers",
+      "rating": {
+        "average": 4.3333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b80b4ebd-05fc-46a3-b62f-a9b13c44b184/svn/dewalt-compressor-accessories-dzn920-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323915710",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Extended Magazine for 30\u00b0 Framing Nailers",
+      "rating": {
+        "average": 3.25,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/52d83ac5-858c-4ecc-9e04-27c815b72901/svn/dewalt-compressor-accessories-dzn930-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309987301",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 3-1/2 in. 18-Volt 21-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only)",
+      "rating": {
+        "average": 4.6327,
+        "count": 2589
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3a0a0ef-489d-42e9-ba6d-e1a67bd6290b/svn/milwaukee-framing-nailers-2744-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311533994",
+      "modelNumber": "",
+      "brand": "California Air Tools",
+      "title": "Air Powered 18-Gauge Brad Nail Gun",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c265f0e4-77b4-4103-8eb1-bd66b3c15ff8/svn/california-air-tools-brad-nailers-ngtq18g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 23.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305708793",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "23-Gauge 2 in. Pin Nailer",
+      "rating": {
+        "average": 4.3529,
+        "count": 221
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4d0add0b-b5d9-453a-997b-eb0ecb66f6c9/svn/dewalt-pin-nailers-dwfp2350k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202213592",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "23-Gauge 1-3/8 in. Pin Nailer",
+      "rating": {
+        "average": 4.5552,
+        "count": 317
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1880708-e3ac-43e6-913b-a9e94496cd43/svn/porter-cable-pin-nailers-pin138-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309050338",
+      "modelNumber": "",
+      "brand": "Stinger",
+      "title": "CN100B Cap Nailer",
+      "rating": {
+        "average": 4.5532,
+        "count": 47
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f541254-82fc-43fb-a0a5-57f656ba794d/svn/stinger-roofing-nailers-0136252-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 346.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331290658",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "2 in. Cordless 0\u00b0 Straight Nail Coil Siding and Fencing Nailer",
+      "rating": {
+        "average": 3.6364,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6f953cf-91eb-4abe-89c6-0dc721dc5be4/svn/paslode-siding-nailers-919100-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 589.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203432625",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "Universal Trim Yellow Fuel Cells for Cordless Trim Nailers (2-Pack)",
+      "rating": {
+        "average": 4.5057,
+        "count": 354
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/27203904-82a3-4359-ba0b-1c1ceb22bbc6/svn/paslode-fuel-cells-816007-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203764517",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "0 Degree Mini Impact Palm Nailer",
+      "rating": {
+        "average": 3.9329,
+        "count": 328
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f49b385-cbe9-469a-9c84-b4e5335a1f0c/svn/porter-cable-palm-nailers-pn350-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317977296",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Lithium Ion Cordless 23 Gauge Pin Nailer Kit with 2.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.3509,
+        "count": 436
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0f43bd42-c55b-4073-b47e-bf68d5613da2/svn/dewalt-pin-nailers-dcn623d1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305591757",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Palm Sander",
+      "rating": {
+        "average": 4.25,
+        "count": 44
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/57bd408a-f0dc-42e9-8b4b-bea6329a7c22/svn/dewalt-air-sanders-polishers-dwmt70781-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 90.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437696",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "1/2 in. W Pneumatic Air Belt Sander",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0e52b86-50e2-47bb-8766-439c94e132f1/svn/steelman-air-sanders-polishers-1612-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305502112",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "1/2 in. Heavy-Duty Pneumatic Impact Wrench",
+      "rating": {
+        "average": 4.4845,
+        "count": 97
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b33b88bc-7197-4564-8460-952b45c2c857/svn/dewalt-air-impact-wrenches-dwmt70773-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305591706",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Impact Wrench",
+      "rating": {
+        "average": 4.4,
+        "count": 50
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/db29ff76-d157-4e22-b82a-90031a70857d/svn/dewalt-air-impact-wrenches-dwmt70775-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 65.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336216947",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "1 In. Air Impact Wrench, Up to 2730 ft.-lbs. Reverse Torque Output 1 in. Pneumatic Impact Gun Lightweight for Repairs",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bbf63b12-beff-4a1d-9d61-3af75da33b8c/svn/skyshalo-air-impact-wrenches-kqcjbsy12600nwccdv0-sk0506-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 135.29,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336216706",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "1 In. Air Impact Wrench, Up to 3160ft.-lbs. High Reverse Torque Output 1 in. Pneumatic Impact Gun for Heavy Duty Repairs",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/145adc45-0c1e-4846-9167-073fc5eb3d1a/svn/skyshalo-air-impact-wrenches-kq2800n15500nukerv0-sk0506-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 184.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309991679",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout",
+      "rating": {
+        "average": 4.448,
+        "count": 125
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20117bcc-23ab-4bbe-b5eb-9710f4b720e0/svn/ridgid-pin-nailers-r138hpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335888892",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "23-Gauge 1-3/8 in. Pneumatic Pin Nailer",
+      "rating": {
+        "average": 4.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3e51ff0f-2dd5-463c-9a6e-8fc4585b3398/svn/porter-cable-pin-nailers-pin138b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 117.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336678358",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "23-Gauge 1-3/8 in. Pneumatic Pin Nailer (2-Pack)",
+      "rating": {
+        "average": 4.6111,
+        "count": 288
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dd07f69e-db01-4952-aa8c-3de26af99e03/svn/porter-cable-pin-nailers-pin138bx2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958550",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.4725,
+        "count": 673
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/81b97529-7983-44f9-9afd-b1f8234ba254/svn/ridgid-pin-nailers-r138hpf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 198.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314116762",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 23-Gauge 1-3/8 in. Headless Pin Nailer with Dry-Fire Lockout with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.4714,
+        "count": 630
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/81b97529-7983-44f9-9afd-b1f8234ba254/svn/ridgid-pin-nailers-r138hpf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 143.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300347905",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 23-Gauge, 1-3/8 in. Pin Nailer",
+      "rating": {
+        "average": 4.3137,
+        "count": 51
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/717d9f4c-3be1-4ca2-9412-f64614d4654b/svn/makita-pin-nailers-af353-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205647703",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15-Gauge DA Nailer",
+      "rating": {
+        "average": 4.1333,
+        "count": 270
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/26410cb6-f1bf-43b2-b0c2-0d3755a2a30e/svn/dewalt-finishing-nailers-dwfp72155-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100672162",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "Pneumatic 16-Gauge 2-1/2 in. Nailer Kit",
+      "rating": {
+        "average": 4.064,
+        "count": 375
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bac96107-9acd-4a39-8e15-1d87e65e8d28/svn/porter-cable-finishing-nailers-fn250c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100059106",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "15-Gauge Pneumatic 2-1/2 in. Angled Nailer Kit",
+      "rating": {
+        "average": 4.2642,
+        "count": 106
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6e963bfb-83c3-46ee-b2fd-31fa44cbf623/svn/porter-cable-finishing-nailers-da250c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205847778",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "4 oz. Pneumatic Tool Lubricant Oil",
+      "rating": {
+        "average": 4.3717,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c2354b93-fdc3-4f0c-a97c-438b5ebbaff7/svn/dewalt-air-compressor-oils-dwfp4ozoil-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305591806",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Angle Grinder",
+      "rating": {
+        "average": 4.6585,
+        "count": 41
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d28de47e-1fc2-4d99-a849-b584d021c715/svn/dewalt-air-grinders-dwmt70782-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314515822",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "RoofPro445XP Pneumatic 15-Degree 1-3/4 in. Coil Nailer",
+      "rating": {
+        "average": 4.5,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dba47d8d-5420-441d-ab3a-7bf6a0302d71/svn/senco-roofing-nailers-8v0001n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 317.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307638880",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "5-in-1 Pneumatic Multi-Function Tool with Scraper, Shovel and Chisel Attachments",
+      "rating": {
+        "average": 3.9714,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0bd5b96a-cf76-4e0f-8bf8-f1e1fb031d18/svn/wen-air-tool-kits-61635-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 314.86,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205647623",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15-Degree Coil Corded Siding Nailer",
+      "rating": {
+        "average": 4.0422,
+        "count": 332
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/09e77ad7-794e-48ba-80d1-c19b7978638b/svn/dewalt-siding-nailers-dw66c-1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312444805",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 2-1/2 in. 15\u00b0 Siding Coil Nailer",
+      "rating": {
+        "average": 3.7778,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b0dab364-69b6-4fbe-ba74-6db0217166fe/svn/makita-siding-nailers-an613-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329719491",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15-Degree Coil Siding Nailer with 2 in. x 0.090 in. Metal Coil Ring Shank Nails (3600 per Box)",
+      "rating": {
+        "average": 4.1462,
+        "count": 431
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/72ef6536-48f4-4f38-9c9f-750bf9c39950/svn/dewalt-siding-nailers-dw66c-1w90bdg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 455.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326498352",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "Pneumatic 1-1/8 in. 0\u00b0 tetraGRIP Coil Siding Nailer",
+      "rating": {
+        "average": 4.8333,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5771692-cc7e-4f2a-ba13-4bfa049aeb9e/svn/paslode-siding-nailers-515400-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 419.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325882306",
+      "modelNumber": "",
+      "brand": "Paslode",
+      "title": "PS225C Pneumatic 0-Degree Coil Siding Nailer",
+      "rating": {
+        "average": 3.6304,
+        "count": 46
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ec1a6719-fdba-45d8-9de5-7c9a5be309fc/svn/paslode-siding-nailers-515900-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 339.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319751620",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "2nd Generation Pneumatic 15 Degree 2-1/2 in. Coil Siding Nailer with Metal Belt Hook and 1/4 in. NPT Air Connector",
+      "rating": {
+        "average": 3.9333,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ceaa1ef-1348-46e2-ad57-a81d9223aed6/svn/freeman-siding-nailers-g2cn65-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337915176",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic 15\u00b0 Coil Corded 2-1/2 in. Siding Nailer and 50 ft. x 1/4 in. Air Hose",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b90e2167-62df-4db1-8f98-07eef42a5f3d/svn/dewalt-siding-nailers-dw66c-1w1450d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 358.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322420764",
+      "modelNumber": "",
+      "brand": "Estwing",
+      "title": "Pneumatic 15-Degree 2-1/2 in. Coil Siding Nailer with Adjustable Metal Belt Hook, 1/4 in. NPT Swivel Fitting and Bag",
+      "rating": {
+        "average": 3.8,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6cc91194-0a21-40ef-8f30-bb7639478f31/svn/estwing-siding-nailers-ecn65-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305591732",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Ratchet",
+      "rating": {
+        "average": 4.0364,
+        "count": 55
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/74799487-4df9-4c6d-ae1a-073bf4e90771/svn/dewalt-air-ratchet-wrenches-dwmt70776-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309754673",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Ratchet and 50 ft. x 1/4 in. Air Hose",
+      "rating": {
+        "average": 4.6303,
+        "count": 798
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/71806aa3-0fb5-4e5d-a40f-8bd56a992dfd/svn/dewalt-air-ratchet-wrenches-dwmt70776w1450d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 96.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437776",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "3/8 in. Drive Pneumatic Ratchet Air Tool Set with Sockets and Adapters (16-Piece)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a41ef4d8-d1e1-40cb-b12e-51f9f2a2e6c5/svn/steelman-air-ratchet-wrenches-130k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337037724",
+      "modelNumber": "",
+      "brand": "Surebonder",
+      "title": "Pneumatic-7 Piece-Heavy Duty Standard Staple Gun/Staple Kit-1/4 in.,5/16 in.,3/8 in.,1/2 in. and 9/16 in. Staples Incl.",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a4994883-6ac1-48a7-b844-739afa80d0c7/svn/surebonder-air-tool-kits-9600ck-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307280891",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "3/8 in. Pneumatic Reversible Drill",
+      "rating": {
+        "average": 4.5333,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bf724daa-6ec1-471e-a74c-59c9e8d46e1e/svn/dewalt-air-drills-dwmt70786-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437792",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "3/8 in. 2-Gear Type Drive Pneumatic Air Drill",
+      "rating": {
+        "average": 3.5,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c34c45c-74bc-4d0a-91ab-f77a058f15e7/svn/steelman-air-drills-1701-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 67.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332238498",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Air Operated Grease Gun, 6000PSI, 14 oz./400 CC Capacity Heavy Duty Pneumatic Grease Gun, with 18.5 in. Flexible Hose",
+      "rating": {
+        "average": 2.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/47d4784e-cefc-4a66-bc7f-cd3c7f94a0db/svn/skyshalo-air-grease-guns-qd18in6000psiexbev0-819-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307280939",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Air Chisel",
+      "rating": {
+        "average": 3.4324,
+        "count": 37
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2ed78091-b9c6-498e-bc98-c892d4cb4312/svn/dewalt-air-hammers-dwmt70785-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.74,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207053250",
+      "modelNumber": "",
+      "brand": "Mayhew",
+      "title": "Pro Pneumatic Hammer",
+      "rating": {
+        "average": 4.6957,
+        "count": 23
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49be41a6-3205-44ae-ad9a-ace83d5d1d69/svn/mayhew-air-hammers-31982-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 18.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337761096",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Air Needle Scaler, 3400BPM Pneumatic Scaler with 3-Speed Adjustment, 19 Hardened Needles for Rust Paint Removal",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b644712c-0f8e-456d-ae64-77a7e85587a6/svn/skyshalo-air-hammers-qdcczscxqztxntzdr002v0-sk0728-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 78.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339793225",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Pneumatic Cut-Off Tool",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e0af210d-9f7f-4cef-a13c-6c1ab6375343/svn/dewalt-air-cut-off-tools-dwmt70784-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.29,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303437575",
+      "modelNumber": "",
+      "brand": "Steelman",
+      "title": "3 in. Air Pneumatic Cut-Off Tool with Metal Safety Guard",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f2fdc77e-b024-419c-a082-c3836102ebad/svn/steelman-air-cut-off-tools-1526a-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 34.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339793183",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Gravity Feed Pneumatic Touch-Up Spray Gun",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1fc2814f-2aa9-4d33-8cd0-394af004623a/svn/dewalt-pneumatic-paint-sprayers-dwmt70778-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308910132",
+      "modelNumber": "",
+      "brand": "NuMax",
+      "title": "Pneumatic 0.8 mm Tip Mini HVLP Gravity Feed Spray Gun with 125 cc Plastic Cup",
+      "rating": {
+        "average": 4.0952,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13478444-211f-4770-b890-246f3ca446b2/svn/numax-pneumatic-paint-sprayers-sps08-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 24.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320392306",
+      "modelNumber": "",
+      "brand": "Buffalo Tools",
+      "title": "1 qt. Industrial Paint Pneumatic Spray Gun",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/41ebfcbb-8e08-4680-9ef9-f9604497fef0/svn/buffalo-tools-pneumatic-paint-sprayers-807882-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325211080",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 3-1/2 in. Mini Palm Nailer",
+      "rating": {
+        "average": 4.6667,
+        "count": 72
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/35efbb18-a754-425e-9ceb-cd268a7f0973/svn/ridgid-palm-nailers-r350mpf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "207103093",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 3-1/2 in. Full-Size Palm Nailer",
+      "rating": {
+        "average": 4.6646,
+        "count": 474
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ad0e60c7-9efb-4667-a57e-8b42870a77a4/svn/ridgid-palm-nailers-r350pnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335331566",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 3-1/2 in. Full-Size Palm Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.559,
+        "count": 1009
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5693d7a5-2fe7-4f1c-9711-458606a3c16d/svn/ridgid-palm-nailers-r350pnf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202511009",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "Pneumatic Mini Palm Nailer with Cushion Hand Grip and Magnetic Tip",
+      "rating": {
+        "average": 4.5532,
+        "count": 47
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c5f2006c-1200-4792-a3e4-315372ad5f05/svn/freeman-palm-nailers-pmpn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 30.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305345667",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "Pneumatic 1-3/4 in. 15 Degree Coil Corded Roofing Nailer",
+      "rating": {
+        "average": 4.2261,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0b1e85a2-9475-46fc-b7a3-f6e032de335d/svn/makita-roofing-nailers-an454-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      }
+    },
+    {
+      "productId": "207103085",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15 Deg. 1-3/4 in. Coil Roofing Nailer",
+      "rating": {
+        "average": 4.0395,
+        "count": 380
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c2c80084-9747-469f-97e3-612e78d484d7/svn/ridgid-roofing-nailers-r175rnf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328232073",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "1-3/4 in. 15 Degree Pneumatic Coil Roofing Nailer",
+      "rating": {
+        "average": 4.3846,
+        "count": 52
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78d3624b-1daa-4598-a2f1-5c8729aa6f7c/svn/dewalt-roofing-nailers-dw46rn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958546",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Pneumatic 15-Degree 1-3/4 in. Coil Roofing Nailer with 1/4 in. 50 ft. Lay Flat Air Hose",
+      "rating": {
+        "average": 4.2903,
+        "count": 937
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8c2130b-41a0-4955-9e03-bb3c7c4e319f/svn/ridgid-roofing-nailers-r175rnf-r5025lf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 288.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308458682",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "3/4 in. to 1-3/4 in. 15 degree Pneumatic Coil Roofing Nailer",
+      "rating": {
+        "average": 4.4915,
+        "count": 236
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/58ff65b3-cd9e-4a1a-baf2-b7c0a1a22d7b/svn/wen-roofing-nailers-61783-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 106.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300237329",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "Pneumatic 15-Degree 1-3/4 in. Coil Roofing Nailer",
+      "rating": {
+        "average": 4.4545,
+        "count": 88
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/55fb450a-e432-48b4-9554-a3167f97b783/svn/husky-roofing-nailers-dpcn45-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332326357",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "1-3/4 in. 15\u00b0 Pneumatic Coil Roofing Nailer with 1-1/4 in. x 0.120-Gauge Steel Coil Roofing Nails (7,200 Pack)",
+      "rating": {
+        "average": 4.4545,
+        "count": 99
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/46ce208e-0498-458f-9e98-89d6439c3e43/svn/dewalt-roofing-nailers-dw46rnwwcr3dgal-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 332.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322419186",
+      "modelNumber": "",
+      "brand": "Estwing",
+      "title": "Pneumatic 15 Degree 1-3/4 in. Coil Roofing Nailer with 1/4 in. NPT Industrial Swivel Fitting and Bag",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/11b2ff15-4198-460d-956d-24385d0744c5/svn/estwing-roofing-nailers-ecn45-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301289865",
+      "modelNumber": "",
+      "brand": "Freeman",
+      "title": "Pneumatic 15 Degree 1-3/4 in. Rapid Fire Coil Roofing Nailer",
+      "rating": {
+        "average": 4.0,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ed232ae-1ad3-440c-a2c3-bba88ddae5d1/svn/freeman-roofing-nailers-pcn450-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331690738",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Vinyl Siding Tip for M18 FUEL Coil Roofing Nailer",
+      "rating": {
+        "average": 4.5,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0d0cf715-309e-414d-bf51-2d76f64790f8/svn/milwaukee-compressor-accessories-48-08-2909-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332931199",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Vinyl Siding Tip for M18 FUEL Coil Roofing Nailer w/ Replacement Rubber Wear Pads",
+      "rating": {
+        "average": 4.5,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/44296b3f-21f9-45d2-bdc1-00f90e9ae634/svn/milwaukee-compressor-accessories-48-08-2909-48-09-2909-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 28.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331690748",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Replacement Rubber Wear Pads for M18 FUEL Coil Roofing Nailer",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/77695c66-c660-4fe4-aaa8-b52ad52b803f/svn/milwaukee-compressor-accessories-48-09-2909-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 12.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328987320",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Coil Roofing Nailer (Tool Only)",
+      "rating": {
+        "average": 4.6223,
+        "count": 188
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/93d343ad-f6b7-47fb-965e-20178166a73a/svn/milwaukee-roofing-nailers-2909-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

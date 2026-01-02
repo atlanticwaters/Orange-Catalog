@@ -4,7 +4,7 @@
   "slug": "freezerless",
   "path": "/categories/appliances/refrigerators/freezerless",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T13:24:27.886563",
+  "lastUpdated": "2026-01-02T15:26:37.576533",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -34,21 +34,15 @@
       "count": 3
     },
     {
-      "brandId": "frigidaire",
-      "brandName": "Frigidaire",
-      "logoUrl": "images/brands/frigidaire.svg",
-      "count": 2
-    },
-    {
-      "brandId": "whirlpool",
-      "brandName": "Whirlpool",
-      "logoUrl": "images/brands/whirlpool.svg",
-      "count": 2
-    },
-    {
       "brandId": "danby",
       "brandName": "Danby",
       "logoUrl": "images/brands/danby.svg",
+      "count": 2
+    },
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
       "count": 2
     },
     {
@@ -64,22 +58,10 @@
       "count": 2
     },
     {
-      "brandId": "gladiator",
-      "brandName": "Gladiator",
-      "logoUrl": "images/brands/gladiator.svg",
-      "count": 1
-    },
-    {
-      "brandId": "bosch",
-      "brandName": "Bosch",
-      "logoUrl": "images/brands/bosch.svg",
-      "count": 1
-    },
-    {
-      "brandId": "kucht",
-      "brandName": "Kucht",
-      "logoUrl": "images/brands/kucht.svg",
-      "count": 1
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 2
     }
   ],
   "products": [

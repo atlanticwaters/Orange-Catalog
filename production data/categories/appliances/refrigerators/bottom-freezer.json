@@ -4,7 +4,7 @@
   "slug": "bottom-freezer",
   "path": "/categories/appliances/refrigerators/bottom-freezer",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T13:24:27.889924",
+  "lastUpdated": "2026-01-02T15:26:37.580606",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -62,30 +62,6 @@
       "brandName": "Maytag",
       "logoUrl": "images/brands/maytag.svg",
       "count": 2
-    },
-    {
-      "brandId": "thor-kitchen",
-      "brandName": "Thor Kitchen",
-      "logoUrl": "images/brands/thor-kitchen.svg",
-      "count": 2
-    },
-    {
-      "brandId": "vissani",
-      "brandName": "Vissani",
-      "logoUrl": "images/brands/vissani.svg",
-      "count": 1
-    },
-    {
-      "brandId": "lg",
-      "brandName": "LG",
-      "logoUrl": "images/brands/lg.svg",
-      "count": 1
-    },
-    {
-      "brandId": "sharp",
-      "brandName": "Sharp",
-      "logoUrl": "images/brands/sharp.svg",
-      "count": 1
     }
   ],
   "products": [

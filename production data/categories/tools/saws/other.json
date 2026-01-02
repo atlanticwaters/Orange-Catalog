@@ -1,0 +1,636 @@
+{
+  "categoryId": "tools/saws/other",
+  "name": "Other",
+  "slug": "other",
+  "path": "/categories/tools/saws/other",
+  "version": "1.0",
+  "lastUpdated": "2026-01-02T15:26:37.602704",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    },
+    {
+      "label": "Other",
+      "url": "/tools/saws/other"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 27
+  },
+  "featuredBrands": [
+    {
+      "brandId": "hilti",
+      "brandName": "Hilti",
+      "logoUrl": "images/brands/hilti.svg",
+      "count": 7
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 6
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 3
+    },
+    {
+      "brandId": "diablo",
+      "brandName": "DIABLO",
+      "logoUrl": "images/brands/diablo.svg",
+      "count": 2
+    },
+    {
+      "brandId": "evolution-power-tools",
+      "brandName": "Evolution Power Tools",
+      "logoUrl": "images/brands/evolution-power-tools.svg",
+      "count": 2
+    },
+    {
+      "brandId": "aircat",
+      "brandName": "AIRCAT",
+      "logoUrl": "images/brands/aircat.svg",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "302766974",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Low Vibration Riciprocating Saw",
+      "rating": {
+        "average": 4.8182,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b602098-41e2-4ce5-894f-0ea59247b44e/svn/aircat-air-cut-off-tools-6350-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 136.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300010514",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "Industrial Duty High Speed 90 psi Auto Body Saw",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/06eb49c2-0ae5-47d4-b409-c31094ec537a/svn/emax-air-cut-off-tools-hatbs10s1p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 107.23,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100008676",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "7-1/4in. x 24-Teeth Tracking Point Framing Saw Blade for Wood",
+      "rating": {
+        "average": 4.726,
+        "count": 3296
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/377d7d2f-4117-4ede-8f0f-0cc80432c020/svn/diablo-circular-saw-blades-d0724r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100033809",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "10in. x 60-Tooth Fine Finish Saw Blade for Wood",
+      "rating": {
+        "average": 4.81,
+        "count": 1258
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/143444f1-c0f2-430f-83dd-82caf2795602/svn/diablo-table-saw-blades-miter-saw-blades-d1060x-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312620578",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (3) Cutting Wheels",
+      "rating": {
+        "average": 4.2717,
+        "count": 946
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a1c38fe3-d17f-4ad7-b79e-8f9ac6465351/svn/ridgid-power-cutting-tools-r87547b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641120",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Subcompact Multi-Material Saw",
+      "rating": {
+        "average": 4.4696,
+        "count": 1248
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e28a6756-922e-4e34-9e22-e0bcd2a45aa3/svn/ridgid-power-cutting-tools-ac8609340sb-r87547b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 278.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958622",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (6) Cutting Wheels",
+      "rating": {
+        "average": 4.206,
+        "count": 796
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20baa484-77bd-4275-9e2d-93343dcc08cf/svn/ridgid-power-cutting-tools-r87547b-ac7cw32-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 148.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325278167",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Hole Dozer General Purpose Bi-Metal Hole Saw Set (39-Piece)",
+      "rating": {
+        "average": 4.4218,
+        "count": 4182
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cb614dc4-a56e-4869-81a6-e9ef9cff660c/svn/milwaukee-hole-saws-bits-49-22-4185-49-22-4020-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319396559",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "BIG HAWG Carbide Hole Saw Kit (18-Piece)",
+      "rating": {
+        "average": 4.8211,
+        "count": 369
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d77bcf2-0cd9-42f5-9765-491514eb7856/svn/milwaukee-hole-saws-bits-49-56-9290-49-56-9285-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321574659",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 2 HP 115V/230V Cabinet Saw",
+      "rating": {
+        "average": 4.5217,
+        "count": 46
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8ffa62d1-a1de-45e2-a4a0-26606d34416c/svn/grizzly-industrial-stationary-table-saws-g0899-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1900.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305663849",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 3 in. Cut Off Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5059,
+        "count": 3619
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d2987a20-1de6-411a-8c58-5bb033a04f45/svn/milwaukee-circular-saws-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321036665",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 6-1/2 in. Plunge Cut Track Saw with 55 in. Track Saw Guide Rail",
+      "rating": {
+        "average": 4.6076,
+        "count": 395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6edb524c-2792-4e27-8ef2-01f7a355ebf9/svn/milwaukee-circular-saws-2831-20-48-08-0571-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315442335",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 6-1/2 in. Plunge Cut Track Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7527,
+        "count": 457
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e9f4342-69fe-4ba6-9baf-4a5b0a18e59d/svn/milwaukee-circular-saws-2831-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311528269",
+      "modelNumber": "",
+      "brand": "ECHO",
+      "title": "14 in. 73.5 cc 2-Stroke Gas Concrete Masonry Pro Cut-Off Saw with Decompression Valve and Abrasive Blade and Water Valve",
+      "rating": {
+        "average": 4.7419,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3acc15b5-6c5e-4064-9159-8685383ba14a/svn/echo-concrete-saws-csg-7410-14-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317298712",
+      "modelNumber": "",
+      "brand": "Evolution Power Tools",
+      "title": "12 In. Electric Concrete Cut-Off Saw, With 12 In. Diamond Blade",
+      "rating": {
+        "average": 4.434,
+        "count": 53
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3df41f38-dc65-48db-a2e1-12d83f2eab9a/svn/evolution-power-tools-concrete-saws-r300dct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 192.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027119",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 700X 32 in. x 10.3 in. Hand-Held Pull Start Concrete Gas Saw with 14 in. Equdist SPX Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f929a64-38f9-4fed-b1fc-e022af8c8c35/svn/hilti-concrete-saws-5001793-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1637.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304101719",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "5 in. Dry Masonry Saw with Dust Extraction",
+      "rating": {
+        "average": 4.2,
+        "count": 40
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0f509e07-9485-4700-a316-986ba6404564/svn/makita-concrete-saws-4100kb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 251.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308737328",
+      "modelNumber": "",
+      "brand": "Tomahawk Power",
+      "title": "6 in. 3.5 HP Honda Early Entry Walk Behind Green Concrete Saw with GX120 Honda Engine",
+      "rating": {
+        "average": 4.4545,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/526a7afe-86f8-4ca3-b920-517ea1dfd9d1/svn/tomahawk-power-concrete-saws-tfs6h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2533.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317283440",
+      "modelNumber": "",
+      "brand": "Evolution Power Tools",
+      "title": "9 in. Electric Concrete Saw",
+      "rating": {
+        "average": 4.2535,
+        "count": 71
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/304da951-0d2a-4e84-b9fb-a60ba2270b96/svn/evolution-power-tools-concrete-saws-r230dct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338910973",
+      "modelNumber": "",
+      "brand": "Stark",
+      "title": "Gas 13 HP EPA 40 in. x 43 in. Walk-Behind Concrete Saw with Steel Handle",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f246338a-ccb0-4ad3-9df7-a151c37207ef/svn/stark-concrete-saws-61060-th-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1649.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321375822",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "12 in. DSH 600-X Hand-Held Concrete Gas Saw with Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c36c693-e184-4f98-9826-a73fa194f71e/svn/hilti-concrete-saws-3563745-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1569.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311687601",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DCH 300-X 12 in. Hand Held Electric Diamond Concrete Cutting Saw",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/287ca19e-7cb6-4271-9b77-4ba2b4b2bd35/svn/hilti-concrete-saws-3625041-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1919.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311687904",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DCH 300-X 12 in. Electric Hand Held Diamond Saw Kit with EQD SPX Universal Blade and Twist Lock",
+      "rating": {
+        "average": 2.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b4ff99c-25ae-467f-8b32-f4bf8a4e7d75/svn/hilti-concrete-saws-3625042-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027169",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. Equidist SPX Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/871894c8-3961-4475-8821-ed86573ebcdd/svn/hilti-concrete-saws-5001796-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027155",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 700X 32 in. x 10.3 in. Hand-Held Pull Start Concrete Gas Saw with (10) 14 in. Metal Deck Cutting Abrasive Blades",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a948b48b-4979-4010-8fef-1e923025ef2d/svn/hilti-concrete-saws-5001795-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1697.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027186",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. SPX Metal Cutting Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/696a7149-ddc2-4ab1-b39d-6501894333d0/svn/hilti-concrete-saws-5001797-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337129316",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander Kit W/ Batteries, Accessories, Charger, Bag & Cut Off Saw",
+      "rating": {
+        "average": 4.3693,
+        "count": 1140
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f049efb1-813b-4794-927d-02710de906a0/svn/milwaukee-polishers-2438-22x-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

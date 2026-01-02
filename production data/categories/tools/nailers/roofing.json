@@ -4,7 +4,7 @@
   "slug": "roofing",
   "path": "/categories/tools/nailers/roofing",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.744365",
+  "lastUpdated": "2026-01-02T15:26:37.596475",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -24,14 +24,14 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 9
+    "totalResults": 13
   },
   "featuredBrands": [
     {
-      "brandId": "ridgid",
-      "brandName": "RIDGID",
-      "logoUrl": "images/brands/ridgid.svg",
-      "count": 2
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 4
     },
     {
       "brandId": "dewalt",
@@ -40,22 +40,10 @@
       "count": 2
     },
     {
-      "brandId": "makita",
-      "brandName": "Makita",
-      "logoUrl": "images/brands/makita.svg",
-      "count": 1
-    },
-    {
-      "brandId": "wen",
-      "brandName": "WEN",
-      "logoUrl": "images/brands/wen.svg",
-      "count": 1
-    },
-    {
-      "brandId": "husky",
-      "brandName": "Husky",
-      "logoUrl": "images/brands/husky.svg",
-      "count": 1
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 2
     },
     {
       "brandId": "estwing",
@@ -67,6 +55,12 @@
       "brandId": "freeman",
       "brandName": "Freeman",
       "logoUrl": "images/brands/freeman.svg",
+      "count": 1
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
       "count": 1
     }
   ],
@@ -253,6 +247,90 @@
       },
       "price": {
         "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331690738",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Vinyl Siding Tip for M18 FUEL Coil Roofing Nailer",
+      "rating": {
+        "average": 4.5,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0d0cf715-309e-414d-bf51-2d76f64790f8/svn/milwaukee-compressor-accessories-48-08-2909-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332931199",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Vinyl Siding Tip for M18 FUEL Coil Roofing Nailer w/ Replacement Rubber Wear Pads",
+      "rating": {
+        "average": 4.5,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/44296b3f-21f9-45d2-bdc1-00f90e9ae634/svn/milwaukee-compressor-accessories-48-08-2909-48-09-2909-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 28.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331690748",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Replacement Rubber Wear Pads for M18 FUEL Coil Roofing Nailer",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/77695c66-c660-4fe4-aaa8-b52ad52b803f/svn/milwaukee-compressor-accessories-48-09-2909-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 12.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328987320",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Coil Roofing Nailer (Tool Only)",
+      "rating": {
+        "average": 4.6223,
+        "count": 188
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/93d343ad-f6b7-47fb-965e-20178166a73a/svn/milwaukee-roofing-nailers-2909-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
         "currency": "USD"
       }
     }

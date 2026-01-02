@@ -4,7 +4,7 @@
   "slug": "mini-fridges",
   "path": "/categories/appliances/refrigerators/mini-fridges",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T13:24:27.886919",
+  "lastUpdated": "2026-01-02T15:26:37.577139",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -34,15 +34,15 @@
       "count": 6
     },
     {
-      "brandId": "magic-chef",
-      "brandName": "Magic Chef",
-      "logoUrl": "images/brands/magic-chef.svg",
-      "count": 2
-    },
-    {
       "brandId": "frigidaire",
       "brandName": "Frigidaire",
       "logoUrl": "images/brands/frigidaire.svg",
+      "count": 2
+    },
+    {
+      "brandId": "magic-chef",
+      "brandName": "Magic Chef",
+      "logoUrl": "images/brands/magic-chef.svg",
       "count": 2
     },
     {
@@ -52,27 +52,15 @@
       "count": 2
     },
     {
-      "brandId": "ge",
-      "brandName": "GE",
-      "logoUrl": "images/brands/ge.svg",
-      "count": 1
-    },
-    {
-      "brandId": "unknown",
-      "brandName": "Unknown",
-      "logoUrl": "images/brands/unknown.svg",
-      "count": 1
-    },
-    {
       "brandId": "cowsar",
       "brandName": "COWSAR",
       "logoUrl": "images/brands/cowsar.svg",
       "count": 1
     },
     {
-      "brandId": "koolmore",
-      "brandName": "Koolmore",
-      "logoUrl": "images/brands/koolmore.svg",
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
       "count": 1
     }
   ],

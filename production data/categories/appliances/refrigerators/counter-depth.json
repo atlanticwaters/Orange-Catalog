@@ -4,7 +4,7 @@
   "slug": "counter-depth",
   "path": "/categories/appliances/refrigerators/counter-depth",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T13:24:27.889783",
+  "lastUpdated": "2026-01-02T15:26:37.580404",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -24,9 +24,15 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 2
+    "totalResults": 4
   },
   "featuredBrands": [
+    {
+      "brandId": "ca-lefort",
+      "brandName": "Ca'Lefort",
+      "logoUrl": "images/brands/ca-lefort.svg",
+      "count": 1
+    },
     {
       "brandId": "danby",
       "brandName": "Danby",
@@ -34,9 +40,15 @@
       "count": 1
     },
     {
-      "brandId": "calefort",
-      "brandName": "Ca'Lefort",
-      "logoUrl": "images/brands/calefort.svg",
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 1
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
       "count": 1
     }
   ],
@@ -84,6 +96,50 @@
         "currency": "USD"
       },
       "subcategory": "Freezerless"
+    },
+    {
+      "productId": "324849975",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "19.4 cu. ft. 36 in. W Counter-Depth 4-Door Refrigerator with PrintShield Finish",
+      "rating": {
+        "average": 4.1311,
+        "count": 122
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a95122f-1e05-4025-bda7-4fe308754b55/svn/printshield-finish-kitchenaid-french-door-refrigerators-krqc506mps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "322717415",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 22 cu. ft. Counter-Depth 4-Door Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.69,
+        "count": 1939
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bed0ba69-3a1a-4c61-8244-19d13d9dd607/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grqc2255bf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
     }
   ]
 }

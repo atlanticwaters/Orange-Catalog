@@ -4,7 +4,7 @@
   "slug": "miter-saws",
   "path": "/categories/tools/saws/miter-saws",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.747439",
+  "lastUpdated": "2026-01-02T15:26:37.601304",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -52,21 +52,15 @@
       "count": 4
     },
     {
-      "brandId": "unknown",
-      "brandName": "Unknown",
-      "logoUrl": "images/brands/unknown.svg",
-      "count": 1
-    },
-    {
       "brandId": "bosch",
       "brandName": "Bosch",
       "logoUrl": "images/brands/bosch.svg",
       "count": 1
     },
     {
-      "brandId": "wen",
-      "brandName": "WEN",
-      "logoUrl": "images/brands/wen.svg",
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
       "count": 1
     }
   ],

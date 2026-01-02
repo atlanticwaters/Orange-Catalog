@@ -4,7 +4,7 @@
   "slug": "jigsaws",
   "path": "/categories/tools/saws/jigsaws",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.747062",
+  "lastUpdated": "2026-01-02T15:26:37.600428",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -34,15 +34,15 @@
       "count": 4
     },
     {
-      "brandId": "ryobi",
-      "brandName": "RYOBI",
-      "logoUrl": "images/brands/ryobi.svg",
-      "count": 4
-    },
-    {
       "brandId": "ridgid",
       "brandName": "RIDGID",
       "logoUrl": "images/brands/ridgid.svg",
+      "count": 4
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
       "count": 4
     },
     {
@@ -52,15 +52,15 @@
       "count": 3
     },
     {
-      "brandId": "makita",
-      "brandName": "Makita",
-      "logoUrl": "images/brands/makita.svg",
-      "count": 1
-    },
-    {
       "brandId": "diablo",
       "brandName": "DIABLO",
       "logoUrl": "images/brands/diablo.svg",
+      "count": 1
+    },
+    {
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
       "count": 1
     }
   ],

@@ -1,0 +1,600 @@
+{
+  "categoryId": "storage",
+  "name": "Storage",
+  "slug": "storage",
+  "path": "/categories/storage",
+  "version": "1.0",
+  "lastUpdated": "2026-01-02T15:33:10.473432",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Storage",
+      "url": "/storage"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 25
+  },
+  "featuredBrands": [
+    {
+      "brandId": "hdx",
+      "brandName": "HDX",
+      "logoUrl": "images/brands/hdx.svg",
+      "count": 11
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 6
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 3
+    },
+    {
+      "brandId": "durasack",
+      "brandName": "DURASACK",
+      "logoUrl": "images/brands/durasack.svg",
+      "count": 1
+    },
+    {
+      "brandId": "harper---bright-designs",
+      "brandName": "Harper & Bright Designs",
+      "logoUrl": "images/brands/harper---bright-designs.svg",
+      "count": 1
+    },
+    {
+      "brandId": "keter",
+      "brandName": "Keter",
+      "logoUrl": "images/brands/keter.svg",
+      "count": 1
+    }
+  ],
+  "filterOptions": {
+    "subcategories": [
+      {
+        "slug": "bins-totes",
+        "name": "Bins Totes",
+        "productCount": 19
+      },
+      {
+        "slug": "shelving",
+        "name": "Shelving",
+        "productCount": 6
+      }
+    ]
+  },
+  "products": [
+    {
+      "productId": "327528802",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "27 Gal. Tough Storage Tote in Black and Yellow",
+      "rating": {
+        "average": 4.7732,
+        "count": 13883
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9752328f-8c5f-406a-84fc-af39ebf5a347/svn/hdx-storage-bins-999-27g-hdx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327528714",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "27 Gal. Tough Storage Tote in Black and Red",
+      "rating": {
+        "average": 4.7735,
+        "count": 13675
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/543143f2-ba4a-4440-92e6-5edae4da19ca/svn/hdx-storage-bins-999-27g-hdx-red-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333939815",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "10-Tote Metal Storage Rack for HDX 14 and 27 Gal. Totes (50 in. W x 78 in. H x 24 in. D)",
+      "rating": {
+        "average": 3.9402,
+        "count": 418
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/10fab279-420d-4b96-8c78-ad41f675d1ad/svn/black-husky-freestanding-shelving-units-n3r502478tr8b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333239702",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "170 Gal. Pro Grip Storage Tote in Black with Red Lid",
+      "rating": {
+        "average": 4.6464,
+        "count": 1168
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3aab7b61-821a-48ee-88dd-77227fdcb37e/svn/husky-storage-bins-999-170g-husky-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338529537",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "77 in. W 4-Shelf Black Metal Shelving Unit, 14 Gal. and 7 Gal. Black and Yellow Storage Tote Combo",
+      "rating": {
+        "average": 4.6478,
+        "count": 1698
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0801f1e3-ddd1-456d-916e-549a5bcc6c39/svn/metal-shelving-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 250.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338529532",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "77 in. W 4-Shelf Black Metal Shelving Unit, 55 Gal. Stackable Storage Bin (4-Count) Combo",
+      "rating": {
+        "average": 4.7093,
+        "count": 2215
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5482f3b4-9eee-42d4-91aa-e9024cb548e2/svn/husky-metal-shelving-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 274.92,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338529515",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "77 in. W 4-Shelf Red Metal Shelving Unit, 27 Gal. Black and Yellow Storage Tote (4-Count) Combo",
+      "rating": {
+        "average": 4.7922,
+        "count": 5520
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38689eb4-118a-4d3a-b02e-adbb4fa02ede/svn/metal-shelving-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 234.92,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338529508",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "36 in. W 5-Shelf Black Plastic Shelving Unit, 27 Gal. Black/Yellow Storage Tote (4-Count) Combo",
+      "rating": {
+        "average": 4.6722,
+        "count": 10250
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab22e9a5-8007-4d7d-be59-713b692e332e/svn/hdx-plastic-shelving-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 105.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338529492",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "65 in. W 3-Shelf Black Metal Shelving Unit, 27 Gal. Black and Yellow Storage Tote (4-Count) Combo",
+      "rating": {
+        "average": 4.7774,
+        "count": 5679
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5ce3717-1a13-4f4c-b1f1-824182bb4216/svn/metal-shelving-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 254.92,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325276855",
+      "modelNumber": "",
+      "brand": "DURASACK",
+      "title": "22 Gal. Red Polypropylene Storage Tote Reusable Lawn and Leaf Trash Bag (2-Count)",
+      "rating": {
+        "average": 4.8182,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8c23d08e-d09b-4fcf-a03f-419a2283e3c8/svn/durasack-lawn-leaf-bags-bb-1619red-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 18.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300170479",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "55 Gallon Multipurpose Stackable Space Saving Heavy Duty Storage Bin in Black",
+      "rating": {
+        "average": 4.7497,
+        "count": 3611
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ef20e6fd-d3a8-4101-9b05-dc37c5b97233/svn/husky-storage-bins-232387-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 18.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328026905",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "77 Gal. Tough Storage Tote with Wheels in Clear with Red Lid",
+      "rating": {
+        "average": 4.7737,
+        "count": 13715
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e0997b9-4381-4520-84f5-0c5f5f0aa072/svn/hdx-storage-bins-999-77g-c-hdx-r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 64.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329481900",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "27 Gal. Tough Storage Tote in Clear with Red Lid",
+      "rating": {
+        "average": 4.7737,
+        "count": 13653
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d4c5922-a522-4fce-9194-1e60ecadffdb/svn/hdx-storage-bins-999-27g-c-hdx-r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 15.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328026917",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "27 Gal. Tough Storage Tote in Clear with Yellow Lid",
+      "rating": {
+        "average": 4.7738,
+        "count": 13673
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b0c2e248-40ef-4a32-b83e-85c3832a0a44/svn/hdx-storage-bins-999-27g-c-hdx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 15.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336054915",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "40 Gal. Tough Storage Tote in Black with Red Lid",
+      "rating": {
+        "average": 4.7737,
+        "count": 13652
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/544659a6-aa40-46cb-8842-d7c7f9d9f90a/svn/hdx-storage-bins-999-40g-hdx-r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 24.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337213033",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "77 gal. Tough Storage Tote with Wheels in Black with Red Lid",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b73ba70d-51de-4ec4-afc2-d03d18cedfef/svn/hdx-storage-bins-999-77g-hdx-r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328027059",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "77 Gal. Tough Storage Tote with Wheels in Black with Yellow Lid",
+      "rating": {
+        "average": 4.7586,
+        "count": 15177
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f19bfa54-f9ae-4837-8fe0-2efccab5c9b8/svn/hdx-storage-bins-999-77g-hdx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311485319",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "20-Gal. Professional Heavy Duty Waterproof Stackable Plastic Storage Container with Hinged Lid in Red",
+      "rating": {
+        "average": 4.7461,
+        "count": 4025
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8dcc2877-c297-4d75-9c88-53d06436dea0/svn/husky-storage-bins-246842-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328026911",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "27 Gal. Pro Grip Storage Tote in Black with Red Lid",
+      "rating": {
+        "average": 4.6467,
+        "count": 1169
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1475bf4-208f-400a-9970-0d5b457cac13/svn/husky-storage-bins-999-27g-husky-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336819078",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "Premium Grey Resin Freestanding Cabinet Combo: 35 in.x71.7 in.x18.5 in. 4-Shelf & 26.9 in.x33.8 in.x15.8 in. 2-Shelf",
+      "rating": {
+        "average": 4.0319,
+        "count": 345
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c6eb88b-2392-4fc4-a4c7-439670046d93/svn/hdx-free-standing-cabinets-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 293.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330608174",
+      "modelNumber": "",
+      "brand": "HDX",
+      "title": "Premium One 35 in. W x 71.7 in. x 18.5 in. D 4-Shelf Resin Freestanding Cabinet in Grey",
+      "rating": {
+        "average": 4.1176,
+        "count": 255
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1cee4cc4-595f-4e0c-91f4-f5c5a320067a/svn/gray-hdx-free-standing-cabinets-259916-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203055485",
+      "modelNumber": "",
+      "brand": "Prepac",
+      "title": "Elite 32 in. W x 65 in. H x 24.5 in. D 2-Shelf Engineered Wood Freestanding Cabinet Wardrobe Cabinet in White",
+      "rating": {
+        "average": 3.9055,
+        "count": 254
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/200222fa-c0ea-49e7-aaa4-22b984ed1b20/svn/white-prepac-free-standing-cabinets-wew-3264-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331693883",
+      "modelNumber": "",
+      "brand": "Keter",
+      "title": "Premium One 35 in. W x 71.7 in. H. x 18.5 in. D 5-Shelf Resin Freestanding Cabinet in Black",
+      "rating": {
+        "average": 3.4778,
+        "count": 90
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/35fdb913-29ea-40ad-91e5-38ad6dbcb69c/svn/black-keter-free-standing-cabinets-259990-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330446071",
+      "modelNumber": "",
+      "brand": "Harper & Bright Designs",
+      "title": "50 in. Antique White Rectangle MDF Console Table, Entryway Table with 3-Drawers and Storage Bottom Shelf",
+      "rating": {
+        "average": 3.6,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/012fe645-8836-4f52-8310-9afe44773d7c/svn/antique-white-harper-bright-designs-console-tables-xw135aak-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 230.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318430289",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "LINK Tool Organizer Shelf with LINK 8-Piece Wall Storage Kit",
+      "rating": {
+        "average": 4.4595,
+        "count": 346
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/54e63f50-647a-4403-b153-eb9423d06ea2/svn/ryobi-modular-tool-storage-systems-stm401-stm503k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.94,
+        "currency": "USD"
+      }
+    }
+  ]
+}

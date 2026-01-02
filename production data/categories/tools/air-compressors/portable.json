@@ -4,7 +4,7 @@
   "slug": "portable",
   "path": "/categories/tools/air-compressors/portable",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.737528",
+  "lastUpdated": "2026-01-02T15:26:37.588674",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -34,15 +34,15 @@
       "count": 8
     },
     {
-      "brandId": "husky",
-      "brandName": "Husky",
-      "logoUrl": "images/brands/husky.svg",
-      "count": 6
-    },
-    {
       "brandId": "dewalt",
       "brandName": "DEWALT",
       "logoUrl": "images/brands/dewalt.svg",
+      "count": 6
+    },
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
       "count": 6
     },
     {
@@ -62,24 +62,6 @@
       "brandName": "Mega Compressor",
       "logoUrl": "images/brands/mega-compressor.svg",
       "count": 3
-    },
-    {
-      "brandId": "ridgid",
-      "brandName": "RIDGID",
-      "logoUrl": "images/brands/ridgid.svg",
-      "count": 2
-    },
-    {
-      "brandId": "ryobi",
-      "brandName": "RYOBI",
-      "logoUrl": "images/brands/ryobi.svg",
-      "count": 2
-    },
-    {
-      "brandId": "california-air-tools",
-      "brandName": "California Air Tools",
-      "logoUrl": "images/brands/california-air-tools.svg",
-      "count": 1
     }
   ],
   "products": [

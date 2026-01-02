@@ -4,7 +4,7 @@
   "slug": "angle-drills",
   "path": "/categories/tools/drills/angle-drills",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.740059",
+  "lastUpdated": "2026-01-02T15:26:37.591768",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -40,15 +40,15 @@
       "count": 2
     },
     {
-      "brandId": "florida-pneumatic",
-      "brandName": "Florida Pneumatic",
-      "logoUrl": "images/brands/florida-pneumatic.svg",
-      "count": 1
-    },
-    {
       "brandId": "dewalt",
       "brandName": "DEWALT",
       "logoUrl": "images/brands/dewalt.svg",
+      "count": 1
+    },
+    {
+      "brandId": "florida-pneumatic",
+      "brandName": "Florida Pneumatic",
+      "logoUrl": "images/brands/florida-pneumatic.svg",
       "count": 1
     }
   ],

@@ -4,7 +4,7 @@
   "slug": "side-by-side",
   "path": "/categories/appliances/refrigerators/side-by-side",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T13:24:27.887338",
+  "lastUpdated": "2026-01-02T15:26:37.577635",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -34,18 +34,6 @@
       "count": 10
     },
     {
-      "brandId": "samsung",
-      "brandName": "Samsung",
-      "logoUrl": "images/brands/samsung.svg",
-      "count": 4
-    },
-    {
-      "brandId": "whirlpool",
-      "brandName": "Whirlpool",
-      "logoUrl": "images/brands/whirlpool.svg",
-      "count": 4
-    },
-    {
       "brandId": "ge",
       "brandName": "GE",
       "logoUrl": "images/brands/ge.svg",
@@ -58,22 +46,22 @@
       "count": 4
     },
     {
+      "brandId": "samsung",
+      "brandName": "Samsung",
+      "logoUrl": "images/brands/samsung.svg",
+      "count": 4
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 4
+    },
+    {
       "brandId": "lg",
       "brandName": "LG",
       "logoUrl": "images/brands/lg.svg",
       "count": 3
-    },
-    {
-      "brandId": "maytag",
-      "brandName": "Maytag",
-      "logoUrl": "images/brands/maytag.svg",
-      "count": 1
-    },
-    {
-      "brandId": "calefort",
-      "brandName": "Ca'Lefort",
-      "logoUrl": "images/brands/calefort.svg",
-      "count": 1
     }
   ],
   "products": [

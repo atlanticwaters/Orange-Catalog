@@ -1,0 +1,1240 @@
+{
+  "categoryId": "automotive",
+  "name": "Automotive",
+  "slug": "automotive",
+  "path": "/categories/automotive",
+  "version": "1.0",
+  "lastUpdated": "2026-01-02T15:33:10.453331",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Automotive",
+      "url": "/automotive"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 55
+  },
+  "featuredBrands": [
+    {
+      "brandId": "husky",
+      "brandName": "Husky",
+      "logoUrl": "images/brands/husky.svg",
+      "count": 12
+    },
+    {
+      "brandId": "schumacher-electric",
+      "brandName": "Schumacher Electric",
+      "logoUrl": "images/brands/schumacher-electric.svg",
+      "count": 9
+    },
+    {
+      "brandId": "tuxedo",
+      "brandName": "TUXEDO",
+      "logoUrl": "images/brands/tuxedo.svg",
+      "count": 6
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 4
+    },
+    {
+      "brandId": "skyshalo",
+      "brandName": "SKYSHALO",
+      "logoUrl": "images/brands/skyshalo.svg",
+      "count": 4
+    },
+    {
+      "brandId": "bendpak",
+      "brandName": "BENDPAK",
+      "logoUrl": "images/brands/bendpak.svg",
+      "count": 3
+    }
+  ],
+  "filterOptions": {
+    "subcategories": [
+      {
+        "slug": "jacks-lifts",
+        "name": "Jacks Lifts",
+        "productCount": 32
+      },
+      {
+        "slug": "battery-chargers",
+        "name": "Battery Chargers",
+        "productCount": 18
+      },
+      {
+        "slug": "fluids",
+        "name": "Fluids",
+        "productCount": 3
+      },
+      {
+        "slug": "cleaning",
+        "name": "Cleaning",
+        "productCount": 2
+      }
+    ]
+  },
+  "products": [
+    {
+      "productId": "331254247",
+      "modelNumber": "",
+      "brand": "VECTOR",
+      "title": "50 Amp Battery Charger/Maintainer",
+      "rating": {
+        "average": 4.1351,
+        "count": 259
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1fa030a8-fd36-4892-93fb-b10764d2acb0/svn/vector-car-battery-chargers-vecbc50-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321283942",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Professional 30 Amp Battery Charger, 3 Amp Battery Maintainer with 100 Amp Engine Start",
+      "rating": {
+        "average": 3.9628,
+        "count": 646
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a699af79-391a-4616-94db-05db20c6ebd0/svn/dewalt-car-battery-chargers-dxaec100-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316426768",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Professional 2 Amp Automotive Battery Charger and Maintainer",
+      "rating": {
+        "average": 3.9363,
+        "count": 628
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/16d3e13a-fc40-4a2f-a480-01bc7d2663f7/svn/dewalt-car-battery-chargers-dxaec2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331257401",
+      "modelNumber": "",
+      "brand": "VECTOR",
+      "title": "2 Amp Battery Charger/Maintainer",
+      "rating": {
+        "average": 4.0423,
+        "count": 260
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f8a0b995-fe31-42e4-8c55-d55a8e5086d6/svn/vector-car-battery-chargers-vecbc2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 23.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321283762",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Professional 10 Amp Battery Charger, Battery Maintainer, Battery Trickle Charger",
+      "rating": {
+        "average": 3.9363,
+        "count": 628
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/53778ef1-9fcf-4db5-a7c2-a678210aa0fb/svn/dewalt-car-battery-chargers-dxaec10-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324885942",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "2 Amp Battery Charger and Maintainer",
+      "rating": {
+        "average": 4.4615,
+        "count": 65
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a2028505-3832-48ec-aa65-66c4c6995c92/svn/ryobi-car-battery-chargers-ac0i2001-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331253060",
+      "modelNumber": "",
+      "brand": "VECTOR",
+      "title": "4 Amp Battery Charger/Maintainer",
+      "rating": {
+        "average": 4.1086,
+        "count": 267
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2158ccfa-b46a-4dbc-ac32-0941682a73af/svn/vector-car-battery-chargers-vecbc4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 44.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312211515",
+      "modelNumber": "",
+      "brand": "NOCO GENIUS",
+      "title": "GENIUS10, 10-Amp Fully-Automatic Smart Charger, 6V & 12V Battery Charger & Battery Maintainer",
+      "rating": {
+        "average": 4.6516,
+        "count": 155
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/628f446f-87ce-4bbc-9352-c0e31e74c6cb/svn/noco-genius-car-battery-chargers-genius10-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313594263",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "Automotive 6 Volt and 12 Volt 250 Amp Manual Wheeled Battery Charger and Jump Starter with a 135-Minute Timer",
+      "rating": {
+        "average": 4.4757,
+        "count": 185
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/04a3ffe4-11de-4230-8c56-961318758a93/svn/schumacher-electric-car-battery-chargers-sc1445-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 194.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321284005",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Professional Rolling 40 Amp Battery Charger, 3 Amp Maintainer with 200 Amp Engine Start",
+      "rating": {
+        "average": 4.5833,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/26249b08-d390-4940-8774-1fdc9bd811dd/svn/dewalt-car-battery-chargers-dxaec200-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 196.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313594218",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "Automotive 6 Volt and 12 Volt 200 Amp Manual Wheeled Battery Charger and Engine Starter with 135-Minute Timer",
+      "rating": {
+        "average": 4.4487,
+        "count": 156
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/08ff7506-bd2d-403c-a763-299015945b47/svn/schumacher-electric-car-battery-chargers-sc1446-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 168.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307780400",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "Automotive 12 Volt 150 Amp Fully Automatic Wheeled Battery Charger and Engine Starter with 20 Amp Boost",
+      "rating": {
+        "average": 4.0541,
+        "count": 148
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e4500bd-85b8-4683-9f9c-483e8fb33e48/svn/schumacher-electric-car-battery-chargers-sc1364-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 163.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315434893",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "DSR Professional Grade 6 and 12 Volt, 125 Peak Amps, Battery Charger and Engine Starter",
+      "rating": {
+        "average": 4.7021,
+        "count": 47
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2fde651d-9b51-5737-b29b-54ff41290a11/svn/schumacher-electric-car-battery-chargers-dsr145-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315434889",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "DSR Professional Grade 12 and 24 Volt, 200 Amp Manual Wheeled Battery Charger and Jump Starter",
+      "rating": {
+        "average": 4.38,
+        "count": 50
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/53d905d8-c722-458d-b50a-db0457880560/svn/schumacher-electric-car-battery-chargers-dsr140-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 195.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315434886",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "Automotive 6 Volt and 12 Volt 300 Amp Fully Automatic Wheeled Jump Starter and Battery Charger with 60 Amp Boost",
+      "rating": {
+        "average": 4.0738,
+        "count": 149
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0b221851-43df-4438-a0f5-774e26817516/svn/schumacher-electric-car-battery-chargers-sc1400-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 263.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305960166",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "DSR Professional Grade 12 Volt, 250 Amp Wheeled Rapid Battery Charger, Maintainer, and Engine Starter",
+      "rating": {
+        "average": 4.1333,
+        "count": 30
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/321bf5de-d633-42d3-8108-b4ea61ec96c2/svn/schumacher-electric-car-battery-chargers-dsr121-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 315.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338071787",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "12-Volt 10A 3-in-1 Car Battery Charger and Maintainer, For Power Sport, Automotive, and Marine Batteries",
+      "rating": {
+        "average": 4.913,
+        "count": 23
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/73d8f013-bb8a-4328-be60-be5bc0ba8dba/svn/schumacher-electric-car-battery-chargers-sc1282-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 44.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315434894",
+      "modelNumber": "",
+      "brand": "Schumacher Electric",
+      "title": "DSR Professional Grade 12 Volt, 225 Amp Manual Wheeled Battery Charger and Jump Starter",
+      "rating": {
+        "average": 4.4528,
+        "count": 53
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d97a3440-dc5b-5d62-aea6-9c3b502e5e3d/svn/schumacher-electric-car-battery-chargers-dsr139-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319875804",
+      "modelNumber": "",
+      "brand": "Rain-X",
+      "title": "100 oz. High Foaming Car Wash",
+      "rating": {
+        "average": 4.4472,
+        "count": 161
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/328a8388-fbf5-423c-a939-5986e30512a5/svn/rain-x-car-washing-supplies-620191-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339377625",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "64 fl. oz. Ultra Shine Wash and Wax, 128 oz. All-Purpose Car Wash, 5 Gallon Bucket and 2-in-1 Scrub Sponge Combo",
+      "rating": {
+        "average": 4.6838,
+        "count": 7186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa303610-ec0b-4a6e-8009-8ef12898976d/svn/car-washing-supplies-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 30.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337893557",
+      "modelNumber": "",
+      "brand": "Prestone",
+      "title": "DOT 3 Brake Fluid 12 fl oz, Power Steering Fluid 32 fl oz, and Antifreeze Coolant 1 Gal Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 26.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300387920",
+      "modelNumber": "",
+      "brand": "Shell Rotella",
+      "title": "T4 Triple Protection SAE 15W-40 Diesel Motor Oil 1 Gal.",
+      "rating": {
+        "average": 4.7918,
+        "count": 341
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/205938bc-ca9a-4b77-bdb5-53e5074dd32f/svn/shell-rotella-motor-oil-550045126-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 15.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300646438",
+      "modelNumber": "",
+      "brand": "Pennzoil",
+      "title": "Platinum SAE 5W-30 Full Synthetic Motor Oil 5 Qt.",
+      "rating": {
+        "average": 4.8302,
+        "count": 2126
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38055c87-dd80-4e10-b99f-261d3b99e85d/svn/pennzoil-motor-oil-550046126-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 29.38,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311259745",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "2-Ton Hydraulic Trolley Car Jack",
+      "rating": {
+        "average": 3.9614,
+        "count": 544
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/36f3a3ca-eac9-4d4b-bf6f-d5a083b364a3/svn/black-husky-floor-jacks-hpl4136-vt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315635318",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Car Jack Stands",
+      "rating": {
+        "average": 4.4314,
+        "count": 612
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6c604ed5-9316-4cef-b707-8673a05a487b/svn/black-husky-jack-stands-hpl4124-zd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308174827",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "6-Ton Hydraulic Bottle Car Jack",
+      "rating": {
+        "average": 4.3677,
+        "count": 514
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e1b98e60-7de1-4b7f-9eda-65306d8fe2d6/svn/husky-bottle-jacks-hpl6b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 32.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334562975",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift",
+      "rating": {
+        "average": 4.6298,
+        "count": 994
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4f96b366-0421-423a-b1af-f9975e7b1afb/svn/black-husky-floor-jacks-hd00120n-hv-th-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318271372",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "2.5-Ton Pro Low Profile Floor Jack",
+      "rating": {
+        "average": 4.6352,
+        "count": 973
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8dca6615-6c69-4bb5-a73d-394492aab78f/svn/black-husky-floor-jacks-hpl4121-dip-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308174828",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "20-Ton Hydraulic Bottle Car Jack",
+      "rating": {
+        "average": 4.3677,
+        "count": 514
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7ecc5338-6781-48d8-9a68-4906335b82e9/svn/husky-bottle-jacks-hpl20b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339352607",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift with 12 in. 4 Pocket Zippered Tool Bag",
+      "rating": {
+        "average": 4.7897,
+        "count": 642
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d469b24e-738d-4dc7-9b09-096c112b5eaa/svn/husky-jack-stands-hd0012060012-bd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 148.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339421685",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift with 14 in. 13 Pocket Rolling Tool Bag",
+      "rating": {
+        "average": 4.7215,
+        "count": 395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8712457e-f11c-4dfa-ad16-993e8dbc948a/svn/husky-jack-stands-hd0012065014-bd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 218.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339421714",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Low Profile Floor Jack with Quick Lift and Jack Stands",
+      "rating": {
+        "average": 4.4525,
+        "count": 179
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f731892f-bb66-4e70-aee5-3136b4c3bae1/svn/husky-floor-jacks-hd00120-bd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 188.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315530068",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-Ton Aluminum/Steel Floor Jack",
+      "rating": {
+        "average": 4.4695,
+        "count": 164
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c41d6eac-757c-437b-a475-40613d231396/svn/black-husky-floor-jacks-hpl4751-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307789471",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "3-1/2-Ton Low Profile Floor Jack with Quick Lift",
+      "rating": {
+        "average": 4.614,
+        "count": 171
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f56fd346-fff8-4279-8d89-886d20c39229/svn/black-husky-floor-jacks-hd4795-dip-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 246.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318271280",
+      "modelNumber": "",
+      "brand": "Husky",
+      "title": "30-Ton Bottle Car Jack",
+      "rating": {
+        "average": 4.3677,
+        "count": 514
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0692f348-dabb-4c3f-bee5-433033497440/svn/husky-bottle-jacks-hpl30b-dip-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100594524",
+      "modelNumber": "",
+      "brand": "Big Red",
+      "title": "6-Ton Double-Locking Jack Stands (2-Pack)",
+      "rating": {
+        "average": 4.5568,
+        "count": 185
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/84c3decc-6d29-4102-af3a-39c8cce2b262/svn/red-big-red-jack-stands-t46002c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 63.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334358869",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Car Lift, 7,000 lbs. Capacity Portable Car Lift, with Extended-Length Plates, 26. 8 in. Max. Height, Heavy-duty Steel",
+      "rating": {
+        "average": 4.1667,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d59cea94-3e0a-4ce9-b897-d3b74225149e/svn/skyshalo-car-lifts-qcsjjzg7000lb9kl9v1-s0110-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1465.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335976058",
+      "modelNumber": "",
+      "brand": "QUICKJACK",
+      "title": "6000TL Portable Car Lift 6000 lb. Capacity with 110V Power Unit Included",
+      "rating": {
+        "average": 4.3861,
+        "count": 101
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a19550a0-3bdc-4f7b-9d2d-77b7365428cc/svn/quickjack-car-lifts-5175626-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2213.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319497124",
+      "modelNumber": "",
+      "brand": "QUICKJACK",
+      "title": "5000TL Portable Car Lift with 110V Power Unit Included",
+      "rating": {
+        "average": 4.597,
+        "count": 722
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c51ddbad-93ad-4d89-a9f4-ef3ef4353b82/svn/quickjack-car-lifts-5175630-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1925.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325002915",
+      "modelNumber": "",
+      "brand": "MAX JAX",
+      "title": "MK7 Symmetric Portable 2 Post Car Lift with 7,000 lbs. Weight Capacity and 110V Power Unit Included",
+      "rating": {
+        "average": 4.6413,
+        "count": 92
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a54396c1-62a2-441c-a19f-4b29c10f6fba/svn/max-jax-car-lifts-5175548-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5039.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339510",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Storage 4-Post Car Lift 9,000 lbs. Extended Length/Height - With Poly Casters, Drip Trays, Jack Tray",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/352d9f8d-25f0-466c-91b9-144f85943264/svn/tuxedo-car-lifts-fp9k-dx-xlt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5650.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321886360",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "iDEAL Mobile Column Car Lift, 4 Column Set, 52,000 lbs.",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6189bc76-7f1e-40c9-b24b-474d08eb4a32/svn/car-lifts-msc-13k-b-452-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36883.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339545",
+      "modelNumber": "",
+      "brand": "IDEAL",
+      "title": "Mobile Single Column Car Lift 6,000 lbs. Capacity Heavy Duty Model With Stackable Extensions included",
+      "rating": {
+        "average": 4.375,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6cf818e5-acbb-4b7e-b113-53d593f473cd/svn/ideal-car-lifts-msc-6klp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5610.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339546",
+      "modelNumber": "",
+      "brand": "IDEAL",
+      "title": "2-Post Car Lift Asymmetric/Symmetric Direct Drive 10,000 lbs. Capacity ALI Certified with PU",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d89951bd-f0ea-4b2d-835e-641fa640f4cd/svn/ideal-car-lifts-tp10kac-dx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5269.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339524",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Bi-Symmetric 2 Post Car Lift Direct Drive 3 Stage Single Point 11,000 lbs.",
+      "rating": {
+        "average": 4.875,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/afce9c04-2467-46a5-80bc-756e06ae12bd/svn/tuxedo-car-lifts-tp11kc-dx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4770.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327329410",
+      "modelNumber": "",
+      "brand": "BENDPAK",
+      "title": "10APX-181 2-Post Vehicle Lift 10,000 lb Capacity-Adaptable Clearfloor with Adjustable Width and 220V Power Unit Included",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1fe77687-199e-4d6c-bab7-897c3deb3f6c/svn/bendpak-car-lifts-5175307-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7095.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327329428",
+      "modelNumber": "",
+      "brand": "BENDPAK",
+      "title": "6XP Portable Mid-Rise Scissor Car Lift 6000 lbs. Capacity, 48 in. Max Rise with 110V Power Unit Included",
+      "rating": {
+        "average": 3.5,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dea9739c-c47b-4d0d-8f32-4e10d0f51935/svn/bendpak-car-lifts-5175730-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3412.12,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314300353",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Symmetric 2 Post Car Lift 9,000 lbs. Capacity Heavy Duty in Black",
+      "rating": {
+        "average": 4.8462,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c322925-46fa-49a6-b6ca-5d615d69d411/svn/tuxedo-car-lifts-tp9kf-tux-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3199.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338681941",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Symmetric 2 Post Car Lift, 11000 lb. Capacity, 220V 2.95 HP Motor, Auto Hoist for Sedan/SUV/Pickup, 74.8 in. Height",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3a2f694b-912d-4964-bb07-deb67a430302/svn/skyshalo-car-lifts-szjsj70inchsi669a001v7-250903-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2382.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339549",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "Asymmetric 2-Post Car Lift Clear Floor 9,000 lbs. Capacity in Blue",
+      "rating": {
+        "average": 4.0,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8fddd2f-7e81-4c3e-a91f-adbb37678255/svn/tuxedo-car-lifts-tp9kacx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3280.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338681937",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Symmetric 2 Post Car Lift 9000 lb. Capacity, 220V 2.95 HP Motor, Hoist for Sedan/SUV, 74. 8in. Height, Garage/Shop, Blue",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49881325-e25f-4927-a26b-f25cbfa41e8a/svn/skyshalo-car-lifts-szjsj70inchshtari001v7-250903-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1928.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339488",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "4-Post Automotive Deluxe Extended Storage Car Lift 8,000 lb. Capacity Heavy Duty",
+      "rating": {
+        "average": 4.5385,
+        "count": 26
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4d6221-cf06-43b0-82e0-ec5aa09bfdf8/svn/tuxedo-car-lifts-fp8k-dx-xlt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4829.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338681932",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Symmetric 2 Post Car Lift 12000 lb. Capacity, 220V 2.95 HP Motor, Auto Hoist for Sedan/SUV/Pickup, 74.8 in. H, Garage",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8835ff8-5b56-41a4-8568-d95889740e20/svn/skyshalo-car-lifts-szjsj70inchd0ueu6001v7-250903-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2467.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314339490",
+      "modelNumber": "",
+      "brand": "TUXEDO",
+      "title": "4-Post Automotive Deluxe Storage Car Lift 8,000 lb. Capacity with Casters, Drip Trays and Jack Tray",
+      "rating": {
+        "average": 4.2941,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/da3d1569-1236-4633-8315-b3c52a76e39b/svn/tuxedo-car-lifts-fp8k-dx-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4660.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327329415",
+      "modelNumber": "",
+      "brand": "BENDPAK",
+      "title": "HD-9XW Extra-Tall 4 Post Car Lift 9000 lbs. Capacity - Versatile Freestanding Lift with 220V Power Unit Included",
+      "rating": {
+        "average": 3.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6afeceb1-940f-4642-aabb-ce364d2a2b4e/svn/bendpak-car-lifts-5175863-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6300.15,
+        "currency": "USD"
+      }
+    }
+  ]
+}

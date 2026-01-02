@@ -1,0 +1,2026 @@
+{
+  "categoryId": "tools/drills",
+  "name": "Drills",
+  "slug": "drills",
+  "path": "/categories/tools/drills",
+  "version": "1.0",
+  "lastUpdated": "2026-01-02T15:33:10.428247",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Drills",
+      "url": "/tools/drills"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 92
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 29
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 17
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 14
+    },
+    {
+      "brandId": "bosch",
+      "brandName": "Bosch",
+      "logoUrl": "images/brands/bosch.svg",
+      "count": 6
+    },
+    {
+      "brandId": "grizzly-industrial",
+      "brandName": "Grizzly Industrial",
+      "logoUrl": "images/brands/grizzly-industrial.svg",
+      "count": 6
+    },
+    {
+      "brandId": "jet",
+      "brandName": "Jet",
+      "logoUrl": "images/brands/jet.svg",
+      "count": 4
+    }
+  ],
+  "filterOptions": {
+    "subcategories": [
+      {
+        "slug": "other",
+        "name": "Other",
+        "productCount": 32
+      },
+      {
+        "slug": "hammer-drills",
+        "name": "Hammer Drills",
+        "productCount": 28
+      },
+      {
+        "slug": "drill-presses",
+        "name": "Drill Presses",
+        "productCount": 16
+      },
+      {
+        "slug": "angle-drills",
+        "name": "Angle Drills",
+        "productCount": 12
+      },
+      {
+        "slug": "impact-drivers",
+        "name": "Impact Drivers",
+        "productCount": 4
+      }
+    ]
+  },
+  "products": [
+    {
+      "productId": "303834256",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12-Volt Lithium-Ion Cordless Grease Gun XC Kit with M12 Right Angle Drill",
+      "rating": {
+        "average": 4.4485,
+        "count": 136
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5c2fd8e8-c1df-472d-86b3-7b2fcc046a41/svn/milwaukee-air-grease-guns-2446-21xc-2415-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 339.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205091551",
+      "modelNumber": "",
+      "brand": "Florida Pneumatic",
+      "title": "3/8 in. Reversible Angle Drill",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b03778e8-01cf-496e-902a-5f398fc26115/svn/florida-pneumatic-air-drills-fp-785-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 151.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312427932",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL GEN II 18V Lithium-Ion Brushless Cordless 1/2 in. Hole Hawg Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.3541,
+        "count": 418
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/768accf0-907a-4971-bbeb-3bf41ba25666/svn/milwaukee-right-angle-drills-2807-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309495657",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless GEN 2 SUPER HAWG 1/2 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6267,
+        "count": 225
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/90fa78d5-2aa1-49d0-b40d-629449e23a4e/svn/milwaukee-right-angle-drills-2809-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312430386",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hole Hawg 7/16 in. Right Angle Drill W/ Quick-Lok (Tool-Only)",
+      "rating": {
+        "average": 4.3212,
+        "count": 193
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/572392dc-fd43-4630-936f-816804d50ce1/svn/milwaukee-right-angle-drills-2808-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196520",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 3/8 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.632,
+        "count": 1068
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/27cc5bc9-9ab6-4846-b050-c80d977b5c1d/svn/milwaukee-right-angle-drills-2415-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309824232",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless GEN 2 SUPER HAWG 7/16 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6864,
+        "count": 118
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0659d1e0-97ae-4237-b857-4e4eb6393bed/svn/milwaukee-right-angle-drills-2811-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202901662",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless 3/8 in. Right-Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.3325,
+        "count": 391
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c959b8bd-0496-49bd-9643-97af7b349605/svn/milwaukee-right-angle-drills-2615-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313438681",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact 3/8 in. Right Angle Drill (Tool Only)",
+      "rating": {
+        "average": 4.6918,
+        "count": 808
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a20fd4eb-4ccd-4e0d-9565-487ce60f93ba/svn/ryobi-right-angle-drills-psbra02b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203316372",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless 3/8 in. Right Angle Drill/Driver (Tool Only)",
+      "rating": {
+        "average": 4.2372,
+        "count": 312
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6cd2d2c-7a05-4063-ba60-5d1bff5f7445/svn/dewalt-right-angle-drills-dcd740b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100342144",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Right Angle Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6088,
+        "count": 1025
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca6084bd-beaa-4d1f-b813-d18ee5fc67b3/svn/ryobi-right-angle-drills-p241-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333683682",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL GEN II 18V Lith-Ion Brushless Cordless 1/2 in. Hole Hawg Right Angle Drill w/ (2) High Output 6.0 Ah Battery",
+      "rating": {
+        "average": 4.6335,
+        "count": 996
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6255c2db-290e-4ecd-b5e9-678a99c7e71b/svn/milwaukee-right-angle-drills-2807-20-48-11-1862-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 569.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205503636",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "10 in. 5 Speed Drill Press with EXACTLINE Laser Alignment System",
+      "rating": {
+        "average": 4.1118,
+        "count": 1181
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/320893f4-41bd-41d6-8625-2f6a9713dcb5/svn/ryobi-drill-presses-dp103l-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316951776",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "5-Amp 12 in. Variable Speed Cast Iron Benchtop Drill Press with Laser, Work Light, and 5/8 in. Chuck Capacity",
+      "rating": {
+        "average": 4.5282,
+        "count": 1259
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32aff3d2-81bf-4702-bb2d-f4ef069678e6/svn/wen-drill-presses-4214t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 218.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204059824",
+      "modelNumber": "",
+      "brand": "Jet",
+      "title": "1.5 HP 20 in. Floor Standing Drill Press with Worklight, 12-Speed, 115/230-Volt, JDP-20MF",
+      "rating": {
+        "average": 4.6389,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1e8c55a6-98ad-4c5c-aff3-c59de8c5ab24/svn/jet-drill-presses-354170-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327863891",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "20 in. 12-Speed Floor Drill Press with 5/8 in. Chuck Capacity, LED Light, and Laser Guide",
+      "rating": {
+        "average": 4.4545,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51a94119-f468-4378-99c3-c96fc584e316/svn/grizzly-industrial-drill-presses-t33904-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1095.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205653862",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 in. 12-Speed Drill Press with LED",
+      "rating": {
+        "average": 4.0467,
+        "count": 214
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/31c6a4e1-6270-4143-bb6d-09e7bb3f2bff/svn/ridgid-drill-presses-r1500-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 529.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321572382",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "12 in. Variable-Speed Benchtop Drill Press with 5/8 in. Chuck Capacity and Laser",
+      "rating": {
+        "average": 4.3827,
+        "count": 81
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2842ec1a-e03c-40e6-b5ec-da10d17ba105/svn/grizzly-industrial-drill-presses-t31739-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 520.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338674205",
+      "modelNumber": "",
+      "brand": "Jet",
+      "title": "JDP-20S 20-Smart Drill Press",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a08d193c-07e4-491e-bf99-ba19978a3eb1/svn/jet-drill-presses-jdp-20s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2399.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308542212",
+      "modelNumber": "",
+      "brand": "Powermatic",
+      "title": "115-Volt/230-Volt 1HP 1PH Drill Press",
+      "rating": {
+        "average": 4.6923,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a5e05b6b-af8f-4218-9576-0c6bc141f19e/svn/powermatic-drill-presses-1792800b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2204.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316951864",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "5-Amp 10 in. Variable Speed Cast Iron Benchtop Drill Press with Laser and 1/2 in. Chuck Capacity",
+      "rating": {
+        "average": 4.3367,
+        "count": 588
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4cff1d91-2888-4faf-bcfa-a6a245060333/svn/wen-drill-presses-4212t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 190.43,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300093749",
+      "modelNumber": "",
+      "brand": "Jet",
+      "title": "1/2 HP 12 in. Benchtop Drill Press, Variable Speed, 115-Volt, JWDP-12",
+      "rating": {
+        "average": 4.5909,
+        "count": 44
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3f594e62-6b6d-4b4d-ace3-1e62090fbfd4/svn/jet-drill-presses-716000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 736.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316782983",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "13 Amp 17 in. 12-Speed Floor Standing Drill Press",
+      "rating": {
+        "average": 4.5397,
+        "count": 63
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c3ab2e18-f247-40ab-9366-ea9ae90a1bdc/svn/wen-drill-presses-4227t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 816.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310230027",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "34 in. 5-Speed Floor Radial Drill Press with 5/8 in. Chuck Capacity",
+      "rating": {
+        "average": 4.6667,
+        "count": 45
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/485e54ec-3c8a-4435-a02f-87eedb6a9ddc/svn/grizzly-industrial-drill-presses-g7946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 635.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "327863897",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "14 in. 12 Speed Floor Drill Press with 5/8 in. Chuck Capacity, LED Light and Laser Guide",
+      "rating": {
+        "average": 4.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7f778e2b-ae4a-4a0b-b6fb-62a1f1bce6d1/svn/grizzly-industrial-drill-presses-t33902-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 655.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321572381",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "8 in. 5-Speed Benchtop Drill Press with 1/2 in. Chuck Capacity",
+      "rating": {
+        "average": 4.6619,
+        "count": 139
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/22cfd026-e56b-467c-9a03-85cd8398387a/svn/grizzly-industrial-drill-presses-g0925-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 220.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315019361",
+      "modelNumber": "",
+      "brand": "Powermatic",
+      "title": "20 in. Variable Speed Drill Press, PM2820EVS",
+      "rating": {
+        "average": 4.125,
+        "count": 8
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/65f0a2c0-941e-4a98-9962-88f5f5a369a7/svn/powermatic-drill-presses-1792820-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3035.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204059196",
+      "modelNumber": "",
+      "brand": "Jet",
+      "title": "3/4 HP 15 in. Floor Standing Drill Press with Worklight, 16-Speed, 115-Volt, J-2500",
+      "rating": {
+        "average": 4.3889,
+        "count": 18
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/84747669-e56d-446b-90fc-c232cde79b33/svn/jet-drill-presses-354400-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320326787",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 2 Batteries",
+      "rating": {
+        "average": 4.7652,
+        "count": 3578
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/880445c5-d412-41b5-b45a-35e00d7de46e/svn/milwaukee-power-tool-combo-kits-3697-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320268525",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit w/2 Batteries and Bag (2-Tool)",
+      "rating": {
+        "average": 4.7506,
+        "count": 3079
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7aadf189-9813-472a-923d-f0404933394e/svn/milwaukee-power-tool-combo-kits-3497-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203621519",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "5 in. x 7 in. x 12 in. SDS-Max Carbide Rotary Hammer Core Bit for Masonry and Concrete Drilling",
+      "rating": {
+        "average": 4.7667,
+        "count": 30
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d438c11b-f600-4e65-b0c2-405d06d9eb3b/svn/bosch-coring-drill-bits-hc8570-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 213.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202242695",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "4 in. x 17 in. x 22 in. SDS-Max Carbide Rotary Hammer Core Bit for Masonry and Concrete Drilling",
+      "rating": {
+        "average": 4.6024,
+        "count": 83
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e06d6614-1941-4930-9626-be9e49e44236/svn/bosch-coring-drill-bits-hc8555-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 214.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324589090",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "SHOCKWAVE Carbide Hammer Drill Bit Set w/Titanium Drill Bit Set (33-Piece)",
+      "rating": {
+        "average": 4.5174,
+        "count": 2851
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6da95385-f816-4501-8ed7-0877f78d0880/svn/milwaukee-masonry-drill-bits-48-20-9058-48-89-4631-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 44.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320326862",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with Two 5.0 Ah Batteries and Hard Case",
+      "rating": {
+        "average": 4.7124,
+        "count": 1109
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d88c8adf-c321-4519-b785-63fc4754ff49/svn/milwaukee-hammer-drills-2904-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316251424",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless Brushless Ultra-Compact 5/8 in. SDS Plus Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.4572,
+        "count": 584
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4fcaa2ba-0fbf-4cc1-9591-8888ff7fb013/svn/dewalt-hammer-drills-dch172b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322138444",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20-Volt Lithium-Ion Cordless 1/2 in. Compact Hammer Drill with 3.0Ah Battery, Charger and Bag",
+      "rating": {
+        "average": 4.6561,
+        "count": 977
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a0b704b-54e2-449d-9f92-ff73e26dbdda/svn/dewalt-hammer-drills-dcd799l1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442326",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Lithium-Ion Cordless Brushless Ultra-Compact 5/8 in. SDS Plus Hammer Drill with 5 Ah and 2 Ah Batteries",
+      "rating": {
+        "average": 4.503,
+        "count": 823
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/17a839cf-721e-433f-98ba-a0c187c68414/svn/dewalt-hammer-drills-dch172bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320326855",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver (Tool-Only)",
+      "rating": {
+        "average": 4.718,
+        "count": 1287
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/952547b2-617c-4bb1-86b6-2cb09e1657ec/svn/milwaukee-hammer-drills-2904-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331595036",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Hammer Drill Kit w/Two 5.0 Ah Batteries & M18 FORGE XC 8.0 Ah Battery Pack",
+      "rating": {
+        "average": 4.7288,
+        "count": 1578
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/42a8e5a7-c583-46ba-bb7e-38022e58d205/svn/milwaukee-hammer-drills-2904-22-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330081981",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Kit with 1 Compact 2.0Ah Battery Pack and 1 Charger",
+      "rating": {
+        "average": 4.6,
+        "count": 335
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6252690-e1ad-47a2-87b4-1e5df9772243/svn/milwaukee-hammer-drills-3404-21-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329527813",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V XR Lithium-Ion Cordless Hammer Drill Kit with 8.0 Ah Battery, Charger and Kit Bag",
+      "rating": {
+        "average": 4.7075,
+        "count": 106
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a307f7c-5957-4e10-9a23-3f61e05db6b8/svn/dewalt-hammer-drills-dcd1007ww1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330106256",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless 1/2 in. Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.732,
+        "count": 97
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b85ffdd8-2876-42ff-bc7a-e307105a39cd/svn/ryobi-hammer-drills-pblhm102b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339672951",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless 1/2 in. Hammer Drill/Driver and 18V 4.0 Ah Battery Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/be4d75b6-2d0e-4ccf-8ad7-daf3edb9e7cf/svn/ridgid-hammer-drills-r86115b-ac87004-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 268.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334337375",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V XR Brushless Cordless 1/2 in. Hammer Drill (Tool-Only)",
+      "rating": {
+        "average": 4.8095,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b488d201-a483-4d21-b448-656a3534c4d2/svn/dewalt-hammer-drills-dcd806b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331273305",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Brushless Cordless 1/2 in. Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.7419,
+        "count": 62
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d9855d3e-648c-4593-9f37-e1d1892560be/svn/dewalt-hammer-drills-dcd1007b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 203.37,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100037000",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "7.8 Amp Corded 1/2 in. Variable Speed Reversible Hammer Drill",
+      "rating": {
+        "average": 4.1508,
+        "count": 796
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/803a8751-a33a-4b7f-aaef-005e1da8254c/svn/dewalt-hammer-drills-dw511-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319905254",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 1/2 in. Hammer Drill Kit with 1.5 Ah Battery and Charger",
+      "rating": {
+        "average": 4.5074,
+        "count": 270
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/239b1d10-62ce-404c-b393-9d688391a825/svn/ryobi-hammer-drills-pcl220k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319353159",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V Compact Cordless 1/2 in. Hammer Drill (Tool Only)",
+      "rating": {
+        "average": 4.55,
+        "count": 140
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b1cc83ed-0804-4373-9c87-7e26937656e8/svn/dewalt-hammer-drills-dcd805b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 150.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326507242",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Hammer Drill/Driver (Tool-Only)",
+      "rating": {
+        "average": 4.6571,
+        "count": 70
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2bc79f40-9470-49fb-ab28-06217c56b30c/svn/milwaukee-hammer-drills-3602-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301364683",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "120-Volt SDS Max TE 50-AVR Corded Rotary Hammer Drill Kit with Pointed Chisel, Drill Bit and Power Cord",
+      "rating": {
+        "average": 4.6667,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c42e39de-4a4f-4bcb-afea-3f7783954702/svn/hilti-demolition-breaker-hammers-3553052-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1089.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335480530",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Lithium-Ion Cordless BL Rotary Hammer Drill Kit Special Buy with (1) 8 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7044,
+        "count": 433
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7ab56051-d824-41ec-b360-ffcdf0af1ce3/svn/ridgid-rotary-tools-r86712ksb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202080348",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Bulldog Xtreme 8 Amp 1 in. Corded Variable Speed SDS-Plus Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+      "rating": {
+        "average": 4.6937,
+        "count": 862
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3840960d-9c29-4520-869b-ea7903e9fc55/svn/bosch-rotary-hammers-11255vsr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315445066",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless SDS-Plus 1-1/8 in. Rotary Hammer Drill (Tool-Only)",
+      "rating": {
+        "average": 4.6752,
+        "count": 117
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/896005dd-96c5-456a-be85-77cfc168fd51/svn/milwaukee-rotary-hammers-2915-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204823328",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "12 Amp 1-9/16 in. Corded Variable Speed SDS-Max Combination Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+      "rating": {
+        "average": 4.5492,
+        "count": 193
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/756912ea-5cf8-448a-9f56-7297f3b196d5/svn/bosch-rotary-hammers-rh540m-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 519.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202080350",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "13 Amp Corded 1-5/8 in. SDS-max Variable Speed Rotary Hammer Drill with Auxiliary Side Handle and Carrying Case",
+      "rating": {
+        "average": 4.7304,
+        "count": 115
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b8dd352b-fe90-4b77-8110-dc7590add1e0/svn/bosch-rotary-hammers-11264evs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 579.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300844995",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "8.5 Amp Corded 1-1/8 in. SDS-Plus Variable Speed Concrete/Masonry Rotary Hammer Drill with Carrying Case",
+      "rating": {
+        "average": 4.645,
+        "count": 200
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3bc267a1-badf-4e91-ab1b-6ab254351606/svn/bosch-rotary-hammers-gbh2-28l-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958932",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) 2.0 Ah Batteries, Charger and 18V 4.0 Ah Battery",
+      "rating": {
+        "average": 4.7383,
+        "count": 596
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97f9d85a-3ebf-4a1c-ba3e-5518d88493d6/svn/power-tool-combo-kits-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 268.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335290384",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Brushless Cordless Subcompact Drill and Impact Driver Kit with Hackzall and Multitool 4-Tool Kit",
+      "rating": {
+        "average": 4.4184,
+        "count": 1286
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af487d2f-6909-4dbf-9624-203f9b1e0c2d/svn/milwaukee-power-tool-combo-kits-3494-24-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987595",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) 1.5 Ah Batteries, and Charger",
+      "rating": {
+        "average": 4.6706,
+        "count": 5808
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0a572c1c-8c2c-4eda-b119-8df5de93975a/svn/ryobi-power-tool-combo-kits-pcl1200k2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203111686",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Drill Driver/Impact Driver Combo Kit with Two 1.5Ah Batteries, Charger and Bag (2-Tool)",
+      "rating": {
+        "average": 4.6524,
+        "count": 4732
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ba54b76f-3b94-4504-896e-3ba11700eebc/svn/milwaukee-power-tool-combo-kits-2494-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300680497",
+      "modelNumber": "",
+      "brand": "Campbell Hausfeld",
+      "title": "3/8 in. Air Drill Reversible Keyless Chuck",
+      "rating": {
+        "average": 4.2857,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bec40b2a-d43d-4c0b-aaa1-93775529f243/svn/campbell-hausfeld-air-drills-tl054500av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 65.62,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766985",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 1/2\" Reversible Drill",
+      "rating": {
+        "average": 4.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e78b86d-bcac-4ada-8aa0-b00674d6804f/svn/aircat-air-drills-4450-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 146.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300010854",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "3/8 in. Industrial Duty Reversible Air Drill",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d4b97c41-98b7-44b8-8488-6d2508bcaf6b/svn/emax-air-drills-hatdr03s1p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 89.36,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303361414",
+      "modelNumber": "",
+      "brand": "Campbell Hausfeld",
+      "title": "Get Stuff Done Keyless Reversible Air Drill 1/4 in. Inlet (XT401000)",
+      "rating": {
+        "average": 4.5385,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c5ac0eb1-2209-400a-8896-04e688a8e2dc/svn/campbell-hausfeld-air-drills-xt401000-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766983",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Composite 3/8 in. Reversible Drill with Keyless Chuck",
+      "rating": {
+        "average": 3.3333,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8c6cb65d-f79a-4c95-a565-924561ea67ef/svn/aircat-air-drills-4338-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325403100",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) w/(2) 2.0 Ah Batteries, Charger & Bag",
+      "rating": {
+        "average": 4.6767,
+        "count": 1030
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/53c3e1e6-45d2-4c68-ac3e-b7c1f24feb00/svn/milwaukee-power-tool-combo-kits-3692-22ct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334337604",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V XR Lithium-Ion Cordless Brushless 1/2 in. Drill/Driver Kit with (2) 4.0 Ah Batteries and Charger",
+      "rating": {
+        "average": 4.8571,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e96f4519-b88c-4d66-8d46-a32cee96ccb5/svn/dewalt-power-drills-dcd801qq2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322138372",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Atomic 20V Lithium-Ion Cordless Compact 1/2 in. Drill/Driver Kit with 2.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.7275,
+        "count": 5824
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e7275289-f276-4863-840c-2035381d27a5/svn/dewalt-power-drills-dcd794d1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326680222",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery and Charger",
+      "rating": {
+        "average": 4.5835,
+        "count": 1378
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4bc923ed-c482-4f8a-85d1-3b46eca358ea/svn/ryobi-power-drills-pcl201k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987598",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (1) 1.5 Ah Battery and Charger",
+      "rating": {
+        "average": 4.6369,
+        "count": 2768
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/059fa03e-f40f-4e9c-a224-0af4b56efa9a/svn/ryobi-power-drills-pcl206k1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339857094",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery and 18V Starter Kit with 2.0 Ah and 4.0 Ah Battery",
+      "rating": {
+        "average": 4.7404,
+        "count": 6110
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/df549b8f-f7e9-44c6-850e-d23c97c22221/svn/ryobi-power-drills-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 148.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325479354",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Drill/Driver with One 2.0 Ah Battery, Charger and Tool Bag",
+      "rating": {
+        "average": 4.6243,
+        "count": 1525
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f79fff4c-da73-478f-898a-67c7dbebba7f/svn/milwaukee-power-drills-3601-21p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320959125",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Drill/Driver Kit W/(2) 5.0Ah Batteries, Charger, and Hard Case",
+      "rating": {
+        "average": 4.692,
+        "count": 250
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3245953f-017e-4bc6-a42b-660705f07344/svn/milwaukee-power-drills-2903-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339857101",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery and 40-Piece Impact Rated Driving Set",
+      "rating": {
+        "average": 4.5924,
+        "count": 1445
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2161f9ec-a69f-498f-a55b-739809c56268/svn/ryobi-power-drills-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 62.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204279858",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless 1/2 in. Drill/Driver, (2) 20V 1.3Ah Batteries, Charger and Bag",
+      "rating": {
+        "average": 4.6219,
+        "count": 10982
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c751e460-58f0-405e-8eed-a2ed15997670/svn/dewalt-power-drills-dcd771c2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339857102",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery and 30-Piece Impact Rated Driving Set",
+      "rating": {
+        "average": 4.5856,
+        "count": 1419
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d498f2a4-008c-4cee-93c9-dd7927124c82/svn/ryobi-power-drills-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 55.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339857098",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery, Charger and 6 in. Impact Drive Bits (2-Piece)",
+      "rating": {
+        "average": 4.5584,
+        "count": 1463
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ec99d135-a0af-4c60-9ad5-f613b0b6a91c/svn/ryobi-power-drills-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339857092",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery and Charger and Titanium Pilot Drill Bit Set (4-Piece)",
+      "rating": {
+        "average": 4.4456,
+        "count": 1968
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/34e9e2dd-00c8-4e28-b041-6a2d1099d286/svn/ryobi-power-drills-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 56.44,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309495334",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 4-in-1 Installation 3/8 in. Drill Driver Kit with 4-Tool Heads",
+      "rating": {
+        "average": 4.6947,
+        "count": 2096
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/75ed7338-82e3-455d-b073-c09966284dcd/svn/milwaukee-power-drills-2505-22-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331514472",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX 1/2 in. Multi-Head Drill Driver (Tool Only)",
+      "rating": {
+        "average": 4.7714,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/de473f27-71ae-4e42-8d37-d6f5ecec2bb7/svn/dewalt-power-drills-dcd803b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332250132",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact Drill/Driver Kit with 18V 2.0 Ah HIGH PERFORMANCE Battery and Charger",
+      "rating": {
+        "average": 4.6154,
+        "count": 208
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b58e72bb-b7e6-4b5e-9780-b644e7d206ec/svn/ryobi-power-drills-psbdd02k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337129477",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 4-in-1 Installation 3/8 in. Drill Driver with HIGH OUTPUT XC5. 0 Starter Kit",
+      "rating": {
+        "average": 4.5078,
+        "count": 128
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/21763de8-3d51-444f-b755-ff261b8a9102/svn/milwaukee-power-drills-2505-20-48-59-2450b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 479.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310434006",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "Mill/Drill with Stand and DRO",
+      "rating": {
+        "average": 4.7069,
+        "count": 58
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1bd9fba6-2cb0-4ba4-a384-09ee6668900b/svn/grizzly-industrial-drill-presses-g0759-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3725.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312783110",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "SHOCKWAVE Impact Duty Titanium Drill Bit and SHOCKWAVE Impact Duty Steel Driver Bit Set (68-Piece)",
+      "rating": {
+        "average": 4.5622,
+        "count": 4089
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b819133-add5-4e27-a5ac-d058f6e550f4/svn/milwaukee-drill-bit-combination-sets-48-89-4631-48-32-4023-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317080872",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless 1/4 in. Hex Screwdriver Kit w/ SHOCKWAVEImpact Duty Titanium Drill Bit Set (23-Piece)",
+      "rating": {
+        "average": 4.5802,
+        "count": 4724
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/431c6cea-4e36-437d-ac3a-29c14908ec23/svn/milwaukee-electric-screwdrivers-2401-22-48-89-4631-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100000548",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "7.5 Amp 1/2 in. Hole Hawg Heavy-Duty Corded Drill",
+      "rating": {
+        "average": 4.2183,
+        "count": 142
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e7d2b6c7-99b3-4258-80e3-8427308eb181/svn/milwaukee-right-angle-drills-1675-6-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "334825225",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX XR Brushless Cordless 1/2 in. Compact Stud and Joist Drill (Tool Only)",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5acab752-e31a-4ebb-a6db-806b292b1423/svn/dewalt-right-angle-drills-dcd446b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 341.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316796189",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V Max Cordless Brushless 7/16 in. Quick Change Stud and Joist Drill (Tool Only)",
+      "rating": {
+        "average": 4.5139,
+        "count": 72
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2c2eff39-d442-4a9f-b93d-b11f3257bbac/svn/dewalt-right-angle-drills-dcd445b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309097887",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless In-line 1/2 in. Stud and Joist Drill with E-Clutch and (1) FLEXVOLT 9.0Ah Battery",
+      "rating": {
+        "average": 4.475,
+        "count": 40
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f47ac8d-dec2-4fb3-9990-c02d653383ce/svn/dewalt-right-angle-drills-dcd470x1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331273638",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Brushless Cordless 7/16 in. Quick Change Compact Stud & Joist Drill (Tool Only)",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78138391-6a71-4898-8d6e-6809d8067de5/svn/dewalt-right-angle-drills-dcd447b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311720086",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "MX FUEL Lithium-Ion Cordless Handheld Core Drill Kit with Stand, 2 Batteries and Charger",
+      "rating": {
+        "average": 4.4815,
+        "count": 27
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/39951dde-baed-47df-9c58-8271fb05cd68/svn/milwaukee-coring-tools-mxf301-2cxs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4799.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314398680",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "MX FUEL Lithium-Ion Cordless Handheld Core Drill Kit with 2 Batteries and Charger",
+      "rating": {
+        "average": 4.6143,
+        "count": 70
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2dc36b12-9508-4208-82c8-c45dca1cda0c/svn/milwaukee-coring-tools-mxf301-2cp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3799.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

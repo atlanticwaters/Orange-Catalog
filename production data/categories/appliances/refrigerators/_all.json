@@ -1,0 +1,5169 @@
+{
+  "categoryId": "appliances/refrigerators",
+  "name": "Refrigerators",
+  "slug": "refrigerators",
+  "path": "/categories/appliances/refrigerators",
+  "version": "1.0",
+  "lastUpdated": "2026-01-02T15:33:10.412178",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Appliances",
+      "url": "/appliances"
+    },
+    {
+      "label": "Refrigerators",
+      "url": "/appliances/refrigerators"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 230
+  },
+  "featuredBrands": [
+    {
+      "brandId": "frigidaire",
+      "brandName": "Frigidaire",
+      "logoUrl": "images/brands/frigidaire.svg",
+      "count": 45
+    },
+    {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 34
+    },
+    {
+      "brandId": "whirlpool",
+      "brandName": "Whirlpool",
+      "logoUrl": "images/brands/whirlpool.svg",
+      "count": 30
+    },
+    {
+      "brandId": "lg",
+      "brandName": "LG",
+      "logoUrl": "images/brands/lg.svg",
+      "count": 25
+    },
+    {
+      "brandId": "kitchenaid",
+      "brandName": "KitchenAid",
+      "logoUrl": "images/brands/kitchenaid.svg",
+      "count": 23
+    },
+    {
+      "brandId": "vissani",
+      "brandName": "Vissani",
+      "logoUrl": "images/brands/vissani.svg",
+      "count": 16
+    }
+  ],
+  "filterOptions": {
+    "subcategories": [
+      {
+        "slug": "french-door",
+        "name": "French Door",
+        "productCount": 78
+      },
+      {
+        "slug": "top-freezer",
+        "name": "Top Freezer",
+        "productCount": 32
+      },
+      {
+        "slug": "side-by-side",
+        "name": "Side By Side",
+        "productCount": 31
+      },
+      {
+        "slug": "bottom-freezer",
+        "name": "Bottom Freezer",
+        "productCount": 29
+      },
+      {
+        "slug": "other",
+        "name": "Other",
+        "productCount": 24
+      },
+      {
+        "slug": "freezerless",
+        "name": "Freezerless",
+        "productCount": 16
+      },
+      {
+        "slug": "mini-fridges",
+        "name": "Mini Fridges",
+        "productCount": 16
+      },
+      {
+        "slug": "counter-depth",
+        "name": "Counter Depth",
+        "productCount": 4
+      }
+    ]
+  },
+  "products": [
+    {
+      "productId": "316674409",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.2372,
+        "count": 957
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dd99414e-d777-4f30-b4d1-0548cb2c1bd3/svn/stainless-steel-vissani-bottom-freezer-refrigerators-mdbf18ss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "330243879",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 30 in. 20.3 cu. ft. Bottom Freezer Refrigerator in Smudge-Proof Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.5546,
+        "count": 797
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/09fe5639-6b56-49d4-93a5-e184c593b6d6/svn/stainless-steel-frigidaire-bottom-freezer-refrigerators-grbn2012af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "205851875",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "19 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.0231,
+        "count": 477
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8a758e15-e20c-44eb-8027-301eb15fab68/svn/stainless-steel-kitchenaid-bottom-freezer-refrigerators-krbr109ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "205851838",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "22 cu. ft. Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.1935,
+        "count": 186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9a44eb45-45f5-4e7a-b89b-73727e0a9b14/svn/stainless-steel-kitchenaid-bottom-freezer-refrigerators-krbr102ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "205850432",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "20.9 cu. ft. Built-In Bottom Freezer Refrigerator in Stainless Steel, Platinum Interior",
+      "rating": {
+        "average": 3.918,
+        "count": 61
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/abd8765e-1492-4a43-b29c-269757520147/svn/stainless-steel-kitchenaid-bottom-freezer-refrigerators-kbbr306ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8459.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "339035524",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20.8 cu.ft. Built-In Bottom Freezer Refrigerator in Stainlss Steel with PrintShield Finish with Platinum Interior",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ce5b2d97-0494-4ab4-88c2-739b7dc0ee49/svn/stainless-steel-with-printshield-finish-kitchenaid-bottom-freezer-refrigerators-kbbr336sps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9499.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "319240123",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "24.8 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Standard Depth ENERGY STAR",
+      "rating": {
+        "average": 4.2545,
+        "count": 1611
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/29df578f-9919-4aa2-a5cd-b31889d712a0/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gde25eykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2299.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "205065350",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "22 cu. ft. Bottom Freezer Refrigerator in Stainless Steel with Spill Guard Glass Shelves",
+      "rating": {
+        "average": 4.4515,
+        "count": 12994
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/398aea94-a232-4108-a1d0-9d35baff7f93/svn/stainless-steel-whirlpool-bottom-freezer-refrigerators-wrb322dmbm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "312284005",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W 26 cu. ft. Bottom Freezer Refrigerator w/ Multi-Air Flow and Smart Cooling in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.2397,
+        "count": 3046
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/234e8443-3204-4160-ba4d-0e1cdbc8a81e/svn/printproof-stainless-steel-lg-bottom-freezer-refrigerators-lrdcs2603s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "318378032",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.7 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.3095,
+        "count": 517
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9fb4be8a-ceff-473e-814b-32836b56439d/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gbe17hyrfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "205140689",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "18.7 cu. ft. Bottom Freezer Refrigerator in White",
+      "rating": {
+        "average": 4.3849,
+        "count": 2684
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a499fb3-3d14-4542-89b2-9837bfb271d0/svn/white-whirlpool-bottom-freezer-refrigerators-wrb329dmbw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "205065354",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "32.75 in. 22 cu. ft. Bottom Freezer Refrigerator in Black with SPILL GUARD Glass Shelves",
+      "rating": {
+        "average": 4.5035,
+        "count": 11815
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/decf2079-2dd3-4fa3-ab01-f642645cecec/svn/black-whirlpool-bottom-freezer-refrigerators-wrb322dmbb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "321134198",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "12 cu. ft. Garage Ready Bottom Freezer Refrigerator in Fingerprint-Resistant Stainless Look",
+      "rating": {
+        "average": 4.5347,
+        "count": 101
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fe872d7e-2b16-405f-8af1-c647b20c3f39/svn/fingerprint-resistant-stainless-look-frigidaire-bottom-freezer-refrigerators-frbg1224av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "300095382",
+      "modelNumber": "",
+      "brand": "Maytag",
+      "title": "19 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2614,
+        "count": 547
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/04ac4c36-2400-4e7d-8c88-0a62f99da277/svn/fingerprint-resistant-stainless-steel-maytag-bottom-freezer-refrigerators-mbf1958fez-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "331029908",
+      "modelNumber": "",
+      "brand": "Sharp",
+      "title": "24 in. 11.5 cu. ft. Counter Depth Bottom Freezer Refrigerator in Smudge Resistant Stainless Steel ENERGY STAR Certified",
+      "rating": {
+        "average": 4.5278,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/05a7bc56-707d-456d-ac63-5dc70daed6f3/svn/stainless-steel-sharp-bottom-freezer-refrigerators-sjb1255gs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1099.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "321261066",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Classic Retro 30 in 17.7 cu. ft. Frost Free Retro Bottom Freezer Refrigerator in Marshmallow White, ENERGY STAR",
+      "rating": {
+        "average": 3.85,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/73797e61-f59d-42c0-a067-bb93f3307f5b/svn/marshmallow-white-unique-appliances-bottom-freezer-refrigerators-ugp-510l-w-ac-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "300859005",
+      "modelNumber": "",
+      "brand": "Haier",
+      "title": "15.0 cu. ft. Counter Depth Bottom Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.4029,
+        "count": 546
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b4c3bc0f-9a96-42b2-9bad-478e4920b3cb/svn/stainless-steel-haier-bottom-freezer-refrigerators-hrb15n3bgs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1439.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "330735940",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Classic Retro 23.8 in 11.7 cu. ft. Frost Free Retro Bottom Freezer Refrigerator in Marshmallow White, ENERGY STAR",
+      "rating": {
+        "average": 4.4146,
+        "count": 439
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cd51681a-65a5-477e-b43a-236dc4e0cc3b/svn/marshmallow-white-unique-appliances-bottom-freezer-refrigerators-ugp-340l-w-ac-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "330282558",
+      "modelNumber": "",
+      "brand": "Thor Kitchen",
+      "title": "30 in. Panel Ready 16 cu. ft. counter depth Bottom Freezer Refrigerator with internal water dispenser and ice maker",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f27ea0b2-0e29-4b1a-a263-adee6f278b1b/svn/custom-panel-ready-thor-kitchen-bottom-freezer-refrigerators-xrf3016bbp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6239.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "335560459",
+      "modelNumber": "",
+      "brand": "Thor Kitchen",
+      "title": "X-Series 30 in. 16.1 cu. ft. Counter Depth Panel Ready Bottom Freezer Built-in Fridge w Water Dispenser, Ice Maker in SS",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/18180c20-3ee3-4c6b-8a5f-75c36c1ceae1/svn/stainless-steel-thor-kitchen-bottom-freezer-refrigerators-xrf3016bbp-ss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "319236591",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.0 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Standard Depth ENERGY STAR",
+      "rating": {
+        "average": 4.0504,
+        "count": 357
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aec702ba-1040-4948-8d5e-07a952a6e019/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gbe21dykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1579.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "300113381",
+      "modelNumber": "",
+      "brand": "Maytag",
+      "title": "22 cu. ft. Bottom Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.3541,
+        "count": 593
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/04ac4c36-2400-4e7d-8c88-0a62f99da277/svn/fingerprint-resistant-stainless-steel-maytag-bottom-freezer-refrigerators-mbf2258fez-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "319240113",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.0 cu. ft. Bottom Freezer in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.1634,
+        "count": 1726
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97513ac6-4b1f-4a46-868c-ddf34b84bd6b/svn/fingerprint-resistant-stainless-steel-ge-bottom-freezer-refrigerators-gde21eykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1979.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "321261054",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Classic Retro 30 in 17.7 cu. ft. Frost Free Retro Bottom Freezer Refrigerator in Summer Mint Green, ENERGY STAR",
+      "rating": {
+        "average": 4.4,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d7946db0-30a3-45e6-8cb4-ba39a96e5ab2/svn/summer-mint-green-unique-appliances-bottom-freezer-refrigerators-ugp-510l-lg-ac-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3116.99,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "325607944",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "800 Series 24 in. 12.8 cu. ft. Bottom Freezer Refrigerator in Stainless Steel with Internal Ice Maker, Counter Depth",
+      "rating": {
+        "average": 4.5,
+        "count": 28
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c410c7aa-3b4c-5bf7-80c0-3b71b63f20c9/svn/stainless-steel-bosch-bottom-freezer-refrigerators-b24cb80ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "322969395",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 2-Door Panel Ready Bottom Freezer Refrigerator with Internal Water Dispenser",
+      "rating": {
+        "average": 4.6389,
+        "count": 36
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cfbe6860-7949-43f2-87aa-8615468ce885/svn/custom-panel-ready-zline-kitchen-and-bath-bottom-freezer-refrigerators-rbiv-30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6110.99,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "328460208",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 10.8 cu. ft. Bottom Freezer Refrigerator in Stainless Look, ENERGY STAR",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f5f09a5b-5d6e-4efb-90a5-dadb68bf259a/svn/stainless-look-summit-appliance-bottom-freezer-refrigerators-ffbf235pl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1134.03,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "319898032",
+      "modelNumber": "",
+      "brand": "Unique Appliances",
+      "title": "Prestige 21.6 in. 8.7 cu. ft. Bottom Freezer Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.3636,
+        "count": 22
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/91a111c4-f200-4478-9e83-f0d472697a04/svn/stainless-steel-unique-appliances-bottom-freezer-refrigerators-ugp-278l-p-s-s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 849.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "328283862",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28 cu. ft Quad Door Bottom Freezer Refrigerator Fingerprint Resistant Stainless w/Dual-Dispense AutoFill Pitcher",
+      "rating": {
+        "average": 4.5704,
+        "count": 412
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6788afa3-d226-4a1a-86a8-e45353eebab3/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pad28bytfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4139.0,
+        "currency": "USD"
+      },
+      "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "205471286",
+      "modelNumber": "",
+      "brand": "Danby",
+      "title": "Designer 24 in. W 11.0 cu. ft. Freezerless Refrigerator in White, Counter Depth",
+      "rating": {
+        "average": 4.2416,
+        "count": 327
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6132ae86-35ea-4ced-a9a3-d173a14f0c51/svn/white-danby-freezerless-refrigerators-dar110a1wdd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 654.48,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "333399283",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "24 in. 4.77 cu. ft. Built-in Panel Ready Freezerless Refrigerator Counter Depth in White w/ 4 Glass Shelves Frost Free",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7dd8e79b-859d-49da-8b97-38f4a8a6e95c/svn/white-ca-lefort-freezerless-refrigerators-clf-bc-135w-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1029.99,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "324849975",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "19.4 cu. ft. 36 in. W Counter-Depth 4-Door Refrigerator with PrintShield Finish",
+      "rating": {
+        "average": 4.1311,
+        "count": 122
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a95122f-1e05-4025-bda7-4fe308754b55/svn/printshield-finish-kitchenaid-french-door-refrigerators-krqc506mps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "322717415",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 22 cu. ft. Counter-Depth 4-Door Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.69,
+        "count": 1939
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bed0ba69-3a1a-4c61-8244-19d13d9dd607/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grqc2255bf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "325646357",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "33 in. 20 cu. ft. Garage Ready Freezerless Refrigerator in White with Temperature Alarm and Auto-Close Door, ENERGY STAR",
+      "rating": {
+        "average": 4.5755,
+        "count": 1013
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/de646900-6610-4c93-b842-35fff437a60d/svn/white-frigidaire-freezerless-refrigerators-frae2024aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "329741097",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Professional 19 cu. ft. Single Door Freezerless Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.5029,
+        "count": 1539
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5629d105-ef64-402f-b238-21e94def7a46/svn/smudge-proof-stainless-steel-frigidaire-freezerless-refrigerators-fpru19f8wf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3699.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "205744994",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "17.7 cu. ft. SideKicks Freezerless Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 2.9853,
+        "count": 477
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9807a4ba-d60e-49d8-9f5e-9a124ff00370/svn/monochromatic-stainless-steel-whirlpool-freezerless-refrigerators-wsr57r18dm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2798.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "312423329",
+      "modelNumber": "",
+      "brand": "Danby",
+      "title": "Designer 29.94 in. 17.0 cu. ft. Freezerless Refrigerator in White",
+      "rating": {
+        "average": 4.2131,
+        "count": 61
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ce8cd48-0019-5a47-b7f8-0495fd1e1a66/svn/white-danby-freezerless-refrigerators-dar170a3wdd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1104.99,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "316536615",
+      "modelNumber": "",
+      "brand": "SABA",
+      "title": "54 in. W 47 cu. ft. Commercial Freezerless Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.4375,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d37c81bb-2f9a-491c-ad49-3fe143b4046a/svn/stainless-steel-saba-freezerless-refrigerators-s-47rr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2569.85,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "303841965",
+      "modelNumber": "",
+      "brand": "Gladiator",
+      "title": "17.8 cu. ft. Garage Ready Rolling Freezerless Refrigerator in Black",
+      "rating": {
+        "average": 3.7153,
+        "count": 144
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dab89d8c-bce0-4b93-853a-045479fd36fe/svn/black-gladiator-freezerless-refrigerators-garf30fdgb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1800.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "206891678",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "17.78 cu. ft. Freezerless Refrigerator in White",
+      "rating": {
+        "average": 3.9488,
+        "count": 664
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97d53633-c342-4923-8fcc-2d41d81732d5/svn/white-whirlpool-freezerless-refrigerators-wrr56x18fw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1978.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "315174233",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Benchmark Series 30 in. W 16.8 cu. ft. Built-In Smart Freezerless Refrigerator, Custom Panel Ready",
+      "rating": {
+        "average": 4.5,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/610389aa-6922-5210-993d-561845c1fd38/svn/multi-bosch-freezerless-refrigerators-b30ir905sp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "328911465",
+      "modelNumber": "",
+      "brand": "Kucht",
+      "title": "30 in. 16.6 cu. ft. Countertop Depth Freezerless Refrigerator Panel Ready",
+      "rating": {
+        "average": 4.6923,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/736a1222-d14b-4498-bdb3-6dbfdc15eadf/svn/panel-ready-kucht-freezerless-refrigerators-kr300tr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 5232.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "335371260",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 16.7 cu. ft. Panel Ready Freezerless Column Refrigerator with Graphite Gray Interior",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9fc3ffef-f2d5-4403-aa50-643da18c023a/svn/panel-ready-zline-kitchen-and-bath-freezerless-refrigerators-rbcrv-30-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 6799.99,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "326514167",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 5.3 cu. ft. Freezerless Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e591dee0-8fdd-409f-a0b2-cd628725ff2d/svn/stainless-steel-summit-appliance-freezerless-refrigerators-ff708blssada-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1081.52,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "335371725",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 16.7 cu. ft. Freezerless Column Refrigerator in Stainless Steel with Graphite Gray Interior and Bronze Accents",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02f9a49f-208a-434c-be1d-5d4523cba831/svn/stainless-steel-zline-kitchen-and-bath-freezerless-refrigerators-rcrvz-30430-cb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7599.99,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "313478837",
+      "modelNumber": "",
+      "brand": "Danby",
+      "title": "23.82 in. 11 cu. ft. Retro Freezerless Refrigerator in Red",
+      "rating": {
+        "average": 4.2727,
+        "count": 33
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c564351a-549c-4b54-8f82-c53c4ee5d8a3/svn/metallic-red-danby-freezerless-refrigerators-dar110a3ldb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 764.99,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "316616709",
+      "modelNumber": "",
+      "brand": "SABA",
+      "title": "29 in. W 23 cu. ft. Freezerless Commercial Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4546b2b6-7332-4f4c-9877-caf604f0fff3/svn/stainless-steel-saba-freezerless-refrigerators-s-23rgg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3312.18,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "335722568",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "30 in. 16.7 cu. ft. Panel Ready Freezerless Column Refrigerator with Graphite Gray Interior and Matte Black Accents",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6089174b-b3c2-48b5-9294-55062d7b6011/svn/panel-ready-zline-kitchen-and-bath-freezerless-refrigerators-rbcrvz-30-mb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7199.99,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "316803824",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 5.5 cu. ft. Freezerless Refrigerator in Black",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd27badc-6aa1-4cd0-ba46-a1f563f15c08/svn/black-summit-appliance-freezerless-refrigerators-ff63bk2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 756.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "338094459",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. Standard Depth MAX 4-Door French Door Refrigerator in Stainless Steel with Craft Ice and Mini Craft Ice",
+      "rating": {
+        "average": 4.8205,
+        "count": 39
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "336451236",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "Bespoke 36 in. 29 cu. ft. Standard Depth 4-Door French Door Refrigerator with Sphere Ice in Stainless Steel",
+      "rating": {
+        "average": 4.7073,
+        "count": 41
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/48f2f07a-9295-488f-8154-e8a2d5a4f686/svn/stainless-steel-samsung-french-door-refrigerators-rf70f29mer-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "325158253",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "28 cu. ft. 3 Door French Door Refrigerator with Ice and Water Dispenser and Craft Ice in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.0227,
+        "count": 970
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c3e12ab0-2846-4194-ac04-8c4e8ebb53e9/svn/printproof-stainless-steel-lg-french-door-refrigerators-lhfs28xbs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "320243614",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "25.6 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.0899,
+        "count": 4370
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/03d6c7dd-47d3-44cd-9ad0-a56e5b3970bb/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe26jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "320243591",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "27 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless with Internal Dispenser, ENERGY STAR",
+      "rating": {
+        "average": 4.4294,
+        "count": 13357
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2b401aec-6a63-4509-9069-1261b321bc3d/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "311411352",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 27.9 cu. ft. Smart 4-Door French Door Refrigerator with Door-in-Door in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4584,
+        "count": 10897
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d5fec682-25d8-48ab-aa38-9a6b3bbe441b/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pvd28bynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "322038211",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Smart Counter-Depth MAX French Door Refrigerator with Internal Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3447,
+        "count": 1320
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/649a2cdc-38b2-455e-bb92-dbc46f3add56/svn/printproof-stainless-steel-lg-french-door-refrigerators-lrflc2706s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3199.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "336350148",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "36 in. 25 cu. ft. Counter-Depth MAX with Zero Clearance 3-Door French Door Refrigerator with Thin Door Design",
+      "rating": {
+        "average": 4.35,
+        "count": 240
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13784b7a-6ac3-43a3-89f7-2495315424ba/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25z6211s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "326915683",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3149,
+        "count": 632
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d4565ee-63b8-4e54-89e7-85f49807a778/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29h8330s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "206452443",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 in. W 22 cu. ft. French Door Refrigerator with Ice Maker in Stainless Steel",
+      "rating": {
+        "average": 4.3178,
+        "count": 5884
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/320c5a3a-50f7-47ae-8dc5-5cacd2a5ebdd/svn/stainless-steel-lg-french-door-refrigerators-lfcs22520s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "328604636",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in 29 cu. ft. Standard Depth French Door Refrigerator in Smudge-Proof Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.3784,
+        "count": 1636
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a34adca5-fd96-4ca1-b964-3ae04b36c66e/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-frfn2813af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1887.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "320628170",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 22 cu. ft. Counter-Depth 4-Door French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.7127,
+        "count": 8760
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e895105-520f-4ddc-914d-9bb3c62b9b31/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grmc2273cf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "319503107",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "Bespoke 29 cu. ft. Standard Depth 4-Door French Door Smart Refrigerator in Stainless Steel with Beverage Center",
+      "rating": {
+        "average": 4.5166,
+        "count": 2505
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/stainless-steel-samsung-french-door-refrigerators-rf29bb8600ql-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3399.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "329904698",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. SMART MyColor InstaView Standard-Depth MAX 4-Door French Door Refrigerator in Stainless Steel with Craft Ice",
+      "rating": {
+        "average": 4.129,
+        "count": 155
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c310fbcc-ba85-46c0-96f1-0a6f54ff683f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lh29s8565s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "315868024",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "17.5 cu. ft. Counter Depth 3-Door French Door Smart Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.0029,
+        "count": 1724
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f30f8fdd-975f-44bd-a944-41fedf5d808d/svn/stainless-steel-samsung-french-door-refrigerators-rf18a5101sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "308743988",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "28 cu. ft. Standard Depth 4-Door French Door Smart Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.7792,
+        "count": 1875
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b2a582dd-d674-4bf9-8054-b6a5c24d1d7f/svn/fingerprint-resistant-stainless-steel-samsung-french-door-refrigerators-rf28r7201sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "320154348",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in. Gallery 28 cu. ft. Standard Depth French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.5702,
+        "count": 11629
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c5351aa-b250-4122-8425-73e411f3aab9/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grfs2853af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "329624965",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.9 cu. ft. Counter Depth French Door Refrigerator w/Internal Dispenser in Fingerprint Resistant Stainless, ENERGY STAR",
+      "rating": {
+        "average": 4.0778,
+        "count": 2198
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78bbf8b5-4754-4c64-9fee-a7083058d696/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gwe22jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "325158262",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. Smart Counter-Depth MAX French Door Refrigerator with Dual Ice Makers in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.1887,
+        "count": 800
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4ba1d4a0-367c-4d4f-b891-16821bbb71e0/svn/print-proof-stainless-steel-lg-french-door-refrigerators-lrfxc2606s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "319341358",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 22.3 cu. ft. Counter Depth Four Door French Door Refrigerator in Stainless Steel with Hands-Free Autofill",
+      "rating": {
+        "average": 3.9369,
+        "count": 1521
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/547b1d70-2e68-4ec0-ba64-590125cd601c/svn/stainless-steel-ge-french-door-refrigerators-pxd22bypfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "326915276",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W. 21 cu.ft. SMART Counter Depth MAX French Door Refrigerator with Ice Maker in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.2274,
+        "count": 365
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/05330e76-a2ee-453b-a2aa-098cf977cf2f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf21g6200s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "329624985",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "20.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless, ENERGY STAR",
+      "rating": {
+        "average": 3.6941,
+        "count": 1180
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9f7adf0-37ef-4b07-bdf5-6a89431eeee5/svn/stainless-steel-ge-french-door-refrigerators-gye21jymfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "317987058",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "18.6 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.9853,
+        "count": 4908
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e9e942e1-266d-430a-9117-c84444bbf2d3/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gwe19jylfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2299.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "319503272",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "Bespoke 23 cu. ft. Counter Depth 4-Door French Door Smart Refrigerator with Beverage Center in Stainless Steel",
+      "rating": {
+        "average": 4.5166,
+        "count": 2505
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/670684df-f3b9-4681-ab63-97e3f65784ea/svn/stainless-steel-samsung-french-door-refrigerators-rf23bb8600ql-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "331924086",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20 cu. ft. Counter-Depth French Door Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.7713,
+        "count": 870
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b5a94ce-190f-42a9-bb7f-4e77760e0f7d/svn/stainless-steel-kitchenaid-french-door-refrigerators-krfc136rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "310324792",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "800 Series 36 in. 21 cu. ft. Smart Counter Depth French Door Bottom Freezer Refrigerator Stainless Steel, Ice and Water",
+      "rating": {
+        "average": 4.5667,
+        "count": 2857
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eb76bcdb-5eb9-4e77-a233-16310c35f1fa/svn/stainless-steel-bosch-french-door-refrigerators-b36ct80sns-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "330043974",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. SMART Counter Depth MAX French Door Refrigerator with Full Convert Drawer in PrintProof Stainless",
+      "rating": {
+        "average": 4.2844,
+        "count": 443
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a7058421-4542-408a-9883-f1c1efb06d3f/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25g8330s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2599.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "323521042",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "26.8 cu. ft. French Door Refrigerator in Stainless Steel with PrintShield Finish",
+      "rating": {
+        "average": 3.9605,
+        "count": 1190
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ac057859-394b-4024-833f-8252c6e80e2d/svn/stainless-steel-with-printshield-finish-kitchenaid-french-door-refrigerators-krff577kps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "207176320",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "23.8 cu. ft. French Door Refrigerator in PrintShield Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 3.8463,
+        "count": 2824
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e80df73-f2ff-4f20-8922-ce1e3c248f3d/svn/stainless-steel-with-printshield-finish-kitchenaid-french-door-refrigerators-krfc704fps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "330429095",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "26.2 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel with Platinum Interior",
+      "rating": {
+        "average": 4.3402,
+        "count": 723
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9abe470-6d15-47d8-b8cc-67d2577c1e8f/svn/fingerprint-resistant-stainless-steel-kitchenaid-french-door-refrigerators-krmf536rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "330603800",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 19.4 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.8421,
+        "count": 76
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4061d278-0389-4b81-97e5-b36f5fa2b3eb/svn/fingerprint-resistant-stainless-steel-kitchenaid-french-door-refrigerators-krqc736rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "205850728",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24.2 cu. ft. Built-In French Door Refrigerator in Stainless Steel, Platinum Interior",
+      "rating": {
+        "average": 3.7148,
+        "count": 291
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a397915f-994b-46ef-a31f-d745681b7b45/svn/stainless-steel-kitchenaid-french-door-refrigerators-kbfn502ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 8999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "206268536",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "21.9 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.0022,
+        "count": 1368
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d23c0cff-feba-42c7-9fac-ffeff2c6d6b5/svn/stainless-steel-kitchenaid-french-door-refrigerators-krfc302ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2599.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "205970003",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 25.19 cu. ft. Standard Depth French Door Refrigerator in Stainless Steel with Interior Dispense",
+      "rating": {
+        "average": 4.3473,
+        "count": 1451
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ac378285-790a-4dcc-bd92-be0c41ce2307/svn/stainless-steel-kitchenaid-french-door-refrigerators-krff305ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "206093715",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "25.8 cu. ft. French Door Refrigerator in Stainless Steel with Platinum Interior",
+      "rating": {
+        "average": 4.1655,
+        "count": 5673
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/482c2675-5abc-4938-994b-611734e50684/svn/stainless-steel-kitchenaid-french-door-refrigerators-krmf706ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "206020698",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "22.1 cu. ft. French Door Refrigerator in Stainless Steel with Interior Dispenser",
+      "rating": {
+        "average": 4.2729,
+        "count": 1345
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/66cae3f7-b157-4006-95a4-6d4cbc0a546a/svn/stainless-steel-kitchenaid-french-door-refrigerators-krff302ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "205947723",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "20 cu. ft. French Door Refrigerator in Stainless Steel with Interior Water Dispenser",
+      "rating": {
+        "average": 4.1746,
+        "count": 4186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a396d3a7-e575-4b02-9f6c-f37b0ea62a02/svn/stainless-steel-kitchenaid-french-door-refrigerators-krff300ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "205851263",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "20.8 cu. ft. Built-In French Door Refrigerator in Stainless Steel with Platinum Interior",
+      "rating": {
+        "average": 3.7927,
+        "count": 82
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a397915f-994b-46ef-a31f-d745681b7b45/svn/stainless-steel-kitchenaid-french-door-refrigerators-kbfn506ess-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9359.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "329101029",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 30 in. 20 cu. ft. Standard Depth French Door Refrigerator in Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.6387,
+        "count": 1619
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6c8e7edd-7b5e-4f55-958a-270269dd9787/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grfn2023af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1549.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "336155094",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "28 Cu. Ft. Standard Depth French Door Refrigerator in Smudge-Proof Stainless Steel ENERGY STAR",
+      "rating": {
+        "average": 4.4979,
+        "count": 7063
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f48a6f51-27bc-4592-a3ef-d999e1c1d5ea/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-frfs2823af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "324695976",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 26.3 cu. ft. 4-Door French Door Standard Depth Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.5979,
+        "count": 2718
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/992887a1-2f7a-4a41-bf92-dd2cbc131ace/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grms2773af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "320155533",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 23 cu. ft. Counter Depth French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.3143,
+        "count": 3538
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/928a8f75-3f18-461f-897d-1c8d0bfbed00/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-grfc2353af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3299.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "329741478",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Professional 36 in. 21.4 cu. ft. Counter Depth French Door Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.7119,
+        "count": 1510
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f761af5d-63dc-4cbc-b03b-a211155fd8b8/svn/smudge-proof-stainless-steel-frigidaire-french-door-refrigerators-prmc2285af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "318953497",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "28 Cu. Ft. Standard Depth French Door Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.496,
+        "count": 7070
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38c32e3e-c452-4e1f-9d53-d228a21372d3/svn/stainless-steel-frigidaire-french-door-refrigerators-frfs2823as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "319236498",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "24.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.342,
+        "count": 11752
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d9792a17-9e43-48da-899f-cf3ea94fefd0/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne25jykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2299.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "326403750",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28.7 cu. ft. 4-Door French Door Refrigerator in Stainless Steel with Dual-Dispense Autofill Pitcher",
+      "rating": {
+        "average": 4.6498,
+        "count": 1676
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fef80326-ac16-45e2-b3ce-5a94ae920d56/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pge29bytfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4199.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "312648552",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "27.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.29,
+        "count": 11270
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd7abecf-e947-4978-a1dd-fe8fe6c0bbbf/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe28gynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3149.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "312903946",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "22.1 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth and ENERGY STAR",
+      "rating": {
+        "average": 3.9616,
+        "count": 3460
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a6aa11c7-8bdf-409a-a436-3641cf71526f/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gye22gynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3329.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "312648559",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 22.1 cu. ft. French Door Refrigerator with Hands-Free Autofill in Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.1568,
+        "count": 5012
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd8ded21-5125-4adc-bba8-5587c22959aa/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pye22kynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3509.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "319240389",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.5 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel, Counter-Depth ENERGY STAR",
+      "rating": {
+        "average": 3.9983,
+        "count": 1212
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/008543aa-59a0-4680-8cfc-5a43c4d8fae4/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gye18jylfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "319240166",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "23.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless, Standard Depth ENERGY STAR",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/008543aa-59a0-4680-8cfc-5a43c4d8fae4/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gfe24jykfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "318840093",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "31.5 in. 18 cu. ft. Counter Depth French Door Refrigerator in Fingerprint-Resistant Stainless Look",
+      "rating": {
+        "average": 4.6307,
+        "count": 8881
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f89014e6-f8ae-4acf-927a-461f3f5bfd47/svn/fingerprint-resistant-stainless-look-frigidaire-french-door-refrigerators-frfg1723av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "326195120",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "32 cu. ft. Mega Capacity Standard Depth 3-Door French Door Refrigerator in Stainless Steel with Dual Auto Ice Maker",
+      "rating": {
+        "average": 3.7224,
+        "count": 508
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a7862ffa-2ebb-47b8-9d05-83284a1dafab/svn/stainless-steel-samsung-french-door-refrigerators-rf32cg5100sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "331842846",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W. 25 cu. ft. Smart 3-Door French Door Refrigerator Standard Depth MAX in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3348,
+        "count": 2028
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1925f6d6-e45e-46db-9171-7665a94dff42/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6200s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "331921569",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 24.5 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.0925,
+        "count": 3155
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b1dfea9-0b68-4833-96b6-8a92133fa373/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrmf3636rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "326523737",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "33 in. 22 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.1636,
+        "count": 495
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e19dec0f-a717-4267-9d95-c5ad748f47d6/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff5333pz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "305608916",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "19.7 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.1285,
+        "count": 3915
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ea323671-b709-4eb7-9620-5ab43aea150d/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf560sehz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "313803342",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 19.4 cu. ft. 4-Door French Door Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.2303,
+        "count": 2141
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9673c973-589b-4aaa-b3cb-a2b2a27b3522/svn/fingerprint-resistant-stainless-finish-whirlpool-french-door-refrigerators-wrqa59cnkz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "338038883",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 23 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless with In-Door Water & Ice",
+      "rating": {
+        "average": 4.25,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f2be3b5-b2b0-4f8c-95d4-511e5f62be3c/svn/fingerprint-resistant-stainless-finish-whirlpool-french-door-refrigerators-wrfc5036rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "332315115",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "35 in. 20 Cu. Ft. Counter-Depth French Door Bottom Mount Refrigerator in Stainless Steel with Elevated Deli Drawer",
+      "rating": {
+        "average": 4.1101,
+        "count": 227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/29555535-ae73-4350-8e84-b116839e57ce/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrfc2036rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "331905859",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 24.7 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.0115,
+        "count": 1907
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02e99385-c723-4e88-942e-076f15cf3f81/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff3436rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2429.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "330622056",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 19.2 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 3.463,
+        "count": 108
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4e2816e8-b5b8-410e-a15a-26b5461176b5/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrqc7836rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2199.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "329740394",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 26 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel with Triple Crisper",
+      "rating": {
+        "average": 4.4857,
+        "count": 175
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e33ead7c-c9bf-4be6-99c6-5ef3f3b2b9ac/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrmf7736pz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2699.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "302657616",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "20 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2145,
+        "count": 606
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c1ca751d-21a1-4801-a5f5-15667d367429/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf560smhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "305470672",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "26.8 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4663,
+        "count": 5014
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3856ce7a-587b-4ae3-b3f3-1e6b54d45931/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf767sdhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2969.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "331267732",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24 cu. ft. Counter Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel with Auto-Humidity Crispers",
+      "rating": {
+        "average": 4.0588,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bf8db28a-dfeb-4aee-865e-ab1b58cbd8ed/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrfc9636rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "331843319",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 25.2 cu. ft. Standard Depth French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2269,
+        "count": 520
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d7f05a8b-c21e-4fc1-80ea-b92511443303/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff3236rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2159.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "305447143",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "26.8 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.3089,
+        "count": 2726
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e9e9517e-333a-4bb2-9ec2-36646423e397/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrf757sdhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2879.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "332336317",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in 25.2 cu. ft. Full Depth French Door Bottom Mount Refrigerator in Stainless Steel with Elevated Deli Drawer",
+      "rating": {
+        "average": 4.1235,
+        "count": 81
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8dc56e23-ad80-4b03-b6a0-937fee496d96/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrff3036rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "302253240",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "28 cu. ft. 4-Door French Door Smart Refrigerator with Ice and Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 3.9728,
+        "count": 3935
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ddf338e-202a-4cd1-9a9f-0c106a5dce23/svn/printproof-stainless-steel-lg-french-door-refrigerators-lmxs28626s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "326917144",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 cu. ft. SMART Standard Depth MAX French Door Refrigerator with Internal Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.3277,
+        "count": 238
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/930cb3bb-c3a4-4a58-af4e-5b771a191de3/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf30s8210s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "304416120",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 in. W 22 cu. ft. French Door Refrigerator with Water Dispenser in Stainless Steel",
+      "rating": {
+        "average": 4.3503,
+        "count": 5664
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/97748c01-2a21-492b-9b99-97cf56036f7e/svn/stainless-steel-lg-french-door-refrigerators-lfds22520s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "338102213",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "29 cu. ft. Standard-Depth MAX 4-Door French Door Refrigerator in PrintProof Noble Steel with Full Convert Drawer",
+      "rating": {
+        "average": 4.0,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ab956d38-ff50-41b1-a1f6-ee6f6b521142/svn/printproof-noble-steel-lg-french-door-refrigerators-lf29s8230v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "331843223",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "33 in. W. 25 cu.ft. Smart 3-Door French Door Refrigerator Standard Depth MAX in Stainless Steel with Dual Ice Makers",
+      "rating": {
+        "average": 4.292,
+        "count": 137
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5593f1d6-a7ac-4696-b864-7adccac3f849/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf25h6330s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "338096112",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. Counter-Depth MAX 3-Door French Door Refrigerator in PrintProof Noble Steel with Tall Ice and Water Dispenser",
+      "rating": {
+        "average": 3.7143,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b35fd1fd-fae8-4f77-bdf3-e4510d09e66e/svn/printproof-noble-steel-lg-french-door-refrigerators-lf26c6230v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "325139202",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "24 in. 20-Bottle Wine and 60 Can Beverage Cooler Dual Zone Refrigerator Under-Counter or Freestanding French Door Fridge",
+      "rating": {
+        "average": 4.2909,
+        "count": 55
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51c0aaa3-033b-4d53-9f95-96f4b7a1d93d/svn/stainless-steel-ca-lefort-beverage-wine-combos-clf-wf24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 735.52,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "332464407",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "36 in 23.2 cu. ft. Counter-Depth Fingerprint Resistant 4-Door French-Door Refrigerator w/ Dual-Dispense AutoFill Pitcher",
+      "rating": {
+        "average": 4.692,
+        "count": 276
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0512e3d-13c3-402a-9e47-b2d3e994edba/svn/stainless-steel-ge-french-door-refrigerators-pje23bywfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3959.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "332465544",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "36 in. 23.3 cu. ft. Smart Counter-Depth Fingerprint Resistant 4-Door French-Door Refrigerator with Door In Door",
+      "rating": {
+        "average": 4.6848,
+        "count": 92
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02b7ebbd-0a2e-40f5-87e5-aa3f210ffed3/svn/stainless-steel-ge-french-door-refrigerators-pjd23bywfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4139.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "328264448",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "4.5 cu. ft. 2-Door Mini Refrigerator in Platinum Steel with Freezer",
+      "rating": {
+        "average": 4.1313,
+        "count": 1797
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/466a3e67-6b9d-4831-b50b-b02784d67b0f/svn/stainless-vissani-mini-fridges-hvdr45ps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 289.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "328264582",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "4.3 cu. ft. Mini Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.2456,
+        "count": 1315
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1dfc40f2-b245-4ad6-a205-063adee14fed/svn/stainless-vissani-mini-fridges-hvar43gse-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "328264452",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "3.1 cu. ft. 2-Door Mini Refrigerator in Stainless Steel with Freezer, ENERGY STAR",
+      "rating": {
+        "average": 4.0867,
+        "count": 1592
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ccd3c16d-ba95-4919-9d05-8334549449bd/svn/stainless-vissani-mini-fridges-hvdr31gse-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "328264450",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "2.6 Cu. Ft. Mini Refrigerator in Black, ENERGY STAR",
+      "rating": {
+        "average": 4.2359,
+        "count": 1276
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f72e1315-8ca7-4d2d-83c6-a68980cb09cd/svn/black-vissani-mini-fridges-hvar26gbe-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "328264578",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "3.2 cu. ft. Mini Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.2373,
+        "count": 1344
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af9b927a-65bf-4f4d-83c9-a6e6da2eddd8/svn/stainless-vissani-mini-fridges-hvar32se-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "205508808",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "5.6 cu. ft. Mini Fridge in Stainless Steel",
+      "rating": {
+        "average": 4.3696,
+        "count": 966
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/df5b838e-2858-4c3c-ad32-58f56df790ba/svn/stainless-steel-ge-mini-fridges-gce06gshsb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 629.0,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "336388931",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "21 in. 4.4 cu. ft. Mini Refrigerator in Stainless Steel with Freezer",
+      "rating": {
+        "average": 4.5319,
+        "count": 47
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f40980c0-a914-48fb-9d43-13a1f6a96fb8/svn/stainless-steel-mini-fridges-efr441-c-id-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "336847574",
+      "modelNumber": "",
+      "brand": "COWSAR",
+      "title": "23.43 in. 5.0 cu. ft. Undercounter Fridge Mini-Refrigerator in Stainless Steel Silver for Kitchen Office Bar",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bd6bf7bd-4ef9-4cbf-8fd8-0edd13f2e355/svn/silver-cowsar-mini-fridges-kk58145rkr0-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 379.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "321204315",
+      "modelNumber": "",
+      "brand": "Magic Chef",
+      "title": "4.4 cu. ft. Mini Fridge in Stainless Steel Look without Freezer",
+      "rating": {
+        "average": 4.3902,
+        "count": 9538
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c158b463-f276-49c0-98c7-b7a6f1d3c1c5/svn/stainless-magic-chef-mini-fridges-hmar45hcse-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "308502681",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "3.1 cu. ft. 2 Door Retro Mini Fridge in Black",
+      "rating": {
+        "average": 4.1701,
+        "count": 482
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6861681e-de70-4163-9b81-525579a0d901/svn/black-frigidaire-mini-fridges-efr840-blackcom-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 178.0,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "302598734",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 4.8 cu. ft. Freezerless Mini Refrigerator in Stainless Steel Counter Depth",
+      "rating": {
+        "average": 3.9474,
+        "count": 19
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9bb0f396-87e7-468b-a851-b0243adf5af3/svn/stainless-steel-black-summit-appliance-mini-fridges-al54-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezerless"
+    },
+    {
+      "productId": "312512908",
+      "modelNumber": "",
+      "brand": "Summit Appliance",
+      "title": "24 in. W 4.2 cu. ft. Mini Refrigerator in Stainless Steel, ADA Compliant",
+      "rating": {
+        "average": 4.4444,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d5ba65f7-822e-42bb-ae0a-55fab344fca9/svn/stainless-steel-black-summit-appliance-mini-fridges-al55-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1085.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "316146433",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "4.5 cu. ft. 2 Door Mini Fridge in Chrome Trim and Platinum Design with Freezer and Manual Defrost",
+      "rating": {
+        "average": 4.2254,
+        "count": 71
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c6df7e0c-befc-4479-a362-44f4fff32b39/svn/platinum-black-finish-frigidaire-mini-fridges-efr451-c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "305971708",
+      "modelNumber": "",
+      "brand": "Magic Chef",
+      "title": "Retro 3.2 cu. ft. 2-Door Mini Fridge in Mint Green",
+      "rating": {
+        "average": 4.5076,
+        "count": 1830
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49967641-ee54-416b-b24b-c3353065da30/svn/mint-green-magic-chef-mini-fridges-hmcr320me-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "328264447",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "2.6 cu. ft. Mini Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.2359,
+        "count": 1276
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3be4e4f-01d7-48fc-83aa-2e217a869381/svn/stainless-vissani-mini-fridges-hvar26gse-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "335811765",
+      "modelNumber": "",
+      "brand": "Koolmore",
+      "title": "15 in. 3 cu. ft. Built-in Panel Read Undercounter Compact Refrigerator and Beverage Center in White",
+      "rating": {
+        "average": 5.0,
+        "count": 27
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d4f5f59c-5ea3-4b53-9d39-d47bbdee8f25/svn/panel-ready-koolmore-freezerless-refrigerators-km-bir15-pr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1460.47,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "321887244",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "24 cu. ft. Top Mount Freezer Refrigerator with Multi-Flow Air System in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.395,
+        "count": 1200
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3f497801-2304-4a8e-a2c9-caae4c850510/svn/stainless-steel-lg-top-freezer-refrigerators-lhtns2403s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "316896170",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24 in. 4.44 cu. ft. Undercounter Double Drawer Refrigerator in Black Cabinet/Stainless Doors",
+      "rating": {
+        "average": 3.7241,
+        "count": 29
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6451f21c-f815-4e9e-8401-9ab7236c378e/svn/black-cabinet-stainless-doors-kitchenaid-drawer-refrigerators-kudr204ksb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3059.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "316895522",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "24 in. 4.29 cu. ft. Undercounter Double Drawer Refrigerator Freezer in Black Cabinet/Stainless Doors",
+      "rating": {
+        "average": 2.4884,
+        "count": 43
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ef809ab0-8cbb-46e9-a205-b23212d96c30/svn/black-cabinet-stainless-doors-kitchenaid-drawer-refrigerators-kudf204ksb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3489.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "332164108",
+      "modelNumber": "",
+      "brand": "Hamilton Beach",
+      "title": "8.5 cu. ft. Commercial Refrigerator with Glass Door in Black",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/07268e1a-bab8-4ffd-b35f-ab1122926d37/svn/black-hamilton-beach-freezerless-refrigerators-hbcbc840-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "327865243",
+      "modelNumber": "",
+      "brand": "Cooler Depot",
+      "title": "22 in. 9 cu. ft. Glass Door Merchandiser Refrigerator in Black",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/378b0aca-7715-4904-ae3f-caf06464f8b9/svn/black-cooler-depot-freezerless-refrigerators-dxxlsc-235w-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 999.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "335353977",
+      "modelNumber": "",
+      "brand": "ZLINE Kitchen and Bath",
+      "title": "Autograph Edition 24 in. Satin Steel Column Refrigerator with Graphite Gray Interior and Champagne Bronze Accents",
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8389023b-e8b5-4485-9c44-eec7aecf4c29/svn/satin-stainless-steel-zline-kitchen-and-bath-freezerless-refrigerators-rcrvz-sn-24-cb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 7359.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "334664122",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30-in 14.3 cu. ft. Standard Depth Kimchi Refrigerator in Stainless Steel with 14 Bins",
+      "rating": {
+        "average": 3.6667,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f2e079f-31a2-4270-97ee-d607e244bb5e/svn/stainless-steel-lg-freezerless-refrigerators-lk14s8000v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "333940126",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28.3 cu. ft. Quad-Door Smart Refrigerator with Dual-Dispense AutoFill Pitcher and Convertible Temp. Zones",
+      "rating": {
+        "average": 4.7143,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dc3e5926-7fef-4e4b-8915-de6e1a352534/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-pae28bytfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3959.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "325590289",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "7.0 cu. ft. Manual Defrost Chest Freezer with LED Light in White Garage Ready",
+      "rating": {
+        "average": 4.4819,
+        "count": 2401
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9878614f-964d-4b00-bd37-513800aa96b8/svn/white-vissani-chest-freezers-hmcf7w5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "317602290",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Garage Ready 14.2 cu. ft. Frost Free Defrost Upright Freezer in White",
+      "rating": {
+        "average": 4.5934,
+        "count": 6725
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9b2ec00e-d85d-44a2-95c8-eccf6bc8645c/svn/white-ge-upright-freezers-fuf14qrrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 869.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "317602506",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Garage Ready 21.3 cu. ft. Frost Free Defrost Upright Freezer in White",
+      "rating": {
+        "average": 4.5924,
+        "count": 6881
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/09fab6ec-850e-4a45-ae97-e1f63f406381/svn/white-ge-upright-freezers-fuf21qrrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1119.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "330243877",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "32.6 in. 20 cu. ft. Frost Free Defrost, Garage Ready Upright Freezer in Carbon",
+      "rating": {
+        "average": 4.6389,
+        "count": 2116
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d155989a-92f9-4d43-ac95-77754369d3f7/svn/carbon-frigidaire-upright-freezers-fruf2020an-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1079.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "311372548",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "16 cu. ft. Auto Defrost Garage Ready Upright Freezer in White",
+      "rating": {
+        "average": 4.7747,
+        "count": 21098
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c1041f8a-8130-4f02-af1d-b580ab43b2f2/svn/white-frigidaire-upright-freezers-fffu16f2vw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 679.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "310534496",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "13 cu. ft. Auto Defrost Garage Ready Upright Freezer in White",
+      "rating": {
+        "average": 4.7805,
+        "count": 21486
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/59f3596e-d0de-4896-9a3b-4cf496c32815/svn/white-frigidaire-upright-freezers-fffu13f2vw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "317602480",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Garage Ready 17.3 cu. ft. Frost Free Defrost Upright Freezer in White",
+      "rating": {
+        "average": 4.5587,
+        "count": 5989
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f1a7a88-3c9e-4086-9629-d102adec8d71/svn/white-ge-upright-freezers-fuf17qrrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 969.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "315858281",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "15 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+      "rating": {
+        "average": 4.6447,
+        "count": 2803
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/408b3bcf-95d2-43bb-8a0c-bba8979e5e34/svn/white-frigidaire-chest-freezers-ffcl1542aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "317041849",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "25 cu. ft. Garage Ready Manual Defrost Chest Freezer in White with LED Light and Adjustable Temperature Control",
+      "rating": {
+        "average": 4.5381,
+        "count": 1600
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7be6173a-d02b-4915-a0ed-667b577a0dbf/svn/white-frigidaire-chest-freezers-ffcl2542aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1249.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "317876230",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "20 cu. ft. Frost Free Defrost, Garage Ready Upright Freezer in White, ENERGY STAR",
+      "rating": {
+        "average": 4.6293,
+        "count": 9647
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5610636c-7e9b-4993-ab8c-b88ce97b5d45/svn/white-frigidaire-upright-freezers-ffue2022aw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1099.0,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "337556967",
+      "modelNumber": "",
+      "brand": "EUHOMY",
+      "title": "15 in. 80 lb. /24H Freestanding/Built-in Full Size Cubes Ice Maker in Black, Freezer Ice Machine in Black",
+      "rating": {
+        "average": 4.4,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/26d5246e-3f66-477e-a51a-19122b448f07/svn/black-euhomy-undercounter-ice-makers-cim010-80bl-e-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 529.99,
+        "currency": "USD"
+      },
+      "subcategory": "Freezers"
+    },
+    {
+      "productId": "325522941",
+      "modelNumber": "",
+      "brand": "Velivi",
+      "title": "15 in. 127 (12 oz.) Can Freestanding Beverage Cooler Fridge with Adjustable Shelves in Stainless Steel",
+      "rating": {
+        "average": 4.8095,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/36a6517d-5119-4f7a-a201-7fbfc6e7e82c/svn/stainless-steel-velivi-beverage-refrigerators-kmyl100hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 355.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "326103670",
+      "modelNumber": "",
+      "brand": "Hooure",
+      "title": "24 in. Built-in/Freestanding Single Zone Beverage Refrigerator with 210 Can(12 oz. )Beverage, Stainless Steel",
+      "rating": {
+        "average": 4.1408,
+        "count": 71
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/237baffd-84cd-4363-b67d-62bc2fee2a73/svn/stainless-steel-hooure-beverage-refrigerators-d2phd-4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "324953094",
+      "modelNumber": "",
+      "brand": "Yeego",
+      "title": "24 in. Single Zone 180-Cans Built-In/Freestanding Beverage Refrigerator in Stainless Steel Beer Drink Cooler Fridge",
+      "rating": {
+        "average": 4.1556,
+        "count": 45
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f22326e1-d0a9-4212-9bfb-ac792af6cc78/svn/stainless-steel-yeego-beverage-refrigerators-yeg-bs24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 436.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "320488529",
+      "modelNumber": "",
+      "brand": "Honeywell",
+      "title": "19 in. 116-Can Beverage Refrigerator and Cooler, in Stainless Steel, with Digital Thermostat",
+      "rating": {
+        "average": 4.473,
+        "count": 370
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9d8dfaf-d43a-4e1a-8958-4d333fb7f6de/svn/stainless-steel-honeywell-beverage-refrigerators-h115bcs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 209.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "326580232",
+      "modelNumber": "",
+      "brand": "TITTLA",
+      "title": "24 in. Single Zone 220 Plus Cans Beverage Refrigerator in Silver with 2-Different Door Handle Built-in Beverage Cooler",
+      "rating": {
+        "average": 4.0938,
+        "count": 32
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fa0c2595-f2ae-4d44-85a3-770a78029dfa/svn/silver-stainless-steel-tittla-beverage-refrigerators-kmbr150-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 439.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "331129515",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "21.4 cu. ft. Garage Ready Counter Depth Side-By-Side Refrigerator in Fingerprint-Resistant Stainless Look",
+      "rating": {
+        "average": 4.6142,
+        "count": 674
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50588419-1dea-4cbb-89d6-400416dd45ac/svn/fingerprint-resistant-stainless-look-frigidaire-side-by-side-refrigerators-frsg2115av-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 949.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "320970662",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in. 26 cu. ft. Standard Depth Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.4507,
+        "count": 20620
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0a4c11ea-df91-43c1-90b1-89b54770f933/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frss2623as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "312283386",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 27.4 cu. ft. Standard Depth Side by Side Refrigerator in Fingerprint-Resistant Stainless Steel",
+      "rating": {
+        "average": 4.1525,
+        "count": 3247
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5df08eb1-de64-4071-aff9-f74de56b43ed/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs27t5200sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "339011919",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36 in. 26 cu. ft. Standard Depth Side-by-Side Refrigerator in Stainless Steel with CrispSeal Crispers",
+      "rating": {
+        "average": 4.6098,
+        "count": 41
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/de728e81-996d-48b1-a7c9-33b5def33106/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frsn2610af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "320484893",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Side by Side Smart Refrigerator w/ Craft Ice, External Ice and Water Dispenser in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.0432,
+        "count": 1158
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1a392db8-3d1c-4724-bcf0-75919e567e16/svn/stainless-steel-lg-side-by-side-refrigerators-lhsxs2706s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2143.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "302785353",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24.6 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Finish",
+      "rating": {
+        "average": 4.0255,
+        "count": 14991
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37c682e6-75df-4e03-97e4-d28313451fd3/svn/fingerprint-resistant-stainless-finish-whirlpool-side-by-side-refrigerators-wrs325sdhz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "317987099",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "25.3 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Steel, Standard Depth",
+      "rating": {
+        "average": 4.4427,
+        "count": 7251
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4220e873-79ec-400f-959b-8c286b94c2ba/svn/fingerprint-resistant-stainless-steel-ge-side-by-side-refrigerators-gss25gypfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1999.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "317445728",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Side-By-Side Refrigerator with Instaview Glass, Craft Ice, and Recessed Handles in PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.0294,
+        "count": 1393
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e71c1061-4175-46cc-978a-9493fb7d34e2/svn/printproof-stainless-steel-lg-side-by-side-refrigerators-lrsos2706s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "315423162",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 28 cu. ft. Standard Depth Smart Side by Side Refrigerator in Fingerprint-Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4411,
+        "count": 959
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f301fad3-2abb-40b7-816c-6a893ef074d8/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs28a500asr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "320928142",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "33 in. 22.3 cu. ft. Standard Depth Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.2313,
+        "count": 8738
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ccd29180-2c32-40a5-9828-0d90c2b611b1/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frss2323as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "309004718",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.8 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Steel, Counter Depth",
+      "rating": {
+        "average": 4.3736,
+        "count": 4392
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eac75025-49fc-4fdd-8541-0bac96298e59/svn/fingerprint-resistant-stainless-steel-ge-side-by-side-refrigerators-gzs22iynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "316165079",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "36.1 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.9224,
+        "count": 3662
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/152181ec-cf27-4926-b8d0-9e5385144bf1/svn/stainless-steel-frigidaire-side-by-side-refrigerators-frsc2333as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1249.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "315869691",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.3709,
+        "count": 5312
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9ae57eff-67b8-4b5d-9621-e1e678ba478b/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grsc2352af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1349.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "316379807",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 26 cu. ft. Standard Depth Side by Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.4989,
+        "count": 8471
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c442297-8ef6-4a48-9177-f76613a9d815/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grss2652af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "331339601",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 36 in. 26 cu. ft. Standard Depth Side-by-Side Refrigerator in Stainless Steel with Internal Water Dispenser",
+      "rating": {
+        "average": 4.5526,
+        "count": 485
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/93b8e2fd-55c9-4d38-b597-2574351ed817/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grsn2620af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "312283539",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 26.7 cu. ft. Standard Depth Smart Side by Side Refrigerator in Stainless Steel with Family Hub",
+      "rating": {
+        "average": 4.3828,
+        "count": 990
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e1007830-23f9-449a-8b65-6deaa004bbfc/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs27t5561sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "312283478",
+      "modelNumber": "",
+      "brand": "Samsung",
+      "title": "36 in. 22 cu. ft. Counter Depth Smart Side by Side Refrigerator in Fingerprint-Resistant Stainless Steel",
+      "rating": {
+        "average": 4.086,
+        "count": 791
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa69d9df-e08b-4c80-a2c8-276b1c0bbe16/svn/fingerprint-resistant-stainless-steel-samsung-side-by-side-refrigerators-rs22t5201sr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1499.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "334284479",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20.8 cu. ft. Counter Depth Side-by-Side Refrigerator in Stainless Steel with Exterior Ice and Water Dispenser",
+      "rating": {
+        "average": 4.0394,
+        "count": 127
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bef027b5-4a07-4d31-bc4c-688c381c7b35/svn/fingerprint-resistant-stainless-steel-kitchenaid-side-by-side-refrigerators-krsc536rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2349.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "316300759",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 33 in. 22.3 cu. ft.  Standard Depth Side by Side Refrigerator in Smudge-Proof Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.0978,
+        "count": 2034
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/75a87f79-5a9a-4475-bd2e-45faf2a8b287/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-grss2352af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "333982683",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "36 in. 28.70 cu. ft. Full-Depth Side-by-Side Refrigerator in Fingerprint Resistant Stainless Finish with TruCool System",
+      "rating": {
+        "average": 4.2905,
+        "count": 475
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4361e2d2-ea39-4500-a8db-b5e4b47a08a2/svn/fingerprint-resistant-stainless-finish-whirlpool-side-by-side-refrigerators-wrsf5536rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1749.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "317445512",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "27 cu. ft. Side by Side Smart Refrigerator with Insta View, Craft Ice in PrintProof Black Stainless Steel",
+      "rating": {
+        "average": 4.0295,
+        "count": 1391
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4fdce664-59d0-47a1-b438-c79e24f412de/svn/printproof-black-stainless-steel-lg-side-by-side-refrigerators-lrsos2706d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1899.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "329741524",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Professional 36 in. 22.3 cu. ft. Counter Depth Side-by-Side Refrigerator in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.4337,
+        "count": 362
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7a46ac7e-9ceb-4b7e-b14f-9929bfb20454/svn/smudge-proof-stainless-steel-frigidaire-side-by-side-refrigerators-prsc2222af-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "333713028",
+      "modelNumber": "",
+      "brand": "Maytag",
+      "title": "36 in. 28.7 cu. ft. Full-Depth Side-by-Side Refrigerator in Fingerprint Resistant Stainless Finish w/ PowerCold Feature",
+      "rating": {
+        "average": 4.486,
+        "count": 107
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f7d22e77-80ea-4e28-bb34-01bb6a96331e/svn/fingerprint-resistant-stainless-finish-maytag-side-by-side-refrigerators-mrsf6636rz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2159.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "322015991",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "47 in. W 29.4 cu. ft. Built-In Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.1311,
+        "count": 122
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e033a51-2a6f-4c64-8b1c-e0156b62f800/svn/stainless-steel-kitchenaid-side-by-side-refrigerators-kbsd708mss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9999.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "327472387",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 20.8 cu. ft. Countertop Depth Side-by-Side Refrigerator in Stainless Steel with PrintShield Finish",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ac775e4a-78d7-4b8a-a000-7961a92093c3/svn/stainless-steel-kitchenaid-side-by-side-refrigerators-kbsd706mps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9989.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "322022366",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "48 in. W 30 cu. ft. Built-In Side by Side Refrigerator in Stainless Steel with PrintShield",
+      "rating": {
+        "average": 3.6897,
+        "count": 58
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5a576903-3409-4d7a-9707-5d4bb1627b8c/svn/stainless-steel-with-printshield-finish-kitchenaid-side-by-side-refrigerators-kbsn708mps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 10709.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "309003622",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "25.1 cu. ft. Side by Side Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4829,
+        "count": 5318
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eac75025-49fc-4fdd-8541-0bac96298e59/svn/fingerprint-resistant-stainless-steel-ge-side-by-side-refrigerators-gss25iynfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "312648540",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Profile 28.7 cu. ft. Smart Built-In Side by Side Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 3.5676,
+        "count": 111
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/63cbf5b0-6737-428d-8fc8-f261fdd390df/svn/stainless-steel-ge-side-by-side-refrigerators-psb48ysnss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 10376.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "303115494",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "25 cu. ft. Side by Side Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 4.1114,
+        "count": 2647
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d578ef86-679f-4a5b-b8db-2a612a17171e/svn/monochromatic-stainless-steel-whirlpool-side-by-side-refrigerators-wrs315snhm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      },
+      "subcategory": "Side By Side"
+    },
+    {
+      "productId": "305505697",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "21.4 cu. ft. Side-by-Side Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 3.9178,
+        "count": 572
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d493fbee-abd5-480a-bdc3-44ee7ce0c45b/svn/monochromatic-stainless-steel-whirlpool-side-by-side-refrigerators-wrs331sdhm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1568.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "339349601",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "48 in. Dual Zone 440-Cans Beverage Cooler Side-by-Side Refrigerator Built-In or Freestanding Fridge in Stainless Steel",
+      "rating": {
+        "average": 4.0889,
+        "count": 90
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e36dfdf-0a69-433f-9ca2-88a51eb88347/svn/ca-lefort-beverage-refrigerators-clf-bs24bs24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1165.98,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "314983230",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu. ft. Mini Fridge in Cream with Rounded Corners and Top Freezer",
+      "rating": {
+        "average": 3.9699,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2760d1bb-c398-409c-bca8-6046ff296fc3/svn/cream-frigidaire-mini-fridges-efr756-cream-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.99,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "315472312",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu ft Mini Refrigerator with Top Freezer and Chrome Handles in Black",
+      "rating": {
+        "average": 4.0132,
+        "count": 227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b73cb6cf-4025-4a53-a10c-4f168e40e6e3/svn/black-frigidaire-mini-fridges-efr786-black-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 368.59,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "324722051",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu. ft. Retro Mini Fridge in Mint with Top Freezer",
+      "rating": {
+        "average": 3.7714,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9a61b641-726f-4ef7-85c0-eef70445f696/svn/green-frigidaire-mini-fridges-efr753-mint-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 369.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "315471317",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "7.5 cu. ft. Mini Refrigerator in Platinum with Top Freezer",
+      "rating": {
+        "average": 3.65,
+        "count": 80
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/647a9a0b-7684-4e6a-8956-c933649f930d/svn/platinum-frigidaire-mini-fridges-efr751-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 334.99,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "315417529",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "3.2 cu. ft. Retro 2-Door Mini Refrigerator in Platinum Design with Top Freezer",
+      "rating": {
+        "average": 4.2297,
+        "count": 74
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/534d995a-48f5-4606-a9f8-6dbacbc66747/svn/platinum-frigidaire-mini-fridges-efr391-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.68,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "311231763",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "30 in. W 20 cu. ft. Top Freezer Refrigerator w/ Multi-Air Flow and Reversible Door in Stainless Steel,ENERGY STAR",
+      "rating": {
+        "average": 4.35,
+        "count": 5305
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d3a885b3-5678-4c92-bcb1-a45ea2d0b195/svn/stainless-steel-lg-top-freezer-refrigerators-ltcs20020s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1088.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "300159571",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "28 in. 17.64 cu. ft. Wide Top Freezer Refrigerator in Stainless Steel with EZ Connect Ice Maker Compatibility",
+      "rating": {
+        "average": 4.2731,
+        "count": 7292
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/528bce3b-81cf-4cba-bce8-d271cc069d26/svn/stainless-steel-whirlpool-top-freezer-refrigerators-wrt518szfm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 729.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "319881477",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.5 Cu. Ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.4639,
+        "count": 4186
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a2024846-cf35-410e-a53b-f82f326d77ea/svn/fingerprint-resistant-stainless-steel-ge-top-freezer-refrigerators-gts18hynrfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1049.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "311743486",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 18.3 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.477,
+        "count": 17765
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/85fa865f-fd74-43a1-a96b-9d70875ad9fa/svn/stainless-steel-frigidaire-top-freezer-refrigerators-fftr1835vs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 679.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "311743494",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 18.3 cu. ft. Top Freezer Refrigerator, Garage Ready",
+      "rating": {
+        "average": 4.4766,
+        "count": 17783
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/89695bb5-6b3a-46ef-825e-50cb962251aa/svn/white-frigidaire-top-freezer-refrigerators-fftr1835vw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "311067745",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "16.6 cu. ft. Top Freezer Refrigerator in White",
+      "rating": {
+        "average": 4.3758,
+        "count": 3952
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2b6ab996-8ccb-405d-8fb4-bdf6e84ff5c2/svn/white-ge-top-freezer-refrigerators-gts17dtnrww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 849.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "319881550",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "21.9 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.371,
+        "count": 12115
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b0515da0-fd5c-4f69-8f68-63849bafae6a/svn/fingerprint-resistant-stainless-steel-ge-top-freezer-refrigerators-gts22kynrfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1299.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "317013048",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.19,
+        "count": 458
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/850e79cf-6861-4341-b638-df1c2df1cef5/svn/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf18ssr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "327511518",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 20 cu. ft. Garage Ready Freestanding Top Freezer Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.3021,
+        "count": 1165
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/192d8340-4941-467c-8896-b051312e4611/svn/stainless-steel-frigidaire-top-freezer-refrigerators-ffht2022as-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 749.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "310378589",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "27.6 in. 14 cu. ft. Top Freezer Refrigerator in Fingerprint-Resistant Stainless Look, ENERGY STAR",
+      "rating": {
+        "average": 4.5225,
+        "count": 6574
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2a87819f-d69a-447e-a1ea-c3f048a4cfcd/svn/fingerprint-resistant-stainless-look-frigidaire-top-freezer-refrigerators-ffht1425vv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 829.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "317013047",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18 cu. ft. Top Freezer Refrigerator DOE in White, Garage Ready",
+      "rating": {
+        "average": 4.2023,
+        "count": 1038
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f70ebbd3-485e-44c9-be08-7214c748cd52/svn/white-vissani-top-freezer-refrigerators-mdtf18whr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 569.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "317371475",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "10.1 cu. ft. Top Freezer Refrigerator in Black, Garage Ready",
+      "rating": {
+        "average": 4.1102,
+        "count": 644
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/457ddd52-7832-4171-9b19-455bac7186b1/svn/black-vissani-top-freezer-refrigerators-mdtf10bk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 479.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "329404447",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "7.2 cu. ft. Top Freezer Refrigerator in Stainless Steel Look",
+      "rating": {
+        "average": 3.8643,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2bec6a5b-5e3d-462b-b3ce-9c699a50ae2b/svn/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf7sses4-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "205658420",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in White with Frameless Glass Shelves",
+      "rating": {
+        "average": 4.2561,
+        "count": 13150
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9148c1b8-b8a5-4d4d-8cf8-ffc85bf7644c/svn/white-whirlpool-top-freezer-refrigerators-wrt311fzdw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "333484522",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "14.2 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+      "rating": {
+        "average": 4.0714,
+        "count": 42
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5d74fd73-66cf-4fdf-a93f-b31558871326/svn/white-vissani-top-freezer-refrigerators-mdtf14wh5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "313010993",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. 20 cu. ft. Garage Ready Top Freezer Refrigerator in Stainless Steel",
+      "rating": {
+        "average": 4.5695,
+        "count": 8434
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a8d9339d-537b-478b-9ac5-bee731c4c486/svn/stainless-steel-frigidaire-top-freezer-refrigerators-fftr2045vs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "318850475",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "18.3 Cu. Ft. Garage Ready Top Freezer Refrigerator in White",
+      "rating": {
+        "average": 4.6534,
+        "count": 5672
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c3bce67b-e96b-4200-abd3-0b27a30093b1/svn/white-frigidaire-top-freezer-refrigerators-fftr1814ww-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "334547478",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18.1 cu. ft. Top Freezer Refrigerator in White, Garage Ready",
+      "rating": {
+        "average": 4.2017,
+        "count": 1036
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4feee724-c733-4820-9c3e-58e382fdd08e/svn/white-vissani-top-freezer-refrigerators-mdtf18whr5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 569.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "317371471",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "10.1 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.1512,
+        "count": 291
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ceb0bbf1-6b29-47f5-a30a-ebb2615deba0/svn/stainless-steel-look-vissani-top-freezer-refrigerators-mdtf10ss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "329103249",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "28 in. 18 cu. ft. Top Freezer Garage-Ready Refrigerator in White",
+      "rating": {
+        "average": 4.5719,
+        "count": 334
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ce063cc0-bfc5-437e-8d81-0bd764759837/svn/white-lg-top-freezer-refrigerators-lt18s2100w-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "205658160",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "33 in. 20.5 cu. ft. Wide Top Freezer Refrigerator in Monochromatic Stainless Steel with Frameless Glass Shelves",
+      "rating": {
+        "average": 4.2829,
+        "count": 11260
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/91d88a3f-fbf7-444f-9815-4e4f672ee580/svn/monochromatic-stainless-steel-whirlpool-top-freezer-refrigerators-wrt311fzdm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "334610071",
+      "modelNumber": "",
+      "brand": "Vissani",
+      "title": "18 cu. ft. Top Freezer Refrigerator in Stainless Steel, Garage Ready",
+      "rating": {
+        "average": 4.189,
+        "count": 455
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/061b74ce-a686-493d-b79b-747604ca11ea/svn/stainless-steel-vissani-top-freezer-refrigerators-mdtf18ssr5-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "311770871",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24 in. 11.6 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Finish, Counter Depth",
+      "rating": {
+        "average": 3.7284,
+        "count": 1977
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b7df29c3-c51d-4789-8e5a-02dc93286424/svn/fingerprint-resistant-stainless-steel-whirlpool-top-freezer-refrigerators-wrt112czjz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 629.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "320640466",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "28 in. 18 cu. ft. Top Freezer Refrigerator in Fingerprint-Resistant Stainless Look, ENERGY STAR",
+      "rating": {
+        "average": 4.5465,
+        "count": 871
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6292772c-4fee-4336-bab0-a1d712e04571/svn/fingerprint-resistant-stainless-look-frigidaire-top-freezer-refrigerators-ffht1822uv-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 799.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "312036565",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "17.5 cu. ft. Top Freezer Refrigerator in Stainless Steel, ENERGY STAR",
+      "rating": {
+        "average": 4.2757,
+        "count": 515
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4eab35bb-5b28-41e2-a220-7c0f9693fc37/svn/stainless-steel-ge-top-freezer-refrigerators-gie18gsnrss-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1061.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "205730331",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "18.2 cu. ft. Top Freezer Refrigerator in Monochromatic Stainless Steel",
+      "rating": {
+        "average": 4.2775,
+        "count": 7297
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b26ccd8-bf26-4371-b293-6ca865f6c99c/svn/monochromatic-stainless-steel-whirlpool-top-freezer-refrigerators-wrt318fzdm-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 899.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "302742982",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "20.5 cu. ft. Top Freezer Refrigerator in Fingerprint Resistant Stainless Steel",
+      "rating": {
+        "average": 4.2561,
+        "count": 13150
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2b6d9f5b-859a-4e8f-b740-b2751ddeda01/svn/fingerprint-resistant-stainless-steel-whirlpool-top-freezer-refrigerators-wrt311fzdz-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 899.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    }
+  ]
+}

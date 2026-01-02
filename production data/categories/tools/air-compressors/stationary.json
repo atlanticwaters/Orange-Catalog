@@ -4,7 +4,7 @@
   "slug": "stationary",
   "path": "/categories/tools/air-compressors/stationary",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.738140",
+  "lastUpdated": "2026-01-02T15:26:37.589292",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -46,9 +46,9 @@
       "count": 2
     },
     {
-      "brandId": "industrial-air",
-      "brandName": "Industrial Air",
-      "logoUrl": "images/brands/industrial-air.svg",
+      "brandId": "emax",
+      "brandName": "EMAX",
+      "logoUrl": "images/brands/emax.svg",
       "count": 1
     },
     {
@@ -58,9 +58,9 @@
       "count": 1
     },
     {
-      "brandId": "emax",
-      "brandName": "EMAX",
-      "logoUrl": "images/brands/emax.svg",
+      "brandId": "industrial-air",
+      "brandName": "Industrial Air",
+      "logoUrl": "images/brands/industrial-air.svg",
       "count": 1
     }
   ],

@@ -4,7 +4,7 @@
   "slug": "nailers",
   "path": "/categories/tools/nailers",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.742301",
+  "lastUpdated": "2026-01-02T15:26:37.599096",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -20,9 +20,27 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 27
+    "totalResults": 139
   },
   "featuredBrands": [
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 32
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 30
+    },
+    {
+      "brandId": "porter-cable",
+      "brandName": "Porter-Cable",
+      "logoUrl": "images/brands/porter-cable.svg",
+      "count": 9
+    },
     {
       "brandId": "milwaukee",
       "brandName": "Milwaukee",
@@ -30,621 +48,60 @@
       "count": 8
     },
     {
-      "brandId": "dewalt",
-      "brandName": "DEWALT",
-      "logoUrl": "images/brands/dewalt.svg",
-      "count": 5
+      "brandId": "powernail",
+      "brandName": "POWERNAIL",
+      "logoUrl": "images/brands/powernail.svg",
+      "count": 7
     },
     {
-      "brandId": "senco",
-      "brandName": "Senco",
-      "logoUrl": "images/brands/senco.svg",
-      "count": 4
-    },
-    {
-      "brandId": "porter-cable",
-      "brandName": "Porter-Cable",
-      "logoUrl": "images/brands/porter-cable.svg",
-      "count": 3
-    },
-    {
-      "brandId": "paslode",
-      "brandName": "Paslode",
-      "logoUrl": "images/brands/paslode.svg",
-      "count": 2
-    },
-    {
-      "brandId": "ryobi",
-      "brandName": "RYOBI",
-      "logoUrl": "images/brands/ryobi.svg",
-      "count": 2
-    },
-    {
-      "brandId": "wen",
-      "brandName": "WEN",
-      "logoUrl": "images/brands/wen.svg",
-      "count": 1
-    },
-    {
-      "brandId": "california-air-tools",
-      "brandName": "California Air Tools",
-      "logoUrl": "images/brands/california-air-tools.svg",
-      "count": 1
-    },
-    {
-      "brandId": "stinger",
-      "brandName": "Stinger",
-      "logoUrl": "images/brands/stinger.svg",
-      "count": 1
+      "brandId": "makita",
+      "brandName": "Makita",
+      "logoUrl": "images/brands/makita.svg",
+      "count": 6
     }
   ],
-  "products": [
+  "subcategories": [
     {
-      "productId": "319036436",
-      "modelNumber": "",
-      "brand": "WEN",
-      "title": "3/8 in. x 2 in. 18-Gauge Brad Nailer with Carrying Case and 2000 Nails",
-      "rating": {
-        "average": 4.871,
-        "count": 31
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/7321c01f-578c-4417-afb2-5189c01321e3/svn/wen-brad-nailers-61723k-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 39.16,
-        "currency": "USD"
-      }
+      "id": "tools/nailers/finishing",
+      "name": "Finishing",
+      "slug": "finishing",
+      "productCount": 30,
+      "path": "/categories/tools/nailers/finishing"
     },
     {
-      "productId": "311533994",
-      "modelNumber": "",
-      "brand": "California Air Tools",
-      "title": "Air Powered 18-Gauge Brad Nail Gun",
-      "rating": {
-        "average": 5.0,
-        "count": 5
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/c265f0e4-77b4-4103-8eb1-bd66b3c15ff8/svn/california-air-tools-brad-nailers-ngtq18g-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 23.01,
-        "currency": "USD"
-      }
+      "id": "tools/nailers/flooring",
+      "name": "Flooring",
+      "slug": "flooring",
+      "productCount": 15,
+      "path": "/categories/tools/nailers/flooring"
     },
     {
-      "productId": "203555586",
-      "modelNumber": "",
-      "brand": "Porter-Cable",
-      "title": "21-Degree 3-1/2 in. Full Round Framing Nailer",
-      "rating": {
-        "average": 4.49,
-        "count": 2092
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/d00f90a0-48f1-433a-8525-35f585384988/svn/porter-cable-framing-nailers-fr350b-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 229.0,
-        "currency": "USD"
-      }
+      "id": "tools/nailers/framing",
+      "name": "Framing",
+      "slug": "framing",
+      "productCount": 27,
+      "path": "/categories/tools/nailers/framing"
     },
     {
-      "productId": "308017214",
-      "modelNumber": "",
-      "brand": "Senco",
-      "title": "FramePro 30-Degree to 34-Degree Framing Nailer",
-      "rating": {
-        "average": 4.3636,
-        "count": 11
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/50eb7a2f-c678-4959-8563-3a2412c8eba1/svn/senco-framing-nailers-4z0101n-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 219.99,
-        "currency": "USD"
-      }
+      "id": "tools/nailers/other",
+      "name": "Other",
+      "slug": "other",
+      "productCount": 8,
+      "path": "/categories/tools/nailers/other"
     },
     {
-      "productId": "100095739",
-      "modelNumber": "",
-      "brand": "Senco",
-      "title": "FramePro 3-1/2 in. 34-Degree Framing Nailer",
-      "rating": {
-        "average": 4.3,
-        "count": 10
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/6885c00d-86bb-4e85-a086-a71f84386239/svn/senco-framing-nailers-2h0133n-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 399.0,
-        "currency": "USD"
-      }
+      "id": "tools/nailers/pneumatic",
+      "name": "Pneumatic",
+      "slug": "pneumatic",
+      "productCount": 46,
+      "path": "/categories/tools/nailers/pneumatic"
     },
     {
-      "productId": "205446977",
-      "modelNumber": "",
-      "brand": "Senco",
-      "title": "20-Degree 3 1/4 in Plastic Collated Framing Nailer",
-      "rating": {
-        "average": 3.9286,
-        "count": 28
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/488ffbcc-67ce-41b6-af65-42f9230bfcaf/svn/senco-framing-nailers-4h0101n-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 212.94,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "308017188",
-      "modelNumber": "",
-      "brand": "Senco",
-      "title": "FramePro751XP 30-Degree to 34-Degree Framing Nailer",
-      "rating": {
-        "average": 5.0,
-        "count": 1
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/c69a6747-f1a2-4767-84fb-44c87b57f8bd/svn/senco-framing-nailers-2j0103n-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 449.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "309989561",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "M18 FUEL 30-Degree Framing Nailer Extended Capacity Magazine",
-      "rating": {
-        "average": 4.5556,
-        "count": 135
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/3b625da2-fb7f-48c5-8d01-698b7b56d8f1/svn/milwaukee-compressor-accessories-48-08-2745-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 129.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "309988489",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "M18 FUEL 21-Degree Framing Nailer Extended Capacity Magazine",
-      "rating": {
-        "average": 4.5841,
-        "count": 113
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/eaa2cf85-1179-4d7a-a068-e142223694f4/svn/milwaukee-compressor-accessories-48-08-2744-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 129.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "331690738",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "Vinyl Siding Tip for M18 FUEL Coil Roofing Nailer",
-      "rating": {
-        "average": 4.5,
-        "count": 10
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/0d0cf715-309e-414d-bf51-2d76f64790f8/svn/milwaukee-compressor-accessories-48-08-2909-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 19.99,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "332931199",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "Vinyl Siding Tip for M18 FUEL Coil Roofing Nailer w/ Replacement Rubber Wear Pads",
-      "rating": {
-        "average": 4.5,
-        "count": 10
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/44296b3f-21f9-45d2-bdc1-00f90e9ae634/svn/milwaukee-compressor-accessories-48-08-2909-48-09-2909-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 28.97,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "331690748",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "Replacement Rubber Wear Pads for M18 FUEL Coil Roofing Nailer",
-      "rating": {
-        "average": 0.0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/77695c66-c660-4fe4-aaa8-b52ad52b803f/svn/milwaukee-compressor-accessories-48-09-2909-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 12.39,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "305708793",
-      "modelNumber": "",
-      "brand": "DEWALT",
-      "title": "23-Gauge 2 in. Pin Nailer",
-      "rating": {
-        "average": 4.3529,
-        "count": 221
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/4d0add0b-b5d9-453a-997b-eb0ecb66f6c9/svn/dewalt-pin-nailers-dwfp2350k-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 169.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "202213592",
-      "modelNumber": "",
-      "brand": "Porter-Cable",
-      "title": "23-Gauge 1-3/8 in. Pin Nailer",
-      "rating": {
-        "average": 4.5552,
-        "count": 317
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/b1880708-e3ac-43e6-913b-a9e94496cd43/svn/porter-cable-pin-nailers-pin138-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 139.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "309050338",
-      "modelNumber": "",
-      "brand": "Stinger",
-      "title": "CN100B Cap Nailer",
-      "rating": {
-        "average": 4.5532,
-        "count": 47
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/5f541254-82fc-43fb-a0a5-57f656ba794d/svn/stinger-roofing-nailers-0136252-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 346.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "323915684",
-      "modelNumber": "",
-      "brand": "DEWALT",
-      "title": "Extended Magazine for 21\u00b0 Framing Nailers",
-      "rating": {
-        "average": 4.3333,
-        "count": 6
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/b80b4ebd-05fc-46a3-b62f-a9b13c44b184/svn/dewalt-compressor-accessories-dzn920-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 109.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "323915710",
-      "modelNumber": "",
-      "brand": "DEWALT",
-      "title": "Extended Magazine for 30\u00b0 Framing Nailers",
-      "rating": {
-        "average": 3.25,
-        "count": 4
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/52d83ac5-858c-4ecc-9e04-27c815b72901/svn/dewalt-compressor-accessories-dzn930-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 109.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "331290658",
-      "modelNumber": "",
-      "brand": "Paslode",
-      "title": "2 in. Cordless 0\u00b0 Straight Nail Coil Siding and Fencing Nailer",
-      "rating": {
-        "average": 3.6364,
-        "count": 22
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/d6f953cf-91eb-4abe-89c6-0dc721dc5be4/svn/paslode-siding-nailers-919100-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 589.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "203432625",
-      "modelNumber": "",
-      "brand": "Paslode",
-      "title": "Universal Trim Yellow Fuel Cells for Cordless Trim Nailers (2-Pack)",
-      "rating": {
-        "average": 4.5057,
-        "count": 354
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/27203904-82a3-4359-ba0b-1c1ceb22bbc6/svn/paslode-fuel-cells-816007-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 19.98,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "203764517",
-      "modelNumber": "",
-      "brand": "Porter-Cable",
-      "title": "0 Degree Mini Impact Palm Nailer",
-      "rating": {
-        "average": 3.9329,
-        "count": 328
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/9f49b385-cbe9-469a-9c84-b4e5335a1f0c/svn/porter-cable-palm-nailers-pn350-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 59.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "315855110",
-      "modelNumber": "",
-      "brand": "RYOBI",
-      "title": "ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer (Tool Only)",
-      "rating": {
-        "average": 4.4771,
-        "count": 2924
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/3ef0de29-0377-486b-ad46-60ce55390049/svn/ryobi-brad-nailers-p321-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 99.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "309752194",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Gen II 18-Gauge Brad Nailer (Tool-Only)",
-      "rating": {
-        "average": 4.6786,
-        "count": 2523
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/51b96705-56f2-4ffc-8eeb-72c2f4407dd5/svn/milwaukee-finishing-nailers-2746-20-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 279.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "315854773",
-      "modelNumber": "",
-      "brand": "RYOBI",
-      "title": "ONE+ 18V AirStrike 16-Gauge Cordless Finish Nailer (Tool Only)",
-      "rating": {
-        "average": 4.2487,
-        "count": 772
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/95ed407c-ea0f-4db2-a2a8-e0154a99dfa3/svn/ryobi-finishing-nailers-p326-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 149.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "309987301",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "M18 FUEL 3-1/2 in. 18-Volt 21-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only)",
-      "rating": {
-        "average": 4.6327,
-        "count": 2589
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/e3a0a0ef-489d-42e9-ba6d-e1a67bd6290b/svn/milwaukee-framing-nailers-2744-20-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 429.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "328987320",
-      "modelNumber": "",
-      "brand": "Milwaukee",
-      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Coil Roofing Nailer (Tool Only)",
-      "rating": {
-        "average": 4.6223,
-        "count": 188
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/93d343ad-f6b7-47fb-965e-20178166a73a/svn/milwaukee-roofing-nailers-2909-20-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 429.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "302029641",
-      "modelNumber": "",
-      "brand": "DEWALT",
-      "title": "20V MAX XR Lithium-Ion Electric Cordless 18-Gauge Brad Nailer (Tool Only)",
-      "rating": {
-        "average": 4.7061,
-        "count": 2341
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/aa9125e4-5c17-466e-a653-d229666dd9e7/svn/dewalt-brad-nailers-dcn680b-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 249.0,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "317977296",
-      "modelNumber": "",
-      "brand": "DEWALT",
-      "title": "ATOMIC 20V MAX Lithium Ion Cordless 23 Gauge Pin Nailer Kit with 2.0Ah Battery and Charger",
-      "rating": {
-        "average": 4.3509,
-        "count": 436
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/0f43bd42-c55b-4073-b47e-bf68d5613da2/svn/dewalt-pin-nailers-dcn623d1-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 249.0,
-        "currency": "USD"
-      }
+      "id": "tools/nailers/roofing",
+      "name": "Roofing",
+      "slug": "roofing",
+      "productCount": 13,
+      "path": "/categories/tools/nailers/roofing"
     }
   ]
 }

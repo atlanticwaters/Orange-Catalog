@@ -4,7 +4,7 @@
   "slug": "impact-drivers",
   "path": "/categories/tools/drills/impact-drivers",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:07:23.902635",
+  "lastUpdated": "2026-01-02T15:26:37.593506",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -34,15 +34,15 @@
       "count": 2
     },
     {
-      "brandId": "unknown",
-      "brandName": "Unknown",
-      "logoUrl": "images/brands/unknown.svg",
-      "count": 1
-    },
-    {
       "brandId": "ryobi",
       "brandName": "RYOBI",
       "logoUrl": "images/brands/ryobi.svg",
+      "count": 1
+    },
+    {
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
       "count": 1
     }
   ],

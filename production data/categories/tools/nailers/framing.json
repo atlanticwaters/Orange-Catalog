@@ -4,7 +4,7 @@
   "slug": "framing",
   "path": "/categories/tools/nailers/framing",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.743407",
+  "lastUpdated": "2026-01-02T15:26:37.596889",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -24,9 +24,15 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 17
+    "totalResults": 27
   },
   "featuredBrands": [
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 6
+    },
     {
       "brandId": "ridgid",
       "brandName": "RIDGID",
@@ -34,10 +40,16 @@
       "count": 6
     },
     {
-      "brandId": "dewalt",
-      "brandName": "DEWALT",
-      "logoUrl": "images/brands/dewalt.svg",
+      "brandId": "senco",
+      "brandName": "Senco",
+      "logoUrl": "images/brands/senco.svg",
       "count": 4
+    },
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 3
     },
     {
       "brandId": "vevor",
@@ -50,18 +62,6 @@
       "brandName": "Paslode",
       "logoUrl": "images/brands/paslode.svg",
       "count": 2
-    },
-    {
-      "brandId": "makita",
-      "brandName": "Makita",
-      "logoUrl": "images/brands/makita.svg",
-      "count": 1
-    },
-    {
-      "brandId": "skyshalo",
-      "brandName": "SKYSHALO",
-      "logoUrl": "images/brands/skyshalo.svg",
-      "count": 1
     }
   ],
   "products": [
@@ -415,6 +415,216 @@
       },
       "price": {
         "current": 208.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203555586",
+      "modelNumber": "",
+      "brand": "Porter-Cable",
+      "title": "21-Degree 3-1/2 in. Full Round Framing Nailer",
+      "rating": {
+        "average": 4.49,
+        "count": 2092
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d00f90a0-48f1-433a-8525-35f585384988/svn/porter-cable-framing-nailers-fr350b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308017214",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "FramePro 30-Degree to 34-Degree Framing Nailer",
+      "rating": {
+        "average": 4.3636,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50eb7a2f-c678-4959-8563-3a2412c8eba1/svn/senco-framing-nailers-4z0101n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100095739",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "FramePro 3-1/2 in. 34-Degree Framing Nailer",
+      "rating": {
+        "average": 4.3,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6885c00d-86bb-4e85-a086-a71f84386239/svn/senco-framing-nailers-2h0133n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205446977",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "20-Degree 3 1/4 in Plastic Collated Framing Nailer",
+      "rating": {
+        "average": 3.9286,
+        "count": 28
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/488ffbcc-67ce-41b6-af65-42f9230bfcaf/svn/senco-framing-nailers-4h0101n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 212.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308017188",
+      "modelNumber": "",
+      "brand": "Senco",
+      "title": "FramePro751XP 30-Degree to 34-Degree Framing Nailer",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c69a6747-f1a2-4767-84fb-44c87b57f8bd/svn/senco-framing-nailers-2j0103n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309989561",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 30-Degree Framing Nailer Extended Capacity Magazine",
+      "rating": {
+        "average": 4.5556,
+        "count": 135
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3b625da2-fb7f-48c5-8d01-698b7b56d8f1/svn/milwaukee-compressor-accessories-48-08-2745-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309988489",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 21-Degree Framing Nailer Extended Capacity Magazine",
+      "rating": {
+        "average": 4.5841,
+        "count": 113
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/eaa2cf85-1179-4d7a-a068-e142223694f4/svn/milwaukee-compressor-accessories-48-08-2744-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323915684",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Extended Magazine for 21\u00b0 Framing Nailers",
+      "rating": {
+        "average": 4.3333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b80b4ebd-05fc-46a3-b62f-a9b13c44b184/svn/dewalt-compressor-accessories-dzn920-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323915710",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Extended Magazine for 30\u00b0 Framing Nailers",
+      "rating": {
+        "average": 3.25,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/52d83ac5-858c-4ecc-9e04-27c815b72901/svn/dewalt-compressor-accessories-dzn930-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309987301",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 3-1/2 in. 18-Volt 21-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only)",
+      "rating": {
+        "average": 4.6327,
+        "count": 2589
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3a0a0ef-489d-42e9-ba6d-e1a67bd6290b/svn/milwaukee-framing-nailers-2744-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
         "currency": "USD"
       }
     }

@@ -4,7 +4,7 @@
   "slug": "finishing",
   "path": "/categories/tools/nailers/finishing",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.742742",
+  "lastUpdated": "2026-01-02T15:26:37.597383",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -24,7 +24,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 25
+    "totalResults": 30
   },
   "featuredBrands": [
     {
@@ -37,13 +37,7 @@
       "brandId": "dewalt",
       "brandName": "DEWALT",
       "logoUrl": "images/brands/dewalt.svg",
-      "count": 4
-    },
-    {
-      "brandId": "porter-cable",
-      "brandName": "Porter-Cable",
-      "logoUrl": "images/brands/porter-cable.svg",
-      "count": 2
+      "count": 5
     },
     {
       "brandId": "makita",
@@ -52,10 +46,22 @@
       "count": 2
     },
     {
+      "brandId": "porter-cable",
+      "brandName": "Porter-Cable",
+      "logoUrl": "images/brands/porter-cable.svg",
+      "count": 2
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 2
+    },
+    {
       "brandId": "wen",
       "brandName": "WEN",
       "logoUrl": "images/brands/wen.svg",
-      "count": 1
+      "count": 2
     }
   ],
   "products": [
@@ -581,6 +587,111 @@
       },
       "price": {
         "current": 658.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319036436",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "3/8 in. x 2 in. 18-Gauge Brad Nailer with Carrying Case and 2000 Nails",
+      "rating": {
+        "average": 4.871,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7321c01f-578c-4417-afb2-5189c01321e3/svn/wen-brad-nailers-61723k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.16,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315855110",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer (Tool Only)",
+      "rating": {
+        "average": 4.4771,
+        "count": 2924
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ef0de29-0377-486b-ad46-60ce55390049/svn/ryobi-brad-nailers-p321-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309752194",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Gen II 18-Gauge Brad Nailer (Tool-Only)",
+      "rating": {
+        "average": 4.6786,
+        "count": 2523
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/51b96705-56f2-4ffc-8eeb-72c2f4407dd5/svn/milwaukee-finishing-nailers-2746-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315854773",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V AirStrike 16-Gauge Cordless Finish Nailer (Tool Only)",
+      "rating": {
+        "average": 4.2487,
+        "count": 772
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/95ed407c-ea0f-4db2-a2a8-e0154a99dfa3/svn/ryobi-finishing-nailers-p326-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302029641",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Lithium-Ion Electric Cordless 18-Gauge Brad Nailer (Tool Only)",
+      "rating": {
+        "average": 4.7061,
+        "count": 2341
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/aa9125e4-5c17-466e-a653-d229666dd9e7/svn/dewalt-brad-nailers-dcn680b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
         "currency": "USD"
       }
     }

@@ -1,10 +1,10 @@
 {
-  "categoryId": "home-decor/artificial-plants/trees",
-  "name": "Trees",
-  "slug": "trees",
-  "path": "/categories/home-decor/artificial-plants/trees",
+  "categoryId": "home-decor/artificial-plants",
+  "name": "Artificial Plants",
+  "slug": "artificial-plants",
+  "path": "/categories/home-decor/artificial-plants",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T15:26:37.583856",
+  "lastUpdated": "2026-01-02T15:33:10.418007",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -17,54 +17,2085 @@
     {
       "label": "Artificial Plants",
       "url": "/home-decor/artificial-plants"
-    },
-    {
-      "label": "Trees",
-      "url": "/home-decor/artificial-plants/trees"
     }
   ],
   "pageInfo": {
-    "totalResults": 161
+    "totalResults": 257
   },
   "featuredBrands": [
     {
       "brandId": "nearly-natural",
       "brandName": "Nearly Natural",
       "logoUrl": "images/brands/nearly-natural.svg",
-      "count": 58
+      "count": 96
     },
     {
-      "brandId": "dr-planzen",
+      "brandId": "unknown",
+      "brandName": "Unknown",
+      "logoUrl": "images/brands/unknown.svg",
+      "count": 25
+    },
+    {
+      "brandId": "dr.planzen",
       "brandName": "DR.Planzen",
-      "logoUrl": "images/brands/dr-planzen.svg",
+      "logoUrl": "images/brands/dr.planzen.svg",
       "count": 24
+    },
+    {
+      "brandId": "living-luxury",
+      "brandName": "LIVING LUXURY",
+      "logoUrl": "images/brands/living-luxury.svg",
+      "count": 19
     },
     {
       "brandId": "vitalismo",
       "brandName": "Vitalismo",
       "logoUrl": "images/brands/vitalismo.svg",
-      "count": 12
+      "count": 19
     },
     {
       "brandId": "vevor",
       "brandName": "VEVOR",
       "logoUrl": "images/brands/vevor.svg",
       "count": 10
-    },
-    {
-      "brandId": "unknown",
-      "brandName": "Unknown",
-      "logoUrl": "images/brands/unknown.svg",
-      "count": 7
-    },
-    {
-      "brandId": "garvee",
-      "brandName": "Garvee",
-      "logoUrl": "images/brands/garvee.svg",
-      "count": 6
     }
   ],
+  "filterOptions": {
+    "subcategories": [
+      {
+        "slug": "trees",
+        "name": "Trees",
+        "productCount": 161
+      },
+      {
+        "slug": "other",
+        "name": "Other",
+        "productCount": 88
+      },
+      {
+        "slug": "specialty",
+        "name": "Specialty",
+        "productCount": 8
+      }
+    ]
+  },
   "products": [
+    {
+      "productId": "331689158",
+      "modelNumber": "",
+      "brand": "A & B Home",
+      "title": "19 .7 in. Red Artificial Assorted Flowers Floral Arrangements",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0e4e35d2-c239-46d5-a5d2-f66d5539978e/svn/a-b-home-artificial-flowers-k-f4691-red-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335797479",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "12 Bundles Artificial Plants UV Resistant Faux Plastic Plant Decor, 18 in. Purple Outdoor Artificial Lavender Flower",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3e739176-57e4-4571-9cd5-f7ea2dd722ba/svn/artificial-flowers-ny97zdnk9-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 90.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330895020",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "19 .7 in H. Double Lotus Artificial Hanging Flowers with Basket",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1efcbd74-861d-4825-8196-c97522cf7a7c/svn/artificial-flowers-nyaf515-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 124.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332644105",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "27.6 in. H Green Fake Plant Hanging Plants with Basket, Artificial Ivy Hanging Greenary(3-Pack)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b39b1912-197a-4245-8b93-e2c93b9f4dd3/svn/artificial-flowers-avtl6tt1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 124.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339298493",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "11 in. Yellow Indoor/Outdoor Artificial Bougainvillea Flower-2 Piece",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/46f61331-2a64-4659-935d-d8332ab34d6a/svn/artificial-flowers-um6wc9j-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 88.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335478403",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "13.8 in. Multi-Colored Outdoor Artificial Daisy Flower 12 Pcs",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4f3a8b83-9abc-482b-a296-51d979cbb240/svn/artificial-flowers-de12pl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 85.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330426023",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "2 .9 ft Green Artificial Hanging Plant, Fake Plant Hanging Ivy Leaves Plants, 4-Piecs",
+      "rating": {
+        "average": 2.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/65cf5172-a210-4ca2-9219-714b51e4193c/svn/artificial-flowers-avr4y2dp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 115.3,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333557494",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "19 in. Champagne Mauve Pink Artificial Mixed Peony Hydrangea Flower Stem Bush Bouquet",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a9c4d574-9d8a-4f00-beb4-e2cb1d64203b/svn/living-luxury-artificial-flowers-91966-chp-ma-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 24.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338541791",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "19.6 in. White Indoor/Outdoor Artificial Roses Flower",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0bc0072-ab6d-454b-9cd2-2a370baa325f/svn/artificial-flowers-hgg12424-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305521321",
+      "modelNumber": "",
+      "brand": "National Tree Company",
+      "title": "11 in. Artificial Cymbidium Flower Wall Basket",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e541a0ba-6c02-4ce4-970c-54c611221c48/svn/national-tree-company-artificial-flowers-ras-5428-04n-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 17.22,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330979791",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "15 .7 in. H White Artificial Fake Flowers with Vase, Family Banquet Party Wedding Decoration",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/db171c70-ed64-42b4-a95b-62da1051c8e2/svn/artificial-flowers-avygs6p6-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333671087",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "15 in. Beige Artificial Mum Flowers",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a641d3b7-91dd-4dbe-827b-42d038a77226/svn/artificial-flowers-cabwbq045-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 94.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "328014463",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "12 .5 in. H Light Pink Artificial Silk Roses Flowers in Vase",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/961e3791-f89f-4d69-9f68-73855afd1b9a/svn/artificial-flowers-yy93dd6m9x-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 82.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337203574",
+      "modelNumber": "",
+      "brand": "YIYIBYUS",
+      "title": "23.62 in. x 15.75 in. 12 Pieces Blue Indoor/Outdoor Artificial Hydrangeas Flower Artificial Flower Wall Panel Wall Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/85ef0ca7-d4a9-489f-a582-b801005e659a/svn/yiyibyus-artificial-flowers-jjou5h-007100-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 117.14,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314978309",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "16in. Peony, Dahlia and Sunflower Artificial Flower Bouquet (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6bf1b87d-294f-4ab3-810b-c184bde86c8e/svn/nearly-natural-artificial-flowers-6289-s2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333557486",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "42 in. Deluxe White Artificial Baby's Breath Gypsophila Flower Stem Hanging Spray Bush",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/12d1882e-f3fd-4f56-afd0-2f2681004316/svn/living-luxury-artificial-flowers-84145-wh-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 28.89,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333796726",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "16 in. x 24 in. Gold Artificial Hydrangea Flower Wall Panel Hedge Mat Backdrop Privacy Screen (Set of 4)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/50e287c3-269c-4065-ab58-525829e05a8a/svn/living-luxury-artificial-flowers-31470-go-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 105.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332248209",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "16 in. Royal Blue Artificial Velvet Rose Flower Stem Bush Bouquet (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c28f5935-82c4-4aec-901b-6f0eeecdf373/svn/living-luxury-artificial-flowers-91908-roy-bl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335754950",
+      "modelNumber": "",
+      "brand": "Afoxsos",
+      "title": "14 in. Multicolor (Purple/Rose Red/Yellow/Red/Blue/Pink) Indoor/Outdoor Artificial Eucalyptus Flower-24 Bundles",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3db294fd-8867-42a0-ab27-2e906d7734c8/svn/afoxsos-artificial-flowers-hdsa10-4in018-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 84.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329675948",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "40 in. Red Artificial Cherry Blossom Flower Stem Spray Set of 3",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/740fdc47-3855-4a33-a076-ec3771baca7c/svn/living-luxury-artificial-flowers-31591-r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 48.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314065486",
+      "modelNumber": "",
+      "brand": "NATURAE DECOR",
+      "title": "Artificial 35 in. Fiddle Leaf Indoor and Outdoor Plants",
+      "rating": {
+        "average": 4.7513,
+        "count": 189
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8f8b3a1d-50b3-48e5-9091-d8c0d5b3d61b/svn/naturae-decor-artificial-tropical-plants-out-fiddle-35bc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304735134",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Real Touch 4 ft. Indoor Dracaena Artificial Plant in Sand Planter",
+      "rating": {
+        "average": 3.9143,
+        "count": 35
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c91685b1-56d4-4580-868a-a47ee8ed3ffb/svn/nearly-natural-artificial-tropical-plants-6456-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 100.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325476813",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "7 ft. Artificial Bird of Paradise Plant with 17-Trunks, Realistic Look and Easy Maintenance, Perfect for Home or Office",
+      "rating": {
+        "average": 4.4545,
+        "count": 33
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32138412-7cb0-4317-848c-95c14e843b93/svn/artificial-tropical-plants-hdft-chbp8401-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 104.3,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337227005",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "33.5 in. Artificial Agave Plant With Ground Spike Realistic Fake Agave Plants for Indoor Outdoor (Set of 2)",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d35d22cb-6e8f-4b43-912d-617696e1bcc0/svn/vitalismo-artificial-tropical-plants-nohk0073glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.84,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337245152",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "28 in. Artificial Agave Plants with Ground Spikes, Realistic Faux Agave for Indoor/Outdoor Decor(Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e0642710-19bf-40cd-89a8-2f70ed7e1d71/svn/vitalismo-artificial-tropical-plants-nohk0072glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 30.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337244743",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "3.7 ft. / 44.1 in Artificial Spiked Agave Plant Faux Agave Plant for Indoor Outdoor Decor(Set of 2)",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/dbb8df76-1e9b-4f5e-bea4-977782030044/svn/vitalismo-artificial-tropical-plants-nohk0076glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 68.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336159695",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "30in. Artificial Sansevieria Plant",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fbc9c68d-6d2e-4ec6-8066-8e67701af643/svn/nearly-natural-artificial-tropical-plants-p2049-s1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 25.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305531092",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor Dieffenbachia Artificial Plant in Ceramic Planter",
+      "rating": {
+        "average": 4.7083,
+        "count": 24
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8aa0080e-8e02-46f1-a8c7-c7658f7acab5/svn/nearly-natural-artificial-tropical-plants-8051-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 38.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314065761",
+      "modelNumber": "",
+      "brand": "NATURAE DECOR",
+      "title": "Artificial 47 in. Fiddle Leaf Indoor and Outdoor Plants",
+      "rating": {
+        "average": 4.4286,
+        "count": 119
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fcc80409-2ab4-43c2-82cc-cc67271922f0/svn/naturae-decor-artificial-tropical-plants-out-fiddle-47bc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 61.04,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314089875",
+      "modelNumber": "",
+      "brand": "NATURAE DECOR",
+      "title": "Artificial 47 in. Monstera Indoor and Outdoor Plants",
+      "rating": {
+        "average": 4.1463,
+        "count": 82
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/518d1106-00b9-4280-a5a8-e5cad6eaa72c/svn/naturae-decor-artificial-tropical-plants-out-mons-47bc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 61.93,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204688220",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Artificial Sansevieria with Black Planter",
+      "rating": {
+        "average": 4.2368,
+        "count": 38
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7c04d4ed-8800-45e2-8bc1-e1748c5d988c/svn/nearly-natural-artificial-tropical-plants-4855-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 78.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339851441",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "26 in. Artificial Agave Plants Green Red Fake Agave Plants Fake Plants for Outdoor/Indoor Decor (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4f4c73d9-95eb-48c0-a5ff-04f275542174/svn/vitalismo-artificial-tropical-plants-nohk0147glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 40.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339850871",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "26 in. Artificial Agave Plants with Ground Spike Fake Plants Faux Agave Plant for Outdoor/Indoor Decor (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c7646253-4c86-4922-8b80-28309ef6bbe7/svn/vitalismo-artificial-tropical-plants-nohk0146glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 40.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337228483",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "22 in. (Set of 2) Artificial Agave Plant With Ground Spike Fake Agave Plant for Indoor/Outdoor Decor",
+      "rating": {
+        "average": 3.0,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6495ee49-2d95-42ae-8473-729271f3e7f8/svn/vitalismo-artificial-tropical-plants-nohk0074glgrn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 33.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331732324",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5 ft. Artificial Green Cactus in Terracotta Planter",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af9bb80c-034d-4ea3-8b46-347617385550/svn/nearly-natural-artificial-succulents-p2044-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 118.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303557511",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "41 in. Cactus in Stone Planter Artificial Plant",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6518481d-862e-423a-8e18-f6143799dc83/svn/nearly-natural-artificial-succulents-4589-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 140.38,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331732323",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "41 in. Artificial Green Cactus in Terracotta Planter",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b8968695-f365-4882-85b3-cfba0e316a6a/svn/nearly-natural-artificial-succulents-p2043-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 98.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305531138",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 4.5 ft. Cactus Artificial Plant",
+      "rating": {
+        "average": 3.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d4e6564b-f92f-4c8b-b78c-4c56634f6295/svn/nearly-natural-artificial-succulents-6329-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 151.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305531143",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 2.5 ft. Cactus Artificial Plant",
+      "rating": {
+        "average": 3.5714,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2271ed2f-8ce4-4547-9cf2-a04beb1cb38d/svn/nearly-natural-artificial-succulents-6328-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 62.37,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305531116",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 3.5 ft. Agave Artificial Plant",
+      "rating": {
+        "average": 3.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/516792b9-c8c6-47a7-b0dd-07c7587fff23/svn/nearly-natural-artificial-succulents-6347-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 81.36,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307805763",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "37 in. Indoor Cactus Artificial Plant",
+      "rating": {
+        "average": 3.8333,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/16989e4e-3dd9-40f2-931b-76c36d080824/svn/nearly-natural-artificial-succulents-4338-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 61.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301695584",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4 ft. Artificial Spiked Agave Plant",
+      "rating": {
+        "average": 4.4615,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3de53e6b-385b-4fb7-8193-b39c76dfe357/svn/nearly-natural-artificial-succulents-6813-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 105.75,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308790467",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor/Outdoor Agave and Maiden Hair Artificial Plant in Hanging Basket",
+      "rating": {
+        "average": 4.0667,
+        "count": 15
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e0835d0d-a5b7-4a2a-ae19-9005e4086364/svn/nearly-natural-artificial-succulents-4285-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 35.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206796130",
+      "modelNumber": "",
+      "brand": "Pure Garden",
+      "title": "52 in Artificial Giant Agave Floor Plant",
+      "rating": {
+        "average": 4.5,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d3d4eaf6-c213-49df-92bd-4d093892de5e/svn/pure-garden-artificial-succulents-50-10016-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308790072",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 19 Large Agave Artificial Plant (Set of 2)",
+      "rating": {
+        "average": 4.4,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/933fa92f-ce5a-4a7c-855d-fe1540c6faf9/svn/nearly-natural-artificial-succulents-6210-s2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 55.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302786458",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor/Outdoor Spiked Agave Artificial Plant in Sand Colored Bowl",
+      "rating": {
+        "average": 5.0,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f6370da-04e1-42ae-85e7-988aa8ad4f0d/svn/nearly-natural-artificial-succulents-6962-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 171.86,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333555471",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "40 in. x 120 in. Artificial Ivy Vine Privacy Fence Trellis and Wall Privacy Hedge Screen, UV Resistant (Indoor/Outdoor)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/72ff493f-3269-48b8-9f81-462a650d5ba6/svn/nearly-natural-artificial-vines-p2106-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 55.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333555467",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "36 in. UV Resistant Artificial Pothos Vine Hanging Plant (Indoor/Outdoor)-Set of 2",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/635c803e-32f6-4812-9538-39ab9503e15c/svn/nearly-natural-artificial-vines-6135-s2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203141676",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "14 in. Artificial H Green Ivy with White Wash Planter Silk Plant",
+      "rating": {
+        "average": 3.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a06c8d94-a321-4f22-8668-acffde7e2732/svn/nearly-natural-artificial-vines-6715-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308790113",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor/Outdoor 15 Mini Melon Artificial Plant (Set of 6)",
+      "rating": {
+        "average": 4.25,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/03b661bd-1242-4c16-8a35-e0fbbadb4580/svn/nearly-natural-artificial-vines-6256-s6-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 51.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319318",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "20 in. D Baby Tear Artificial Plant in Hanging Basket",
+      "rating": {
+        "average": 1.5714,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38a93f80-aacb-4ae2-a919-97b02399ce2a/svn/nearly-natural-artificial-vines-p1657-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 21.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332419896",
+      "modelNumber": "",
+      "brand": "Angel Sar",
+      "title": "7.2 ft. Artificial Ivy Greenery Garland, Fake Vines Hanging Plants Backdrop, Green (36-Pack)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/060872a4-6607-4983-92d0-674a6b56416f/svn/angel-sar-artificial-vines-dk87py39-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 90.37,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332419689",
+      "modelNumber": "",
+      "brand": "Angel Sar",
+      "title": "7.2 ft. Artificial Ivy Greenery Garland, Fake Vines Hanging Plants Backdrop, Green (24-Pack)",
+      "rating": {
+        "average": 1.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32c80bd6-521f-4e6f-be2e-6443613be224/svn/angel-sar-artificial-vines-ie62kv82-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 57.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "324419696",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "51 in. Artificial Variegated English Ivy Leaf Vine Hanging Plant Greenery Foliage Bush",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e8092427-efc3-4906-bcc8-152bd8da155a/svn/living-luxury-artificial-vines-84036-var-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 44.09,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314835878",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "14 in. Pothos Artificial Plant in Ceramic Planter",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b23bc319-fc30-4812-a4b9-a5a0690121f5/svn/nearly-natural-artificial-vines-p1458-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 30.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310643147",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "50 in. Staghorn Artificial Hanging Plant",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/38ab1cb6-020d-4bd0-8b8f-3de2fa2e526e/svn/nearly-natural-artificial-vines-8341-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 80.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100656252",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Artificial English Ivy Hanging Basket Silk Plant",
+      "rating": {
+        "average": 4.1875,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/626dccde-b3bf-40e6-a0c4-134c767ba099/svn/nearly-natural-artificial-vines-6507-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 58.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203141593",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Real Touch 48 in. Artificial H Green Dracaena Silk Plant",
+      "rating": {
+        "average": 4.0089,
+        "count": 112
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e8a5ddd-826d-4dba-a94d-9ac6f00fb45b/svn/nearly-natural-artificial-trees-6585-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332248204",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "16 in. Lavender Artificial Velvet Rose Flower Stem Bush Bouquet (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37409bbf-1882-4da5-85c4-65302a9c62b8/svn/living-luxury-artificial-flowers-91908-lav-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317702786",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "18 in. Frosted Green Artificial Mix Fern Flowering Leaf Foliage Greenery Wreath",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/91ce58ef-38c8-4f48-bc57-1ff709d89ac4/svn/living-luxury-decorative-wreaths-83935-frt-gr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 39.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307359537",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 29 in. Phalaenopsis Orchid Artificial Flower (Set of 4)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/420691cd-2d37-4eaa-a1b9-697a7616686e/svn/nearly-natural-artificial-flowers-2194-s4-rs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 47.2,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330549545",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "30 in. Yellow Artificial Wild Berry Filler Flower Stem Spray (Set of 4)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/acea2e88-8f3e-4c9d-9e3b-58fb9eabc217/svn/living-luxury-artificial-flowers-31598-yl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 46.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318019289",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "25 in. Green Yellow Sansevieria Artificial Snake Plant in Grey Pot",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5cb27ce1-3fea-454b-96ab-7fe4076ae8c3/svn/living-luxury-artificial-tropical-plants-60375-gr-yl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 87.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331746101",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "19 in. Rose Cafe Artificial Elegant Rose Hydrangea Flower Stem Bush Bouquet (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/25a272c9-c578-47b6-a27d-b242ba37343b/svn/living-luxury-artificial-flowers-91992-ro-caf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331746089",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "19 in. Champagne Peach Artificial Elegant Rose Hydrangea Flower Stem Bush Bouquet (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d87957b8-17e7-49d7-a3d1-c35104794fd5/svn/living-luxury-artificial-flowers-91992-chp-pe-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.4,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332060968",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "22 in. Cream White Artificial Daffodil Flower Stem Bush Bouquet (Set of 3)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/efd73593-5b79-4fa5-945e-69398201b502/svn/living-luxury-artificial-flowers-92036-cr-wh-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 49.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331785511",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "17 in. Deluxe Blue Artificial Elegant Rose Flower Stem Bush Bouquet (Set of 2)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/30ed692e-ca28-4eee-bbc1-710afff2ed96/svn/living-luxury-artificial-flowers-92006-bl-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 33.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309600204",
+      "modelNumber": "",
+      "brand": "Pure Garden",
+      "title": "72 in. Artificial Bamboo Plant with Pot",
+      "rating": {
+        "average": 4.8824,
+        "count": 17
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c354825-4e89-4c5a-b71e-7bf26f4affc8/svn/pure-garden-artificial-trees-hw1500235-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 107.64,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308790425",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor 20 in. Bamboo Artificial Plant",
+      "rating": {
+        "average": 4.7778,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/80fd0e11-42ca-40a9-b031-fafb836fed2f/svn/nearly-natural-artificial-grass-plants-8161-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315103370",
+      "modelNumber": "",
+      "brand": "COLOURTREE",
+      "title": "Artificial Expandable Double-Sided Ivy Leaf Vines Willow Trellis Privacy Fencing Screen",
+      "rating": {
+        "average": 4.7838,
+        "count": 37
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/80f06ad4-2365-4b63-b477-6d4de15233ea/svn/colourtree-artificial-hedges-tbw3979-1d-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 78.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317341382",
+      "modelNumber": "",
+      "brand": "NATURAE DECOR",
+      "title": "Artificial 47 in. Black Grass Plant",
+      "rating": {
+        "average": 4.6556,
+        "count": 90
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/08ae2f9a-9ea2-4237-b8c3-ea0b3f6301f6/svn/naturae-decor-artificial-grass-plants-pla-gra-47-1pk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 41.69,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319324",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "5.5 ft. Plume Grass Artificial Plant",
+      "rating": {
+        "average": 4.6667,
+        "count": 6
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/80b86287-58a4-4293-88b8-c587461568aa/svn/nearly-natural-artificial-grass-plants-p1682-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316319305",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4.5 ft. Plume Grass Artificial Plant",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4b86a1fe-26a7-42e0-8082-323c2eff5008/svn/nearly-natural-artificial-grass-plants-p1683-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339300766",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Artificial Grass Plant, 2 Pack 59 in. Faux Reed Flower Grass in Pot, PVC Greenery Shrubs for Indoor/Outdoor, Green",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/19eabfc4-fce9-4651-9609-611aa7490059/svn/skyshalo-artificial-grass-plants-dpklwhls59ind2abk001v0-250929-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 64.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "303557440",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor/Outdoor Sweet Grass Artificial Plant in White Tower Planter",
+      "rating": {
+        "average": 4.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/95891b13-e82b-4eff-91a2-cb83ccd9bc90/svn/nearly-natural-artificial-grass-plants-6383-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 78.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336830849",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Artificial Flowers 16 in. Multicolor UV Resistant Outdoor Shrubs Faux Plants for Garden Patio Porch Decor 20 Bundles",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9e6d04c5-a71d-4812-875c-2cb3c296af96/svn/artificial-branches-stems-ph0249b076-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 68.14,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335294009",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "27 in. Real Touch Artificial Wisteria Leaf Stem Plant Greenery Foliage Spray Branch (Set of 12)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8340b60-3fa1-4bcf-b71f-0b0e31eef878/svn/living-luxury-artificial-branches-stems-84197-gr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 45.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331240159",
+      "modelNumber": "",
+      "brand": "LIVING LUXURY",
+      "title": "51 in. Large Real Touch Artificial Wisteria Leaf Stem Plant Greenery Foliage Spray Branch",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d256c3bf-d33c-4032-8eca-7c6fafa66fdc/svn/living-luxury-artificial-branches-stems-84177-gr-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 56.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336830814",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Outdoor Artificial Lavender Flowers 14 in. Purple Fake Plants UV Resistant Shrubs for Porch Garden Yard Decor 22-Piece",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/632d6b97-67e3-4f3c-a23b-a67a17176e1c/svn/artificial-branches-stems-ph0249b049-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 66.81,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336830871",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "20 Bundles 9.8 in. H Multi-Color Artificial Flowers UV Resistant Faux Greenery Shrubs for Outdoor Indoor Decor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0dbf868e-f074-4246-a8dd-fb7f47df9113/svn/artificial-branches-stems-ph0249b096-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 70.16,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332750976",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "47 in. Artificial Bougainvillea Flower Stems, Set of 3",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3f8b6df3-13cb-44c1-b8b9-ba5104430767/svn/nearly-natural-artificial-branches-stems-2400-s3-pk-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 28.24,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336830858",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Artificial 12 in. Colorful Mix Plant Branch Faux Hanging Plants Flowers Basket UV Resistant for Outdoor Decoration",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3851e0d4-591e-4dfb-8b71-cafd5a7e2877/svn/artificial-branches-stems-ph0249b085-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 88.59,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335735288",
+      "modelNumber": "",
+      "brand": "Vitalismo",
+      "title": "2-Sets 2 ft. Artificial Cedar Bush Shrubs with Ground Stake Indoor Outdoor UV Resistant Fake Plant Garden Entryway Decor",
+      "rating": {
+        "average": 4.3333,
+        "count": 12
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fc1c4a43-fe55-4830-8f63-3d81775cca22/svn/vitalismo-artificial-shrubs-hdvlohk0030-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 40.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301695617",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "24 in. Artificial Cedar Bonsai Silk Plant",
+      "rating": {
+        "average": 2.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f2772c4a-cb88-48ac-8fe2-9d66b61e7810/svn/nearly-natural-artificial-shrubs-4103-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 111.23,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310678095",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "17 in. Garden Croton Artificial Plant in Basket (Real Touch)",
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/00a4c734-314c-4c92-9485-f215d6359ce7/svn/nearly-natural-artificial-shrubs-8870-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 53.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336159636",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "4ft. UV Resistant Artificial Cedar Plant with Integrated Ground Stake (Indoor/Outdoor) - Set of 2",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/33a5e25f-e26a-4fed-a404-daeef9868670/svn/nearly-natural-artificial-shrubs-p2191-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 155.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335280303",
+      "modelNumber": "",
+      "brand": "ANGELES HOME",
+      "title": "2-Pack 21.5 in. Artificial Shrub Bushes with Rose Flowers, Realistic Look, Home Office Decorative Fake Plant",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0f44848d-be45-4dfd-9bb9-9a34b9e3ac9f/svn/angeles-home-artificial-shrubs-m299re-2-8hz10-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 128.42,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338213308",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "13 in Green Outdoor Artificial Plant Boxwood Shrub, 20 Bundles",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/814983d2-eb63-4fec-8a2d-6fd1f7a16a03/svn/artificial-shrubs-mkag28n5h-gn20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 83.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301691107",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor and Outdoor 48 in. Artificial Boxwood Spiral Topiary with Planter",
+      "rating": {
+        "average": 4.3514,
+        "count": 37
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d41b9ad9-d474-448d-a372-cb5d0c44caa9/svn/nearly-natural-artificial-topiaries-5475-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 135.54,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301006753",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "50 in. Artificial Boxwood Topiary with Gray Cylindrical Planter UV Resistant (Indoor/Outdoor)",
+      "rating": {
+        "average": 4.8,
+        "count": 5
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2998871e-41ce-4512-856a-a028558fece8/svn/nearly-natural-artificial-topiaries-5961-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 185.59,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "335102241",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "24.5 in. Green Indoor Succulent Artificial Cactus, Artificial Plant Fake Cactus for Decktop Office Home Store Decoration",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/71ec317b-1c96-40f6-b8af-d41e05db15e7/svn/artificial-succulents-w2078p294239yf-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 59.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301694323",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Artificial Spiky Agave Succulent Plant (Set of 2)",
+      "rating": {
+        "average": 4.5556,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9835e9aa-88e2-4185-bcc2-364322ca8e91/svn/nearly-natural-artificial-succulents-6159-s2-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 43.17,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336277365",
+      "modelNumber": "",
+      "brand": "Mecale",
+      "title": "20 in. Green and Brown In-Outdoor Hanging Succulents with 10 Types Artificial Plant (2 Packs)",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/65184befdcc64541984a8386f2d0d0fc/svn/mecale-artificial-succulents-zfcr2867-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 95.19,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308790336",
+      "modelNumber": "",
+      "brand": "Nearly Natural",
+      "title": "Indoor Large Succulent Artificial Plant in Decorative Bowl",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c377809-5b36-4758-8624-7736454b218c/svn/nearly-natural-artificial-succulents-8400-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 75.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326830513",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "2-Pcs Artificial 19 in. White Flower Grass Topiary Balls Faux Balls Indoor Outdoor",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fff87334-288d-4d45-b11c-79bc73f324bf/svn/artificial-topiaries-gym11760-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 103.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336342352",
+      "modelNumber": "",
+      "brand": "LHY",
+      "title": "15.5 in. Green Artificial Boxwood Grass Balls 2 Balls Artificial Plant Topiary Ball Faux Boxwood Decorative Ball (2 PCS)",
+      "rating": {
+        "average": 4.7778,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cf81c38f-61f6-4d86-bdea-47cafb4ddf11/svn/lhy-artificial-grass-plants-15-5in-2pcs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.39,
+        "currency": "USD"
+      }
+    },
     {
       "productId": "332707639",
       "modelNumber": "",

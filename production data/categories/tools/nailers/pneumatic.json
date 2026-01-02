@@ -4,7 +4,7 @@
   "slug": "pneumatic",
   "path": "/categories/tools/nailers/pneumatic",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.743714",
+  "lastUpdated": "2026-01-02T15:26:37.598050",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -40,9 +40,9 @@
       "count": 6
     },
     {
-      "brandId": "steelman",
-      "brandName": "Steelman",
-      "logoUrl": "images/brands/steelman.svg",
+      "brandId": "porter-cable",
+      "brandName": "Porter-Cable",
+      "logoUrl": "images/brands/porter-cable.svg",
       "count": 4
     },
     {
@@ -52,40 +52,16 @@
       "count": 4
     },
     {
-      "brandId": "porter-cable",
-      "brandName": "Porter-Cable",
-      "logoUrl": "images/brands/porter-cable.svg",
+      "brandId": "steelman",
+      "brandName": "Steelman",
+      "logoUrl": "images/brands/steelman.svg",
       "count": 4
-    },
-    {
-      "brandId": "makita",
-      "brandName": "Makita",
-      "logoUrl": "images/brands/makita.svg",
-      "count": 2
-    },
-    {
-      "brandId": "paslode",
-      "brandName": "Paslode",
-      "logoUrl": "images/brands/paslode.svg",
-      "count": 2
     },
     {
       "brandId": "freeman",
       "brandName": "Freeman",
       "logoUrl": "images/brands/freeman.svg",
       "count": 2
-    },
-    {
-      "brandId": "senco",
-      "brandName": "Senco",
-      "logoUrl": "images/brands/senco.svg",
-      "count": 1
-    },
-    {
-      "brandId": "wen",
-      "brandName": "WEN",
-      "logoUrl": "images/brands/wen.svg",
-      "count": 1
     }
   ],
   "products": [

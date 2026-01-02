@@ -4,7 +4,7 @@
   "slug": "french-door",
   "path": "/categories/appliances/refrigerators/french-door",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T13:24:27.888590",
+  "lastUpdated": "2026-01-02T15:26:37.579078",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -24,7 +24,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 76
+    "totalResults": 78
   },
   "featuredBrands": [
     {
@@ -34,16 +34,16 @@
       "count": 17
     },
     {
+      "brandId": "ge",
+      "brandName": "GE",
+      "logoUrl": "images/brands/ge.svg",
+      "count": 16
+    },
+    {
       "brandId": "whirlpool",
       "brandName": "Whirlpool",
       "logoUrl": "images/brands/whirlpool.svg",
       "count": 15
-    },
-    {
-      "brandId": "ge",
-      "brandName": "GE",
-      "logoUrl": "images/brands/ge.svg",
-      "count": 14
     },
     {
       "brandId": "kitchenaid",
@@ -62,18 +62,6 @@
       "brandName": "Samsung",
       "logoUrl": "images/brands/samsung.svg",
       "count": 6
-    },
-    {
-      "brandId": "bosch",
-      "brandName": "Bosch",
-      "logoUrl": "images/brands/bosch.svg",
-      "count": 1
-    },
-    {
-      "brandId": "calefort",
-      "brandName": "Ca'Lefort",
-      "logoUrl": "images/brands/calefort.svg",
-      "count": 1
     }
   ],
   "products": [
@@ -1748,6 +1736,50 @@
         "currency": "USD"
       },
       "subcategory": "French Door"
+    },
+    {
+      "productId": "332464407",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "36 in 23.2 cu. ft. Counter-Depth Fingerprint Resistant 4-Door French-Door Refrigerator w/ Dual-Dispense AutoFill Pitcher",
+      "rating": {
+        "average": 4.692,
+        "count": 276
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0512e3d-13c3-402a-9e47-b2d3e994edba/svn/stainless-steel-ge-french-door-refrigerators-pje23bywfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 3959.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "332465544",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "36 in. 23.3 cu. ft. Smart Counter-Depth Fingerprint Resistant 4-Door French-Door Refrigerator with Door In Door",
+      "rating": {
+        "average": 4.6848,
+        "count": 92
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/02b7ebbd-0a2e-40f5-87e5-aa3f210ffed3/svn/stainless-steel-ge-french-door-refrigerators-pjd23bywfs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 4139.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
     }
   ]
 }

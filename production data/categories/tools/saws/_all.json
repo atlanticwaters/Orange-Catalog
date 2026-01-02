@@ -1,0 +1,3275 @@
+{
+  "categoryId": "tools/saws",
+  "name": "Saws",
+  "slug": "saws",
+  "path": "/categories/tools/saws",
+  "version": "1.0",
+  "lastUpdated": "2026-01-02T15:33:10.435056",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Tools",
+      "url": "/tools"
+    },
+    {
+      "label": "Saws",
+      "url": "/tools/saws"
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 151
+  },
+  "featuredBrands": [
+    {
+      "brandId": "milwaukee",
+      "brandName": "Milwaukee",
+      "logoUrl": "images/brands/milwaukee.svg",
+      "count": 41
+    },
+    {
+      "brandId": "dewalt",
+      "brandName": "DEWALT",
+      "logoUrl": "images/brands/dewalt.svg",
+      "count": 34
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
+      "count": 21
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
+      "count": 16
+    },
+    {
+      "brandId": "diablo",
+      "brandName": "DIABLO",
+      "logoUrl": "images/brands/diablo.svg",
+      "count": 10
+    },
+    {
+      "brandId": "hilti",
+      "brandName": "Hilti",
+      "logoUrl": "images/brands/hilti.svg",
+      "count": 7
+    }
+  ],
+  "filterOptions": {
+    "subcategories": [
+      {
+        "slug": "miter-saws",
+        "name": "Miter Saws",
+        "productCount": 29
+      },
+      {
+        "slug": "other",
+        "name": "Other",
+        "productCount": 27
+      },
+      {
+        "slug": "circular-saws",
+        "name": "Circular Saws",
+        "productCount": 22
+      },
+      {
+        "slug": "table-saws",
+        "name": "Table Saws",
+        "productCount": 20
+      },
+      {
+        "slug": "band-saws",
+        "name": "Band Saws",
+        "productCount": 18
+      },
+      {
+        "slug": "reciprocating-saws",
+        "name": "Reciprocating Saws",
+        "productCount": 18
+      },
+      {
+        "slug": "jigsaws",
+        "name": "Jigsaws",
+        "productCount": 17
+      }
+    ]
+  },
+  "products": [
+    {
+      "productId": "337113246",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Compact Bandsaw w/ 5.0 Ah Battery",
+      "rating": {
+        "average": 4.7125,
+        "count": 3910
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c88c6a50-c82e-4588-b927-4bf9229f200d/svn/milwaukee-portable-band-saws-2829-20-48-11-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311537759",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Compact Bandsaw (Tool-Only)",
+      "rating": {
+        "average": 4.7024,
+        "count": 1465
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1ca60977-ce11-452f-9013-f562aa666ca2/svn/milwaukee-portable-band-saws-2829-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330545757",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Deep Cut Band Saw (Tool-Only)",
+      "rating": {
+        "average": 4.6732,
+        "count": 1117
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ae8941e-2352-4724-b745-f1a9541c9d32/svn/milwaukee-portable-band-saws-2929-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309893852",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "14 in. 1 HP Bandsaw",
+      "rating": {
+        "average": 4.8289,
+        "count": 228
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fbfc69ed-c38f-492c-9b00-8fe58297fe25/svn/grizzly-industrial-stationary-band-saws-g0555-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 950.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337126517",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Deep Cut Band Saw w/ FORGE XC 8.0 Ah Battery",
+      "rating": {
+        "average": 4.7234,
+        "count": 1822
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c086b52a-e15d-4b42-89aa-8f4ff91a5c0b/svn/milwaukee-portable-band-saws-2929-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315086962",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw XC Kit with One 4.0 Ah Battery, Charger and Bag",
+      "rating": {
+        "average": 4.6784,
+        "count": 510
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/23a87f7c-bd47-48d4-910b-f82fffc7a48b/svn/milwaukee-portable-band-saws-2529-21xc-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337131805",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw XC Kit with Copper Tubing Cutter",
+      "rating": {
+        "average": 4.2218,
+        "count": 532
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e3cf597-27fd-42f3-b8fe-b5f6cf38dd67/svn/milwaukee-portable-band-saws-2529-21xc-2471-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315086839",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw (Tool-Only)",
+      "rating": {
+        "average": 4.6809,
+        "count": 749
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0cf7c25d-9eda-47a1-a103-426f4d2c49a3/svn/milwaukee-portable-band-saws-2529-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959118",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V 6.0 Ah MAX Output Lithium-Ion Batteries (2-Pack) with 18V Cordless Compact Band Saw",
+      "rating": {
+        "average": 4.5592,
+        "count": 844
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1eaafb40-13d5-46d1-bc08-1eef663d31aa/svn/ridgid-portable-band-saws-ac840060pn-r8604b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 468.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329477657",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX 3-3/8 in. Cordless Brushless Bandsaw (Tool-Only)",
+      "rating": {
+        "average": 4.5806,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/37235716-d1fe-422c-bf36-10e45a71be17/svn/dewalt-portable-band-saws-dcs378b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205503634",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "2.5 Amp 9 in. Corded Band Saw",
+      "rating": {
+        "average": 4.0635,
+        "count": 898
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4ac026f5-b8a4-42f1-8507-963c0da75e92/svn/ryobi-stationary-band-saws-bs904g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331615766",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "17 in. 2 HP Bandsaw with Resaw Fence and Bar",
+      "rating": {
+        "average": 4.1,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4e13b934-5860-4869-b275-b95e115f15d8/svn/grizzly-industrial-stationary-band-saws-g0513z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1450.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321573366",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 1/2 HP Bandsaw",
+      "rating": {
+        "average": 4.5099,
+        "count": 304
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b82f0e6-b159-4552-a3af-1b7225f4ba41/svn/grizzly-industrial-stationary-band-saws-g0948-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 445.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314686799",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "ATOMIC 20V MAX Cordless Brushless Compact 1-3/4 in. Bandsaw (Tool Only)",
+      "rating": {
+        "average": 4.6971,
+        "count": 175
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6d54db37-29b9-4ebb-b3f8-23d3bfd9aa4b/svn/dewalt-portable-band-saws-dcs377b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337131804",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Cordless Compact Band Saw XC Kit with Cut Off Saw, 4.0 Ah Battery, Charger and Bag",
+      "rating": {
+        "average": 4.3726,
+        "count": 1079
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f66c2541-ce21-4c17-b502-8fb3911a3532/svn/milwaukee-portable-band-saws-2529-21xc-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "323478266",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "2.8 Amp 9 in. Benchtop Band Saw",
+      "rating": {
+        "average": 4.2613,
+        "count": 287
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0973eddd-e9af-460d-813e-4da55e8ca452/svn/wen-stationary-band-saws-ba3959-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206526040",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless Deep Cut Band Saw (Tool Only)",
+      "rating": {
+        "average": 4.7425,
+        "count": 268
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e9fbcb09-ece4-41ec-959b-fd71bb34206d/svn/dewalt-portable-band-saws-dcs374b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308187655",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "35-3/8 in. 8/10 TPI Compact Extreme Thick Metal Cutting Band Saw Blade (3-Pack) For M18 FUEL/Corded Compact Bandsaw",
+      "rating": {
+        "average": 4.2143,
+        "count": 490
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f91c18f2-d658-4866-bda6-4871ff196cc6/svn/milwaukee-band-saw-blade-48-39-0609-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 36.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442741",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium-Ion Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw with 20V 5 Ah & 2 Ah Batteries & Charger",
+      "rating": {
+        "average": 4.6487,
+        "count": 928
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bf0204fd-964d-4e2c-a0c3-cec263d3bc76/svn/dewalt-circular-saws-dcs565bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337133622",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless 5-3/8 in. Cordless Circular Saw Kit with Cut Off Saw Batteries and Charger",
+      "rating": {
+        "average": 4.3406,
+        "count": 1004
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c17f5d1-4329-4b3b-9460-9a1de164ccb9/svn/milwaukee-circular-saws-2521-21ho-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305111804",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "Tracking Point 7-1/4 in. x 24-Tooth Framing Circular Saw Blade (3-Pack)",
+      "rating": {
+        "average": 4.6956,
+        "count": 2750
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/faf16ca8-c57a-42bd-b591-f1bdd7e539a1/svn/diablo-circular-saw-blades-d0724r3-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 26.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100627136",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "7-1/4in. x 60-Tooth Ultra Finish Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7637,
+        "count": 1934
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/960c844b-b84f-4f74-843c-77bfb3e38cda/svn/diablo-circular-saw-blades-d0760r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100017783",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "7-1/4in. x 40-Tooth Finish Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7088,
+        "count": 1188
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc5d3ebb-d026-4c59-87ee-d6bfe7f511bb/svn/diablo-circular-saw-blades-d0740r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 14.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100098836",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "6-1/2in. x 24-Teeth Framing Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.6662,
+        "count": 743
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c4ab4c5-e607-4001-9864-ff9441aa4dd6/svn/diablo-circular-saw-blades-d0624r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 10.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305505790",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "12 in. x 44-Tooth General Purpose Circular Saw Blade Value Pack (2-Pack)",
+      "rating": {
+        "average": 4.769,
+        "count": 316
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6835d3b1-b851-4466-9c3c-5e166d7b0794/svn/diablo-table-saw-blades-miter-saw-blades-d124444vp-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 54.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305111806",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "6-1/2in. x 60-Tooth Ultra Finish Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7637,
+        "count": 1900
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cd4b6716-8ab5-4592-9a0e-b007a3b19aac/svn/diablo-circular-saw-blades-d0660r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 22.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202035229",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "6-1/2in. x 40-Tooth Finish Trim Circular Saw Blade for Wood",
+      "rating": {
+        "average": 4.7887,
+        "count": 691
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cabd0ef4-3d5b-4a5d-8f46-61a310dbeb4b/svn/diablo-circular-saw-blades-d0641r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 19.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301282463",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V X2 LXT 5.0Ah Lithium-Ion (36V) Brushless Cordless Rear Handle 7-1/4 in. Circular Saw Kit",
+      "rating": {
+        "average": 4.7444,
+        "count": 1737
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cfc23621-2616-4c84-84a1-b9ab570dfbdd/svn/makita-circular-saws-xsr01pt-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314001465",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Brushless 6-1/2 in. Sidewinder Style Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.6037,
+        "count": 4209
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c9de6b3b-65a7-4ed9-be14-751c46db9af9/svn/dewalt-circular-saws-dcs565b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329716947",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 6-1/2 in. Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5901,
+        "count": 705
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7a582fa8-4aba-4ff4-b09c-0ead3b2c35ec/svn/milwaukee-circular-saws-2833-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958982",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless 7-1/4 in. Circular Saw",
+      "rating": {
+        "average": 4.6692,
+        "count": 931
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2640d7c4-5946-4fd5-b56a-76f6597cd749/svn/ridgid-circular-saws-ac8609340sb-r8657b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 328.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337125811",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless 6-1/2 in. Circular Saw w/ FORGE XC 8.0 Ah Battery",
+      "rating": {
+        "average": 4.7156,
+        "count": 1343
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/27920752-d7ec-4aac-ac6c-07c3f10150f5/svn/milwaukee-circular-saws-2833-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312741235",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless Brushless 7-1/4 in. Circular Saw with Brake (Tool Only)",
+      "rating": {
+        "average": 4.6893,
+        "count": 1815
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/688626c2-caac-4d6f-a3fd-041c94acecf3/svn/dewalt-circular-saws-dcs578b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196549",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless 6-1/2 in. Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5737,
+        "count": 4781
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/469d7953-7d80-4c2b-b268-94a3caef0fe8/svn/milwaukee-circular-saws-2630-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332105045",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless 7-1/4 in. Rear Handle Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7093,
+        "count": 86
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6572d0d6-ef6d-4e2c-8906-cef94048bf22/svn/milwaukee-circular-saws-2930-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329790381",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 7-1/4 in. Circular Saw (Tool-Only)",
+      "rating": {
+        "average": 4.622,
+        "count": 701
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/62e5f477-54d8-4f14-ab3c-43861e27058a/svn/milwaukee-circular-saws-2834-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203164241",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless 6.5 in. Sidewinder Style Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.553,
+        "count": 10626
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ad370214-3e66-4b07-b532-216be0ec783f/svn/dewalt-circular-saws-dcs391b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331725327",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless 7-1/4 in. Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.5321,
+        "count": 109
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/47409652-658c-4049-a944-25a20a1140ad/svn/ryobi-circular-saws-pblcs302b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320033040",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact 6-1/2 in. Circular Saw (Tool Only)",
+      "rating": {
+        "average": 4.5597,
+        "count": 913
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1bcbcb0e-afdc-4528-9a3c-02d37853b768/svn/ryobi-circular-saws-psbcs01b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331831089",
+      "modelNumber": "",
+      "brand": "SKYSHALO",
+      "title": "Electric Concrete Saw, 12 in. 1,800 Watt 15 Amp Motor Circular Saw Cutter with Max. 4.5 in. Adjustable Cutting Depth Wet",
+      "rating": {
+        "average": 4.1818,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cbafa18a-8bb9-4426-9839-c4f3f79b75f3/svn/skyshalo-concrete-saws-ddhntj1800w12hek8v1-0718-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 164.69,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305966991",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX XR Cordless Brushless Jigsaw (Tool Only)",
+      "rating": {
+        "average": 4.793,
+        "count": 1575
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/568caae1-3b05-4444-a7f7-da8a638381be/svn/dewalt-jigsaws-dcs334b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 239.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305658170",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Jig Saw (Tool-Only)",
+      "rating": {
+        "average": 4.8039,
+        "count": 3295
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/75205b75-e01b-4bb4-b3ac-07adbe3e9302/svn/milwaukee-jigsaws-2737-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314109552",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.7329,
+        "count": 1082
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/69f755a5-f573-4e6d-9d6e-3b0a83d80a0b/svn/ryobi-jigsaws-pbljs01b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442787",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX XR Lithium-Ion Cordless Brushless Jigsaw with 20-Volt MAX 5.0 Ah and 2.0 Ah Battery Packs and Charger",
+      "rating": {
+        "average": 4.7845,
+        "count": 1346
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fdd57254-a991-4943-a8cf-4a06708ed4ef/svn/dewalt-jigsaws-dcs334bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318898528",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.7597,
+        "count": 1386
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d8f04eff-d9ee-486d-b617-10118f029358/svn/ryobi-jigsaws-pcl525b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 69.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337132198",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Fuel Lithium-Ion Cordless Jig Saw with HIGH OUTPUT XC5. 0 Starter Kit",
+      "rating": {
+        "average": 4.6114,
+        "count": 175
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5d0dbb28-95ed-42f4-bda4-b24949d86723/svn/milwaukee-jigsaws-2545-20-48-59-2450b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 469.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641130",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless Jig Saw with (2) 4.0 Ah Batteries, Charger, and Bag",
+      "rating": {
+        "average": 4.7867,
+        "count": 3531
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/bc310095-e989-4aab-b66c-7a5d351a2e4e/svn/ridgid-jigsaws-r86344b-ac93044sbn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 456.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "320221338",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "18V LXT Lithium-Ion Brushless Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.7482,
+        "count": 139
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f8a033d-bba4-4f41-ad06-117b3b90961a/svn/makita-jigsaws-xvj04z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203316449",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.6815,
+        "count": 1058
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e5253806-34ec-45c5-bbb3-ea48cd568fba/svn/dewalt-jigsaws-dcs331b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "326190782",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Fuel Lithium-Ion Cordless Jig Saw (Tool-Only)",
+      "rating": {
+        "average": 4.6928,
+        "count": 332
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fbcc3d0d-1a76-4b41-a4b7-bc729bf98b11/svn/milwaukee-jigsaws-2545-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336959124",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V 6.0 Ah MAX Output Lithium-Ion Batteries (2-Pack) with 18V Brushless Cordless Jig Saw",
+      "rating": {
+        "average": 4.7393,
+        "count": 629
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7bb45809-8695-4fa1-9623-01caba05ae6d/svn/ridgid-jigsaws-ac840060pn-r86344b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 448.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "322135296",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Barrel Grip Jig Saw w/5.0Ah Battery Starter Kit",
+      "rating": {
+        "average": 4.5835,
+        "count": 1402
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5caeab47-723e-4cb2-a513-a80af2eb5fed/svn/milwaukee-jigsaws-48-59-1850-2737b-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 439.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205105611",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "4.8 Amp Corded Variable Speed Orbital Jig Saw",
+      "rating": {
+        "average": 4.3013,
+        "count": 1570
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/132e0cec-9f9b-4508-a640-54749501c8e8/svn/ryobi-jigsaws-js481lg-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329429373",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact Barrel Grip Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.5833,
+        "count": 144
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a0494ea7-ff56-44b5-976e-52b830a7228a/svn/ryobi-jigsaws-psbjs01b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339742234",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless Barrel Grip Jig Saw\u00a0with FREE 4.0 Ah Lithium-Ion Battery",
+      "rating": {
+        "average": 4.5385,
+        "count": 104
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ee6558b8-3ce0-448c-b4fb-b6c421770422/svn/ridgid-jigsaws-r86346b-ac87004-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 139.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325653676",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless Barrel Grip Jig Saw (Tool Only)",
+      "rating": {
+        "average": 4.4273,
+        "count": 110
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8e550f5d-27de-4df0-a94d-77b14b1f4480/svn/ridgid-jigsaws-r86346b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313115321",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "T-Shank Jig Saw Blade Set (20-Piece)",
+      "rating": {
+        "average": 4.7063,
+        "count": 1597
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/be4ffdf3-7234-43a5-974c-41d7446e9d7d/svn/diablo-jigsaw-blade-djt20s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 25.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442847",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "60V Lithium-Ion 12 in. Cordless Sliding Miter Saw Kit and Compact Miter Saw Stand with 9.0Ah Battery Pack",
+      "rating": {
+        "average": 4.7486,
+        "count": 533
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1100a522-201c-446d-8357-7430813bbdba/svn/dewalt-miter-saws-dcs781x1wdwx724-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 879.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331711504",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX XR Cordless 10 in. Dual Bevel Fixed Miter Saw (Tool Only)",
+      "rating": {
+        "average": 4.7619,
+        "count": 21
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/29f93a51-2df5-4a3f-98a0-389729f6a486/svn/dewalt-miter-saws-dcs714b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 369.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321488310",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 12 in. Double Bevel Sliding Compound Miter Saw with XPS technology, Blade Wrench and Material Clamp",
+      "rating": {
+        "average": 4.6804,
+        "count": 1261
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b85e3118-6e96-4c1a-9f4c-f4879ec733f8/svn/dewalt-miter-saws-dws780-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 499.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641117",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Miter Saw with Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Sliding Miter Saw",
+      "rating": {
+        "average": 4.6613,
+        "count": 933
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/89ef215e-a0d1-4527-b5f0-d74003f0f839/svn/ridgid-miter-saws-ac8609340sb-r48607b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 478.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309814771",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with One 12.0Ah Battery",
+      "rating": {
+        "average": 4.3085,
+        "count": 376
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/729e641d-d6fb-4b85-9ef9-caf17803dcab/svn/milwaukee-miter-saws-2739-21hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 749.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310710519",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "18V ONE+ Cordless 7-1/4 in. Compound Miter Saw with 4.0 Ah Lithium-Ion Battery and 18V Charger",
+      "rating": {
+        "average": 4.5231,
+        "count": 931
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2400eae9-0360-44e7-9d78-b547f9eed5cb/svn/ryobi-miter-saws-p553kn-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 159.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321488482",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 12 in. Double Bevel Sliding Compound Miter Saw, Blade Wrench and Material Clamp",
+      "rating": {
+        "average": 4.7546,
+        "count": 4205
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b6b73f8-0b36-4aa4-9219-2eabe2239b63/svn/dewalt-miter-saws-dws779-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 431.04,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958534",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 12 in. Corded Sliding Miter Saw and Universal Mobile Miter Saw Stand with Mounting Braces",
+      "rating": {
+        "average": 4.6272,
+        "count": 6531
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e0a74346-089c-4a63-b9a9-938f4399eb45/svn/ridgid-miter-saws-r4222-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 588.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306939244",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp Corded 12 in. Dual Bevel Sliding Miter Saw with 70 Deg. Miter Capacity and LED Cut Line Indicator",
+      "rating": {
+        "average": 4.3928,
+        "count": 2546
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4c955a06-76a1-4193-9863-633f88c24aec/svn/ridgid-miter-saws-r4222-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312596511",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V 10 in. Lithium-Ion Brushless Cordless Dual Bevel Sliding Compound Miter Saw Kit with One 8.0 Ah Battery",
+      "rating": {
+        "average": 4.4823,
+        "count": 1748
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/760176da-04d7-4b2a-8a34-9708fe9ec3e1/svn/milwaukee-miter-saws-2734-21-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306939211",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "14 Amp Corded 10 in. Compound Miter Saw with LED Cutline Indicator",
+      "rating": {
+        "average": 4.5664,
+        "count": 1612
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/96944e01-0d09-420f-a67c-c7fff93ddc29/svn/ryobi-miter-saws-ts1346-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313130863",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 12 in. Dual Bevel Sliding Compound Miter Saw Kit with Stand and Battery",
+      "rating": {
+        "average": 4.4418,
+        "count": 2218
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fda4d78a-f801-4872-96c7-cf4cfe128065/svn/milwaukee-miter-saws-2739-21hd-48-08-0551-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 929.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958639",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Brushless Cordless 7-1/4 in. Dual Bevel Sliding Miter Saw (Tool Only) with Universal Mobile Miter Saw Stand",
+      "rating": {
+        "average": 4.6526,
+        "count": 5227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9f397399-2617-43c5-b378-6205985e5f94/svn/ridgid-miter-saws-r48607b-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 518.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958552",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp Corded 12 in. Dual Bevel Miter Saw with LED and Universal Mobile Miter Saw Stand with Mounting Braces",
+      "rating": {
+        "average": 4.6496,
+        "count": 5114
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/304a04be-5af0-43a4-a2fe-d6574c8def0a/svn/ridgid-miter-saws-r4123-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 538.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "306939218",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "15 Amp 10 in. Corded Sliding Compound Miter Saw with LED Cutline Indicator",
+      "rating": {
+        "average": 4.5834,
+        "count": 4386
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2662dcf2-7b03-43fb-b06c-dbe6c06615d1/svn/ryobi-miter-saws-tss103-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 269.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309749587",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 12 in. Single Bevel Compound Miter Saw",
+      "rating": {
+        "average": 4.7033,
+        "count": 1018
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/285ea7c6-6fb6-480f-ae7a-e6e4d555dc51/svn/dewalt-miter-saws-dws715-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302874550",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless 7-1/4 in. Dual Bevel Sliding Compound Miter Saw (Tool-Only)",
+      "rating": {
+        "average": 4.4757,
+        "count": 1869
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/30991cc5-45ce-4e3a-8125-b0fa94edcc75/svn/milwaukee-miter-saws-2733-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 449.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206468113",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless 7-1/4 in. Sliding Miter Saw (Tool Only)",
+      "rating": {
+        "average": 4.7583,
+        "count": 542
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c8eeeb9-be63-4fa0-a968-a9fb61e733e6/svn/dewalt-miter-saws-dcs361b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 369.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206992161",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "Foldable Mobile Miter Saw Stand with Mounting Braces",
+      "rating": {
+        "average": 4.5803,
+        "count": 5678
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/69b36108-5f6d-481e-b07c-c84089f771aa/svn/ridgid-tool-stands-ac9946-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202935041",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "32-1/2 in. x 60 in. Rolling Miter Saw Stand with 300 lbs. Capacity",
+      "rating": {
+        "average": 4.3526,
+        "count": 3015
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0624620-dafb-4731-a5cf-f18fcf8b5a2e/svn/dewalt-tool-stands-dwx726-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205642391",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "Foldable Miter Saw QUICKSTAND",
+      "rating": {
+        "average": 4.6108,
+        "count": 3006
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca05e224-77a2-453d-903b-e198020c22ef/svn/ryobi-tool-stands-a18ms01g-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202818498",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "29.8 lbs. Compact Miter Saw Stand with 500 lbs. Capacity",
+      "rating": {
+        "average": 4.7679,
+        "count": 530
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7e19c26f-37ff-42ce-8be4-3f429abd127b/svn/dewalt-tool-stands-dwx724-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958647",
+      "modelNumber": "",
+      "brand": "Unknown",
+      "title": "Universal Mobile Miter Saw Stand with Mounting Braces and Black Fine Point Permanent Workshop Marker",
+      "rating": {
+        "average": 4.6702,
+        "count": 5207
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f1c82e30-6506-4eb1-8e4b-3ba9c226176b/svn/tool-stands-ac9946-rpm121-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 189.92,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "301804452",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Folding Miter Saw Stand",
+      "rating": {
+        "average": 4.0465,
+        "count": 495
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd0b501f-36c3-4146-9387-94a3b999f4a8/svn/milwaukee-tool-stands-48-08-0551-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 259.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203899895",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Portable Folding Gravity Rise Miter Saw Stand with Wheels",
+      "rating": {
+        "average": 4.6561,
+        "count": 1137
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6c259498-5be5-4af3-b3ad-25e2eaf695e4/svn/bosch-tool-stands-t4b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 319.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202665436",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "29 lbs. Heavy Duty Miter Saw Stand with 500 lbs. Capacity",
+      "rating": {
+        "average": 4.6993,
+        "count": 2268
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0f5a46b7-066b-4833-a639-3355c84192f7/svn/dewalt-tool-stands-dwx723-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202818490",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15.4 lbs. Heavy Duty Work Stand with Miter Saw Mounting Brackets",
+      "rating": {
+        "average": 4.6331,
+        "count": 338
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/922251e9-f938-4550-9ca1-13bae7054d82/svn/dewalt-tool-stands-dwx725b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 126.31,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316950937",
+      "modelNumber": "",
+      "brand": "WEN",
+      "title": "Multi-Purpose Rolling Planer and Miter Saw Tool Stand with Extension Rollers",
+      "rating": {
+        "average": 4.5,
+        "count": 298
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/49e79050-683c-4813-a020-21edc2864e0f/svn/wen-tool-stands-msa658t-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 174.77,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202516703",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "Miter Saw Workstation Tool Mounting Brackets",
+      "rating": {
+        "average": 4.0686,
+        "count": 525
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/73380b25-d5db-4dee-bd98-fb8ecea3b171/svn/dewalt-tool-stands-dw7231-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 38.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302766974",
+      "modelNumber": "",
+      "brand": "AIRCAT",
+      "title": "Low Vibration Riciprocating Saw",
+      "rating": {
+        "average": 4.8182,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1b602098-41e2-4ce5-894f-0ea59247b44e/svn/aircat-air-cut-off-tools-6350-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 136.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300010514",
+      "modelNumber": "",
+      "brand": "EMAX",
+      "title": "Industrial Duty High Speed 90 psi Auto Body Saw",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/06eb49c2-0ae5-47d4-b409-c31094ec537a/svn/emax-air-cut-off-tools-hatbs10s1p-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 107.23,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100008676",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "7-1/4in. x 24-Teeth Tracking Point Framing Saw Blade for Wood",
+      "rating": {
+        "average": 4.726,
+        "count": 3296
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/377d7d2f-4117-4ede-8f0f-0cc80432c020/svn/diablo-circular-saw-blades-d0724r-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 9.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "100033809",
+      "modelNumber": "",
+      "brand": "DIABLO",
+      "title": "10in. x 60-Tooth Fine Finish Saw Blade for Wood",
+      "rating": {
+        "average": 4.81,
+        "count": 1258
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/143444f1-c0f2-430f-83dd-82caf2795602/svn/diablo-table-saw-blades-miter-saw-blades-d1060x-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 42.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312620578",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (3) Cutting Wheels",
+      "rating": {
+        "average": 4.2717,
+        "count": 946
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a1c38fe3-d17f-4ad7-b79e-8f9ac6465351/svn/ridgid-power-cutting-tools-r87547b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641120",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Subcompact Multi-Material Saw",
+      "rating": {
+        "average": 4.4696,
+        "count": 1248
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e28a6756-922e-4e34-9e22-e0bcd2a45aa3/svn/ridgid-power-cutting-tools-ac8609340sb-r87547b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 278.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958622",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only) with (6) Cutting Wheels",
+      "rating": {
+        "average": 4.206,
+        "count": 796
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/20baa484-77bd-4275-9e2d-93343dcc08cf/svn/ridgid-power-cutting-tools-r87547b-ac7cw32-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 148.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "325278167",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "Hole Dozer General Purpose Bi-Metal Hole Saw Set (39-Piece)",
+      "rating": {
+        "average": 4.4218,
+        "count": 4182
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cb614dc4-a56e-4869-81a6-e9ef9cff660c/svn/milwaukee-hole-saws-bits-49-22-4185-49-22-4020-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "319396559",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "BIG HAWG Carbide Hole Saw Kit (18-Piece)",
+      "rating": {
+        "average": 4.8211,
+        "count": 369
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8d77bcf2-0cd9-42f5-9765-491514eb7856/svn/milwaukee-hole-saws-bits-49-56-9290-49-56-9285-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 219.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321574659",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 2 HP 115V/230V Cabinet Saw",
+      "rating": {
+        "average": 4.5217,
+        "count": 46
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8ffa62d1-a1de-45e2-a4a0-26606d34416c/svn/grizzly-industrial-stationary-table-saws-g0899-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1900.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305663849",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 FUEL 12V Lithium-Ion Brushless Cordless 3 in. Cut Off Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5059,
+        "count": 3619
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d2987a20-1de6-411a-8c58-5bb033a04f45/svn/milwaukee-circular-saws-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321036665",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 6-1/2 in. Plunge Cut Track Saw with 55 in. Track Saw Guide Rail",
+      "rating": {
+        "average": 4.6076,
+        "count": 395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6edb524c-2792-4e27-8ef2-01f7a355ebf9/svn/milwaukee-circular-saws-2831-20-48-08-0571-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "315442335",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Cordless Brushless 6-1/2 in. Plunge Cut Track Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7527,
+        "count": 457
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5e9f4342-69fe-4ba6-9baf-4a5b0a18e59d/svn/milwaukee-circular-saws-2831-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 429.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311528269",
+      "modelNumber": "",
+      "brand": "ECHO",
+      "title": "14 in. 73.5 cc 2-Stroke Gas Concrete Masonry Pro Cut-Off Saw with Decompression Valve and Abrasive Blade and Water Valve",
+      "rating": {
+        "average": 4.7419,
+        "count": 31
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3acc15b5-6c5e-4064-9159-8685383ba14a/svn/echo-concrete-saws-csg-7410-14-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317298712",
+      "modelNumber": "",
+      "brand": "Evolution Power Tools",
+      "title": "12 In. Electric Concrete Cut-Off Saw, With 12 In. Diamond Blade",
+      "rating": {
+        "average": 4.434,
+        "count": 53
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3df41f38-dc65-48db-a2e1-12d83f2eab9a/svn/evolution-power-tools-concrete-saws-r300dct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 192.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027119",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 700X 32 in. x 10.3 in. Hand-Held Pull Start Concrete Gas Saw with 14 in. Equdist SPX Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5f929a64-38f9-4fed-b1fc-e022af8c8c35/svn/hilti-concrete-saws-5001793-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1637.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "304101719",
+      "modelNumber": "",
+      "brand": "Makita",
+      "title": "5 in. Dry Masonry Saw with Dust Extraction",
+      "rating": {
+        "average": 4.2,
+        "count": 40
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0f509e07-9485-4700-a316-986ba6404564/svn/makita-concrete-saws-4100kb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 251.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "308737328",
+      "modelNumber": "",
+      "brand": "Tomahawk Power",
+      "title": "6 in. 3.5 HP Honda Early Entry Walk Behind Green Concrete Saw with GX120 Honda Engine",
+      "rating": {
+        "average": 4.4545,
+        "count": 11
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/526a7afe-86f8-4ca3-b920-517ea1dfd9d1/svn/tomahawk-power-concrete-saws-tfs6h-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2533.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317283440",
+      "modelNumber": "",
+      "brand": "Evolution Power Tools",
+      "title": "9 in. Electric Concrete Saw",
+      "rating": {
+        "average": 4.2535,
+        "count": 71
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/304da951-0d2a-4e84-b9fb-a60ba2270b96/svn/evolution-power-tools-concrete-saws-r230dct-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 138.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338910973",
+      "modelNumber": "",
+      "brand": "Stark",
+      "title": "Gas 13 HP EPA 40 in. x 43 in. Walk-Behind Concrete Saw with Steel Handle",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f246338a-ccb0-4ad3-9df7-a151c37207ef/svn/stark-concrete-saws-61060-th-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1649.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "321375822",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "12 in. DSH 600-X Hand-Held Concrete Gas Saw with Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3c36c693-e184-4f98-9826-a73fa194f71e/svn/hilti-concrete-saws-3563745-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1569.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311687601",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DCH 300-X 12 in. Hand Held Electric Diamond Concrete Cutting Saw",
+      "rating": {
+        "average": 5.0,
+        "count": 3
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/287ca19e-7cb6-4271-9b77-4ba2b4b2bd35/svn/hilti-concrete-saws-3625041-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1919.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "311687904",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DCH 300-X 12 in. Electric Hand Held Diamond Saw Kit with EQD SPX Universal Blade and Twist Lock",
+      "rating": {
+        "average": 2.75,
+        "count": 4
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b4ff99c-25ae-467f-8b32-f4bf8a4e7d75/svn/hilti-concrete-saws-3625042-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2069.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027169",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. Equidist SPX Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/871894c8-3961-4475-8821-ed86573ebcdd/svn/hilti-concrete-saws-5001796-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2109.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027155",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 700X 32 in. x 10.3 in. Hand-Held Pull Start Concrete Gas Saw with (10) 14 in. Metal Deck Cutting Abrasive Blades",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a948b48b-4979-4010-8fef-1e923025ef2d/svn/hilti-concrete-saws-5001795-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1697.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339027186",
+      "modelNumber": "",
+      "brand": "Hilti",
+      "title": "DSH 900X 33.7 in. x 10.3 in. Pull Start Hand-Held Concrete Gas Saw with 16 in. SPX Metal Cutting Diamond Blade",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/696a7149-ddc2-4ab1-b39d-6501894333d0/svn/hilti-concrete-saws-5001797-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2099.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337129316",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander Kit W/ Batteries, Accessories, Charger, Bag & Cut Off Saw",
+      "rating": {
+        "average": 4.3693,
+        "count": 1140
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f049efb1-813b-4794-927d-02710de906a0/svn/milwaukee-polishers-2438-22x-2522-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331594109",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lith-Ion Brushless Cordless Super SAWZALL Reciprocating Saw w/M18 REDLITHIUM FORGE XC 8.0 Ah Battery Pack",
+      "rating": {
+        "average": 4.7851,
+        "count": 1373
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/785f777c-d8f8-4976-8ef4-16bf9b0a477d/svn/milwaukee-reciprocating-saws-2722-20-48-11-1881-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337442896",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20-Volt MAX Lithium-Ion Cordless Brushless Reciprocating Saw with 20V MAX 5.0 Ah and 2.0 Ah Battery Packs and Charger",
+      "rating": {
+        "average": 4.6525,
+        "count": 708
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/633554ed-4b9e-4f52-af86-1743123a0436/svn/dewalt-reciprocating-saws-dcs382bwb225-2c-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310649299",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Lithium Ion Cordless Grease Gun Kit, 20V MAX Cordless Reciprocating Saw, (1) 20V 4.0Ah Battery, and Charger",
+      "rating": {
+        "average": 4.6332,
+        "count": 1723
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8df1ac33-3828-456a-9545-047e955f97c4/svn/dewalt-air-grease-guns-dcgg571m1w380b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 478.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "314292782",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL GEN-2 18V Lithium-Ion Brushless Cordless SAWZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.8095,
+        "count": 1905
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/82b68600-8cf9-47ad-9280-0e4589037575/svn/milwaukee-reciprocating-saws-2821-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "316250546",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Brushless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6496,
+        "count": 528
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/46e0c071-5ef1-4d11-83a9-5bf8e8d12708/svn/dewalt-reciprocating-saws-dcs382b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "336958980",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Reciprocating Saw",
+      "rating": {
+        "average": 4.7257,
+        "count": 813
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c256f87c-bee9-4880-8df5-85cf5c9adc73/svn/ridgid-reciprocating-saws-ac8609340sb-r8647b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 318.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "302190765",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7888,
+        "count": 6069
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a3e84f60-44f0-419f-b1ba-e015e46b09e9/svn/milwaukee-reciprocating-saws-2719-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331593998",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless HACKZALL Reciprocating Saw with One 5.0Ah Battery and Charger",
+      "rating": {
+        "average": 4.7217,
+        "count": 2760
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a214bef-eecf-40c4-b1be-f13f72d9f01c/svn/milwaukee-reciprocating-saws-2719-20-48-59-1850-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 409.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307815760",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL 18V Lithium-Ion Brushless Cordless Super SAWZALL Orbital Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7604,
+        "count": 1035
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c6047e76-a7b7-43b5-a53c-40ff84eaf497/svn/milwaukee-reciprocating-saws-2722-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "317987585",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Cordless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.5801,
+        "count": 2141
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5b8828aa-e6fb-42b8-b5bf-c8638aefd4d0/svn/ryobi-reciprocating-saws-pcl515b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 79.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312742066",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless Brushless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6761,
+        "count": 1655
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/76ea67c1-ee7b-485f-947a-4cf061877a88/svn/dewalt-reciprocating-saws-dcs389b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203164237",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "20V MAX Cordless Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.5957,
+        "count": 14999
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/56a35d1c-b6ef-4231-869b-5a24df325f6e/svn/dewalt-reciprocating-saws-dcs380b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 129.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337641114",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless One-Handed Reciprocating Saw with 18V (2) 4.0 Ah Batteries and Charger Kit",
+      "rating": {
+        "average": 4.7801,
+        "count": 3824
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f900f1f1-3300-43e9-8cfc-27fdb0f444a1/svn/ridgid-reciprocating-saws-ac93044sbn-r8648b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 376.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205482388",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless SAWZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.5837,
+        "count": 4096
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3922c83-cf48-4066-9cda-9dd3cdf990bb/svn/milwaukee-reciprocating-saws-2621-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "330351033",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V Cordless Reciprocating Saw Kit with 4.0 Ah Battery and Charger",
+      "rating": {
+        "average": 4.7523,
+        "count": 327
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/af957b02-1069-4434-bab5-3468583e7ac6/svn/ridgid-reciprocating-saws-r8646k-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "318370095",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "18V SubCompact Brushless Cordless One-Handed Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6575,
+        "count": 765
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8fd9aa9f-1f18-4bdd-80b6-8b3c6d548440/svn/ridgid-reciprocating-saws-r8648b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 99.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "202196547",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 18V Lithium-Ion Cordless HACKZALL Reciprocating Saw (Tool-Only)",
+      "rating": {
+        "average": 4.7619,
+        "count": 2402
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/113ac55d-189f-4c98-801c-c21419b68792/svn/milwaukee-reciprocating-saws-2625-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "329062475",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Brushless Cordless Compact One-Handed Reciprocating Saw (Tool Only)",
+      "rating": {
+        "average": 4.6667,
+        "count": 231
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a2d0dae1-6be5-4974-9eea-5ac113f9e107/svn/ryobi-reciprocating-saws-psbrs02b-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 119.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309415135",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Corded Pro Jobsite Table Saw with Stand",
+      "rating": {
+        "average": 4.2062,
+        "count": 3050
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/168e4060-a20d-4665-9db6-29e67b268842/svn/ridgid-portable-table-saws-r4514-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 549.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305056992",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL ONE-KEY 18- volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw Kit W/(1) 12.0Ah Battery & Rapid Charger",
+      "rating": {
+        "average": 4.6084,
+        "count": 1075
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c987f098-276e-4d2e-8d8f-fcd93fbe524c/svn/milwaukee-portable-table-saws-2736-21hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "204512007",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 10 in. Job Site Table Saw with Rolling Stand",
+      "rating": {
+        "average": 4.6818,
+        "count": 2850
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/32a2d28a-5494-4ca7-87db-4d3fd8a24bc9/svn/dewalt-portable-table-saws-dwe7491rs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 699.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "312046353",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "FLEXVOLT 60V MAX Cordless Brushless 8-1/4 in. Table Saw Kit and (2) FLEXVOLT 6.0Ah Batteries",
+      "rating": {
+        "average": 4.6312,
+        "count": 1250
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fb026823-aa8c-471d-a747-4faea3884f42/svn/dewalt-stationary-table-saws-dcs7485w6062-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 647.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310178475",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 8-1/4 in. Compact Portable Jobsite Tablesaw (Stand Not Included)",
+      "rating": {
+        "average": 4.6185,
+        "count": 1224
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/6b3c1f2e-e9d5-4781-b817-d7e88b1922a7/svn/dewalt-portable-table-saws-dwe7485-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 349.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313820771",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 8-1/4 in. Compact Jobsite Tablesaw with Compact Table Saw Stand",
+      "rating": {
+        "average": 4.6873,
+        "count": 678
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/2876dcd6-6cc0-4d88-a1ae-dd147a58d1f9/svn/dewalt-portable-table-saws-dwe7485ws-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 469.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309412837",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "13 Amp 8-1/4 in. Compact Portable Corded Jobsite Table Saw (No Stand)",
+      "rating": {
+        "average": 4.443,
+        "count": 2192
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d0666fc0-6f0f-4cad-919e-7d226c632bb1/svn/ryobi-portable-table-saws-rts08-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309412842",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "15 Amp 10 in. Compact Portable Corded Jobsite Table Saw with Folding Stand",
+      "rating": {
+        "average": 4.2494,
+        "count": 3044
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/194be50c-9708-4477-af55-3ffcfc98d740/svn/ryobi-portable-table-saws-rts12-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309412848",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "15 Amp 10 in. Expanded Capacity Portable Corded Table Saw With Rolling Stand",
+      "rating": {
+        "average": 4.2227,
+        "count": 2905
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/364bcf6e-3237-4e84-980b-0a569a5b05bf/svn/ryobi-portable-table-saws-rts23-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 329.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "309413142",
+      "modelNumber": "",
+      "brand": "RIDGID",
+      "title": "15 Amp 10 in. Portable Corded Jobsite Table Saw with Folding Stand",
+      "rating": {
+        "average": 4.3161,
+        "count": 813
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d011379b-2593-4d0e-a111-4789a4156c2e/svn/ridgid-portable-table-saws-r4518-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 359.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "310438324",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 2 HP 120V Hybrid Table Saw w/ T-Shaped Fence",
+      "rating": {
+        "average": 4.5936,
+        "count": 406
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a1de2285-e766-4bce-8a5f-419c617677d1/svn/grizzly-industrial-stationary-table-saws-g0771z-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1470.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "313513771",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "15 Amp Corded 8-1/4 in. Compact Jobsite Table Saw and Compact Table Saw Stand",
+      "rating": {
+        "average": 4.5892,
+        "count": 1451
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d8637699-862c-467a-ae91-b432b3b38321/svn/dewalt-portable-table-saws-dwe7485wdw7451-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 423.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "331596098",
+      "modelNumber": "",
+      "brand": "Grizzly Industrial",
+      "title": "10 in. 2 HP Open-Stand Hybrid Table Saw",
+      "rating": {
+        "average": 4.4314,
+        "count": 51
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/8cc78f81-9fc1-43e8-82d9-f71757a393d1/svn/grizzly-industrial-stationary-table-saws-g0962-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1195.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "307744663",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only)",
+      "rating": {
+        "average": 4.637,
+        "count": 1077
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cf2162d4-3c02-4c4b-8734-3b72cc4f84d3/svn/milwaukee-portable-table-saws-2736-20-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 599.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337133315",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "M18 FUEL ONE-KEY 18-Volt Lithium-Ion Brushless Cordless 8-1/4 in. Table Saw (Tool-Only) & 8-1/4 in Blade",
+      "rating": {
+        "average": 4.0,
+        "count": 1
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a5e7843-c869-475f-aabe-36248571f4c8/svn/milwaukee-portable-table-saws-2736-20-48-40-0822-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 489.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "205510781",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "31.5 lbs. Rolling Table Saw Stand",
+      "rating": {
+        "average": 4.7401,
+        "count": 227
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/13a1725b-af9d-449d-a1a8-b364950ff684/svn/dewalt-tool-stands-dwe74911-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 215.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "305057132",
+      "modelNumber": "",
+      "brand": "Milwaukee",
+      "title": "23.5 in. x 17.5 in. Universal Stationary Compact Folding Table Saw Stand",
+      "rating": {
+        "average": 4.2921,
+        "count": 380
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/21767e19-7852-4bf3-bbf5-ac68e376e60b/svn/milwaukee-tool-stands-48-08-0561-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 149.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "300226904",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "10 in. Compact Table Saw Stand for Jobsite",
+      "rating": {
+        "average": 4.4505,
+        "count": 737
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/130c95de-e1b7-4fe2-ad15-589151f39798/svn/dewalt-tool-stands-dw7451-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 102.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "203054768",
+      "modelNumber": "",
+      "brand": "DEWALT",
+      "title": "33 lbs. Heavy Duty Rolling Table Saw Stand with Quick-Connect Stand Brackets with 200lbs. Capacity",
+      "rating": {
+        "average": 4.6502,
+        "count": 1395
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a0cd55b1-1971-4857-86a3-1321879af19c/svn/dewalt-tool-stands-dw7440rs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "206945727",
+      "modelNumber": "",
+      "brand": "Bosch",
+      "title": "Portable Folding Gravity Rise Table Saw Stand with Wheels",
+      "rating": {
+        "average": 4.5377,
+        "count": 199
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/a81f9038-ccfc-4ff9-a10b-829c49a08c22/svn/bosch-tool-stands-ts2100-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.0,
+        "currency": "USD"
+      }
+    }
+  ]
+}

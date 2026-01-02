@@ -4,7 +4,7 @@
   "slug": "drill-presses",
   "path": "/categories/tools/drills/drill-presses",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.740286",
+  "lastUpdated": "2026-01-02T15:26:37.592317",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -52,15 +52,15 @@
       "count": 2
     },
     {
-      "brandId": "ryobi",
-      "brandName": "RYOBI",
-      "logoUrl": "images/brands/ryobi.svg",
-      "count": 1
-    },
-    {
       "brandId": "ridgid",
       "brandName": "RIDGID",
       "logoUrl": "images/brands/ridgid.svg",
+      "count": 1
+    },
+    {
+      "brandId": "ryobi",
+      "brandName": "RYOBI",
+      "logoUrl": "images/brands/ryobi.svg",
       "count": 1
     }
   ],

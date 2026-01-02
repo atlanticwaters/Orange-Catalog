@@ -4,7 +4,7 @@
   "slug": "table-saws",
   "path": "/categories/tools/saws/table-saws",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.748378",
+  "lastUpdated": "2026-01-02T15:26:37.600860",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -46,15 +46,15 @@
       "count": 3
     },
     {
-      "brandId": "ridgid",
-      "brandName": "RIDGID",
-      "logoUrl": "images/brands/ridgid.svg",
-      "count": 2
-    },
-    {
       "brandId": "grizzly-industrial",
       "brandName": "Grizzly Industrial",
       "logoUrl": "images/brands/grizzly-industrial.svg",
+      "count": 2
+    },
+    {
+      "brandId": "ridgid",
+      "brandName": "RIDGID",
+      "logoUrl": "images/brands/ridgid.svg",
       "count": 2
     },
     {
