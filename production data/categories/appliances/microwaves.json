@@ -20,7 +20,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 8
+    "totalResults": 9
   },
   "featuredBrands": [
     {
@@ -30,15 +30,15 @@
       "count": 3
     },
     {
-      "brandId": "sharp",
-      "brandName": "Sharp",
-      "logoUrl": "images/brands/sharp.svg",
-      "count": 1
-    },
-    {
       "brandId": "frigidaire",
       "brandName": "Frigidaire",
       "logoUrl": "images/brands/frigidaire.svg",
+      "count": 2
+    },
+    {
+      "brandId": "sharp",
+      "brandName": "Sharp",
+      "logoUrl": "images/brands/sharp.svg",
       "count": 1
     },
     {
@@ -61,6 +61,28 @@
     }
   ],
   "products": [
+    {
+      "productId": "330557133",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "30 in. Over-the-Range Microwave in Stainless Steel with Dishwasher Safe Grease Filter and Vent",
+      "rating": {
+        "average": 4.2626,
+        "count": 358
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9c498e60-3d2c-4d28-b223-09035d1b7e19/svn/stainless-steel-frigidaire-over-the-range-microwaves-fmos1746bs-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      },
+      "subcategory": "Microwaves"
+    },
     {
       "productId": "205591630",
       "modelNumber": "",
