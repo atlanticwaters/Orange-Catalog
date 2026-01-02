@@ -4,7 +4,7 @@
   "slug": "outlets",
   "path": "/categories/electrical/outlets",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.716536",
+  "lastUpdated": "2026-01-02T13:24:27.876211",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -20,7 +20,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 4
+    "totalResults": 3
   },
   "featuredBrands": [
     {
@@ -109,27 +109,6 @@
       },
       "price": {
         "current": 5.63,
-        "currency": "USD"
-      }
-    },
-    {
-      "productId": "306588128",
-      "modelNumber": "",
-      "brand": "WEN",
-      "title": "Collapsible Rolling Miter Saw Stand with 3 Onboard Outlets",
-      "rating": {
-        "average": 4.2857,
-        "count": 343
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/3dbf0256-6783-41ce-af29-32570f553823/svn/wen-tool-stands-msa330-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 97.0,
         "currency": "USD"
       }
     }

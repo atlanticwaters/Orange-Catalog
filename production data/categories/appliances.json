@@ -4,7 +4,7 @@
   "slug": "appliances",
   "path": "/categories/appliances",
   "version": "1.0",
-  "lastUpdated": "2026-01-01T14:17:56.674662",
+  "lastUpdated": "2026-01-02T13:25:15.496191",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -16,7 +16,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 645
+    "totalResults": 653
   },
   "featuredBrands": [
     {
@@ -82,50 +82,6 @@
   ],
   "products": [
     {
-      "productId": "313269546",
-      "modelNumber": "",
-      "brand": "American Standard",
-      "title": "Fairbury 2S Single-Handle Pull-Down Sprayer Kitchen Faucet in Stainless Steel",
-      "rating": {
-        "average": 4.3466,
-        "count": 1965
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/deefd307-9654-459a-802b-e9ea90d3f6be/svn/stainless-steel-american-standard-pull-down-kitchen-faucets-7418300-075-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 99.0,
-        "currency": "USD"
-      },
-      "subcategory": "Refrigerators"
-    },
-    {
-      "productId": "206086636",
-      "modelNumber": "",
-      "brand": "KOHLER",
-      "title": "Sous Pro-Style Single Handle Pull Down Sprayer Kitchen Faucet in Vibrant Stainless Steel",
-      "rating": {
-        "average": 4.5165,
-        "count": 3696
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/fc0b0dae-5bc7-46bb-8416-94c6444fed11/svn/stainless-steel-kohler-pull-down-kitchen-faucets-k-r10651-sd-vs-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 269.0,
-        "currency": "USD"
-      },
-      "subcategory": "Refrigerators"
-    },
-    {
       "productId": "337338562",
       "modelNumber": "",
       "brand": "Summit Appliance",
@@ -190,94 +146,6 @@
         "currency": "USD"
       },
       "subcategory": "Ranges"
-    },
-    {
-      "productId": "304083114",
-      "modelNumber": "",
-      "brand": "StyleWell",
-      "title": "Glenville Cream White Rolling Kitchen Cart with Butcher Block Top, Double-Drawer Storage and Open Shelves (36\" W)",
-      "rating": {
-        "average": 4.5302,
-        "count": 862
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/b3f7e9c8-3740-429e-a1d5-53378d29e0c5/svn/cream-white-butcher-block-stylewell-kitchen-carts-sk17787cr2-cbw-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 279.2,
-        "currency": "USD"
-      },
-      "subcategory": "Refrigerators"
-    },
-    {
-      "productId": "207167048",
-      "modelNumber": "",
-      "brand": "HOMESTYLES",
-      "title": "Dolly Madison White Kitchen Cart with Natural Wood Top",
-      "rating": {
-        "average": 0.0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/94c0facc-921d-5dc6-9868-0d279318499f/svn/off-white-homestyles-kitchen-carts-4511-95-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 280.99,
-        "currency": "USD"
-      },
-      "subcategory": "Refrigerators"
-    },
-    {
-      "productId": "326546605",
-      "modelNumber": "",
-      "brand": "FUFU&GAGA",
-      "title": "White Wood 110.2 in. W Buffet Combination Kitchen Cabinet W/Hutch, Glass Doors, Shelves (15.7 in. D x 78.7 in. H)",
-      "rating": {
-        "average": 4.025,
-        "count": 40
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/74cd1168-e5e2-40c5-8d86-cd0a11f2c25d/svn/white-fufu-gaga-sideboards-buffet-tables-thd-020384-385-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 801.57,
-        "currency": "USD"
-      },
-      "subcategory": "Refrigerators"
-    },
-    {
-      "productId": "328485052",
-      "modelNumber": "",
-      "brand": "FUFU&GAGA",
-      "title": "Brown Wood 70.9 in. W Buffet Sideboard Kitchen Pantry Cabinet For Dining Room with Metal Mesh Doors, 6-Drawers, Shelves",
-      "rating": {
-        "average": 4.1588,
-        "count": 170
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/e3cd53f4-cc7b-4ef0-b632-88bfc4bc7a3e/svn/brown-fufu-gaga-sideboards-buffet-tables-kf210231-012-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 406.33,
-        "currency": "USD"
-      },
-      "subcategory": "Refrigerators"
     },
     {
       "productId": "308804306",
@@ -1265,28 +1133,6 @@
       },
       "price": {
         "current": 819.0,
-        "currency": "USD"
-      },
-      "subcategory": "Floor Care"
-    },
-    {
-      "productId": "336958835",
-      "modelNumber": "",
-      "brand": "RIDGID",
-      "title": "15 Amp 10 in. Portable Corded Pro Jobsite Table Saw with Stand and 18V Cordless Hand Held Vacuum (Tool Only)",
-      "rating": {
-        "average": 4.1835,
-        "count": 2807
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/48e46cf2-a7b0-4794-9ef0-021b745406d8/svn/ridgid-portable-table-saws-r4514-r8609021b-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 608.97,
         "currency": "USD"
       },
       "subcategory": "Floor Care"
@@ -2299,160 +2145,6 @@
       },
       "price": {
         "current": 41.77,
-        "currency": "USD"
-      },
-      "subcategory": "Ranges"
-    },
-    {
-      "productId": "205829437",
-      "modelNumber": "",
-      "brand": "Nearly Natural",
-      "title": "Rose Artificial Arrangement with Vase",
-      "rating": {
-        "average": 0.0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/cff425af-ea4b-488b-8348-2de5c9eed9c7/svn/nearly-natural-artificial-flowers-1367-lp-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 43.26,
-        "currency": "USD"
-      },
-      "subcategory": "Ranges"
-    },
-    {
-      "productId": "205829435",
-      "modelNumber": "",
-      "brand": "Nearly Natural",
-      "title": "Rose Artificial Arrangement with Vase",
-      "rating": {
-        "average": 5.0,
-        "count": 1
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/4869a7a1-b758-4864-97b5-def317ee34c9/svn/nearly-natural-artificial-flowers-1367-pe-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 46.99,
-        "currency": "USD"
-      },
-      "subcategory": "Ranges"
-    },
-    {
-      "productId": "326602717",
-      "modelNumber": "",
-      "brand": "National Tree Company",
-      "title": "10 in. Artificial Floral Arrangements Tulips in Basket- Color: Blue",
-      "rating": {
-        "average": 0.0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/238ff48f-0bc4-4bc5-bc3d-1761089a9b00/svn/national-tree-company-artificial-flowers-mt81-10926gbl-1-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 32.81,
-        "currency": "USD"
-      },
-      "subcategory": "Ranges"
-    },
-    {
-      "productId": "332083733",
-      "modelNumber": "",
-      "brand": "US Pride Furniture",
-      "title": "US Pride Demon Red Orange Velvet Arm Chair",
-      "rating": {
-        "average": 0.0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/78044fe1-5a26-4ad6-bba1-90eac9321b27/svn/red-orange-us-pride-furniture-accent-chairs-c338-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 249.0,
-        "currency": "USD"
-      },
-      "subcategory": "Ranges"
-    },
-    {
-      "productId": "330320097",
-      "modelNumber": "",
-      "brand": "NATURAE DECOR",
-      "title": "Artificial 37 in. pink hydrangea in black pot",
-      "rating": {
-        "average": 4.3333,
-        "count": 3
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/a59cb3c2-07e6-4075-86a7-8e9ef1da4902/svn/naturae-decor-artificial-shrubs-out-hydpi-37-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 68.88,
-        "currency": "USD"
-      },
-      "subcategory": "Ranges"
-    },
-    {
-      "productId": "330320124",
-      "modelNumber": "",
-      "brand": "NATURAE DECOR",
-      "title": "Artificial 37 in. white hydrangea in black pot",
-      "rating": {
-        "average": 4.625,
-        "count": 8
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/4451cd13-c809-452b-b409-24783d5dbfc6/svn/naturae-decor-artificial-shrubs-out-hydwh-37-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 68.98,
-        "currency": "USD"
-      },
-      "subcategory": "Ranges"
-    },
-    {
-      "productId": "202575148",
-      "modelNumber": "",
-      "brand": "Lincoln Electric",
-      "title": "225 Amp Ranger 225 Gas Engine Driven DC Multi-Process Welder, 10.5 kW Peak Generator (Kohler)",
-      "rating": {
-        "average": 4.8077,
-        "count": 26
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/2614ddcf-8757-4c71-af2e-a672b7713060/svn/lincoln-electric-engine-driven-welders-k2857-1-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 6450.42,
         "currency": "USD"
       },
       "subcategory": "Ranges"
@@ -4438,28 +4130,6 @@
       "subcategory": "Washers Dryers"
     },
     {
-      "productId": "329510245",
-      "modelNumber": "",
-      "brand": "LG",
-      "title": "5.5 cu. ft. SMART Top Load Washer in Matte Black with Impeller, eZDispense and Faucet Water and LCD Digital Dial Control",
-      "rating": {
-        "average": 4.2683,
-        "count": 82
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/1545cff4-6ec8-4209-8ef1-00c1feef1f04/svn/matte-black-lg-top-load-washers-wt8600cb-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 1149.0,
-        "currency": "USD"
-      },
-      "subcategory": "Washers Dryers"
-    },
-    {
       "productId": "325807923",
       "modelNumber": "",
       "brand": "Samsung",
@@ -4565,50 +4235,6 @@
       },
       "price": {
         "current": 944.0,
-        "currency": "USD"
-      },
-      "subcategory": "Washers Dryers"
-    },
-    {
-      "productId": "336324885",
-      "modelNumber": "",
-      "brand": "LG",
-      "title": "5.5 cu. ft. Top Load Washer in White with EasyUnload, AI Sensing, ezDispense, Water Faucet & LCD Digital Dial Control",
-      "rating": {
-        "average": 4.2857,
-        "count": 56
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/cb3b8a87-8c0b-421f-98b1-42ffad129e82/svn/white-lg-top-load-washers-wt8600cw-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 1049.0,
-        "currency": "USD"
-      },
-      "subcategory": "Washers Dryers"
-    },
-    {
-      "productId": "334230788",
-      "modelNumber": "",
-      "brand": "Whirlpool",
-      "title": "4.6 cu. ft. Top Load Washer in White with Built-In Water Faucet",
-      "rating": {
-        "average": 4.1158,
-        "count": 449
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/9989c87a-0d19-4b40-b9c5-cf97c1acc871/svn/white-whirlpool-top-load-washers-wtw5020sw-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 649.0,
         "currency": "USD"
       },
       "subcategory": "Washers Dryers"
@@ -14270,6 +13896,555 @@
         "currency": "USD"
       },
       "subcategory": "Bottom Freezer"
+    },
+    {
+      "productId": "301704033",
+      "modelNumber": "",
+      "brand": "Frigidaire",
+      "title": "Gallery 52 Bottle Undercounter Wine Cooler in Smudge-Proof Stainless Steel",
+      "rating": {
+        "average": 4.055,
+        "count": 400
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f4e62c87-18ff-428f-995c-b2de6eb07eed/svn/smudge-proof-stainless-steel-frigidaire-wine-coolers-fgwc5233ts-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 729.0,
+        "currency": "USD"
+      },
+      "subcategory": "Beverage Coolers"
+    },
+    {
+      "productId": "206069416",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "24 in. W 54-Bottle Wine Cellar",
+      "rating": {
+        "average": 3.9389,
+        "count": 131
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b24be60c-03b6-486a-8e58-3bb3f747c3c5/svn/stainless-steel-whirlpool-wine-coolers-wuw35x24ds-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1528.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "337608525",
+      "modelNumber": "",
+      "brand": "EUHOMY",
+      "title": "23.5 in. Dual Zone 54-Bottle Undercounter/ Freestanding Wine Cooler in Black with Reversible Door, Removable Shelves",
+      "rating": {
+        "average": 4.25,
+        "count": 16
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1d28d130-d36c-4e2b-82fb-474308f69000/svn/black-euhomy-wine-coolers-fwc006-24bl-e1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 529.99,
+        "currency": "USD"
+      },
+      "subcategory": "Beverage Coolers"
+    },
+    {
+      "productId": "337608716",
+      "modelNumber": "",
+      "brand": "EUHOMY",
+      "title": "15 in. Dual Zone 30-Bottle Undercounter/ Freestanding Wine Cooler in Black with Reversible Door, Removable Shelves",
+      "rating": {
+        "average": 4.7778,
+        "count": 9
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/52b75fbd-73ec-4f16-8e34-e628d545972f/svn/black-euhomy-wine-coolers-fwc004-15bl-e1-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 339.99,
+        "currency": "USD"
+      },
+      "subcategory": "Beverage Coolers"
+    },
+    {
+      "productId": "333527475",
+      "modelNumber": "",
+      "brand": "SIMZLIFE",
+      "title": "Cellar Cooling Unit 15 in. Digital Control 30-Wine Bottles Wine Cooler in Black, Dual Zone with 6-Adjustable Shelves",
+      "rating": {
+        "average": 4.1429,
+        "count": 7
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/190baf8a-2948-421b-9662-cb9bc54b9420/svn/black-simzlife-wine-coolers-wc-03s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 309.99,
+        "currency": "USD"
+      },
+      "subcategory": "Beverage Coolers"
+    },
+    {
+      "productId": "335223984",
+      "modelNumber": "",
+      "brand": "SIMZLIFE",
+      "title": "15 in. Dual Zone 30-Wine Bottles Wine Cooler in Black, with Adjustable Shelves and Reversible Door",
+      "rating": {
+        "average": 4.4615,
+        "count": 13
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/5bc380cc-2669-4201-bea6-cd24645c427d/svn/black-simzlife-wine-coolers-fwc004-15si-eh-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 339.99,
+        "currency": "USD"
+      },
+      "subcategory": "Beverage Coolers"
+    },
+    {
+      "productId": "333527952",
+      "modelNumber": "",
+      "brand": "SIMZLIFE",
+      "title": "20.3in. Digital Control 45-Bottle Wine Cooler in Black,Cellar Cooling Unit,Undercounter/ Freestanding,Adjustable Shelves",
+      "rating": {
+        "average": 3.55,
+        "count": 20
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/d6504e1a-4476-46ca-af78-73b59c8189cf/svn/black-simzlife-wine-coolers-zx-wc-145-s-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 229.99,
+        "currency": "USD"
+      },
+      "subcategory": "Beverage Coolers"
+    },
+    {
+      "productId": "321575558",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "20.63 in. W. 6 cu. ft. Single Door Top Freezer Refrigerator with Inverter Compressor & Pocket Handle in Platinum Silver",
+      "rating": {
+        "average": 4.5086,
+        "count": 116
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0c440c0-d48a-4605-b944-598b5dbb57b1/svn/platinum-silver-lg-mini-fridges-lronc0605v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "325056270",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "24 inch 220 Cans(12 oz.) Beverage Cooler Beer Drink Refrigerator Built-in or Under-Counter Fridge Quiet Compressor",
+      "rating": {
+        "average": 4.0787,
+        "count": 89
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd5ec5be-7d8c-40b9-9474-b3fb9fcf6d45/svn/stainless-steel-ca-lefort-beverage-refrigerators-clf-bs24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 582.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "325158107",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. Counter-Depth MAX French Door Refrigerator w/ Mirrored Instaview & 4 types of ice, PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.2923,
+        "count": 431
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7f0f1301-e7b3-4cb0-9752-5449af24d854/svn/mirrored-stainless-steel-lg-french-door-refrigerators-lrykc2606s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "334284516",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 28.7 cu. ft. Side-by-Side Refrigerator in Stainless Steel with Panoramic LED Lighting",
+      "rating": {
+        "average": 4.2131,
+        "count": 61
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8a17a59-b29e-4769-bea1-db2208a3123c/svn/fingerprint-resistant-stainless-steel-kitchenaid-side-by-side-refrigerators-krsf536rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2789.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "334543524",
+      "modelNumber": "",
+      "brand": "Crosley",
+      "title": "3.2 cu. ft. 1-Door Compact Refrigerator, Retro Design, Door Storage Bins, Adjustable Glass Shelves, Mint Green",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0ae90a96-b3c0-4d6e-a76b-a800c2e19f58/svn/green-gloss-crosley-freezerless-refrigerators-rrx3210am-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 314.1,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "331506441",
+      "modelNumber": "",
+      "brand": "NewAir",
+      "title": "19 in. Single Zone 126 (12 oz.) Cans, Beverage and Wine Cooler Fridge with Flip Shelf, in Stainless Steel",
+      "rating": {
+        "average": 3.6893,
+        "count": 1268
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8dc7c05-85ec-4457-bb4c-5c35c22fc7d9/svn/stainless-steel-black-body-newair-beverage-wine-combos-ab-1200fls-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "334284516",
+      "modelNumber": "",
+      "brand": "KitchenAid",
+      "title": "36 in. 28.7 cu. ft. Side-by-Side Refrigerator in Stainless Steel with Panoramic LED Lighting",
+      "rating": {
+        "average": 4.2131,
+        "count": 61
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8a17a59-b29e-4769-bea1-db2208a3123c/svn/fingerprint-resistant-stainless-steel-kitchenaid-side-by-side-refrigerators-krsf536rps-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2789.0,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "321575558",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "20.63 in. W. 6 cu. ft. Single Door Top Freezer Refrigerator with Inverter Compressor & Pocket Handle in Platinum Silver",
+      "rating": {
+        "average": 4.5086,
+        "count": 116
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/f0c440c0-d48a-4605-b944-598b5dbb57b1/svn/platinum-silver-lg-mini-fridges-lronc0605v-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 399.0,
+        "currency": "USD"
+      },
+      "subcategory": "Top Freezer"
+    },
+    {
+      "productId": "325056270",
+      "modelNumber": "",
+      "brand": "Ca'Lefort",
+      "title": "24 inch 220 Cans(12 oz.) Beverage Cooler Beer Drink Refrigerator Built-in or Under-Counter Fridge Quiet Compressor",
+      "rating": {
+        "average": 4.0787,
+        "count": 89
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/fd5ec5be-7d8c-40b9-9474-b3fb9fcf6d45/svn/stainless-steel-ca-lefort-beverage-refrigerators-clf-bs24-hd-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 582.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "334543524",
+      "modelNumber": "",
+      "brand": "Crosley",
+      "title": "3.2 cu. ft. 1-Door Compact Refrigerator, Retro Design, Door Storage Bins, Adjustable Glass Shelves, Mint Green",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/0ae90a96-b3c0-4d6e-a76b-a800c2e19f58/svn/green-gloss-crosley-freezerless-refrigerators-rrx3210am-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 314.1,
+        "currency": "USD"
+      },
+      "subcategory": "Mini Fridges"
+    },
+    {
+      "productId": "331506441",
+      "modelNumber": "",
+      "brand": "NewAir",
+      "title": "19 in. Single Zone 126 (12 oz.) Cans, Beverage and Wine Cooler Fridge with Flip Shelf, in Stainless Steel",
+      "rating": {
+        "average": 3.6893,
+        "count": 1268
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/c8dc7c05-85ec-4457-bb4c-5c35c22fc7d9/svn/stainless-steel-black-body-newair-beverage-wine-combos-ab-1200fls-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 299.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "325158107",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "26 cu. ft. Counter-Depth MAX French Door Refrigerator w/ Mirrored Instaview & 4 types of ice, PrintProof Stainless Steel",
+      "rating": {
+        "average": 4.2923,
+        "count": 431
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7f0f1301-e7b3-4cb0-9752-5449af24d854/svn/mirrored-stainless-steel-lg-french-door-refrigerators-lrykc2606s-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 2799.0,
+        "currency": "USD"
+      },
+      "subcategory": "French Door"
+    },
+    {
+      "productId": "329510245",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "5.5 cu. ft. SMART Top Load Washer in Matte Black with Impeller, eZDispense and Faucet Water and LCD Digital Dial Control",
+      "rating": {
+        "average": 4.2683,
+        "count": 82
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1545cff4-6ec8-4209-8ef1-00c1feef1f04/svn/matte-black-lg-top-load-washers-wt8600cb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
+      },
+      "subcategory": "Washers Dryers"
+    },
+    {
+      "productId": "336324885",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "5.5 cu. ft. Top Load Washer in White with EasyUnload, AI Sensing, ezDispense, Water Faucet & LCD Digital Dial Control",
+      "rating": {
+        "average": 4.2857,
+        "count": 56
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cb3b8a87-8c0b-421f-98b1-42ffad129e82/svn/white-lg-top-load-washers-wt8600cw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1049.0,
+        "currency": "USD"
+      },
+      "subcategory": "Washers Dryers"
+    },
+    {
+      "productId": "334230788",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "4.6 cu. ft. Top Load Washer in White with Built-In Water Faucet",
+      "rating": {
+        "average": 4.1158,
+        "count": 449
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9989c87a-0d19-4b40-b9c5-cf97c1acc871/svn/white-whirlpool-top-load-washers-wtw5020sw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      },
+      "subcategory": "Washers Dryers"
+    },
+    {
+      "productId": "329510245",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "5.5 cu. ft. SMART Top Load Washer in Matte Black with Impeller, eZDispense and Faucet Water and LCD Digital Dial Control",
+      "rating": {
+        "average": 4.2683,
+        "count": 82
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/1545cff4-6ec8-4209-8ef1-00c1feef1f04/svn/matte-black-lg-top-load-washers-wt8600cb-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1149.0,
+        "currency": "USD"
+      },
+      "subcategory": "Washers Dryers"
+    },
+    {
+      "productId": "336324885",
+      "modelNumber": "",
+      "brand": "LG",
+      "title": "5.5 cu. ft. Top Load Washer in White with EasyUnload, AI Sensing, ezDispense, Water Faucet & LCD Digital Dial Control",
+      "rating": {
+        "average": 4.2857,
+        "count": 56
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/cb3b8a87-8c0b-421f-98b1-42ffad129e82/svn/white-lg-top-load-washers-wt8600cw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 1049.0,
+        "currency": "USD"
+      },
+      "subcategory": "Washers Dryers"
+    },
+    {
+      "productId": "334230788",
+      "modelNumber": "",
+      "brand": "Whirlpool",
+      "title": "4.6 cu. ft. Top Load Washer in White with Built-In Water Faucet",
+      "rating": {
+        "average": 4.1158,
+        "count": 449
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/9989c87a-0d19-4b40-b9c5-cf97c1acc871/svn/white-whirlpool-top-load-washers-wtw5020sw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 649.0,
+        "currency": "USD"
+      },
+      "subcategory": "Washers Dryers"
     }
   ]
 }

@@ -1,1 +1,0 @@
-// Hide slots by default until custom element is defined to prevent flash :host(:not(:defined)) slot{display:none!important}// Also hide slot content before initialization :host(:not(:defined)) ::slotted(*){display:none!important}

@@ -4,7 +4,7 @@
   "slug": "cooktops",
   "path": "/categories/appliances/cooktops",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.704525",
+  "lastUpdated": "2026-01-02T13:24:27.883548",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -56,7 +56,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     },
     {
       "productId": "323664615",
@@ -77,7 +78,8 @@
       "price": {
         "current": 2429.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     },
     {
       "productId": "327754403",
@@ -98,7 +100,8 @@
       "price": {
         "current": 799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     },
     {
       "productId": "305455086",
@@ -119,7 +122,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Cooktops"
     }
   ]
 }

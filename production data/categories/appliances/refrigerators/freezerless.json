@@ -4,7 +4,7 @@
   "slug": "freezerless",
   "path": "/categories/appliances/refrigerators/freezerless",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.708899",
+  "lastUpdated": "2026-01-02T13:24:27.886563",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -102,7 +102,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "329741097",
@@ -123,7 +124,8 @@
       "price": {
         "current": 3699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "205744994",
@@ -144,7 +146,8 @@
       "price": {
         "current": 2798.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "312423329",
@@ -165,7 +168,8 @@
       "price": {
         "current": 1104.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "316536615",
@@ -186,7 +190,8 @@
       "price": {
         "current": 2569.85,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "303841965",
@@ -207,7 +212,8 @@
       "price": {
         "current": 1800.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "206891678",
@@ -228,7 +234,8 @@
       "price": {
         "current": 1978.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "315174233",
@@ -249,7 +256,8 @@
       "price": {
         "current": 7599.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "328911465",
@@ -270,7 +278,8 @@
       "price": {
         "current": 5232.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "335371260",
@@ -291,7 +300,8 @@
       "price": {
         "current": 6799.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "326514167",
@@ -312,7 +322,8 @@
       "price": {
         "current": 1081.52,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "335371725",
@@ -333,7 +344,8 @@
       "price": {
         "current": 7599.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "313478837",
@@ -354,7 +366,8 @@
       "price": {
         "current": 764.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "316616709",
@@ -375,7 +388,8 @@
       "price": {
         "current": 3312.18,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "335722568",
@@ -396,7 +410,8 @@
       "price": {
         "current": 7199.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "316803824",
@@ -417,7 +432,8 @@
       "price": {
         "current": 756.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     }
   ]
 }

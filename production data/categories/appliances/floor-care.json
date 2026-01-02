@@ -4,7 +4,7 @@
   "slug": "floor-care",
   "path": "/categories/appliances/floor-care",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.705222",
+  "lastUpdated": "2026-01-02T13:24:27.878497",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -20,7 +20,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 23
+    "totalResults": 22
   },
   "featuredBrands": [
     {
@@ -92,7 +92,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "333915143",
@@ -113,7 +114,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "321546266",
@@ -134,7 +136,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "100520395",
@@ -176,7 +179,8 @@
       "price": {
         "current": 29.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "304006023",
@@ -197,7 +201,8 @@
       "price": {
         "current": 99.98,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "100021159",
@@ -218,7 +223,8 @@
       "price": {
         "current": 22.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "304795071",
@@ -239,7 +245,8 @@
       "price": {
         "current": 124.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "202077241",
@@ -260,7 +267,8 @@
       "price": {
         "current": 109.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "100021371",
@@ -281,7 +289,8 @@
       "price": {
         "current": 18.97,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "316514940",
@@ -302,7 +311,8 @@
       "price": {
         "current": 59.88,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "337674760",
@@ -323,7 +333,8 @@
       "price": {
         "current": 90.77,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "337674754",
@@ -344,7 +355,8 @@
       "price": {
         "current": 101.34,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "202043806",
@@ -365,7 +377,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "313725452",
@@ -386,7 +399,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "337113487",
@@ -407,7 +421,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "308343494",
@@ -428,7 +443,8 @@
       "price": {
         "current": 109.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "322514985",
@@ -449,7 +465,8 @@
       "price": {
         "current": 123.95,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "338943726",
@@ -470,7 +487,8 @@
       "price": {
         "current": 139.95,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "320576036",
@@ -491,7 +509,8 @@
       "price": {
         "current": 65.95,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "203656953",
@@ -512,7 +531,8 @@
       "price": {
         "current": 79.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Floor Care"
     },
     {
       "productId": "312370596",
@@ -533,28 +553,8 @@
       "price": {
         "current": 819.0,
         "currency": "USD"
-      }
-    },
-    {
-      "productId": "336958835",
-      "modelNumber": "",
-      "brand": "RIDGID",
-      "title": "15 Amp 10 in. Portable Corded Pro Jobsite Table Saw with Stand and 18V Cordless Hand Held Vacuum (Tool Only)",
-      "rating": {
-        "average": 4.1835,
-        "count": 2807
       },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/48e46cf2-a7b0-4794-9ef0-021b745406d8/svn/ridgid-portable-table-saws-r4514-r8609021b-64_100.jpg"
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 608.97,
-        "currency": "USD"
-      }
+      "subcategory": "Floor Care"
     }
   ]
 }

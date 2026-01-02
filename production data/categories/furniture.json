@@ -4,7 +4,7 @@
   "slug": "furniture",
   "path": "/categories/furniture",
   "version": "1.0",
-  "lastUpdated": "2026-01-01T14:17:56.684204",
+  "lastUpdated": "2026-01-02T13:24:27.871986",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -16,7 +16,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 260
+    "totalResults": 272
   },
   "featuredBrands": [
     {
@@ -5800,6 +5800,262 @@
         "currency": "USD"
       },
       "subcategory": "Dining"
+    },
+    {
+      "productId": "304083114",
+      "modelNumber": "",
+      "brand": "StyleWell",
+      "title": "Glenville Cream White Rolling Kitchen Cart with Butcher Block Top, Double-Drawer Storage and Open Shelves (36\" W)",
+      "rating": {
+        "average": 4.5302,
+        "count": 862
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/b3f7e9c8-3740-429e-a1d5-53378d29e0c5/svn/cream-white-butcher-block-stylewell-kitchen-carts-sk17787cr2-cbw-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 279.2,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "207167048",
+      "modelNumber": "",
+      "brand": "HOMESTYLES",
+      "title": "Dolly Madison White Kitchen Cart with Natural Wood Top",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/94c0facc-921d-5dc6-9868-0d279318499f/svn/off-white-homestyles-kitchen-carts-4511-95-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 280.99,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "326546605",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "White Wood 110.2 in. W Buffet Combination Kitchen Cabinet W/Hutch, Glass Doors, Shelves (15.7 in. D x 78.7 in. H)",
+      "rating": {
+        "average": 4.025,
+        "count": 40
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/74cd1168-e5e2-40c5-8d86-cd0a11f2c25d/svn/white-fufu-gaga-sideboards-buffet-tables-thd-020384-385-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 801.57,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "328485052",
+      "modelNumber": "",
+      "brand": "FUFU&GAGA",
+      "title": "Brown Wood 70.9 in. W Buffet Sideboard Kitchen Pantry Cabinet For Dining Room with Metal Mesh Doors, 6-Drawers, Shelves",
+      "rating": {
+        "average": 4.1588,
+        "count": 170
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3cd53f4-cc7b-4ef0-b632-88bfc4bc7a3e/svn/brown-fufu-gaga-sideboards-buffet-tables-kf210231-012-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 406.33,
+        "currency": "USD"
+      },
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "332083733",
+      "modelNumber": "",
+      "brand": "US Pride Furniture",
+      "title": "US Pride Demon Red Orange Velvet Arm Chair",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78044fe1-5a26-4ad6-bba1-90eac9321b27/svn/red-orange-us-pride-furniture-accent-chairs-c338-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "338511363",
+      "modelNumber": "",
+      "brand": "Karl home",
+      "title": "2-Piece White Makeup Vanity Set with 10 Three-color Dimmable Bulbs, 7 Drawers and 4-Tier Shelves",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e660b1b9-7c66-41e4-bbb8-d82c39701572/svn/white-karl-home-makeup-vanities-k1g52008124-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 181.69,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333244370",
+      "modelNumber": "",
+      "brand": "Karl home",
+      "title": "2-Piece White Makeup Vanity Set with Combination Cabinet",
+      "rating": {
+        "average": 5.0,
+        "count": 2
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/632ad8aa-56c4-4298-8d1d-a86d0bb99fdd/svn/white-karl-home-makeup-vanities-k1g52005608-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 215.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333410356",
+      "modelNumber": "",
+      "brand": "Karl home",
+      "title": "Gray Makeup Vanity Set with USB",
+      "rating": {
+        "average": 4.0,
+        "count": 10
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4a389897-eced-4cef-a884-8cf247cb8ecd/svn/gray-karl-home-makeup-vanities-k1g52005804-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 222.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "333410344",
+      "modelNumber": "",
+      "brand": "Karl home",
+      "title": "White Makeup Vanity Set with USB",
+      "rating": {
+        "average": 2.8571,
+        "count": 14
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/3ba92904-e549-4c17-b357-aba90dea4595/svn/white-karl-home-makeup-vanities-k1g52005794-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 244.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339391064",
+      "modelNumber": "",
+      "brand": "Karl home",
+      "title": "1-piece White Particle Board Makeup Vanity Table with Dimmable Light Bulbs 6-Drawer 3-Compartment Left-Right 2-Tier Rack",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3520d87-2102-448c-a0d2-609215310ee7/svn/white-karl-home-makeup-vanities-k1g52008353-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "339391064",
+      "modelNumber": "",
+      "brand": "Karl home",
+      "title": "1-piece White Particle Board Makeup Vanity Table with Dimmable Light Bulbs 6-Drawer 3-Compartment Left-Right 2-Tier Rack",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e3520d87-2102-448c-a0d2-609215310ee7/svn/white-karl-home-makeup-vanities-k1g52008353-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 179.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "productId": "332083733",
+      "modelNumber": "",
+      "brand": "US Pride Furniture",
+      "title": "US Pride Demon Red Orange Velvet Arm Chair",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/78044fe1-5a26-4ad6-bba1-90eac9321b27/svn/red-orange-us-pride-furniture-accent-chairs-c338-64_100.jpg"
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 249.0,
+        "currency": "USD"
+      }
     }
   ]
 }

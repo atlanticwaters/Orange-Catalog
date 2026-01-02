@@ -4,7 +4,7 @@
   "slug": "dishwashers",
   "path": "/categories/appliances/dishwashers",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.704684",
+  "lastUpdated": "2026-01-02T13:24:27.877992",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -68,7 +68,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "314298606",
@@ -89,7 +90,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "329241860",
@@ -110,7 +112,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "330817229",
@@ -131,7 +134,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     },
     {
       "productId": "336625538",
@@ -152,7 +156,8 @@
       "price": {
         "current": 949.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Dishwashers"
     }
   ]
 }

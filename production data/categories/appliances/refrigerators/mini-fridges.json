@@ -4,7 +4,7 @@
   "slug": "mini-fridges",
   "path": "/categories/appliances/refrigerators/mini-fridges",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.710180",
+  "lastUpdated": "2026-01-02T13:24:27.886919",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -96,7 +96,8 @@
       "price": {
         "current": 289.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "328264582",
@@ -117,7 +118,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "328264452",
@@ -138,7 +140,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "328264450",
@@ -159,7 +162,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "328264578",
@@ -180,7 +184,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "205508808",
@@ -201,7 +206,8 @@
       "price": {
         "current": 629.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "336388931",
@@ -222,7 +228,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "336847574",
@@ -243,7 +250,8 @@
       "price": {
         "current": 379.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "321204315",
@@ -264,7 +272,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "308502681",
@@ -285,7 +294,8 @@
       "price": {
         "current": 178.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "302598734",
@@ -306,7 +316,8 @@
       "price": {
         "current": 1149.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "312512908",
@@ -327,7 +338,8 @@
       "price": {
         "current": 1085.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "316146433",
@@ -348,7 +360,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "305971708",
@@ -369,7 +382,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     },
     {
       "productId": "328264447",
@@ -390,7 +404,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Refrigerators"
     },
     {
       "productId": "335811765",
@@ -411,7 +426,8 @@
       "price": {
         "current": 1460.47,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Mini Fridges"
     }
   ]
 }

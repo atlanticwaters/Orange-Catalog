@@ -4,7 +4,7 @@
   "slug": "microwaves",
   "path": "/categories/appliances/microwaves",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.706559",
+  "lastUpdated": "2026-01-02T13:24:27.877750",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -80,7 +80,8 @@
       "price": {
         "current": 1499.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "331519433",
@@ -101,7 +102,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "330799262",
@@ -122,7 +124,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "304770655",
@@ -143,7 +146,8 @@
       "price": {
         "current": 469.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "331519406",
@@ -164,7 +168,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "336136522",
@@ -185,7 +190,8 @@
       "price": {
         "current": 59.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "205373458",
@@ -206,7 +212,8 @@
       "price": {
         "current": 3999.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     },
     {
       "productId": "338472247",
@@ -227,7 +234,8 @@
       "price": {
         "current": 4799.0,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Microwaves"
     }
   ]
 }

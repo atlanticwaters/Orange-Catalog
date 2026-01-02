@@ -4,7 +4,7 @@
   "slug": "counter-depth",
   "path": "/categories/appliances/refrigerators/counter-depth",
   "version": "1.0",
-  "lastUpdated": "2025-12-31T22:30:04.708743",
+  "lastUpdated": "2026-01-02T13:24:27.889783",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -60,7 +60,8 @@
       "price": {
         "current": 654.48,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     },
     {
       "productId": "333399283",
@@ -81,7 +82,8 @@
       "price": {
         "current": 1029.99,
         "currency": "USD"
-      }
+      },
+      "subcategory": "Freezerless"
     }
   ]
 }
