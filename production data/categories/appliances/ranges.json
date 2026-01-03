@@ -4,7 +4,7 @@
   "slug": "ranges",
   "path": "/categories/appliances/ranges",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.815954",
+  "lastUpdated": "2026-01-03T01:05:20.620065",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -20,7 +20,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 22
+    "totalResults": 23
   },
   "featuredBrands": [
     {
@@ -1620,6 +1620,33 @@
         "current": 41.77,
         "currency": "USD"
       }
+    },
+    {
+      "productId": "332923712",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "OVIOS Vinceny Gray 3-Piece Wicker Patio Conversation Seating Set with Orange Red Cushions and Swivel Chairs VNC803R",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/df6c3402-a918-41a2-ac72-84e422343ce6/svn/ovios-chat-sets-vnc803r-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/df6c3402-a918-41a2-ac72-84e422343ce6/svn/ovios-chat-sets-vnc803r-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/df6c3402-a918-41a2-ac72-84e422343ce6/svn/ovios-chat-sets-vnc803r-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/df6c3402-a918-41a2-ac72-84e422343ce6/svn/ovios-chat-sets-vnc803r-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/df6c3402-a918-41a2-ac72-84e422343ce6/svn/ovios-chat-sets-vnc803r-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/df6c3402-a918-41a2-ac72-84e422343ce6/svn/ovios-chat-sets-vnc803r-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/f83281f0-c75c-4751-96cf-a4cd9103ae8e/svn/ovios-chat-sets-vnc803r-e1_1000.jpg",
+          "https://images.thdstatic.com/productImages/9c610541-753a-40c2-8d84-21056bbf9c8d/svn/ovios-chat-sets-vnc803r-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/d4b24d5e-8552-4b6c-858e-75db3873990f/svn/ovios-chat-sets-vnc803r-4f_1000.jpg",
+          "https://images.thdstatic.com/productImages/ec0e083b-6380-4099-8731-1694290c992a/svn/ovios-chat-sets-vnc803r-1f_1000.jpg",
+          "https://images.thdstatic.com/productImages/e35f274f-e3e3-401f-8bac-88573284d38c/svn/ovios-chat-sets-vnc803r-fa_1000.jpg",
+          "https://images.thdstatic.com/productImages/93e9ad18-b232-4276-99ea-c4d721006da2/svn/ovios-chat-sets-vnc803r-31_1000.jpg"
+        ]
+      },
+      "subcategory": "ranges"
     }
   ]
 }

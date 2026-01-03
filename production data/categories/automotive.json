@@ -4,7 +4,7 @@
   "slug": "automotive",
   "path": "/categories/automotive",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.870587",
+  "lastUpdated": "2026-01-03T01:05:20.616817",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -16,7 +16,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 55
+    "totalResults": 59
   },
   "featuredBrands": [
     {
@@ -2335,6 +2335,103 @@
         "currency": "USD"
       },
       "subcategory": "Battery Chargers"
+    },
+    {
+      "productId": "336574722",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "ChargePoint 240-Volt Home Flex Level 2 WiFi NEMA 14-50 Plug Electric Vehicle EV Charger CPH50-NEMA1450-L23-K",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/b2fa5979-b566-44ef-94a9-a66ca820fcb6/svn/ev-chargers-cph50-nema1450-l23-k-e1_1000.jpg",
+          "https://images.thdstatic.com/productImages/8efe2d05-f201-4c66-a9af-6bac54fb94fc/svn/ev-chargers-cph50-nema1450-l23-k-40_1000.jpg",
+          "https://images.thdstatic.com/productImages/6bd506a9-39fb-4c0a-aaf9-8cdf32a91e78/svn/ev-chargers-cph50-nema1450-l23-k-a0_1000.jpg",
+          "https://images.thdstatic.com/productImages/180e3c9d-7f1c-49dd-b976-078bb4faa9f9/svn/ev-chargers-cph50-nema1450-l23-k-1d_1000.jpg",
+          "https://images.thdstatic.com/productImages/e2218c72-b835-4eb8-899a-4fba4e8e3500/svn/ev-chargers-cph50-nema1450-l23-k-66_1000.jpg",
+          "https://images.thdstatic.com/productImages/527c936c-a39b-4d90-8502-0652f07277c3/svn/ev-chargers-cph50-nema1450-l23-k-77_1000.jpg",
+          "https://images.thdstatic.com/productImages/0625ccb7-3d58-4000-8926-a3e51265192f/svn/ev-chargers-cph50-nema1450-l23-k-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/9703de60-2340-4826-8fe9-6bbc29f9fa91/svn/ev-chargers-cph50-nema1450-l23-k-4f_1000.jpg"
+        ]
+      },
+      "subcategory": "ev-chargers"
+    },
+    {
+      "productId": "323402170",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Leviton Dual Mount EV Charger Station Pedestal, Front/Back EPED2 EPED2",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/952329a6-808c-4405-bc12-3e11dd7df2ef/svn/leviton-ev-chargers-eped2-c3_1000.jpg"
+        ]
+      },
+      "subcategory": "ev-chargers"
+    },
+    {
+      "productId": "323402170",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Leviton Dual Mount EV Charger Station Pedestal, Front/Back EPED2 EPED2",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/952329a6-808c-4405-bc12-3e11dd7df2ef/svn/leviton-ev-chargers-eped2-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/3e575868-ce9a-4f6b-b09a-7dd78ac055a0/svn/leviton-ev-chargers-64_1000.jpg"
+        ]
+      },
+      "subcategory": "ev-chargers"
+    },
+    {
+      "productId": "323402170",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "Leviton Dual Mount EV Charger Station Pedestal, Front/Back EPED2 EPED2",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/ca4f86e9-a510-4226-93cd-e10d849b8ba2/svn/leviton-ev-chargers-eped2-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/952329a6-808c-4405-bc12-3e11dd7df2ef/svn/leviton-ev-chargers-eped2-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/3e575868-ce9a-4f6b-b09a-7dd78ac055a0/svn/leviton-ev-chargers-64_1000.jpg"
+        ]
+      },
+      "subcategory": "ev-chargers"
     }
   ]
 }

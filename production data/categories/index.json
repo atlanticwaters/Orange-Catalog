@@ -1,20 +1,20 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-01-02T15:27:30.690577",
+  "lastUpdated": "2026-01-03T01:06:15.023533",
   "totalCategories": 92,
-  "totalProducts": 2813,
+  "totalProducts": 6103,
   "categories": [
     {
       "id": "appliances",
       "name": "Appliances",
       "slug": "appliances",
-      "productCount": 625,
+      "productCount": 653,
       "subcategories": [
         {
           "id": "appliances/refrigerators",
           "name": "Refrigerators",
           "slug": "refrigerators",
-          "productCount": 230,
+          "productCount": 0,
           "path": "/categories/appliances/refrigerators",
           "subcategories": [
             {
@@ -42,7 +42,7 @@
               "id": "appliances/refrigerators/french-door",
               "name": "French Door",
               "slug": "french-door",
-              "productCount": 78,
+              "productCount": 92,
               "path": "/categories/appliances/refrigerators/french-door"
             },
             {
@@ -107,7 +107,7 @@
           "id": "appliances/fans",
           "name": "Fans",
           "slug": "fans",
-          "productCount": 3,
+          "productCount": 7,
           "path": "/categories/appliances/fans"
         },
         {
@@ -149,7 +149,7 @@
           "id": "appliances/ranges",
           "name": "Ranges",
           "slug": "ranges",
-          "productCount": 22,
+          "productCount": 23,
           "path": "/categories/appliances/ranges"
         },
         {
@@ -172,7 +172,7 @@
       "id": "automotive",
       "name": "Automotive",
       "slug": "automotive",
-      "productCount": 55,
+      "productCount": 59,
       "subcategories": [
         {
           "id": "automotive/battery-chargers",
@@ -221,21 +221,21 @@
           "id": "electrical/lighting",
           "name": "Lighting",
           "slug": "lighting",
-          "productCount": 1,
+          "productCount": 57,
           "path": "/categories/electrical/lighting"
         },
         {
           "id": "electrical/outlets",
           "name": "Outlets",
           "slug": "outlets",
-          "productCount": 3,
+          "productCount": 13,
           "path": "/categories/electrical/outlets"
         },
         {
           "id": "electrical/smart-home",
           "name": "Smart Home",
           "slug": "smart-home",
-          "productCount": 2,
+          "productCount": 86,
           "path": "/categories/electrical/smart-home"
         },
         {
@@ -249,7 +249,7 @@
           "id": "electrical/wire-cable",
           "name": "Wire Cable",
           "slug": "wire-cable",
-          "productCount": 22,
+          "productCount": 72,
           "path": "/categories/electrical/wire-cable"
         }
       ]
@@ -258,7 +258,7 @@
       "id": "furniture",
       "name": "Furniture",
       "slug": "furniture",
-      "productCount": 258,
+      "productCount": 272,
       "subcategories": [
         {
           "id": "furniture/bedroom",
@@ -271,22 +271,29 @@
           "id": "furniture/dining",
           "name": "Dining",
           "slug": "dining",
-          "productCount": 9,
+          "productCount": 38,
           "path": "/categories/furniture/dining"
         },
         {
           "id": "furniture/living-room",
           "name": "Living Room",
           "slug": "living-room",
-          "productCount": 129,
+          "productCount": 246,
           "path": "/categories/furniture/living-room"
         },
         {
           "id": "furniture/office",
           "name": "Office",
           "slug": "office",
-          "productCount": 25,
+          "productCount": 40,
           "path": "/categories/furniture/office"
+        },
+        {
+          "id": "furniture/outdoor",
+          "name": "Outdoor",
+          "slug": "outdoor",
+          "productCount": 88,
+          "path": "/categories/furniture/outdoor"
         }
       ]
     },
@@ -323,13 +330,13 @@
       "id": "home-decor",
       "name": "Home Decor",
       "slug": "home-decor",
-      "productCount": 320,
+      "productCount": 330,
       "subcategories": [
         {
           "id": "home-decor/artificial-plants",
           "name": "Artificial Plants",
           "slug": "artificial-plants",
-          "productCount": 257,
+          "productCount": 0,
           "path": "/categories/home-decor/artificial-plants",
           "subcategories": [
             {
@@ -366,7 +373,7 @@
           "id": "home-decor/curtains",
           "name": "Curtains",
           "slug": "curtains",
-          "productCount": 1,
+          "productCount": 2,
           "path": "/categories/home-decor/curtains"
         },
         {
@@ -387,7 +394,7 @@
           "id": "home-decor/wall-art",
           "name": "Wall Art",
           "slug": "wall-art",
-          "productCount": 3,
+          "productCount": 19,
           "path": "/categories/home-decor/wall-art"
         }
       ]
@@ -396,7 +403,7 @@
       "id": "other",
       "name": "Other",
       "slug": "other",
-      "productCount": 608,
+      "productCount": 757,
       "subcategories": []
     },
     {
@@ -416,7 +423,7 @@
           "id": "storage/bins-totes",
           "name": "Bins Totes",
           "slug": "bins-totes",
-          "productCount": 19,
+          "productCount": 20,
           "path": "/categories/storage/bins-totes"
         },
         {
@@ -432,13 +439,13 @@
       "id": "tools",
       "name": "Tools",
       "slug": "tools",
-      "productCount": 725,
+      "productCount": 917,
       "subcategories": [
         {
           "id": "tools/air-compressors",
           "name": "Air Compressors",
           "slug": "air-compressors",
-          "productCount": 119,
+          "productCount": 0,
           "path": "/categories/tools/air-compressors",
           "subcategories": [
             {
@@ -468,7 +475,7 @@
           "id": "tools/drills",
           "name": "Drills",
           "slug": "drills",
-          "productCount": 92,
+          "productCount": 30,
           "path": "/categories/tools/drills",
           "subcategories": [
             {
@@ -512,7 +519,7 @@
           "id": "tools/nailers",
           "name": "Nailers",
           "slug": "nailers",
-          "productCount": 139,
+          "productCount": 0,
           "path": "/categories/tools/nailers",
           "subcategories": [
             {
@@ -563,7 +570,7 @@
           "id": "tools/saws",
           "name": "Saws",
           "slug": "saws",
-          "productCount": 151,
+          "productCount": 2,
           "path": "/categories/tools/saws",
           "subcategories": [
             {
@@ -621,21 +628,21 @@
           "id": "tools/batteries",
           "name": "Batteries",
           "slug": "batteries",
-          "productCount": 73,
+          "productCount": 114,
           "path": "/categories/tools/batteries"
         },
         {
           "id": "tools/combo-kits",
           "name": "Combo Kits",
           "slug": "combo-kits",
-          "productCount": 18,
+          "productCount": 25,
           "path": "/categories/tools/combo-kits"
         },
         {
           "id": "tools/grinders",
           "name": "Grinders",
           "slug": "grinders",
-          "productCount": 45,
+          "productCount": 47,
           "path": "/categories/tools/grinders"
         },
         {
@@ -656,14 +663,14 @@
           "id": "tools/routers",
           "name": "Routers",
           "slug": "routers",
-          "productCount": 1,
+          "productCount": 2,
           "path": "/categories/tools/routers"
         },
         {
           "id": "tools/sanders",
           "name": "Sanders",
           "slug": "sanders",
-          "productCount": 35,
+          "productCount": 84,
           "path": "/categories/tools/sanders"
         }
       ]
