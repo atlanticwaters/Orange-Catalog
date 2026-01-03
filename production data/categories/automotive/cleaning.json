@@ -4,7 +4,7 @@
   "slug": "cleaning",
   "path": "/categories/automotive/cleaning",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.058388",
+  "lastUpdated": "2026-01-03T01:19:30.448425",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -132,7 +132,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-11",
+          "answerDate": "2025-03-13",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-16",
+          "answerDate": "2025-01-22",
+          "helpfulVotes": 103
+        }
+      ]
     },
     {
       "productId": "339377625",
@@ -184,7 +206,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-23",
+          "answerDate": "2025-03-27",
+          "helpfulVotes": 53
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-25",
+          "answerDate": "2025-03-28",
+          "helpfulVotes": 85
+        }
+      ]
     }
   ]
 }

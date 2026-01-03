@@ -409,7 +409,7 @@
     "categoryFolder": "Table Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.031774",
+  "lastUpdated": "2026-01-03T01:19:30.415596",
   "products": [
     {
       "productId": "339732619",
@@ -450,7 +450,29 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-07-21",
+          "answerDate": "2025-07-22",
+          "helpfulVotes": 54
+        }
+      ]
     },
     {
       "productId": "339731858",
@@ -492,7 +514,39 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-18",
+          "answerDate": "2025-12-23",
+          "helpfulVotes": 7
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-01-12",
+          "answerDate": "2025-01-13",
+          "helpfulVotes": 78
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-17",
+          "answerDate": "2025-08-21",
+          "helpfulVotes": 73
+        }
+      ]
     }
   ]
 }

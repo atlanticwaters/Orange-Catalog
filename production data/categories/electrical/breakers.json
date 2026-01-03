@@ -4,7 +4,7 @@
   "slug": "breakers",
   "path": "/categories/electrical/breakers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.025812",
+  "lastUpdated": "2026-01-03T01:19:30.405602",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -142,7 +142,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-24",
+          "answerDate": "2025-12-25",
+          "helpfulVotes": 65
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-17",
+          "answerDate": "2025-10-21",
+          "helpfulVotes": 127
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-06-01",
+          "answerDate": "2025-06-06",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-07-14",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 124
+        }
+      ]
     }
   ]
 }

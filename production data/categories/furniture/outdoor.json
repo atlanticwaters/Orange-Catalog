@@ -4,7 +4,7 @@
   "slug": "outdoor",
   "path": "/categories/furniture/outdoor",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.062034",
+  "lastUpdated": "2026-01-03T01:19:30.454309",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -66,7 +66,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-13",
+          "answerDate": "2025-05-17",
+          "helpfulVotes": 133
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-20",
+          "helpfulVotes": 77
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-16",
+          "answerDate": "2025-04-17",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "330055714",
@@ -114,7 +146,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-15",
+          "answerDate": "2025-12-22",
+          "helpfulVotes": 59
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-01",
+          "answerDate": "2025-04-05",
+          "helpfulVotes": 106
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-11",
+          "answerDate": "2025-06-15",
+          "helpfulVotes": 147
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-28",
+          "answerDate": "2025-07-05",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "321295957",
@@ -160,7 +234,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-20",
+          "answerDate": "2025-12-26",
+          "helpfulVotes": 145
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-19",
+          "answerDate": "2025-03-22",
+          "helpfulVotes": 100
+        }
+      ]
     },
     {
       "productId": "325887372",
@@ -207,7 +303,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-10",
+          "answerDate": "2025-01-13",
+          "helpfulVotes": 91
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-08",
+          "answerDate": "2025-02-13",
+          "helpfulVotes": 24
+        }
+      ]
     },
     {
       "productId": "325564976",
@@ -251,7 +369,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-14",
+          "answerDate": "2025-12-19",
+          "helpfulVotes": 29
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-30",
+          "answerDate": "2025-07-06",
+          "helpfulVotes": 41
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-09",
+          "answerDate": "2025-10-11",
+          "helpfulVotes": 136
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-23",
+          "answerDate": "2025-03-01",
+          "helpfulVotes": 109
+        }
+      ]
     },
     {
       "productId": "329292724",
@@ -301,7 +461,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-14",
+          "answerDate": "2025-01-21",
+          "helpfulVotes": 36
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-16",
+          "answerDate": "2025-11-22",
+          "helpfulVotes": 90
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-05",
+          "answerDate": "2025-08-09",
+          "helpfulVotes": 10
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-25",
+          "answerDate": "2025-01-28",
+          "helpfulVotes": 60
+        }
+      ]
     },
     {
       "productId": "324856311",
@@ -346,7 +548,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-10",
+          "answerDate": "2025-02-13",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-19",
+          "answerDate": "2025-07-25",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-15",
+          "answerDate": "2025-07-20",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-04",
+          "answerDate": "2025-05-08",
+          "helpfulVotes": 116
+        }
+      ]
     },
     {
       "productId": "333064825",
@@ -389,7 +633,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-23",
+          "answerDate": "2025-02-25",
+          "helpfulVotes": 130
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-24",
+          "answerDate": "2025-01-28",
+          "helpfulVotes": 133
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-26",
+          "answerDate": "2025-04-29",
+          "helpfulVotes": 47
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-04-11",
+          "answerDate": "2025-04-12",
+          "helpfulVotes": 130
+        }
+      ]
     },
     {
       "productId": "330503766",
@@ -434,7 +720,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-07",
+          "answerDate": "2025-09-11",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-24",
+          "answerDate": "2025-06-27",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-17",
+          "answerDate": "2025-02-21",
+          "helpfulVotes": 5
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-16",
+          "answerDate": "2025-02-20",
+          "helpfulVotes": 121
+        }
+      ]
     },
     {
       "productId": "317936522",
@@ -478,7 +806,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-14",
+          "answerDate": "2025-05-21",
+          "helpfulVotes": 131
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-25",
+          "answerDate": "2025-07-30",
+          "helpfulVotes": 15
+        }
+      ]
     },
     {
       "productId": "335030015",
@@ -525,7 +875,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-11-12",
+          "answerDate": "2025-11-16",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-27",
+          "answerDate": "2025-09-03",
+          "helpfulVotes": 34
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-25",
+          "helpfulVotes": 105
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-18",
+          "answerDate": "2025-08-21",
+          "helpfulVotes": 34
+        }
+      ]
     },
     {
       "productId": "325564786",
@@ -573,7 +965,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-12",
+          "answerDate": "2025-10-16",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-08",
+          "answerDate": "2025-08-11",
+          "helpfulVotes": 14
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-10",
+          "answerDate": "2025-12-15",
+          "helpfulVotes": 33
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-31",
+          "answerDate": "2025-08-01",
+          "helpfulVotes": 137
+        }
+      ]
     },
     {
       "productId": "333656187",
@@ -616,7 +1050,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-27",
+          "helpfulVotes": 95
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-05",
+          "answerDate": "2025-02-08",
+          "helpfulVotes": 77
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-22",
+          "helpfulVotes": 136
+        }
+      ]
     },
     {
       "productId": "332475619",
@@ -663,7 +1129,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-01",
+          "answerDate": "2025-07-06",
+          "helpfulVotes": 15
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-11",
+          "answerDate": "2025-12-16",
+          "helpfulVotes": 8
+        }
+      ]
     },
     {
       "productId": "332759693",
@@ -708,7 +1196,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-26",
+          "answerDate": "2025-09-28",
+          "helpfulVotes": 131
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-21",
+          "answerDate": "2025-08-26",
+          "helpfulVotes": 33
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-23",
+          "answerDate": "2025-06-27",
+          "helpfulVotes": 105
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-03",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 121
+        }
+      ]
     },
     {
       "productId": "320310556",
@@ -753,7 +1283,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-10",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 68
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-18",
+          "answerDate": "2025-06-21",
+          "helpfulVotes": 130
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-06",
+          "answerDate": "2025-09-12",
+          "helpfulVotes": 80
+        }
+      ]
     },
     {
       "productId": "320029453",
@@ -797,7 +1359,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-11",
+          "answerDate": "2025-05-13",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-05",
+          "answerDate": "2025-01-12",
+          "helpfulVotes": 126
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-19",
+          "answerDate": "2025-03-26",
+          "helpfulVotes": 150
+        }
+      ]
     },
     {
       "productId": "308882565",
@@ -841,7 +1435,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-18",
+          "answerDate": "2025-09-23",
+          "helpfulVotes": 50
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-16",
+          "answerDate": "2025-07-22",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-19",
+          "answerDate": "2025-03-20",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-11",
+          "answerDate": "2025-05-18",
+          "helpfulVotes": 14
+        }
+      ]
     },
     {
       "productId": "313373746",
@@ -882,7 +1518,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-31",
+          "answerDate": "2025-11-02",
+          "helpfulVotes": 116
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-17",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 146
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-02",
+          "answerDate": "2025-09-04",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-08",
+          "answerDate": "2025-06-14",
+          "helpfulVotes": 38
+        }
+      ]
     },
     {
       "productId": "332692128",
@@ -927,7 +1605,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-14",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-20",
+          "answerDate": "2025-06-25",
+          "helpfulVotes": 45
+        }
+      ]
     },
     {
       "productId": "304970860",
@@ -968,7 +1668,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-25",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-14",
+          "answerDate": "2025-12-15",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-11",
+          "answerDate": "2025-05-16",
+          "helpfulVotes": 112
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-09",
+          "answerDate": "2025-06-10",
+          "helpfulVotes": 41
+        }
+      ]
     },
     {
       "productId": "333231880",
@@ -1012,7 +1754,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-10",
+          "answerDate": "2025-06-15",
+          "helpfulVotes": 78
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-11",
+          "answerDate": "2025-12-18",
+          "helpfulVotes": 60
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-09",
+          "answerDate": "2025-03-12",
+          "helpfulVotes": 68
+        }
+      ]
     },
     {
       "productId": "330725065",
@@ -1059,7 +1833,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-12",
+          "answerDate": "2025-02-18",
+          "helpfulVotes": 10
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-02",
+          "answerDate": "2025-06-07",
+          "helpfulVotes": 72
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-06",
+          "answerDate": "2025-03-09",
+          "helpfulVotes": 10
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-17",
+          "answerDate": "2025-03-21",
+          "helpfulVotes": 115
+        }
+      ]
     },
     {
       "productId": "330444350",
@@ -1107,7 +1923,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-11-21",
+          "answerDate": "2025-11-26",
+          "helpfulVotes": 81
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-19",
+          "answerDate": "2025-01-23",
+          "helpfulVotes": 56
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-04",
+          "answerDate": "2025-11-09",
+          "helpfulVotes": 78
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-11-20",
+          "answerDate": "2025-11-22",
+          "helpfulVotes": 32
+        }
+      ]
     },
     {
       "productId": "335337680",
@@ -1155,7 +2013,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-31",
+          "answerDate": "2025-11-05",
+          "helpfulVotes": 68
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-29",
+          "answerDate": "2025-07-06",
+          "helpfulVotes": 60
+        }
+      ]
     },
     {
       "productId": "340218627",
@@ -1199,7 +2079,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-21",
+          "answerDate": "2025-12-28",
+          "helpfulVotes": 25
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-17",
+          "answerDate": "2025-12-23",
+          "helpfulVotes": 75
+        }
+      ]
     },
     {
       "productId": "333064891",
@@ -1243,7 +2145,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-23",
+          "helpfulVotes": 21
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-27",
+          "answerDate": "2025-12-31",
+          "helpfulVotes": 78
+        }
+      ]
     },
     {
       "productId": "324856311",
@@ -1288,7 +2212,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-03",
+          "answerDate": "2025-05-07",
+          "helpfulVotes": 15
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-25",
+          "answerDate": "2025-04-01",
+          "helpfulVotes": 102
+        }
+      ]
     },
     {
       "productId": "326701012",
@@ -1333,7 +2279,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-10",
+          "answerDate": "2025-03-15",
+          "helpfulVotes": 86
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-17",
+          "answerDate": "2025-07-23",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-13",
+          "answerDate": "2025-07-17",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-18",
+          "answerDate": "2025-09-25",
+          "helpfulVotes": 96
+        }
+      ]
     },
     {
       "productId": "337101706",
@@ -1378,7 +2366,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-04-25",
+          "answerDate": "2025-04-27",
+          "helpfulVotes": 21
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-21",
+          "answerDate": "2025-01-24",
+          "helpfulVotes": 99
+        }
+      ]
     },
     {
       "productId": "332475619",
@@ -1425,7 +2435,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 8
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-22",
+          "answerDate": "2025-12-26",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-13",
+          "answerDate": "2025-06-17",
+          "helpfulVotes": 123
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-02",
+          "answerDate": "2025-05-06",
+          "helpfulVotes": 127
+        }
+      ]
     },
     {
       "productId": "336340079",
@@ -1468,7 +2520,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-16",
+          "answerDate": "2025-07-19",
+          "helpfulVotes": 105
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-12",
+          "answerDate": "2025-04-13",
+          "helpfulVotes": 134
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-21",
+          "answerDate": "2025-09-25",
+          "helpfulVotes": 88
+        }
+      ]
     },
     {
       "productId": "320310556",
@@ -1513,7 +2597,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-22",
+          "answerDate": "2025-08-26",
+          "helpfulVotes": 150
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-14",
+          "answerDate": "2025-05-16",
+          "helpfulVotes": 47
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-14",
+          "answerDate": "2025-03-18",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-13",
+          "answerDate": "2025-10-19",
+          "helpfulVotes": 144
+        }
+      ]
     },
     {
       "productId": "332759693",
@@ -1558,7 +2684,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-15",
+          "answerDate": "2025-06-21",
+          "helpfulVotes": 146
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-15",
+          "answerDate": "2025-08-22",
+          "helpfulVotes": 149
+        }
+      ]
     },
     {
       "productId": "316738544",
@@ -1605,7 +2753,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-11",
+          "answerDate": "2025-12-15",
+          "helpfulVotes": 13
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-26",
+          "answerDate": "2025-09-01",
+          "helpfulVotes": 76
+        }
+      ]
     },
     {
       "productId": "337119587",
@@ -1652,7 +2822,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-01",
+          "answerDate": "2025-08-04",
+          "helpfulVotes": 90
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-06",
+          "answerDate": "2025-06-11",
+          "helpfulVotes": 129
+        }
+      ]
     },
     {
       "productId": "325564786",
@@ -1700,7 +2892,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-10",
+          "answerDate": "2025-09-14",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-25",
+          "answerDate": "2025-07-27",
+          "helpfulVotes": 65
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-25",
+          "answerDate": "2025-07-02",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-07",
+          "answerDate": "2025-02-10",
+          "helpfulVotes": 6
+        }
+      ]
     },
     {
       "productId": "336252306",
@@ -1743,7 +2977,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-06",
+          "answerDate": "2025-05-12",
+          "helpfulVotes": 13
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-27",
+          "answerDate": "2025-08-28",
+          "helpfulVotes": 31
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-26",
+          "answerDate": "2025-02-02",
+          "helpfulVotes": 22
+        }
+      ]
     },
     {
       "productId": "329386268",
@@ -1788,7 +3054,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-12",
+          "answerDate": "2025-12-17",
+          "helpfulVotes": 22
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-06",
+          "answerDate": "2025-01-12",
+          "helpfulVotes": 90
+        }
+      ]
     },
     {
       "productId": "319989093",
@@ -1833,7 +3121,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-14",
+          "answerDate": "2025-12-15",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-25",
+          "answerDate": "2025-05-29",
+          "helpfulVotes": 50
+        }
+      ]
     },
     {
       "productId": "335043385",
@@ -1879,7 +3189,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-22",
+          "answerDate": "2025-07-28",
+          "helpfulVotes": 71
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-29",
+          "answerDate": "2025-05-03",
+          "helpfulVotes": 23
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-22",
+          "answerDate": "2025-12-25",
+          "helpfulVotes": 31
+        }
+      ]
     },
     {
       "productId": "336518095",
@@ -1924,7 +3266,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-18",
+          "answerDate": "2025-12-24",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-04",
+          "answerDate": "2025-02-07",
+          "helpfulVotes": 119
+        }
+      ]
     },
     {
       "productId": "332639987",
@@ -1968,7 +3332,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-28",
+          "answerDate": "2025-05-30",
+          "helpfulVotes": 76
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-08",
+          "answerDate": "2025-02-13",
+          "helpfulVotes": 25
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-13",
+          "answerDate": "2025-06-16",
+          "helpfulVotes": 95
+        }
+      ]
     },
     {
       "productId": "330619859",
@@ -2014,7 +3410,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-11-04",
+          "answerDate": "2025-11-07",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-16",
+          "answerDate": "2025-09-18",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-01",
+          "answerDate": "2025-04-05",
+          "helpfulVotes": 73
+        }
+      ]
     },
     {
       "productId": "338138831",
@@ -2062,7 +3490,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-14",
+          "answerDate": "2025-01-16",
+          "helpfulVotes": 73
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-25",
+          "answerDate": "2025-09-30",
+          "helpfulVotes": 63
+        }
+      ]
     },
     {
       "productId": "332407778",
@@ -2109,7 +3559,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-19",
+          "answerDate": "2025-02-24",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-11",
+          "answerDate": "2025-08-13",
+          "helpfulVotes": 103
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-16",
+          "answerDate": "2025-03-18",
+          "helpfulVotes": 22
+        }
+      ]
     },
     {
       "productId": "313630747",
@@ -2144,7 +3626,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-22",
+          "answerDate": "2025-05-27",
+          "helpfulVotes": 104
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-02",
+          "answerDate": "2025-11-03",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-12",
+          "answerDate": "2025-08-15",
+          "helpfulVotes": 29
+        }
+      ]
     },
     {
       "productId": "331737086",
@@ -2192,7 +3706,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-06",
+          "answerDate": "2025-12-08",
+          "helpfulVotes": 136
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-28",
+          "answerDate": "2025-10-05",
+          "helpfulVotes": 137
+        }
+      ]
     },
     {
       "productId": "321295957",
@@ -2238,7 +3774,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-13",
+          "answerDate": "2025-03-16",
+          "helpfulVotes": 117
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-24",
+          "answerDate": "2025-11-28",
+          "helpfulVotes": 71
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-18",
+          "answerDate": "2025-07-21",
+          "helpfulVotes": 114
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-18",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "320683140",
@@ -2283,7 +3861,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-25",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 87
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-21",
+          "helpfulVotes": 81
+        }
+      ]
     },
     {
       "productId": "333714003",
@@ -2330,7 +3930,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-14",
+          "answerDate": "2025-10-19",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-20",
+          "answerDate": "2025-11-27",
+          "helpfulVotes": 125
+        }
+      ]
     },
     {
       "productId": "324305367",
@@ -2375,7 +3997,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-20",
+          "answerDate": "2025-01-23",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-23",
+          "answerDate": "2025-01-29",
+          "helpfulVotes": 65
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-11",
+          "answerDate": "2025-04-17",
+          "helpfulVotes": 61
+        }
+      ]
     },
     {
       "productId": "304687300",
@@ -2418,7 +4072,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-07",
+          "answerDate": "2025-09-10",
+          "helpfulVotes": 97
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-06",
+          "answerDate": "2025-01-12",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-10",
+          "answerDate": "2025-07-14",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-04-18",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 124
+        }
+      ]
     },
     {
       "productId": "319779358",
@@ -2460,7 +4156,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-14",
+          "answerDate": "2025-03-21",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-01",
+          "answerDate": "2025-06-08",
+          "helpfulVotes": 21
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-27",
+          "answerDate": "2025-04-29",
+          "helpfulVotes": 39
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-09",
+          "answerDate": "2025-07-12",
+          "helpfulVotes": 60
+        }
+      ]
     },
     {
       "productId": "325868922",
@@ -2506,7 +4244,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-01",
+          "answerDate": "2025-02-02",
+          "helpfulVotes": 58
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-15",
+          "answerDate": "2025-09-19",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-10",
+          "answerDate": "2025-07-14",
+          "helpfulVotes": 65
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-16",
+          "answerDate": "2025-06-20",
+          "helpfulVotes": 45
+        }
+      ]
     },
     {
       "productId": "325538878",
@@ -2551,7 +4331,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-04",
+          "answerDate": "2025-09-09",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-13",
+          "answerDate": "2025-10-17",
+          "helpfulVotes": 27
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-09",
+          "answerDate": "2025-03-13",
+          "helpfulVotes": 141
+        }
+      ]
     },
     {
       "productId": "334209643",
@@ -2595,7 +4407,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-27",
+          "answerDate": "2025-03-01",
+          "helpfulVotes": 79
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-20",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 134
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-29",
+          "answerDate": "2025-07-02",
+          "helpfulVotes": 122
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-20",
+          "helpfulVotes": 56
+        }
+      ]
     },
     {
       "productId": "331898646",
@@ -2641,7 +4495,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-12",
+          "answerDate": "2025-10-13",
+          "helpfulVotes": 116
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-01",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 133
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-17",
+          "answerDate": "2025-07-24",
+          "helpfulVotes": 9
+        }
+      ]
     },
     {
       "productId": "328660544",
@@ -2684,7 +4570,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-17",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-24",
+          "answerDate": "2025-07-30",
+          "helpfulVotes": 17
+        }
+      ]
     },
     {
       "productId": "340218636",
@@ -2730,7 +4638,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-04-29",
+          "answerDate": "2025-05-04",
+          "helpfulVotes": 109
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-29",
+          "answerDate": "2025-09-02",
+          "helpfulVotes": 116
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-09",
+          "answerDate": "2025-04-13",
+          "helpfulVotes": 142
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-01",
+          "answerDate": "2025-10-07",
+          "helpfulVotes": 49
+        }
+      ]
     },
     {
       "productId": "330619795",
@@ -2777,7 +4727,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-11-12",
+          "answerDate": "2025-11-15",
+          "helpfulVotes": 39
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-18",
+          "helpfulVotes": 58
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-18",
+          "answerDate": "2025-02-22",
+          "helpfulVotes": 123
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-31",
+          "answerDate": "2025-04-04",
+          "helpfulVotes": 96
+        }
+      ]
     },
     {
       "productId": "332759658",
@@ -2821,7 +4813,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-02-20",
+          "answerDate": "2025-02-27",
+          "helpfulVotes": 89
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-19",
+          "answerDate": "2025-03-20",
+          "helpfulVotes": 31
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-25",
+          "answerDate": "2025-12-29",
+          "helpfulVotes": 10
+        }
+      ]
     },
     {
       "productId": "329111581",
@@ -2867,7 +4891,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-08",
+          "answerDate": "2025-10-15",
+          "helpfulVotes": 11
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-13",
+          "answerDate": "2025-12-17",
+          "helpfulVotes": 77
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-27",
+          "answerDate": "2025-11-29",
+          "helpfulVotes": 79
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-13",
+          "answerDate": "2025-03-18",
+          "helpfulVotes": 9
+        }
+      ]
     },
     {
       "productId": "333247530",
@@ -2914,7 +4980,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-12",
+          "answerDate": "2025-06-16",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-12",
+          "answerDate": "2025-12-15",
+          "helpfulVotes": 132
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-26",
+          "answerDate": "2025-11-27",
+          "helpfulVotes": 79
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-25",
+          "helpfulVotes": 134
+        }
+      ]
     },
     {
       "productId": "332407778",
@@ -2961,7 +5069,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-04-14",
+          "answerDate": "2025-04-16",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-17",
+          "answerDate": "2025-05-18",
+          "helpfulVotes": 120
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-17",
+          "answerDate": "2025-09-18",
+          "helpfulVotes": 136
+        }
+      ]
     },
     {
       "productId": "319989093",
@@ -3006,7 +5146,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-08",
+          "answerDate": "2025-09-12",
+          "helpfulVotes": 124
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-28",
+          "answerDate": "2025-11-03",
+          "helpfulVotes": 83
+        }
+      ]
     },
     {
       "productId": "329386268",
@@ -3051,7 +5213,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-07",
+          "answerDate": "2025-03-10",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-19",
+          "answerDate": "2025-09-21",
+          "helpfulVotes": 21
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-08",
+          "answerDate": "2025-06-12",
+          "helpfulVotes": 89
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-26",
+          "answerDate": "2025-08-28",
+          "helpfulVotes": 43
+        }
+      ]
     },
     {
       "productId": "335043385",
@@ -3097,7 +5301,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-13",
+          "answerDate": "2025-03-14",
+          "helpfulVotes": 24
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-10",
+          "answerDate": "2025-11-16",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-09",
+          "answerDate": "2025-04-12",
+          "helpfulVotes": 142
+        }
+      ]
     },
     {
       "productId": "330619859",
@@ -3143,7 +5379,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-23",
+          "answerDate": "2025-03-28",
+          "helpfulVotes": 117
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-06",
+          "answerDate": "2025-07-12",
+          "helpfulVotes": 69
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-24",
+          "answerDate": "2025-11-29",
+          "helpfulVotes": 102
+        }
+      ]
     },
     {
       "productId": "326907522",
@@ -3190,7 +5458,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-24",
+          "answerDate": "2025-06-27",
+          "helpfulVotes": 20
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-19",
+          "answerDate": "2025-06-24",
+          "helpfulVotes": 104
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-24",
+          "answerDate": "2025-11-30",
+          "helpfulVotes": 67
+        }
+      ]
     },
     {
       "productId": "324305367",
@@ -3235,7 +5535,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-08-11",
+          "answerDate": "2025-08-18",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-23",
+          "answerDate": "2025-08-29",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-06",
+          "answerDate": "2025-07-07",
+          "helpfulVotes": 16
+        }
+      ]
     },
     {
       "productId": "319779358",
@@ -3277,7 +5609,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-08",
+          "answerDate": "2025-12-13",
+          "helpfulVotes": 19
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-12",
+          "answerDate": "2025-06-14",
+          "helpfulVotes": 117
+        }
+      ]
     },
     {
       "productId": "336736491",
@@ -3322,7 +5676,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-04-15",
+          "answerDate": "2025-04-16",
+          "helpfulVotes": 140
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-27",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-15",
+          "answerDate": "2025-05-20",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-22",
+          "helpfulVotes": 5
+        }
+      ]
     },
     {
       "productId": "333714003",
@@ -3369,7 +5765,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-14",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 34
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-03",
+          "answerDate": "2025-06-05",
+          "helpfulVotes": 17
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-27",
+          "helpfulVotes": 72
+        }
+      ]
     },
     {
       "productId": "333244423",
@@ -3414,7 +5842,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-30",
+          "answerDate": "2025-07-04",
+          "helpfulVotes": 22
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-26",
+          "answerDate": "2025-10-29",
+          "helpfulVotes": 118
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-10",
+          "answerDate": "2025-09-12",
+          "helpfulVotes": 45
+        }
+      ]
     },
     {
       "productId": "334872646",
@@ -3460,7 +5920,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-09-19",
+          "answerDate": "2025-09-23",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-17",
+          "answerDate": "2025-08-23",
+          "helpfulVotes": 24
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-22",
+          "answerDate": "2025-05-27",
+          "helpfulVotes": 149
+        }
+      ]
     },
     {
       "productId": "333066990",
@@ -3504,7 +5996,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-22",
+          "answerDate": "2025-01-24",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-27",
+          "answerDate": "2025-07-31",
+          "helpfulVotes": 103
+        }
+      ]
     },
     {
       "productId": "331898646",
@@ -3550,7 +6064,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-05",
+          "answerDate": "2025-07-07",
+          "helpfulVotes": 48
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-21",
+          "answerDate": "2025-02-28",
+          "helpfulVotes": 66
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-12",
+          "answerDate": "2025-10-14",
+          "helpfulVotes": 100
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-09",
+          "answerDate": "2025-06-10",
+          "helpfulVotes": 58
+        }
+      ]
     },
     {
       "productId": "336175743",
@@ -3596,7 +6152,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-30",
+          "answerDate": "2025-04-05",
+          "helpfulVotes": 104
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-06",
+          "answerDate": "2025-11-09",
+          "helpfulVotes": 61
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-14",
+          "answerDate": "2025-08-16",
+          "helpfulVotes": 144
+        }
+      ]
     },
     {
       "productId": "321549135",
@@ -3643,7 +6231,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-11-06",
+          "answerDate": "2025-11-10",
+          "helpfulVotes": 48
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-30",
+          "answerDate": "2025-06-04",
+          "helpfulVotes": 39
+        }
+      ]
     },
     {
       "productId": "325868922",
@@ -3689,7 +6299,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-04",
+          "answerDate": "2025-07-09",
+          "helpfulVotes": 122
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-17",
+          "answerDate": "2025-11-21",
+          "helpfulVotes": 45
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-22",
+          "answerDate": "2025-03-24",
+          "helpfulVotes": 56
+        }
+      ]
     },
     {
       "productId": "330619795",
@@ -3736,7 +6378,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-04-25",
+          "answerDate": "2025-05-01",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-16",
+          "answerDate": "2025-09-21",
+          "helpfulVotes": 107
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-13",
+          "answerDate": "2025-11-16",
+          "helpfulVotes": 51
+        }
+      ]
     },
     {
       "productId": "331169334",
@@ -3781,7 +6455,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-28",
+          "answerDate": "2025-06-01",
+          "helpfulVotes": 146
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-20",
+          "answerDate": "2025-11-23",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-21",
+          "helpfulVotes": 45
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-06-21",
+          "answerDate": "2025-06-23",
+          "helpfulVotes": 66
+        }
+      ]
     },
     {
       "productId": "329111581",
@@ -3827,7 +6543,39 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-05",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-16",
+          "answerDate": "2025-11-20",
+          "helpfulVotes": 101
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-12",
+          "answerDate": "2025-05-16",
+          "helpfulVotes": 52
+        }
+      ]
     },
     {
       "productId": "320532167",
@@ -3872,7 +6620,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-03-05",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 127
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-18",
+          "answerDate": "2025-10-22",
+          "helpfulVotes": 17
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-09",
+          "answerDate": "2025-12-10",
+          "helpfulVotes": 83
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-07-12",
+          "answerDate": "2025-07-13",
+          "helpfulVotes": 27
+        }
+      ]
     },
     {
       "productId": "321571807",
@@ -3916,7 +6706,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-12",
+          "answerDate": "2025-01-19",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-25",
+          "answerDate": "2025-07-02",
+          "helpfulVotes": 106
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-30",
+          "answerDate": "2025-07-03",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-01-26",
+          "answerDate": "2025-01-29",
+          "helpfulVotes": 78
+        }
+      ]
     },
     {
       "productId": "330490678",
@@ -3966,7 +6798,49 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-05-17",
+          "answerDate": "2025-05-22",
+          "helpfulVotes": 135
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-08",
+          "answerDate": "2025-01-12",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_3",
+          "question": "Is the fabric stain-resistant?",
+          "answer": "The upholstery is treated with a stain-resistant finish for easy cleaning. For best results, blot spills immediately and clean with a mild soap solution.",
+          "askedBy": "ParentOfThree",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-08",
+          "answerDate": "2025-11-10",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a warranty?",
+          "answer": "Yes, this product includes a 1-year limited warranty against manufacturing defects. Keep your receipt for warranty claims.",
+          "askedBy": "SmartShopper",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-10-28",
+          "answerDate": "2025-10-31",
+          "helpfulVotes": 64
+        }
+      ]
     },
     {
       "productId": "336176326",
@@ -4012,7 +6886,29 @@
         "Easy assembly with included tools",
         "Stackable for easy storage"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is assembly required?",
+          "answer": "Yes, some assembly is required. All necessary hardware and instructions are included. Most customers complete assembly in 30-60 minutes with basic tools.",
+          "askedBy": "ApartmentDweller",
+          "answeredBy": "FurnitureExpert",
+          "questionDate": "2025-12-02",
+          "answerDate": "2025-12-07",
+          "helpfulVotes": 66
+        },
+        {
+          "id": "qa_2",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications section for the exact weight capacity. Most seating is rated for 250-300 lbs per seat.",
+          "askedBy": "SafetyFirst",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-11",
+          "answerDate": "2025-12-14",
+          "helpfulVotes": 18
+        }
+      ]
     }
   ]
 }

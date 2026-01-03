@@ -4,7 +4,7 @@
   "slug": "planers",
   "path": "/categories/tools/planers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.035044",
+  "lastUpdated": "2026-01-03T01:19:30.420606",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -151,7 +151,39 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-18",
+          "answerDate": "2025-08-25",
+          "helpfulVotes": 112
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 7
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-13",
+          "answerDate": "2025-06-15",
+          "helpfulVotes": 115
+        }
+      ]
     },
     {
       "productId": "203068919",
@@ -243,7 +275,49 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-09",
+          "answerDate": "2025-11-15",
+          "helpfulVotes": 44
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-11-18",
+          "answerDate": "2025-11-23",
+          "helpfulVotes": 95
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-14",
+          "answerDate": "2025-05-17",
+          "helpfulVotes": 138
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-23",
+          "answerDate": "2025-07-28",
+          "helpfulVotes": 70
+        }
+      ]
     },
     {
       "productId": "100634358",
@@ -335,7 +409,49 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-10",
+          "answerDate": "2025-02-15",
+          "helpfulVotes": 133
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-02-21",
+          "answerDate": "2025-02-28",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-12",
+          "answerDate": "2025-03-13",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-06",
+          "answerDate": "2025-09-11",
+          "helpfulVotes": 105
+        }
+      ]
     },
     {
       "productId": "202265685",
@@ -427,7 +543,29 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-27",
+          "answerDate": "2025-04-01",
+          "helpfulVotes": 73
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-11-24",
+          "answerDate": "2025-11-30",
+          "helpfulVotes": 65
+        }
+      ]
     },
     {
       "productId": "206042019",
@@ -519,7 +657,29 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-14",
+          "answerDate": "2025-10-19",
+          "helpfulVotes": 120
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-09-11",
+          "answerDate": "2025-09-14",
+          "helpfulVotes": 65
+        }
+      ]
     },
     {
       "productId": "205509610",
@@ -611,7 +771,39 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-10",
+          "answerDate": "2025-04-13",
+          "helpfulVotes": 126
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-07-14",
+          "answerDate": "2025-07-17",
+          "helpfulVotes": 25
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-30",
+          "answerDate": "2025-06-02",
+          "helpfulVotes": 122
+        }
+      ]
     },
     {
       "productId": "323591855",
@@ -703,7 +895,49 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-02",
+          "answerDate": "2025-04-03",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-10-25",
+          "answerDate": "2025-10-31",
+          "helpfulVotes": 24
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-28",
+          "answerDate": "2025-11-02",
+          "helpfulVotes": 147
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-01",
+          "answerDate": "2025-11-08",
+          "helpfulVotes": 16
+        }
+      ]
     },
     {
       "productId": "203054755",
@@ -795,7 +1029,29 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-16",
+          "answerDate": "2025-08-19",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-08-31",
+          "answerDate": "2025-09-02",
+          "helpfulVotes": 104
+        }
+      ]
     },
     {
       "productId": "308557507",
@@ -887,7 +1143,49 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-25",
+          "answerDate": "2025-05-28",
+          "helpfulVotes": 124
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-12-08",
+          "answerDate": "2025-12-11",
+          "helpfulVotes": 125
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-18",
+          "answerDate": "2025-12-20",
+          "helpfulVotes": 93
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-26",
+          "answerDate": "2025-03-29",
+          "helpfulVotes": 54
+        }
+      ]
     },
     {
       "productId": "337641116",
@@ -942,7 +1240,49 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-25",
+          "answerDate": "2025-12-01",
+          "helpfulVotes": 18
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-05-02",
+          "answerDate": "2025-05-08",
+          "helpfulVotes": 23
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-16",
+          "answerDate": "2025-08-17",
+          "helpfulVotes": 115
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-18",
+          "answerDate": "2025-05-19",
+          "helpfulVotes": 90
+        }
+      ]
     },
     {
       "productId": "301289964",
@@ -1034,7 +1374,39 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-06",
+          "answerDate": "2025-03-12",
+          "helpfulVotes": 111
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-03-16",
+          "answerDate": "2025-03-19",
+          "helpfulVotes": 127
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-08",
+          "answerDate": "2025-08-09",
+          "helpfulVotes": 126
+        }
+      ]
     },
     {
       "productId": "100634640",
@@ -1126,7 +1498,39 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-12",
+          "answerDate": "2025-06-14",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-03-05",
+          "answerDate": "2025-03-12",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-09",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 149
+        }
+      ]
     },
     {
       "productId": "100011483",
@@ -1218,7 +1622,39 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-24",
+          "answerDate": "2025-06-28",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-07-24",
+          "answerDate": "2025-07-26",
+          "helpfulVotes": 35
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-11",
+          "answerDate": "2025-12-12",
+          "helpfulVotes": 67
+        }
+      ]
     },
     {
       "productId": "321574153",
@@ -1310,7 +1746,49 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-22",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 127
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-10-19",
+          "answerDate": "2025-10-20",
+          "helpfulVotes": 86
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-01",
+          "answerDate": "2025-04-04",
+          "helpfulVotes": 119
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-30",
+          "answerDate": "2025-06-03",
+          "helpfulVotes": 10
+        }
+      ]
     },
     {
       "productId": "205561450",
@@ -1402,7 +1880,29 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-24",
+          "answerDate": "2025-09-28",
+          "helpfulVotes": 14
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-01-28",
+          "answerDate": "2025-01-30",
+          "helpfulVotes": 94
+        }
+      ]
     },
     {
       "productId": "203164088",
@@ -1491,7 +1991,49 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-04",
+          "answerDate": "2025-10-11",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-10-05",
+          "answerDate": "2025-10-10",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-06",
+          "answerDate": "2025-04-13",
+          "helpfulVotes": 45
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-18",
+          "answerDate": "2025-11-19",
+          "helpfulVotes": 34
+        }
+      ]
     }
   ]
 }

@@ -4,7 +4,7 @@
   "slug": "storage",
   "path": "/categories/garage/storage",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.080618",
+  "lastUpdated": "2026-01-03T01:19:30.481624",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -214,7 +214,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-26",
+          "answerDate": "2025-08-30",
+          "helpfulVotes": 30
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-08",
+          "answerDate": "2025-06-13",
+          "helpfulVotes": 20
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-23",
+          "helpfulVotes": 7
+        }
+      ]
     },
     {
       "productId": "319132842",
@@ -341,7 +373,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-27",
+          "answerDate": "2025-05-01",
+          "helpfulVotes": 47
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-18",
+          "answerDate": "2025-06-24",
+          "helpfulVotes": 98
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-04",
+          "answerDate": "2025-05-05",
+          "helpfulVotes": 16
+        }
+      ]
     },
     {
       "productId": "328789870",
@@ -469,7 +533,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-15",
+          "answerDate": "2025-10-16",
+          "helpfulVotes": 131
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-21",
+          "answerDate": "2025-05-25",
+          "helpfulVotes": 38
+        }
+      ]
     },
     {
       "productId": "338102831",
@@ -523,7 +609,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-06",
+          "answerDate": "2025-02-10",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-23",
+          "answerDate": "2025-04-26",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-03-20",
+          "answerDate": "2025-03-22",
+          "helpfulVotes": 57
+        }
+      ]
     },
     {
       "productId": "322631796",
@@ -971,7 +1089,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-12",
+          "answerDate": "2025-04-13",
+          "helpfulVotes": 47
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-23",
+          "answerDate": "2025-04-25",
+          "helpfulVotes": 147
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-19",
+          "answerDate": "2025-05-26",
+          "helpfulVotes": 107
+        }
+      ]
     },
     {
       "productId": "311742117",
@@ -1103,7 +1253,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-10",
+          "answerDate": "2025-11-16",
+          "helpfulVotes": 8
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-25",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 85
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-02-06",
+          "answerDate": "2025-02-07",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "331730721",
@@ -1204,7 +1386,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-19",
+          "answerDate": "2025-12-22",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-17",
+          "answerDate": "2025-07-20",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-07-02",
+          "answerDate": "2025-07-06",
+          "helpfulVotes": 104
+        }
+      ]
     },
     {
       "productId": "306659735",
@@ -1305,7 +1519,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-06",
+          "answerDate": "2025-10-12",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-09",
+          "answerDate": "2025-04-10",
+          "helpfulVotes": 84
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-02",
+          "answerDate": "2025-05-06",
+          "helpfulVotes": 28
+        }
+      ]
     },
     {
       "productId": "307723264",
@@ -1406,7 +1652,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-26",
+          "answerDate": "2025-10-01",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-05",
+          "answerDate": "2025-02-06",
+          "helpfulVotes": 42
+        }
+      ]
     },
     {
       "productId": "301810799",
@@ -1507,7 +1775,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-06",
+          "answerDate": "2025-07-13",
+          "helpfulVotes": 109
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-17",
+          "answerDate": "2025-12-22",
+          "helpfulVotes": 122
+        }
+      ]
     },
     {
       "productId": "316330487",
@@ -1608,7 +1898,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-15",
+          "answerDate": "2025-06-19",
+          "helpfulVotes": 20
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-02",
+          "answerDate": "2025-06-08",
+          "helpfulVotes": 37
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-29",
+          "answerDate": "2025-05-31",
+          "helpfulVotes": 146
+        }
+      ]
     },
     {
       "productId": "306605251",
@@ -1687,7 +2009,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-08",
+          "answerDate": "2025-02-11",
+          "helpfulVotes": 14
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-04",
+          "answerDate": "2025-08-06",
+          "helpfulVotes": 113
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-04-27",
+          "answerDate": "2025-04-28",
+          "helpfulVotes": 114
+        }
+      ]
     },
     {
       "productId": "306907980",
@@ -1840,7 +2194,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-01",
+          "answerDate": "2025-12-06",
+          "helpfulVotes": 36
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-05",
+          "answerDate": "2025-06-09",
+          "helpfulVotes": 117
+        }
+      ]
     },
     {
       "productId": "306605238",
@@ -1919,7 +2295,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-02",
+          "answerDate": "2025-07-05",
+          "helpfulVotes": 93
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-09",
+          "answerDate": "2025-08-11",
+          "helpfulVotes": 97
+        }
+      ]
     },
     {
       "productId": "337674677",
@@ -1973,7 +2371,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-13",
+          "answerDate": "2025-04-18",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-12",
+          "answerDate": "2025-08-13",
+          "helpfulVotes": 131
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-11-17",
+          "answerDate": "2025-11-23",
+          "helpfulVotes": 33
+        }
+      ]
     },
     {
       "productId": "337358176",
@@ -2027,7 +2457,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-24",
+          "answerDate": "2025-03-03",
+          "helpfulVotes": 47
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-13",
+          "answerDate": "2025-07-20",
+          "helpfulVotes": 122
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-11-27",
+          "answerDate": "2025-12-02",
+          "helpfulVotes": 136
+        }
+      ]
     },
     {
       "productId": "306605248",
@@ -2106,7 +2568,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-11",
+          "answerDate": "2025-10-18",
+          "helpfulVotes": 103
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-28",
+          "helpfulVotes": 29
+        }
+      ]
     },
     {
       "productId": "317133079",
@@ -2185,7 +2669,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-05",
+          "answerDate": "2025-03-12",
+          "helpfulVotes": 101
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-19",
+          "answerDate": "2025-10-20",
+          "helpfulVotes": 110
+        }
+      ]
     },
     {
       "productId": "335659319",
@@ -2264,7 +2770,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-30",
+          "answerDate": "2025-10-07",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-30",
+          "answerDate": "2025-08-01",
+          "helpfulVotes": 79
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-11-14",
+          "answerDate": "2025-11-20",
+          "helpfulVotes": 96
+        }
+      ]
     },
     {
       "productId": "317133426",
@@ -2343,7 +2881,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-22",
+          "answerDate": "2025-08-25",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-24",
+          "answerDate": "2025-10-30",
+          "helpfulVotes": 84
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-15",
+          "answerDate": "2025-05-17",
+          "helpfulVotes": 5
+        }
+      ]
     },
     {
       "productId": "306907993",
@@ -2422,7 +2992,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-03",
+          "answerDate": "2025-02-08",
+          "helpfulVotes": 22
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-08",
+          "helpfulVotes": 87
+        }
+      ]
     },
     {
       "productId": "311336544",
@@ -2501,7 +3093,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-06",
+          "answerDate": "2025-12-13",
+          "helpfulVotes": 90
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-10",
+          "answerDate": "2025-06-13",
+          "helpfulVotes": 103
+        }
+      ]
     },
     {
       "productId": "306605257",
@@ -2580,7 +3194,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-28",
+          "answerDate": "2025-03-03",
+          "helpfulVotes": 24
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-28",
+          "answerDate": "2025-03-01",
+          "helpfulVotes": 64
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-02-28",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 139
+        }
+      ]
     },
     {
       "productId": "306907992",
@@ -2659,7 +3305,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-26",
+          "answerDate": "2025-05-28",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-11",
+          "answerDate": "2025-12-18",
+          "helpfulVotes": 76
+        }
+      ]
     },
     {
       "productId": "306605254",
@@ -2738,7 +3406,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-31",
+          "answerDate": "2025-11-03",
+          "helpfulVotes": 140
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-15",
+          "answerDate": "2025-11-18",
+          "helpfulVotes": 72
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-06-04",
+          "answerDate": "2025-06-05",
+          "helpfulVotes": 86
+        }
+      ]
     },
     {
       "productId": "205395107",
@@ -2817,7 +3517,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-25",
+          "answerDate": "2025-11-26",
+          "helpfulVotes": 28
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-27",
+          "answerDate": "2025-10-04",
+          "helpfulVotes": 41
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-11-07",
+          "answerDate": "2025-11-08",
+          "helpfulVotes": 37
+        }
+      ]
     },
     {
       "productId": "306605235",
@@ -2896,7 +3628,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-28",
+          "answerDate": "2025-09-02",
+          "helpfulVotes": 40
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-12",
+          "answerDate": "2025-04-16",
+          "helpfulVotes": 125
+        }
+      ]
     },
     {
       "productId": "306605246",
@@ -2975,7 +3729,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-14",
+          "answerDate": "2025-01-18",
+          "helpfulVotes": 24
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-23",
+          "answerDate": "2025-07-24",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-06-15",
+          "answerDate": "2025-06-20",
+          "helpfulVotes": 11
+        }
+      ]
     },
     {
       "productId": "306605242",
@@ -3054,7 +3840,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-28",
+          "answerDate": "2025-06-03",
+          "helpfulVotes": 112
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-05",
+          "answerDate": "2025-06-10",
+          "helpfulVotes": 19
+        }
+      ]
     },
     {
       "productId": "324640217",
@@ -3147,7 +3955,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-25",
+          "helpfulVotes": 66
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-21",
+          "answerDate": "2025-08-22",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-06-13",
+          "answerDate": "2025-06-17",
+          "helpfulVotes": 47
+        }
+      ]
     },
     {
       "productId": "333936177",
@@ -3259,7 +4099,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-28",
+          "answerDate": "2025-07-04",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-15",
+          "answerDate": "2025-09-16",
+          "helpfulVotes": 17
+        }
+      ]
     },
     {
       "productId": "335983234",
@@ -3352,7 +4214,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-20",
+          "answerDate": "2025-09-27",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-13",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 65
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-03-23",
+          "answerDate": "2025-03-26",
+          "helpfulVotes": 109
+        }
+      ]
     },
     {
       "productId": "314128004",
@@ -3475,7 +4369,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-31",
+          "answerDate": "2025-08-04",
+          "helpfulVotes": 36
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-17",
+          "answerDate": "2025-01-24",
+          "helpfulVotes": 108
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-27",
+          "answerDate": "2025-05-28",
+          "helpfulVotes": 78
+        }
+      ]
     },
     {
       "productId": "334453642",
@@ -3568,7 +4494,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-05",
+          "answerDate": "2025-01-12",
+          "helpfulVotes": 69
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-10",
+          "answerDate": "2025-07-14",
+          "helpfulVotes": 18
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-12-17",
+          "answerDate": "2025-12-19",
+          "helpfulVotes": 97
+        }
+      ]
     },
     {
       "productId": "302255876",
@@ -3680,7 +4638,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-02",
+          "answerDate": "2025-12-05",
+          "helpfulVotes": 121
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-08",
+          "answerDate": "2025-03-14",
+          "helpfulVotes": 39
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-04-18",
+          "answerDate": "2025-04-19",
+          "helpfulVotes": 41
+        }
+      ]
     },
     {
       "productId": "317006776",
@@ -3792,7 +4782,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-05",
+          "answerDate": "2025-02-08",
+          "helpfulVotes": 87
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-16",
+          "answerDate": "2025-11-22",
+          "helpfulVotes": 71
+        }
+      ]
     },
     {
       "productId": "322631798",
@@ -3885,7 +4897,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-25",
+          "answerDate": "2025-02-28",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-22",
+          "answerDate": "2025-11-25",
+          "helpfulVotes": 90
+        }
+      ]
     },
     {
       "productId": "305410517",
@@ -3978,7 +5012,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-24",
+          "answerDate": "2025-02-27",
+          "helpfulVotes": 41
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-20",
+          "answerDate": "2025-06-27",
+          "helpfulVotes": 23
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-02-17",
+          "answerDate": "2025-02-24",
+          "helpfulVotes": 139
+        }
+      ]
     },
     {
       "productId": "321449465",
@@ -4071,7 +5137,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-19",
+          "answerDate": "2025-12-20",
+          "helpfulVotes": 81
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-31",
+          "answerDate": "2025-02-02",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "304094257",
@@ -4183,7 +5271,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-16",
+          "helpfulVotes": 29
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-27",
+          "answerDate": "2025-10-02",
+          "helpfulVotes": 117
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 7
+        }
+      ]
     },
     {
       "productId": "321449464",
@@ -4276,7 +5396,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-23",
+          "answerDate": "2025-05-24",
+          "helpfulVotes": 127
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-31",
+          "answerDate": "2025-04-03",
+          "helpfulVotes": 96
+        }
+      ]
     },
     {
       "productId": "317060709",
@@ -4369,7 +5511,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-24",
+          "answerDate": "2025-06-30",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-12",
+          "answerDate": "2025-08-15",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-04-12",
+          "answerDate": "2025-04-13",
+          "helpfulVotes": 17
+        }
+      ]
     },
     {
       "productId": "316253069",
@@ -4462,7 +5636,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-22",
+          "answerDate": "2025-06-24",
+          "helpfulVotes": 115
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-21",
+          "answerDate": "2025-01-24",
+          "helpfulVotes": 5
+        }
+      ]
     },
     {
       "productId": "322631799",
@@ -4555,7 +5751,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-29",
+          "answerDate": "2025-05-02",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-10",
+          "answerDate": "2025-09-16",
+          "helpfulVotes": 48
+        }
+      ]
     },
     {
       "productId": "333850203",
@@ -4648,7 +5866,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-01",
+          "answerDate": "2025-11-07",
+          "helpfulVotes": 80
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-14",
+          "answerDate": "2025-12-18",
+          "helpfulVotes": 145
+        }
+      ]
     },
     {
       "productId": "304079110",
@@ -4741,7 +5981,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-03",
+          "answerDate": "2025-09-04",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-16",
+          "answerDate": "2025-03-21",
+          "helpfulVotes": 88
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-01-13",
+          "answerDate": "2025-01-19",
+          "helpfulVotes": 87
+        }
+      ]
     },
     {
       "productId": "333936182",
@@ -4834,7 +6106,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-14",
+          "answerDate": "2025-10-17",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-22",
+          "answerDate": "2025-08-29",
+          "helpfulVotes": 21
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-08-02",
+          "answerDate": "2025-08-03",
+          "helpfulVotes": 135
+        }
+      ]
     },
     {
       "productId": "329899702",
@@ -4927,7 +6231,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-28",
+          "answerDate": "2025-12-05",
+          "helpfulVotes": 76
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-06",
+          "answerDate": "2025-07-08",
+          "helpfulVotes": 83
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-12-04",
+          "answerDate": "2025-12-07",
+          "helpfulVotes": 63
+        }
+      ]
     },
     {
       "productId": "326917476",
@@ -5002,7 +6338,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-13",
+          "answerDate": "2025-11-16",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-04",
+          "answerDate": "2025-08-06",
+          "helpfulVotes": 66
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-09-14",
+          "answerDate": "2025-09-20",
+          "helpfulVotes": 102
+        }
+      ]
     },
     {
       "productId": "322034340",
@@ -5103,7 +6471,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-24",
+          "answerDate": "2025-10-27",
+          "helpfulVotes": 85
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-09",
+          "answerDate": "2025-12-10",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-06-16",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 78
+        }
+      ]
     },
     {
       "productId": "319594785",
@@ -5193,7 +6593,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-23",
+          "helpfulVotes": 147
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-10",
+          "answerDate": "2025-11-16",
+          "helpfulVotes": 55
+        }
+      ]
     },
     {
       "productId": "334615276",
@@ -5268,7 +6690,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-04",
+          "answerDate": "2025-11-11",
+          "helpfulVotes": 109
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-13",
+          "answerDate": "2025-03-17",
+          "helpfulVotes": 95
+        }
+      ]
     },
     {
       "productId": "326825858",
@@ -5343,7 +6787,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-20",
+          "answerDate": "2025-08-24",
+          "helpfulVotes": 87
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-06",
+          "answerDate": "2025-12-11",
+          "helpfulVotes": 60
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-08-03",
+          "answerDate": "2025-08-10",
+          "helpfulVotes": 53
+        }
+      ]
     },
     {
       "productId": "340327807",
@@ -5397,7 +6873,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-24",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 105
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-14",
+          "answerDate": "2025-10-17",
+          "helpfulVotes": 22
+        }
+      ]
     },
     {
       "productId": "313765820",
@@ -5472,7 +6970,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-04",
+          "answerDate": "2025-09-05",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-01",
+          "answerDate": "2025-07-04",
+          "helpfulVotes": 58
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-30",
+          "answerDate": "2025-06-03",
+          "helpfulVotes": 86
+        }
+      ]
     },
     {
       "productId": "317342128",
@@ -5547,7 +7077,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-14",
+          "answerDate": "2025-03-19",
+          "helpfulVotes": 17
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-07",
+          "answerDate": "2025-03-12",
+          "helpfulVotes": 102
+        }
+      ]
     },
     {
       "productId": "331010111",
@@ -5622,7 +7174,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-23",
+          "answerDate": "2025-07-24",
+          "helpfulVotes": 140
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-31",
+          "helpfulVotes": 131
+        }
+      ]
     },
     {
       "productId": "326826687",
@@ -5697,7 +7271,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-07",
+          "answerDate": "2025-08-08",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-05",
+          "answerDate": "2025-04-08",
+          "helpfulVotes": 135
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-03-21",
+          "answerDate": "2025-03-25",
+          "helpfulVotes": 30
+        }
+      ]
     },
     {
       "productId": "326917512",
@@ -5772,7 +7378,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-15",
+          "answerDate": "2025-05-19",
+          "helpfulVotes": 68
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-02",
+          "answerDate": "2025-07-03",
+          "helpfulVotes": 112
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-08-30",
+          "answerDate": "2025-09-01",
+          "helpfulVotes": 50
+        }
+      ]
     },
     {
       "productId": "333346632",
@@ -5847,7 +7485,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-29",
+          "answerDate": "2025-12-02",
+          "helpfulVotes": 112
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-14",
+          "answerDate": "2025-11-18",
+          "helpfulVotes": 112
+        }
+      ]
     },
     {
       "productId": "336473485",
@@ -5922,7 +7582,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-10",
+          "answerDate": "2025-07-12",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-15",
+          "answerDate": "2025-02-20",
+          "helpfulVotes": 9
+        }
+      ]
     },
     {
       "productId": "336473467",
@@ -5997,7 +7679,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-21",
+          "answerDate": "2025-05-24",
+          "helpfulVotes": 55
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-02",
+          "answerDate": "2025-04-05",
+          "helpfulVotes": 14
+        }
+      ]
     },
     {
       "productId": "326980093",
@@ -6072,7 +7776,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-04",
+          "answerDate": "2025-07-05",
+          "helpfulVotes": 129
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-06",
+          "answerDate": "2025-05-07",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-01-22",
+          "answerDate": "2025-01-23",
+          "helpfulVotes": 5
+        }
+      ]
     },
     {
       "productId": "331592328",
@@ -6147,7 +7883,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-03",
+          "answerDate": "2025-06-09",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-05",
+          "answerDate": "2025-03-11",
+          "helpfulVotes": 27
+        }
+      ]
     },
     {
       "productId": "334408609",
@@ -6222,7 +7980,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-21",
+          "answerDate": "2025-01-28",
+          "helpfulVotes": 73
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-21",
+          "answerDate": "2025-10-23",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-03-25",
+          "answerDate": "2025-03-29",
+          "helpfulVotes": 85
+        }
+      ]
     },
     {
       "productId": "206288227",
@@ -6304,7 +8094,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-29",
+          "answerDate": "2025-05-03",
+          "helpfulVotes": 86
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-29",
+          "answerDate": "2025-12-04",
+          "helpfulVotes": 30
+        }
+      ]
     },
     {
       "productId": "340327299",
@@ -6354,7 +8166,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-28",
+          "answerDate": "2025-11-02",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-09",
+          "answerDate": "2025-08-11",
+          "helpfulVotes": 83
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-09-02",
+          "answerDate": "2025-09-03",
+          "helpfulVotes": 100
+        }
+      ]
     },
     {
       "productId": "338102830",
@@ -6408,7 +8252,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-02",
+          "answerDate": "2025-07-05",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-30",
+          "answerDate": "2025-08-06",
+          "helpfulVotes": 12
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-09-28",
+          "answerDate": "2025-10-04",
+          "helpfulVotes": 6
+        }
+      ]
     },
     {
       "productId": "338102824",
@@ -6462,7 +8338,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-20",
+          "answerDate": "2025-11-26",
+          "helpfulVotes": 132
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-10",
+          "answerDate": "2025-12-16",
+          "helpfulVotes": 39
+        }
+      ]
     },
     {
       "productId": "325038052",
@@ -6544,7 +8442,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-07",
+          "answerDate": "2025-10-11",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-07",
+          "answerDate": "2025-05-09",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-01-15",
+          "answerDate": "2025-01-18",
+          "helpfulVotes": 100
+        }
+      ]
     },
     {
       "productId": "338102819",
@@ -6598,7 +8528,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-12",
+          "answerDate": "2025-10-15",
+          "helpfulVotes": 9
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-03",
+          "answerDate": "2025-11-06",
+          "helpfulVotes": 90
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-10-26",
+          "answerDate": "2025-10-31",
+          "helpfulVotes": 31
+        }
+      ]
     },
     {
       "productId": "204597567",
@@ -6680,7 +8642,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-03",
+          "answerDate": "2025-12-09",
+          "helpfulVotes": 51
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-04",
+          "answerDate": "2025-11-05",
+          "helpfulVotes": 30
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-07-22",
+          "answerDate": "2025-07-23",
+          "helpfulVotes": 34
+        }
+      ]
     },
     {
       "productId": "324289666",
@@ -6762,7 +8756,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-13",
+          "answerDate": "2025-10-16",
+          "helpfulVotes": 25
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-13",
+          "answerDate": "2025-05-18",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-08-15",
+          "answerDate": "2025-08-18",
+          "helpfulVotes": 70
+        }
+      ]
     },
     {
       "productId": "324304592",
@@ -6844,7 +8870,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-08",
+          "answerDate": "2025-10-14",
+          "helpfulVotes": 129
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-05",
+          "answerDate": "2025-12-08",
+          "helpfulVotes": 83
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-09-24",
+          "answerDate": "2025-09-28",
+          "helpfulVotes": 119
+        }
+      ]
     },
     {
       "productId": "203055484",
@@ -6926,7 +8984,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-10",
+          "answerDate": "2025-09-16",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-02",
+          "answerDate": "2025-02-05",
+          "helpfulVotes": 92
+        }
+      ]
     },
     {
       "productId": "320621888",
@@ -7008,7 +9088,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-14",
+          "answerDate": "2025-01-20",
+          "helpfulVotes": 28
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-07",
+          "answerDate": "2025-11-08",
+          "helpfulVotes": 147
+        }
+      ]
     },
     {
       "productId": "317039231",
@@ -7126,7 +9228,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-24",
+          "answerDate": "2025-10-28",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-21",
+          "answerDate": "2025-05-27",
+          "helpfulVotes": 41
+        }
+      ]
     },
     {
       "productId": "312504580",
@@ -7207,7 +9331,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-16",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 101
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-03",
+          "answerDate": "2025-12-09",
+          "helpfulVotes": 47
+        }
+      ]
     },
     {
       "productId": "327127576",
@@ -7288,7 +9434,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-21",
+          "answerDate": "2025-12-26",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-07",
+          "answerDate": "2025-12-09",
+          "helpfulVotes": 97
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-02-16",
+          "answerDate": "2025-02-18",
+          "helpfulVotes": 128
+        }
+      ]
     },
     {
       "productId": "327127412",
@@ -7369,7 +9547,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-30",
+          "answerDate": "2025-10-07",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-08",
+          "answerDate": "2025-06-11",
+          "helpfulVotes": 31
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-02-17",
+          "answerDate": "2025-02-24",
+          "helpfulVotes": 139
+        }
+      ]
     },
     {
       "productId": "340182473",
@@ -7450,7 +9660,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-05",
+          "answerDate": "2025-04-09",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-21",
+          "answerDate": "2025-08-23",
+          "helpfulVotes": 45
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-09-01",
+          "answerDate": "2025-09-05",
+          "helpfulVotes": 126
+        }
+      ]
     },
     {
       "productId": "305553565",
@@ -7577,7 +9819,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-18",
+          "answerDate": "2025-05-25",
+          "helpfulVotes": 105
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-23",
+          "answerDate": "2025-08-27",
+          "helpfulVotes": 98
+        }
+      ]
     },
     {
       "productId": "306331734",
@@ -7704,7 +9968,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-23",
+          "answerDate": "2025-03-30",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-19",
+          "answerDate": "2025-06-23",
+          "helpfulVotes": 89
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-09-12",
+          "answerDate": "2025-09-19",
+          "helpfulVotes": 118
+        }
+      ]
     },
     {
       "productId": "333882212",
@@ -7832,7 +10128,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-10",
+          "answerDate": "2025-09-13",
+          "helpfulVotes": 72
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-01",
+          "answerDate": "2025-07-02",
+          "helpfulVotes": 36
+        }
+      ]
     },
     {
       "productId": "333032981",
@@ -7959,7 +10277,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-13",
+          "answerDate": "2025-04-20",
+          "helpfulVotes": 46
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-28",
+          "answerDate": "2025-03-07",
+          "helpfulVotes": 58
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-25",
+          "helpfulVotes": 31
+        }
+      ]
     },
     {
       "productId": "100006678",
@@ -8087,7 +10437,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-24",
+          "answerDate": "2025-07-29",
+          "helpfulVotes": 68
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-02",
+          "answerDate": "2025-09-06",
+          "helpfulVotes": 92
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-04-05",
+          "answerDate": "2025-04-08",
+          "helpfulVotes": 67
+        }
+      ]
     },
     {
       "productId": "305858888",
@@ -8178,7 +10560,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-13",
+          "answerDate": "2025-08-17",
+          "helpfulVotes": 71
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-03",
+          "answerDate": "2025-03-09",
+          "helpfulVotes": 133
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-07-10",
+          "answerDate": "2025-07-13",
+          "helpfulVotes": 123
+        }
+      ]
     },
     {
       "productId": "325765293",
@@ -8269,7 +10683,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-15",
+          "answerDate": "2025-11-22",
+          "helpfulVotes": 19
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-30",
+          "answerDate": "2025-10-02",
+          "helpfulVotes": 37
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-07-05",
+          "answerDate": "2025-07-11",
+          "helpfulVotes": 103
+        }
+      ]
     },
     {
       "productId": "331558887",
@@ -8432,7 +10878,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-24",
+          "answerDate": "2025-04-28",
+          "helpfulVotes": 124
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-10",
+          "answerDate": "2025-02-14",
+          "helpfulVotes": 8
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-07-02",
+          "answerDate": "2025-07-06",
+          "helpfulVotes": 90
+        }
+      ]
     },
     {
       "productId": "331460555",
@@ -8523,7 +11001,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-23",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 61
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-25",
+          "answerDate": "2025-08-29",
+          "helpfulVotes": 37
+        }
+      ]
     },
     {
       "productId": "205003289",
@@ -8686,7 +11186,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-18",
+          "answerDate": "2025-11-25",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-13",
+          "answerDate": "2025-07-20",
+          "helpfulVotes": 18
+        }
+      ]
     },
     {
       "productId": "303493157",
@@ -8777,7 +11299,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-17",
+          "answerDate": "2025-08-22",
+          "helpfulVotes": 46
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-28",
+          "answerDate": "2025-06-01",
+          "helpfulVotes": 122
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-31",
+          "answerDate": "2025-06-04",
+          "helpfulVotes": 106
+        }
+      ]
     },
     {
       "productId": "311903668",
@@ -8868,7 +11422,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-27",
+          "answerDate": "2025-01-28",
+          "helpfulVotes": 18
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-03-29",
+          "answerDate": "2025-04-02",
+          "helpfulVotes": 65
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-22",
+          "answerDate": "2025-05-28",
+          "helpfulVotes": 126
+        }
+      ]
     },
     {
       "productId": "311901450",
@@ -8959,7 +11545,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-13",
+          "answerDate": "2025-02-15",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-31",
+          "answerDate": "2025-11-06",
+          "helpfulVotes": 39
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-03",
+          "answerDate": "2025-05-06",
+          "helpfulVotes": 72
+        }
+      ]
     },
     {
       "productId": "332734923",
@@ -9050,7 +11668,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-16",
+          "answerDate": "2025-09-22",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-08",
+          "answerDate": "2025-10-09",
+          "helpfulVotes": 54
+        }
+      ]
     },
     {
       "productId": "325821503",
@@ -9141,7 +11781,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-28",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 19
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-30",
+          "answerDate": "2025-08-31",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-09",
+          "answerDate": "2025-05-14",
+          "helpfulVotes": 101
+        }
+      ]
     },
     {
       "productId": "332571715",
@@ -9232,7 +11904,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-21",
+          "answerDate": "2025-03-26",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-08",
+          "answerDate": "2025-05-11",
+          "helpfulVotes": 141
+        }
+      ]
     },
     {
       "productId": "332766670",
@@ -9323,7 +12017,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-12",
+          "answerDate": "2025-11-17",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-04",
+          "answerDate": "2025-01-06",
+          "helpfulVotes": 90
+        }
+      ]
     },
     {
       "productId": "332626028",
@@ -9414,7 +12130,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-29",
+          "helpfulVotes": 47
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-07",
+          "answerDate": "2025-11-11",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-06-01",
+          "answerDate": "2025-06-04",
+          "helpfulVotes": 39
+        }
+      ]
     },
     {
       "productId": "312453397",
@@ -9505,7 +12253,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-13",
+          "answerDate": "2025-12-16",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-18",
+          "answerDate": "2025-02-25",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-01-30",
+          "answerDate": "2025-02-03",
+          "helpfulVotes": 93
+        }
+      ]
     },
     {
       "productId": "312453492",
@@ -9596,7 +12376,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-29",
+          "helpfulVotes": 85
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-19",
+          "answerDate": "2025-04-24",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-11-30",
+          "answerDate": "2025-12-05",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "337576905",
@@ -9687,7 +12499,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-23",
+          "answerDate": "2025-11-30",
+          "helpfulVotes": 125
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-28",
+          "answerDate": "2025-09-30",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-04-25",
+          "answerDate": "2025-05-02",
+          "helpfulVotes": 144
+        }
+      ]
     },
     {
       "productId": "202477933",
@@ -9800,7 +12644,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-06",
+          "answerDate": "2025-11-10",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-05",
+          "answerDate": "2025-06-10",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-12-22",
+          "answerDate": "2025-12-23",
+          "helpfulVotes": 89
+        }
+      ]
     },
     {
       "productId": "310288455",
@@ -9913,7 +12789,39 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-06",
+          "answerDate": "2025-06-10",
+          "helpfulVotes": 52
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-10",
+          "answerDate": "2025-04-15",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_3",
+          "question": "Will this work on uneven garage floors?",
+          "answer": "Most products include adjustable leveling feet to compensate for minor floor irregularities. For significantly uneven floors, floor leveling may be needed.",
+          "askedBy": "OldGarage",
+          "answeredBy": "GarageExpert",
+          "questionDate": "2025-05-28",
+          "answerDate": "2025-06-03",
+          "helpfulVotes": 101
+        }
+      ]
     },
     {
       "productId": "205196090",
@@ -10026,7 +12934,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-17",
+          "answerDate": "2025-10-20",
+          "helpfulVotes": 9
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-25",
+          "answerDate": "2025-12-02",
+          "helpfulVotes": 133
+        }
+      ]
     },
     {
       "productId": "206728769",
@@ -10139,7 +13069,29 @@
         "Professional-grade quality",
         "Easy assembly"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "What is the weight capacity?",
+          "answer": "Please check the specifications for the exact weight rating. Always follow the manufacturer's guidelines to ensure safe use.",
+          "askedBy": "GaragePro",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-14",
+          "answerDate": "2025-07-20",
+          "helpfulVotes": 133
+        },
+        {
+          "id": "qa_2",
+          "question": "Is assembly required?",
+          "answer": "Yes, assembly is required. Instructions and hardware are included. Plan for 1-2 hours for most products.",
+          "askedBy": "WeekendProject",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-26",
+          "answerDate": "2025-05-28",
+          "helpfulVotes": 27
+        }
+      ]
     }
   ]
 }

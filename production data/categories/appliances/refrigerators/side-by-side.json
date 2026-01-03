@@ -4,7 +4,7 @@
   "slug": "side-by-side",
   "path": "/categories/appliances/refrigerators/side-by-side",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.097858",
+  "lastUpdated": "2026-01-03T01:19:30.500254",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -192,7 +192,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-08-14",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 71
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-10",
+          "answerDate": "2025-11-16",
+          "helpfulVotes": 139
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-30",
+          "answerDate": "2025-06-04",
+          "helpfulVotes": 63
+        }
+      ]
     },
     {
       "productId": "320970662",
@@ -342,7 +374,29 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-04-30",
+          "answerDate": "2025-05-06",
+          "helpfulVotes": 6
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-25",
+          "answerDate": "2025-08-27",
+          "helpfulVotes": 71
+        }
+      ]
     },
     {
       "productId": "312283386",
@@ -438,7 +492,29 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-09-17",
+          "answerDate": "2025-09-22",
+          "helpfulVotes": 51
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-13",
+          "answerDate": "2025-03-17",
+          "helpfulVotes": 23
+        }
+      ]
     },
     {
       "productId": "339011919",
@@ -534,7 +610,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-07",
+          "answerDate": "2025-03-11",
+          "helpfulVotes": 104
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-11",
+          "answerDate": "2025-06-16",
+          "helpfulVotes": 134
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-26",
+          "answerDate": "2025-08-28",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-08-23",
+          "answerDate": "2025-08-27",
+          "helpfulVotes": 64
+        }
+      ]
     },
     {
       "productId": "320484893",
@@ -630,7 +748,29 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-06-09",
+          "answerDate": "2025-06-14",
+          "helpfulVotes": 51
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-16",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 149
+        }
+      ]
     },
     {
       "productId": "302785353",
@@ -726,7 +866,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-08-31",
+          "answerDate": "2025-09-06",
+          "helpfulVotes": 5
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-01",
+          "answerDate": "2025-04-05",
+          "helpfulVotes": 103
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-16",
+          "answerDate": "2025-08-21",
+          "helpfulVotes": 83
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-01-12",
+          "answerDate": "2025-01-15",
+          "helpfulVotes": 64
+        }
+      ]
     },
     {
       "productId": "317987099",
@@ -822,7 +1004,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-11-06",
+          "answerDate": "2025-11-09",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-27",
+          "answerDate": "2025-05-01",
+          "helpfulVotes": 146
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-10",
+          "answerDate": "2025-12-12",
+          "helpfulVotes": 80
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-09-02",
+          "answerDate": "2025-09-07",
+          "helpfulVotes": 81
+        }
+      ]
     },
     {
       "productId": "317445728",
@@ -918,7 +1142,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-10-06",
+          "answerDate": "2025-10-08",
+          "helpfulVotes": 19
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-03",
+          "answerDate": "2025-10-10",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-09",
+          "answerDate": "2025-12-12",
+          "helpfulVotes": 15
+        }
+      ]
     },
     {
       "productId": "315423162",
@@ -1014,7 +1270,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-04-17",
+          "answerDate": "2025-04-24",
+          "helpfulVotes": 121
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-10",
+          "answerDate": "2025-09-13",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-09",
+          "answerDate": "2025-12-11",
+          "helpfulVotes": 147
+        }
+      ]
     },
     {
       "productId": "320928142",
@@ -1110,7 +1398,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-10-30",
+          "answerDate": "2025-11-06",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-13",
+          "answerDate": "2025-09-16",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-07",
+          "answerDate": "2025-06-08",
+          "helpfulVotes": 33
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-07-01",
+          "answerDate": "2025-07-04",
+          "helpfulVotes": 129
+        }
+      ]
     },
     {
       "productId": "309004718",
@@ -1206,7 +1536,29 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-07-27",
+          "answerDate": "2025-08-01",
+          "helpfulVotes": 55
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-16",
+          "answerDate": "2025-05-18",
+          "helpfulVotes": 61
+        }
+      ]
     },
     {
       "productId": "316165079",
@@ -1302,7 +1654,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-12-23",
+          "answerDate": "2025-12-30",
+          "helpfulVotes": 145
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-30",
+          "answerDate": "2025-04-06",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-19",
+          "answerDate": "2025-11-21",
+          "helpfulVotes": 140
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-10-17",
+          "answerDate": "2025-10-24",
+          "helpfulVotes": 117
+        }
+      ]
     },
     {
       "productId": "315869691",
@@ -1398,7 +1792,29 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-04-30",
+          "answerDate": "2025-05-04",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-20",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 8
+        }
+      ]
     },
     {
       "productId": "316379807",
@@ -1494,7 +1910,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-02-13",
+          "answerDate": "2025-02-20",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-27",
+          "answerDate": "2025-03-30",
+          "helpfulVotes": 84
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-06",
+          "answerDate": "2025-11-11",
+          "helpfulVotes": 33
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-03-31",
+          "answerDate": "2025-04-06",
+          "helpfulVotes": 128
+        }
+      ]
     },
     {
       "productId": "331339601",
@@ -1590,7 +2048,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-06-28",
+          "answerDate": "2025-06-30",
+          "helpfulVotes": 44
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-12",
+          "answerDate": "2025-06-17",
+          "helpfulVotes": 72
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-02",
+          "answerDate": "2025-12-07",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-02-27",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 115
+        }
+      ]
     },
     {
       "productId": "312283539",
@@ -1686,7 +2186,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-01-06",
+          "answerDate": "2025-01-09",
+          "helpfulVotes": 69
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-23",
+          "answerDate": "2025-01-27",
+          "helpfulVotes": 71
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-22",
+          "answerDate": "2025-01-23",
+          "helpfulVotes": 102
+        }
+      ]
     },
     {
       "productId": "312283478",
@@ -1782,7 +2314,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-11-29",
+          "answerDate": "2025-12-01",
+          "helpfulVotes": 9
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-19",
+          "answerDate": "2025-12-26",
+          "helpfulVotes": 31
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-27",
+          "answerDate": "2025-11-29",
+          "helpfulVotes": 116
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-02-19",
+          "answerDate": "2025-02-26",
+          "helpfulVotes": 52
+        }
+      ]
     },
     {
       "productId": "334284479",
@@ -1878,7 +2452,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-04",
+          "answerDate": "2025-03-08",
+          "helpfulVotes": 45
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-20",
+          "answerDate": "2025-09-25",
+          "helpfulVotes": 34
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-10",
+          "answerDate": "2025-07-13",
+          "helpfulVotes": 94
+        }
+      ]
     },
     {
       "productId": "316300759",
@@ -1974,7 +2580,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-23",
+          "answerDate": "2025-03-24",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-07",
+          "answerDate": "2025-09-13",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-11",
+          "answerDate": "2025-07-12",
+          "helpfulVotes": 100
+        }
+      ]
     },
     {
       "productId": "333982683",
@@ -2070,7 +2708,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-14",
+          "answerDate": "2025-03-19",
+          "helpfulVotes": 34
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-29",
+          "answerDate": "2025-06-02",
+          "helpfulVotes": 81
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-22",
+          "answerDate": "2025-01-26",
+          "helpfulVotes": 84
+        }
+      ]
     },
     {
       "productId": "317445512",
@@ -2166,7 +2836,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 34
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-20",
+          "answerDate": "2025-11-26",
+          "helpfulVotes": 150
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-26",
+          "answerDate": "2025-02-27",
+          "helpfulVotes": 33
+        }
+      ]
     },
     {
       "productId": "329741524",
@@ -2262,7 +2964,29 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-10-11",
+          "answerDate": "2025-10-16",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-13",
+          "answerDate": "2025-11-15",
+          "helpfulVotes": 90
+        }
+      ]
     },
     {
       "productId": "333713028",
@@ -2358,7 +3082,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-06-08",
+          "answerDate": "2025-06-09",
+          "helpfulVotes": 91
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-23",
+          "answerDate": "2025-02-28",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-04-23",
+          "answerDate": "2025-04-30",
+          "helpfulVotes": 136
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-10-16",
+          "answerDate": "2025-10-21",
+          "helpfulVotes": 36
+        }
+      ]
     },
     {
       "productId": "322015991",
@@ -2420,7 +3186,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-08-04",
+          "answerDate": "2025-08-06",
+          "helpfulVotes": 130
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-26",
+          "answerDate": "2025-02-01",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-24",
+          "answerDate": "2025-08-25",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-06-06",
+          "answerDate": "2025-06-13",
+          "helpfulVotes": 83
+        }
+      ]
     },
     {
       "productId": "327472387",
@@ -2482,7 +3290,29 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-27",
+          "answerDate": "2025-03-31",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-08",
+          "answerDate": "2025-05-14",
+          "helpfulVotes": 52
+        }
+      ]
     },
     {
       "productId": "322022366",
@@ -2544,7 +3374,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-06-21",
+          "answerDate": "2025-06-25",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-25",
+          "answerDate": "2025-07-28",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-24",
+          "answerDate": "2025-07-31",
+          "helpfulVotes": 21
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-04-18",
+          "answerDate": "2025-04-19",
+          "helpfulVotes": 23
+        }
+      ]
     },
     {
       "productId": "309003622",
@@ -2609,7 +3481,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-10-01",
+          "answerDate": "2025-10-07",
+          "helpfulVotes": 134
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-12",
+          "answerDate": "2025-12-13",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-26",
+          "answerDate": "2025-01-28",
+          "helpfulVotes": 126
+        }
+      ]
     },
     {
       "productId": "312648540",
@@ -2671,7 +3575,39 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-21",
+          "answerDate": "2025-03-26",
+          "helpfulVotes": 41
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-14",
+          "answerDate": "2025-04-17",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-01",
+          "answerDate": "2025-11-02",
+          "helpfulVotes": 21
+        }
+      ]
     },
     {
       "productId": "303115494",
@@ -2733,7 +3669,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-08-18",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 29
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-15",
+          "answerDate": "2025-12-22",
+          "helpfulVotes": 65
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-06-24",
+          "answerDate": "2025-06-25",
+          "helpfulVotes": 97
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-10-24",
+          "answerDate": "2025-10-29",
+          "helpfulVotes": 85
+        }
+      ]
     },
     {
       "productId": "305505697",
@@ -2795,7 +3773,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-08-06",
+          "answerDate": "2025-08-12",
+          "helpfulVotes": 71
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-11",
+          "answerDate": "2025-04-15",
+          "helpfulVotes": 95
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-12",
+          "answerDate": "2025-05-16",
+          "helpfulVotes": 39
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-12-24",
+          "answerDate": "2025-12-29",
+          "helpfulVotes": 50
+        }
+      ]
     },
     {
       "productId": "339349601",
@@ -2857,7 +3877,49 @@
         "LED lighting throughout",
         "ENERGY STAR certified"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-11-21",
+          "answerDate": "2025-11-28",
+          "helpfulVotes": 124
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-22",
+          "answerDate": "2025-06-28",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-19",
+          "answerDate": "2025-10-20",
+          "helpfulVotes": 10
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-01-29",
+          "answerDate": "2025-01-31",
+          "helpfulVotes": 76
+        }
+      ]
     }
   ]
 }

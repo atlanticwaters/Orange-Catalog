@@ -481,7 +481,7 @@
     "categoryFolder": "Circular Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.040224",
+  "lastUpdated": "2026-01-03T01:19:30.427085",
   "products": [
     {
       "productId": "337440453",
@@ -531,7 +531,29 @@
         "Ergonomic design reduces fatigue",
         "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-25",
+          "answerDate": "2025-03-02",
+          "helpfulVotes": 11
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-26",
+          "helpfulVotes": 26
+        }
+      ]
     }
   ]
 }

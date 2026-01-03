@@ -4,7 +4,7 @@
   "slug": "specialty",
   "path": "/categories/home-decor/artificial-plants/specialty",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.085376",
+  "lastUpdated": "2026-01-03T01:19:30.488146",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -224,7 +224,49 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-18",
+          "answerDate": "2025-07-24",
+          "helpfulVotes": 12
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-31",
+          "answerDate": "2025-02-07",
+          "helpfulVotes": 118
+        },
+        {
+          "id": "qa_3",
+          "question": "Is mounting hardware included?",
+          "answer": "Yes, basic mounting hardware is included. For heavy items on drywall, we recommend using wall anchors rated for the item's weight.",
+          "askedBy": "WallArtLover",
+          "answeredBy": "DecorExpert",
+          "questionDate": "2025-05-30",
+          "answerDate": "2025-05-31",
+          "helpfulVotes": 113
+        },
+        {
+          "id": "qa_4",
+          "question": "Is this suitable for outdoor use?",
+          "answer": "This item is designed for indoor use only unless specifically noted as outdoor-rated. Exposure to weather will damage the product.",
+          "askedBy": "PatioDecorator",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-28",
+          "answerDate": "2025-12-03",
+          "helpfulVotes": 149
+        }
+      ]
     },
     {
       "productId": "301006753",
@@ -326,7 +368,39 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-30",
+          "answerDate": "2025-09-03",
+          "helpfulVotes": 9
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-05",
+          "answerDate": "2025-11-12",
+          "helpfulVotes": 115
+        },
+        {
+          "id": "qa_3",
+          "question": "Is mounting hardware included?",
+          "answer": "Yes, basic mounting hardware is included. For heavy items on drywall, we recommend using wall anchors rated for the item's weight.",
+          "askedBy": "WallArtLover",
+          "answeredBy": "DecorExpert",
+          "questionDate": "2025-11-21",
+          "answerDate": "2025-11-28",
+          "helpfulVotes": 26
+        }
+      ]
     },
     {
       "productId": "335102241",
@@ -416,7 +490,49 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-22",
+          "answerDate": "2025-05-24",
+          "helpfulVotes": 115
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-28",
+          "answerDate": "2025-09-01",
+          "helpfulVotes": 86
+        },
+        {
+          "id": "qa_3",
+          "question": "Is mounting hardware included?",
+          "answer": "Yes, basic mounting hardware is included. For heavy items on drywall, we recommend using wall anchors rated for the item's weight.",
+          "askedBy": "WallArtLover",
+          "answeredBy": "DecorExpert",
+          "questionDate": "2025-02-15",
+          "answerDate": "2025-02-17",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_4",
+          "question": "Is this suitable for outdoor use?",
+          "answer": "This item is designed for indoor use only unless specifically noted as outdoor-rated. Exposure to weather will damage the product.",
+          "askedBy": "PatioDecorator",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-02-22",
+          "answerDate": "2025-02-25",
+          "helpfulVotes": 41
+        }
+      ]
     },
     {
       "productId": "301694323",
@@ -506,7 +622,29 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-17",
+          "answerDate": "2025-08-23",
+          "helpfulVotes": 109
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-25",
+          "answerDate": "2025-03-26",
+          "helpfulVotes": 76
+        }
+      ]
     },
     {
       "productId": "336277365",
@@ -596,7 +734,39 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-19",
+          "answerDate": "2025-10-25",
+          "helpfulVotes": 113
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-04",
+          "answerDate": "2025-04-10",
+          "helpfulVotes": 105
+        },
+        {
+          "id": "qa_3",
+          "question": "Is mounting hardware included?",
+          "answer": "Yes, basic mounting hardware is included. For heavy items on drywall, we recommend using wall anchors rated for the item's weight.",
+          "askedBy": "WallArtLover",
+          "answeredBy": "DecorExpert",
+          "questionDate": "2025-10-03",
+          "answerDate": "2025-10-05",
+          "helpfulVotes": 102
+        }
+      ]
     },
     {
       "productId": "308790336",
@@ -686,7 +856,39 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-09-07",
+          "answerDate": "2025-09-10",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-15",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 9
+        },
+        {
+          "id": "qa_3",
+          "question": "Is mounting hardware included?",
+          "answer": "Yes, basic mounting hardware is included. For heavy items on drywall, we recommend using wall anchors rated for the item's weight.",
+          "askedBy": "WallArtLover",
+          "answeredBy": "DecorExpert",
+          "questionDate": "2025-11-20",
+          "answerDate": "2025-11-26",
+          "helpfulVotes": 143
+        }
+      ]
     },
     {
       "productId": "326830513",
@@ -810,7 +1012,49 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-11-26",
+          "answerDate": "2025-11-28",
+          "helpfulVotes": 140
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-20",
+          "answerDate": "2025-12-25",
+          "helpfulVotes": 134
+        },
+        {
+          "id": "qa_3",
+          "question": "Is mounting hardware included?",
+          "answer": "Yes, basic mounting hardware is included. For heavy items on drywall, we recommend using wall anchors rated for the item's weight.",
+          "askedBy": "WallArtLover",
+          "answeredBy": "DecorExpert",
+          "questionDate": "2025-04-29",
+          "answerDate": "2025-05-02",
+          "helpfulVotes": 88
+        },
+        {
+          "id": "qa_4",
+          "question": "Is this suitable for outdoor use?",
+          "answer": "This item is designed for indoor use only unless specifically noted as outdoor-rated. Exposure to weather will damage the product.",
+          "askedBy": "PatioDecorator",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-05-27",
+          "answerDate": "2025-06-03",
+          "helpfulVotes": 48
+        }
+      ]
     },
     {
       "productId": "336342352",
@@ -895,7 +1139,39 @@
         "Easy maintenance",
         "Enhances any room"
       ],
-      "warranty": "30-Day Return Policy"
+      "warranty": "30-Day Return Policy",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this item as pictured?",
+          "answer": "Yes, the product matches the photos shown. Note that colors may vary slightly due to monitor settings and lighting conditions.",
+          "askedBy": "OnlineShopper",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-18",
+          "answerDate": "2025-12-24",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_2",
+          "question": "How do I clean this?",
+          "answer": "For regular maintenance, dust with a soft, dry cloth. For deeper cleaning, use a slightly damp cloth with mild soap. Avoid harsh chemicals.",
+          "askedBy": "CleanFreak",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-26",
+          "answerDate": "2025-11-29",
+          "helpfulVotes": 54
+        },
+        {
+          "id": "qa_3",
+          "question": "Is mounting hardware included?",
+          "answer": "Yes, basic mounting hardware is included. For heavy items on drywall, we recommend using wall anchors rated for the item's weight.",
+          "askedBy": "WallArtLover",
+          "answeredBy": "DecorExpert",
+          "questionDate": "2025-11-30",
+          "answerDate": "2025-12-02",
+          "helpfulVotes": 44
+        }
+      ]
     }
   ]
 }

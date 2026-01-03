@@ -4,7 +4,7 @@
   "slug": "automotive",
   "path": "/categories/automotive",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:49.918331",
+  "lastUpdated": "2026-01-03T01:19:30.238295",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -132,7 +132,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-05",
+          "answerDate": "2025-03-09",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-16",
+          "answerDate": "2025-08-23",
+          "helpfulVotes": 23
+        }
+      ]
     },
     {
       "productId": "339377625",
@@ -185,7 +207,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-01",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 14
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-22",
+          "answerDate": "2025-07-23",
+          "helpfulVotes": 42
+        }
+      ]
     },
     {
       "productId": "337893557",
@@ -238,7 +282,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-13",
+          "answerDate": "2025-03-18",
+          "helpfulVotes": 44
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-25",
+          "answerDate": "2025-11-30",
+          "helpfulVotes": 100
+        }
+      ]
     },
     {
       "productId": "300387920",
@@ -291,7 +357,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-19",
+          "answerDate": "2025-03-22",
+          "helpfulVotes": 6
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-05",
+          "answerDate": "2025-01-08",
+          "helpfulVotes": 81
+        }
+      ]
     },
     {
       "productId": "300646438",
@@ -344,7 +432,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-21",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-21",
+          "answerDate": "2025-06-25",
+          "helpfulVotes": 71
+        }
+      ]
     },
     {
       "productId": "311259745",
@@ -397,7 +507,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-03",
+          "answerDate": "2025-09-07",
+          "helpfulVotes": 127
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-26",
+          "answerDate": "2025-03-31",
+          "helpfulVotes": 68
+        }
+      ]
     },
     {
       "productId": "315635318",
@@ -450,7 +582,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-02-12",
+          "answerDate": "2025-02-17",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-28",
+          "answerDate": "2025-01-30",
+          "helpfulVotes": 26
+        }
+      ]
     },
     {
       "productId": "308174827",
@@ -503,7 +657,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-26",
+          "helpfulVotes": 126
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-01",
+          "answerDate": "2025-12-03",
+          "helpfulVotes": 59
+        }
+      ]
     },
     {
       "productId": "334562975",
@@ -556,7 +732,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-07-24",
+          "answerDate": "2025-07-27",
+          "helpfulVotes": 114
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-04",
+          "answerDate": "2025-06-09",
+          "helpfulVotes": 127
+        }
+      ]
     },
     {
       "productId": "318271372",
@@ -609,7 +807,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-08",
+          "answerDate": "2025-04-10",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-16",
+          "answerDate": "2025-07-18",
+          "helpfulVotes": 111
+        }
+      ]
     },
     {
       "productId": "308174828",
@@ -662,7 +882,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-05-06",
+          "answerDate": "2025-05-12",
+          "helpfulVotes": 81
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-11",
+          "answerDate": "2025-03-15",
+          "helpfulVotes": 20
+        }
+      ]
     },
     {
       "productId": "339352607",
@@ -715,7 +957,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-29",
+          "answerDate": "2025-10-01",
+          "helpfulVotes": 6
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-21",
+          "answerDate": "2025-12-28",
+          "helpfulVotes": 66
+        }
+      ]
     },
     {
       "productId": "339421685",
@@ -768,7 +1032,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-02-28",
+          "answerDate": "2025-03-02",
+          "helpfulVotes": 91
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-20",
+          "answerDate": "2025-04-25",
+          "helpfulVotes": 96
+        }
+      ]
     },
     {
       "productId": "339421714",
@@ -821,7 +1107,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-02-05",
+          "answerDate": "2025-02-08",
+          "helpfulVotes": 14
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 129
+        }
+      ]
     },
     {
       "productId": "315530068",
@@ -874,7 +1182,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-06-08",
+          "answerDate": "2025-06-14",
+          "helpfulVotes": 94
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-06",
+          "answerDate": "2025-11-13",
+          "helpfulVotes": 118
+        }
+      ]
     },
     {
       "productId": "307789471",
@@ -927,7 +1257,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-08-25",
+          "answerDate": "2025-08-26",
+          "helpfulVotes": 78
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-15",
+          "answerDate": "2025-09-22",
+          "helpfulVotes": 60
+        }
+      ]
     },
     {
       "productId": "318271280",
@@ -980,7 +1332,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-16",
+          "answerDate": "2025-09-17",
+          "helpfulVotes": 21
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-10",
+          "answerDate": "2025-02-16",
+          "helpfulVotes": 145
+        }
+      ]
     },
     {
       "productId": "100594524",
@@ -1033,7 +1407,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-06-02",
+          "answerDate": "2025-06-06",
+          "helpfulVotes": 100
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-14",
+          "answerDate": "2025-10-15",
+          "helpfulVotes": 58
+        }
+      ]
     },
     {
       "productId": "334358869",
@@ -1086,7 +1482,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-25",
+          "answerDate": "2025-09-30",
+          "helpfulVotes": 135
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-20",
+          "answerDate": "2025-09-23",
+          "helpfulVotes": 137
+        }
+      ]
     },
     {
       "productId": "335976058",
@@ -1139,7 +1557,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-11-03",
+          "answerDate": "2025-11-08",
+          "helpfulVotes": 149
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-01",
+          "answerDate": "2025-06-07",
+          "helpfulVotes": 64
+        }
+      ]
     },
     {
       "productId": "319497124",
@@ -1192,7 +1632,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-11-03",
+          "answerDate": "2025-11-04",
+          "helpfulVotes": 66
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-07",
+          "helpfulVotes": 64
+        }
+      ]
     },
     {
       "productId": "325002915",
@@ -1245,7 +1707,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-06-15",
+          "answerDate": "2025-06-17",
+          "helpfulVotes": 5
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-09",
+          "answerDate": "2025-12-10",
+          "helpfulVotes": 13
+        }
+      ]
     },
     {
       "productId": "314339510",
@@ -1298,7 +1782,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-01-25",
+          "answerDate": "2025-01-26",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-05",
+          "answerDate": "2025-08-09",
+          "helpfulVotes": 31
+        }
+      ]
     },
     {
       "productId": "321886360",
@@ -1351,7 +1857,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-09",
+          "answerDate": "2025-09-13",
+          "helpfulVotes": 53
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-12",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 39
+        }
+      ]
     },
     {
       "productId": "314339545",
@@ -1404,7 +1932,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-05-09",
+          "answerDate": "2025-05-12",
+          "helpfulVotes": 89
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-22",
+          "answerDate": "2025-04-25",
+          "helpfulVotes": 76
+        }
+      ]
     },
     {
       "productId": "314339546",
@@ -1457,7 +2007,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-06-22",
+          "answerDate": "2025-06-23",
+          "helpfulVotes": 123
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-21",
+          "answerDate": "2025-03-25",
+          "helpfulVotes": 34
+        }
+      ]
     },
     {
       "productId": "314339524",
@@ -1510,7 +2082,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-08-03",
+          "answerDate": "2025-08-07",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-30",
+          "answerDate": "2025-11-06",
+          "helpfulVotes": 143
+        }
+      ]
     },
     {
       "productId": "327329410",
@@ -1563,7 +2157,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-12-13",
+          "answerDate": "2025-12-19",
+          "helpfulVotes": 87
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-08",
+          "answerDate": "2025-04-12",
+          "helpfulVotes": 85
+        }
+      ]
     },
     {
       "productId": "327329428",
@@ -1616,7 +2232,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-10-26",
+          "answerDate": "2025-11-02",
+          "helpfulVotes": 49
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-26",
+          "helpfulVotes": 67
+        }
+      ]
     },
     {
       "productId": "314300353",
@@ -1669,7 +2307,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-05-22",
+          "answerDate": "2025-05-26",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-01",
+          "answerDate": "2025-05-07",
+          "helpfulVotes": 12
+        }
+      ]
     },
     {
       "productId": "338681941",
@@ -1722,7 +2382,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-15",
+          "answerDate": "2025-04-19",
+          "helpfulVotes": 50
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-07",
+          "answerDate": "2025-07-11",
+          "helpfulVotes": 72
+        }
+      ]
     },
     {
       "productId": "314339549",
@@ -1775,7 +2457,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-20",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 52
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-20",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 124
+        }
+      ]
     },
     {
       "productId": "338681937",
@@ -1828,7 +2532,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-02",
+          "answerDate": "2025-09-03",
+          "helpfulVotes": 131
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-12",
+          "answerDate": "2025-12-14",
+          "helpfulVotes": 138
+        }
+      ]
     },
     {
       "productId": "314339488",
@@ -1881,7 +2607,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-12-20",
+          "answerDate": "2025-12-21",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-25",
+          "answerDate": "2025-12-30",
+          "helpfulVotes": 42
+        }
+      ]
     },
     {
       "productId": "338681932",
@@ -1934,7 +2682,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-05-18",
+          "answerDate": "2025-05-22",
+          "helpfulVotes": 92
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-06",
+          "answerDate": "2025-11-12",
+          "helpfulVotes": 103
+        }
+      ]
     },
     {
       "productId": "314339490",
@@ -1987,7 +2757,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-07-28",
+          "answerDate": "2025-07-30",
+          "helpfulVotes": 38
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-24",
+          "answerDate": "2025-10-25",
+          "helpfulVotes": 17
+        }
+      ]
     },
     {
       "productId": "327329415",
@@ -2040,7 +2832,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-08",
+          "answerDate": "2025-04-15",
+          "helpfulVotes": 47
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-07",
+          "answerDate": "2025-07-14",
+          "helpfulVotes": 119
+        }
+      ]
     },
     {
       "productId": "331254247",
@@ -2093,7 +2907,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-08-09",
+          "answerDate": "2025-08-15",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-17",
+          "answerDate": "2025-02-21",
+          "helpfulVotes": 24
+        }
+      ]
     },
     {
       "productId": "321283942",
@@ -2146,7 +2982,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-08",
+          "answerDate": "2025-04-12",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-12",
+          "answerDate": "2025-06-17",
+          "helpfulVotes": 93
+        }
+      ]
     },
     {
       "productId": "316426768",
@@ -2199,7 +3057,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-11-30",
+          "answerDate": "2025-12-06",
+          "helpfulVotes": 69
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-03",
+          "answerDate": "2025-11-09",
+          "helpfulVotes": 67
+        }
+      ]
     },
     {
       "productId": "331257401",
@@ -2252,7 +3132,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-03-19",
+          "answerDate": "2025-03-25",
+          "helpfulVotes": 22
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-05",
+          "answerDate": "2025-01-10",
+          "helpfulVotes": 146
+        }
+      ]
     },
     {
       "productId": "321283762",
@@ -2305,7 +3207,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-28",
+          "answerDate": "2025-10-03",
+          "helpfulVotes": 11
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-10",
+          "answerDate": "2025-11-14",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "324885942",
@@ -2358,7 +3282,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-10",
+          "answerDate": "2025-09-13",
+          "helpfulVotes": 75
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-05",
+          "answerDate": "2025-01-10",
+          "helpfulVotes": 113
+        }
+      ]
     },
     {
       "productId": "331253060",
@@ -2411,7 +3357,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-02-24",
+          "answerDate": "2025-03-01",
+          "helpfulVotes": 78
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-27",
+          "answerDate": "2025-05-01",
+          "helpfulVotes": 51
+        }
+      ]
     },
     {
       "productId": "312211515",
@@ -2464,7 +3432,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-06-17",
+          "answerDate": "2025-06-22",
+          "helpfulVotes": 101
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-26",
+          "answerDate": "2025-05-28",
+          "helpfulVotes": 116
+        }
+      ]
     },
     {
       "productId": "313594263",
@@ -2517,7 +3507,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-10-17",
+          "answerDate": "2025-10-19",
+          "helpfulVotes": 101
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-25",
+          "answerDate": "2025-07-27",
+          "helpfulVotes": 92
+        }
+      ]
     },
     {
       "productId": "321284005",
@@ -2570,7 +3582,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-07-31",
+          "answerDate": "2025-08-02",
+          "helpfulVotes": 101
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-05",
+          "answerDate": "2025-10-09",
+          "helpfulVotes": 41
+        }
+      ]
     },
     {
       "productId": "313594218",
@@ -2623,7 +3657,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-05-18",
+          "answerDate": "2025-05-20",
+          "helpfulVotes": 150
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-30",
+          "answerDate": "2025-10-04",
+          "helpfulVotes": 134
+        }
+      ]
     },
     {
       "productId": "307780400",
@@ -2676,7 +3732,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-02",
+          "answerDate": "2025-04-03",
+          "helpfulVotes": 10
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-21",
+          "answerDate": "2025-03-22",
+          "helpfulVotes": 23
+        }
+      ]
     },
     {
       "productId": "315434893",
@@ -2729,7 +3807,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-26",
+          "answerDate": "2025-04-30",
+          "helpfulVotes": 126
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-16",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 109
+        }
+      ]
     },
     {
       "productId": "315434889",
@@ -2782,7 +3882,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-02-20",
+          "answerDate": "2025-02-27",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-22",
+          "answerDate": "2025-01-24",
+          "helpfulVotes": 104
+        }
+      ]
     },
     {
       "productId": "315434886",
@@ -2835,7 +3957,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-11-16",
+          "answerDate": "2025-11-19",
+          "helpfulVotes": 76
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-05",
+          "answerDate": "2025-12-07",
+          "helpfulVotes": 50
+        }
+      ]
     },
     {
       "productId": "305960166",
@@ -2888,7 +4032,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-12-15",
+          "answerDate": "2025-12-22",
+          "helpfulVotes": 50
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-23",
+          "answerDate": "2025-02-25",
+          "helpfulVotes": 56
+        }
+      ]
     },
     {
       "productId": "338071787",
@@ -2941,7 +4107,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-08-16",
+          "answerDate": "2025-08-19",
+          "helpfulVotes": 33
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-08",
+          "answerDate": "2025-10-13",
+          "helpfulVotes": 21
+        }
+      ]
     },
     {
       "productId": "315434894",
@@ -2994,7 +4182,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-29",
+          "answerDate": "2025-10-04",
+          "helpfulVotes": 109
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-02",
+          "answerDate": "2025-02-05",
+          "helpfulVotes": 88
+        }
+      ]
     },
     {
       "productId": "336574722",
@@ -3035,7 +4245,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-05-20",
+          "answerDate": "2025-05-23",
+          "helpfulVotes": 73
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-21",
+          "answerDate": "2025-09-28",
+          "helpfulVotes": 107
+        }
+      ]
     },
     {
       "productId": "323402170",
@@ -3069,7 +4301,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-06-06",
+          "answerDate": "2025-06-11",
+          "helpfulVotes": 92
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-25",
+          "answerDate": "2025-05-29",
+          "helpfulVotes": 28
+        }
+      ]
     },
     {
       "productId": "323402170",
@@ -3104,7 +4358,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-08-11",
+          "answerDate": "2025-08-12",
+          "helpfulVotes": 118
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-30",
+          "helpfulVotes": 124
+        }
+      ]
     },
     {
       "productId": "323402170",
@@ -3139,7 +4415,29 @@
         "Quality construction",
         "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-04-09",
+          "answerDate": "2025-04-11",
+          "helpfulVotes": 60
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-22",
+          "answerDate": "2025-10-29",
+          "helpfulVotes": 120
+        }
+      ]
     }
   ]
 }

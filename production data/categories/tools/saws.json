@@ -4,7 +4,7 @@
   "slug": "saws",
   "path": "/categories/tools/saws",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.036124",
+  "lastUpdated": "2026-01-03T01:19:30.422264",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -158,7 +158,49 @@
         "Integrated dust blower keeps line of cut clear",
         "Magnesium shoe for lightweight durability"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-06",
+          "answerDate": "2025-05-12",
+          "helpfulVotes": 41
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-06-17",
+          "answerDate": "2025-06-21",
+          "helpfulVotes": 11
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-12-23",
+          "answerDate": "2025-12-29",
+          "helpfulVotes": 122
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-25",
+          "answerDate": "2025-03-29",
+          "helpfulVotes": 144
+        }
+      ]
     },
     {
       "productId": "324811431",
@@ -206,7 +248,49 @@
         "Integrated dust blower keeps line of cut clear",
         "Magnesium shoe for lightweight durability"
       ],
-      "warranty": "3-Year Limited Warranty"
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-09",
+          "answerDate": "2025-12-15",
+          "helpfulVotes": 60
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-08-01",
+          "answerDate": "2025-08-08",
+          "helpfulVotes": 71
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-11",
+          "answerDate": "2025-07-13",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_4",
+          "question": "Can this be used for heavy-duty professional work?",
+          "answer": "Absolutely. This is designed for professional use and can handle demanding jobsite conditions. The brushless motor provides extended runtime and durability.",
+          "askedBy": "ProBuilder",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-29",
+          "answerDate": "2025-11-04",
+          "helpfulVotes": 15
+        }
+      ]
     }
   ]
 }

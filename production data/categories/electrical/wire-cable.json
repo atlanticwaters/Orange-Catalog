@@ -4,7 +4,7 @@
   "slug": "wire-cable",
   "path": "/categories/electrical/wire-cable",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:16:50.026388",
+  "lastUpdated": "2026-01-03T01:19:30.407098",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -191,7 +191,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-09-27",
+          "answerDate": "2025-10-04",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-15",
+          "answerDate": "2025-08-21",
+          "helpfulVotes": 12
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-03-09",
+          "answerDate": "2025-03-12",
+          "helpfulVotes": 125
+        }
+      ]
     },
     {
       "productId": "337674733",
@@ -243,7 +275,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-02-24",
+          "answerDate": "2025-02-25",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-20",
+          "answerDate": "2025-09-24",
+          "helpfulVotes": 117
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-03-18",
+          "answerDate": "2025-03-22",
+          "helpfulVotes": 22
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-24",
+          "answerDate": "2025-04-27",
+          "helpfulVotes": 29
+        }
+      ]
     },
     {
       "productId": "100394342",
@@ -325,7 +399,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-31",
+          "answerDate": "2025-09-07",
+          "helpfulVotes": 134
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-20",
+          "answerDate": "2025-11-26",
+          "helpfulVotes": 55
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-07",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-11",
+          "answerDate": "2025-12-16",
+          "helpfulVotes": 33
+        }
+      ]
     },
     {
       "productId": "205865848",
@@ -407,7 +523,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-01-19",
+          "answerDate": "2025-01-21",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-11",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 23
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-01-09",
+          "answerDate": "2025-01-11",
+          "helpfulVotes": 60
+        }
+      ]
     },
     {
       "productId": "202447756",
@@ -456,7 +604,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-01",
+          "answerDate": "2025-05-08",
+          "helpfulVotes": 14
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-20",
+          "answerDate": "2025-08-21",
+          "helpfulVotes": 36
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-06-13",
+          "answerDate": "2025-06-14",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-06",
+          "answerDate": "2025-10-11",
+          "helpfulVotes": 147
+        }
+      ]
     },
     {
       "productId": "329377440",
@@ -508,7 +698,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-26",
+          "answerDate": "2025-04-27",
+          "helpfulVotes": 92
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-31",
+          "answerDate": "2025-11-02",
+          "helpfulVotes": 14
+        }
+      ]
     },
     {
       "productId": "322605711",
@@ -590,7 +802,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-02",
+          "answerDate": "2025-11-04",
+          "helpfulVotes": 106
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-14",
+          "answerDate": "2025-06-20",
+          "helpfulVotes": 143
+        }
+      ]
     },
     {
       "productId": "329635624",
@@ -672,7 +906,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-01-22",
+          "answerDate": "2025-01-27",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-11",
+          "answerDate": "2025-07-18",
+          "helpfulVotes": 81
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-05-18",
+          "answerDate": "2025-05-19",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-23",
+          "answerDate": "2025-08-26",
+          "helpfulVotes": 34
+        }
+      ]
     },
     {
       "productId": "203846576",
@@ -811,7 +1087,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-29",
+          "answerDate": "2025-04-04",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-02",
+          "answerDate": "2025-03-06",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-03",
+          "answerDate": "2025-08-06",
+          "helpfulVotes": 27
+        }
+      ]
     },
     {
       "productId": "334127766",
@@ -923,7 +1231,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-06-15",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 103
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-13",
+          "answerDate": "2025-02-15",
+          "helpfulVotes": 134
+        }
+      ]
     },
     {
       "productId": "320706156",
@@ -1041,7 +1371,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-15",
+          "answerDate": "2025-11-19",
+          "helpfulVotes": 33
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-30",
+          "answerDate": "2025-04-03",
+          "helpfulVotes": 99
+        }
+      ]
     },
     {
       "productId": "324118671",
@@ -1107,7 +1459,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-11",
+          "answerDate": "2025-03-16",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-17",
+          "answerDate": "2025-11-20",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-09-05",
+          "answerDate": "2025-09-10",
+          "helpfulVotes": 50
+        }
+      ]
     },
     {
       "productId": "318584392",
@@ -1201,7 +1585,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-04",
+          "answerDate": "2025-10-05",
+          "helpfulVotes": 92
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-26",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 143
+        }
+      ]
     },
     {
       "productId": "203756598",
@@ -1295,7 +1701,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-06-07",
+          "answerDate": "2025-06-09",
+          "helpfulVotes": 45
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-16",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-09-25",
+          "answerDate": "2025-09-26",
+          "helpfulVotes": 81
+        }
+      ]
     },
     {
       "productId": "324808968",
@@ -1389,7 +1827,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-13",
+          "answerDate": "2025-11-18",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-01",
+          "answerDate": "2025-04-02",
+          "helpfulVotes": 102
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-03-10",
+          "answerDate": "2025-03-13",
+          "helpfulVotes": 78
+        }
+      ]
     },
     {
       "productId": "337521623",
@@ -1483,7 +1953,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-06-11",
+          "answerDate": "2025-06-15",
+          "helpfulVotes": 146
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-19",
+          "answerDate": "2025-06-22",
+          "helpfulVotes": 9
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-12-22",
+          "answerDate": "2025-12-23",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-02",
+          "answerDate": "2025-08-06",
+          "helpfulVotes": 136
+        }
+      ]
     },
     {
       "productId": "318964392",
@@ -1565,7 +2077,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-01-05",
+          "answerDate": "2025-01-07",
+          "helpfulVotes": 27
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-16",
+          "answerDate": "2025-03-21",
+          "helpfulVotes": 37
+        }
+      ]
     },
     {
       "productId": "327585040",
@@ -1669,7 +2203,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-09",
+          "answerDate": "2025-04-15",
+          "helpfulVotes": 28
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-03",
+          "answerDate": "2025-11-07",
+          "helpfulVotes": 59
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-17",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 109
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-07-23",
+          "answerDate": "2025-07-29",
+          "helpfulVotes": 73
+        }
+      ]
     },
     {
       "productId": "335978390",
@@ -1751,7 +2327,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-07-23",
+          "answerDate": "2025-07-26",
+          "helpfulVotes": 121
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-23",
+          "answerDate": "2025-04-29",
+          "helpfulVotes": 8
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-07",
+          "answerDate": "2025-08-14",
+          "helpfulVotes": 68
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-02-26",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 91
+        }
+      ]
     },
     {
       "productId": "331727075",
@@ -1833,7 +2451,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-30",
+          "answerDate": "2025-12-04",
+          "helpfulVotes": 87
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-22",
+          "answerDate": "2025-11-24",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-02-09",
+          "answerDate": "2025-02-15",
+          "helpfulVotes": 32
+        }
+      ]
     },
     {
       "productId": "318580448",
@@ -1921,7 +2571,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-10",
+          "answerDate": "2025-11-12",
+          "helpfulVotes": 140
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-18",
+          "answerDate": "2025-01-24",
+          "helpfulVotes": 109
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-02-12",
+          "answerDate": "2025-02-14",
+          "helpfulVotes": 19
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-22",
+          "answerDate": "2025-03-28",
+          "helpfulVotes": 128
+        }
+      ]
     },
     {
       "productId": "325354296",
@@ -2012,7 +2704,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-08",
+          "answerDate": "2025-11-14",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-05",
+          "answerDate": "2025-09-07",
+          "helpfulVotes": 91
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-06-23",
+          "answerDate": "2025-06-30",
+          "helpfulVotes": 32
+        }
+      ]
     },
     {
       "productId": "336169921",
@@ -2053,7 +2777,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-04",
+          "answerDate": "2025-08-05",
+          "helpfulVotes": 6
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-20",
+          "answerDate": "2025-06-23",
+          "helpfulVotes": 124
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-06",
+          "answerDate": "2025-08-10",
+          "helpfulVotes": 75
+        }
+      ]
     },
     {
       "productId": "326868555",
@@ -2093,7 +2849,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-26",
+          "answerDate": "2025-12-30",
+          "helpfulVotes": 103
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-05",
+          "answerDate": "2025-02-09",
+          "helpfulVotes": 69
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-09",
+          "answerDate": "2025-08-10",
+          "helpfulVotes": 92
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-03",
+          "answerDate": "2025-04-09",
+          "helpfulVotes": 87
+        }
+      ]
     },
     {
       "productId": "335096961",
@@ -2133,7 +2931,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-25",
+          "answerDate": "2025-10-27",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-03",
+          "answerDate": "2025-01-05",
+          "helpfulVotes": 121
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-10-06",
+          "answerDate": "2025-10-10",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-22",
+          "answerDate": "2025-10-29",
+          "helpfulVotes": 63
+        }
+      ]
     },
     {
       "productId": "323401969",
@@ -2171,7 +3011,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-28",
+          "answerDate": "2025-03-30",
+          "helpfulVotes": 48
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-24",
+          "answerDate": "2025-09-30",
+          "helpfulVotes": 129
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-03-27",
+          "answerDate": "2025-03-31",
+          "helpfulVotes": 100
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-01-08",
+          "answerDate": "2025-01-14",
+          "helpfulVotes": 99
+        }
+      ]
     },
     {
       "productId": "323401969",
@@ -2209,7 +3091,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-02-02",
+          "answerDate": "2025-02-05",
+          "helpfulVotes": 83
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-06",
+          "answerDate": "2025-10-10",
+          "helpfulVotes": 8
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-11-27",
+          "answerDate": "2025-12-01",
+          "helpfulVotes": 110
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-15",
+          "answerDate": "2025-12-16",
+          "helpfulVotes": 22
+        }
+      ]
     },
     {
       "productId": "326991314",
@@ -2248,7 +3172,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-04",
+          "answerDate": "2025-03-10",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-18",
+          "answerDate": "2025-12-25",
+          "helpfulVotes": 52
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-05-25",
+          "answerDate": "2025-05-28",
+          "helpfulVotes": 75
+        }
+      ]
     },
     {
       "productId": "326773593",
@@ -2288,7 +3244,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-05",
+          "answerDate": "2025-05-09",
+          "helpfulVotes": 34
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-11",
+          "answerDate": "2025-10-12",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-12-20",
+          "answerDate": "2025-12-24",
+          "helpfulVotes": 108
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-19",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 84
+        }
+      ]
     },
     {
       "productId": "335887478",
@@ -2333,7 +3331,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-02-26",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 64
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-02",
+          "answerDate": "2025-09-08",
+          "helpfulVotes": 24
+        }
+      ]
     },
     {
       "productId": "336169921",
@@ -2374,7 +3394,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-13",
+          "answerDate": "2025-05-14",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-27",
+          "answerDate": "2025-07-29",
+          "helpfulVotes": 128
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-04-11",
+          "answerDate": "2025-04-12",
+          "helpfulVotes": 142
+        }
+      ]
     },
     {
       "productId": "330333492",
@@ -2415,7 +3467,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-11",
+          "answerDate": "2025-04-18",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-16",
+          "answerDate": "2025-12-19",
+          "helpfulVotes": 44
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-12-12",
+          "answerDate": "2025-12-13",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-14",
+          "answerDate": "2025-11-17",
+          "helpfulVotes": 120
+        }
+      ]
     },
     {
       "productId": "335922735",
@@ -2460,7 +3554,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-06-08",
+          "answerDate": "2025-06-13",
+          "helpfulVotes": 86
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-07",
+          "answerDate": "2025-10-11",
+          "helpfulVotes": 134
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-07-27",
+          "answerDate": "2025-07-31",
+          "helpfulVotes": 51
+        }
+      ]
     },
     {
       "productId": "335922934",
@@ -2504,7 +3630,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-06",
+          "answerDate": "2025-04-11",
+          "helpfulVotes": 78
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-05",
+          "answerDate": "2025-06-09",
+          "helpfulVotes": 40
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-09-06",
+          "answerDate": "2025-09-07",
+          "helpfulVotes": 103
+        }
+      ]
     },
     {
       "productId": "326991314",
@@ -2543,7 +3701,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-18",
+          "answerDate": "2025-11-22",
+          "helpfulVotes": 38
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-19",
+          "answerDate": "2025-11-25",
+          "helpfulVotes": 67
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-11-16",
+          "answerDate": "2025-11-17",
+          "helpfulVotes": 31
+        }
+      ]
     },
     {
       "productId": "323401969",
@@ -2581,7 +3771,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-20",
+          "answerDate": "2025-05-24",
+          "helpfulVotes": 60
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-13",
+          "answerDate": "2025-08-17",
+          "helpfulVotes": 148
+        }
+      ]
     },
     {
       "productId": "336169921",
@@ -2622,7 +3834,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-12",
+          "answerDate": "2025-03-19",
+          "helpfulVotes": 11
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-15",
+          "answerDate": "2025-02-20",
+          "helpfulVotes": 133
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-11-23",
+          "answerDate": "2025-11-27",
+          "helpfulVotes": 61
+        }
+      ]
     },
     {
       "productId": "336169921",
@@ -2663,7 +3907,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-18",
+          "answerDate": "2025-05-20",
+          "helpfulVotes": 142
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-23",
+          "answerDate": "2025-04-29",
+          "helpfulVotes": 56
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-01-15",
+          "answerDate": "2025-01-20",
+          "helpfulVotes": 14
+        }
+      ]
     },
     {
       "productId": "323401969",
@@ -2701,7 +3977,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-07-18",
+          "answerDate": "2025-07-25",
+          "helpfulVotes": 62
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-07",
+          "answerDate": "2025-09-08",
+          "helpfulVotes": 42
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-04-21",
+          "answerDate": "2025-04-23",
+          "helpfulVotes": 57
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-01-22",
+          "answerDate": "2025-01-28",
+          "helpfulVotes": 130
+        }
+      ]
     },
     {
       "productId": "335887478",
@@ -2746,7 +4064,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-30",
+          "answerDate": "2025-05-03",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-23",
+          "answerDate": "2025-04-25",
+          "helpfulVotes": 82
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-06-18",
+          "answerDate": "2025-06-25",
+          "helpfulVotes": 68
+        }
+      ]
     },
     {
       "productId": "330333492",
@@ -2786,7 +4136,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-29",
+          "answerDate": "2025-11-02",
+          "helpfulVotes": 114
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-13",
+          "answerDate": "2025-02-20",
+          "helpfulVotes": 85
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-09-18",
+          "answerDate": "2025-09-19",
+          "helpfulVotes": 133
+        }
+      ]
     },
     {
       "productId": "335922841",
@@ -2830,7 +4212,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-09-06",
+          "answerDate": "2025-09-12",
+          "helpfulVotes": 138
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-18",
+          "answerDate": "2025-08-21",
+          "helpfulVotes": 41
+        }
+      ]
     },
     {
       "productId": "335922934",
@@ -2874,7 +4278,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-06-04",
+          "answerDate": "2025-06-07",
+          "helpfulVotes": 60
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-04",
+          "answerDate": "2025-07-09",
+          "helpfulVotes": 85
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-04-01",
+          "answerDate": "2025-04-03",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-09-11",
+          "answerDate": "2025-09-18",
+          "helpfulVotes": 81
+        }
+      ]
     },
     {
       "productId": "335922735",
@@ -2919,7 +4365,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-09-09",
+          "answerDate": "2025-09-14",
+          "helpfulVotes": 146
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-29",
+          "answerDate": "2025-12-01",
+          "helpfulVotes": 148
+        }
+      ]
     },
     {
       "productId": "330333492",
@@ -2959,7 +4427,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-09-11",
+          "answerDate": "2025-09-15",
+          "helpfulVotes": 91
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-12",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 80
+        }
+      ]
     },
     {
       "productId": "337966189",
@@ -2999,7 +4489,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-10",
+          "answerDate": "2025-10-16",
+          "helpfulVotes": 30
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-01",
+          "answerDate": "2025-08-07",
+          "helpfulVotes": 144
+        }
+      ]
     },
     {
       "productId": "326991314",
@@ -3038,7 +4550,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-07",
+          "answerDate": "2025-12-08",
+          "helpfulVotes": 113
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-06",
+          "answerDate": "2025-06-11",
+          "helpfulVotes": 108
+        }
+      ]
     },
     {
       "productId": "323401969",
@@ -3076,7 +4610,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-27",
+          "answerDate": "2025-04-28",
+          "helpfulVotes": 96
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-05",
+          "answerDate": "2025-03-09",
+          "helpfulVotes": 18
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-05-15",
+          "answerDate": "2025-05-17",
+          "helpfulVotes": 27
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-26",
+          "answerDate": "2025-12-28",
+          "helpfulVotes": 96
+        }
+      ]
     },
     {
       "productId": "317163219",
@@ -3120,7 +4696,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-16",
+          "answerDate": "2025-12-23",
+          "helpfulVotes": 50
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-16",
+          "answerDate": "2025-10-19",
+          "helpfulVotes": 116
+        }
+      ]
     },
     {
       "productId": "326868555",
@@ -3159,7 +4757,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-02-24",
+          "answerDate": "2025-02-27",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-03",
+          "answerDate": "2025-06-05",
+          "helpfulVotes": 76
+        }
+      ]
     },
     {
       "productId": "326991338",
@@ -3202,7 +4822,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-09-29",
+          "answerDate": "2025-10-06",
+          "helpfulVotes": 7
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-18",
+          "answerDate": "2025-07-20",
+          "helpfulVotes": 13
+        }
+      ]
     },
     {
       "productId": "335096961",
@@ -3242,7 +4884,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-02-23",
+          "answerDate": "2025-02-28",
+          "helpfulVotes": 69
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-14",
+          "answerDate": "2025-07-18",
+          "helpfulVotes": 129
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-12-23",
+          "answerDate": "2025-12-29",
+          "helpfulVotes": 108
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-21",
+          "answerDate": "2025-08-27",
+          "helpfulVotes": 38
+        }
+      ]
     },
     {
       "productId": "336141558",
@@ -3286,7 +4970,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-07-05",
+          "answerDate": "2025-07-12",
+          "helpfulVotes": 32
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-21",
+          "helpfulVotes": 97
+        }
+      ]
     },
     {
       "productId": "336169921",
@@ -3327,7 +5033,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-01-25",
+          "answerDate": "2025-01-28",
+          "helpfulVotes": 141
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-10-27",
+          "answerDate": "2025-10-28",
+          "helpfulVotes": 43
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-28",
+          "answerDate": "2025-09-03",
+          "helpfulVotes": 135
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-07-14",
+          "answerDate": "2025-07-15",
+          "helpfulVotes": 102
+        }
+      ]
     },
     {
       "productId": "328677506",
@@ -3366,7 +5114,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-04",
+          "answerDate": "2025-03-08",
+          "helpfulVotes": 138
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-22",
+          "answerDate": "2025-11-24",
+          "helpfulVotes": 129
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-09-04",
+          "answerDate": "2025-09-09",
+          "helpfulVotes": 34
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-16",
+          "answerDate": "2025-03-18",
+          "helpfulVotes": 96
+        }
+      ]
     },
     {
       "productId": "330333492",
@@ -3407,7 +5197,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-07",
+          "answerDate": "2025-08-12",
+          "helpfulVotes": 64
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-28",
+          "answerDate": "2025-04-03",
+          "helpfulVotes": 144
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-08",
+          "answerDate": "2025-08-14",
+          "helpfulVotes": 79
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-06-05",
+          "answerDate": "2025-06-11",
+          "helpfulVotes": 44
+        }
+      ]
     },
     {
       "productId": "335922934",
@@ -3451,7 +5283,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-01",
+          "answerDate": "2025-08-08",
+          "helpfulVotes": 17
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-03",
+          "answerDate": "2025-04-05",
+          "helpfulVotes": 77
+        }
+      ]
     },
     {
       "productId": "335922735",
@@ -3496,7 +5350,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-03-30",
+          "answerDate": "2025-03-31",
+          "helpfulVotes": 11
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-04-05",
+          "answerDate": "2025-04-11",
+          "helpfulVotes": 24
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-03-15",
+          "answerDate": "2025-03-17",
+          "helpfulVotes": 92
+        }
+      ]
     },
     {
       "productId": "335922841",
@@ -3540,7 +5426,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-11",
+          "answerDate": "2025-10-17",
+          "helpfulVotes": 79
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-08",
+          "answerDate": "2025-01-10",
+          "helpfulVotes": 16
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-02-09",
+          "answerDate": "2025-02-10",
+          "helpfulVotes": 38
+        }
+      ]
     },
     {
       "productId": "326868657",
@@ -3579,7 +5497,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-27",
+          "answerDate": "2025-08-28",
+          "helpfulVotes": 77
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-12",
+          "answerDate": "2025-06-18",
+          "helpfulVotes": 142
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-07-28",
+          "answerDate": "2025-08-01",
+          "helpfulVotes": 64
+        }
+      ]
     },
     {
       "productId": "326868555",
@@ -3619,7 +5569,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-07",
+          "answerDate": "2025-04-10",
+          "helpfulVotes": 93
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-13",
+          "answerDate": "2025-12-18",
+          "helpfulVotes": 148
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-02-06",
+          "answerDate": "2025-02-11",
+          "helpfulVotes": 24
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-02-24",
+          "answerDate": "2025-02-28",
+          "helpfulVotes": 31
+        }
+      ]
     },
     {
       "productId": "326991420",
@@ -3662,7 +5654,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-01",
+          "answerDate": "2025-12-04",
+          "helpfulVotes": 46
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-06-03",
+          "answerDate": "2025-06-10",
+          "helpfulVotes": 35
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-10-02",
+          "answerDate": "2025-10-03",
+          "helpfulVotes": 123
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-11-26",
+          "answerDate": "2025-12-03",
+          "helpfulVotes": 106
+        }
+      ]
     },
     {
       "productId": "336169921",
@@ -3703,7 +5737,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-23",
+          "answerDate": "2025-05-30",
+          "helpfulVotes": 63
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-19",
+          "answerDate": "2025-01-20",
+          "helpfulVotes": 142
+        }
+      ]
     },
     {
       "productId": "326991338",
@@ -3746,7 +5802,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-12-20",
+          "answerDate": "2025-12-25",
+          "helpfulVotes": 81
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-10",
+          "answerDate": "2025-03-12",
+          "helpfulVotes": 76
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-28",
+          "answerDate": "2025-09-01",
+          "helpfulVotes": 54
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-12",
+          "answerDate": "2025-05-14",
+          "helpfulVotes": 21
+        }
+      ]
     },
     {
       "productId": "326991314",
@@ -3785,7 +5883,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-28",
+          "answerDate": "2025-09-04",
+          "helpfulVotes": 7
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-16",
+          "answerDate": "2025-02-18",
+          "helpfulVotes": 150
+        }
+      ]
     },
     {
       "productId": "323401967",
@@ -3826,7 +5946,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-22",
+          "answerDate": "2025-04-24",
+          "helpfulVotes": 9
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-25",
+          "answerDate": "2025-03-04",
+          "helpfulVotes": 39
+        }
+      ]
     },
     {
       "productId": "323401969",
@@ -3864,7 +6006,39 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-05-24",
+          "answerDate": "2025-05-30",
+          "helpfulVotes": 103
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-08-20",
+          "answerDate": "2025-08-25",
+          "helpfulVotes": 100
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-05-25",
+          "answerDate": "2025-05-27",
+          "helpfulVotes": 143
+        }
+      ]
     },
     {
       "productId": "326991314",
@@ -3903,7 +6077,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-12",
+          "answerDate": "2025-08-17",
+          "helpfulVotes": 26
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-03-24",
+          "answerDate": "2025-03-30",
+          "helpfulVotes": 69
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-01-12",
+          "answerDate": "2025-01-19",
+          "helpfulVotes": 70
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-06-27",
+          "answerDate": "2025-07-04",
+          "helpfulVotes": 87
+        }
+      ]
     },
     {
       "productId": "330333492",
@@ -3944,7 +6160,29 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-09-04",
+          "answerDate": "2025-09-08",
+          "helpfulVotes": 12
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-05-01",
+          "answerDate": "2025-05-04",
+          "helpfulVotes": 145
+        }
+      ]
     },
     {
       "productId": "326868657",
@@ -3983,7 +6221,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-25",
+          "answerDate": "2025-04-29",
+          "helpfulVotes": 139
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-15",
+          "answerDate": "2025-12-20",
+          "helpfulVotes": 125
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-09-02",
+          "answerDate": "2025-09-08",
+          "helpfulVotes": 113
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-27",
+          "answerDate": "2025-05-01",
+          "helpfulVotes": 93
+        }
+      ]
     },
     {
       "productId": "334475869",
@@ -4023,7 +6303,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-08-03",
+          "answerDate": "2025-08-04",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-22",
+          "answerDate": "2025-02-28",
+          "helpfulVotes": 90
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-01-17",
+          "answerDate": "2025-01-23",
+          "helpfulVotes": 97
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-10-23",
+          "answerDate": "2025-10-27",
+          "helpfulVotes": 19
+        }
+      ]
     },
     {
       "productId": "335922841",
@@ -4067,7 +6389,49 @@
         "Easy installation",
         "Durable construction"
       ],
-      "warranty": "1-Year Limited Warranty"
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Is this compatible with LED bulbs?",
+          "answer": "Yes, this is fully compatible with LED bulbs. For dimmer switches, ensure you use dimmable LED bulbs for best performance.",
+          "askedBy": "LEDConvert",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-04-19",
+          "answerDate": "2025-04-24",
+          "helpfulVotes": 113
+        },
+        {
+          "id": "qa_2",
+          "question": "Do I need a neutral wire for installation?",
+          "answer": "Please check the product specifications. Some smart switches require a neutral wire, while others do not. Most homes built after 1980 have neutral wires.",
+          "askedBy": "SmartHomeNewbie",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-07-11",
+          "answerDate": "2025-07-14",
+          "helpfulVotes": 117
+        },
+        {
+          "id": "qa_3",
+          "question": "Is this compatible with Alexa and Google Home?",
+          "answer": "Yes, this product works with Amazon Alexa, Google Assistant, and Apple HomeKit. No hub required - connects directly to your WiFi network.",
+          "askedBy": "VoiceControl",
+          "answeredBy": "SmartHomePro",
+          "questionDate": "2025-08-17",
+          "answerDate": "2025-08-22",
+          "helpfulVotes": 99
+        },
+        {
+          "id": "qa_4",
+          "question": "Can I install this myself or do I need an electrician?",
+          "answer": "If you're comfortable with basic electrical work, this can be a DIY project. Always turn off power at the breaker before working. When in doubt, hire a licensed electrician.",
+          "askedBy": "HomeImprover",
+          "answeredBy": "ElectricalPro",
+          "questionDate": "2025-01-28",
+          "answerDate": "2025-01-31",
+          "helpfulVotes": 27
+        }
+      ]
     }
   ]
 }
