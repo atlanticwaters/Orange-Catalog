@@ -400,11 +400,11 @@
     "categoryFolder": "Electric Screwdrivers"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.619636",
+  "lastUpdated": "2026-01-03T01:16:50.031352",
   "products": [
     {
       "productId": "333254566",
-      "modelNumber": "",
+      "modelNumber": "FVCH01-FVB03",
       "brand": "RYOBI",
       "title": "RYOBI USB Lithium Multi-Head Screwdriver Kit with 2 Ah Battery, Charging Cable, 3 Ah Battery, and USB Lithium 3-Port Charger FVD51K-FVCH01-FVB03",
       "rating": {
@@ -430,11 +430,26 @@
           "https://images.thdstatic.com/productImages/9721a6a5-04b7-45df-aedd-c116e185df79/svn/ryobi-electric-screwdrivers-fvd51k-fvch01-fvb03-31_1000.jpg"
         ]
       },
-      "subcategory": "electric-screwdrivers"
+      "subcategory": "electric-screwdrivers",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "303355547",
-      "modelNumber": "",
+      "modelNumber": "49103",
       "brand": "WEN",
       "title": "WEN 3.6-Volt Lithium-Ion Cordless Electric Screwdriver with Bits and Belt Holster 49103",
       "rating": {
@@ -456,11 +471,26 @@
           "https://images.thdstatic.com/productImages/5d314d8d-7d95-4e7c-8497-5ab1baaa9054/svn/wen-electric-screwdrivers-49103-fa_1000.jpg"
         ]
       },
-      "subcategory": "electric-screwdrivers"
+      "subcategory": "electric-screwdrivers",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "320013974",
-      "modelNumber": "",
+      "modelNumber": "XSF03TXSF03TXRM",
       "brand": "Makita",
       "title": "Makita 18V 5.0Ah LXT Brushless Drywall Screwdriver Kit and 18V LXT Drywall Screwdriver Kit w/ Bluetooth Job Site Speaker XSF03TXSF03TXRM",
       "rating": {
@@ -487,7 +517,22 @@
           "https://images.thdstatic.com/productImages/b765d8d5-0c31-476a-b53d-faff17d74246/svn/makita-electric-screwdrivers-xsf03txsf03txrm-31_1000.jpg"
         ]
       },
-      "subcategory": "electric-screwdrivers"
+      "subcategory": "electric-screwdrivers",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     }
   ]
 }

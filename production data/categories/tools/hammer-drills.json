@@ -432,11 +432,11 @@
     "categoryFolder": "Hammer Drills"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.618515",
+  "lastUpdated": "2026-01-03T01:16:50.028570",
   "products": [
     {
       "productId": "337440458",
-      "modelNumber": "",
+      "modelNumber": "DCK200D1P1W172B",
       "brand": "DEWALT",
       "title": "DEWALT ATOMIC 20-Volt Lithium-Ion Cordless 2-Tool Combo Kit and 5/8 in. SDS Plus Hammer Drill w/ 5 Ah, 2 Ah Batteries, Charger DCK200D1P1W172B",
       "rating": {
@@ -467,11 +467,26 @@
           "https://images.thdstatic.com/productImages/7fa69b9b-7fa2-4c0f-adb7-4c9b7c4e5ee9/svn/dewalt-power-tool-combo-kits-dck200d1p1w172b-31_1000.jpg"
         ]
       },
-      "subcategory": "hammer-drills"
+      "subcategory": "hammer-drills",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "205561434",
-      "modelNumber": "",
+      "modelNumber": "XRH04Z",
       "brand": "Makita",
       "title": "Makita 18V LXT Lithium-Ion 7/8 in. Cordless SDS-Plus Concrete/Masonry Rotary Hammer Drill (Tool-Only) XRH04Z",
       "rating": {
@@ -493,11 +508,26 @@
           "https://images.thdstatic.com/productImages/82856a23-ca1d-4c29-b7a8-668f517535ed/svn/makita-rotary-hammers-xrh04z-31_1000.jpg"
         ]
       },
-      "subcategory": "hammer-drills"
+      "subcategory": "hammer-drills",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "302552049",
-      "modelNumber": "",
+      "modelNumber": "XRH06ZB",
       "brand": "Makita",
       "title": "Makita 18V LXT Sub-Compact Lithium-Ion Brushless Cordless 11/16 in. Rotary Hammer, accepts SDS-PLUS bits, Tool Only XRH06ZB",
       "rating": {
@@ -527,11 +557,26 @@
           "https://images.thdstatic.com/productImages/82856a23-ca1d-4c29-b7a8-668f517535ed/svn/makita-rotary-hammers-xrh06zb-31_1000.jpg"
         ]
       },
-      "subcategory": "hammer-drills"
+      "subcategory": "hammer-drills",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "205690291",
-      "modelNumber": "",
+      "modelNumber": "XRH01Z",
       "brand": "Makita",
       "title": "Makita 18V LXT Lithium-Ion 1 in. Brushless Cordless SDS-Plus Concrete/Masonry Rotary Hammer Drill (Tool-Only) XRH01Z",
       "rating": {
@@ -556,7 +601,22 @@
           "https://images.thdstatic.com/productImages/82856a23-ca1d-4c29-b7a8-668f517535ed/svn/makita-rotary-hammers-xrh01z-31_1000.jpg"
         ]
       },
-      "subcategory": "hammer-drills"
+      "subcategory": "hammer-drills",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     }
   ]
 }

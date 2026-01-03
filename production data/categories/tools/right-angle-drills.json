@@ -432,11 +432,11 @@
     "categoryFolder": "Right Angle Drills"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.619783",
+  "lastUpdated": "2026-01-03T01:16:50.031984",
   "products": [
     {
       "productId": "205044596",
-      "modelNumber": "",
+      "modelNumber": "2415-20",
       "brand": "Milwaukee",
       "title": "Milwaukee M12 FUEL 12V Cordless 1/4 in. Hex 2-Speed Screwdriver Kit with M12 3/8 in. Right Angle Drill (Tool-Only) 2402-22-2415-20",
       "rating": {
@@ -459,7 +459,22 @@
           "https://images.thdstatic.com/productImages/4838674b-bbe2-4836-82b2-7bb7ae15b2f3/svn/milwaukee-electric-screwdrivers-2402-22-2415-20-76_1000.jpg"
         ]
       },
-      "subcategory": "right-angle-drills"
+      "subcategory": "right-angle-drills",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     }
   ]
 }

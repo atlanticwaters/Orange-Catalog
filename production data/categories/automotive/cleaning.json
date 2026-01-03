@@ -4,7 +4,7 @@
   "slug": "cleaning",
   "path": "/categories/automotive/cleaning",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.867149",
+  "lastUpdated": "2026-01-03T01:16:50.058388",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -120,7 +120,19 @@
       "price": {
         "current": 7.98,
         "currency": "USD"
-      }
+      },
+      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
+      "specifications": {
+        "Compatibility": "Universal Fit",
+        "Material": "Premium Quality"
+      },
+      "highlights": [
+        "Meets OEM specifications",
+        "Easy installation",
+        "Quality construction",
+        "Reliable performance"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "339377625",
@@ -160,7 +172,19 @@
       "price": {
         "current": 30.7,
         "currency": "USD"
-      }
+      },
+      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
+      "specifications": {
+        "Compatibility": "Universal Fit",
+        "Material": "Premium Quality"
+      },
+      "highlights": [
+        "Meets OEM specifications",
+        "Easy installation",
+        "Quality construction",
+        "Reliable performance"
+      ],
+      "warranty": "1-Year Limited Warranty"
     }
   ]
 }

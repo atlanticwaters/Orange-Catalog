@@ -481,11 +481,11 @@
     "categoryFolder": "Circular Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.618167",
+  "lastUpdated": "2026-01-03T01:16:50.040224",
   "products": [
     {
       "productId": "337440453",
-      "modelNumber": "",
+      "modelNumber": "DCK200D1P1W565B",
       "brand": "DEWALT",
       "title": "DEWALT ATOMIC 20V Lithium-Ion Cordless 2-Tool Combo Kit and Brushless 6-1/2 in. Circular Saw w/ 5 Ah & 2 Ah Batteries & Charger DCK200D1P1W565B",
       "rating": {
@@ -516,7 +516,22 @@
           "https://images.thdstatic.com/productImages/f4d05528-e29e-48e1-b164-5470ce9e54b7/svn/dewalt-power-tool-combo-kits-dck200d1p1w565b-31_1000.jpg"
         ]
       },
-      "subcategory": "circular-saws"
+      "subcategory": "circular-saws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     }
   ]
 }

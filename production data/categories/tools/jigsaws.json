@@ -437,11 +437,11 @@
     "categoryFolder": "Jigsaws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.571374",
+  "lastUpdated": "2026-01-03T01:16:50.031571",
   "products": [
     {
       "productId": "337440480",
-      "modelNumber": "",
+      "modelNumber": "DCKTS650D1P1W4B",
       "brand": "DEWALT",
       "title": "DEWALT 20V Lithium-Ion Cordless 6-Tool Combo Kit and Brushless Jigsaw with 5 Ah and 2 Ah Batteries Charger and Rolling Toolbox DCKTS650D1P1W4B",
       "rating": {
@@ -472,11 +472,26 @@
           "https://images.thdstatic.com/productImages/d180b78e-b637-459c-a7fb-0c83ff2c4ded/svn/dewalt-power-tool-combo-kits-dckts650d1p1w4b-31_1000.jpg"
         ]
       },
-      "subcategory": "jigsaws"
+      "subcategory": "jigsaws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "314266694",
-      "modelNumber": "",
+      "modelNumber": "DCW210BW334205",
       "brand": "DEWALT",
       "title": "DEWALT 20V MAX XR\u00a0Cordless Brushless 5 in. Random Orbital Sander, 20V MAX XR Cordless Jigsaw, and (1) 20V 5.0Ah Battery DCW210BW334205",
       "rating": {
@@ -507,11 +522,26 @@
           "https://images.thdstatic.com/productImages/018a7de1-ae60-47b0-bbff-dcc7e2a9759d/svn/dewalt-orbital-sanders-dcw210bw334205-31_1000.jpg"
         ]
       },
-      "subcategory": "jigsaws"
+      "subcategory": "jigsaws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "337440454",
-      "modelNumber": "",
+      "modelNumber": "DCK200D1P1W334B",
       "brand": "DEWALT",
       "title": "DEWALT ATOMIC 20-Volt Lithium-Ion Cordless 2-Tool Combo Kit and Brushless Jigsaw with 5.0 Ah and 2.0 Ah Batteries and Charger DCK200D1P1W334B",
       "rating": {
@@ -542,7 +572,22 @@
           "https://images.thdstatic.com/productImages/81c5fe08-5026-4f38-aa47-62c343495067/svn/dewalt-power-tool-combo-kits-dck200d1p1w334b-31_1000.jpg"
         ]
       },
-      "subcategory": "jigsaws"
+      "subcategory": "jigsaws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     }
   ]
 }

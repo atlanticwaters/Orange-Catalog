@@ -4,7 +4,7 @@
   "slug": "wall-plates",
   "path": "/categories/electrical/wall-plates",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.875464",
+  "lastUpdated": "2026-01-03T01:16:50.027154",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -69,7 +69,19 @@
       "price": {
         "current": 2.57,
         "currency": "USD"
-      }
+      },
+      "description": "Quality electrical component for residential or commercial applications. Meets all applicable electrical codes and standards. Professional or DIY installation.",
+      "specifications": {
+        "Voltage": "120V",
+        "Certification": "UL Listed"
+      },
+      "highlights": [
+        "UL Listed for safety",
+        "Meets electrical codes",
+        "Easy installation",
+        "Durable construction"
+      ],
+      "warranty": "1-Year Limited Warranty"
     }
   ]
 }

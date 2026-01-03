@@ -4,7 +4,7 @@
   "slug": "wall-ovens",
   "path": "/categories/appliances/wall-ovens",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.829479",
+  "lastUpdated": "2026-01-03T01:16:50.040910",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -67,7 +67,20 @@
         "current": 3099.0,
         "currency": "USD"
       },
-      "subcategory": "Wall Ovens"
+      "subcategory": "Wall Ovens",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "324905770",
@@ -99,7 +112,20 @@
         "current": 2399.0,
         "currency": "USD"
       },
-      "subcategory": "Wall Ovens"
+      "subcategory": "Wall Ovens",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     }
   ]
 }

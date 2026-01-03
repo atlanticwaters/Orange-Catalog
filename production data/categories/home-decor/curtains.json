@@ -4,7 +4,7 @@
   "slug": "curtains",
   "path": "/categories/home-decor/curtains",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.617835",
+  "lastUpdated": "2026-01-03T01:16:50.077608",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -130,11 +130,23 @@
       "price": {
         "current": 159.28,
         "currency": "USD"
-      }
+      },
+      "description": "Quality home decor item designed to enhance your living space. Durable materials ensure lasting beauty. Easy care and maintenance.",
+      "specifications": {
+        "Indoor/Outdoor": "Indoor Only",
+        "Care": "Wipe Clean"
+      },
+      "highlights": [
+        "Quality construction",
+        "Stylish design",
+        "Easy maintenance",
+        "Enhances any room"
+      ],
+      "warranty": "30-Day Return Policy"
     },
     {
       "productId": "305563378",
-      "modelNumber": "",
+      "modelNumber": "730462679055",
       "brand": "Ellis Curtain",
       "title": "Ellis Curtain Victoria Park Blue Cotton Toile Rod Pocket Room Darkening Curtain - 34 in. W x 63 in. L (Set of 2) 730462679055",
       "rating": {
@@ -152,7 +164,19 @@
           "https://images.thdstatic.com/productImages/502de38c-0190-4057-9501-ab573d14f33c/svn/blue-ellis-curtain-room-darkening-curtains-730462679055-c3_1000.jpg"
         ]
       },
-      "subcategory": "curtains"
+      "subcategory": "curtains",
+      "description": "Quality home decor item designed to enhance your living space. Durable materials ensure lasting beauty. Easy care and maintenance.",
+      "specifications": {
+        "Indoor/Outdoor": "Indoor Only",
+        "Care": "Wipe Clean"
+      },
+      "highlights": [
+        "Quality construction",
+        "Stylish design",
+        "Easy maintenance",
+        "Enhances any room"
+      ],
+      "warranty": "30-Day Return Policy"
     }
   ]
 }

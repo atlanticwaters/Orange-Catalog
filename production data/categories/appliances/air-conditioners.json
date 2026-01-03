@@ -4,7 +4,7 @@
   "slug": "air-conditioners",
   "path": "/categories/appliances/air-conditioners",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.806598",
+  "lastUpdated": "2026-01-03T01:16:50.052245",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -66,7 +66,20 @@
       "price": {
         "current": 248.0,
         "currency": "USD"
-      }
+      },
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "327450112",
@@ -97,7 +110,20 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "333099408",
@@ -128,7 +154,20 @@
       "price": {
         "current": 282.0,
         "currency": "USD"
-      }
+      },
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     }
   ]
 }

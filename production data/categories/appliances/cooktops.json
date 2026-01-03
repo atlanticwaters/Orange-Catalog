@@ -4,7 +4,7 @@
   "slug": "cooktops",
   "path": "/categories/appliances/cooktops",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.808353",
+  "lastUpdated": "2026-01-03T01:16:50.055817",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -67,7 +67,20 @@
         "current": 1149.0,
         "currency": "USD"
       },
-      "subcategory": "Cooktops"
+      "subcategory": "Cooktops",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "323664615",
@@ -99,7 +112,20 @@
         "current": 2429.0,
         "currency": "USD"
       },
-      "subcategory": "Cooktops"
+      "subcategory": "Cooktops",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "327754403",
@@ -131,7 +157,20 @@
         "current": 799.0,
         "currency": "USD"
       },
-      "subcategory": "Cooktops"
+      "subcategory": "Cooktops",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "305455086",
@@ -163,7 +202,20 @@
         "current": 599.0,
         "currency": "USD"
       },
-      "subcategory": "Cooktops"
+      "subcategory": "Cooktops",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty"
     }
   ]
 }

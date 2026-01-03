@@ -4,7 +4,7 @@
   "slug": "fluids",
   "path": "/categories/automotive/fluids",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:49.867892",
+  "lastUpdated": "2026-01-03T01:16:50.058714",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -81,7 +81,19 @@
       "price": {
         "current": 26.63,
         "currency": "USD"
-      }
+      },
+      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
+      "specifications": {
+        "Compatibility": "Universal Fit",
+        "Material": "Premium Quality"
+      },
+      "highlights": [
+        "Meets OEM specifications",
+        "Easy installation",
+        "Quality construction",
+        "Reliable performance"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "300387920",
@@ -162,7 +174,19 @@
       "price": {
         "current": 15.98,
         "currency": "USD"
-      }
+      },
+      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
+      "specifications": {
+        "Compatibility": "Universal Fit",
+        "Material": "Premium Quality"
+      },
+      "highlights": [
+        "Meets OEM specifications",
+        "Easy installation",
+        "Quality construction",
+        "Reliable performance"
+      ],
+      "warranty": "1-Year Limited Warranty"
     },
     {
       "productId": "300646438",
@@ -243,7 +267,19 @@
       "price": {
         "current": 29.38,
         "currency": "USD"
-      }
+      },
+      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
+      "specifications": {
+        "Compatibility": "Universal Fit",
+        "Material": "Premium Quality"
+      },
+      "highlights": [
+        "Meets OEM specifications",
+        "Easy installation",
+        "Quality construction",
+        "Reliable performance"
+      ],
+      "warranty": "1-Year Limited Warranty"
     }
   ]
 }

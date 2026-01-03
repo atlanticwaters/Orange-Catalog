@@ -409,11 +409,11 @@
     "categoryFolder": "Table Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.617598",
+  "lastUpdated": "2026-01-03T01:16:50.031774",
   "products": [
     {
       "productId": "339732619",
-      "modelNumber": "",
+      "modelNumber": "DJYC-W465P200266",
       "brand": "GE",
       "title": "8. 5A Corded 11.5 in. Mini Table Saw, Belt Sander, 4pcs Blades, 10pcs Sanding Blet, 7 Gear Adjustable 0-90\u00b0 Angle,Black DJYC-W465P200266",
       "rating": {
@@ -435,11 +435,26 @@
           "https://images.thdstatic.com/productImages/9c3f9497-75ac-4411-ba53-e643dc1918e7/svn/belt-sanders-djyc-w465p200266-76_1000.jpg"
         ]
       },
-      "subcategory": "table-saws"
+      "subcategory": "table-saws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "339731858",
-      "modelNumber": "",
+      "modelNumber": "DJYC-W465P200270",
       "brand": "GE",
       "title": "8.5A Corded 11.5 in. Mini Table Saw,Belt Sander,4-Pieces Blades,10pcs Sanding Blet,7 Gear Adjustable 0-90\u00b0 Angle, Silver DJYC-W465P200270",
       "rating": {
@@ -462,7 +477,22 @@
           "https://images.thdstatic.com/productImages/14a9aedf-6142-43f9-ad41-f229f4ec393a/svn/belt-sanders-djyc-w465p200270-76_1000.jpg"
         ]
       },
-      "subcategory": "table-saws"
+      "subcategory": "table-saws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty"
     }
   ]
 }

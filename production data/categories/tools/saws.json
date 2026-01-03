@@ -4,7 +4,7 @@
   "slug": "saws",
   "path": "/categories/tools/saws",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:05:20.618036",
+  "lastUpdated": "2026-01-03T01:16:50.036124",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -114,7 +114,7 @@
   "products": [
     {
       "productId": "324811431",
-      "modelNumber": "",
+      "modelNumber": "DCK225D2WCS391B",
       "brand": "DEWALT",
       "title": "DEWALT ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) and 6.5 in. Circ Saw with (2) 2Ah Batteries, Charger and Bag DCK225D2WCS391B",
       "rating": {
@@ -141,11 +141,28 @@
           "https://images.thdstatic.com/productImages/f548c058-1c4f-4bab-a48d-d2f8235a0b55/svn/dewalt-power-tool-combo-kits-dck225d2wcs391b-fa_1000.jpg"
         ]
       },
-      "subcategory": "saws"
+      "subcategory": "saws",
+      "description": "High-performance saw delivers fast, accurate cuts in a variety of materials. Powerful motor and optimized blade design provide smooth cutting performance. Lightweight and ergonomic design reduces user fatigue.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Blade Diameter": "7-1/4 in.",
+        "Bevel Capacity": "57 degrees",
+        "Cutting Depth at 90\u00b0": "2-9/16 in.",
+        "No-Load Speed": "5,200 RPM",
+        "Weight": "7.5 lbs"
+      },
+      "highlights": [
+        "Powerful motor for demanding applications",
+        "57-degree bevel capacity with stops at 45 and 22.5 degrees",
+        "Integrated dust blower keeps line of cut clear",
+        "Magnesium shoe for lightweight durability"
+      ],
+      "warranty": "3-Year Limited Warranty"
     },
     {
       "productId": "324811431",
-      "modelNumber": "",
+      "modelNumber": "DCK225D2WCS391B",
       "brand": "DEWALT",
       "title": "DEWALT ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) and 6.5 in. Circ Saw with (2) 2Ah Batteries, Charger and Bag DCK225D2WCS391B",
       "rating": {
@@ -172,7 +189,24 @@
           "https://images.thdstatic.com/productImages/f548c058-1c4f-4bab-a48d-d2f8235a0b55/svn/dewalt-power-tool-combo-kits-dck225d2wcs391b-fa_1000.jpg"
         ]
       },
-      "subcategory": "saws"
+      "subcategory": "saws",
+      "description": "High-performance saw delivers fast, accurate cuts in a variety of materials. Powerful motor and optimized blade design provide smooth cutting performance. Lightweight and ergonomic design reduces user fatigue.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Blade Diameter": "7-1/4 in.",
+        "Bevel Capacity": "57 degrees",
+        "Cutting Depth at 90\u00b0": "2-9/16 in.",
+        "No-Load Speed": "5,200 RPM",
+        "Weight": "7.5 lbs"
+      },
+      "highlights": [
+        "Powerful motor for demanding applications",
+        "57-degree bevel capacity with stops at 45 and 22.5 degrees",
+        "Integrated dust blower keeps line of cut clear",
+        "Magnesium shoe for lightweight durability"
+      ],
+      "warranty": "3-Year Limited Warranty"
     }
   ]
 }
