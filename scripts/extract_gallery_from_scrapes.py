@@ -32,6 +32,43 @@ def extract_product_ids_from_html(html_path: Path) -> List[str]:
         return []
 
 
+def extract_product_id_from_manifest(manifest_path: Path) -> str:
+    """Extract product ID from manifest's originalUrl if it's a PDP."""
+    try:
+        data = json.loads(manifest_path.read_text())
+        original_url = data.get("originalUrl", "")
+        # Match /p/Product-Name/123456789
+        match = re.search(r'/p/[^/]+/(\d{9,})', original_url)
+        return match.group(1) if match else None
+    except:
+        return None
+
+
+def extract_images_from_html(html_path: Path) -> Dict[str, str]:
+    """
+    Extract product images from HTML file.
+    Returns dict mapping UUID to normalized image URL.
+    """
+    uuid_images = {}
+    try:
+        html = html_path.read_text(errors='ignore')
+        # Find all productImages URLs in HTML
+        pattern = r'productImages/([a-f0-9-]+)/svn/([^"\'<>\s]+\.(jpg|avif|webp|png))'
+        matches = re.findall(pattern, html)
+
+        for uuid, path_suffix, ext in matches:
+            # Build full URL and normalize to 1000px jpg
+            base_url = f"https://images.thdstatic.com/productImages/{uuid}/svn/{path_suffix}"
+            # Normalize to 1000px
+            normalized = re.sub(r'_\d+\.(jpg|avif|webp|png)$', '_1000.jpg', base_url)
+            uuid_images[uuid] = normalized
+
+    except Exception as e:
+        pass  # Silently skip errors
+
+    return uuid_images
+
+
 def extract_images_from_manifest(manifest_path: Path) -> Dict[str, List[str]]:
     """
     Extract product images from manifest.json.
@@ -117,6 +154,8 @@ def scan_scraped_folders() -> Dict[str, Dict]:
     """
     product_galleries = defaultdict(set)
     all_scraped_images = {}
+    pdp_count = 0
+    plp_count = 0
 
     # Folders to scan
     folders_to_scan = [
@@ -125,6 +164,7 @@ def scan_scraped_folders() -> Dict[str, Dict]:
         SCRAPED_DATA_PATH / "PLP Landing Pages",
         SCRAPED_DATA_PATH / "Fridge PLP",
         SCRAPED_DATA_PATH / "Top Level THD Pages",
+        Path("_scraped data/New Products"),  # New folder with 1126 products
     ]
 
     for base_folder in folders_to_scan:
@@ -140,28 +180,46 @@ def scan_scraped_folders() -> Dict[str, Dict]:
             manifest_path = folder / "manifest.json"
             index_path = folder / "index.html"
 
-            if not manifest_path.exists():
+            if not manifest_path.exists() or not index_path.exists():
                 continue
 
-            # Get product IDs from HTML
-            product_ids = []
-            if index_path.exists():
+            # Check if this is a PDP (single product page)
+            pdp_product_id = extract_product_id_from_manifest(manifest_path)
+
+            # Extract images from HTML (more complete than manifest)
+            html_images = extract_images_from_html(index_path)
+
+            if not html_images:
+                # Fall back to manifest
+                uuid_images = extract_images_from_manifest(manifest_path)
+                if uuid_images:
+                    for uuid, urls in uuid_images.items():
+                        if urls:
+                            html_images[uuid] = urls[0]
+
+            if not html_images:
+                continue
+
+            # Store all images for UUID matching
+            all_scraped_images.update(html_images)
+
+            if pdp_product_id:
+                # This is a PDP - all images belong to this one product
+                pdp_count += 1
+                for uuid, url in html_images.items():
+                    product_galleries[pdp_product_id].add(url)
+            else:
+                # This is a PLP - get product IDs from HTML
+                plp_count += 1
                 product_ids = extract_product_ids_from_html(index_path)
 
-            # Get images from manifest
-            uuid_images = extract_images_from_manifest(manifest_path)
-
-            if not uuid_images:
-                continue
-
-            # Store all images for later matching
-            all_scraped_images.update(uuid_images)
-
-            # For each product ID found, we'll match images later
-            for pid in product_ids:
-                for uuid, urls in uuid_images.items():
-                    for url in urls:
+                # Add all images to all products on the page
+                for pid in product_ids:
+                    for uuid, url in html_images.items():
                         product_galleries[pid].add(url)
+
+    print(f"\n  PDPs processed: {pdp_count}")
+    print(f"  PLPs processed: {plp_count}")
 
     return {
         "product_galleries": {k: list(v) for k, v in product_galleries.items()},
