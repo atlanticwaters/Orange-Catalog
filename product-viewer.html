@@ -98,153 +98,143 @@
             </div>
 
             <div class="section image-links">
-                <h2>Image URLs</h2>
+                <h2>Image URLs (with Unique UUIDs)</h2>
+                <p style="color: #666; font-size: 13px; margin-bottom: 16px;">Each gallery image has a <strong>unique UUID</strong> - these are different images, not just different sizes of the same image.</p>
                 <h3>Primary Image</h3>
                 <div class="image-url" id="primaryUrl"></div>
-                <h3>Gallery Images (<span id="galleryCount"></span>)</h3>
+                <h3>Gallery Images (<span id="galleryCount"></span> images, <span id="uuidCount"></span> unique UUIDs)</h3>
                 <div id="galleryUrls"></div>
             </div>
         </div>
     </div>
 
     <script>
-        // Sample refrigerator products data
+        // Products with UNIQUE UUIDs for each gallery image (real PDP scrapes)
         const products = [
             {
-                "productId": "338094459",
-                "brand": "LG",
-                "title": "29 cu. ft. Standard Depth MAX 4-Door French Door Refrigerator in Stainless Steel with Craft Ice",
-                "rating": { "average": 4.82, "count": 39 },
-                "price": { "current": 4499.00 },
+                "productId": "336574722",
+                "brand": "ChargePoint",
+                "title": "ChargePoint 240-Volt Home Flex Level 2 WiFi NEMA 14-50 Plug Electric Vehicle EV Charger",
+                "rating": { "average": 4.7, "count": 892 },
+                "price": { "current": 699.00 },
                 "images": {
-                    "primary": "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-64_1000.jpg",
+                    "primary": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
                     "gallery": [
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-64_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-1d_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-1f_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-4f_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-31_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-40_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-44_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-66_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-76_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-a0_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-c3_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-d4_1000.jpg",
-                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-fa_1000.jpg"
+                        "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
+                        "https://images.thdstatic.com/productImages/b2fa5979-b566-44ef-94a9-a66ca820fcb6/svn/ev-chargers-cph50-nema1450-l23-k-e1_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8efe2d05-f201-4c66-a9af-6bac54fb94fc/svn/ev-chargers-cph50-nema1450-l23-k-40_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6bd506a9-39fb-4c0a-aaf9-8cdf32a91e78/svn/ev-chargers-cph50-nema1450-l23-k-a0_1000.jpg",
+                        "https://images.thdstatic.com/productImages/180e3c9d-7f1c-49dd-b976-078bb4faa9f9/svn/ev-chargers-cph50-nema1450-l23-k-1d_1000.jpg",
+                        "https://images.thdstatic.com/productImages/e2218c72-b835-4eb8-899a-4fba4e8e3500/svn/ev-chargers-cph50-nema1450-l23-k-66_1000.jpg",
+                        "https://images.thdstatic.com/productImages/527c936c-a39b-4d90-8502-0652f07277c3/svn/ev-chargers-cph50-nema1450-l23-k-77_1000.jpg",
+                        "https://images.thdstatic.com/productImages/0625ccb7-3d58-4000-8926-a3e51265192f/svn/ev-chargers-cph50-nema1450-l23-k-c3_1000.jpg",
+                        "https://images.thdstatic.com/productImages/9703de60-2340-4826-8fe9-6bbc29f9fa91/svn/ev-chargers-cph50-nema1450-l23-k-4f_1000.jpg"
                     ]
                 },
-                "description": "French door refrigerator with advanced cooling technology keeps food fresh longer. Fingerprint resistant finish reduces smudges and makes cleaning easy. Internal water dispenser provides filtered water without sacrificing door storage.",
+                "description": "ChargePoint Home Flex is the most flexible home charging solution, allowing you to charge any EV up to 9X faster than a standard wall outlet. WiFi connected for smart charging features including scheduling and monitoring via the ChargePoint app.",
                 "specifications": {
-                    "Total Capacity": "29.0 cu. ft.",
-                    "Refrigerator Capacity": "20.1 cu. ft.",
-                    "Freezer Capacity": "8.9 cu. ft.",
-                    "Width": "35-3/4 in.",
-                    "Height": "69-7/8 in.",
-                    "Depth": "36-1/4 in.",
-                    "Ice Maker": "Craft Ice + Cubed",
-                    "Water Dispenser": "Internal",
-                    "Energy Star": "Yes",
-                    "Annual Energy Cost": "$72"
+                    "Voltage": "240V",
+                    "Amperage": "16-50 Amps (adjustable)",
+                    "Plug Type": "NEMA 14-50",
+                    "Cable Length": "23 ft.",
+                    "Connectivity": "WiFi",
+                    "Compatibility": "All EVs",
+                    "Indoor/Outdoor": "Both (NEMA 4)",
+                    "Warranty": "3 Years"
                 },
                 "highlights": [
-                    "Craft Ice - slow-melting round ice",
-                    "PrintProof fingerprint resistant finish",
-                    "Full-Convert drawer changes temperature zones",
-                    "LED lighting throughout",
-                    "ENERGY STAR certified"
+                    "Charge up to 9X faster than 120V outlet",
+                    "Works with all EVs and plug-in hybrids",
+                    "WiFi connected - schedule charging via app",
+                    "Adjustable amperage (16-50A)",
+                    "Indoor/outdoor rated (NEMA 4)"
                 ],
                 "questionsAndAnswers": [
-                    { "question": "Does this require professional installation?", "answer": "While DIY installation is possible, we recommend professional installation to ensure proper setup and maintain warranty coverage.", "askedBy": "NewHomeowner", "answeredBy": "ApplianceExpert", "helpfulVotes": 89 },
-                    { "question": "Does this come with a water line for the ice maker?", "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line.", "askedBy": "FirstTimeBuyer", "answeredBy": "InstallPro", "helpfulVotes": 124 },
-                    { "question": "How quiet is this refrigerator?", "answer": "This model operates at a low noise level suitable for open floor plans. LG refrigerators are known for quiet operation.", "askedBy": "QuietHome", "answeredBy": "ApplianceExpert", "helpfulVotes": 67 }
+                    { "question": "Can I install this myself?", "answer": "If you have a 240V outlet already installed, you can plug this in yourself. Otherwise, a licensed electrician should install the outlet.", "askedBy": "EVNewbie", "answeredBy": "ElectricalPro", "helpfulVotes": 234 },
+                    { "question": "Does this work with Tesla?", "answer": "Yes! This works with all electric vehicles including Tesla. Tesla owners may need an adapter (included with Tesla vehicles).", "askedBy": "TeslaOwner", "answeredBy": "ChargePointRep", "helpfulVotes": 189 }
                 ]
             },
             {
-                "productId": "320243591",
-                "brand": "GE",
-                "title": "27 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless with Internal Dispenser, ENERGY STAR",
-                "rating": { "average": 4.45, "count": 2847 },
-                "price": { "current": 1998.00 },
+                "productId": "326868555",
+                "brand": "Blink",
+                "title": "Outdoor 4 Wireless Battery Smart Home Security Camera System with 5 Cameras",
+                "rating": { "average": 4.5, "count": 2341 },
+                "price": { "current": 379.99 },
                 "images": {
-                    "primary": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-64_1000.jpg",
+                    "primary": "https://images.thdstatic.com/productImages/46a28501-02aa-4213-bb8e-1f8783ec99e7/svn/black-blink-security-cameras-b0b1n4lm4j-64_1000.jpg",
                     "gallery": [
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-64_1000.jpg",
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-e1_1000.jpg",
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-40_1000.jpg",
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-a0_1000.jpg",
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-1d_1000.jpg",
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-66_1000.jpg",
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-77_1000.jpg",
-                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-c3_1000.jpg"
+                        "https://images.thdstatic.com/productImages/46a28501-02aa-4213-bb8e-1f8783ec99e7/svn/black-blink-security-cameras-b0b1n4lm4j-64_1000.jpg",
+                        "https://images.thdstatic.com/productImages/ea15f4b8-c35a-4046-a10b-fa46dd27e87e/svn/black-blink-security-cameras-b0b1n4lm4j-c3_1000.jpg",
+                        "https://images.thdstatic.com/productImages/53b6b051-13c4-4baf-8277-9a48a3f4826a/svn/black-blink-security-cameras-b0b1n4lm4j-4f_1000.jpg",
+                        "https://images.thdstatic.com/productImages/a7829e13-c077-4912-9b7b-31d423cb6ef6/svn/black-blink-security-cameras-b0b1n4lm4j-1f_1000.jpg",
+                        "https://images.thdstatic.com/productImages/0bda3174-102b-4055-a149-1e5568b80810/svn/black-blink-security-cameras-b0b1n4lm4j-44_1000.jpg",
+                        "https://images.thdstatic.com/productImages/aeb42bed-7394-4ef8-9834-0d11ab42383f/svn/black-blink-security-cameras-b0b1n4lm4j-fa_1000.jpg",
+                        "https://images.thdstatic.com/productImages/d9936ba5-ceb2-47ea-9987-91f7146d8cb3/svn/black-blink-security-cameras-b0b1n4lm4j-76_1000.jpg",
+                        "https://images.thdstatic.com/productImages/e1041111-d440-490f-8a02-8a0aace8fd2e/svn/smart-security-cameras-64_1000.jpg"
                     ]
                 },
-                "description": "French door refrigerator with advanced cooling technology keeps food fresh longer. Fingerprint resistant finish reduces smudges and makes cleaning easy. Internal water dispenser provides filtered water without sacrificing door storage.",
+                "description": "Blink Outdoor 4 is a wire-free, battery-powered HD security camera that helps you monitor your home day or night with infrared night vision. With up to 2-year battery life, you can place your camera anywhere.",
                 "specifications": {
-                    "Total Capacity": "27.0 cu. ft.",
-                    "Refrigerator Capacity": "18.9 cu. ft.",
-                    "Freezer Capacity": "8.1 cu. ft.",
-                    "Width": "35-3/4 in.",
-                    "Height": "69-7/8 in.",
-                    "Depth": "36-1/4 in.",
-                    "Ice Maker": "Yes",
-                    "Water Dispenser": "Internal",
-                    "Energy Star": "Yes",
-                    "Annual Energy Cost": "$67"
+                    "Resolution": "1080p HD",
+                    "Field of View": "143°",
+                    "Night Vision": "Infrared",
+                    "Battery Life": "Up to 2 years",
+                    "Weather Resistant": "Yes",
+                    "Two-Way Audio": "Yes",
+                    "Storage": "Cloud or Local",
+                    "Connectivity": "WiFi"
                 },
                 "highlights": [
-                    "Fingerprint resistant stainless steel finish",
-                    "Internal water dispenser with filter",
-                    "Full-width temperature-controlled drawer",
-                    "LED lighting throughout",
-                    "ENERGY STAR certified"
+                    "Wire-free with 2-year battery life",
+                    "1080p HD video with infrared night vision",
+                    "Two-way audio",
+                    "Works with Alexa",
+                    "Weather resistant for outdoor use"
                 ],
                 "questionsAndAnswers": [
-                    { "question": "Does this require professional installation?", "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.", "askedBy": "NewHomeowner", "answeredBy": "ApplianceExpert", "helpfulVotes": 156 },
-                    { "question": "Is this ENERGY STAR certified?", "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.", "askedBy": "EcoConscious", "answeredBy": "ProductExpert", "helpfulVotes": 203 },
-                    { "question": "What are the dimensions? Will it fit in my space?", "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.", "askedBy": "KitchenReno", "answeredBy": "CustomerService", "helpfulVotes": 178 }
+                    { "question": "Is there a monthly fee?", "answer": "A Blink Subscription Plan is optional. Without it, you can still view live video and get motion alerts. The plan adds cloud storage for video clips.", "askedBy": "BudgetBuyer", "answeredBy": "BlinkSupport", "helpfulVotes": 567 },
+                    { "question": "How far does the motion detection work?", "answer": "Motion detection works up to 20 feet with adjustable sensitivity zones.", "askedBy": "SecurityPro", "answeredBy": "ProductExpert", "helpfulVotes": 234 }
                 ]
             },
             {
-                "productId": "316069988",
-                "brand": "Samsung",
-                "title": "Bespoke 30 cu. ft. 3-Door French Door Smart Refrigerator with Beverage Center in Stainless Steel",
-                "rating": { "average": 4.65, "count": 892 },
-                "price": { "current": 2799.00 },
+                "productId": "339421858",
+                "brand": "Lutron",
+                "title": "Caseta Smart Lighting Switch (2 Count) Starter Kit with Smart Bridge",
+                "rating": { "average": 4.5, "count": 356 },
+                "price": { "current": 119.95 },
                 "images": {
-                    "primary": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_1000.jpg",
+                    "primary": "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-64_1000.jpg",
                     "gallery": [
-                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_1000.jpg",
-                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-e1_1000.jpg",
-                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-40_1000.jpg",
-                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-a0_1000.jpg",
-                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-1d_1000.jpg",
-                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-66_1000.jpg"
+                        "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-64_1000.jpg",
+                        "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-1d_1000.jpg",
+                        "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-1f_1000.jpg",
+                        "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-4f_1000.jpg",
+                        "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-31_1000.jpg",
+                        "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-40_1000.jpg",
+                        "https://images.thdstatic.com/productImages/34b9335e-22fd-4c03-8e3b-218909cd91c1/svn/lutron-light-switches-caseta-2switch-44_1000.jpg"
                     ]
                 },
-                "description": "French door refrigerator with advanced cooling technology keeps food fresh longer. Fingerprint resistant finish reduces smudges and makes cleaning easy. Beverage Center provides quick access to drinks without opening the full door.",
+                "description": "Caseta by Lutron Smart Lighting Switch Starter Kit provides smart control of your lights from anywhere. Includes Smart Bridge hub, 2 smart switches, and wall plates. Works with Alexa, Google Assistant, and Apple HomeKit.",
                 "specifications": {
-                    "Total Capacity": "30.0 cu. ft.",
-                    "Refrigerator Capacity": "21.2 cu. ft.",
-                    "Freezer Capacity": "8.8 cu. ft.",
-                    "Width": "35-3/4 in.",
-                    "Height": "70 in.",
-                    "Depth": "36-1/2 in.",
-                    "Ice Maker": "Dual Ice Maker",
-                    "Water Dispenser": "External",
-                    "Energy Star": "Yes",
-                    "Annual Energy Cost": "$74"
+                    "Voltage": "120V",
+                    "Max Load": "600W incandescent, 150W LED",
+                    "Neutral Wire": "Required",
+                    "Connectivity": "Clear Connect RF",
+                    "Voice Control": "Alexa, Google, Siri",
+                    "App Control": "Lutron App (iOS/Android)",
+                    "Color": "White",
+                    "Warranty": "5 Years"
                 },
                 "highlights": [
-                    "Beverage Center with water dispenser",
-                    "Dual Ice Maker with cubed and Ice Bites",
-                    "SmartThings WiFi enabled",
-                    "Fingerprint resistant finish",
-                    "ENERGY STAR certified"
+                    "Control lights from anywhere via app",
+                    "Works with Alexa, Google Assistant, Apple HomeKit",
+                    "Set schedules and scenes",
+                    "Reliable Clear Connect RF technology",
+                    "5-year warranty"
                 ],
                 "questionsAndAnswers": [
-                    { "question": "Can I control this from my phone?", "answer": "Yes! This refrigerator connects to the SmartThings app, allowing you to monitor temperature, receive alerts, and control settings from your smartphone.", "askedBy": "TechSavvy", "answeredBy": "SamsungRep", "helpfulVotes": 234 },
-                    { "question": "What is the Beverage Center?", "answer": "The Beverage Center is a dedicated section in the door that provides quick access to drinks, a water dispenser, and pitcher storage without opening the main refrigerator door.", "askedBy": "CuriousBuyer", "answeredBy": "ApplianceExpert", "helpfulVotes": 189 }
+                    { "question": "Do I need a neutral wire?", "answer": "Yes, Caseta switches require a neutral wire. Most homes built after 1985 have neutral wires in switch boxes.", "askedBy": "SmartHomeNewbie", "answeredBy": "LutronSupport", "helpfulVotes": 445 },
+                    { "question": "Can I add more switches later?", "answer": "Yes! The Smart Bridge supports up to 75 devices. You can add individual switches, dimmers, and remotes anytime.", "askedBy": "ExpandingSetup", "answeredBy": "ProductExpert", "helpfulVotes": 289 }
                 ]
             }
         ];
@@ -303,12 +293,25 @@
                 `<img src="${url}" class="thumb ${i === 0 ? 'active' : ''}" onclick="setMainImage('${url}', this)">`
             ).join('');
 
-            // Image URLs
+            // Image URLs - highlight unique UUIDs
             document.getElementById('primaryUrl').innerHTML = `<a href="${product.images.primary}" target="_blank">${product.images.primary}</a>`;
             document.getElementById('galleryCount').textContent = product.images.gallery.length;
-            document.getElementById('galleryUrls').innerHTML = product.images.gallery.map(url =>
-                `<div class="image-url"><a href="${url}" target="_blank">${url}</a></div>`
-            ).join('');
+
+            // Count unique UUIDs
+            const uuids = new Set();
+            product.images.gallery.forEach(url => {
+                const match = url.match(/productImages\/([a-f0-9-]+)\//);
+                if (match) uuids.add(match[1]);
+            });
+            document.getElementById('uuidCount').textContent = uuids.size;
+
+            // Show URLs with UUID highlighted
+            document.getElementById('galleryUrls').innerHTML = product.images.gallery.map(url => {
+                const match = url.match(/productImages\/([a-f0-9-]+)\//);
+                const uuid = match ? match[1] : '';
+                const highlighted = url.replace(uuid, `<strong style="color: #f96302;">${uuid}</strong>`);
+                return `<div class="image-url"><a href="${url}" target="_blank">${highlighted}</a></div>`;
+            }).join('');
         }
 
         function setMainImage(url, thumb) {
