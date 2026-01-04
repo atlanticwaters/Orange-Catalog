@@ -21,7 +21,90 @@
       "url": "https://www.homedepot.com/b/Tools-Power-Tools-Saws-Jigsaws/N-5yc1vZc292"
     }
   ],
-  "filters": [],
+  "filters": [
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded",
+        "Pneumatic"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX",
+        "40V",
+        "60V"
+      ]
+    },
+    {
+      "id": "batteryIncluded",
+      "name": "Battery Included",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No (Tool Only)"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "DEWALT"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
+      ]
+    }
+  ],
   "quickFilters": [],
   "featuredBrands": [],
   "heroImage": "../images/heroes/12.avif",
@@ -437,7 +520,7 @@
     "categoryFolder": "Jigsaws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.415334",
+  "lastUpdated": "2026-01-03T19:45:11.242932",
   "products": [
     {
       "productId": "337440480",
@@ -519,7 +602,19 @@
           "answerDate": "2025-06-24",
           "helpfulVotes": 129
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314266694",
@@ -611,7 +706,19 @@
           "answerDate": "2025-07-07",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337440454",
@@ -683,7 +790,19 @@
           "answerDate": "2025-07-21",
           "helpfulVotes": 46
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     }
   ]
 }

@@ -4,7 +4,7 @@
   "slug": "storage",
   "path": "/categories/storage",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.400490",
+  "lastUpdated": "2026-01-03T19:45:11.211976",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -168,7 +168,14 @@
           "answerDate": "2025-07-29",
           "helpfulVotes": 95
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327528714",
@@ -257,7 +264,14 @@
           "answerDate": "2025-02-02",
           "helpfulVotes": 120
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333939815",
@@ -346,7 +360,17 @@
           "answerDate": "2025-03-22",
           "helpfulVotes": 84
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333239702",
@@ -435,7 +459,14 @@
           "answerDate": "2025-11-03",
           "helpfulVotes": 77
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "Husky",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338529537",
@@ -514,7 +545,17 @@
           "answerDate": "2025-06-16",
           "helpfulVotes": 108
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Unknown",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338529532",
@@ -603,7 +644,20 @@
           "answerDate": "2025-05-26",
           "helpfulVotes": 142
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Storage Bin",
+        "material": [
+          "Metal"
+        ],
+        "features": [
+          "Stackable"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338529515",
@@ -682,7 +736,17 @@
           "answerDate": "2025-04-01",
           "helpfulVotes": 150
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Unknown",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338529508",
@@ -771,7 +835,17 @@
           "answerDate": "2025-10-21",
           "helpfulVotes": 12
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "material": [
+          "Plastic"
+        ],
+        "brand": "HDX",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338529492",
@@ -850,7 +924,17 @@
           "answerDate": "2025-09-28",
           "helpfulVotes": 24
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Unknown",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325276855",
@@ -929,7 +1013,14 @@
           "answerDate": "2025-03-26",
           "helpfulVotes": 138
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "DURASACK",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "300170479",
@@ -1018,7 +1109,17 @@
           "answerDate": "2025-03-15",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Storage Bin",
+        "features": [
+          "Stackable"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328026905",
@@ -1107,7 +1208,14 @@
           "answerDate": "2025-03-25",
           "helpfulVotes": 23
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329481900",
@@ -1186,7 +1294,14 @@
           "answerDate": "2025-11-16",
           "helpfulVotes": 13
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328026917",
@@ -1275,7 +1390,14 @@
           "answerDate": "2025-02-09",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336054915",
@@ -1364,7 +1486,14 @@
           "answerDate": "2025-07-24",
           "helpfulVotes": 12
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337213033",
@@ -1443,7 +1572,14 @@
           "answerDate": "2025-10-30",
           "helpfulVotes": 146
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328027059",
@@ -1522,7 +1658,14 @@
           "answerDate": "2025-10-07",
           "helpfulVotes": 19
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "HDX",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311485319",
@@ -1611,7 +1754,19 @@
           "answerDate": "2025-07-09",
           "helpfulVotes": 93
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Plastic"
+        ],
+        "features": [
+          "Stackable"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328026911",
@@ -1700,7 +1855,14 @@
           "answerDate": "2025-12-21",
           "helpfulVotes": 133
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Tote",
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336819078",
@@ -1779,7 +1941,13 @@
           "answerDate": "2025-09-27",
           "helpfulVotes": 132
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "HDX",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330608174",
@@ -1858,7 +2026,13 @@
           "answerDate": "2025-11-16",
           "helpfulVotes": 110
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "HDX",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203055485",
@@ -1937,7 +2111,16 @@
           "answerDate": "2025-05-28",
           "helpfulVotes": 81
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Prepac",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331693883",
@@ -2026,7 +2209,13 @@
           "answerDate": "2025-07-31",
           "helpfulVotes": 34
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Keter",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330446071",
@@ -2115,7 +2304,14 @@
           "answerDate": "2025-12-16",
           "helpfulVotes": 114
         }
-      ]
+      ],
+      "filterAttributes": {
+        "containerType": "Drawer",
+        "brand": "Harper & Bright Designs",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318430289",
@@ -2204,6 +2400,106 @@
           "answerDate": "2025-02-20",
           "helpfulVotes": 55
         }
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "containerType",
+      "name": "Container Type",
+      "type": "single",
+      "values": [
+        "Storage Bin",
+        "Tote",
+        "Drawer",
+        "Basket",
+        "Cube"
+      ]
+    },
+    {
+      "id": "size",
+      "name": "Size",
+      "type": "range",
+      "values": [
+        "Small (Under 20 qt)",
+        "Medium (20-50 qt)",
+        "Large (50-100 qt)",
+        "Extra Large (Over 100 qt)"
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "type": "single",
+      "values": [
+        "Plastic",
+        "Fabric",
+        "Metal",
+        "Wicker"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Stackable",
+        "Wheels",
+        "Lid Included",
+        "Clear/See-Through"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "DURASACK",
+        "HDX",
+        "Harper & Bright Designs",
+        "Husky",
+        "Keter",
+        "Prepac",
+        "RYOBI",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

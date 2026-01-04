@@ -4,7 +4,7 @@
   "slug": "curtains",
   "path": "/categories/home-decor/curtains",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.476549",
+  "lastUpdated": "2026-01-03T19:45:11.155480",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -174,7 +174,16 @@
           "answerDate": "2025-10-21",
           "helpfulVotes": 81
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Leather"
+        ],
+        "brand": "Homepop",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305563378",
@@ -250,6 +259,108 @@
           "answerDate": "2025-02-07",
           "helpfulVotes": 84
         }
+      ],
+      "filterAttributes": {
+        "decorType": "Curtain",
+        "colorFamily": [
+          "Blue"
+        ],
+        "brand": "Ellis Curtain",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "decorType",
+      "name": "Decor Type",
+      "type": "single",
+      "values": [
+        "Wall Art",
+        "Mirror",
+        "Rug",
+        "Artificial Plant",
+        "Throw Pillow",
+        "Curtain"
+      ]
+    },
+    {
+      "id": "style",
+      "name": "Style",
+      "type": "multi",
+      "values": [
+        "Modern",
+        "Traditional",
+        "Bohemian",
+        "Coastal",
+        "Farmhouse"
+      ]
+    },
+    {
+      "id": "colorFamily",
+      "name": "Color Family",
+      "type": "multi",
+      "values": [
+        "Neutral",
+        "Blue",
+        "Green",
+        "Red",
+        "Gray",
+        "Multicolor"
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "type": "multi",
+      "values": [
+        "Wood",
+        "Metal",
+        "Glass",
+        "Fabric",
+        "Ceramic"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Ellis Curtain",
+        "Homepop"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

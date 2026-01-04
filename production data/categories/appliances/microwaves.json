@@ -4,7 +4,7 @@
   "slug": "microwaves",
   "path": "/categories/appliances/microwaves",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.428092",
+  "lastUpdated": "2026-01-03T19:45:10.969139",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -188,7 +188,13 @@
           "answerDate": "2025-08-31",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Frigidaire",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205591630",
@@ -307,7 +313,13 @@
           "answerDate": "2025-06-10",
           "helpfulVotes": 38
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Sharp",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331519433",
@@ -416,7 +428,13 @@
           "answerDate": "2025-03-11",
           "helpfulVotes": 120
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330799262",
@@ -535,7 +553,13 @@
           "answerDate": "2025-06-25",
           "helpfulVotes": 141
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Frigidaire",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304770655",
@@ -644,7 +668,13 @@
           "answerDate": "2025-12-10",
           "helpfulVotes": 24
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Whirlpool",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331519406",
@@ -773,7 +803,13 @@
           "answerDate": "2025-05-23",
           "helpfulVotes": 88
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336136522",
@@ -882,7 +918,12 @@
           "answerDate": "2025-12-08",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Vissani",
+        "priceRange": "$50-$100",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205373458",
@@ -949,7 +990,13 @@
           "answerDate": "2025-10-27",
           "helpfulVotes": 6
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338472247",
@@ -1036,6 +1083,59 @@
           "answerDate": "2025-01-07",
           "helpfulVotes": 77
         }
+      ],
+      "filterAttributes": {
+        "brand": "KitchenAid",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Frigidaire",
+        "GE",
+        "KitchenAid",
+        "Sharp",
+        "Vissani",
+        "Whirlpool"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

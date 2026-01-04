@@ -4,7 +4,7 @@
   "slug": "saws",
   "path": "/categories/tools/saws",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.422264",
+  "lastUpdated": "2026-01-03T19:45:11.270048",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -200,7 +200,13 @@
           "answerDate": "2025-03-29",
           "helpfulVotes": 144
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324811431",
@@ -290,6 +296,98 @@
           "answerDate": "2025-11-04",
           "helpfulVotes": 15
         }
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "sawType",
+      "name": "Saw Type",
+      "type": "single",
+      "values": [
+        "Circular Saw",
+        "Miter Saw",
+        "Table Saw",
+        "Reciprocating Saw",
+        "Jigsaw",
+        "Band Saw"
+      ]
+    },
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded"
+      ]
+    },
+    {
+      "id": "bladeSize",
+      "name": "Blade Size",
+      "type": "single",
+      "values": [
+        "6-1/2 in.",
+        "7-1/4 in.",
+        "10 in.",
+        "12 in."
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Dust Collection",
+        "Laser Guide"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "DEWALT"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

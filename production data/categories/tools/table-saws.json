@@ -21,7 +21,90 @@
       "url": "https://www.homedepot.com/b/Tools-Power-Tools-Saws-Table-Saws/N-5yc1vZ2fkokih"
     }
   ],
-  "filters": [],
+  "filters": [
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded",
+        "Pneumatic"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX",
+        "40V",
+        "60V"
+      ]
+    },
+    {
+      "id": "batteryIncluded",
+      "name": "Battery Included",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No (Tool Only)"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "GE"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
+      ]
+    }
+  ],
   "quickFilters": [],
   "featuredBrands": [],
   "heroImage": "../images/heroes/12.avif",
@@ -409,71 +492,8 @@
     "categoryFolder": "Table Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.415596",
+  "lastUpdated": "2026-01-03T19:45:11.270414",
   "products": [
-    {
-      "productId": "339732619",
-      "modelNumber": "DJYC-W465P200266",
-      "brand": "GE",
-      "title": "8. 5A Corded 11.5 in. Mini Table Saw, Belt Sander, 4pcs Blades, 10pcs Sanding Blet, 7 Gear Adjustable 0-90\u00b0 Angle,Black DJYC-W465P200266",
-      "rating": {
-        "average": 0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_1000.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/afaf70d1-f8f4-4bb2-8854-08413f2f0a49/svn/belt-sanders-djyc-w465p200266-c3_1000.jpg",
-          "https://images.thdstatic.com/productImages/f92394e7-a828-481f-869c-a1a44a26c1bc/svn/belt-sanders-djyc-w465p200266-4f_1000.jpg",
-          "https://images.thdstatic.com/productImages/2184c570-c19e-4396-92cf-40bd63f48261/svn/belt-sanders-djyc-w465p200266-1f_1000.jpg",
-          "https://images.thdstatic.com/productImages/a10fc96e-0129-482f-9329-94fd9828e578/svn/belt-sanders-djyc-w465p200266-fa_1000.jpg",
-          "https://images.thdstatic.com/productImages/9c3f9497-75ac-4411-ba53-e643dc1918e7/svn/belt-sanders-djyc-w465p200266-76_1000.jpg"
-        ]
-      },
-      "subcategory": "table-saws",
-      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
-      "specifications": {
-        "Power Source": "Cordless",
-        "Voltage": "20V MAX",
-        "Battery Included": "Yes",
-        "Charger Included": "Yes",
-        "Weight": "4.0 lbs"
-      },
-      "highlights": [
-        "Professional-grade performance",
-        "Durable construction for jobsite use",
-        "Ergonomic design reduces fatigue",
-        "LED work light for visibility"
-      ],
-      "warranty": "3-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Does this come with a battery and charger?",
-          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
-          "askedBy": "DIYDan",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-09-22",
-          "answerDate": "2025-09-29",
-          "helpfulVotes": 74
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this compatible with my existing batteries?",
-          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
-          "askedBy": "HomeOwner123",
-          "answeredBy": "ToolPro",
-          "questionDate": "2025-07-21",
-          "answerDate": "2025-07-22",
-          "helpfulVotes": 54
-        }
-      ]
-    },
     {
       "productId": "339731858",
       "modelNumber": "DJYC-W465P200270",
@@ -546,7 +566,88 @@
           "answerDate": "2025-08-21",
           "helpfulVotes": 73
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    },
+    {
+      "productId": "339732619",
+      "modelNumber": "DJYC-W465P200266",
+      "brand": "GE",
+      "title": "8. 5A Corded 11.5 in. Mini Table Saw, Belt Sander, 4pcs Blades, 10pcs Sanding Blet, 7 Gear Adjustable 0-90\u00b0 Angle,Black DJYC-W465P200266",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/76fc08d7-affd-4fa4-b8ad-bb31f51abc6d/svn/belt-sanders-djyc-w465p200266-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/afaf70d1-f8f4-4bb2-8854-08413f2f0a49/svn/belt-sanders-djyc-w465p200266-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/f92394e7-a828-481f-869c-a1a44a26c1bc/svn/belt-sanders-djyc-w465p200266-4f_1000.jpg",
+          "https://images.thdstatic.com/productImages/2184c570-c19e-4396-92cf-40bd63f48261/svn/belt-sanders-djyc-w465p200266-1f_1000.jpg",
+          "https://images.thdstatic.com/productImages/a10fc96e-0129-482f-9329-94fd9828e578/svn/belt-sanders-djyc-w465p200266-fa_1000.jpg",
+          "https://images.thdstatic.com/productImages/9c3f9497-75ac-4411-ba53-e643dc1918e7/svn/belt-sanders-djyc-w465p200266-76_1000.jpg"
+        ]
+      },
+      "subcategory": "table-saws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-22",
+          "answerDate": "2025-09-29",
+          "helpfulVotes": 74
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-07-21",
+          "answerDate": "2025-07-22",
+          "helpfulVotes": 54
+        }
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     }
   ]
 }

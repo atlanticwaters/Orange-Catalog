@@ -4,7 +4,7 @@
   "slug": "rugs",
   "path": "/categories/home-decor/rugs",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.474189",
+  "lastUpdated": "2026-01-03T19:45:11.158276",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -204,7 +204,17 @@
           "answerDate": "2025-12-10",
           "helpfulVotes": 112
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Red"
+        ],
+        "brand": "SAFAVIEH",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330202502",
@@ -343,7 +353,13 @@
           "answerDate": "2025-08-28",
           "helpfulVotes": 60
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "brand": "SAFAVIEH",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329757665",
@@ -502,7 +518,16 @@
           "answerDate": "2025-02-09",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "style": [
+          "Traditional"
+        ],
+        "brand": "Loloi",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327934744",
@@ -641,7 +666,16 @@
           "answerDate": "2025-05-13",
           "helpfulVotes": 27
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Blue"
+        ],
+        "brand": "Addison Rugs",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "310202058",
@@ -800,7 +834,14 @@
           "answerDate": "2025-07-13",
           "helpfulVotes": 127
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "brand": "SAFAVIEH",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322721465",
@@ -939,7 +980,14 @@
           "answerDate": "2025-05-26",
           "helpfulVotes": 25
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "brand": "LOOMAKNOTI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322724800",
@@ -1078,7 +1126,17 @@
           "answerDate": "2025-10-15",
           "helpfulVotes": 76
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Gray"
+        ],
+        "brand": "LOOMAKNOTI",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324546530",
@@ -1217,7 +1275,17 @@
           "answerDate": "2025-03-11",
           "helpfulVotes": 112
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Blue"
+        ],
+        "brand": "LOOMAKNOTI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332324713",
@@ -1376,7 +1444,17 @@
           "answerDate": "2025-07-24",
           "helpfulVotes": 145
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Green"
+        ],
+        "brand": "nuLOOM",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322724978",
@@ -1525,7 +1603,17 @@
           "answerDate": "2025-03-20",
           "helpfulVotes": 50
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Gray"
+        ],
+        "brand": "LOOMAKNOTI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322051494",
@@ -1664,7 +1752,17 @@
           "answerDate": "2025-10-13",
           "helpfulVotes": 119
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Gray"
+        ],
+        "brand": "LOOMAKNOTI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335869573",
@@ -1813,7 +1911,14 @@
           "answerDate": "2025-05-07",
           "helpfulVotes": 116
         }
-      ]
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "brand": "DASH & ALBERT",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332036754",
@@ -1944,6 +2049,113 @@
           "answerDate": "2025-05-01",
           "helpfulVotes": 26
         }
+      ],
+      "filterAttributes": {
+        "decorType": "Rug",
+        "colorFamily": [
+          "Green"
+        ],
+        "brand": "Unknown",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "decorType",
+      "name": "Decor Type",
+      "type": "single",
+      "values": [
+        "Wall Art",
+        "Mirror",
+        "Rug",
+        "Artificial Plant",
+        "Throw Pillow",
+        "Curtain"
+      ]
+    },
+    {
+      "id": "style",
+      "name": "Style",
+      "type": "multi",
+      "values": [
+        "Modern",
+        "Traditional",
+        "Bohemian",
+        "Coastal",
+        "Farmhouse"
+      ]
+    },
+    {
+      "id": "colorFamily",
+      "name": "Color Family",
+      "type": "multi",
+      "values": [
+        "Neutral",
+        "Blue",
+        "Green",
+        "Red",
+        "Gray",
+        "Multicolor"
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "type": "multi",
+      "values": [
+        "Wood",
+        "Metal",
+        "Glass",
+        "Fabric",
+        "Ceramic"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Addison Rugs",
+        "DASH & ALBERT",
+        "LOOMAKNOTI",
+        "Loloi",
+        "SAFAVIEH",
+        "Unknown",
+        "nuLOOM"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

@@ -4,7 +4,7 @@
   "slug": "table-saws",
   "path": "/categories/tools/saws/table-saws",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.541332",
+  "lastUpdated": "2026-01-03T19:45:11.269099",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -197,7 +197,16 @@
           "answerDate": "2025-07-19",
           "helpfulVotes": 85
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "bladeSize": "10 in.",
+        "brand": "RIDGID",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305056992",
@@ -311,7 +320,18 @@
           "answerDate": "2025-02-22",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204512007",
@@ -425,7 +445,16 @@
           "answerDate": "2025-04-03",
           "helpfulVotes": 49
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "bladeSize": "10 in.",
+        "brand": "DEWALT",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312046353",
@@ -559,7 +588,18 @@
           "answerDate": "2025-05-07",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "310178475",
@@ -693,7 +733,14 @@
           "answerDate": "2025-12-07",
           "helpfulVotes": 122
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "brand": "DEWALT",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313820771",
@@ -827,7 +874,15 @@
           "answerDate": "2025-06-02",
           "helpfulVotes": 37
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "brand": "DEWALT",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "309412837",
@@ -961,7 +1016,15 @@
           "answerDate": "2025-11-11",
           "helpfulVotes": 56
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "309412842",
@@ -1095,7 +1158,16 @@
           "answerDate": "2025-09-02",
           "helpfulVotes": 106
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "bladeSize": "10 in.",
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "309412848",
@@ -1229,7 +1301,16 @@
           "answerDate": "2025-02-21",
           "helpfulVotes": 17
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "bladeSize": "10 in.",
+        "brand": "RYOBI",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "309413142",
@@ -1343,7 +1424,16 @@
           "answerDate": "2025-01-19",
           "helpfulVotes": 129
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "bladeSize": "10 in.",
+        "brand": "RIDGID",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "310438324",
@@ -1467,7 +1557,16 @@
           "answerDate": "2025-09-19",
           "helpfulVotes": 22
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "bladeSize": "10 in.",
+        "brand": "Grizzly Industrial",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313513771",
@@ -1581,7 +1680,15 @@
           "answerDate": "2025-02-06",
           "helpfulVotes": 56
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "brand": "DEWALT",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331596098",
@@ -1715,7 +1822,16 @@
           "answerDate": "2025-03-05",
           "helpfulVotes": 120
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "bladeSize": "10 in.",
+        "brand": "Grizzly Industrial",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307744663",
@@ -1839,7 +1955,18 @@
           "answerDate": "2025-03-28",
           "helpfulVotes": 43
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337133315",
@@ -1963,7 +2090,18 @@
           "answerDate": "2025-03-16",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205510781",
@@ -2096,7 +2234,15 @@
           "answerDate": "2025-07-12",
           "helpfulVotes": 49
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305057132",
@@ -2229,7 +2375,15 @@
           "answerDate": "2025-10-09",
           "helpfulVotes": 140
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "300226904",
@@ -2352,7 +2506,16 @@
           "answerDate": "2025-08-14",
           "helpfulVotes": 58
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "bladeSize": "10 in.",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203054768",
@@ -2465,7 +2628,15 @@
           "answerDate": "2025-12-20",
           "helpfulVotes": 106
         }
-      ]
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Corded",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206945727",
@@ -2578,6 +2749,105 @@
           "answerDate": "2025-07-30",
           "helpfulVotes": 113
         }
+      ],
+      "filterAttributes": {
+        "sawType": "Table Saw",
+        "powerType": "Cordless",
+        "brand": "Bosch",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "sawType",
+      "name": "Saw Type",
+      "type": "single",
+      "values": [
+        "Circular Saw",
+        "Miter Saw",
+        "Table Saw",
+        "Reciprocating Saw",
+        "Jigsaw",
+        "Band Saw"
+      ]
+    },
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded"
+      ]
+    },
+    {
+      "id": "bladeSize",
+      "name": "Blade Size",
+      "type": "single",
+      "values": [
+        "6-1/2 in.",
+        "7-1/4 in.",
+        "10 in.",
+        "12 in."
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Dust Collection",
+        "Laser Guide"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Bosch",
+        "DEWALT",
+        "Grizzly Industrial",
+        "Milwaukee",
+        "RIDGID",
+        "RYOBI"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

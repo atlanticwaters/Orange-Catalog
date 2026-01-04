@@ -4,7 +4,7 @@
   "slug": "angle-drills",
   "path": "/categories/tools/drills/angle-drills",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.546835",
+  "lastUpdated": "2026-01-03T19:45:11.228935",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -216,7 +216,18 @@
           "answerDate": "2025-09-29",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205091551",
@@ -294,7 +305,17 @@
           "answerDate": "2025-11-03",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "chuckSize": "3/8 in.",
+        "brand": "Florida Pneumatic",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312427932",
@@ -414,7 +435,22 @@
           "answerDate": "2025-12-09",
           "helpfulVotes": 65
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "chuckSize": "1/2 in.",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "309495657",
@@ -534,7 +570,22 @@
           "answerDate": "2025-04-16",
           "helpfulVotes": 24
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "chuckSize": "1/2 in.",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312430386",
@@ -674,7 +725,21 @@
           "answerDate": "2025-09-25",
           "helpfulVotes": 32
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202196520",
@@ -804,7 +869,19 @@
           "answerDate": "2025-01-31",
           "helpfulVotes": 54
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "chuckSize": "3/8 in.",
+        "brand": "Milwaukee",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "309824232",
@@ -944,7 +1021,21 @@
           "answerDate": "2025-05-07",
           "helpfulVotes": 79
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202901662",
@@ -1074,7 +1165,18 @@
           "answerDate": "2025-04-26",
           "helpfulVotes": 66
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "chuckSize": "3/8 in.",
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313438681",
@@ -1204,7 +1306,22 @@
           "answerDate": "2025-01-19",
           "helpfulVotes": 77
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "chuckSize": "3/8 in.",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203316372",
@@ -1344,7 +1461,19 @@
           "answerDate": "2025-01-25",
           "helpfulVotes": 33
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Drill/Driver",
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "chuckSize": "3/8 in.",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100342144",
@@ -1464,7 +1593,19 @@
           "answerDate": "2025-12-20",
           "helpfulVotes": 52
         }
-      ]
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "chuckSize": "3/8 in.",
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333683682",
@@ -1594,6 +1735,117 @@
           "answerDate": "2025-09-06",
           "helpfulVotes": 129
         }
+      ],
+      "filterAttributes": {
+        "drillType": "Right Angle",
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "chuckSize": "1/2 in.",
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "drillType",
+      "name": "Drill Type",
+      "type": "single",
+      "values": [
+        "Drill/Driver",
+        "Hammer Drill",
+        "Impact Driver",
+        "Right Angle"
+      ]
+    },
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX"
+      ]
+    },
+    {
+      "id": "chuckSize",
+      "name": "Chuck Size",
+      "type": "single",
+      "values": [
+        "1/4 in.",
+        "3/8 in.",
+        "1/2 in."
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Keyless Chuck"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "DEWALT",
+        "Florida Pneumatic",
+        "Milwaukee",
+        "RYOBI"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

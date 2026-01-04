@@ -4,7 +4,7 @@
   "slug": "battery-chargers",
   "path": "/categories/automotive/battery-chargers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.450516",
+  "lastUpdated": "2026-01-03T19:45:11.076084",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -165,7 +165,14 @@
           "answerDate": "2025-04-12",
           "helpfulVotes": 5
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "VECTOR",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321283942",
@@ -277,7 +284,14 @@
           "answerDate": "2025-04-18",
           "helpfulVotes": 41
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316426768",
@@ -389,7 +403,14 @@
           "answerDate": "2025-12-21",
           "helpfulVotes": 61
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331257401",
@@ -501,7 +522,14 @@
           "answerDate": "2025-09-13",
           "helpfulVotes": 9
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "VECTOR",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321283762",
@@ -613,7 +641,14 @@
           "answerDate": "2025-10-31",
           "helpfulVotes": 11
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "$50-$100",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324885942",
@@ -725,7 +760,14 @@
           "answerDate": "2025-02-09",
           "helpfulVotes": 16
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331253060",
@@ -837,7 +879,14 @@
           "answerDate": "2025-05-06",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "VECTOR",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312211515",
@@ -949,7 +998,17 @@
           "answerDate": "2025-08-31",
           "helpfulVotes": 29
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "Smart/WiFi Enabled"
+        ],
+        "brand": "NOCO GENIUS",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313594263",
@@ -1061,7 +1120,17 @@
           "answerDate": "2025-01-18",
           "helpfulVotes": 21
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321284005",
@@ -1173,7 +1242,14 @@
           "answerDate": "2025-06-18",
           "helpfulVotes": 21
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313594218",
@@ -1285,7 +1361,17 @@
           "answerDate": "2025-12-09",
           "helpfulVotes": 19
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307780400",
@@ -1397,7 +1483,17 @@
           "answerDate": "2025-02-19",
           "helpfulVotes": 52
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434893",
@@ -1509,7 +1605,14 @@
           "answerDate": "2025-02-07",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434889",
@@ -1621,7 +1724,17 @@
           "answerDate": "2025-10-03",
           "helpfulVotes": 148
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434886",
@@ -1733,7 +1846,17 @@
           "answerDate": "2025-03-21",
           "helpfulVotes": 15
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305960166",
@@ -1845,7 +1968,17 @@
           "answerDate": "2025-03-30",
           "helpfulVotes": 36
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338071787",
@@ -1957,7 +2090,17 @@
           "answerDate": "2025-10-23",
           "helpfulVotes": 7
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434894",
@@ -2069,6 +2212,97 @@
           "answerDate": "2025-04-20",
           "helpfulVotes": 44
         }
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "productType",
+      "name": "Product Type",
+      "type": "single",
+      "values": [
+        "Battery Charger",
+        "Jump Starter",
+        "Car Jack",
+        "Fluid",
+        "Cleaning Supply"
+      ]
+    },
+    {
+      "id": "vehicleType",
+      "name": "Vehicle Type",
+      "type": "multi",
+      "values": [
+        "Car",
+        "Truck",
+        "SUV",
+        "Motorcycle",
+        "RV"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Portable",
+        "Heavy Duty",
+        "Smart Charging",
+        "Multi-Use"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "DEWALT",
+        "NOCO GENIUS",
+        "RYOBI",
+        "Schumacher Electric",
+        "VECTOR"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

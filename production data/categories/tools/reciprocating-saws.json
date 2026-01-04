@@ -21,7 +21,90 @@
       "url": "https://www.homedepot.com/b/Tools-Power-Tools-Saws-Reciprocating-Saws/N-5yc1vZc2h7"
     }
   ],
-  "filters": [],
+  "filters": [
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded",
+        "Pneumatic"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX",
+        "40V",
+        "60V"
+      ]
+    },
+    {
+      "id": "batteryIncluded",
+      "name": "Battery Included",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No (Tool Only)"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "DEWALT"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
+      ]
+    }
+  ],
   "quickFilters": [],
   "featuredBrands": [],
   "heroImage": "../images/heroes/12.avif",
@@ -459,168 +542,8 @@
     "categoryFolder": "Reciprocating Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.427377",
+  "lastUpdated": "2026-01-03T19:45:11.256596",
   "products": [
-    {
-      "productId": "324811435",
-      "modelNumber": "DCK225D2WCS369B",
-      "brand": "DEWALT",
-      "title": "DEWALT ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) and Compact Recip Saw with (2) 2Ah Batteries, Charger and Bag DCK225D2WCS369B",
-      "rating": {
-        "average": 0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_1000.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/e005431d-35de-4702-90b2-57ebfb6d1b51/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-e1_1000.jpg",
-          "https://images.thdstatic.com/productImages/47a194e7-a0e8-4ada-a256-b0a801780fb8/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-40_1000.jpg",
-          "https://images.thdstatic.com/productImages/ee4d8b0f-390d-4166-b46d-8b424ea35f24/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-a0_1000.jpg",
-          "https://images.thdstatic.com/productImages/8c5612f1-020b-43ba-a081-4683b9f1b650/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-66_1000.jpg",
-          "https://images.thdstatic.com/productImages/d44487d2-0a84-4896-8b60-948fb6fdac01/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-77_1000.jpg",
-          "https://images.thdstatic.com/productImages/450d0aeb-9605-46c7-9a23-30661a28df51/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-c3_1000.jpg",
-          "https://images.thdstatic.com/productImages/3ca9135b-6950-4d09-8c3e-81a83e2de674/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-4f_1000.jpg",
-          "https://images.thdstatic.com/productImages/98a10127-27dc-4943-bc6f-5c6faecfb79d/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-1f_1000.jpg",
-          "https://images.thdstatic.com/productImages/6299ae9f-d97d-413a-b724-d3b678435fff/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-44_1000.jpg",
-          "https://images.thdstatic.com/productImages/28f4887f-3b70-4bc6-9bfe-9c209e0f49f3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-fa_1000.jpg",
-          "https://images.thdstatic.com/productImages/966bd6c9-09ea-4ba8-965a-2a17ecb7b9c9/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-76_1000.jpg"
-        ]
-      },
-      "subcategory": "reciprocating-saws",
-      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
-      "specifications": {
-        "Power Source": "Cordless",
-        "Voltage": "20V MAX",
-        "Battery Included": "Yes",
-        "Charger Included": "Yes",
-        "Weight": "4.0 lbs"
-      },
-      "highlights": [
-        "Professional-grade performance",
-        "Durable construction for jobsite use",
-        "Ergonomic design reduces fatigue",
-        "LED work light for visibility"
-      ],
-      "warranty": "3-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Does this come with a battery and charger?",
-          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
-          "askedBy": "DIYDan",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-12-12",
-          "answerDate": "2025-12-13",
-          "helpfulVotes": 55
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this compatible with my existing batteries?",
-          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
-          "askedBy": "HomeOwner123",
-          "answeredBy": "ToolPro",
-          "questionDate": "2025-11-28",
-          "answerDate": "2025-11-29",
-          "helpfulVotes": 23
-        },
-        {
-          "id": "qa_3",
-          "question": "What is the warranty on this product?",
-          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
-          "askedBy": "ContractorMike",
-          "answeredBy": "CustomerService",
-          "questionDate": "2025-10-09",
-          "answerDate": "2025-10-14",
-          "helpfulVotes": 99
-        }
-      ]
-    },
-    {
-      "productId": "324811429",
-      "modelNumber": "DCK225D2WCS380B",
-      "brand": "DEWALT",
-      "title": "DEWALT ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) and Reciprocating Saw with (2) 2Ah Batteries, Charger and Bag DCK225D2WCS380B",
-      "rating": {
-        "average": 0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_1000.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/47a194e7-a0e8-4ada-a256-b0a801780fb8/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-e1_1000.jpg",
-          "https://images.thdstatic.com/productImages/e005431d-35de-4702-90b2-57ebfb6d1b51/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-40_1000.jpg",
-          "https://images.thdstatic.com/productImages/4a34ac95-1762-44e5-a649-d1fe88cc4ad6/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-a0_1000.jpg",
-          "https://images.thdstatic.com/productImages/39c41e87-bd9c-4d96-8832-d07d6480f658/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-1d_1000.jpg",
-          "https://images.thdstatic.com/productImages/422699e2-6683-4a06-b710-663cfb35c056/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-66_1000.jpg",
-          "https://images.thdstatic.com/productImages/2ff76606-f319-4601-8074-d595ca6594fa/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-77_1000.jpg",
-          "https://images.thdstatic.com/productImages/07a380cf-ec43-4672-b37f-cea16f2cd4a1/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-c3_1000.jpg",
-          "https://images.thdstatic.com/productImages/f41fa5ae-9621-434e-868c-c9bbbd6e465a/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-4f_1000.jpg",
-          "https://images.thdstatic.com/productImages/346d1e5b-5576-41d5-bb6a-020769df2dd8/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-1f_1000.jpg",
-          "https://images.thdstatic.com/productImages/05c352b0-ee8c-4835-82b0-492015061005/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-44_1000.jpg",
-          "https://images.thdstatic.com/productImages/56a35d1c-b6ef-4231-869b-5a24df325f6e/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-fa_1000.jpg",
-          "https://images.thdstatic.com/productImages/cbda9161-ccca-4ca9-97a9-0eb7f9fffc06/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-76_1000.jpg",
-          "https://images.thdstatic.com/productImages/36e99701-c076-440b-8a4e-ee4586ca99e9/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-31_1000.jpg"
-        ]
-      },
-      "subcategory": "reciprocating-saws",
-      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
-      "specifications": {
-        "Power Source": "Cordless",
-        "Voltage": "20V MAX",
-        "Battery Included": "Yes",
-        "Charger Included": "Yes",
-        "Weight": "4.0 lbs"
-      },
-      "highlights": [
-        "Professional-grade performance",
-        "Durable construction for jobsite use",
-        "Ergonomic design reduces fatigue",
-        "LED work light for visibility"
-      ],
-      "warranty": "3-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Does this come with a battery and charger?",
-          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
-          "askedBy": "DIYDan",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-01-06",
-          "answerDate": "2025-01-11",
-          "helpfulVotes": 6
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this compatible with my existing batteries?",
-          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
-          "askedBy": "HomeOwner123",
-          "answeredBy": "ToolPro",
-          "questionDate": "2025-11-22",
-          "answerDate": "2025-11-24",
-          "helpfulVotes": 54
-        },
-        {
-          "id": "qa_3",
-          "question": "What is the warranty on this product?",
-          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
-          "askedBy": "ContractorMike",
-          "answeredBy": "CustomerService",
-          "questionDate": "2025-01-13",
-          "answerDate": "2025-01-20",
-          "helpfulVotes": 127
-        }
-      ]
-    },
     {
       "productId": "337440452",
       "modelNumber": "DCK200D1P1W382B",
@@ -701,7 +624,197 @@
           "answerDate": "2025-05-24",
           "helpfulVotes": 131
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    },
+    {
+      "productId": "324811435",
+      "modelNumber": "DCK225D2WCS369B",
+      "brand": "DEWALT",
+      "title": "DEWALT ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) and Compact Recip Saw with (2) 2Ah Batteries, Charger and Bag DCK225D2WCS369B",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/4d66a9aa-60f6-4391-aa8e-10a29d1b9fa3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/e005431d-35de-4702-90b2-57ebfb6d1b51/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-e1_1000.jpg",
+          "https://images.thdstatic.com/productImages/47a194e7-a0e8-4ada-a256-b0a801780fb8/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-40_1000.jpg",
+          "https://images.thdstatic.com/productImages/ee4d8b0f-390d-4166-b46d-8b424ea35f24/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-a0_1000.jpg",
+          "https://images.thdstatic.com/productImages/8c5612f1-020b-43ba-a081-4683b9f1b650/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-66_1000.jpg",
+          "https://images.thdstatic.com/productImages/d44487d2-0a84-4896-8b60-948fb6fdac01/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-77_1000.jpg",
+          "https://images.thdstatic.com/productImages/450d0aeb-9605-46c7-9a23-30661a28df51/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/3ca9135b-6950-4d09-8c3e-81a83e2de674/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-4f_1000.jpg",
+          "https://images.thdstatic.com/productImages/98a10127-27dc-4943-bc6f-5c6faecfb79d/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-1f_1000.jpg",
+          "https://images.thdstatic.com/productImages/6299ae9f-d97d-413a-b724-d3b678435fff/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-44_1000.jpg",
+          "https://images.thdstatic.com/productImages/28f4887f-3b70-4bc6-9bfe-9c209e0f49f3/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-fa_1000.jpg",
+          "https://images.thdstatic.com/productImages/966bd6c9-09ea-4ba8-965a-2a17ecb7b9c9/svn/dewalt-power-tool-combo-kits-dck225d2wcs369b-76_1000.jpg"
+        ]
+      },
+      "subcategory": "reciprocating-saws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-12-12",
+          "answerDate": "2025-12-13",
+          "helpfulVotes": 55
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-11-28",
+          "answerDate": "2025-11-29",
+          "helpfulVotes": 23
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-09",
+          "answerDate": "2025-10-14",
+          "helpfulVotes": 99
+        }
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    },
+    {
+      "productId": "324811429",
+      "modelNumber": "DCK225D2WCS380B",
+      "brand": "DEWALT",
+      "title": "DEWALT ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) and Reciprocating Saw with (2) 2Ah Batteries, Charger and Bag DCK225D2WCS380B",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/7440ce61-c34e-40bd-b4b5-69dfd894340f/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/47a194e7-a0e8-4ada-a256-b0a801780fb8/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-e1_1000.jpg",
+          "https://images.thdstatic.com/productImages/e005431d-35de-4702-90b2-57ebfb6d1b51/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-40_1000.jpg",
+          "https://images.thdstatic.com/productImages/4a34ac95-1762-44e5-a649-d1fe88cc4ad6/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-a0_1000.jpg",
+          "https://images.thdstatic.com/productImages/39c41e87-bd9c-4d96-8832-d07d6480f658/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-1d_1000.jpg",
+          "https://images.thdstatic.com/productImages/422699e2-6683-4a06-b710-663cfb35c056/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-66_1000.jpg",
+          "https://images.thdstatic.com/productImages/2ff76606-f319-4601-8074-d595ca6594fa/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-77_1000.jpg",
+          "https://images.thdstatic.com/productImages/07a380cf-ec43-4672-b37f-cea16f2cd4a1/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/f41fa5ae-9621-434e-868c-c9bbbd6e465a/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-4f_1000.jpg",
+          "https://images.thdstatic.com/productImages/346d1e5b-5576-41d5-bb6a-020769df2dd8/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-1f_1000.jpg",
+          "https://images.thdstatic.com/productImages/05c352b0-ee8c-4835-82b0-492015061005/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-44_1000.jpg",
+          "https://images.thdstatic.com/productImages/56a35d1c-b6ef-4231-869b-5a24df325f6e/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-fa_1000.jpg",
+          "https://images.thdstatic.com/productImages/cbda9161-ccca-4ca9-97a9-0eb7f9fffc06/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-76_1000.jpg",
+          "https://images.thdstatic.com/productImages/36e99701-c076-440b-8a4e-ee4586ca99e9/svn/dewalt-power-tool-combo-kits-dck225d2wcs380b-31_1000.jpg"
+        ]
+      },
+      "subcategory": "reciprocating-saws",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-01-06",
+          "answerDate": "2025-01-11",
+          "helpfulVotes": 6
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-11-22",
+          "answerDate": "2025-11-24",
+          "helpfulVotes": 54
+        },
+        {
+          "id": "qa_3",
+          "question": "What is the warranty on this product?",
+          "answer": "This product comes with a 3-year limited warranty covering defects in materials and workmanship. Register your product online within 30 days for full coverage.",
+          "askedBy": "ContractorMike",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-01-13",
+          "answerDate": "2025-01-20",
+          "helpfulVotes": 127
+        }
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324811435",
@@ -790,7 +903,16 @@
           "answerDate": "2025-07-18",
           "helpfulVotes": 57
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     }
   ]
 }

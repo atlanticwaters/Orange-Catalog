@@ -99,138 +99,47 @@
   ],
   "filters": [
     {
-      "filterGroupId": "brand",
-      "filterGroupName": "Brand",
-      "filterType": "checkbox",
-      "options": [
-        {
-          "optionId": "ryobi",
-          "label": "Ryobi",
-          "value": "ryobi",
-          "count": 78,
-          "filterUrl": "/b/Lawn-Mowers/Ryobi/N-5yc1vZc5hnZ5r7"
-        },
-        {
-          "optionId": "toro",
-          "label": "Toro",
-          "value": "toro",
-          "count": 89,
-          "filterUrl": "/b/Lawn-Mowers/Toro/N-5yc1vZc5hnZto"
-        },
-        {
-          "optionId": "honda",
-          "label": "Honda",
-          "value": "honda",
-          "count": 45,
-          "filterUrl": "/b/Lawn-Mowers/Honda/N-5yc1vZc5hnZhn"
-        },
-        {
-          "optionId": "ego",
-          "label": "EGO",
-          "value": "ego",
-          "count": 34,
-          "filterUrl": "/b/Lawn-Mowers/EGO/N-5yc1vZc5hnZeg"
-        },
-        {
-          "optionId": "greenworks",
-          "label": "Greenworks",
-          "value": "greenworks",
-          "count": 56,
-          "filterUrl": "/b/Lawn-Mowers/Greenworks/N-5yc1vZc5hnZgw"
-        }
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "EGO",
+        "Greenworks",
+        "Honda",
+        "Ryobi",
+        "Toro"
       ]
     },
     {
-      "filterGroupId": "powerType",
-      "filterGroupName": "Power Type",
-      "filterType": "checkbox",
-      "options": [
-        {
-          "optionId": "gas",
-          "label": "Gas",
-          "value": "gas",
-          "count": 234
-        },
-        {
-          "optionId": "battery",
-          "label": "Battery",
-          "value": "battery",
-          "count": 189
-        },
-        {
-          "optionId": "corded",
-          "label": "Corded Electric",
-          "value": "corded",
-          "count": 45
-        },
-        {
-          "optionId": "manual",
-          "label": "Manual/Reel",
-          "value": "manual",
-          "count": 23
-        }
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
       ]
     },
     {
-      "filterGroupId": "deckWidth",
-      "filterGroupName": "Cutting Width",
-      "filterType": "checkbox",
-      "options": [
-        {
-          "optionId": "16-18",
-          "label": "16-18 in.",
-          "value": "16-18",
-          "count": 45
-        },
-        {
-          "optionId": "20-21",
-          "label": "20-21 in.",
-          "value": "20-21",
-          "count": 156
-        },
-        {
-          "optionId": "22-25",
-          "label": "22-25 in.",
-          "value": "22-25",
-          "count": 189
-        },
-        {
-          "optionId": "30-plus",
-          "label": "30 in. & larger",
-          "value": "30-plus",
-          "count": 78
-        }
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
       ]
     },
     {
-      "filterGroupId": "price",
-      "filterGroupName": "Price",
-      "filterType": "range",
-      "options": [
-        {
-          "optionId": "price-0-200",
-          "label": "Under $200",
-          "value": "0-200",
-          "count": 67
-        },
-        {
-          "optionId": "price-200-400",
-          "label": "$200 - $400",
-          "value": "200-400",
-          "count": 145
-        },
-        {
-          "optionId": "price-400-600",
-          "label": "$400 - $600",
-          "value": "400-600",
-          "count": 178
-        },
-        {
-          "optionId": "price-600-plus",
-          "label": "$600 & Above",
-          "value": "600-plus",
-          "count": 177
-        }
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ],
@@ -339,7 +248,13 @@
           "answerDate": "2025-01-11",
           "helpfulVotes": 106
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Ryobi",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206515944",
@@ -427,7 +342,13 @@
           "answerDate": "2025-08-04",
           "helpfulVotes": 134
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "EGO",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317061072",
@@ -511,7 +432,13 @@
           "answerDate": "2025-02-21",
           "helpfulVotes": 119
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Toro",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311084824",
@@ -595,7 +522,13 @@
           "answerDate": "2025-05-08",
           "helpfulVotes": 142
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Honda",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "320066062",
@@ -669,7 +602,13 @@
           "answerDate": "2025-08-02",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Ryobi",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323900500",
@@ -753,7 +692,13 @@
           "answerDate": "2025-04-13",
           "helpfulVotes": 128
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Greenworks",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315114449",
@@ -837,7 +782,13 @@
           "answerDate": "2025-07-19",
           "helpfulVotes": 33
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Toro",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331594975",
@@ -921,7 +872,13 @@
           "answerDate": "2025-10-22",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "EGO",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306345173",
@@ -995,7 +952,13 @@
           "answerDate": "2025-10-16",
           "helpfulVotes": 121
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Toro",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316855178",
@@ -1079,7 +1042,13 @@
           "answerDate": "2025-12-07",
           "helpfulVotes": 89
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Honda",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     }
   ],
   "pagination": {
@@ -1090,5 +1059,5 @@
     "endIndex": 24
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.495963"
+  "lastUpdated": "2026-01-03T19:45:11.207105"
 }

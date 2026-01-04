@@ -4,7 +4,7 @@
   "slug": "range-hoods",
   "path": "/categories/appliances/range-hoods",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.430945",
+  "lastUpdated": "2026-01-03T19:45:10.970243",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -179,7 +179,13 @@
           "answerDate": "2025-06-01",
           "helpfulVotes": 131
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322970131",
@@ -265,7 +271,13 @@
           "answerDate": "2025-07-12",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "AKDY",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323516650",
@@ -361,7 +373,13 @@
           "answerDate": "2025-02-18",
           "helpfulVotes": 15
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Akicon",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308788763",
@@ -457,7 +475,13 @@
           "answerDate": "2025-06-29",
           "helpfulVotes": 89
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Golden Vantage",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337585009",
@@ -533,7 +557,13 @@
           "answerDate": "2025-03-21",
           "helpfulVotes": 127
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "INATECK",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322879733",
@@ -609,7 +639,13 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 115
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VIKIO",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321382721",
@@ -685,7 +721,13 @@
           "answerDate": "2025-07-03",
           "helpfulVotes": 104
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329658550",
@@ -771,7 +813,13 @@
           "answerDate": "2025-10-15",
           "helpfulVotes": 9
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VIKIO",
+        "priceRange": "$250-$500",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322054995",
@@ -847,7 +895,13 @@
           "answerDate": "2025-10-03",
           "helpfulVotes": 87
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "JANSKA",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307360818",
@@ -943,7 +997,13 @@
           "answerDate": "2025-07-26",
           "helpfulVotes": 7
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "AKDY",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329652922",
@@ -1019,7 +1079,13 @@
           "answerDate": "2025-03-26",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VIKIO",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "310402781",
@@ -1095,7 +1161,13 @@
           "answerDate": "2025-10-01",
           "helpfulVotes": 87
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "AKDY",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206686542",
@@ -1181,7 +1253,13 @@
           "answerDate": "2025-05-06",
           "helpfulVotes": 78
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Cosmo",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "310477750",
@@ -1257,7 +1335,13 @@
           "answerDate": "2025-12-27",
           "helpfulVotes": 41
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Home Beyond",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307287875",
@@ -1343,7 +1427,13 @@
           "answerDate": "2025-02-14",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Golden Vantage",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206888286",
@@ -1429,7 +1519,13 @@
           "answerDate": "2025-05-16",
           "helpfulVotes": 145
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306728093",
@@ -1515,7 +1611,13 @@
           "answerDate": "2025-08-29",
           "helpfulVotes": 76
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322658790",
@@ -1591,7 +1693,13 @@
           "answerDate": "2025-07-26",
           "helpfulVotes": 12
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VIKIO",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321421319",
@@ -1667,7 +1775,13 @@
           "answerDate": "2025-09-08",
           "helpfulVotes": 141
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Akicon",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206888298",
@@ -1753,7 +1867,13 @@
           "answerDate": "2025-04-08",
           "helpfulVotes": 11
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312176349",
@@ -1849,7 +1969,13 @@
           "answerDate": "2025-05-30",
           "helpfulVotes": 99
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312320490",
@@ -1935,7 +2061,13 @@
           "answerDate": "2025-06-18",
           "helpfulVotes": 82
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306526719",
@@ -2021,7 +2153,13 @@
           "answerDate": "2025-02-21",
           "helpfulVotes": 8
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Winflo",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339349635",
@@ -2107,6 +2245,63 @@
           "answerDate": "2025-11-14",
           "helpfulVotes": 93
         }
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "AKDY",
+        "Akicon",
+        "Cosmo",
+        "Golden Vantage",
+        "Home Beyond",
+        "INATECK",
+        "JANSKA",
+        "VIKIO",
+        "Winflo",
+        "ZLINE Kitchen and Bath"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

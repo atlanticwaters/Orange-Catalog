@@ -4,7 +4,7 @@
   "slug": "jacks-lifts",
   "path": "/categories/automotive/jacks-lifts",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.449440",
+  "lastUpdated": "2026-01-03T19:45:11.081420",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -197,7 +197,17 @@
           "answerDate": "2025-11-20",
           "helpfulVotes": 52
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315635318",
@@ -317,7 +327,17 @@
           "answerDate": "2025-03-10",
           "helpfulVotes": 145
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308174827",
@@ -437,7 +457,17 @@
           "answerDate": "2025-04-06",
           "helpfulVotes": 99
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334562975",
@@ -557,7 +587,13 @@
           "answerDate": "2025-01-29",
           "helpfulVotes": 86
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318271372",
@@ -677,7 +713,13 @@
           "answerDate": "2025-12-05",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308174828",
@@ -797,7 +839,17 @@
           "answerDate": "2025-05-10",
           "helpfulVotes": 148
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339352607",
@@ -871,7 +923,13 @@
           "answerDate": "2025-06-01",
           "helpfulVotes": 31
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339421685",
@@ -945,7 +1003,13 @@
           "answerDate": "2025-01-09",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339421714",
@@ -1019,7 +1083,13 @@
           "answerDate": "2025-08-21",
           "helpfulVotes": 5
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315530068",
@@ -1139,7 +1209,13 @@
           "answerDate": "2025-10-20",
           "helpfulVotes": 33
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307789471",
@@ -1259,7 +1335,13 @@
           "answerDate": "2025-02-14",
           "helpfulVotes": 80
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318271280",
@@ -1379,7 +1461,17 @@
           "answerDate": "2025-04-17",
           "helpfulVotes": 147
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100594524",
@@ -1499,7 +1591,13 @@
           "answerDate": "2025-12-30",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Big Red",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334358869",
@@ -1611,7 +1709,16 @@
           "answerDate": "2025-10-15",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335976058",
@@ -1723,7 +1830,16 @@
           "answerDate": "2025-10-04",
           "helpfulVotes": 93
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "QUICKJACK",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "319497124",
@@ -1835,7 +1951,16 @@
           "answerDate": "2025-03-17",
           "helpfulVotes": 38
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "QUICKJACK",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325002915",
@@ -1947,7 +2072,16 @@
           "answerDate": "2025-03-17",
           "helpfulVotes": 30
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "MAX JAX",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339510",
@@ -2059,7 +2193,15 @@
           "answerDate": "2025-07-21",
           "helpfulVotes": 34
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321886360",
@@ -2171,7 +2313,15 @@
           "answerDate": "2025-02-14",
           "helpfulVotes": 46
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Unknown",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339545",
@@ -2283,7 +2433,19 @@
           "answerDate": "2025-08-25",
           "helpfulVotes": 106
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "features": [
+          "Stackable"
+        ],
+        "brand": "IDEAL",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339546",
@@ -2395,7 +2557,16 @@
           "answerDate": "2025-07-10",
           "helpfulVotes": 83
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "IDEAL",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339524",
@@ -2507,7 +2678,16 @@
           "answerDate": "2025-06-29",
           "helpfulVotes": 99
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327329410",
@@ -2619,7 +2799,12 @@
           "answerDate": "2025-02-13",
           "helpfulVotes": 127
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BENDPAK",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327329428",
@@ -2731,7 +2916,16 @@
           "answerDate": "2025-05-23",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "BENDPAK",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314300353",
@@ -2843,7 +3037,16 @@
           "answerDate": "2025-06-30",
           "helpfulVotes": 123
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338681941",
@@ -2955,7 +3158,16 @@
           "answerDate": "2025-10-05",
           "helpfulVotes": 6
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339549",
@@ -3067,7 +3279,16 @@
           "answerDate": "2025-08-15",
           "helpfulVotes": 146
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338681937",
@@ -3179,7 +3400,15 @@
           "answerDate": "2025-02-05",
           "helpfulVotes": 84
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339488",
@@ -3291,7 +3520,16 @@
           "answerDate": "2025-09-10",
           "helpfulVotes": 11
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338681932",
@@ -3403,7 +3641,15 @@
           "answerDate": "2025-12-14",
           "helpfulVotes": 15
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339490",
@@ -3515,7 +3761,16 @@
           "answerDate": "2025-11-21",
           "helpfulVotes": 47
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327329415",
@@ -3627,6 +3882,100 @@
           "answerDate": "2025-01-21",
           "helpfulVotes": 19
         }
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "BENDPAK",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "productType",
+      "name": "Product Type",
+      "type": "single",
+      "values": [
+        "Battery Charger",
+        "Jump Starter",
+        "Car Jack",
+        "Fluid",
+        "Cleaning Supply"
+      ]
+    },
+    {
+      "id": "vehicleType",
+      "name": "Vehicle Type",
+      "type": "multi",
+      "values": [
+        "Car",
+        "Truck",
+        "SUV",
+        "Motorcycle",
+        "RV"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Portable",
+        "Heavy Duty",
+        "Smart Charging",
+        "Multi-Use"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "BENDPAK",
+        "Big Red",
+        "Husky",
+        "IDEAL",
+        "MAX JAX",
+        "QUICKJACK",
+        "SKYSHALO",
+        "TUXEDO",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

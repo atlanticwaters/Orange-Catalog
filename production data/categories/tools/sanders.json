@@ -4,7 +4,7 @@
   "slug": "sanders",
   "path": "/categories/tools/sanders",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.424020",
+  "lastUpdated": "2026-01-03T19:45:11.258960",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -260,7 +260,17 @@
           "answerDate": "2025-10-04",
           "helpfulVotes": 50
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Husky",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204671962",
@@ -417,7 +427,17 @@
           "answerDate": "2025-08-24",
           "helpfulVotes": 19
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "Husky",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303033889",
@@ -527,7 +547,17 @@
           "answerDate": "2025-12-13",
           "helpfulVotes": 25
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Pneumatic",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "Gison",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307280851",
@@ -637,7 +667,17 @@
           "answerDate": "2025-10-05",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "302767010",
@@ -747,7 +787,16 @@
           "answerDate": "2025-01-30",
           "helpfulVotes": 142
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "AIRCAT",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "302767014",
@@ -847,7 +896,17 @@
           "answerDate": "2025-01-24",
           "helpfulVotes": 93
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "AIRCAT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "302767004",
@@ -967,7 +1026,17 @@
           "answerDate": "2025-11-15",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "AIRCAT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331482482",
@@ -1077,7 +1146,16 @@
           "answerDate": "2025-06-13",
           "helpfulVotes": 72
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "AIRCAT",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "302767013",
@@ -1197,7 +1275,17 @@
           "answerDate": "2025-05-27",
           "helpfulVotes": 107
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "AIRCAT",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "302767016",
@@ -1307,7 +1395,17 @@
           "answerDate": "2025-05-04",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "AIRCAT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202591259",
@@ -1417,7 +1515,17 @@
           "answerDate": "2025-09-24",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "Powermate",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202502873",
@@ -1541,7 +1649,16 @@
           "answerDate": "2025-02-15",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Pneumatic",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "EMAX",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "302767015",
@@ -1651,7 +1768,16 @@
           "answerDate": "2025-07-24",
           "helpfulVotes": 58
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "AIRCAT",
+        "priceRange": "$250-$500",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202519153",
@@ -1764,7 +1890,17 @@
           "answerDate": "2025-11-28",
           "helpfulVotes": 105
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331594484",
@@ -1903,7 +2039,17 @@
           "answerDate": "2025-04-18",
           "helpfulVotes": 47
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "Grizzly Industrial",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202488411",
@@ -2041,7 +2187,17 @@
           "answerDate": "2025-04-14",
           "helpfulVotes": 31
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205433692",
@@ -2178,7 +2334,20 @@
           "answerDate": "2025-10-13",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337129279",
@@ -2315,7 +2484,20 @@
           "answerDate": "2025-09-29",
           "helpfulVotes": 65
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205433690",
@@ -2432,7 +2614,20 @@
           "answerDate": "2025-09-18",
           "helpfulVotes": 37
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337129313",
@@ -2549,7 +2744,20 @@
           "answerDate": "2025-08-17",
           "helpfulVotes": 75
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337129314",
@@ -2686,7 +2894,20 @@
           "answerDate": "2025-11-21",
           "helpfulVotes": 116
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337129315",
@@ -2803,7 +3024,20 @@
           "answerDate": "2025-09-14",
           "helpfulVotes": 108
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "320325386",
@@ -2922,7 +3156,17 @@
           "answerDate": "2025-08-20",
           "helpfulVotes": 53
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304591900",
@@ -3051,7 +3295,17 @@
           "answerDate": "2025-09-13",
           "helpfulVotes": 31
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325280978",
@@ -3190,7 +3444,20 @@
           "answerDate": "2025-06-20",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305585327",
@@ -3319,7 +3586,20 @@
           "answerDate": "2025-03-15",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318531838",
@@ -3458,7 +3738,17 @@
           "answerDate": "2025-04-24",
           "helpfulVotes": 96
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329967760",
@@ -3597,7 +3887,20 @@
           "answerDate": "2025-09-02",
           "helpfulVotes": 65
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311528803",
@@ -3726,7 +4029,20 @@
           "answerDate": "2025-09-02",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337641127",
@@ -3805,7 +4121,20 @@
           "answerDate": "2025-12-06",
           "helpfulVotes": 53
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337641115",
@@ -3894,7 +4223,20 @@
           "answerDate": "2025-11-26",
           "helpfulVotes": 9
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336958657",
@@ -3983,7 +4325,17 @@
           "answerDate": "2025-03-07",
           "helpfulVotes": 86
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336305539",
@@ -4112,7 +4464,20 @@
           "answerDate": "2025-09-26",
           "helpfulVotes": 99
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205105594",
@@ -4231,7 +4596,17 @@
           "answerDate": "2025-10-20",
           "helpfulVotes": 43
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333077828",
@@ -4360,7 +4735,20 @@
           "answerDate": "2025-09-18",
           "helpfulVotes": 30
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331593065",
@@ -4443,7 +4831,19 @@
           "answerDate": "2025-04-19",
           "helpfulVotes": 36
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323482281",
@@ -4526,7 +4926,19 @@
           "answerDate": "2025-02-19",
           "helpfulVotes": 39
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339320865",
@@ -4612,7 +5024,16 @@
           "answerDate": "2025-07-29",
           "helpfulVotes": 7
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Busdays",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339343374",
@@ -4688,7 +5109,16 @@
           "answerDate": "2025-05-27",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Busdays",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337131883",
@@ -4778,7 +5208,19 @@
           "answerDate": "2025-11-15",
           "helpfulVotes": 97
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339218484",
@@ -4850,7 +5292,20 @@
           "answerDate": "2025-02-23",
           "helpfulVotes": 120
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332930892",
@@ -4923,7 +5378,19 @@
           "answerDate": "2025-09-21",
           "helpfulVotes": 36
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332315031",
@@ -5015,7 +5482,19 @@
           "answerDate": "2025-02-07",
           "helpfulVotes": 93
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100618248",
@@ -5096,7 +5575,19 @@
           "answerDate": "2025-11-02",
           "helpfulVotes": 82
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "300716202",
@@ -5177,7 +5668,19 @@
           "answerDate": "2025-10-11",
           "helpfulVotes": 92
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206051086",
@@ -5259,7 +5762,19 @@
           "answerDate": "2025-03-08",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Makita",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317995148",
@@ -5350,7 +5865,20 @@
           "answerDate": "2025-01-09",
           "helpfulVotes": 76
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205216313",
@@ -5418,7 +5946,16 @@
           "answerDate": "2025-05-28",
           "helpfulVotes": 33
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339216933",
@@ -5491,7 +6028,20 @@
           "answerDate": "2025-03-14",
           "helpfulVotes": 18
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202459151",
@@ -5561,7 +6111,16 @@
           "answerDate": "2025-09-23",
           "helpfulVotes": 46
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335488929",
@@ -5637,7 +6196,16 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 86
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Grizzly",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336226637",
@@ -5710,7 +6278,16 @@
           "answerDate": "2025-03-27",
           "helpfulVotes": 91
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313854959",
@@ -5802,7 +6379,20 @@
           "answerDate": "2025-12-10",
           "helpfulVotes": 43
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326523857",
@@ -5895,7 +6485,19 @@
           "answerDate": "2025-07-17",
           "helpfulVotes": 52
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337129318",
@@ -5978,7 +6580,19 @@
           "answerDate": "2025-04-21",
           "helpfulVotes": 126
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338997272",
@@ -6054,7 +6668,16 @@
           "answerDate": "2025-04-07",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "Busdays",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "319401720",
@@ -6136,7 +6759,16 @@
           "answerDate": "2025-07-07",
           "helpfulVotes": 29
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327698977",
@@ -6210,7 +6842,19 @@
           "answerDate": "2025-03-17",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330621883",
@@ -6293,7 +6937,16 @@
           "answerDate": "2025-04-22",
           "helpfulVotes": 128
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328228703",
@@ -6387,7 +7040,20 @@
           "answerDate": "2025-08-22",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339388574",
@@ -6454,7 +7120,16 @@
           "answerDate": "2025-10-01",
           "helpfulVotes": 122
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "VEVOR",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314645885",
@@ -6548,7 +7223,19 @@
           "answerDate": "2025-07-08",
           "helpfulVotes": 58
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328814879",
@@ -6621,7 +7308,16 @@
           "answerDate": "2025-08-23",
           "helpfulVotes": 56
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323095315",
@@ -6713,7 +7409,19 @@
           "answerDate": "2025-10-30",
           "helpfulVotes": 33
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339218546",
@@ -6786,7 +7494,16 @@
           "answerDate": "2025-07-07",
           "helpfulVotes": 10
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323482215",
@@ -6859,7 +7576,19 @@
           "answerDate": "2025-09-26",
           "helpfulVotes": 63
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205105595",
@@ -6928,7 +7657,16 @@
           "answerDate": "2025-12-02",
           "helpfulVotes": 77
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314645883",
@@ -7003,7 +7741,19 @@
           "answerDate": "2025-04-01",
           "helpfulVotes": 77
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339686373",
@@ -7069,7 +7819,16 @@
           "answerDate": "2025-09-08",
           "helpfulVotes": 81
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "60V"
+        ],
+        "brand": "8A",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205907850",
@@ -7149,7 +7908,16 @@
           "answerDate": "2025-07-02",
           "helpfulVotes": 11
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326620665",
@@ -7226,7 +7994,16 @@
           "answerDate": "2025-11-12",
           "helpfulVotes": 38
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "LG",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100053683",
@@ -7317,7 +8094,16 @@
           "answerDate": "2025-10-03",
           "helpfulVotes": 79
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312763275",
@@ -7411,7 +8197,20 @@
           "answerDate": "2025-03-03",
           "helpfulVotes": 83
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203054743",
@@ -7493,7 +8292,19 @@
           "answerDate": "2025-04-20",
           "helpfulVotes": 97
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Porter-Cable",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328077805",
@@ -7585,7 +8396,20 @@
           "answerDate": "2025-01-27",
           "helpfulVotes": 140
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339408658",
@@ -7671,7 +8495,16 @@
           "answerDate": "2025-03-23",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "60V"
+        ],
+        "brand": "Busdays",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205179523",
@@ -7741,7 +8574,16 @@
           "answerDate": "2025-03-07",
           "helpfulVotes": 71
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337129317",
@@ -7824,7 +8666,19 @@
           "answerDate": "2025-06-30",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205642375",
@@ -7891,7 +8745,16 @@
           "answerDate": "2025-10-22",
           "helpfulVotes": 61
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339218726",
@@ -7963,7 +8826,20 @@
           "answerDate": "2025-01-28",
           "helpfulVotes": 141
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339219352",
@@ -8037,7 +8913,19 @@
           "answerDate": "2025-05-13",
           "helpfulVotes": 15
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "309009563",
@@ -8111,7 +8999,19 @@
           "answerDate": "2025-10-03",
           "helpfulVotes": 100
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330542457",
@@ -8184,7 +9084,19 @@
           "answerDate": "2025-08-23",
           "helpfulVotes": 107
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317312808",
@@ -8278,6 +9190,119 @@
           "answerDate": "2025-01-25",
           "helpfulVotes": 73
         }
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Variable Speed"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded",
+        "Pneumatic"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX",
+        "40V",
+        "60V"
+      ]
+    },
+    {
+      "id": "batteryIncluded",
+      "name": "Battery Included",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No (Tool Only)"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "8A",
+        "AIRCAT",
+        "Busdays",
+        "DEWALT",
+        "EMAX",
+        "Gison",
+        "Grizzly",
+        "Grizzly Industrial",
+        "Husky",
+        "LG",
+        "Makita",
+        "Milwaukee",
+        "Porter-Cable",
+        "Powermate",
+        "RIDGID",
+        "RYOBI",
+        "VEVOR"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

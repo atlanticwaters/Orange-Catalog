@@ -4,7 +4,7 @@
   "slug": "electrical",
   "path": "/categories/electrical",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.380583",
+  "lastUpdated": "2026-01-03T19:45:11.091539",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -164,7 +164,13 @@
           "answerDate": "2025-10-10",
           "helpfulVotes": 84
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Lutron",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308136313",
@@ -249,7 +255,13 @@
           "answerDate": "2025-01-26",
           "helpfulVotes": 61
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Lutron",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336958667",
@@ -334,7 +346,13 @@
           "answerDate": "2025-02-28",
           "helpfulVotes": 105
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317371235",
@@ -429,7 +447,13 @@
           "answerDate": "2025-07-18",
           "helpfulVotes": 58
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Primefit",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202592873",
@@ -514,7 +538,13 @@
           "answerDate": "2025-12-28",
           "helpfulVotes": 28
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Powermate",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325355628",
@@ -609,7 +639,13 @@
           "answerDate": "2025-03-13",
           "helpfulVotes": 27
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311739614",
@@ -704,7 +740,13 @@
           "answerDate": "2025-08-03",
           "helpfulVotes": 88
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203846551",
@@ -789,7 +831,13 @@
           "answerDate": "2025-01-07",
           "helpfulVotes": 147
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "HDX",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337674733",
@@ -884,7 +932,13 @@
           "answerDate": "2025-04-20",
           "helpfulVotes": 23
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "HDX",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100394342",
@@ -979,7 +1033,13 @@
           "answerDate": "2025-04-08",
           "helpfulVotes": 131
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Grip-Rite",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205865848",
@@ -1074,7 +1134,13 @@
           "answerDate": "2025-04-29",
           "helpfulVotes": 131
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Grip-Rite",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202447756",
@@ -1159,7 +1225,13 @@
           "answerDate": "2025-09-19",
           "helpfulVotes": 38
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Grip-Rite",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329377440",
@@ -1254,7 +1326,13 @@
           "answerDate": "2025-07-21",
           "helpfulVotes": 126
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Porter-Cable",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322605711",
@@ -1339,7 +1417,13 @@
           "answerDate": "2025-02-25",
           "helpfulVotes": 19
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329635624",
@@ -1434,7 +1518,13 @@
           "answerDate": "2025-08-31",
           "helpfulVotes": 90
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203846576",
@@ -1509,7 +1599,13 @@
           "answerDate": "2025-01-23",
           "helpfulVotes": 52
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "HDX",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334127766",
@@ -1584,7 +1680,13 @@
           "answerDate": "2025-04-09",
           "helpfulVotes": 17
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "LUCK HOME",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "320706156",
@@ -1679,7 +1781,13 @@
           "answerDate": "2025-03-14",
           "helpfulVotes": 135
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324118671",
@@ -1754,7 +1862,13 @@
           "answerDate": "2025-01-30",
           "helpfulVotes": 136
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Lincoln Electric",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318584392",
@@ -1829,7 +1943,13 @@
           "answerDate": "2025-05-09",
           "helpfulVotes": 79
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203756598",
@@ -1914,7 +2034,13 @@
           "answerDate": "2025-05-23",
           "helpfulVotes": 71
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324808968",
@@ -1989,7 +2115,13 @@
           "answerDate": "2025-06-24",
           "helpfulVotes": 24
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337521623",
@@ -2064,7 +2196,13 @@
           "answerDate": "2025-03-14",
           "helpfulVotes": 46
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318964392",
@@ -2149,7 +2287,13 @@
           "answerDate": "2025-12-19",
           "helpfulVotes": 46
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327585040",
@@ -2244,7 +2388,13 @@
           "answerDate": "2025-05-17",
           "helpfulVotes": 114
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335978390",
@@ -2329,7 +2479,13 @@
           "answerDate": "2025-07-04",
           "helpfulVotes": 87
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331727075",
@@ -2414,7 +2570,13 @@
           "answerDate": "2025-10-14",
           "helpfulVotes": 122
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318580448",
@@ -2489,7 +2651,13 @@
           "answerDate": "2025-08-19",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325354296",
@@ -2574,7 +2742,13 @@
           "answerDate": "2025-05-23",
           "helpfulVotes": 124
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100180324",
@@ -2669,6 +2843,65 @@
           "answerDate": "2025-12-05",
           "helpfulVotes": 27
         }
+      ],
+      "filterAttributes": {
+        "brand": "Frost King",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Frost King",
+        "Grip-Rite",
+        "HDX",
+        "LUCK HOME",
+        "Lincoln Electric",
+        "Lutron",
+        "Milwaukee",
+        "Porter-Cable",
+        "Powermate",
+        "Primefit",
+        "RIDGID",
+        "RYOBI"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

@@ -4,7 +4,7 @@
   "slug": "wall-ovens",
   "path": "/categories/appliances/wall-ovens",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.427765",
+  "lastUpdated": "2026-01-03T19:45:11.009423",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -102,7 +102,13 @@
           "answerDate": "2025-07-15",
           "helpfulVotes": 134
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324905770",
@@ -189,6 +195,55 @@
           "answerDate": "2025-05-01",
           "helpfulVotes": 98
         }
+      ],
+      "filterAttributes": {
+        "brand": "LG",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "GE",
+        "LG"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

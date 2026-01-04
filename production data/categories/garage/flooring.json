@@ -4,7 +4,7 @@
   "slug": "flooring",
   "path": "/categories/garage/flooring",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.477299",
+  "lastUpdated": "2026-01-03T19:45:11.130334",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -215,7 +215,13 @@
           "answerDate": "2025-11-30",
           "helpfulVotes": 137
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339352621",
@@ -301,7 +307,13 @@
           "answerDate": "2025-05-27",
           "helpfulVotes": 147
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204820743",
@@ -428,7 +440,13 @@
           "answerDate": "2025-03-04",
           "helpfulVotes": 93
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303420003",
@@ -555,7 +573,13 @@
           "answerDate": "2025-03-16",
           "helpfulVotes": 133
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330786027",
@@ -672,7 +696,13 @@
           "answerDate": "2025-11-28",
           "helpfulVotes": 37
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303419970",
@@ -789,7 +819,13 @@
           "answerDate": "2025-01-21",
           "helpfulVotes": 53
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303270844",
@@ -916,7 +952,13 @@
           "answerDate": "2025-03-02",
           "helpfulVotes": 78
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330572846",
@@ -1043,7 +1085,13 @@
           "answerDate": "2025-11-18",
           "helpfulVotes": 144
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VEVOR",
+        "priceRange": "$50-$100",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331520587",
@@ -1170,7 +1218,13 @@
           "answerDate": "2025-02-25",
           "helpfulVotes": 94
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330593846",
@@ -1297,7 +1351,13 @@
           "answerDate": "2025-12-22",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VEVOR",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202689303",
@@ -1400,7 +1460,15 @@
           "answerDate": "2025-09-11",
           "helpfulVotes": 11
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Best Barns",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202689279",
@@ -1503,7 +1571,16 @@
           "answerDate": "2026-01-01",
           "helpfulVotes": 80
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Best Barns",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206292645",
@@ -1616,7 +1693,16 @@
           "answerDate": "2025-12-23",
           "helpfulVotes": 124
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "ShelterLogic",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "207109224",
@@ -1719,7 +1805,15 @@
           "answerDate": "2025-01-29",
           "helpfulVotes": 128
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "HANSEN BUILDINGS LLC",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308800274",
@@ -1834,7 +1928,13 @@
           "answerDate": "2025-03-10",
           "helpfulVotes": 25
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107168",
@@ -1949,7 +2049,13 @@
           "answerDate": "2025-08-03",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107181",
@@ -2054,7 +2160,13 @@
           "answerDate": "2025-06-03",
           "helpfulVotes": 28
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "301068197",
@@ -2169,7 +2281,13 @@
           "answerDate": "2025-04-12",
           "helpfulVotes": 32
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum",
+        "priceRange": "$50-$100",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107317",
@@ -2284,7 +2402,13 @@
           "answerDate": "2025-01-12",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107167",
@@ -2389,7 +2513,13 @@
           "answerDate": "2025-12-30",
           "helpfulVotes": 41
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308800271",
@@ -2494,7 +2624,13 @@
           "answerDate": "2025-03-24",
           "helpfulVotes": 59
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325295894",
@@ -2609,7 +2745,13 @@
           "answerDate": "2025-02-15",
           "helpfulVotes": 57
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum RockSolid",
+        "priceRange": "$250-$500",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308800270",
@@ -2724,7 +2866,13 @@
           "answerDate": "2025-02-25",
           "helpfulVotes": 122
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321712851",
@@ -2839,7 +2987,13 @@
           "answerDate": "2025-12-15",
           "helpfulVotes": 50
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum RockSolid",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107171",
@@ -2954,7 +3108,13 @@
           "answerDate": "2025-07-19",
           "helpfulVotes": 39
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325295896",
@@ -3059,7 +3219,13 @@
           "answerDate": "2025-10-22",
           "helpfulVotes": 28
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum RockSolid",
+        "priceRange": "$250-$500",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325063871",
@@ -3174,7 +3340,13 @@
           "answerDate": "2025-05-15",
           "helpfulVotes": 118
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ARMORPOXY",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326825845",
@@ -3289,7 +3461,13 @@
           "answerDate": "2025-09-12",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ARMORPOXY",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308921349",
@@ -3404,7 +3582,13 @@
           "answerDate": "2025-10-17",
           "helpfulVotes": 5
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326116168",
@@ -3509,6 +3693,107 @@
           "answerDate": "2025-11-03",
           "helpfulVotes": 15
         }
+      ],
+      "filterAttributes": {
+        "brand": "ARMORPOXY",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "storageType",
+      "name": "Storage Type",
+      "type": "single",
+      "values": [
+        "Shelving",
+        "Cabinet",
+        "Workbench",
+        "Wall Organization",
+        "Overhead"
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "type": "single",
+      "values": [
+        "Steel",
+        "Wood",
+        "Plastic",
+        "Wire"
+      ]
+    },
+    {
+      "id": "weightCapacity",
+      "name": "Weight Capacity",
+      "type": "range",
+      "values": [
+        "Under 100 lbs",
+        "100-250 lbs",
+        "250-500 lbs",
+        "Over 500 lbs"
+      ]
+    },
+    {
+      "id": "assemblyRequired",
+      "name": "Assembly Required",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "ARMORPOXY",
+        "BEHR PREMIUM",
+        "Best Barns",
+        "HANSEN BUILDINGS LLC",
+        "Husky",
+        "MotorDeck",
+        "Rust-Oleum",
+        "Rust-Oleum EpoxyShield",
+        "Rust-Oleum RockSolid",
+        "ShelterLogic",
+        "VEVOR"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

@@ -74,7 +74,13 @@
           "answerDate": "2025-03-21",
           "helpfulVotes": 43
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Ryobi",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206515944",
@@ -152,7 +158,13 @@
           "answerDate": "2025-06-23",
           "helpfulVotes": 60
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "EGO",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317061072",
@@ -226,7 +238,13 @@
           "answerDate": "2025-09-25",
           "helpfulVotes": 63
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Toro",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311084824",
@@ -310,7 +328,13 @@
           "answerDate": "2025-03-06",
           "helpfulVotes": 110
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Honda",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "320066062",
@@ -384,7 +408,13 @@
           "answerDate": "2025-09-03",
           "helpfulVotes": 109
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Ryobi",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323900500",
@@ -468,7 +498,13 @@
           "answerDate": "2025-01-16",
           "helpfulVotes": 52
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Greenworks",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315114449",
@@ -552,7 +588,13 @@
           "answerDate": "2025-04-17",
           "helpfulVotes": 142
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Toro",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331594975",
@@ -626,7 +668,13 @@
           "answerDate": "2025-10-11",
           "helpfulVotes": 88
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "EGO",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306345173",
@@ -700,7 +748,13 @@
           "answerDate": "2025-03-17",
           "helpfulVotes": 125
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Toro",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316855178",
@@ -784,9 +838,61 @@
           "answerDate": "2025-12-12",
           "helpfulVotes": 30
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Honda",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     }
   ],
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.496344"
+  "lastUpdated": "2026-01-03T19:45:11.206099",
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "EGO",
+        "Greenworks",
+        "Honda",
+        "Ryobi",
+        "Toro"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
+      ]
+    }
+  ]
 }

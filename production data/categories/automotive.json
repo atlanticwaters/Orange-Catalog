@@ -4,7 +4,7 @@
   "slug": "automotive",
   "path": "/categories/automotive",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.238295",
+  "lastUpdated": "2026-01-03T19:45:11.082854",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -82,6 +82,77 @@
   ],
   "products": [
     {
+      "productId": "336574722",
+      "modelNumber": "",
+      "brand": "GE",
+      "title": "ChargePoint 240-Volt Home Flex Level 2 WiFi NEMA 14-50 Plug Electric Vehicle EV Charger CPH50-NEMA1450-L23-K",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/b2fa5979-b566-44ef-94a9-a66ca820fcb6/svn/ev-chargers-cph50-nema1450-l23-k-e1_1000.jpg",
+          "https://images.thdstatic.com/productImages/8efe2d05-f201-4c66-a9af-6bac54fb94fc/svn/ev-chargers-cph50-nema1450-l23-k-40_1000.jpg",
+          "https://images.thdstatic.com/productImages/6bd506a9-39fb-4c0a-aaf9-8cdf32a91e78/svn/ev-chargers-cph50-nema1450-l23-k-a0_1000.jpg",
+          "https://images.thdstatic.com/productImages/180e3c9d-7f1c-49dd-b976-078bb4faa9f9/svn/ev-chargers-cph50-nema1450-l23-k-1d_1000.jpg",
+          "https://images.thdstatic.com/productImages/e2218c72-b835-4eb8-899a-4fba4e8e3500/svn/ev-chargers-cph50-nema1450-l23-k-66_1000.jpg",
+          "https://images.thdstatic.com/productImages/527c936c-a39b-4d90-8502-0652f07277c3/svn/ev-chargers-cph50-nema1450-l23-k-77_1000.jpg",
+          "https://images.thdstatic.com/productImages/0625ccb7-3d58-4000-8926-a3e51265192f/svn/ev-chargers-cph50-nema1450-l23-k-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/9703de60-2340-4826-8fe9-6bbc29f9fa91/svn/ev-chargers-cph50-nema1450-l23-k-4f_1000.jpg"
+        ]
+      },
+      "subcategory": "ev-chargers",
+      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
+      "specifications": {
+        "Compatibility": "Universal Fit",
+        "Material": "Premium Quality"
+      },
+      "highlights": [
+        "Meets OEM specifications",
+        "Easy installation",
+        "Quality construction",
+        "Reliable performance"
+      ],
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-05-20",
+          "answerDate": "2025-05-23",
+          "helpfulVotes": 73
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-21",
+          "answerDate": "2025-09-28",
+          "helpfulVotes": 107
+        }
+      ],
+      "filterAttributes": {
+        "features": [
+          "Smart/WiFi Enabled"
+        ],
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    },
+    {
       "productId": "319875804",
       "modelNumber": "",
       "brand": "Rain-X",
@@ -154,7 +225,16 @@
           "answerDate": "2025-08-23",
           "helpfulVotes": 23
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Rain-X",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339377625",
@@ -229,7 +309,16 @@
           "answerDate": "2025-07-23",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Unknown",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337893557",
@@ -304,7 +393,13 @@
           "answerDate": "2025-11-30",
           "helpfulVotes": 100
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Fluid",
+        "brand": "Prestone",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "300387920",
@@ -379,7 +474,13 @@
           "answerDate": "2025-01-08",
           "helpfulVotes": 81
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Shell Rotella",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "300646438",
@@ -454,7 +555,13 @@
           "answerDate": "2025-06-25",
           "helpfulVotes": 71
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Pennzoil",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311259745",
@@ -529,7 +636,17 @@
           "answerDate": "2025-03-31",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315635318",
@@ -604,7 +721,17 @@
           "answerDate": "2025-01-30",
           "helpfulVotes": 26
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308174827",
@@ -679,7 +806,17 @@
           "answerDate": "2025-12-03",
           "helpfulVotes": 59
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334562975",
@@ -754,7 +891,13 @@
           "answerDate": "2025-06-09",
           "helpfulVotes": 127
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318271372",
@@ -829,7 +972,13 @@
           "answerDate": "2025-07-18",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308174828",
@@ -904,7 +1053,17 @@
           "answerDate": "2025-03-15",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339352607",
@@ -979,7 +1138,13 @@
           "answerDate": "2025-12-28",
           "helpfulVotes": 66
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339421685",
@@ -1054,7 +1219,13 @@
           "answerDate": "2025-04-25",
           "helpfulVotes": 96
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339421714",
@@ -1129,7 +1300,13 @@
           "answerDate": "2025-03-06",
           "helpfulVotes": 129
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315530068",
@@ -1204,7 +1381,13 @@
           "answerDate": "2025-11-13",
           "helpfulVotes": 118
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307789471",
@@ -1279,7 +1462,13 @@
           "answerDate": "2025-09-22",
           "helpfulVotes": 60
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318271280",
@@ -1354,7 +1543,17 @@
           "answerDate": "2025-02-16",
           "helpfulVotes": 145
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Car Jack",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Husky",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100594524",
@@ -1429,7 +1628,13 @@
           "answerDate": "2025-10-15",
           "helpfulVotes": 58
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Big Red",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334358869",
@@ -1504,7 +1709,16 @@
           "answerDate": "2025-09-23",
           "helpfulVotes": 137
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335976058",
@@ -1579,7 +1793,16 @@
           "answerDate": "2025-06-07",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "QUICKJACK",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "319497124",
@@ -1654,7 +1877,16 @@
           "answerDate": "2025-03-07",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "QUICKJACK",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325002915",
@@ -1729,7 +1961,16 @@
           "answerDate": "2025-12-10",
           "helpfulVotes": 13
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "MAX JAX",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339510",
@@ -1804,7 +2045,15 @@
           "answerDate": "2025-08-09",
           "helpfulVotes": 31
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321886360",
@@ -1879,7 +2128,15 @@
           "answerDate": "2025-07-15",
           "helpfulVotes": 39
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Unknown",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339545",
@@ -1954,7 +2211,19 @@
           "answerDate": "2025-04-25",
           "helpfulVotes": 76
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "features": [
+          "Stackable"
+        ],
+        "brand": "IDEAL",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339546",
@@ -2029,7 +2298,16 @@
           "answerDate": "2025-03-25",
           "helpfulVotes": 34
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "IDEAL",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339524",
@@ -2104,7 +2382,16 @@
           "answerDate": "2025-11-06",
           "helpfulVotes": 143
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327329410",
@@ -2179,7 +2466,12 @@
           "answerDate": "2025-04-12",
           "helpfulVotes": 85
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BENDPAK",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327329428",
@@ -2254,7 +2546,16 @@
           "answerDate": "2025-03-26",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "BENDPAK",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314300353",
@@ -2329,7 +2630,16 @@
           "answerDate": "2025-05-07",
           "helpfulVotes": 12
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338681941",
@@ -2404,7 +2714,16 @@
           "answerDate": "2025-07-11",
           "helpfulVotes": 72
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339549",
@@ -2479,7 +2798,16 @@
           "answerDate": "2025-04-23",
           "helpfulVotes": 124
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338681937",
@@ -2554,7 +2882,15 @@
           "answerDate": "2025-12-14",
           "helpfulVotes": 138
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339488",
@@ -2629,7 +2965,16 @@
           "answerDate": "2025-12-30",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338681932",
@@ -2704,7 +3049,15 @@
           "answerDate": "2025-11-12",
           "helpfulVotes": 103
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "SKYSHALO",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314339490",
@@ -2779,7 +3132,16 @@
           "answerDate": "2025-10-25",
           "helpfulVotes": 17
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "TUXEDO",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327329415",
@@ -2854,7 +3216,16 @@
           "answerDate": "2025-07-14",
           "helpfulVotes": 119
         }
-      ]
+      ],
+      "filterAttributes": {
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "BENDPAK",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331254247",
@@ -2929,7 +3300,14 @@
           "answerDate": "2025-02-21",
           "helpfulVotes": 24
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "VECTOR",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321283942",
@@ -3004,7 +3382,14 @@
           "answerDate": "2025-06-17",
           "helpfulVotes": 93
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316426768",
@@ -3079,7 +3464,14 @@
           "answerDate": "2025-11-09",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331257401",
@@ -3154,7 +3546,14 @@
           "answerDate": "2025-01-10",
           "helpfulVotes": 146
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "VECTOR",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321283762",
@@ -3229,7 +3628,14 @@
           "answerDate": "2025-11-14",
           "helpfulVotes": 44
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "$50-$100",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324885942",
@@ -3304,7 +3710,14 @@
           "answerDate": "2025-01-10",
           "helpfulVotes": 113
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331253060",
@@ -3379,7 +3792,14 @@
           "answerDate": "2025-05-01",
           "helpfulVotes": 51
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "VECTOR",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312211515",
@@ -3454,7 +3874,17 @@
           "answerDate": "2025-05-28",
           "helpfulVotes": 116
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "Smart/WiFi Enabled"
+        ],
+        "brand": "NOCO GENIUS",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313594263",
@@ -3529,7 +3959,17 @@
           "answerDate": "2025-07-27",
           "helpfulVotes": 92
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321284005",
@@ -3604,7 +4044,14 @@
           "answerDate": "2025-10-09",
           "helpfulVotes": 41
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313594218",
@@ -3679,7 +4126,17 @@
           "answerDate": "2025-10-04",
           "helpfulVotes": 134
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307780400",
@@ -3754,7 +4211,17 @@
           "answerDate": "2025-03-22",
           "helpfulVotes": 23
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434893",
@@ -3829,7 +4296,14 @@
           "answerDate": "2025-06-18",
           "helpfulVotes": 109
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434889",
@@ -3904,7 +4378,17 @@
           "answerDate": "2025-01-24",
           "helpfulVotes": 104
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434886",
@@ -3979,7 +4463,17 @@
           "answerDate": "2025-12-07",
           "helpfulVotes": 50
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305960166",
@@ -4054,7 +4548,17 @@
           "answerDate": "2025-02-25",
           "helpfulVotes": 56
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338071787",
@@ -4129,7 +4633,17 @@
           "answerDate": "2025-10-13",
           "helpfulVotes": 21
         }
-      ]
+      ],
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "vehicleType": [
+          "Car"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315434894",
@@ -4204,70 +4718,17 @@
           "answerDate": "2025-02-05",
           "helpfulVotes": 88
         }
-      ]
-    },
-    {
-      "productId": "336574722",
-      "modelNumber": "",
-      "brand": "GE",
-      "title": "ChargePoint 240-Volt Home Flex Level 2 WiFi NEMA 14-50 Plug Electric Vehicle EV Charger CPH50-NEMA1450-L23-K",
-      "rating": {
-        "average": 0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/40c620b7-e4d4-4eab-9035-2c8b2101f6cd/svn/ev-chargers-cph50-nema1450-l23-k-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/b2fa5979-b566-44ef-94a9-a66ca820fcb6/svn/ev-chargers-cph50-nema1450-l23-k-e1_1000.jpg",
-          "https://images.thdstatic.com/productImages/8efe2d05-f201-4c66-a9af-6bac54fb94fc/svn/ev-chargers-cph50-nema1450-l23-k-40_1000.jpg",
-          "https://images.thdstatic.com/productImages/6bd506a9-39fb-4c0a-aaf9-8cdf32a91e78/svn/ev-chargers-cph50-nema1450-l23-k-a0_1000.jpg",
-          "https://images.thdstatic.com/productImages/180e3c9d-7f1c-49dd-b976-078bb4faa9f9/svn/ev-chargers-cph50-nema1450-l23-k-1d_1000.jpg",
-          "https://images.thdstatic.com/productImages/e2218c72-b835-4eb8-899a-4fba4e8e3500/svn/ev-chargers-cph50-nema1450-l23-k-66_1000.jpg",
-          "https://images.thdstatic.com/productImages/527c936c-a39b-4d90-8502-0652f07277c3/svn/ev-chargers-cph50-nema1450-l23-k-77_1000.jpg",
-          "https://images.thdstatic.com/productImages/0625ccb7-3d58-4000-8926-a3e51265192f/svn/ev-chargers-cph50-nema1450-l23-k-c3_1000.jpg",
-          "https://images.thdstatic.com/productImages/9703de60-2340-4826-8fe9-6bbc29f9fa91/svn/ev-chargers-cph50-nema1450-l23-k-4f_1000.jpg"
-        ]
-      },
-      "subcategory": "ev-chargers",
-      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
-      "specifications": {
-        "Compatibility": "Universal Fit",
-        "Material": "Premium Quality"
-      },
-      "highlights": [
-        "Meets OEM specifications",
-        "Easy installation",
-        "Quality construction",
-        "Reliable performance"
       ],
-      "warranty": "1-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Will this fit my vehicle?",
-          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
-          "askedBy": "CarOwner",
-          "answeredBy": "AutoExpert",
-          "questionDate": "2025-05-20",
-          "answerDate": "2025-05-23",
-          "helpfulVotes": 73
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this easy to install?",
-          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
-          "askedBy": "DIYMechanic",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-09-21",
-          "answerDate": "2025-09-28",
-          "helpfulVotes": 107
-        }
-      ]
+      "filterAttributes": {
+        "productType": "Battery Charger",
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Schumacher Electric",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323402170",
@@ -4323,7 +4784,12 @@
           "answerDate": "2025-05-29",
           "helpfulVotes": 28
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323402170",
@@ -4380,7 +4846,12 @@
           "answerDate": "2025-03-30",
           "helpfulVotes": 124
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323402170",
@@ -4437,6 +4908,106 @@
           "answerDate": "2025-10-29",
           "helpfulVotes": 120
         }
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "productType",
+      "name": "Product Type",
+      "type": "single",
+      "values": [
+        "Battery Charger",
+        "Jump Starter",
+        "Car Jack",
+        "Fluid",
+        "Cleaning Supply"
+      ]
+    },
+    {
+      "id": "vehicleType",
+      "name": "Vehicle Type",
+      "type": "multi",
+      "values": [
+        "Car",
+        "Truck",
+        "SUV",
+        "Motorcycle",
+        "RV"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Portable",
+        "Heavy Duty",
+        "Smart Charging",
+        "Multi-Use"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "BENDPAK",
+        "Big Red",
+        "DEWALT",
+        "GE",
+        "Husky",
+        "IDEAL",
+        "MAX JAX",
+        "NOCO GENIUS",
+        "Pennzoil",
+        "Prestone",
+        "QUICKJACK",
+        "RYOBI",
+        "Rain-X",
+        "SKYSHALO",
+        "Schumacher Electric",
+        "Shell Rotella",
+        "TUXEDO",
+        "Unknown",
+        "VECTOR"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

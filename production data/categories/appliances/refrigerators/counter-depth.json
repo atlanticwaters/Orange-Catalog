@@ -4,7 +4,7 @@
   "slug": "counter-depth",
   "path": "/categories/appliances/refrigerators/counter-depth",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.524045",
+  "lastUpdated": "2026-01-03T19:45:10.974720",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -194,7 +194,23 @@
           "answerDate": "2025-10-27",
           "helpfulVotes": 40
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "Under 15 cu. ft.",
+        "colorFinish": [
+          "White"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "Danby",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333399283",
@@ -337,7 +353,22 @@
           "answerDate": "2025-04-23",
           "helpfulVotes": 132
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "Under 15 cu. ft.",
+        "colorFinish": [
+          "White"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "Ca'Lefort",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324849975",
@@ -421,7 +452,20 @@
           "answerDate": "2025-03-30",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "15-20 cu. ft.",
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "KitchenAid",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322717415",
@@ -505,6 +549,144 @@
           "answerDate": "2025-11-03",
           "helpfulVotes": 105
         }
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "20-25 cu. ft.",
+        "colorFinish": [
+          "Stainless Steel"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "Internal Water"
+        ],
+        "features": [
+          "ENERGY STAR"
+        ],
+        "brand": "Frigidaire",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "installationDepth",
+      "name": "Installation Depth",
+      "type": "single",
+      "values": [
+        "Counter-Depth",
+        "Standard Depth"
+      ]
+    },
+    {
+      "id": "refrigeratorFitWidth",
+      "name": "Refrigerator Fit Width",
+      "type": "single",
+      "values": [
+        "30 in.",
+        "33 in.",
+        "36 in."
+      ]
+    },
+    {
+      "id": "capacity",
+      "name": "Total Capacity",
+      "type": "range",
+      "values": [
+        "Under 15 cu. ft.",
+        "15-20 cu. ft.",
+        "20-25 cu. ft.",
+        "25-30 cu. ft.",
+        "Over 30 cu. ft."
+      ]
+    },
+    {
+      "id": "colorFinish",
+      "name": "Color/Finish",
+      "type": "multi",
+      "values": [
+        "Stainless Steel",
+        "Black Stainless",
+        "Fingerprint Resistant",
+        "White",
+        "Black",
+        "Slate"
+      ]
+    },
+    {
+      "id": "iceMaker",
+      "name": "Ice Maker",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "dispenserType",
+      "name": "Dispenser Type",
+      "type": "multi",
+      "values": [
+        "External Ice/Water",
+        "Internal Water",
+        "No Dispenser"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "ENERGY STAR",
+        "Smart/WiFi Enabled",
+        "Fingerprint Resistant",
+        "Door-in-Door"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Ca'Lefort",
+        "Danby",
+        "Frigidaire",
+        "KitchenAid"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

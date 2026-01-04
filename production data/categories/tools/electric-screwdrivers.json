@@ -21,7 +21,92 @@
       "url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills-Electric-Screwdrivers/N-5yc1vZcjnx"
     }
   ],
-  "filters": [],
+  "filters": [
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded",
+        "Pneumatic"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX",
+        "40V",
+        "60V"
+      ]
+    },
+    {
+      "id": "batteryIncluded",
+      "name": "Battery Included",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No (Tool Only)"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Makita",
+        "RYOBI",
+        "WEN"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
+      ]
+    }
+  ],
   "quickFilters": [],
   "featuredBrands": [],
   "heroImage": "../images/heroes/12.avif",
@@ -400,8 +485,89 @@
     "categoryFolder": "Electric Screwdrivers"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.414972",
+  "lastUpdated": "2026-01-03T19:45:11.236330",
   "products": [
+    {
+      "productId": "320013974",
+      "modelNumber": "XSF03TXSF03TXRM",
+      "brand": "Makita",
+      "title": "Makita 18V 5.0Ah LXT Brushless Drywall Screwdriver Kit and 18V LXT Drywall Screwdriver Kit w/ Bluetooth Job Site Speaker XSF03TXSF03TXRM",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_1000.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/827e8cec-59f9-4159-a991-5ebd5b5c2558/svn/makita-electric-screwdrivers-xsf03txsf03txrm-e1_1000.jpg",
+          "https://images.thdstatic.com/productImages/9a693fa5-2306-49e9-b794-87b4bf49a6ea/svn/makita-electric-screwdrivers-xsf03txsf03txrm-77_1000.jpg",
+          "https://images.thdstatic.com/productImages/e0a3d66a-042a-49a1-bd61-dba343f816e0/svn/makita-electric-screwdrivers-xsf03txsf03txrm-c3_1000.jpg",
+          "https://images.thdstatic.com/productImages/194e32b8-f6e0-4ce9-b904-c190f56d4b98/svn/makita-electric-screwdrivers-xsf03txsf03txrm-4f_1000.jpg",
+          "https://images.thdstatic.com/productImages/2d3db6e4-e20b-4ba2-a1c6-21e07f60071b/svn/makita-electric-screwdrivers-xsf03txsf03txrm-1f_1000.jpg",
+          "https://images.thdstatic.com/productImages/2ef2d142-0e69-4f7b-a71e-4b583e708b93/svn/makita-electric-screwdrivers-xsf03txsf03txrm-44_1000.jpg",
+          "https://images.thdstatic.com/productImages/9da63189-542f-4185-9eb2-95e08f84f465/svn/makita-electric-screwdrivers-xsf03txsf03txrm-fa_1000.jpg",
+          "https://images.thdstatic.com/productImages/35406b26-fd74-4f5c-b124-10388321c2ef/svn/makita-electric-screwdrivers-xsf03txsf03txrm-76_1000.jpg",
+          "https://images.thdstatic.com/productImages/82856a23-ca1d-4c29-b7a8-668f517535ed/svn/makita-electric-screwdrivers-xsf03txsf03txrm-d4_1000.jpg",
+          "https://images.thdstatic.com/productImages/b765d8d5-0c31-476a-b53d-faff17d74246/svn/makita-electric-screwdrivers-xsf03txsf03txrm-31_1000.jpg"
+        ]
+      },
+      "subcategory": "electric-screwdrivers",
+      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
+      "specifications": {
+        "Power Source": "Cordless",
+        "Voltage": "20V MAX",
+        "Battery Included": "Yes",
+        "Charger Included": "Yes",
+        "Weight": "4.0 lbs"
+      },
+      "highlights": [
+        "Professional-grade performance",
+        "Durable construction for jobsite use",
+        "Ergonomic design reduces fatigue",
+        "LED work light for visibility"
+      ],
+      "warranty": "3-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this come with a battery and charger?",
+          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
+          "askedBy": "DIYDan",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-25",
+          "answerDate": "2025-12-01",
+          "helpfulVotes": 124
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this compatible with my existing batteries?",
+          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
+          "askedBy": "HomeOwner123",
+          "answeredBy": "ToolPro",
+          "questionDate": "2025-12-02",
+          "answerDate": "2025-12-04",
+          "helpfulVotes": 25
+        }
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor",
+          "Bluetooth"
+        ],
+        "brand": "Makita",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    },
     {
       "productId": "333254566",
       "modelNumber": "FVCH01-FVB03",
@@ -477,7 +643,16 @@
           "answerDate": "2025-08-16",
           "helpfulVotes": 115
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303355547",
@@ -560,75 +735,16 @@
           "answerDate": "2025-11-14",
           "helpfulVotes": 111
         }
-      ]
-    },
-    {
-      "productId": "320013974",
-      "modelNumber": "XSF03TXSF03TXRM",
-      "brand": "Makita",
-      "title": "Makita 18V 5.0Ah LXT Brushless Drywall Screwdriver Kit and 18V LXT Drywall Screwdriver Kit w/ Bluetooth Job Site Speaker XSF03TXSF03TXRM",
-      "rating": {
-        "average": 0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_1000.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/15166336-46b8-47ad-8d8b-26d6c8d3f922/svn/makita-electric-screwdrivers-xsf03txsf03txrm-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/827e8cec-59f9-4159-a991-5ebd5b5c2558/svn/makita-electric-screwdrivers-xsf03txsf03txrm-e1_1000.jpg",
-          "https://images.thdstatic.com/productImages/9a693fa5-2306-49e9-b794-87b4bf49a6ea/svn/makita-electric-screwdrivers-xsf03txsf03txrm-77_1000.jpg",
-          "https://images.thdstatic.com/productImages/e0a3d66a-042a-49a1-bd61-dba343f816e0/svn/makita-electric-screwdrivers-xsf03txsf03txrm-c3_1000.jpg",
-          "https://images.thdstatic.com/productImages/194e32b8-f6e0-4ce9-b904-c190f56d4b98/svn/makita-electric-screwdrivers-xsf03txsf03txrm-4f_1000.jpg",
-          "https://images.thdstatic.com/productImages/2d3db6e4-e20b-4ba2-a1c6-21e07f60071b/svn/makita-electric-screwdrivers-xsf03txsf03txrm-1f_1000.jpg",
-          "https://images.thdstatic.com/productImages/2ef2d142-0e69-4f7b-a71e-4b583e708b93/svn/makita-electric-screwdrivers-xsf03txsf03txrm-44_1000.jpg",
-          "https://images.thdstatic.com/productImages/9da63189-542f-4185-9eb2-95e08f84f465/svn/makita-electric-screwdrivers-xsf03txsf03txrm-fa_1000.jpg",
-          "https://images.thdstatic.com/productImages/35406b26-fd74-4f5c-b124-10388321c2ef/svn/makita-electric-screwdrivers-xsf03txsf03txrm-76_1000.jpg",
-          "https://images.thdstatic.com/productImages/82856a23-ca1d-4c29-b7a8-668f517535ed/svn/makita-electric-screwdrivers-xsf03txsf03txrm-d4_1000.jpg",
-          "https://images.thdstatic.com/productImages/b765d8d5-0c31-476a-b53d-faff17d74246/svn/makita-electric-screwdrivers-xsf03txsf03txrm-31_1000.jpg"
-        ]
-      },
-      "subcategory": "electric-screwdrivers",
-      "description": "Professional-grade power tool designed for demanding applications. Features durable construction and ergonomic design for comfortable extended use. Backed by industry-leading warranty and service.",
-      "specifications": {
-        "Power Source": "Cordless",
-        "Voltage": "20V MAX",
-        "Battery Included": "Yes",
-        "Charger Included": "Yes",
-        "Weight": "4.0 lbs"
-      },
-      "highlights": [
-        "Professional-grade performance",
-        "Durable construction for jobsite use",
-        "Ergonomic design reduces fatigue",
-        "LED work light for visibility"
       ],
-      "warranty": "3-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Does this come with a battery and charger?",
-          "answer": "This depends on the specific kit you purchase. The 'tool only' version does not include a battery or charger. The kit version includes both. Please check the product title for details.",
-          "askedBy": "DIYDan",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-11-25",
-          "answerDate": "2025-12-01",
-          "helpfulVotes": 124
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this compatible with my existing batteries?",
-          "answer": "Yes, this tool is compatible with all batteries from the same voltage platform. For example, all 20V MAX batteries work with all 20V MAX tools from the same brand.",
-          "askedBy": "HomeOwner123",
-          "answeredBy": "ToolPro",
-          "questionDate": "2025-12-02",
-          "answerDate": "2025-12-04",
-          "helpfulVotes": 25
-        }
-      ]
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "brand": "WEN",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     }
   ]
 }

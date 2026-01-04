@@ -4,7 +4,7 @@
   "slug": "garage",
   "path": "/categories/garage",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.398164",
+  "lastUpdated": "2026-01-03T19:45:11.138475",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -166,7 +166,13 @@
           "answerDate": "2025-01-10",
           "helpfulVotes": 54
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339352621",
@@ -243,7 +249,13 @@
           "answerDate": "2025-04-08",
           "helpfulVotes": 145
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204820743",
@@ -330,7 +342,13 @@
           "answerDate": "2025-04-22",
           "helpfulVotes": 119
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303420003",
@@ -417,7 +435,13 @@
           "answerDate": "2025-03-20",
           "helpfulVotes": 110
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330786027",
@@ -494,7 +518,13 @@
           "answerDate": "2025-04-24",
           "helpfulVotes": 36
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303419970",
@@ -581,7 +611,13 @@
           "answerDate": "2025-01-20",
           "helpfulVotes": 87
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303270844",
@@ -668,7 +704,13 @@
           "answerDate": "2025-01-28",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330572846",
@@ -755,7 +797,13 @@
           "answerDate": "2025-07-07",
           "helpfulVotes": 88
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VEVOR",
+        "priceRange": "$50-$100",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331520587",
@@ -842,7 +890,13 @@
           "answerDate": "2025-06-03",
           "helpfulVotes": 65
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "MotorDeck",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330593846",
@@ -929,7 +983,13 @@
           "answerDate": "2025-02-17",
           "helpfulVotes": 129
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "VEVOR",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202689303",
@@ -1006,7 +1066,15 @@
           "answerDate": "2025-06-29",
           "helpfulVotes": 104
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Best Barns",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202689279",
@@ -1093,7 +1161,16 @@
           "answerDate": "2025-08-18",
           "helpfulVotes": 77
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Best Barns",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206292645",
@@ -1180,7 +1257,16 @@
           "answerDate": "2025-05-29",
           "helpfulVotes": 75
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "ShelterLogic",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "207109224",
@@ -1267,7 +1353,15 @@
           "answerDate": "2025-03-28",
           "helpfulVotes": 66
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "HANSEN BUILDINGS LLC",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308800274",
@@ -1354,7 +1448,13 @@
           "answerDate": "2025-12-13",
           "helpfulVotes": 60
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "Under $50",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107168",
@@ -1431,7 +1531,13 @@
           "answerDate": "2025-05-07",
           "helpfulVotes": 139
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107181",
@@ -1518,7 +1624,13 @@
           "answerDate": "2025-06-30",
           "helpfulVotes": 88
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "301068197",
@@ -1605,7 +1717,13 @@
           "answerDate": "2025-12-26",
           "helpfulVotes": 110
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum",
+        "priceRange": "$50-$100",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107317",
@@ -1692,7 +1810,13 @@
           "answerDate": "2025-02-27",
           "helpfulVotes": 22
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107167",
@@ -1769,7 +1893,13 @@
           "answerDate": "2025-04-03",
           "helpfulVotes": 95
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308800271",
@@ -1856,7 +1986,13 @@
           "answerDate": "2025-05-05",
           "helpfulVotes": 57
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325295894",
@@ -1933,7 +2069,13 @@
           "answerDate": "2025-05-08",
           "helpfulVotes": 96
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum RockSolid",
+        "priceRange": "$250-$500",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308800270",
@@ -2020,7 +2162,13 @@
           "answerDate": "2025-10-21",
           "helpfulVotes": 94
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321712851",
@@ -2097,7 +2245,13 @@
           "answerDate": "2025-10-25",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum RockSolid",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314107171",
@@ -2174,7 +2328,13 @@
           "answerDate": "2025-05-27",
           "helpfulVotes": 150
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum EpoxyShield",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325295896",
@@ -2251,7 +2411,13 @@
           "answerDate": "2025-06-29",
           "helpfulVotes": 10
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Rust-Oleum RockSolid",
+        "priceRange": "$250-$500",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325063871",
@@ -2328,7 +2494,13 @@
           "answerDate": "2025-10-10",
           "helpfulVotes": 114
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ARMORPOXY",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326825845",
@@ -2415,7 +2587,13 @@
           "answerDate": "2025-10-25",
           "helpfulVotes": 69
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ARMORPOXY",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308921349",
@@ -2502,7 +2680,13 @@
           "answerDate": "2025-06-07",
           "helpfulVotes": 121
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "BEHR PREMIUM",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326116168",
@@ -2579,7 +2763,13 @@
           "answerDate": "2025-11-16",
           "helpfulVotes": 40
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ARMORPOXY",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316307827",
@@ -2656,7 +2846,13 @@
           "answerDate": "2025-02-04",
           "helpfulVotes": 75
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322246530",
@@ -2743,7 +2939,13 @@
           "answerDate": "2025-09-13",
           "helpfulVotes": 39
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315283727",
@@ -2830,7 +3032,13 @@
           "answerDate": "2025-12-19",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Genie",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336430734",
@@ -2917,7 +3125,13 @@
           "answerDate": "2025-05-22",
           "helpfulVotes": 50
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336430699",
@@ -3004,7 +3218,13 @@
           "answerDate": "2025-03-30",
           "helpfulVotes": 143
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336430744",
@@ -3091,7 +3311,13 @@
           "answerDate": "2025-04-24",
           "helpfulVotes": 117
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315283735",
@@ -3168,7 +3394,13 @@
           "answerDate": "2025-12-28",
           "helpfulVotes": 37
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Genie",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337215866",
@@ -3245,7 +3477,13 @@
           "answerDate": "2025-08-10",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325675581",
@@ -3332,7 +3570,13 @@
           "answerDate": "2025-02-13",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337215867",
@@ -3419,7 +3663,13 @@
           "answerDate": "2025-06-28",
           "helpfulVotes": 127
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338102784",
@@ -3506,7 +3756,13 @@
           "answerDate": "2025-12-01",
           "helpfulVotes": 98
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Unknown",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "301767884",
@@ -3593,7 +3849,13 @@
           "answerDate": "2025-01-14",
           "helpfulVotes": 100
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Genie",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313616246",
@@ -3670,7 +3932,13 @@
           "answerDate": "2025-12-10",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Genie",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336430711",
@@ -3757,7 +4025,13 @@
           "answerDate": "2025-09-06",
           "helpfulVotes": 137
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Chamberlain",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332381033",
@@ -3844,7 +4118,13 @@
           "answerDate": "2025-10-10",
           "helpfulVotes": 117
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Genie",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202532761",
@@ -3931,7 +4211,13 @@
           "answerDate": "2025-10-23",
           "helpfulVotes": 51
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Blaster",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100569764",
@@ -4018,7 +4304,16 @@
           "answerDate": "2025-07-17",
           "helpfulVotes": 123
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100583913",
@@ -4095,7 +4390,16 @@
           "answerDate": "2025-08-25",
           "helpfulVotes": 95
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100024403",
@@ -4182,7 +4486,17 @@
           "answerDate": "2025-06-19",
           "helpfulVotes": 66
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "assemblyRequired": "No",
+        "brand": "Clopay",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100045413",
@@ -4269,7 +4583,17 @@
           "answerDate": "2025-05-30",
           "helpfulVotes": 95
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "assemblyRequired": "No",
+        "brand": "Clopay",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204598379",
@@ -4346,7 +4670,17 @@
           "answerDate": "2025-01-22",
           "helpfulVotes": 132
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "assemblyRequired": "No",
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100587029",
@@ -4423,7 +4757,16 @@
           "answerDate": "2025-11-27",
           "helpfulVotes": 63
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304751505",
@@ -4500,7 +4843,16 @@
           "answerDate": "2025-05-17",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204598371",
@@ -4587,7 +4939,17 @@
           "answerDate": "2025-09-06",
           "helpfulVotes": 104
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "assemblyRequired": "No",
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333647411",
@@ -4674,7 +5036,14 @@
           "answerDate": "2025-03-07",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "assemblyRequired": "No",
+        "brand": "Clopay",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336672329",
@@ -4761,7 +5130,17 @@
           "answerDate": "2026-01-01",
           "helpfulVotes": 84
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood",
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "2 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206703010",
@@ -4848,7 +5227,13 @@
           "answerDate": "2025-07-24",
           "helpfulVotes": 113
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Clopay",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304732642",
@@ -4935,7 +5320,16 @@
           "answerDate": "2025-02-18",
           "helpfulVotes": 84
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332885191",
@@ -5022,7 +5416,16 @@
           "answerDate": "2025-11-27",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333516307",
@@ -5109,7 +5512,16 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 133
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324875016",
@@ -5196,7 +5608,13 @@
           "answerDate": "2025-12-25",
           "helpfulVotes": 86
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Clopay",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333882209",
@@ -5273,7 +5691,17 @@
           "answerDate": "2025-07-04",
           "helpfulVotes": 144
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "319132842",
@@ -5360,7 +5788,17 @@
           "answerDate": "2025-03-22",
           "helpfulVotes": 10
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328789870",
@@ -5437,7 +5875,17 @@
           "answerDate": "2025-02-16",
           "helpfulVotes": 72
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338102831",
@@ -5524,7 +5972,14 @@
           "answerDate": "2025-03-26",
           "helpfulVotes": 128
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "brand": "Unknown",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322631796",
@@ -5601,7 +6056,14 @@
           "answerDate": "2025-06-29",
           "helpfulVotes": 144
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311742117",
@@ -5688,7 +6150,17 @@
           "answerDate": "2025-10-22",
           "helpfulVotes": 87
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331730721",
@@ -5775,7 +6247,14 @@
           "answerDate": "2025-08-27",
           "helpfulVotes": 138
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306659735",
@@ -5862,7 +6341,18 @@
           "answerDate": "2025-09-25",
           "helpfulVotes": 18
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Wood",
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307723264",
@@ -5949,7 +6439,17 @@
           "answerDate": "2025-06-05",
           "helpfulVotes": 11
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "301810799",
@@ -6036,7 +6536,17 @@
           "answerDate": "2025-03-08",
           "helpfulVotes": 81
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316330487",
@@ -6113,7 +6623,14 @@
           "answerDate": "2025-03-23",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "brand": "WEN",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605251",
@@ -6200,7 +6717,16 @@
           "answerDate": "2025-10-29",
           "helpfulVotes": 103
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306907980",
@@ -6287,7 +6813,16 @@
           "answerDate": "2025-06-12",
           "helpfulVotes": 72
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605238",
@@ -6364,7 +6899,16 @@
           "answerDate": "2025-04-05",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337674677",
@@ -6451,7 +6995,17 @@
           "answerDate": "2025-07-01",
           "helpfulVotes": 138
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337358176",
@@ -6538,7 +7092,17 @@
           "answerDate": "2025-08-14",
           "helpfulVotes": 44
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605248",
@@ -6625,7 +7189,16 @@
           "answerDate": "2025-11-09",
           "helpfulVotes": 27
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317133079",
@@ -6702,7 +7275,16 @@
           "answerDate": "2025-06-22",
           "helpfulVotes": 78
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335659319",
@@ -6789,7 +7371,17 @@
           "answerDate": "2025-02-19",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood",
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317133426",
@@ -6876,7 +7468,16 @@
           "answerDate": "2025-04-05",
           "helpfulVotes": 124
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306907993",
@@ -6953,7 +7554,16 @@
           "answerDate": "2025-10-31",
           "helpfulVotes": 40
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311336544",
@@ -7030,7 +7640,16 @@
           "answerDate": "2025-10-08",
           "helpfulVotes": 139
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Prepac",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605257",
@@ -7117,7 +7736,16 @@
           "answerDate": "2025-07-21",
           "helpfulVotes": 133
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306907992",
@@ -7204,7 +7832,16 @@
           "answerDate": "2025-02-28",
           "helpfulVotes": 109
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605254",
@@ -7281,7 +7918,16 @@
           "answerDate": "2025-05-01",
           "helpfulVotes": 34
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205395107",
@@ -7368,7 +8014,13 @@
           "answerDate": "2025-10-27",
           "helpfulVotes": 106
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Prepac",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605235",
@@ -7455,7 +8107,16 @@
           "answerDate": "2025-04-23",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605246",
@@ -7542,7 +8203,16 @@
           "answerDate": "2025-04-05",
           "helpfulVotes": 47
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306605242",
@@ -7629,7 +8299,16 @@
           "answerDate": "2025-09-04",
           "helpfulVotes": 114
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324640217",
@@ -7706,7 +8385,14 @@
           "answerDate": "2025-11-30",
           "helpfulVotes": 28
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333936177",
@@ -7783,7 +8469,17 @@
           "answerDate": "2026-01-01",
           "helpfulVotes": 77
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335983234",
@@ -7870,7 +8566,17 @@
           "answerDate": "2025-06-15",
           "helpfulVotes": 6
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314128004",
@@ -7957,7 +8663,17 @@
           "answerDate": "2025-09-11",
           "helpfulVotes": 71
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334453642",
@@ -8034,7 +8750,17 @@
           "answerDate": "2025-11-14",
           "helpfulVotes": 137
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "302255876",
@@ -8111,7 +8837,17 @@
           "answerDate": "2025-04-19",
           "helpfulVotes": 107
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317006776",
@@ -8198,7 +8934,14 @@
           "answerDate": "2025-05-22",
           "helpfulVotes": 119
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322631798",
@@ -8285,7 +9028,14 @@
           "answerDate": "2025-10-29",
           "helpfulVotes": 135
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305410517",
@@ -8362,7 +9112,17 @@
           "answerDate": "2025-10-06",
           "helpfulVotes": 105
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321449465",
@@ -8439,7 +9199,14 @@
           "answerDate": "2025-09-06",
           "helpfulVotes": 38
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304094257",
@@ -8526,7 +9293,14 @@
           "answerDate": "2025-03-24",
           "helpfulVotes": 115
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "brand": "Milwaukee",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321449464",
@@ -8603,7 +9377,17 @@
           "answerDate": "2025-05-13",
           "helpfulVotes": 74
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317060709",
@@ -8690,7 +9474,17 @@
           "answerDate": "2025-06-28",
           "helpfulVotes": 144
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316253069",
@@ -8777,7 +9571,17 @@
           "answerDate": "2025-12-19",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Unknown",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322631799",
@@ -8864,7 +9668,14 @@
           "answerDate": "2025-06-24",
           "helpfulVotes": 12
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333850203",
@@ -8951,7 +9762,17 @@
           "answerDate": "2025-06-25",
           "helpfulVotes": 109
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304079110",
@@ -9038,7 +9859,17 @@
           "answerDate": "2025-01-20",
           "helpfulVotes": 84
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333936182",
@@ -9115,7 +9946,17 @@
           "answerDate": "2025-08-24",
           "helpfulVotes": 88
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329899702",
@@ -9202,7 +10043,17 @@
           "answerDate": "2025-06-22",
           "helpfulVotes": 88
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326917476",
@@ -9289,7 +10140,13 @@
           "answerDate": "2025-03-05",
           "helpfulVotes": 87
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322034340",
@@ -9366,7 +10223,13 @@
           "answerDate": "2025-07-26",
           "helpfulVotes": 117
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "319594785",
@@ -9453,7 +10316,13 @@
           "answerDate": "2025-12-05",
           "helpfulVotes": 117
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334615276",
@@ -9540,7 +10409,13 @@
           "answerDate": "2025-11-21",
           "helpfulVotes": 26
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326825858",
@@ -9627,7 +10502,13 @@
           "answerDate": "2025-03-25",
           "helpfulVotes": 150
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "340327807",
@@ -9714,7 +10595,14 @@
           "answerDate": "2025-11-27",
           "helpfulVotes": 104
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313765820",
@@ -9801,7 +10689,14 @@
           "answerDate": "2025-02-16",
           "helpfulVotes": 89
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317342128",
@@ -9878,7 +10773,13 @@
           "answerDate": "2025-01-11",
           "helpfulVotes": 82
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331010111",
@@ -9955,7 +10856,17 @@
           "answerDate": "2025-09-03",
           "helpfulVotes": 10
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Workbench",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326826687",
@@ -10032,7 +10943,13 @@
           "answerDate": "2025-04-21",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326917512",
@@ -10119,7 +11036,13 @@
           "answerDate": "2025-05-30",
           "helpfulVotes": 39
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333346632",
@@ -10196,7 +11119,13 @@
           "answerDate": "2025-01-20",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336473485",
@@ -10283,7 +11212,16 @@
           "answerDate": "2025-06-01",
           "helpfulVotes": 8
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336473467",
@@ -10360,7 +11298,16 @@
           "answerDate": "2025-05-05",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326980093",
@@ -10437,7 +11384,13 @@
           "answerDate": "2025-09-03",
           "helpfulVotes": 46
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331592328",
@@ -10524,7 +11477,14 @@
           "answerDate": "2025-05-11",
           "helpfulVotes": 85
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "brand": "DEWALT",
+        "priceRange": "Over $1000",
+        "rating": "2 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334408609",
@@ -10601,7 +11561,13 @@
           "answerDate": "2025-09-19",
           "helpfulVotes": 136
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206288227",
@@ -10688,7 +11654,17 @@
           "answerDate": "2025-08-19",
           "helpfulVotes": 100
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "340327299",
@@ -10761,7 +11737,17 @@
           "answerDate": "2025-12-10",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Plastic"
+        ],
+        "brand": "Unknown",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338102830",
@@ -10848,7 +11834,17 @@
           "answerDate": "2025-06-16",
           "helpfulVotes": 36
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Unknown",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338102824",
@@ -10935,7 +11931,17 @@
           "answerDate": "2025-11-11",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325038052",
@@ -11022,7 +12028,17 @@
           "answerDate": "2025-09-20",
           "helpfulVotes": 91
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Mlezan",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338102819",
@@ -11109,7 +12125,17 @@
           "answerDate": "2025-01-24",
           "helpfulVotes": 98
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204597567",
@@ -11196,7 +12222,17 @@
           "answerDate": "2025-06-27",
           "helpfulVotes": 84
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$500-$1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324289666",
@@ -11283,7 +12319,17 @@
           "answerDate": "2025-11-24",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Mlezan",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324304592",
@@ -11370,7 +12416,17 @@
           "answerDate": "2025-08-23",
           "helpfulVotes": 121
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Kaikeeqli",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203055484",
@@ -11447,7 +12503,17 @@
           "answerDate": "2025-02-13",
           "helpfulVotes": 6
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Wood"
+        ],
+        "brand": "Prepac",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "320621888",
@@ -11524,7 +12590,17 @@
           "answerDate": "2025-04-15",
           "helpfulVotes": 96
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Cabinet",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Kaikeeqli",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "317039231",
@@ -11601,7 +12677,13 @@
           "answerDate": "2025-03-14",
           "helpfulVotes": 63
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312504580",
@@ -11688,7 +12770,16 @@
           "answerDate": "2025-01-08",
           "helpfulVotes": 142
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Arrow",
+        "priceRange": "Over $1000",
+        "rating": "2 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327127576",
@@ -11775,7 +12866,15 @@
           "answerDate": "2025-10-08",
           "helpfulVotes": 46
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Unknown",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327127412",
@@ -11852,7 +12951,15 @@
           "answerDate": "2025-05-17",
           "helpfulVotes": 78
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Wood"
+        ],
+        "brand": "Unknown",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "340182473",
@@ -11929,7 +13036,12 @@
           "answerDate": "2025-04-08",
           "helpfulVotes": 121
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "HumblePleb",
+        "priceRange": "$250-$500",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305553565",
@@ -12016,7 +13128,17 @@
           "answerDate": "2025-12-15",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Muscle Rack",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "306331734",
@@ -12103,7 +13225,17 @@
           "answerDate": "2025-02-09",
           "helpfulVotes": 79
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Plastic"
+        ],
+        "brand": "HDX",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333882212",
@@ -12190,7 +13322,17 @@
           "answerDate": "2025-10-27",
           "helpfulVotes": 40
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333032981",
@@ -12267,7 +13409,16 @@
           "answerDate": "2025-08-02",
           "helpfulVotes": 75
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "HDX",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100006678",
@@ -12354,7 +13505,17 @@
           "answerDate": "2025-07-19",
           "helpfulVotes": 50
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Shelving",
+        "material": [
+          "Plastic"
+        ],
+        "brand": "HDX",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305858888",
@@ -12441,7 +13602,17 @@
           "answerDate": "2025-07-04",
           "helpfulVotes": 33
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325765293",
@@ -12528,7 +13699,17 @@
           "answerDate": "2025-04-05",
           "helpfulVotes": 127
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Muscle Rack",
+        "priceRange": "$50-$100",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331558887",
@@ -12615,7 +13796,14 @@
           "answerDate": "2025-07-06",
           "helpfulVotes": 55
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "FLEXIMOUNTS",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331460555",
@@ -12702,7 +13890,14 @@
           "answerDate": "2025-04-17",
           "helpfulVotes": 66
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "FLEXIMOUNTS",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205003289",
@@ -12789,7 +13984,17 @@
           "answerDate": "2025-02-14",
           "helpfulVotes": 126
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "material": [
+          "Metal"
+        ],
+        "brand": "NewAge Products",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303493157",
@@ -12876,7 +14081,17 @@
           "answerDate": "2025-03-17",
           "helpfulVotes": 73
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311903668",
@@ -12963,7 +14178,14 @@
           "answerDate": "2025-06-11",
           "helpfulVotes": 25
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "Gladiator",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "311901450",
@@ -13040,7 +14262,17 @@
           "answerDate": "2025-01-16",
           "helpfulVotes": 49
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "material": [
+          "Metal"
+        ],
+        "brand": "Husky",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332734923",
@@ -13127,7 +14359,14 @@
           "answerDate": "2025-10-10",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "FLEXIMOUNTS",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325821503",
@@ -13214,7 +14453,13 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 83
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "KOOVA",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332571715",
@@ -13301,7 +14546,13 @@
           "answerDate": "2025-01-20",
           "helpfulVotes": 134
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "FLEXIMOUNTS",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332766670",
@@ -13378,7 +14629,17 @@
           "answerDate": "2025-09-22",
           "helpfulVotes": 24
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "material": [
+          "Metal"
+        ],
+        "brand": "FLEXIMOUNTS",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332626028",
@@ -13465,7 +14726,14 @@
           "answerDate": "2025-10-07",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "FLEXIMOUNTS",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312453397",
@@ -13552,7 +14820,14 @@
           "answerDate": "2025-09-02",
           "helpfulVotes": 148
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "Gladiator",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312453492",
@@ -13639,7 +14914,14 @@
           "answerDate": "2025-01-24",
           "helpfulVotes": 139
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "Gladiator",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337576905",
@@ -13716,7 +14998,13 @@
           "answerDate": "2025-09-05",
           "helpfulVotes": 103
         }
-      ]
+      ],
+      "filterAttributes": {
+        "storageType": "Overhead",
+        "brand": "FLEXIMOUNTS",
+        "priceRange": "$50-$100",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202477933",
@@ -13803,7 +15091,16 @@
           "answerDate": "2025-02-18",
           "helpfulVotes": 43
         }
-      ]
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Wall Control",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "310288455",
@@ -13880,7 +15177,13 @@
           "answerDate": "2025-03-23",
           "helpfulVotes": 37
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Only Hangers",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205196090",
@@ -13967,7 +15270,13 @@
           "answerDate": "2025-01-12",
           "helpfulVotes": 132
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Triton Products",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206728769",
@@ -14054,6 +15363,133 @@
           "answerDate": "2025-04-28",
           "helpfulVotes": 80
         }
+      ],
+      "filterAttributes": {
+        "material": [
+          "Metal"
+        ],
+        "brand": "Triton Products",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "storageType",
+      "name": "Storage Type",
+      "type": "single",
+      "values": [
+        "Shelving",
+        "Cabinet",
+        "Workbench",
+        "Wall Organization",
+        "Overhead"
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "type": "single",
+      "values": [
+        "Steel",
+        "Wood",
+        "Plastic",
+        "Wire"
+      ]
+    },
+    {
+      "id": "weightCapacity",
+      "name": "Weight Capacity",
+      "type": "range",
+      "values": [
+        "Under 100 lbs",
+        "100-250 lbs",
+        "250-500 lbs",
+        "Over 500 lbs"
+      ]
+    },
+    {
+      "id": "assemblyRequired",
+      "name": "Assembly Required",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "ARMORPOXY",
+        "Arrow",
+        "BEHR PREMIUM",
+        "Best Barns",
+        "Blaster",
+        "Chamberlain",
+        "Clopay",
+        "DEWALT",
+        "FLEXIMOUNTS",
+        "Genie",
+        "Gladiator",
+        "HANSEN BUILDINGS LLC",
+        "HDX",
+        "HumblePleb",
+        "Husky",
+        "KOOVA",
+        "Kaikeeqli",
+        "Milwaukee",
+        "Mlezan",
+        "MotorDeck",
+        "Muscle Rack",
+        "NewAge Products",
+        "Only Hangers",
+        "Prepac",
+        "RYOBI",
+        "Rust-Oleum",
+        "Rust-Oleum EpoxyShield",
+        "Rust-Oleum RockSolid",
+        "ShelterLogic",
+        "Triton Products",
+        "Unknown",
+        "VEVOR",
+        "WEN",
+        "Wall Control"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

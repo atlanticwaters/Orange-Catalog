@@ -4,7 +4,7 @@
   "slug": "bedding",
   "path": "/categories/home-decor/bedding",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.473070",
+  "lastUpdated": "2026-01-03T19:45:11.154955",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -143,7 +143,13 @@
           "answerDate": "2025-09-24",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Unknown",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338513533",
@@ -225,7 +231,13 @@
           "answerDate": "2025-04-18",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Madison Park",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318151532",
@@ -307,7 +319,13 @@
           "answerDate": "2025-07-13",
           "helpfulVotes": 64
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Martha Stewart Living",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325355510",
@@ -399,7 +417,13 @@
           "answerDate": "2025-04-25",
           "helpfulVotes": 113
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Laura Ashley",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334516315",
@@ -471,7 +495,13 @@
           "answerDate": "2025-02-22",
           "helpfulVotes": 117
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Nautica",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333058260",
@@ -543,7 +573,16 @@
           "answerDate": "2025-08-31",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "colorFamily": [
+          "Green"
+        ],
+        "brand": "CANNON",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337227289",
@@ -625,7 +664,16 @@
           "answerDate": "2025-10-27",
           "helpfulVotes": 7
         }
-      ]
+      ],
+      "filterAttributes": {
+        "colorFamily": [
+          "Red"
+        ],
+        "brand": "Madison Park",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "325998471",
@@ -707,7 +755,13 @@
           "answerDate": "2025-01-17",
           "helpfulVotes": 136
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Home Decorators Collection",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332301502",
@@ -779,7 +833,13 @@
           "answerDate": "2025-11-16",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Eddie Bauer",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326591793",
@@ -871,6 +931,110 @@
           "answerDate": "2025-06-08",
           "helpfulVotes": 139
         }
+      ],
+      "filterAttributes": {
+        "brand": "Nautica",
+        "priceRange": "$50-$100",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "decorType",
+      "name": "Decor Type",
+      "type": "single",
+      "values": [
+        "Wall Art",
+        "Mirror",
+        "Rug",
+        "Artificial Plant",
+        "Throw Pillow",
+        "Curtain"
+      ]
+    },
+    {
+      "id": "style",
+      "name": "Style",
+      "type": "multi",
+      "values": [
+        "Modern",
+        "Traditional",
+        "Bohemian",
+        "Coastal",
+        "Farmhouse"
+      ]
+    },
+    {
+      "id": "colorFamily",
+      "name": "Color Family",
+      "type": "multi",
+      "values": [
+        "Neutral",
+        "Blue",
+        "Green",
+        "Red",
+        "Gray",
+        "Multicolor"
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "type": "multi",
+      "values": [
+        "Wood",
+        "Metal",
+        "Glass",
+        "Fabric",
+        "Ceramic"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "CANNON",
+        "Eddie Bauer",
+        "Home Decorators Collection",
+        "Laura Ashley",
+        "Madison Park",
+        "Martha Stewart Living",
+        "Nautica",
+        "Unknown"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

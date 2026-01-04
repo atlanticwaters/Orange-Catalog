@@ -4,7 +4,7 @@
   "slug": "planers",
   "path": "/categories/tools/planers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.420606",
+  "lastUpdated": "2026-01-03T19:45:11.254299",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -183,7 +183,20 @@
           "answerDate": "2025-06-15",
           "helpfulVotes": 115
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203068919",
@@ -317,7 +330,17 @@
           "answerDate": "2025-07-28",
           "helpfulVotes": 70
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100634358",
@@ -451,7 +474,17 @@
           "answerDate": "2025-09-11",
           "helpfulVotes": 105
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202265685",
@@ -565,7 +598,17 @@
           "answerDate": "2025-11-30",
           "helpfulVotes": 65
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Makita",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206042019",
@@ -679,7 +722,17 @@
           "answerDate": "2025-09-14",
           "helpfulVotes": 65
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205509610",
@@ -803,7 +856,17 @@
           "answerDate": "2025-06-02",
           "helpfulVotes": 122
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "323591855",
@@ -937,7 +1000,20 @@
           "answerDate": "2025-11-08",
           "helpfulVotes": 16
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "12V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203054755",
@@ -1051,7 +1127,17 @@
           "answerDate": "2025-09-02",
           "helpfulVotes": 104
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308557507",
@@ -1185,7 +1271,17 @@
           "answerDate": "2025-03-29",
           "helpfulVotes": 54
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337641116",
@@ -1282,7 +1378,20 @@
           "answerDate": "2025-05-19",
           "helpfulVotes": 90
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Brushless Motor"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "301289964",
@@ -1406,7 +1515,17 @@
           "answerDate": "2025-08-09",
           "helpfulVotes": 126
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100634640",
@@ -1530,7 +1649,17 @@
           "answerDate": "2025-07-15",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100011483",
@@ -1654,7 +1783,17 @@
           "answerDate": "2025-12-12",
           "helpfulVotes": 67
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321574153",
@@ -1788,7 +1927,17 @@
           "answerDate": "2025-06-03",
           "helpfulVotes": 10
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Grizzly Industrial",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205561450",
@@ -1902,7 +2051,17 @@
           "answerDate": "2025-01-30",
           "helpfulVotes": 94
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "Makita",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203164088",
@@ -2033,6 +2192,105 @@
           "answerDate": "2025-11-19",
           "helpfulVotes": 34
         }
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "DEWALT",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded",
+        "Pneumatic"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX",
+        "40V",
+        "60V"
+      ]
+    },
+    {
+      "id": "batteryIncluded",
+      "name": "Battery Included",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No (Tool Only)"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "DEWALT",
+        "Grizzly Industrial",
+        "Makita",
+        "Milwaukee",
+        "RIDGID",
+        "RYOBI"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

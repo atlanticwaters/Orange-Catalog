@@ -4,7 +4,7 @@
   "slug": "freezerless",
   "path": "/categories/appliances/refrigerators/freezerless",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.496993",
+  "lastUpdated": "2026-01-03T19:45:10.975577",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -196,7 +196,26 @@
           "answerDate": "2025-12-10",
           "helpfulVotes": 36
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "33 in.",
+        "capacity": "20-25 cu. ft.",
+        "colorFinish": [
+          "White"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "features": [
+          "ENERGY STAR"
+        ],
+        "brand": "Frigidaire",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329741097",
@@ -329,7 +348,26 @@
           "answerDate": "2025-10-03",
           "helpfulVotes": 105
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "Stainless Steel"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "External Ice/Water"
+        ],
+        "features": [
+          "ENERGY STAR"
+        ],
+        "brand": "Frigidaire",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205744994",
@@ -452,7 +490,23 @@
           "answerDate": "2025-07-16",
           "helpfulVotes": 65
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "Stainless Steel"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "External Ice/Water"
+        ],
+        "brand": "Whirlpool",
+        "priceRange": "Over $1000",
+        "rating": "2 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312423329",
@@ -575,7 +629,23 @@
           "answerDate": "2025-01-18",
           "helpfulVotes": 132
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "White"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "Danby",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316536615",
@@ -698,7 +768,23 @@
           "answerDate": "2025-10-06",
           "helpfulVotes": 112
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Standard Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "Over 30 cu. ft.",
+        "colorFinish": [
+          "Stainless Steel"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "External Ice/Water"
+        ],
+        "brand": "SABA",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "303841965",
@@ -841,7 +927,23 @@
           "answerDate": "2025-10-23",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "Black"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "Gladiator",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "206891678",
@@ -984,7 +1086,23 @@
           "answerDate": "2025-07-29",
           "helpfulVotes": 114
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "White"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "Whirlpool",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315174233",
@@ -1117,7 +1235,23 @@
           "answerDate": "2025-06-07",
           "helpfulVotes": 42
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "30 in.",
+        "capacity": "15-20 cu. ft.",
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "External Ice/Water"
+        ],
+        "features": [
+          "Smart/WiFi Enabled"
+        ],
+        "brand": "Bosch",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328911465",
@@ -1240,7 +1374,20 @@
           "answerDate": "2025-09-07",
           "helpfulVotes": 53
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "30 in.",
+        "capacity": "15-20 cu. ft.",
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "Kucht",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335371260",
@@ -1363,7 +1510,24 @@
           "answerDate": "2025-09-02",
           "helpfulVotes": 38
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "30 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "Graphite Steel",
+          "Gray"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "Internal Water"
+        ],
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326514167",
@@ -1486,7 +1650,22 @@
           "answerDate": "2025-05-18",
           "helpfulVotes": 22
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "Under 15 cu. ft.",
+        "colorFinish": [
+          "Stainless Steel"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "Summit Appliance",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335371725",
@@ -1619,7 +1798,25 @@
           "answerDate": "2025-05-02",
           "helpfulVotes": 114
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "30 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "Stainless Steel",
+          "Graphite Steel",
+          "Gray"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "No Dispenser"
+        ],
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313478837",
@@ -1762,7 +1959,20 @@
           "answerDate": "2025-06-14",
           "helpfulVotes": 78
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "Under 15 cu. ft.",
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "External Ice/Water"
+        ],
+        "brand": "Danby",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316616709",
@@ -1895,7 +2105,23 @@
           "answerDate": "2025-08-29",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Standard Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "20-25 cu. ft.",
+        "colorFinish": [
+          "Stainless Steel"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "Internal Water"
+        ],
+        "brand": "SABA",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335722568",
@@ -2038,7 +2264,24 @@
           "answerDate": "2025-06-02",
           "helpfulVotes": 112
         }
-      ]
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "30 in.",
+        "capacity": "15-20 cu. ft.",
+        "colorFinish": [
+          "Black",
+          "Graphite Steel",
+          "Gray"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "External Ice/Water"
+        ],
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316803824",
@@ -2171,6 +2414,146 @@
           "answerDate": "2025-06-19",
           "helpfulVotes": 122
         }
+      ],
+      "filterAttributes": {
+        "installationDepth": "Counter-Depth",
+        "refrigeratorFitWidth": "36 in.",
+        "capacity": "Under 15 cu. ft.",
+        "colorFinish": [
+          "Black"
+        ],
+        "iceMaker": "Yes",
+        "dispenserType": [
+          "Internal Water"
+        ],
+        "brand": "Summit Appliance",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "installationDepth",
+      "name": "Installation Depth",
+      "type": "single",
+      "values": [
+        "Counter-Depth",
+        "Standard Depth"
+      ]
+    },
+    {
+      "id": "refrigeratorFitWidth",
+      "name": "Refrigerator Fit Width",
+      "type": "single",
+      "values": [
+        "30 in.",
+        "33 in.",
+        "36 in."
+      ]
+    },
+    {
+      "id": "capacity",
+      "name": "Total Capacity",
+      "type": "range",
+      "values": [
+        "Under 15 cu. ft.",
+        "15-20 cu. ft.",
+        "20-25 cu. ft.",
+        "25-30 cu. ft.",
+        "Over 30 cu. ft."
+      ]
+    },
+    {
+      "id": "colorFinish",
+      "name": "Color/Finish",
+      "type": "multi",
+      "values": [
+        "Stainless Steel",
+        "Black Stainless",
+        "Fingerprint Resistant",
+        "White",
+        "Black",
+        "Slate"
+      ]
+    },
+    {
+      "id": "iceMaker",
+      "name": "Ice Maker",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "dispenserType",
+      "name": "Dispenser Type",
+      "type": "multi",
+      "values": [
+        "External Ice/Water",
+        "Internal Water",
+        "No Dispenser"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "ENERGY STAR",
+        "Smart/WiFi Enabled",
+        "Fingerprint Resistant",
+        "Door-in-Door"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Bosch",
+        "Danby",
+        "Frigidaire",
+        "Gladiator",
+        "Kucht",
+        "SABA",
+        "Summit Appliance",
+        "Whirlpool",
+        "ZLINE Kitchen and Bath"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

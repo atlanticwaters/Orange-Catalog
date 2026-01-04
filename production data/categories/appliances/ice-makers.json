@@ -4,7 +4,7 @@
   "slug": "ice-makers",
   "path": "/categories/appliances/ice-makers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.447638",
+  "lastUpdated": "2026-01-03T19:45:10.967913",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -238,7 +238,13 @@
           "answerDate": "2025-12-17",
           "helpfulVotes": 109
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "FRIGIDAIRE GALLERY",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "331740898",
@@ -373,7 +379,13 @@
           "answerDate": "2025-07-07",
           "helpfulVotes": 138
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328877543",
@@ -518,7 +530,13 @@
           "answerDate": "2025-11-09",
           "helpfulVotes": 126
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Magic Chef",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333484523",
@@ -673,7 +691,13 @@
           "answerDate": "2025-09-15",
           "helpfulVotes": 26
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Vissani",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338976899",
@@ -818,7 +842,13 @@
           "answerDate": "2025-03-04",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "KitchenAid",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308674577",
@@ -953,7 +983,13 @@
           "answerDate": "2025-09-08",
           "helpfulVotes": 83
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "KitchenAid",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308704441",
@@ -1088,7 +1124,13 @@
           "answerDate": "2025-08-15",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Whirlpool",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337499479",
@@ -1243,7 +1285,12 @@
           "answerDate": "2025-02-28",
           "helpfulVotes": 49
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "COWSAR",
+        "priceRange": "$100-$250",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315779324",
@@ -1398,7 +1445,13 @@
           "answerDate": "2025-07-07",
           "helpfulVotes": 102
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Thor Kitchen",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "320324360",
@@ -1543,7 +1596,13 @@
           "answerDate": "2025-04-02",
           "helpfulVotes": 57
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308704353",
@@ -1698,7 +1757,13 @@
           "answerDate": "2025-02-07",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Whirlpool",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333535381",
@@ -1843,7 +1908,13 @@
           "answerDate": "2025-07-06",
           "helpfulVotes": 108
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "SIMZLIFE",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "328501726",
@@ -1988,7 +2059,13 @@
           "answerDate": "2025-08-20",
           "helpfulVotes": 28
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "COTLIN",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308703944",
@@ -2133,7 +2210,13 @@
           "answerDate": "2025-10-09",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "KitchenAid",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336320655",
@@ -2278,7 +2361,13 @@
           "answerDate": "2025-04-17",
           "helpfulVotes": 145
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "EUHOMY",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332477067",
@@ -2433,7 +2522,13 @@
           "answerDate": "2025-11-21",
           "helpfulVotes": 55
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "COWSAR",
+        "priceRange": "$250-$500",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "333535410",
@@ -2568,7 +2663,13 @@
           "answerDate": "2026-01-01",
           "helpfulVotes": 62
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "SIMZLIFE",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334736658",
@@ -2713,7 +2814,13 @@
           "answerDate": "2025-04-07",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336212327",
@@ -2848,7 +2955,13 @@
           "answerDate": "2025-03-13",
           "helpfulVotes": 30
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "COWSAR",
+        "priceRange": "$500-$1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336337079",
@@ -2993,7 +3106,13 @@
           "answerDate": "2025-07-27",
           "helpfulVotes": 140
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "EUHOMY",
+        "priceRange": "$250-$500",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334736604",
@@ -3148,7 +3267,13 @@
           "answerDate": "2025-09-12",
           "helpfulVotes": 25
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "ZLINE Kitchen and Bath",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312582884",
@@ -3303,7 +3428,13 @@
           "answerDate": "2025-12-19",
           "helpfulVotes": 39
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "EdgeStar",
+        "priceRange": "Over $1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "326504176",
@@ -3438,6 +3569,67 @@
           "answerDate": "2025-11-22",
           "helpfulVotes": 99
         }
+      ],
+      "filterAttributes": {
+        "brand": "TITTLA",
+        "priceRange": "$100-$250",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "COTLIN",
+        "COWSAR",
+        "EUHOMY",
+        "EdgeStar",
+        "FRIGIDAIRE GALLERY",
+        "GE",
+        "KitchenAid",
+        "Magic Chef",
+        "SIMZLIFE",
+        "TITTLA",
+        "Thor Kitchen",
+        "Vissani",
+        "Whirlpool",
+        "ZLINE Kitchen and Bath"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

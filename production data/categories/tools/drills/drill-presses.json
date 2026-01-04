@@ -4,7 +4,7 @@
   "slug": "drill-presses",
   "path": "/categories/tools/drills/drill-presses",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.547520",
+  "lastUpdated": "2026-01-03T19:45:11.229895",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -178,7 +178,17 @@
           "answerDate": "2025-02-01",
           "helpfulVotes": 19
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316951776",
@@ -293,7 +303,20 @@
           "answerDate": "2025-02-23",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "WEN",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204059824",
@@ -408,7 +431,17 @@
           "answerDate": "2025-02-03",
           "helpfulVotes": 133
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "60V"
+        ],
+        "brand": "Jet",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327863891",
@@ -523,7 +556,20 @@
           "answerDate": "2025-10-06",
           "helpfulVotes": 26
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Grizzly Industrial",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "205653862",
@@ -648,7 +694,20 @@
           "answerDate": "2025-06-22",
           "helpfulVotes": 123
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "LED Light"
+        ],
+        "brand": "RIDGID",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321572382",
@@ -773,7 +832,17 @@
           "answerDate": "2025-08-25",
           "helpfulVotes": 95
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "Grizzly Industrial",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338674205",
@@ -908,7 +977,19 @@
           "answerDate": "2025-05-10",
           "helpfulVotes": 59
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "features": [
+          "Smart/WiFi Enabled"
+        ],
+        "brand": "Jet",
+        "priceRange": "Over $1000",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308542212",
@@ -1043,7 +1124,17 @@
           "answerDate": "2025-09-26",
           "helpfulVotes": 130
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "60V"
+        ],
+        "brand": "Powermatic",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316951864",
@@ -1158,7 +1249,21 @@
           "answerDate": "2025-01-28",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "chuckSize": "1/2 in.",
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "WEN",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "300093749",
@@ -1293,7 +1398,20 @@
           "answerDate": "2025-12-26",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "60V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Jet",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316782983",
@@ -1408,7 +1526,17 @@
           "answerDate": "2025-03-10",
           "helpfulVotes": 32
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "WEN",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "310230027",
@@ -1533,7 +1661,17 @@
           "answerDate": "2025-07-06",
           "helpfulVotes": 32
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "brand": "Grizzly Industrial",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327863897",
@@ -1668,7 +1806,20 @@
           "answerDate": "2025-04-25",
           "helpfulVotes": 13
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "LED Light"
+        ],
+        "brand": "Grizzly Industrial",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "321572381",
@@ -1783,7 +1934,18 @@
           "answerDate": "2025-05-09",
           "helpfulVotes": 8
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Corded",
+        "voltage": [
+          "20V MAX"
+        ],
+        "chuckSize": "1/2 in.",
+        "brand": "Grizzly Industrial",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "315019361",
@@ -1898,7 +2060,20 @@
           "answerDate": "2025-08-01",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "18V"
+        ],
+        "features": [
+          "Variable Speed"
+        ],
+        "brand": "Powermatic",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "204059196",
@@ -2033,6 +2208,114 @@
           "answerDate": "2025-11-27",
           "helpfulVotes": 128
         }
+      ],
+      "filterAttributes": {
+        "powerType": "Cordless",
+        "voltage": [
+          "60V"
+        ],
+        "brand": "Jet",
+        "priceRange": "Over $1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "drillType",
+      "name": "Drill Type",
+      "type": "single",
+      "values": [
+        "Drill/Driver",
+        "Hammer Drill",
+        "Impact Driver",
+        "Right Angle"
+      ]
+    },
+    {
+      "id": "powerType",
+      "name": "Power Type",
+      "type": "single",
+      "values": [
+        "Cordless",
+        "Corded"
+      ]
+    },
+    {
+      "id": "voltage",
+      "name": "Voltage",
+      "type": "multi",
+      "values": [
+        "12V",
+        "18V",
+        "20V MAX"
+      ]
+    },
+    {
+      "id": "chuckSize",
+      "name": "Chuck Size",
+      "type": "single",
+      "values": [
+        "1/4 in.",
+        "3/8 in.",
+        "1/2 in."
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Brushless Motor",
+        "LED Light",
+        "Variable Speed",
+        "Keyless Chuck"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Grizzly Industrial",
+        "Jet",
+        "Powermatic",
+        "RIDGID",
+        "RYOBI",
+        "WEN"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

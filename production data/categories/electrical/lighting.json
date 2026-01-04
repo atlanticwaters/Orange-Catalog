@@ -4,7 +4,7 @@
   "slug": "lighting",
   "path": "/categories/electrical/lighting",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.404911",
+  "lastUpdated": "2026-01-03T19:45:11.085184",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -168,7 +168,13 @@
           "answerDate": "2025-05-22",
           "helpfulVotes": 28
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305053569",
@@ -246,7 +252,12 @@
           "answerDate": "2025-08-04",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332855682",
@@ -309,7 +320,12 @@
           "answerDate": "2025-07-22",
           "helpfulVotes": 110
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574664",
@@ -379,7 +395,12 @@
           "answerDate": "2025-04-06",
           "helpfulVotes": 136
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574663",
@@ -459,7 +480,12 @@
           "answerDate": "2025-11-12",
           "helpfulVotes": 149
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305059320",
@@ -540,7 +566,12 @@
           "answerDate": "2025-07-27",
           "helpfulVotes": 73
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332855681",
@@ -614,7 +645,12 @@
           "answerDate": "2025-01-27",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574666",
@@ -684,7 +720,12 @@
           "answerDate": "2025-08-02",
           "helpfulVotes": 85
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574665",
@@ -774,7 +815,12 @@
           "answerDate": "2025-01-09",
           "helpfulVotes": 85
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574660",
@@ -854,7 +900,12 @@
           "answerDate": "2025-09-09",
           "helpfulVotes": 5
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313258650",
@@ -929,7 +980,12 @@
           "answerDate": "2025-05-18",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313258651",
@@ -1017,7 +1073,12 @@
           "answerDate": "2025-12-07",
           "helpfulVotes": 101
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338655300",
@@ -1081,7 +1142,13 @@
           "answerDate": "2025-01-26",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "dimmable": "No",
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324044249",
@@ -1166,7 +1233,12 @@
           "answerDate": "2025-07-10",
           "helpfulVotes": 104
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Ring",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305648069",
@@ -1229,7 +1301,12 @@
           "answerDate": "2025-02-07",
           "helpfulVotes": 40
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318812170",
@@ -1311,7 +1388,12 @@
           "answerDate": "2025-08-29",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Lithonia Lighting",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "307904718",
@@ -1374,7 +1456,12 @@
           "answerDate": "2025-11-02",
           "helpfulVotes": 141
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338245309",
@@ -1463,7 +1550,13 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 97
         }
-      ]
+      ],
+      "filterAttributes": {
+        "lightType": "Ceiling Light",
+        "brand": "KOAOEIRS",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338245196",
@@ -1532,7 +1625,13 @@
           "answerDate": "2025-06-09",
           "helpfulVotes": 61
         }
-      ]
+      ],
+      "filterAttributes": {
+        "lightType": "Ceiling Light",
+        "brand": "KOAOEIRS",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335104182",
@@ -1619,7 +1718,12 @@
           "answerDate": "2025-11-30",
           "helpfulVotes": 145
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338245556",
@@ -1698,7 +1802,12 @@
           "answerDate": "2025-08-24",
           "helpfulVotes": 116
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "KOAOEIRS",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305059320",
@@ -1769,7 +1878,12 @@
           "answerDate": "2025-02-18",
           "helpfulVotes": 133
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "332737190",
@@ -1858,7 +1972,12 @@
           "answerDate": "2025-05-10",
           "helpfulVotes": 58
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Honbei",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "319852351",
@@ -1934,7 +2053,12 @@
           "answerDate": "2025-07-13",
           "helpfulVotes": 118
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Metalux",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324044249",
@@ -1999,7 +2123,12 @@
           "answerDate": "2025-10-14",
           "helpfulVotes": 130
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Ring",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335769096",
@@ -2065,7 +2194,13 @@
           "answerDate": "2025-07-02",
           "helpfulVotes": 118
         }
-      ]
+      ],
+      "filterAttributes": {
+        "dimmable": "No",
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305648071",
@@ -2131,7 +2266,12 @@
           "answerDate": "2025-01-30",
           "helpfulVotes": 44
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Metalux",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338245381",
@@ -2211,7 +2351,13 @@
           "answerDate": "2025-01-18",
           "helpfulVotes": 90
         }
-      ]
+      ],
+      "filterAttributes": {
+        "lightType": "Ceiling Light",
+        "brand": "KOAOEIRS",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338245927",
@@ -2300,7 +2446,12 @@
           "answerDate": "2025-12-27",
           "helpfulVotes": 103
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313258651",
@@ -2378,7 +2529,12 @@
           "answerDate": "2025-05-30",
           "helpfulVotes": 78
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313258651",
@@ -2466,7 +2622,12 @@
           "answerDate": "2025-09-20",
           "helpfulVotes": 19
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339421512",
@@ -2539,7 +2700,12 @@
           "answerDate": "2025-08-30",
           "helpfulVotes": 111
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335347113",
@@ -2605,7 +2771,12 @@
           "answerDate": "2025-07-28",
           "helpfulVotes": 9
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Enbrighten",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574666",
@@ -2695,7 +2866,12 @@
           "answerDate": "2025-08-24",
           "helpfulVotes": 142
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305053569",
@@ -2763,7 +2939,12 @@
           "answerDate": "2025-01-11",
           "helpfulVotes": 43
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574665",
@@ -2853,7 +3034,12 @@
           "answerDate": "2025-08-10",
           "helpfulVotes": 14
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313258651",
@@ -2921,7 +3107,12 @@
           "answerDate": "2025-03-17",
           "helpfulVotes": 146
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329050571",
@@ -3012,7 +3203,12 @@
           "answerDate": "2025-06-22",
           "helpfulVotes": 95
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574665",
@@ -3102,7 +3298,12 @@
           "answerDate": "2025-06-23",
           "helpfulVotes": 15
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "340234767",
@@ -3191,7 +3392,12 @@
           "answerDate": "2025-09-26",
           "helpfulVotes": 121
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Bieuoram",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "334574666",
@@ -3261,7 +3467,12 @@
           "answerDate": "2025-11-22",
           "helpfulVotes": 94
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322814532",
@@ -3349,7 +3560,12 @@
           "answerDate": "2025-11-29",
           "helpfulVotes": 17
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314050204",
@@ -3423,7 +3639,12 @@
           "answerDate": "2025-08-24",
           "helpfulVotes": 11
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Metalux",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305053569",
@@ -3511,7 +3732,12 @@
           "answerDate": "2025-06-25",
           "helpfulVotes": 48
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "318411896",
@@ -3573,7 +3799,12 @@
           "answerDate": "2025-09-07",
           "helpfulVotes": 144
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327582213",
@@ -3639,7 +3870,12 @@
           "answerDate": "2025-02-03",
           "helpfulVotes": 71
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "LUXRITE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "339308239",
@@ -3705,7 +3941,12 @@
           "answerDate": "2025-02-09",
           "helpfulVotes": 30
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Enbrighten",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338522940",
@@ -3795,7 +4036,12 @@
           "answerDate": "2025-08-15",
           "helpfulVotes": 80
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "GE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305059320",
@@ -3866,7 +4112,12 @@
           "answerDate": "2025-11-25",
           "helpfulVotes": 60
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "327582317",
@@ -3952,7 +4203,12 @@
           "answerDate": "2025-04-11",
           "helpfulVotes": 9
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "LUXRITE",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322814532",
@@ -4020,7 +4276,12 @@
           "answerDate": "2025-06-27",
           "helpfulVotes": 150
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316118212",
@@ -4106,7 +4367,12 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 112
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Lithonia Lighting",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338245776",
@@ -4185,7 +4451,12 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 92
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "KOAOEIRS",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "335452401",
@@ -4253,7 +4524,12 @@
           "answerDate": "2025-11-20",
           "helpfulVotes": 10
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Husky",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "305059320",
@@ -4324,7 +4600,12 @@
           "answerDate": "2025-02-18",
           "helpfulVotes": 72
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Commercial Electric",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "314050204",
@@ -4388,7 +4669,12 @@
           "answerDate": "2025-01-07",
           "helpfulVotes": 44
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Metalux",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "324044249",
@@ -4463,6 +4749,107 @@
           "answerDate": "2025-12-09",
           "helpfulVotes": 23
         }
+      ],
+      "filterAttributes": {
+        "brand": "Ring",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "lightType",
+      "name": "Light Type",
+      "type": "single",
+      "values": [
+        "LED Bulb",
+        "Recessed Light",
+        "Ceiling Light",
+        "Under Cabinet",
+        "Track Lighting"
+      ]
+    },
+    {
+      "id": "brightness",
+      "name": "Brightness",
+      "type": "range",
+      "values": [
+        "Under 800 Lumens",
+        "800-1100 Lumens",
+        "1100-1600 Lumens",
+        "Over 1600 Lumens"
+      ]
+    },
+    {
+      "id": "colorTemperature",
+      "name": "Color Temperature",
+      "type": "single",
+      "values": [
+        "Soft White (2700K)",
+        "Warm White (3000K)",
+        "Bright White (4000K)",
+        "Daylight (5000K)"
+      ]
+    },
+    {
+      "id": "dimmable",
+      "name": "Dimmable",
+      "type": "single",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Bieuoram",
+        "Commercial Electric",
+        "Enbrighten",
+        "GE",
+        "Honbei",
+        "Husky",
+        "KOAOEIRS",
+        "LUXRITE",
+        "Lithonia Lighting",
+        "Metalux",
+        "RYOBI",
+        "Ring"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

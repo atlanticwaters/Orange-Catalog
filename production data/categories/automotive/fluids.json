@@ -4,7 +4,7 @@
   "slug": "fluids",
   "path": "/categories/automotive/fluids",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.448619",
+  "lastUpdated": "2026-01-03T19:45:11.080350",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -43,80 +43,6 @@
     }
   ],
   "products": [
-    {
-      "productId": "337893557",
-      "modelNumber": "",
-      "brand": "Prestone",
-      "title": "DOT 3 Brake Fluid 12 fl oz, Power Steering Fluid 32 fl oz, and Antifreeze Coolant 1 Gal Combo",
-      "rating": {
-        "average": 0.0,
-        "count": 0
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_100.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-1d_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-1f_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-4f_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-31_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-40_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-44_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-66_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-76_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-a0_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-c3_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-d4_600.jpg",
-          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-fa_600.jpg"
-        ]
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 26.63,
-        "currency": "USD"
-      },
-      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
-      "specifications": {
-        "Compatibility": "Universal Fit",
-        "Material": "Premium Quality"
-      },
-      "highlights": [
-        "Meets OEM specifications",
-        "Easy installation",
-        "Quality construction",
-        "Reliable performance"
-      ],
-      "warranty": "1-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Will this fit my vehicle?",
-          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
-          "askedBy": "CarOwner",
-          "answeredBy": "AutoExpert",
-          "questionDate": "2025-09-26",
-          "answerDate": "2025-10-02",
-          "helpfulVotes": 50
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this easy to install?",
-          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
-          "askedBy": "DIYMechanic",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-11-05",
-          "answerDate": "2025-11-10",
-          "helpfulVotes": 122
-        }
-      ]
-    },
     {
       "productId": "300387920",
       "modelNumber": "",
@@ -230,7 +156,93 @@
           "answerDate": "2025-09-17",
           "helpfulVotes": 35
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Shell Rotella",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    },
+    {
+      "productId": "337893557",
+      "modelNumber": "",
+      "brand": "Prestone",
+      "title": "DOT 3 Brake Fluid 12 fl oz, Power Steering Fluid 32 fl oz, and Antifreeze Coolant 1 Gal Combo",
+      "rating": {
+        "average": 0.0,
+        "count": 0
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_100.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-64_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-1d_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-1f_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-4f_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-31_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-40_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-44_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-66_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-76_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-a0_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-c3_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-d4_600.jpg",
+          "https://images.thdstatic.com/productImages/459823bf-c8e6-4865-9383-28e9902ba706/svn/prestone-car-cleaners-chemicals-fa_600.jpg"
+        ]
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 26.63,
+        "currency": "USD"
+      },
+      "description": "Quality automotive product designed for reliable performance. Meets or exceeds OEM specifications. Easy installation for DIY maintenance.",
+      "specifications": {
+        "Compatibility": "Universal Fit",
+        "Material": "Premium Quality"
+      },
+      "highlights": [
+        "Meets OEM specifications",
+        "Easy installation",
+        "Quality construction",
+        "Reliable performance"
+      ],
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Will this fit my vehicle?",
+          "answer": "Please check your vehicle's specifications and compare with the product requirements. When in doubt, consult your owner's manual or contact us.",
+          "askedBy": "CarOwner",
+          "answeredBy": "AutoExpert",
+          "questionDate": "2025-09-26",
+          "answerDate": "2025-10-02",
+          "helpfulVotes": 50
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this easy to install?",
+          "answer": "Most automotive accessories are designed for DIY installation. Instructions are included. Some items may require professional installation.",
+          "askedBy": "DIYMechanic",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-11-05",
+          "answerDate": "2025-11-10",
+          "helpfulVotes": 122
+        }
+      ],
+      "filterAttributes": {
+        "productType": "Fluid",
+        "brand": "Prestone",
+        "priceRange": "Under $50",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "300646438",
@@ -345,6 +357,91 @@
           "answerDate": "2025-05-06",
           "helpfulVotes": 109
         }
+      ],
+      "filterAttributes": {
+        "brand": "Pennzoil",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "productType",
+      "name": "Product Type",
+      "type": "single",
+      "values": [
+        "Battery Charger",
+        "Jump Starter",
+        "Car Jack",
+        "Fluid",
+        "Cleaning Supply"
+      ]
+    },
+    {
+      "id": "vehicleType",
+      "name": "Vehicle Type",
+      "type": "multi",
+      "values": [
+        "Car",
+        "Truck",
+        "SUV",
+        "Motorcycle",
+        "RV"
+      ]
+    },
+    {
+      "id": "features",
+      "name": "Features",
+      "type": "multi",
+      "values": [
+        "Portable",
+        "Heavy Duty",
+        "Smart Charging",
+        "Multi-Use"
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Pennzoil",
+        "Prestone",
+        "Shell Rotella"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

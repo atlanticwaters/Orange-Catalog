@@ -4,7 +4,7 @@
   "slug": "floor-care",
   "path": "/categories/appliances/floor-care",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.429863",
+  "lastUpdated": "2026-01-03T19:45:10.965328",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -73,279 +73,6 @@
     }
   ],
   "products": [
-    {
-      "productId": "319713490",
-      "modelNumber": "",
-      "brand": "RYOBI",
-      "title": "ONE+ HP 18V Cordless Pet Stick Vacuum Cleaner Kit with 4.0 Ah HIGH PERFORMANCE Battery and Charger",
-      "rating": {
-        "average": 4.3535,
-        "count": 5217
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_100.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/7231ad48-5e2e-4b58-affa-1f80c8261710/svn/hoover-upright-vacuums-uh71320v-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg"
-        ]
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 199.0,
-        "currency": "USD"
-      },
-      "subcategory": "Floor Care",
-      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
-      "specifications": {
-        "Energy Star": "Yes",
-        "Finish": "Stainless Steel",
-        "Installation Type": "Built-In"
-      },
-      "highlights": [
-        "ENERGY STAR certified for efficiency",
-        "Easy-to-clean stainless steel finish",
-        "Intuitive controls",
-        "Quiet operation"
-      ],
-      "warranty": "1-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Does this require professional installation?",
-          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
-          "askedBy": "NewHomeowner",
-          "answeredBy": "ApplianceExpert",
-          "questionDate": "2025-10-26",
-          "answerDate": "2025-10-29",
-          "helpfulVotes": 147
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this ENERGY STAR certified?",
-          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
-          "askedBy": "EcoConscious",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-02-10",
-          "answerDate": "2025-02-11",
-          "helpfulVotes": 10
-        },
-        {
-          "id": "qa_3",
-          "question": "What are the dimensions? Will it fit in my space?",
-          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
-          "askedBy": "KitchenReno",
-          "answeredBy": "CustomerService",
-          "questionDate": "2025-07-17",
-          "answerDate": "2025-07-20",
-          "helpfulVotes": 137
-        },
-        {
-          "id": "qa_4",
-          "question": "Does this come with a water line for the ice maker?",
-          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
-          "askedBy": "FirstTimeBuyer",
-          "answeredBy": "InstallPro",
-          "questionDate": "2025-05-21",
-          "answerDate": "2025-05-23",
-          "helpfulVotes": 15
-        }
-      ]
-    },
-    {
-      "productId": "333915143",
-      "modelNumber": "",
-      "brand": "Shark",
-      "title": "PowerPro Bagless Cordless HEPA Filter Portable Stick Vacuum Cleaner for Multisurfaces, up to 50 min Runtime in Black",
-      "rating": {
-        "average": 4.1809,
-        "count": 94
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_100.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/7231ad48-5e2e-4b58-affa-1f80c8261710/svn/hoover-upright-vacuums-uh71320v-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg"
-        ]
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 199.0,
-        "currency": "USD"
-      },
-      "subcategory": "Floor Care",
-      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
-      "specifications": {
-        "Energy Star": "Yes",
-        "Finish": "Stainless Steel",
-        "Installation Type": "Built-In"
-      },
-      "highlights": [
-        "ENERGY STAR certified for efficiency",
-        "Easy-to-clean stainless steel finish",
-        "Intuitive controls",
-        "Quiet operation"
-      ],
-      "warranty": "1-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Does this require professional installation?",
-          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
-          "askedBy": "NewHomeowner",
-          "answeredBy": "ApplianceExpert",
-          "questionDate": "2025-03-09",
-          "answerDate": "2025-03-13",
-          "helpfulVotes": 56
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this ENERGY STAR certified?",
-          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
-          "askedBy": "EcoConscious",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-02-13",
-          "answerDate": "2025-02-17",
-          "helpfulVotes": 146
-        },
-        {
-          "id": "qa_3",
-          "question": "What are the dimensions? Will it fit in my space?",
-          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
-          "askedBy": "KitchenReno",
-          "answeredBy": "CustomerService",
-          "questionDate": "2025-10-09",
-          "answerDate": "2025-10-12",
-          "helpfulVotes": 16
-        }
-      ]
-    },
-    {
-      "productId": "321546266",
-      "modelNumber": "",
-      "brand": "RYOBI",
-      "title": "ONE+ 18V Bagless Cordless Mesh Filter Stick Vacuum Cleaner (Tool Only)",
-      "rating": {
-        "average": 4.3918,
-        "count": 1738
-      },
-      "images": {
-        "primary": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_100.jpg",
-        "thumbnail": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_100.jpg",
-        "small": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_300.jpg",
-        "medium": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_600.jpg",
-        "large": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
-        "gallery": [
-          "https://images.thdstatic.com/productImages/7231ad48-5e2e-4b58-affa-1f80c8261710/svn/hoover-upright-vacuums-uh71320v-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/af35a64d-449a-4bd9-9bac-cc6512ae325c/svn/ryobi-cordless-chainsaws-pclcw01k-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/bce10f1a-95d6-4bcd-b248-0c501bfeae3e/svn/husky-leaf-rakes-77844-950-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/de7a7589-a5ba-4a5c-ae2d-963c737949e1/svn/dewalt-cordless-pole-saws-dcps620m1-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/50039219-dbde-46e9-b593-e0df9a758195/svn/ryobi-cordless-leaf-blowers-ry40lb01k-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/933a4e80-cd00-47f1-bd08-396c93f5c651/svn/milwaukee-cordless-chainsaws-2527-20-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/ef08a5e6-c822-4c82-8f36-68c6fce63dd3/svn/husky-contractor-bags-hk42wc032b-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/6a413557-0871-4a5f-9de1-b3d4f86c6185/svn/firm-grip-work-gloves-5558-032-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/ae846394-ffb3-44ae-a7f0-a4d1200e7de3/svn/milwaukee-safety-glasses-48-73-2052-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/9eb68e29-9dd9-4c6c-97f6-f135d9e17a5b/svn/bounty-paper-towels-003077215665-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/175863cb-54d8-4904-80e0-cb516a3d2a6a/svn/milwaukee-cordless-chainsaws-2727-20-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/4e6ae5d2-bde8-4de5-bc50-959341e90ba8/svn/milwaukee-cordless-chainsaws-2727-20-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/ad172aaa-14f3-4d4b-a050-74f24c560f64/svn/milwaukee-cordless-leaf-blowers-3017-20-48-73-2015-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/87b79b9e-16be-4dd3-a5ad-c26be160ebef/svn/hdx-garbage-bags-hdx50gbkpcr-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/da8cab45-660b-4721-882b-d3bb9e8e5bed/svn/bounty-paper-towels-003077215705-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/97a8c6b6-90a7-453f-8772-9ab75812c235/svn/dewalt-cordless-pole-saws-dcps620m1-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/0a49769c-b61a-4123-b93c-2b2720451cdf/svn/echo-gas-leaf-blowers-pb-9010t-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/627c69b2-406f-4d9c-919a-f9f4614b2d35/svn/bully-tools-leaf-collecting-tools-1000-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/73fa49db-7e50-4207-b008-566602c2d58b/svn/echo-gas-leaf-blowers-pb-9010t-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/b889575b-0382-4418-86d8-cd01a9c22a4b/svn/milwaukee-cordless-chainsaws-2527-20-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/f5b27423-4481-44c9-9cfc-39a61540d227/svn/husky-leaf-rakes-77844-950-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/4e751834-fe51-47f8-abde-47df8c128cbc/svn/ryobi-cordless-leaf-blowers-ry40lb01k-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/a1dd7f55-8442-423e-b36c-f57a5deea3c1/svn/suncast-leaf-rakes-lr2600c-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/545d88b7-cbab-4c8d-8da6-ed291625b9ed/svn/lawn-leaf-bags-llchd-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/45c77079-4d75-49a0-87a8-c0199a403af5/svn/firm-grip-work-gloves-63102-024-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/801ff939-cc57-4456-ae4f-020b788511cb/svn/hdx-garbage-bags-hdx50gbkpcr-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/432c126b-7257-44dd-8b39-929a6db2351b/svn/ryobi-cordless-chainsaws-pclcw01k-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/3d7c29b8-f814-4386-af46-b1209ed9c389/svn/milwaukee-safety-glasses-48-73-2052-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/47d136fa-ea77-4929-94da-511eb9da53df/svn/the-home-depot-lawn-leaf-bags-30gpllb50c-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/fc12cc38-4a65-49bf-a0a6-40632e8c6538/svn/white-3m-face-masks-8511pa1-2a-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/d4794c95-1a38-4faf-b3e7-d7173d071eaf/svn/firm-grip-work-gloves-5510-16-64_1000.jpg",
-          "https://images.thdstatic.com/productImages/e396363c-ff89-47d0-9207-f24c38705f3e/svn/milwaukee-cordless-leaf-blowers-3017-20-48-73-2015-e4_1000.jpg",
-          "https://images.thdstatic.com/productImages/d9f86180-029d-4c83-9dcf-e8f60dfb56a4/svn/husky-contractor-bags-hk42wc050b-64_1000.jpg"
-        ]
-      },
-      "badges": [],
-      "availability": {
-        "inStock": true
-      },
-      "price": {
-        "current": 169.0,
-        "currency": "USD"
-      },
-      "subcategory": "Floor Care",
-      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
-      "specifications": {
-        "Energy Star": "Yes",
-        "Finish": "Stainless Steel",
-        "Installation Type": "Built-In"
-      },
-      "highlights": [
-        "ENERGY STAR certified for efficiency",
-        "Easy-to-clean stainless steel finish",
-        "Intuitive controls",
-        "Quiet operation"
-      ],
-      "warranty": "1-Year Limited Warranty",
-      "questionsAndAnswers": [
-        {
-          "id": "qa_1",
-          "question": "Does this require professional installation?",
-          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
-          "askedBy": "NewHomeowner",
-          "answeredBy": "ApplianceExpert",
-          "questionDate": "2025-10-25",
-          "answerDate": "2025-11-01",
-          "helpfulVotes": 84
-        },
-        {
-          "id": "qa_2",
-          "question": "Is this ENERGY STAR certified?",
-          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
-          "askedBy": "EcoConscious",
-          "answeredBy": "ProductExpert",
-          "questionDate": "2025-09-20",
-          "answerDate": "2025-09-27",
-          "helpfulVotes": 11
-        },
-        {
-          "id": "qa_3",
-          "question": "What are the dimensions? Will it fit in my space?",
-          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
-          "askedBy": "KitchenReno",
-          "answeredBy": "CustomerService",
-          "questionDate": "2025-08-19",
-          "answerDate": "2025-08-20",
-          "helpfulVotes": 14
-        }
-      ]
-    },
     {
       "productId": "100520395",
       "modelNumber": "",
@@ -467,7 +194,304 @@
           "answerDate": "2025-03-06",
           "helpfulVotes": 73
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    },
+    {
+      "productId": "319713490",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ HP 18V Cordless Pet Stick Vacuum Cleaner Kit with 4.0 Ah HIGH PERFORMANCE Battery and Charger",
+      "rating": {
+        "average": 4.3535,
+        "count": 5217
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_100.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/7231ad48-5e2e-4b58-affa-1f80c8261710/svn/hoover-upright-vacuums-uh71320v-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg"
+        ]
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Floor Care",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-10-26",
+          "answerDate": "2025-10-29",
+          "helpfulVotes": 147
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-10",
+          "answerDate": "2025-02-11",
+          "helpfulVotes": 10
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-07-17",
+          "answerDate": "2025-07-20",
+          "helpfulVotes": 137
+        },
+        {
+          "id": "qa_4",
+          "question": "Does this come with a water line for the ice maker?",
+          "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line for connection.",
+          "askedBy": "FirstTimeBuyer",
+          "answeredBy": "InstallPro",
+          "questionDate": "2025-05-21",
+          "answerDate": "2025-05-23",
+          "helpfulVotes": 15
+        }
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    },
+    {
+      "productId": "333915143",
+      "modelNumber": "",
+      "brand": "Shark",
+      "title": "PowerPro Bagless Cordless HEPA Filter Portable Stick Vacuum Cleaner for Multisurfaces, up to 50 min Runtime in Black",
+      "rating": {
+        "average": 4.1809,
+        "count": 94
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_100.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/7231ad48-5e2e-4b58-affa-1f80c8261710/svn/hoover-upright-vacuums-uh71320v-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg"
+        ]
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 199.0,
+        "currency": "USD"
+      },
+      "subcategory": "Floor Care",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-03-09",
+          "answerDate": "2025-03-13",
+          "helpfulVotes": 56
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-02-13",
+          "answerDate": "2025-02-17",
+          "helpfulVotes": 146
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-10-09",
+          "answerDate": "2025-10-12",
+          "helpfulVotes": 16
+        }
+      ],
+      "filterAttributes": {
+        "brand": "Shark",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    },
+    {
+      "productId": "321546266",
+      "modelNumber": "",
+      "brand": "RYOBI",
+      "title": "ONE+ 18V Bagless Cordless Mesh Filter Stick Vacuum Cleaner (Tool Only)",
+      "rating": {
+        "average": 4.3918,
+        "count": 1738
+      },
+      "images": {
+        "primary": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_100.jpg",
+        "thumbnail": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_100.jpg",
+        "small": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_300.jpg",
+        "medium": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_600.jpg",
+        "large": "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
+        "gallery": [
+          "https://images.thdstatic.com/productImages/7231ad48-5e2e-4b58-affa-1f80c8261710/svn/hoover-upright-vacuums-uh71320v-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/af35a64d-449a-4bd9-9bac-cc6512ae325c/svn/ryobi-cordless-chainsaws-pclcw01k-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/bce10f1a-95d6-4bcd-b248-0c501bfeae3e/svn/husky-leaf-rakes-77844-950-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/de7a7589-a5ba-4a5c-ae2d-963c737949e1/svn/dewalt-cordless-pole-saws-dcps620m1-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/50039219-dbde-46e9-b593-e0df9a758195/svn/ryobi-cordless-leaf-blowers-ry40lb01k-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/933a4e80-cd00-47f1-bd08-396c93f5c651/svn/milwaukee-cordless-chainsaws-2527-20-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/ef08a5e6-c822-4c82-8f36-68c6fce63dd3/svn/husky-contractor-bags-hk42wc032b-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/6a413557-0871-4a5f-9de1-b3d4f86c6185/svn/firm-grip-work-gloves-5558-032-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/ae846394-ffb3-44ae-a7f0-a4d1200e7de3/svn/milwaukee-safety-glasses-48-73-2052-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/e68266df-24d0-4159-8030-376f211f3537/svn/ryobi-stick-vacuums-pcl720b-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/9eb68e29-9dd9-4c6c-97f6-f135d9e17a5b/svn/bounty-paper-towels-003077215665-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/175863cb-54d8-4904-80e0-cb516a3d2a6a/svn/milwaukee-cordless-chainsaws-2727-20-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/4e6ae5d2-bde8-4de5-bc50-959341e90ba8/svn/milwaukee-cordless-chainsaws-2727-20-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/ad172aaa-14f3-4d4b-a050-74f24c560f64/svn/milwaukee-cordless-leaf-blowers-3017-20-48-73-2015-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/87b79b9e-16be-4dd3-a5ad-c26be160ebef/svn/hdx-garbage-bags-hdx50gbkpcr-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/da8cab45-660b-4721-882b-d3bb9e8e5bed/svn/bounty-paper-towels-003077215705-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/89ba7da3-f0e8-4004-9162-753ac345658f/svn/shark-stick-vacuums-iz372hd-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/97a8c6b6-90a7-453f-8772-9ab75812c235/svn/dewalt-cordless-pole-saws-dcps620m1-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/0a49769c-b61a-4123-b93c-2b2720451cdf/svn/echo-gas-leaf-blowers-pb-9010t-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/627c69b2-406f-4d9c-919a-f9f4614b2d35/svn/bully-tools-leaf-collecting-tools-1000-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/73fa49db-7e50-4207-b008-566602c2d58b/svn/echo-gas-leaf-blowers-pb-9010t-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/b889575b-0382-4418-86d8-cd01a9c22a4b/svn/milwaukee-cordless-chainsaws-2527-20-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/f5b27423-4481-44c9-9cfc-39a61540d227/svn/husky-leaf-rakes-77844-950-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/4e751834-fe51-47f8-abde-47df8c128cbc/svn/ryobi-cordless-leaf-blowers-ry40lb01k-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/95534469-d3c0-49b9-adec-7c16071f9aea/svn/ryobi-stick-vacuums-pblsv716k-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/a1dd7f55-8442-423e-b36c-f57a5deea3c1/svn/suncast-leaf-rakes-lr2600c-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/545d88b7-cbab-4c8d-8da6-ed291625b9ed/svn/lawn-leaf-bags-llchd-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/45c77079-4d75-49a0-87a8-c0199a403af5/svn/firm-grip-work-gloves-63102-024-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/801ff939-cc57-4456-ae4f-020b788511cb/svn/hdx-garbage-bags-hdx50gbkpcr-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/432c126b-7257-44dd-8b39-929a6db2351b/svn/ryobi-cordless-chainsaws-pclcw01k-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/3d7c29b8-f814-4386-af46-b1209ed9c389/svn/milwaukee-safety-glasses-48-73-2052-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/47d136fa-ea77-4929-94da-511eb9da53df/svn/the-home-depot-lawn-leaf-bags-30gpllb50c-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/fc12cc38-4a65-49bf-a0a6-40632e8c6538/svn/white-3m-face-masks-8511pa1-2a-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/d4794c95-1a38-4faf-b3e7-d7173d071eaf/svn/firm-grip-work-gloves-5510-16-64_1000.jpg",
+          "https://images.thdstatic.com/productImages/e396363c-ff89-47d0-9207-f24c38705f3e/svn/milwaukee-cordless-leaf-blowers-3017-20-48-73-2015-e4_1000.jpg",
+          "https://images.thdstatic.com/productImages/d9f86180-029d-4c83-9dcf-e8f60dfb56a4/svn/husky-contractor-bags-hk42wc050b-64_1000.jpg"
+        ]
+      },
+      "badges": [],
+      "availability": {
+        "inStock": true
+      },
+      "price": {
+        "current": 169.0,
+        "currency": "USD"
+      },
+      "subcategory": "Floor Care",
+      "description": "Quality home appliance designed for reliable everyday performance. Energy efficient design helps reduce utility costs. Easy-to-use controls and modern styling complement any home.",
+      "specifications": {
+        "Energy Star": "Yes",
+        "Finish": "Stainless Steel",
+        "Installation Type": "Built-In"
+      },
+      "highlights": [
+        "ENERGY STAR certified for efficiency",
+        "Easy-to-clean stainless steel finish",
+        "Intuitive controls",
+        "Quiet operation"
+      ],
+      "warranty": "1-Year Limited Warranty",
+      "questionsAndAnswers": [
+        {
+          "id": "qa_1",
+          "question": "Does this require professional installation?",
+          "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.",
+          "askedBy": "NewHomeowner",
+          "answeredBy": "ApplianceExpert",
+          "questionDate": "2025-10-25",
+          "answerDate": "2025-11-01",
+          "helpfulVotes": 84
+        },
+        {
+          "id": "qa_2",
+          "question": "Is this ENERGY STAR certified?",
+          "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.",
+          "askedBy": "EcoConscious",
+          "answeredBy": "ProductExpert",
+          "questionDate": "2025-09-20",
+          "answerDate": "2025-09-27",
+          "helpfulVotes": 11
+        },
+        {
+          "id": "qa_3",
+          "question": "What are the dimensions? Will it fit in my space?",
+          "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.",
+          "askedBy": "KitchenReno",
+          "answeredBy": "CustomerService",
+          "questionDate": "2025-08-19",
+          "answerDate": "2025-08-20",
+          "helpfulVotes": 14
+        }
+      ],
+      "filterAttributes": {
+        "brand": "RYOBI",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202650894",
@@ -601,7 +625,13 @@
           "answerDate": "2025-02-08",
           "helpfulVotes": 144
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304006023",
@@ -725,7 +755,13 @@
           "answerDate": "2025-06-18",
           "helpfulVotes": 106
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100021159",
@@ -859,7 +895,13 @@
           "answerDate": "2025-08-09",
           "helpfulVotes": 45
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "304795071",
@@ -983,7 +1025,13 @@
           "answerDate": "2025-09-02",
           "helpfulVotes": 68
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202077241",
@@ -1127,7 +1175,13 @@
           "answerDate": "2025-11-27",
           "helpfulVotes": 20
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "100021371",
@@ -1271,7 +1325,13 @@
           "answerDate": "2025-02-17",
           "helpfulVotes": 34
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "Under $50",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "316514940",
@@ -1395,7 +1455,13 @@
           "answerDate": "2025-07-17",
           "helpfulVotes": 54
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337674760",
@@ -1481,7 +1547,13 @@
           "answerDate": "2025-08-31",
           "helpfulVotes": 27
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337674754",
@@ -1577,7 +1649,13 @@
           "answerDate": "2025-08-08",
           "helpfulVotes": 98
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "202043806",
@@ -1711,7 +1789,13 @@
           "answerDate": "2025-05-01",
           "helpfulVotes": 116
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "313725452",
@@ -1845,7 +1929,13 @@
           "answerDate": "2025-12-31",
           "helpfulVotes": 140
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "337113487",
@@ -1989,7 +2079,13 @@
           "answerDate": "2025-05-29",
           "helpfulVotes": 99
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Milwaukee",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "308343494",
@@ -2123,7 +2219,13 @@
           "answerDate": "2025-09-28",
           "helpfulVotes": 143
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "RIDGID",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "322514985",
@@ -2264,7 +2366,13 @@
           "answerDate": "2025-12-07",
           "helpfulVotes": 148
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "XtremepowerUS",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "338943726",
@@ -2405,7 +2513,13 @@
           "answerDate": "2025-08-20",
           "helpfulVotes": 148
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "XtremepowerUS",
+        "priceRange": "$100-$250",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "320576036",
@@ -2526,7 +2640,13 @@
           "answerDate": "2025-05-17",
           "helpfulVotes": 75
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "STARK USA",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "203656953",
@@ -2640,7 +2760,13 @@
           "answerDate": "2025-03-17",
           "helpfulVotes": 93
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "PowerSmith",
+        "priceRange": "$50-$100",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "312370596",
@@ -2764,6 +2890,61 @@
           "answerDate": "2025-10-06",
           "helpfulVotes": 61
         }
+      ],
+      "filterAttributes": {
+        "brand": "Makita",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Makita",
+        "Milwaukee",
+        "PowerSmith",
+        "RIDGID",
+        "RYOBI",
+        "STARK USA",
+        "Shark",
+        "XtremepowerUS"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]

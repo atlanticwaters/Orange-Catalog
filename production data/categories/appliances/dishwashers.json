@@ -4,7 +4,7 @@
   "slug": "dishwashers",
   "path": "/categories/appliances/dishwashers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T01:19:30.428654",
+  "lastUpdated": "2026-01-03T19:45:10.963813",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -119,7 +119,13 @@
           "answerDate": "2025-09-09",
           "helpfulVotes": 116
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Frigidaire",
+        "priceRange": "$250-$500",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "329241860",
@@ -211,7 +217,13 @@
           "answerDate": "2025-10-13",
           "helpfulVotes": 38
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "LG",
+        "priceRange": "$500-$1000",
+        "rating": "3 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "330817229",
@@ -293,7 +305,13 @@
           "answerDate": "2025-05-13",
           "helpfulVotes": 114
         }
-      ]
+      ],
+      "filterAttributes": {
+        "brand": "Whirlpool",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
     },
     {
       "productId": "336625538",
@@ -385,6 +403,57 @@
           "answerDate": "2025-06-22",
           "helpfulVotes": 76
         }
+      ],
+      "filterAttributes": {
+        "brand": "KitchenAid",
+        "priceRange": "$500-$1000",
+        "rating": "4 Stars & Up",
+        "availability": "In Stock"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "Brand",
+      "type": "multi",
+      "values": [
+        "Frigidaire",
+        "KitchenAid",
+        "LG",
+        "Whirlpool"
+      ]
+    },
+    {
+      "id": "priceRange",
+      "name": "Price",
+      "type": "range",
+      "values": [
+        "Under $50",
+        "$50-$100",
+        "$100-$250",
+        "$250-$500",
+        "$500-$1000",
+        "Over $1000"
+      ]
+    },
+    {
+      "id": "rating",
+      "name": "Review Rating",
+      "type": "single",
+      "values": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up"
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Availability",
+      "type": "single",
+      "values": [
+        "In Stock",
+        "Available for Order"
       ]
     }
   ]
