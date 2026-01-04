@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Viewer - Orange Catalog</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 { color: #f96302; margin-bottom: 20px; }
+        .product-card { background: white; border-radius: 8px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .product-header { display: flex; gap: 24px; margin-bottom: 24px; }
+        .gallery { flex: 0 0 400px; }
+        .main-image { width: 100%; height: 400px; object-fit: contain; border: 1px solid #eee; border-radius: 8px; background: white; }
+        .thumbnails { display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+        .thumb { width: 60px; height: 60px; object-fit: contain; border: 2px solid #eee; border-radius: 4px; cursor: pointer; background: white; }
+        .thumb:hover, .thumb.active { border-color: #f96302; }
+        .product-info { flex: 1; }
+        .brand { color: #666; font-size: 14px; text-transform: uppercase; }
+        .title { font-size: 24px; margin: 8px 0 16px; }
+        .rating { display: flex; align-items: center; gap: 8px; margin-bottom: 16px; }
+        .stars { color: #f96302; }
+        .price { font-size: 32px; font-weight: bold; color: #333; margin-bottom: 16px; }
+        .price .currency { font-size: 18px; vertical-align: top; }
+        .badges { display: flex; gap: 8px; margin-bottom: 16px; }
+        .badge { background: #e8f5e9; color: #2e7d32; padding: 4px 12px; border-radius: 4px; font-size: 12px; font-weight: 600; }
+        .section { margin-top: 24px; padding-top: 24px; border-top: 1px solid #eee; }
+        .section h2 { font-size: 18px; margin-bottom: 16px; color: #333; }
+        .description { color: #555; line-height: 1.6; }
+        .highlights { list-style: none; }
+        .highlights li { padding: 8px 0; padding-left: 24px; position: relative; color: #555; }
+        .highlights li::before { content: "✓"; position: absolute; left: 0; color: #f96302; font-weight: bold; }
+        .specs-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+        .spec-item { display: flex; justify-content: space-between; padding: 8px 12px; background: #f9f9f9; border-radius: 4px; }
+        .spec-label { color: #666; }
+        .spec-value { font-weight: 500; }
+        .qa-item { padding: 16px; background: #f9f9f9; border-radius: 8px; margin-bottom: 12px; }
+        .qa-question { font-weight: 600; margin-bottom: 8px; }
+        .qa-answer { color: #555; margin-bottom: 8px; }
+        .qa-meta { font-size: 12px; color: #999; }
+        .image-links { margin-top: 24px; }
+        .image-links h3 { font-size: 14px; color: #666; margin-bottom: 12px; }
+        .image-url { font-family: monospace; font-size: 11px; color: #666; background: #f0f0f0; padding: 8px; border-radius: 4px; margin-bottom: 4px; word-break: break-all; }
+        .image-url a { color: #0066cc; text-decoration: none; }
+        .image-url a:hover { text-decoration: underline; }
+        select { padding: 8px 12px; font-size: 14px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🍊 Orange Catalog - Product Viewer</h1>
+
+        <label>Select Product: </label>
+        <select id="productSelect" onchange="loadProduct()"></select>
+
+        <div class="product-card" id="productCard">
+            <div class="product-header">
+                <div class="gallery">
+                    <img id="mainImage" class="main-image" src="" alt="Product Image">
+                    <div class="thumbnails" id="thumbnails"></div>
+                </div>
+                <div class="product-info">
+                    <div class="brand" id="brand"></div>
+                    <h1 class="title" id="title"></h1>
+                    <div class="rating">
+                        <span class="stars" id="stars"></span>
+                        <span id="ratingText"></span>
+                    </div>
+                    <div class="price">
+                        <span class="currency">$</span><span id="price"></span>
+                    </div>
+                    <div class="badges" id="badges">
+                        <span class="badge">ENERGY STAR</span>
+                        <span class="badge">In Stock</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>Description</h2>
+                <p class="description" id="description"></p>
+            </div>
+
+            <div class="section">
+                <h2>Highlights</h2>
+                <ul class="highlights" id="highlights"></ul>
+            </div>
+
+            <div class="section">
+                <h2>Specifications</h2>
+                <div class="specs-grid" id="specs"></div>
+            </div>
+
+            <div class="section">
+                <h2>Questions & Answers</h2>
+                <div id="qa"></div>
+            </div>
+
+            <div class="section image-links">
+                <h2>Image URLs</h2>
+                <h3>Primary Image</h3>
+                <div class="image-url" id="primaryUrl"></div>
+                <h3>Gallery Images (<span id="galleryCount"></span>)</h3>
+                <div id="galleryUrls"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sample refrigerator products data
+        const products = [
+            {
+                "productId": "338094459",
+                "brand": "LG",
+                "title": "29 cu. ft. Standard Depth MAX 4-Door French Door Refrigerator in Stainless Steel with Craft Ice",
+                "rating": { "average": 4.82, "count": 39 },
+                "price": { "current": 4499.00 },
+                "images": {
+                    "primary": "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-64_1000.jpg",
+                    "gallery": [
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-64_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-1d_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-1f_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-4f_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-31_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-40_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-44_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-66_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-76_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-a0_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-c3_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-d4_1000.jpg",
+                        "https://images.thdstatic.com/productImages/6d1d8a89-5d1c-4d47-81ed-ffb14b5c2ca8/svn/printproof-stainless-steel-lg-french-door-refrigerators-lf29s9730s-fa_1000.jpg"
+                    ]
+                },
+                "description": "French door refrigerator with advanced cooling technology keeps food fresh longer. Fingerprint resistant finish reduces smudges and makes cleaning easy. Internal water dispenser provides filtered water without sacrificing door storage.",
+                "specifications": {
+                    "Total Capacity": "29.0 cu. ft.",
+                    "Refrigerator Capacity": "20.1 cu. ft.",
+                    "Freezer Capacity": "8.9 cu. ft.",
+                    "Width": "35-3/4 in.",
+                    "Height": "69-7/8 in.",
+                    "Depth": "36-1/4 in.",
+                    "Ice Maker": "Craft Ice + Cubed",
+                    "Water Dispenser": "Internal",
+                    "Energy Star": "Yes",
+                    "Annual Energy Cost": "$72"
+                },
+                "highlights": [
+                    "Craft Ice - slow-melting round ice",
+                    "PrintProof fingerprint resistant finish",
+                    "Full-Convert drawer changes temperature zones",
+                    "LED lighting throughout",
+                    "ENERGY STAR certified"
+                ],
+                "questionsAndAnswers": [
+                    { "question": "Does this require professional installation?", "answer": "While DIY installation is possible, we recommend professional installation to ensure proper setup and maintain warranty coverage.", "askedBy": "NewHomeowner", "answeredBy": "ApplianceExpert", "helpfulVotes": 89 },
+                    { "question": "Does this come with a water line for the ice maker?", "answer": "No, the water supply line is not included and must be purchased separately. You'll need a standard 1/4-inch water supply line.", "askedBy": "FirstTimeBuyer", "answeredBy": "InstallPro", "helpfulVotes": 124 },
+                    { "question": "How quiet is this refrigerator?", "answer": "This model operates at a low noise level suitable for open floor plans. LG refrigerators are known for quiet operation.", "askedBy": "QuietHome", "answeredBy": "ApplianceExpert", "helpfulVotes": 67 }
+                ]
+            },
+            {
+                "productId": "320243591",
+                "brand": "GE",
+                "title": "27 cu. ft. French Door Refrigerator in Fingerprint Resistant Stainless with Internal Dispenser, ENERGY STAR",
+                "rating": { "average": 4.45, "count": 2847 },
+                "price": { "current": 1998.00 },
+                "images": {
+                    "primary": "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-64_1000.jpg",
+                    "gallery": [
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-64_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-e1_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-40_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-a0_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-1d_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-66_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-77_1000.jpg",
+                        "https://images.thdstatic.com/productImages/8354e197-a2fc-4a80-b98f-5a05aa14ece8/svn/fingerprint-resistant-stainless-steel-ge-french-door-refrigerators-gne27jymfs-c3_1000.jpg"
+                    ]
+                },
+                "description": "French door refrigerator with advanced cooling technology keeps food fresh longer. Fingerprint resistant finish reduces smudges and makes cleaning easy. Internal water dispenser provides filtered water without sacrificing door storage.",
+                "specifications": {
+                    "Total Capacity": "27.0 cu. ft.",
+                    "Refrigerator Capacity": "18.9 cu. ft.",
+                    "Freezer Capacity": "8.1 cu. ft.",
+                    "Width": "35-3/4 in.",
+                    "Height": "69-7/8 in.",
+                    "Depth": "36-1/4 in.",
+                    "Ice Maker": "Yes",
+                    "Water Dispenser": "Internal",
+                    "Energy Star": "Yes",
+                    "Annual Energy Cost": "$67"
+                },
+                "highlights": [
+                    "Fingerprint resistant stainless steel finish",
+                    "Internal water dispenser with filter",
+                    "Full-width temperature-controlled drawer",
+                    "LED lighting throughout",
+                    "ENERGY STAR certified"
+                ],
+                "questionsAndAnswers": [
+                    { "question": "Does this require professional installation?", "answer": "While DIY installation is possible for those with experience, we recommend professional installation to ensure proper setup and to maintain warranty coverage.", "askedBy": "NewHomeowner", "answeredBy": "ApplianceExpert", "helpfulVotes": 156 },
+                    { "question": "Is this ENERGY STAR certified?", "answer": "Yes, this product is ENERGY STAR certified, which means it meets strict energy efficiency guidelines set by the EPA. This can help reduce your utility bills.", "askedBy": "EcoConscious", "answeredBy": "ProductExpert", "helpfulVotes": 203 },
+                    { "question": "What are the dimensions? Will it fit in my space?", "answer": "Please refer to the specifications section for exact dimensions. We recommend measuring your space carefully, including door clearance and ventilation requirements.", "askedBy": "KitchenReno", "answeredBy": "CustomerService", "helpfulVotes": 178 }
+                ]
+            },
+            {
+                "productId": "316069988",
+                "brand": "Samsung",
+                "title": "Bespoke 30 cu. ft. 3-Door French Door Smart Refrigerator with Beverage Center in Stainless Steel",
+                "rating": { "average": 4.65, "count": 892 },
+                "price": { "current": 2799.00 },
+                "images": {
+                    "primary": "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_1000.jpg",
+                    "gallery": [
+                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-64_1000.jpg",
+                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-e1_1000.jpg",
+                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-40_1000.jpg",
+                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-a0_1000.jpg",
+                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-1d_1000.jpg",
+                        "https://images.thdstatic.com/productImages/1360b7b9-ce58-43ef-8dff-eda5ddccf3a9/svn/stainless-steel-samsung-french-door-refrigerators-rf30bb6600ql-66_1000.jpg"
+                    ]
+                },
+                "description": "French door refrigerator with advanced cooling technology keeps food fresh longer. Fingerprint resistant finish reduces smudges and makes cleaning easy. Beverage Center provides quick access to drinks without opening the full door.",
+                "specifications": {
+                    "Total Capacity": "30.0 cu. ft.",
+                    "Refrigerator Capacity": "21.2 cu. ft.",
+                    "Freezer Capacity": "8.8 cu. ft.",
+                    "Width": "35-3/4 in.",
+                    "Height": "70 in.",
+                    "Depth": "36-1/2 in.",
+                    "Ice Maker": "Dual Ice Maker",
+                    "Water Dispenser": "External",
+                    "Energy Star": "Yes",
+                    "Annual Energy Cost": "$74"
+                },
+                "highlights": [
+                    "Beverage Center with water dispenser",
+                    "Dual Ice Maker with cubed and Ice Bites",
+                    "SmartThings WiFi enabled",
+                    "Fingerprint resistant finish",
+                    "ENERGY STAR certified"
+                ],
+                "questionsAndAnswers": [
+                    { "question": "Can I control this from my phone?", "answer": "Yes! This refrigerator connects to the SmartThings app, allowing you to monitor temperature, receive alerts, and control settings from your smartphone.", "askedBy": "TechSavvy", "answeredBy": "SamsungRep", "helpfulVotes": 234 },
+                    { "question": "What is the Beverage Center?", "answer": "The Beverage Center is a dedicated section in the door that provides quick access to drinks, a water dispenser, and pitcher storage without opening the main refrigerator door.", "askedBy": "CuriousBuyer", "answeredBy": "ApplianceExpert", "helpfulVotes": 189 }
+                ]
+            }
+        ];
+
+        // Populate dropdown
+        const select = document.getElementById('productSelect');
+        products.forEach((p, i) => {
+            const option = document.createElement('option');
+            option.value = i;
+            option.textContent = `${p.brand} - ${p.title.substring(0, 60)}...`;
+            select.appendChild(option);
+        });
+
+        function loadProduct() {
+            const product = products[document.getElementById('productSelect').value];
+
+            // Main image
+            document.getElementById('mainImage').src = product.images.primary;
+            document.getElementById('brand').textContent = product.brand;
+            document.getElementById('title').textContent = product.title;
+
+            // Rating
+            const stars = '★'.repeat(Math.round(product.rating.average)) + '☆'.repeat(5 - Math.round(product.rating.average));
+            document.getElementById('stars').textContent = stars;
+            document.getElementById('ratingText').textContent = `${product.rating.average.toFixed(1)} (${product.rating.count} reviews)`;
+
+            // Price
+            document.getElementById('price').textContent = product.price.current.toLocaleString();
+
+            // Description
+            document.getElementById('description').textContent = product.description;
+
+            // Highlights
+            const highlightsList = document.getElementById('highlights');
+            highlightsList.innerHTML = product.highlights.map(h => `<li>${h}</li>`).join('');
+
+            // Specs
+            const specsGrid = document.getElementById('specs');
+            specsGrid.innerHTML = Object.entries(product.specifications).map(([k, v]) =>
+                `<div class="spec-item"><span class="spec-label">${k}</span><span class="spec-value">${v}</span></div>`
+            ).join('');
+
+            // Q&A
+            const qaDiv = document.getElementById('qa');
+            qaDiv.innerHTML = product.questionsAndAnswers.map(qa => `
+                <div class="qa-item">
+                    <div class="qa-question">Q: ${qa.question}</div>
+                    <div class="qa-answer">A: ${qa.answer}</div>
+                    <div class="qa-meta">Asked by ${qa.askedBy} · Answered by ${qa.answeredBy} · ${qa.helpfulVotes} found this helpful</div>
+                </div>
+            `).join('');
+
+            // Thumbnails
+            const thumbsDiv = document.getElementById('thumbnails');
+            thumbsDiv.innerHTML = product.images.gallery.map((url, i) =>
+                `<img src="${url}" class="thumb ${i === 0 ? 'active' : ''}" onclick="setMainImage('${url}', this)">`
+            ).join('');
+
+            // Image URLs
+            document.getElementById('primaryUrl').innerHTML = `<a href="${product.images.primary}" target="_blank">${product.images.primary}</a>`;
+            document.getElementById('galleryCount').textContent = product.images.gallery.length;
+            document.getElementById('galleryUrls').innerHTML = product.images.gallery.map(url =>
+                `<div class="image-url"><a href="${url}" target="_blank">${url}</a></div>`
+            ).join('');
+        }
+
+        function setMainImage(url, thumb) {
+            document.getElementById('mainImage').src = url;
+            document.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
+            thumb.classList.add('active');
+        }
+
+        // Load first product
+        loadProduct();
+    </script>
+</body>
+</html>
