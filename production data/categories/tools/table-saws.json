@@ -492,7 +492,7 @@
     "categoryFolder": "Table Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.270414",
+  "lastUpdated": "2026-01-08T16:53:20.993079",
   "products": [
     {
       "productId": "339731858",
@@ -575,7 +575,8 @@
         "brand": "GE",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339732619",
@@ -647,7 +648,8 @@
         "brand": "GE",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ]
 }

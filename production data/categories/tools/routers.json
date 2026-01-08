@@ -4,7 +4,7 @@
   "slug": "routers",
   "path": "/categories/tools/routers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.257655",
+  "lastUpdated": "2026-01-08T16:53:20.959862",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -163,7 +163,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337440456",
@@ -267,7 +268,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "filters": [

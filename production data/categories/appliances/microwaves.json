@@ -4,7 +4,7 @@
   "slug": "microwaves",
   "path": "/categories/appliances/microwaves",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:10.969139",
+  "lastUpdated": "2026-01-08T16:53:20.220205",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -194,7 +194,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "205591630",
@@ -319,7 +320,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "331519433",
@@ -434,7 +436,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "330799262",
@@ -559,7 +562,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "304770655",
@@ -674,7 +678,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "331519406",
@@ -809,7 +814,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "336136522",
@@ -923,7 +929,8 @@
         "brand": "Vissani",
         "priceRange": "$50-$100",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "205373458",
@@ -996,7 +1003,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "338472247",
@@ -1089,7 +1097,8 @@
         "priceRange": "Over $1000",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

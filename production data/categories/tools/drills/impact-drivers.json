@@ -4,7 +4,7 @@
   "slug": "impact-drivers",
   "path": "/categories/tools/drills/impact-drivers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.232844",
+  "lastUpdated": "2026-01-08T16:53:20.912951",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -205,7 +205,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958932",
@@ -296,7 +297,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317987595",
@@ -453,7 +455,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203111686",
@@ -600,7 +603,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "filters": [

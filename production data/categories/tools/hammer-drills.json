@@ -516,7 +516,7 @@
     "categoryFolder": "Hammer Drills"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.238885",
+  "lastUpdated": "2026-01-08T16:53:20.926133",
   "products": [
     {
       "productId": "337440458",
@@ -617,7 +617,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205561434",
@@ -699,7 +700,8 @@
         "brand": "Makita",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302552049",
@@ -782,7 +784,8 @@
         "brand": "Makita",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205690291",
@@ -880,7 +883,8 @@
         "brand": "Makita",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ]
 }

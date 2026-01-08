@@ -4,7 +4,7 @@
   "slug": "tools",
   "path": "/categories/tools",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:59.564016",
+  "lastUpdated": "2026-01-08T16:53:20.847255",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -154,7 +154,8 @@
       "price": {
         "current": 298.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331592826",
@@ -194,7 +195,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304770024",
@@ -234,7 +236,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "328104963",
@@ -274,7 +277,8 @@
       "price": {
         "current": 188.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "328104961",
@@ -314,7 +318,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316817359",
@@ -354,7 +359,8 @@
       "price": {
         "current": 218.01,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325387082",
@@ -394,7 +400,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641095",
@@ -434,7 +441,8 @@
       "price": {
         "current": 168.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336959087",
@@ -474,7 +482,8 @@
       "price": {
         "current": 168.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334804262",
@@ -514,7 +523,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321284179",
@@ -554,7 +564,8 @@
       "price": {
         "current": 157.82,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315479169",
@@ -594,7 +605,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326781687",
@@ -634,7 +646,8 @@
       "price": {
         "current": 64.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331160343",
@@ -674,7 +687,8 @@
       "price": {
         "current": 93.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326781669",
@@ -714,7 +728,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326781673",
@@ -754,7 +769,8 @@
       "price": {
         "current": 64.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336226954",
@@ -794,7 +810,8 @@
       "price": {
         "current": 158.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "327354338",
@@ -834,7 +851,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308410662",
@@ -874,7 +892,8 @@
       "price": {
         "current": 391.4,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317987591",
@@ -914,7 +933,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301113053",
@@ -954,7 +974,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330351152",
@@ -994,7 +1015,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205620421",
@@ -1034,7 +1056,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203630471",
@@ -1074,7 +1097,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315112825",
@@ -1114,7 +1138,8 @@
       "price": {
         "current": 89.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337055963",
@@ -1154,7 +1179,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336449894",
@@ -1194,7 +1220,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337126822",
@@ -1234,7 +1261,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329791962",
@@ -1274,7 +1302,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315426486",
@@ -1314,7 +1343,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316767033",
@@ -1354,7 +1384,8 @@
       "price": {
         "current": 69.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335106901",
@@ -1394,7 +1425,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335291555",
@@ -1434,7 +1466,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205510787",
@@ -1474,7 +1507,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594080",
@@ -1514,7 +1548,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203806660",
@@ -1554,7 +1589,8 @@
       "price": {
         "current": 64.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336391846",
@@ -1594,7 +1630,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300610594",
@@ -1634,7 +1671,8 @@
       "price": {
         "current": 259.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442279",
@@ -1674,7 +1712,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442343",
@@ -1714,7 +1753,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315994093",
@@ -1754,7 +1794,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325480442",
@@ -1794,7 +1835,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332250133",
@@ -1834,7 +1876,8 @@
       "price": {
         "current": 69.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329607545",
@@ -1874,7 +1917,8 @@
       "price": {
         "current": 59.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316629766",
@@ -1914,7 +1958,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337129451",
@@ -1954,7 +1999,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312763746",
@@ -1994,7 +2040,8 @@
       "price": {
         "current": 358.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336959130",
@@ -2034,7 +2081,8 @@
       "price": {
         "current": 456.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339741740",
@@ -2074,7 +2122,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336304784",
@@ -2114,7 +2163,8 @@
       "price": {
         "current": 259.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339672950",
@@ -2154,7 +2204,8 @@
       "price": {
         "current": 288.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "327852010",
@@ -2194,7 +2245,8 @@
       "price": {
         "current": 49.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958620",
@@ -2234,7 +2286,8 @@
       "price": {
         "current": 298.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958594",
@@ -2274,7 +2327,8 @@
       "price": {
         "current": 288.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325496544",
@@ -2314,7 +2368,8 @@
       "price": {
         "current": 54.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337636647",
@@ -2354,7 +2409,8 @@
       "price": {
         "current": 539.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325446058",
@@ -2394,7 +2450,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313593921",
@@ -2434,7 +2491,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312871969",
@@ -2474,7 +2532,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337636634",
@@ -2514,7 +2573,8 @@
       "price": {
         "current": 459.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958823",
@@ -2554,7 +2614,8 @@
       "price": {
         "current": 133.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318111384",
@@ -2594,7 +2655,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319962730",
@@ -2634,7 +2696,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333178374",
@@ -2674,7 +2737,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594991",
@@ -2714,7 +2778,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442689",
@@ -2754,7 +2819,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337132523",
@@ -2794,7 +2860,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314064365",
@@ -2834,7 +2901,8 @@
       "price": {
         "current": 69.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326988179",
@@ -2874,7 +2942,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329966929",
@@ -2914,7 +2983,8 @@
       "price": {
         "current": 89.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "306636225",
@@ -2954,7 +3024,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333442036",
@@ -2994,7 +3065,8 @@
       "price": {
         "current": 379.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308037273",
@@ -3034,7 +3106,8 @@
       "price": {
         "current": 1199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302127691",
@@ -3074,7 +3147,8 @@
       "price": {
         "current": 235.5,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302127693",
@@ -3114,7 +3188,8 @@
       "price": {
         "current": 143.86,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330260801",
@@ -3154,7 +3229,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "338102850",
@@ -3194,7 +3270,8 @@
       "price": {
         "current": 1118.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322138483",
@@ -3234,7 +3311,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "327861312",
@@ -3274,7 +3352,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "323286483",
@@ -3314,7 +3393,8 @@
       "price": {
         "current": 849.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335519963",
@@ -3354,7 +3434,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334337675",
@@ -3394,7 +3475,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335519761",
@@ -3434,7 +3516,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331253356",
@@ -3474,7 +3557,8 @@
       "price": {
         "current": 369.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329064405",
@@ -3514,7 +3598,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329520922",
@@ -3554,7 +3639,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300589719",
@@ -3594,7 +3680,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329492620",
@@ -3634,7 +3721,8 @@
       "price": {
         "current": 49.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309740749",
@@ -3674,7 +3762,8 @@
       "price": {
         "current": 62.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320938882",
@@ -3714,7 +3803,8 @@
       "price": {
         "current": 99.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318581036",
@@ -3754,7 +3844,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303033892",
@@ -3794,7 +3885,8 @@
       "price": {
         "current": 189.88,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326594124",
@@ -3834,7 +3926,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304783959",
@@ -3874,7 +3967,8 @@
       "price": {
         "current": 79.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304783961",
@@ -3914,7 +4008,8 @@
       "price": {
         "current": 49.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314773100",
@@ -3954,7 +4049,8 @@
       "price": {
         "current": 211.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766994",
@@ -3994,7 +4090,8 @@
       "price": {
         "current": 131.32,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206808789",
@@ -4034,7 +4131,8 @@
       "price": {
         "current": 74.81,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766998",
@@ -4074,7 +4172,8 @@
       "price": {
         "current": 114.5,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302767000",
@@ -4114,7 +4213,8 @@
       "price": {
         "current": 186.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766993",
@@ -4154,7 +4254,8 @@
       "price": {
         "current": 105.33,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300683196",
@@ -4194,7 +4295,8 @@
       "price": {
         "current": 45.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302595756",
@@ -4234,7 +4336,8 @@
       "price": {
         "current": 83.05,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766999",
@@ -4274,7 +4377,8 @@
       "price": {
         "current": 207.83,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206859198",
@@ -4314,7 +4418,8 @@
       "price": {
         "current": 94.69,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "328954834",
@@ -4354,7 +4459,8 @@
       "price": {
         "current": 46.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766995",
@@ -4394,7 +4500,8 @@
       "price": {
         "current": 105.33,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766988",
@@ -4434,7 +4541,8 @@
       "price": {
         "current": 85.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331480725",
@@ -4474,7 +4582,8 @@
       "price": {
         "current": 138.05,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202590358",
@@ -4514,7 +4623,8 @@
       "price": {
         "current": 13.19,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319044791",
@@ -4554,7 +4664,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304781258",
@@ -4594,7 +4705,8 @@
       "price": {
         "current": 114.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "338320871",
@@ -4634,7 +4746,8 @@
       "price": {
         "current": 318.87,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "340093740",
@@ -4674,7 +4787,8 @@
       "price": {
         "current": 223.37,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300010517",
@@ -4714,7 +4828,8 @@
       "price": {
         "current": 166.08,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202502880",
@@ -4754,7 +4869,8 @@
       "price": {
         "current": 166.08,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316330123",
@@ -4794,7 +4910,8 @@
       "price": {
         "current": 43.36,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315445886",
@@ -4834,7 +4951,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312742154",
@@ -4874,7 +4992,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318102170",
@@ -4914,7 +5033,8 @@
       "price": {
         "current": 439.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333196643",
@@ -4954,7 +5074,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594731",
@@ -4994,7 +5115,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330107045",
@@ -5034,7 +5156,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332413242",
@@ -5074,7 +5197,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318696913",
@@ -5114,7 +5238,8 @@
       "price": {
         "current": 59.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331504119",
@@ -5154,7 +5279,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301986732",
@@ -5194,7 +5320,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641126",
@@ -5234,7 +5361,8 @@
       "price": {
         "current": 416.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336959134",
@@ -5274,7 +5402,8 @@
       "price": {
         "current": 391.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318497955",
@@ -5314,7 +5443,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324908252",
@@ -5354,7 +5484,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206743975",
@@ -5394,7 +5525,8 @@
       "price": {
         "current": 118.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330350963",
@@ -5434,7 +5566,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311646209",
@@ -5474,7 +5607,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329236767",
@@ -5514,7 +5648,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205558109",
@@ -5554,7 +5689,8 @@
       "price": {
         "current": 49.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206718857",
@@ -5594,7 +5730,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304781263",
@@ -5634,7 +5771,8 @@
       "price": {
         "current": 99.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304781261",
@@ -5674,7 +5812,8 @@
       "price": {
         "current": 64.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319044877",
@@ -5714,7 +5853,8 @@
       "price": {
         "current": 54.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331449750",
@@ -5754,7 +5894,8 @@
       "price": {
         "current": 520.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205671596",
@@ -5794,7 +5935,8 @@
       "price": {
         "current": 191.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206582178",
@@ -5834,7 +5976,8 @@
       "price": {
         "current": 406.4,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308488512",
@@ -5874,7 +6017,8 @@
       "price": {
         "current": 212.22,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308488820",
@@ -5914,7 +6058,8 @@
       "price": {
         "current": 541.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331452296",
@@ -5954,7 +6099,8 @@
       "price": {
         "current": 728.14,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331452136",
@@ -5994,7 +6140,8 @@
       "price": {
         "current": 709.74,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302174164",
@@ -6034,7 +6181,8 @@
       "price": {
         "current": 164.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336326366",
@@ -6074,7 +6222,8 @@
       "price": {
         "current": 127.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308487330",
@@ -6114,7 +6263,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304781259",
@@ -6154,7 +6304,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336959089",
@@ -6194,7 +6345,8 @@
       "price": {
         "current": 287.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307627605",
@@ -6234,7 +6386,8 @@
       "price": {
         "current": 240.93,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300010883",
@@ -6274,7 +6427,8 @@
       "price": {
         "current": 150.31,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330107365",
@@ -6314,7 +6468,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326274717",
@@ -6354,7 +6509,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313483106",
@@ -6394,7 +6550,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337133786",
@@ -6434,7 +6591,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594865",
@@ -6474,7 +6632,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316879157",
@@ -6514,7 +6673,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326201858",
@@ -6554,7 +6714,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442681",
@@ -6594,7 +6755,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316627128",
@@ -6634,7 +6796,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320222321",
@@ -6674,7 +6837,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336305517",
@@ -6714,7 +6878,8 @@
       "price": {
         "current": 289.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317991282",
@@ -6754,7 +6919,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330184776",
@@ -6794,7 +6960,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313511878",
@@ -6834,7 +7001,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331534698",
@@ -6874,7 +7042,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319962170",
@@ -6914,7 +7083,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318367676",
@@ -6954,7 +7124,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205561443",
@@ -6994,7 +7165,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206936914",
@@ -7034,7 +7206,8 @@
       "price": {
         "current": 258.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203068919",
@@ -7074,7 +7247,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100634358",
@@ -7114,7 +7288,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202265685",
@@ -7154,7 +7329,8 @@
       "price": {
         "current": 209.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206042019",
@@ -7194,7 +7370,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205509610",
@@ -7234,7 +7411,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "323591855",
@@ -7274,7 +7452,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203054755",
@@ -7314,7 +7493,8 @@
       "price": {
         "current": 729.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308557507",
@@ -7354,7 +7534,8 @@
       "price": {
         "current": 1033.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641116",
@@ -7394,7 +7575,8 @@
       "price": {
         "current": 436.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301289964",
@@ -7434,7 +7616,8 @@
       "price": {
         "current": 78.89,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100634640",
@@ -7474,7 +7657,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100011483",
@@ -7514,7 +7698,8 @@
       "price": {
         "current": 769.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321574153",
@@ -7554,7 +7739,8 @@
       "price": {
         "current": 995.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205561450",
@@ -7594,7 +7780,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203164088",
@@ -7634,7 +7821,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331285211",
@@ -7674,7 +7862,8 @@
       "price": {
         "current": 99.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203465158",
@@ -7714,7 +7903,8 @@
       "price": {
         "current": 99.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204671962",
@@ -7754,7 +7944,8 @@
       "price": {
         "current": 69.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303033889",
@@ -7794,7 +7985,8 @@
       "price": {
         "current": 128.85,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307280851",
@@ -7834,7 +8026,8 @@
       "price": {
         "current": 56.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302767010",
@@ -7874,7 +8067,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302767014",
@@ -7914,7 +8108,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302767004",
@@ -7954,7 +8149,8 @@
       "price": {
         "current": 178.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331482482",
@@ -7994,7 +8190,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302767013",
@@ -8034,7 +8231,8 @@
       "price": {
         "current": 288.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302767016",
@@ -8074,7 +8272,8 @@
       "price": {
         "current": 178.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202591259",
@@ -8114,7 +8313,8 @@
       "price": {
         "current": 26.19,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202502873",
@@ -8154,7 +8354,8 @@
       "price": {
         "current": 146.09,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302767015",
@@ -8194,7 +8395,8 @@
       "price": {
         "current": 287.26,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202519153",
@@ -8234,7 +8436,8 @@
       "price": {
         "current": 13.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594484",
@@ -8274,7 +8477,8 @@
       "price": {
         "current": 1275.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202488411",
@@ -8314,7 +8518,8 @@
       "price": {
         "current": 89.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205433692",
@@ -8354,7 +8559,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337129279",
@@ -8394,7 +8600,8 @@
       "price": {
         "current": 479.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205433690",
@@ -8434,7 +8641,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337129313",
@@ -8474,7 +8682,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337129314",
@@ -8514,7 +8723,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337129315",
@@ -8554,7 +8764,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320325386",
@@ -8594,7 +8805,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304591900",
@@ -8634,7 +8846,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325280978",
@@ -8674,7 +8887,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305585327",
@@ -8714,7 +8928,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318531838",
@@ -8754,7 +8969,8 @@
       "price": {
         "current": 59.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329967760",
@@ -8794,7 +9010,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311528803",
@@ -8834,7 +9051,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641127",
@@ -8874,7 +9092,8 @@
       "price": {
         "current": 436.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641115",
@@ -8914,7 +9133,8 @@
       "price": {
         "current": 376.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958657",
@@ -8954,7 +9174,8 @@
       "price": {
         "current": 376.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336305539",
@@ -8994,7 +9215,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205105594",
@@ -9034,7 +9256,8 @@
       "price": {
         "current": 69.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333077828",
@@ -9074,7 +9297,8 @@
       "price": {
         "current": 389.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330992404",
@@ -9114,7 +9338,8 @@
       "price": {
         "current": 377.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312938213",
@@ -9150,7 +9375,8 @@
       "badges": [],
       "availability": {
         "inStock": true
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312309202",
@@ -9190,7 +9416,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324472054",
@@ -9230,7 +9457,8 @@
       "price": {
         "current": 414.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324471947",
@@ -9270,7 +9498,8 @@
       "price": {
         "current": 619.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315009995",
@@ -9310,7 +9539,8 @@
       "price": {
         "current": 324.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313785669",
@@ -9350,7 +9580,8 @@
       "price": {
         "current": 758.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313785673",
@@ -9390,7 +9621,8 @@
       "price": {
         "current": 738.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312244443",
@@ -9430,7 +9662,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594681",
@@ -9470,7 +9703,8 @@
       "price": {
         "current": 479.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318246778",
@@ -9510,7 +9744,8 @@
       "price": {
         "current": 319.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315531170",
@@ -9550,7 +9785,8 @@
       "price": {
         "current": 619.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318270642",
@@ -9590,7 +9826,8 @@
       "price": {
         "current": 319.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319431508",
@@ -9630,7 +9867,8 @@
       "price": {
         "current": 439.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313393674",
@@ -9670,7 +9908,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100096995",
@@ -9710,7 +9949,8 @@
       "price": {
         "current": 11.78,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308815382",
@@ -9750,7 +9990,8 @@
       "price": {
         "current": 59.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202947991",
@@ -9790,7 +10031,8 @@
       "price": {
         "current": 23.48,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202947987",
@@ -9830,7 +10072,8 @@
       "price": {
         "current": 13.22,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202947989",
@@ -9870,7 +10113,8 @@
       "price": {
         "current": 16.16,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461452",
@@ -9910,7 +10154,8 @@
       "price": {
         "current": 251.77,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461280",
@@ -9950,7 +10195,8 @@
       "price": {
         "current": 168.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461470",
@@ -9990,7 +10236,8 @@
       "price": {
         "current": 245.26,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314021070",
@@ -10030,7 +10277,8 @@
       "price": {
         "current": 30.59,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461385",
@@ -10070,7 +10318,8 @@
       "price": {
         "current": 260.12,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461284",
@@ -10110,7 +10359,8 @@
       "price": {
         "current": 175.92,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461364",
@@ -10150,7 +10400,8 @@
       "price": {
         "current": 249.51,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461302",
@@ -10190,7 +10441,8 @@
       "price": {
         "current": 329.15,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461759",
@@ -10230,7 +10482,8 @@
       "price": {
         "current": 289.46,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305461356",
@@ -10270,7 +10523,8 @@
       "price": {
         "current": 269.54,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305308562",
@@ -10310,7 +10564,8 @@
       "price": {
         "current": 22.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317854736",
@@ -10350,7 +10605,8 @@
       "price": {
         "current": 29.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305049155",
@@ -10390,7 +10646,8 @@
       "price": {
         "current": 18.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330415432",
@@ -10430,7 +10687,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206154412",
@@ -10470,7 +10728,8 @@
       "price": {
         "current": 2664.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333098008",
@@ -10510,7 +10769,8 @@
       "price": {
         "current": 1650.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325733446",
@@ -10550,7 +10810,8 @@
       "price": {
         "current": 1219.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206815744",
@@ -10590,7 +10851,8 @@
       "price": {
         "current": 1274.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "338530912",
@@ -10630,7 +10892,8 @@
       "price": {
         "current": 1162.64,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329822567",
@@ -10670,7 +10933,8 @@
       "price": {
         "current": 5999.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332303393",
@@ -10710,7 +10974,8 @@
       "price": {
         "current": 1098.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332557708",
@@ -10750,7 +11015,8 @@
       "price": {
         "current": 279.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332557702",
@@ -10790,7 +11056,8 @@
       "price": {
         "current": 688.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332557715",
@@ -10830,7 +11097,8 @@
       "price": {
         "current": 225.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317326058",
@@ -10870,7 +11138,8 @@
       "price": {
         "current": 4026.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317326055",
@@ -10910,7 +11179,8 @@
       "price": {
         "current": 3465.14,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "327350165",
@@ -10950,7 +11220,8 @@
       "price": {
         "current": 1325.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312624543",
@@ -10990,7 +11261,8 @@
       "price": {
         "current": 496.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "338679658",
@@ -11030,7 +11302,8 @@
       "price": {
         "current": 1510.4,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335576865",
@@ -11070,7 +11343,8 @@
       "price": {
         "current": 29.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100392283",
@@ -11110,7 +11384,8 @@
       "price": {
         "current": 29.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206644539",
@@ -11150,7 +11425,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206087284",
@@ -11190,7 +11466,8 @@
       "price": {
         "current": 210.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205773204",
@@ -11230,7 +11507,8 @@
       "price": {
         "current": 410.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205606620",
@@ -11270,7 +11548,8 @@
       "price": {
         "current": 279.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205603750",
@@ -11310,7 +11589,8 @@
       "price": {
         "current": 288.06,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308486934",
@@ -11350,7 +11630,8 @@
       "price": {
         "current": 2517.28,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100082550",
@@ -11390,7 +11671,8 @@
       "price": {
         "current": 24.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339442610",
@@ -11430,7 +11712,8 @@
       "price": {
         "current": 28.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339444404",
@@ -11470,7 +11753,8 @@
       "price": {
         "current": 31.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "327863910",
@@ -11510,7 +11794,8 @@
       "price": {
         "current": 3337.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203187346",
@@ -11550,7 +11835,8 @@
       "price": {
         "current": 2174.62,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321073786",
@@ -11590,7 +11876,8 @@
       "price": {
         "current": 1356.63,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205183905",
@@ -11630,7 +11917,8 @@
       "price": {
         "current": 9.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100027474",
@@ -11670,7 +11958,8 @@
       "price": {
         "current": 16.48,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321150272",
@@ -11710,7 +11999,8 @@
       "price": {
         "current": 75.78,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206485057",
@@ -11750,7 +12040,8 @@
       "price": {
         "current": 277.24,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202713486",
@@ -11790,7 +12081,8 @@
       "price": {
         "current": 504.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202713485",
@@ -11830,7 +12122,8 @@
       "price": {
         "current": 434.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202713487",
@@ -11870,7 +12163,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205910877",
@@ -11906,7 +12200,8 @@
       "badges": [],
       "availability": {
         "inStock": true
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312074157",
@@ -11946,7 +12241,8 @@
       "price": {
         "current": 289.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305026725",
@@ -11986,7 +12282,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329281556",
@@ -12026,7 +12323,8 @@
       "price": {
         "current": 67.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329896955",
@@ -12066,7 +12364,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302862402",
@@ -12106,7 +12405,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330059453",
@@ -12146,7 +12446,8 @@
       "price": {
         "current": 59.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330282430",
@@ -12186,7 +12487,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318108673",
@@ -12226,7 +12528,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322937649",
@@ -12266,7 +12569,8 @@
       "price": {
         "current": 840.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "310795350",
@@ -12306,7 +12610,8 @@
       "price": {
         "current": 1099.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335462914",
@@ -12346,7 +12651,8 @@
       "price": {
         "current": 2613.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202053073",
@@ -12386,7 +12692,8 @@
       "price": {
         "current": 1157.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321073830",
@@ -12426,7 +12733,8 @@
       "price": {
         "current": 1549.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321073833",
@@ -12466,7 +12774,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321073831",
@@ -12506,7 +12815,8 @@
       "price": {
         "current": 2349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335659887",
@@ -12546,7 +12856,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335996425",
@@ -12586,7 +12897,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "328221814",
@@ -12626,7 +12938,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335950209",
@@ -12666,7 +12979,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312030570",
@@ -12706,7 +13020,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205117108",
@@ -12746,7 +13061,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335996266",
@@ -12786,7 +13102,8 @@
       "price": {
         "current": 209.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335996050",
@@ -12826,7 +13143,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203471324",
@@ -12866,7 +13184,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204069553",
@@ -12906,7 +13225,8 @@
       "price": {
         "current": 407.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335996603",
@@ -12946,7 +13266,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304017496",
@@ -12986,7 +13307,8 @@
       "price": {
         "current": 460.4,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303843047",
@@ -13026,7 +13348,8 @@
       "price": {
         "current": 378.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300500747",
@@ -13066,7 +13389,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305269932",
@@ -13106,7 +13430,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316391978",
@@ -13146,7 +13471,8 @@
       "price": {
         "current": 215.39,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333352602",
@@ -13186,7 +13512,8 @@
       "price": {
         "current": 67.4,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309832507",
@@ -13226,7 +13553,8 @@
       "price": {
         "current": 1142.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300785629",
@@ -13266,7 +13594,8 @@
       "price": {
         "current": 1351.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204068469",
@@ -13306,7 +13635,8 @@
       "price": {
         "current": 811.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204068487",
@@ -13346,7 +13676,8 @@
       "price": {
         "current": 1798.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316164251",
@@ -13386,7 +13717,8 @@
       "price": {
         "current": 990.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301608003",
@@ -13426,7 +13758,8 @@
       "price": {
         "current": 1563.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322705721",
@@ -13466,7 +13799,8 @@
       "price": {
         "current": 2302.9,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "306138775",
@@ -13506,7 +13840,8 @@
       "price": {
         "current": 1550.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206512060",
@@ -13546,7 +13881,8 @@
       "price": {
         "current": 1073.23,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307850348",
@@ -13586,7 +13922,8 @@
       "price": {
         "current": 3264.55,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332873957",
@@ -13626,7 +13963,8 @@
       "price": {
         "current": 2899.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322438121",
@@ -13666,7 +14004,8 @@
       "price": {
         "current": 1639.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206512048",
@@ -13706,7 +14045,8 @@
       "price": {
         "current": 899.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309826172",
@@ -13746,7 +14086,8 @@
       "price": {
         "current": 495.45,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203187348",
@@ -13786,7 +14127,8 @@
       "price": {
         "current": 1799.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "306547564",
@@ -13826,7 +14168,8 @@
       "price": {
         "current": 6241.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303834256",
@@ -13866,7 +14209,8 @@
       "price": {
         "current": 339.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205091551",
@@ -13906,7 +14250,8 @@
       "price": {
         "current": 151.8,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312427932",
@@ -13946,7 +14291,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309495657",
@@ -13986,7 +14332,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312430386",
@@ -14026,7 +14373,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202196520",
@@ -14066,7 +14414,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309824232",
@@ -14106,7 +14455,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202901662",
@@ -14146,7 +14496,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313438681",
@@ -14186,7 +14537,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203316372",
@@ -14226,7 +14578,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100342144",
@@ -14266,7 +14619,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333683682",
@@ -14306,7 +14660,8 @@
       "price": {
         "current": 569.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205503636",
@@ -14346,7 +14701,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316951776",
@@ -14386,7 +14742,8 @@
       "price": {
         "current": 218.18,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204059824",
@@ -14426,7 +14783,8 @@
       "price": {
         "current": 1499.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "327863891",
@@ -14466,7 +14824,8 @@
       "price": {
         "current": 1095.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205653862",
@@ -14506,7 +14865,8 @@
       "price": {
         "current": 529.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321572382",
@@ -14546,7 +14906,8 @@
       "price": {
         "current": 520.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "338674205",
@@ -14586,7 +14947,8 @@
       "price": {
         "current": 2399.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308542212",
@@ -14626,7 +14988,8 @@
       "price": {
         "current": 2204.1,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316951864",
@@ -14666,7 +15029,8 @@
       "price": {
         "current": 190.43,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300093749",
@@ -14706,7 +15070,8 @@
       "price": {
         "current": 736.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316782983",
@@ -14746,7 +15111,8 @@
       "price": {
         "current": 816.75,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "310230027",
@@ -14786,7 +15152,8 @@
       "price": {
         "current": 635.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "327863897",
@@ -14826,7 +15193,8 @@
       "price": {
         "current": 655.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321572381",
@@ -14866,7 +15234,8 @@
       "price": {
         "current": 220.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315019361",
@@ -14906,7 +15275,8 @@
       "price": {
         "current": 3035.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204059196",
@@ -14946,7 +15316,8 @@
       "price": {
         "current": 1399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320326787",
@@ -14986,7 +15357,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320268525",
@@ -15026,7 +15398,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203621519",
@@ -15066,7 +15439,8 @@
       "price": {
         "current": 213.65,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202242695",
@@ -15106,7 +15480,8 @@
       "price": {
         "current": 214.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324589090",
@@ -15146,7 +15521,8 @@
       "price": {
         "current": 44.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320326862",
@@ -15186,7 +15562,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316251424",
@@ -15226,7 +15603,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322138444",
@@ -15266,7 +15644,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442326",
@@ -15306,7 +15685,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320326855",
@@ -15346,7 +15726,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331595036",
@@ -15386,7 +15767,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330081981",
@@ -15426,7 +15808,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329527813",
@@ -15466,7 +15849,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330106256",
@@ -15506,7 +15890,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339672951",
@@ -15546,7 +15931,8 @@
       "price": {
         "current": 268.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334337375",
@@ -15586,7 +15972,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331273305",
@@ -15626,7 +16013,8 @@
       "price": {
         "current": 203.37,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100037000",
@@ -15666,7 +16054,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319905254",
@@ -15706,7 +16095,8 @@
       "price": {
         "current": 89.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319353159",
@@ -15746,7 +16136,8 @@
       "price": {
         "current": 150.79,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326507242",
@@ -15786,7 +16177,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301364683",
@@ -15826,7 +16218,8 @@
       "price": {
         "current": 1089.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335480530",
@@ -15866,7 +16259,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202080348",
@@ -15906,7 +16300,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315445066",
@@ -15946,7 +16341,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204823328",
@@ -15986,7 +16382,8 @@
       "price": {
         "current": 519.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202080350",
@@ -16026,7 +16423,8 @@
       "price": {
         "current": 579.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300844995",
@@ -16066,7 +16464,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958932",
@@ -16106,7 +16505,8 @@
       "price": {
         "current": 268.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335290384",
@@ -16146,7 +16546,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317987595",
@@ -16186,7 +16587,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203111686",
@@ -16226,7 +16628,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300680497",
@@ -16266,7 +16669,8 @@
       "price": {
         "current": 65.62,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766985",
@@ -16306,7 +16710,8 @@
       "price": {
         "current": 146.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300010854",
@@ -16346,7 +16751,8 @@
       "price": {
         "current": 89.36,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303361414",
@@ -16386,7 +16792,8 @@
       "price": {
         "current": 69.15,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766983",
@@ -16426,7 +16833,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325403100",
@@ -16466,7 +16874,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334337604",
@@ -16506,7 +16915,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322138372",
@@ -16546,7 +16956,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326680222",
@@ -16586,7 +16997,8 @@
       "price": {
         "current": 49.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317987598",
@@ -16626,7 +17038,8 @@
       "price": {
         "current": 59.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339857094",
@@ -16666,7 +17079,8 @@
       "price": {
         "current": 148.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325479354",
@@ -16706,7 +17120,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320959125",
@@ -16746,7 +17161,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339857101",
@@ -16786,7 +17202,8 @@
       "price": {
         "current": 62.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204279858",
@@ -16826,7 +17243,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339857102",
@@ -16866,7 +17284,8 @@
       "price": {
         "current": 55.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339857098",
@@ -16906,7 +17325,8 @@
       "price": {
         "current": 59.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339857092",
@@ -16946,7 +17366,8 @@
       "price": {
         "current": 56.44,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309495334",
@@ -16986,7 +17407,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331514472",
@@ -17026,7 +17448,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332250132",
@@ -17066,7 +17489,8 @@
       "price": {
         "current": 69.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337129477",
@@ -17106,7 +17530,8 @@
       "price": {
         "current": 479.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "310434006",
@@ -17146,7 +17571,8 @@
       "price": {
         "current": 3725.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312783110",
@@ -17186,7 +17612,8 @@
       "price": {
         "current": 49.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317080872",
@@ -17226,7 +17653,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100000548",
@@ -17266,7 +17694,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334825225",
@@ -17306,7 +17735,8 @@
       "price": {
         "current": 341.67,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316796189",
@@ -17346,7 +17776,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309097887",
@@ -17386,7 +17817,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331273638",
@@ -17426,7 +17858,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311720086",
@@ -17466,7 +17899,8 @@
       "price": {
         "current": 4799.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314398680",
@@ -17506,7 +17940,8 @@
       "price": {
         "current": 3799.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304530407",
@@ -17546,7 +17981,8 @@
       "price": {
         "current": 109.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205647692",
@@ -17586,7 +18022,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958576",
@@ -17626,7 +18063,8 @@
       "price": {
         "current": 208.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958574",
@@ -17666,7 +18104,8 @@
       "price": {
         "current": 308.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958560",
@@ -17706,7 +18145,8 @@
       "price": {
         "current": 228.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958558",
@@ -17746,7 +18186,8 @@
       "price": {
         "current": 258.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335331558",
@@ -17786,7 +18227,8 @@
       "price": {
         "current": 198.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203555573",
@@ -17826,7 +18268,8 @@
       "price": {
         "current": 89.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312965786",
@@ -17866,7 +18309,8 @@
       "price": {
         "current": 89.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204334593",
@@ -17906,7 +18350,8 @@
       "price": {
         "current": 107.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312309197",
@@ -17946,7 +18391,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204460873",
@@ -17986,7 +18432,8 @@
       "price": {
         "current": 77.51,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304105730",
@@ -18026,7 +18473,8 @@
       "price": {
         "current": 31.35,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316243919",
@@ -18066,7 +18514,8 @@
       "price": {
         "current": 180.18,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316764251",
@@ -18106,7 +18555,8 @@
       "price": {
         "current": 248.53,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316243031",
@@ -18146,7 +18596,8 @@
       "price": {
         "current": 201.71,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319900418",
@@ -18186,7 +18637,8 @@
       "price": {
         "current": 113.54,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305311411",
@@ -18226,7 +18678,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205644384",
@@ -18266,7 +18719,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958548",
@@ -18306,7 +18760,8 @@
       "price": {
         "current": 248.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305311237",
@@ -18346,7 +18801,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300350027",
@@ -18386,7 +18842,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958570",
@@ -18426,7 +18883,8 @@
       "price": {
         "current": 508.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958542",
@@ -18466,7 +18924,8 @@
       "price": {
         "current": 648.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958540",
@@ -18506,7 +18965,8 @@
       "price": {
         "current": 658.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319036436",
@@ -18546,7 +19006,8 @@
       "price": {
         "current": 39.16,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315855110",
@@ -18586,7 +19047,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309752194",
@@ -18626,7 +19088,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315854773",
@@ -18666,7 +19129,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302029641",
@@ -18706,7 +19170,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205665226",
@@ -18746,7 +19211,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204334521",
@@ -18786,7 +19252,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206967042",
@@ -18826,7 +19293,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311567724",
@@ -18866,7 +19334,8 @@
       "price": {
         "current": 326.62,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203954526",
@@ -18906,7 +19375,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300114378",
@@ -18946,7 +19416,8 @@
       "price": {
         "current": 241.53,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322965053",
@@ -18986,7 +19457,8 @@
       "price": {
         "current": 88.63,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203729907",
@@ -19026,7 +19498,8 @@
       "price": {
         "current": 399.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202567596",
@@ -19066,7 +19539,8 @@
       "price": {
         "current": 687.95,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202567624",
@@ -19106,7 +19580,8 @@
       "price": {
         "current": 549.37,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300080886",
@@ -19146,7 +19621,8 @@
       "price": {
         "current": 245.33,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300113754",
@@ -19186,7 +19662,8 @@
       "price": {
         "current": 258.96,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202567551",
@@ -19226,7 +19703,8 @@
       "price": {
         "current": 435.96,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202567549",
@@ -19266,7 +19744,8 @@
       "price": {
         "current": 589.5,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203586632",
@@ -19306,7 +19785,8 @@
       "price": {
         "current": 178.82,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958556",
@@ -19346,7 +19826,8 @@
       "price": {
         "current": 218.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "207103100",
@@ -19386,7 +19867,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307660432",
@@ -19422,7 +19904,8 @@
       "badges": [],
       "availability": {
         "inStock": true
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958544",
@@ -19462,7 +19945,8 @@
       "price": {
         "current": 168.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958530",
@@ -19502,7 +19986,8 @@
       "price": {
         "current": 378.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206966758",
@@ -19542,7 +20027,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100082336",
@@ -19582,7 +20068,8 @@
       "price": {
         "current": 289.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205444294",
@@ -19622,7 +20109,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301571362",
@@ -19662,7 +20150,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100348525",
@@ -19702,7 +20191,8 @@
       "price": {
         "current": 209.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "207086142",
@@ -19742,7 +20232,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313138248",
@@ -19782,7 +20273,8 @@
       "price": {
         "current": 284.89,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334067724",
@@ -19822,7 +20314,8 @@
       "price": {
         "current": 129.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334068126",
@@ -19862,7 +20355,8 @@
       "price": {
         "current": 139.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "334210952",
@@ -19902,7 +20396,8 @@
       "price": {
         "current": 97.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335495694",
@@ -19942,7 +20437,8 @@
       "price": {
         "current": 93.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958532",
@@ -19982,7 +20478,8 @@
       "price": {
         "current": 208.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203555586",
@@ -20022,7 +20519,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308017214",
@@ -20062,7 +20560,8 @@
       "price": {
         "current": 219.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100095739",
@@ -20102,7 +20601,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205446977",
@@ -20142,7 +20642,8 @@
       "price": {
         "current": 212.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308017188",
@@ -20182,7 +20683,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309989561",
@@ -20222,7 +20724,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309988489",
@@ -20262,7 +20765,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "323915684",
@@ -20302,7 +20806,8 @@
       "price": {
         "current": 109.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "323915710",
@@ -20342,7 +20847,8 @@
       "price": {
         "current": 109.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309987301",
@@ -20382,7 +20888,8 @@
       "price": {
         "current": 429.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311533994",
@@ -20422,7 +20929,8 @@
       "price": {
         "current": 23.01,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305708793",
@@ -20462,7 +20970,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202213592",
@@ -20502,7 +21011,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309050338",
@@ -20542,7 +21052,8 @@
       "price": {
         "current": 346.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331290658",
@@ -20582,7 +21093,8 @@
       "price": {
         "current": 589.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203432625",
@@ -20622,7 +21134,8 @@
       "price": {
         "current": 19.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203764517",
@@ -20662,7 +21175,8 @@
       "price": {
         "current": 59.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317977296",
@@ -20702,7 +21216,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305591757",
@@ -20742,7 +21257,8 @@
       "price": {
         "current": 90.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303437696",
@@ -20782,7 +21298,8 @@
       "price": {
         "current": 149.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305502112",
@@ -20822,7 +21339,8 @@
       "price": {
         "current": 149.25,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305591706",
@@ -20862,7 +21380,8 @@
       "price": {
         "current": 65.61,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336216947",
@@ -20902,7 +21421,8 @@
       "price": {
         "current": 135.29,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336216706",
@@ -20942,7 +21462,8 @@
       "price": {
         "current": 184.79,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309991679",
@@ -20982,7 +21503,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335888892",
@@ -21022,7 +21544,8 @@
       "price": {
         "current": 117.39,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336678358",
@@ -21062,7 +21585,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958550",
@@ -21102,7 +21626,8 @@
       "price": {
         "current": 198.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314116762",
@@ -21142,7 +21667,8 @@
       "price": {
         "current": 143.6,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300347905",
@@ -21182,7 +21708,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205647703",
@@ -21222,7 +21749,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100672162",
@@ -21262,7 +21790,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100059106",
@@ -21302,7 +21831,8 @@
       "price": {
         "current": 169.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205847778",
@@ -21342,7 +21872,8 @@
       "price": {
         "current": 6.78,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305591806",
@@ -21382,7 +21913,8 @@
       "price": {
         "current": 59.25,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314515822",
@@ -21422,7 +21954,8 @@
       "price": {
         "current": 317.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307638880",
@@ -21462,7 +21995,8 @@
       "price": {
         "current": 314.86,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205647623",
@@ -21502,7 +22036,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312444805",
@@ -21542,7 +22077,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329719491",
@@ -21582,7 +22118,8 @@
       "price": {
         "current": 455.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326498352",
@@ -21622,7 +22159,8 @@
       "price": {
         "current": 419.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325882306",
@@ -21662,7 +22200,8 @@
       "price": {
         "current": 339.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319751620",
@@ -21702,7 +22241,8 @@
       "price": {
         "current": 219.96,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337915176",
@@ -21742,7 +22282,8 @@
       "price": {
         "current": 358.49,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322420764",
@@ -21782,7 +22323,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305591732",
@@ -21822,7 +22364,8 @@
       "price": {
         "current": 59.25,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309754673",
@@ -21862,7 +22405,8 @@
       "price": {
         "current": 96.15,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303437776",
@@ -21902,7 +22446,8 @@
       "price": {
         "current": 51.6,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337037724",
@@ -21942,7 +22487,8 @@
       "price": {
         "current": 47.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307280891",
@@ -21982,7 +22528,8 @@
       "price": {
         "current": 51.75,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303437792",
@@ -22022,7 +22569,8 @@
       "price": {
         "current": 67.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332238498",
@@ -22062,7 +22610,8 @@
       "price": {
         "current": 36.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307280939",
@@ -22102,7 +22651,8 @@
       "price": {
         "current": 39.74,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "207053250",
@@ -22142,7 +22692,8 @@
       "price": {
         "current": 18.61,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337761096",
@@ -22182,7 +22733,8 @@
       "price": {
         "current": 78.1,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339793225",
@@ -22222,7 +22774,8 @@
       "price": {
         "current": 45.29,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303437575",
@@ -22262,7 +22815,8 @@
       "price": {
         "current": 34.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339793183",
@@ -22302,7 +22856,8 @@
       "price": {
         "current": 36.75,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308910132",
@@ -22342,7 +22897,8 @@
       "price": {
         "current": 24.4,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320392306",
@@ -22382,7 +22938,8 @@
       "price": {
         "current": 29.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325211080",
@@ -22422,7 +22979,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "207103093",
@@ -22462,7 +23020,8 @@
       "price": {
         "current": 89.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "335331566",
@@ -22502,7 +23061,8 @@
       "price": {
         "current": 138.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202511009",
@@ -22542,7 +23102,8 @@
       "price": {
         "current": 30.98,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305345667",
@@ -22578,7 +23139,8 @@
       "badges": [],
       "availability": {
         "inStock": true
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "207103085",
@@ -22618,7 +23180,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "328232073",
@@ -22658,7 +23221,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958546",
@@ -22698,7 +23262,8 @@
       "price": {
         "current": 288.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308458682",
@@ -22738,7 +23303,8 @@
       "price": {
         "current": 106.94,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300237329",
@@ -22778,7 +23344,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332326357",
@@ -22818,7 +23385,8 @@
       "price": {
         "current": 332.78,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322419186",
@@ -22858,7 +23426,8 @@
       "price": {
         "current": 179.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301289865",
@@ -22898,7 +23467,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331690738",
@@ -22938,7 +23508,8 @@
       "price": {
         "current": 19.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332931199",
@@ -22978,7 +23549,8 @@
       "price": {
         "current": 28.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331690748",
@@ -23018,7 +23590,8 @@
       "price": {
         "current": 12.39,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "328987320",
@@ -23058,7 +23631,8 @@
       "price": {
         "current": 429.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337113246",
@@ -23098,7 +23672,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311537759",
@@ -23138,7 +23713,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330545757",
@@ -23178,7 +23754,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309893852",
@@ -23218,7 +23795,8 @@
       "price": {
         "current": 950.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337126517",
@@ -23258,7 +23836,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315086962",
@@ -23298,7 +23877,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337131805",
@@ -23338,7 +23918,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315086839",
@@ -23378,7 +23959,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336959118",
@@ -23418,7 +24000,8 @@
       "price": {
         "current": 468.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329477657",
@@ -23458,7 +24041,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205503634",
@@ -23498,7 +24082,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331615766",
@@ -23538,7 +24123,8 @@
       "price": {
         "current": 1450.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321573366",
@@ -23578,7 +24164,8 @@
       "price": {
         "current": 445.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314686799",
@@ -23618,7 +24205,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337131804",
@@ -23658,7 +24246,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "323478266",
@@ -23698,7 +24287,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206526040",
@@ -23738,7 +24328,8 @@
       "price": {
         "current": 359.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308187655",
@@ -23778,7 +24369,8 @@
       "price": {
         "current": 36.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442741",
@@ -23818,7 +24410,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337133622",
@@ -23858,7 +24451,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305111804",
@@ -23898,7 +24492,8 @@
       "price": {
         "current": 26.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100627136",
@@ -23938,7 +24533,8 @@
       "price": {
         "current": 19.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100017783",
@@ -23978,7 +24574,8 @@
       "price": {
         "current": 14.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100098836",
@@ -24018,7 +24615,8 @@
       "price": {
         "current": 10.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305505790",
@@ -24058,7 +24656,8 @@
       "price": {
         "current": 54.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305111806",
@@ -24098,7 +24697,8 @@
       "price": {
         "current": 22.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202035229",
@@ -24138,7 +24738,8 @@
       "price": {
         "current": 19.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301282463",
@@ -24178,7 +24779,8 @@
       "price": {
         "current": 359.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314001465",
@@ -24218,7 +24820,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329716947",
@@ -24258,7 +24861,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958982",
@@ -24298,7 +24902,8 @@
       "price": {
         "current": 328.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337125811",
@@ -24338,7 +24943,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312741235",
@@ -24378,7 +24984,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202196549",
@@ -24418,7 +25025,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "332105045",
@@ -24458,7 +25066,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329790381",
@@ -24498,7 +25107,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203164241",
@@ -24538,7 +25148,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331725327",
@@ -24578,7 +25189,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320033040",
@@ -24618,7 +25230,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331831089",
@@ -24658,7 +25271,8 @@
       "price": {
         "current": 164.69,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305966991",
@@ -24698,7 +25312,8 @@
       "price": {
         "current": 239.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305658170",
@@ -24738,7 +25353,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314109552",
@@ -24778,7 +25394,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442787",
@@ -24818,7 +25435,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318898528",
@@ -24858,7 +25476,8 @@
       "price": {
         "current": 69.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337132198",
@@ -24898,7 +25517,8 @@
       "price": {
         "current": 469.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641130",
@@ -24938,7 +25558,8 @@
       "price": {
         "current": 456.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320221338",
@@ -24978,7 +25599,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203316449",
@@ -25018,7 +25640,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "326190782",
@@ -25058,7 +25681,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336959124",
@@ -25098,7 +25722,8 @@
       "price": {
         "current": 448.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "322135296",
@@ -25138,7 +25763,8 @@
       "price": {
         "current": 439.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205105611",
@@ -25178,7 +25804,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329429373",
@@ -25218,7 +25845,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339742234",
@@ -25258,7 +25886,8 @@
       "price": {
         "current": 139.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325653676",
@@ -25298,7 +25927,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313115321",
@@ -25338,7 +25968,8 @@
       "price": {
         "current": 25.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442847",
@@ -25378,7 +26009,8 @@
       "price": {
         "current": 879.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331711504",
@@ -25418,7 +26050,8 @@
       "price": {
         "current": 369.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321488310",
@@ -25458,7 +26091,8 @@
       "price": {
         "current": 499.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641117",
@@ -25498,7 +26132,8 @@
       "price": {
         "current": 478.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309814771",
@@ -25538,7 +26173,8 @@
       "price": {
         "current": 749.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "310710519",
@@ -25578,7 +26214,8 @@
       "price": {
         "current": 159.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321488482",
@@ -25618,7 +26255,8 @@
       "price": {
         "current": 431.04,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958534",
@@ -25658,7 +26296,8 @@
       "price": {
         "current": 588.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "306939244",
@@ -25698,7 +26337,8 @@
       "price": {
         "current": 399.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312596511",
@@ -25738,7 +26378,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "306939211",
@@ -25778,7 +26419,8 @@
       "price": {
         "current": 179.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313130863",
@@ -25818,7 +26460,8 @@
       "price": {
         "current": 929.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958639",
@@ -25858,7 +26501,8 @@
       "price": {
         "current": 518.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958552",
@@ -25898,7 +26542,8 @@
       "price": {
         "current": 538.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "306939218",
@@ -25938,7 +26583,8 @@
       "price": {
         "current": 269.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309749587",
@@ -25978,7 +26624,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302874550",
@@ -26018,7 +26665,8 @@
       "price": {
         "current": 449.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206468113",
@@ -26058,7 +26706,8 @@
       "price": {
         "current": 369.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206992161",
@@ -26098,7 +26747,8 @@
       "price": {
         "current": 189.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202935041",
@@ -26138,7 +26788,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205642391",
@@ -26178,7 +26829,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202818498",
@@ -26218,7 +26870,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958647",
@@ -26258,7 +26911,8 @@
       "price": {
         "current": 189.92,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "301804452",
@@ -26298,7 +26952,8 @@
       "price": {
         "current": 259.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203899895",
@@ -26338,7 +26993,8 @@
       "price": {
         "current": 319.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202665436",
@@ -26378,7 +27034,8 @@
       "price": {
         "current": 249.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202818490",
@@ -26418,7 +27075,8 @@
       "price": {
         "current": 126.31,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316950937",
@@ -26458,7 +27116,8 @@
       "price": {
         "current": 174.77,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202516703",
@@ -26498,7 +27157,8 @@
       "price": {
         "current": 38.5,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302766974",
@@ -26538,7 +27198,8 @@
       "price": {
         "current": 136.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300010514",
@@ -26578,7 +27239,8 @@
       "price": {
         "current": 107.23,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100008676",
@@ -26618,7 +27280,8 @@
       "price": {
         "current": 9.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "100033809",
@@ -26658,7 +27321,8 @@
       "price": {
         "current": 42.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312620578",
@@ -26698,7 +27362,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641120",
@@ -26738,7 +27403,8 @@
       "price": {
         "current": 278.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958622",
@@ -26778,7 +27444,8 @@
       "price": {
         "current": 148.97,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "325278167",
@@ -26818,7 +27485,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "319396559",
@@ -26858,7 +27526,8 @@
       "price": {
         "current": 219.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321574659",
@@ -26898,7 +27567,8 @@
       "price": {
         "current": 1900.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305663849",
@@ -26938,7 +27608,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321036665",
@@ -26978,7 +27649,8 @@
       "price": {
         "current": 429.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315442335",
@@ -27018,7 +27690,8 @@
       "price": {
         "current": 429.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311528269",
@@ -27058,7 +27731,8 @@
       "price": {
         "current": 1349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317298712",
@@ -27098,7 +27772,8 @@
       "price": {
         "current": 192.5,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339027119",
@@ -27138,7 +27813,8 @@
       "price": {
         "current": 1637.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "304101719",
@@ -27178,7 +27854,8 @@
       "price": {
         "current": 251.72,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "308737328",
@@ -27218,7 +27895,8 @@
       "price": {
         "current": 2533.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317283440",
@@ -27258,7 +27936,8 @@
       "price": {
         "current": 138.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "338910973",
@@ -27298,7 +27977,8 @@
       "price": {
         "current": 1649.95,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "321375822",
@@ -27338,7 +28018,8 @@
       "price": {
         "current": 1569.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311687601",
@@ -27378,7 +28059,8 @@
       "price": {
         "current": 1919.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311687904",
@@ -27418,7 +28100,8 @@
       "price": {
         "current": 2069.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339027169",
@@ -27458,7 +28141,8 @@
       "price": {
         "current": 2109.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339027155",
@@ -27498,7 +28182,8 @@
       "price": {
         "current": 1697.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339027186",
@@ -27538,7 +28223,8 @@
       "price": {
         "current": 2099.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337129316",
@@ -27578,7 +28264,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594109",
@@ -27618,7 +28305,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337442896",
@@ -27658,7 +28346,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "310649299",
@@ -27698,7 +28387,8 @@
       "price": {
         "current": 478.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "314292782",
@@ -27738,7 +28428,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316250546",
@@ -27778,7 +28469,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336958980",
@@ -27818,7 +28510,8 @@
       "price": {
         "current": 318.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "302190765",
@@ -27858,7 +28551,8 @@
       "price": {
         "current": 199.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331593998",
@@ -27898,7 +28592,8 @@
       "price": {
         "current": 409.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307815760",
@@ -27938,7 +28633,8 @@
       "price": {
         "current": 279.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317987585",
@@ -27978,7 +28674,8 @@
       "price": {
         "current": 79.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312742066",
@@ -28018,7 +28715,8 @@
       "price": {
         "current": 299.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203164237",
@@ -28058,7 +28756,8 @@
       "price": {
         "current": 129.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337641114",
@@ -28098,7 +28797,8 @@
       "price": {
         "current": 376.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205482388",
@@ -28138,7 +28838,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330351033",
@@ -28178,7 +28879,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318370095",
@@ -28218,7 +28920,8 @@
       "price": {
         "current": 99.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202196547",
@@ -28258,7 +28961,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "329062475",
@@ -28298,7 +29002,8 @@
       "price": {
         "current": 119.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309415135",
@@ -28338,7 +29043,8 @@
       "price": {
         "current": 549.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305056992",
@@ -28378,7 +29084,8 @@
       "price": {
         "current": 649.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "204512007",
@@ -28418,7 +29125,8 @@
       "price": {
         "current": 699.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "312046353",
@@ -28458,7 +29166,8 @@
       "price": {
         "current": 647.35,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "310178475",
@@ -28498,7 +29207,8 @@
       "price": {
         "current": 349.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313820771",
@@ -28538,7 +29248,8 @@
       "price": {
         "current": 469.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309412837",
@@ -28578,7 +29289,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309412842",
@@ -28618,7 +29330,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309412848",
@@ -28658,7 +29371,8 @@
       "price": {
         "current": 329.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309413142",
@@ -28698,7 +29412,8 @@
       "price": {
         "current": 359.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "310438324",
@@ -28738,7 +29453,8 @@
       "price": {
         "current": 1470.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "313513771",
@@ -28778,7 +29494,8 @@
       "price": {
         "current": 423.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331596098",
@@ -28818,7 +29535,8 @@
       "price": {
         "current": 1195.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "307744663",
@@ -28858,7 +29576,8 @@
       "price": {
         "current": 599.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337133315",
@@ -28898,7 +29617,8 @@
       "price": {
         "current": 489.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "205510781",
@@ -28938,7 +29658,8 @@
       "price": {
         "current": 215.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305057132",
@@ -28978,7 +29699,8 @@
       "price": {
         "current": 149.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300226904",
@@ -29018,7 +29740,8 @@
       "price": {
         "current": 102.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203054768",
@@ -29058,7 +29781,8 @@
       "price": {
         "current": 249.99,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206945727",
@@ -29098,7 +29822,8 @@
       "price": {
         "current": 229.0,
         "currency": "USD"
-      }
+      },
+      "plpTileType": "small"
     }
   ]
 }

@@ -254,7 +254,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "206515944",
@@ -348,7 +349,8 @@
         "priceRange": "$500-$1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317061072",
@@ -438,7 +440,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311084824",
@@ -528,7 +531,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "320066062",
@@ -608,7 +612,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "323900500",
@@ -698,7 +703,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "315114449",
@@ -788,7 +794,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331594975",
@@ -878,7 +885,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "306345173",
@@ -958,7 +966,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "316855178",
@@ -1048,7 +1057,8 @@
         "priceRange": "$500-$1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "pagination": {
@@ -1059,5 +1069,5 @@
     "endIndex": 24
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.207105"
+  "lastUpdated": "2026-01-08T16:53:20.835693"
 }

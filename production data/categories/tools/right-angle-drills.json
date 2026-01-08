@@ -515,7 +515,7 @@
     "categoryFolder": "Right Angle Drills"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.256901",
+  "lastUpdated": "2026-01-08T16:53:20.959254",
   "products": [
     {
       "productId": "205044596",
@@ -608,7 +608,8 @@
         "brand": "Milwaukee",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ]
 }

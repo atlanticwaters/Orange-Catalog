@@ -4,7 +4,7 @@
   "slug": "wall-ovens",
   "path": "/categories/appliances/wall-ovens",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.009423",
+  "lastUpdated": "2026-01-08T16:53:20.302051",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -108,7 +108,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "324905770",
@@ -201,7 +202,8 @@
         "priceRange": "Over $1000",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

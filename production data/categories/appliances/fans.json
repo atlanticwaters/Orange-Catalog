@@ -4,7 +4,7 @@
   "slug": "fans",
   "path": "/categories/appliances/fans",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:10.964284",
+  "lastUpdated": "2026-01-08T16:53:20.211497",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -169,7 +169,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "318754250",
@@ -319,7 +320,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "330548599",
@@ -469,7 +471,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "321806221",
@@ -558,7 +561,8 @@
         "brand": "Google",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "321806221",
@@ -627,7 +631,8 @@
         "brand": "Google",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "315277027",
@@ -705,7 +710,8 @@
         "brand": "Google",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "315277027",
@@ -793,7 +799,8 @@
         "brand": "Google",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

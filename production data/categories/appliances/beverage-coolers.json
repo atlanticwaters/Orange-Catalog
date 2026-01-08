@@ -4,7 +4,7 @@
   "slug": "beverage-coolers",
   "path": "/categories/appliances/beverage-coolers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:10.962828",
+  "lastUpdated": "2026-01-08T16:53:20.209365",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -190,7 +190,8 @@
         "priceRange": "$500-$1000",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "317964308",
@@ -331,7 +332,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "316122444",
@@ -462,7 +464,8 @@
         "priceRange": "Over $1000",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "316123462",
@@ -593,7 +596,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "325720849",
@@ -744,7 +748,8 @@
         "priceRange": "$500-$1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335138985",
@@ -875,7 +880,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "300509606",
@@ -1026,7 +1032,8 @@
         "priceRange": "$500-$1000",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "312892681",
@@ -1176,7 +1183,8 @@
         "priceRange": "$500-$1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

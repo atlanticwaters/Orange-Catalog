@@ -485,7 +485,7 @@
     "categoryFolder": "Electric Screwdrivers"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.236330",
+  "lastUpdated": "2026-01-08T16:53:20.920000",
   "products": [
     {
       "productId": "320013974",
@@ -566,7 +566,8 @@
         "brand": "Makita",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "333254566",
@@ -652,7 +653,8 @@
         "brand": "RYOBI",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "303355547",
@@ -744,7 +746,8 @@
         "brand": "WEN",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ]
 }

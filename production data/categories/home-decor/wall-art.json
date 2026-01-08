@@ -4,7 +4,7 @@
   "slug": "wall-art",
   "path": "/categories/home-decor/wall-art",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.161116",
+  "lastUpdated": "2026-01-08T16:53:20.707377",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -134,7 +134,8 @@
         "brand": "NEIKO",
         "priceRange": "$50-$100",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "339559721",
@@ -223,7 +224,8 @@
         "brand": "NEIKO",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "303456633",
@@ -313,7 +315,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335706985",
@@ -398,7 +401,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335808402",
@@ -463,7 +467,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335707052",
@@ -537,7 +542,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "339698260",
@@ -627,7 +633,8 @@
         "brand": "GE",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335707043",
@@ -702,7 +709,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "339698247",
@@ -772,7 +780,8 @@
         "brand": "GE",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "339794155",
@@ -859,7 +868,8 @@
         "brand": "PROSCAN",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335706985",
@@ -944,7 +954,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335707052",
@@ -1008,7 +1019,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "339794155",
@@ -1085,7 +1097,8 @@
         "brand": "PROSCAN",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "339698260",
@@ -1175,7 +1188,8 @@
         "brand": "GE",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "339698247",
@@ -1245,7 +1259,8 @@
         "brand": "GE",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335706976",
@@ -1320,7 +1335,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335706976",
@@ -1395,7 +1411,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335808424",
@@ -1460,7 +1477,8 @@
         "brand": "AURA FRAMES",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "333810483",
@@ -1549,7 +1567,8 @@
         "brand": "Cozyla",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

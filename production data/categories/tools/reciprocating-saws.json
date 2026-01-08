@@ -542,7 +542,7 @@
     "categoryFolder": "Reciprocating Saws"
   },
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.256596",
+  "lastUpdated": "2026-01-08T16:53:20.958559",
   "products": [
     {
       "productId": "337440452",
@@ -636,7 +636,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324811435",
@@ -724,7 +725,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324811429",
@@ -814,7 +816,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324811435",
@@ -912,7 +915,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ]
 }

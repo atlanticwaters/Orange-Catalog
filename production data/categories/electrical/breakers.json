@@ -4,7 +4,7 @@
   "slug": "breakers",
   "path": "/categories/electrical/breakers",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.084354",
+  "lastUpdated": "2026-01-08T16:53:20.458884",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -190,7 +190,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     }
   ],
   "filters": [

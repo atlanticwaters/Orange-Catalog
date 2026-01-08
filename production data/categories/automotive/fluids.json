@@ -4,7 +4,7 @@
   "slug": "fluids",
   "path": "/categories/automotive/fluids",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.080350",
+  "lastUpdated": "2026-01-08T16:53:20.449526",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -162,7 +162,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "337893557",
@@ -242,7 +243,8 @@
         "brand": "Prestone",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "300646438",
@@ -363,7 +365,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "filters": [

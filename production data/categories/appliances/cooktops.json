@@ -4,7 +4,7 @@
   "slug": "cooktops",
   "path": "/categories/appliances/cooktops",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:10.963465",
+  "lastUpdated": "2026-01-08T16:53:20.210321",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -108,7 +108,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "323664615",
@@ -191,7 +192,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "327754403",
@@ -274,7 +276,8 @@
         "priceRange": "$500-$1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "305455086",
@@ -357,7 +360,8 @@
         "priceRange": "$500-$1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

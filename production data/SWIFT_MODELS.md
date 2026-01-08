@@ -23,8 +23,16 @@ struct Product: Codable, Identifiable {
     let shipping: Shipping
     let version: String
     let lastUpdated: String
-    
+    let plpTileType: PLPTileType
+
     var id: String { productId }
+
+    /// PLP tile display type - determines product card size on listing pages
+    enum PLPTileType: String, Codable {
+        case feature  // Large tiles for appliances, home-decor, furniture
+        case small    // Medium tiles for automotive, tools, outdoor, garage, storage
+        case icon     // Compact tiles for all other categories
+    }
     
     struct Identifiers: Codable {
         let internetNumber: String
@@ -112,8 +120,16 @@ struct Category: Codable, Identifiable {
         let reviewCount: Int
         let imageUrl: String
         let inStock: Bool
-        
+        let plpTileType: PLPTileType
+
         var id: String { productId }
+
+        /// PLP tile display type - determines product card size on listing pages
+        enum PLPTileType: String, Codable {
+            case feature  // Large tiles for appliances, home-decor, furniture
+            case small    // Medium tiles for automotive, tools, outdoor, garage, storage
+            case icon     // Compact tiles for all other categories
+        }
     }
 }
 ```

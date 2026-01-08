@@ -4,7 +4,7 @@
   "slug": "saws",
   "path": "/categories/tools/saws",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.270048",
+  "lastUpdated": "2026-01-08T16:53:20.992508",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -206,7 +206,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "324811431",
@@ -302,7 +303,8 @@
         "brand": "DEWALT",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "filters": [

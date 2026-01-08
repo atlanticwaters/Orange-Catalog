@@ -4,7 +4,7 @@
   "slug": "shelving",
   "path": "/categories/storage/shelving",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.211046",
+  "lastUpdated": "2026-01-08T16:53:20.839949",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -255,7 +255,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "336819078",
@@ -349,7 +350,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203055485",
@@ -474,7 +476,8 @@
         "priceRange": "$100-$250",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331693883",
@@ -596,7 +599,8 @@
         "priceRange": "$100-$250",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "330446071",
@@ -752,7 +756,8 @@
         "priceRange": "$100-$250",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "318430289",
@@ -895,7 +900,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "filters": [

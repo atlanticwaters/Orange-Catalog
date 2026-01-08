@@ -4,7 +4,7 @@
   "slug": "rugs",
   "path": "/categories/home-decor/rugs",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.158276",
+  "lastUpdated": "2026-01-08T16:53:20.705701",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -214,7 +214,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "330202502",
@@ -359,7 +360,8 @@
         "brand": "SAFAVIEH",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "329757665",
@@ -527,7 +529,8 @@
         "brand": "Loloi",
         "priceRange": "$100-$250",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "327934744",
@@ -675,7 +678,8 @@
         "brand": "Addison Rugs",
         "priceRange": "$100-$250",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "310202058",
@@ -841,7 +845,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "322721465",
@@ -987,7 +992,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "322724800",
@@ -1136,7 +1142,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "324546530",
@@ -1285,7 +1292,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "332324713",
@@ -1454,7 +1462,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "322724978",
@@ -1613,7 +1622,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "322051494",
@@ -1762,7 +1772,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335869573",
@@ -1918,7 +1929,8 @@
         "priceRange": "$50-$100",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "332036754",
@@ -2058,7 +2070,8 @@
         "brand": "Unknown",
         "priceRange": "$100-$250",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

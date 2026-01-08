@@ -4,7 +4,7 @@
   "slug": "cleaning",
   "path": "/categories/automotive/cleaning",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.079906",
+  "lastUpdated": "2026-01-08T16:53:20.449121",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -163,7 +163,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "339377625",
@@ -246,7 +247,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "filters": [

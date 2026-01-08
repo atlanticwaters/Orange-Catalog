@@ -4,7 +4,7 @@
   "slug": "air-conditioners",
   "path": "/categories/appliances/air-conditioners",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:10.961845",
+  "lastUpdated": "2026-01-08T16:53:20.208667",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -117,7 +117,8 @@
         "priceRange": "$100-$250",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "327450112",
@@ -189,7 +190,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "333099408",
@@ -281,7 +283,8 @@
         "priceRange": "$250-$500",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

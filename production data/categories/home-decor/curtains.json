@@ -4,7 +4,7 @@
   "slug": "curtains",
   "path": "/categories/home-decor/curtains",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.155480",
+  "lastUpdated": "2026-01-08T16:53:20.696988",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -183,7 +183,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "305563378",
@@ -268,7 +269,8 @@
         "brand": "Ellis Curtain",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

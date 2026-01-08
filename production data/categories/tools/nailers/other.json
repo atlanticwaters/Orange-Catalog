@@ -4,7 +4,7 @@
   "slug": "other",
   "path": "/categories/tools/nailers/other",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.247502",
+  "lastUpdated": "2026-01-08T16:53:20.948305",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -195,7 +195,8 @@
         "priceRange": "$50-$100",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "311533994",
@@ -318,7 +319,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "305708793",
@@ -399,7 +401,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "202213592",
@@ -490,7 +493,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "309050338",
@@ -585,7 +589,8 @@
         "priceRange": "$250-$500",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "331290658",
@@ -669,7 +674,8 @@
         "priceRange": "$500-$1000",
         "rating": "3 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "203432625",
@@ -789,7 +795,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     },
     {
       "productId": "317977296",
@@ -870,7 +877,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "small"
     }
   ],
   "filters": [

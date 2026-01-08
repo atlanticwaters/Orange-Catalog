@@ -4,7 +4,7 @@
   "slug": "specialty",
   "path": "/categories/home-decor/artificial-plants/specialty",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.145144",
+  "lastUpdated": "2026-01-08T16:53:20.656996",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -275,7 +275,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "301006753",
@@ -421,7 +422,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "335102241",
@@ -562,7 +564,8 @@
         "brand": "Unknown",
         "priceRange": "$50-$100",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "301694323",
@@ -680,7 +683,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "336277365",
@@ -811,7 +815,8 @@
         "brand": "Mecale",
         "priceRange": "$50-$100",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "308790336",
@@ -939,7 +944,8 @@
         "brand": "Nearly Natural",
         "priceRange": "$50-$100",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "326830513",
@@ -1110,7 +1116,8 @@
         "brand": "Unknown",
         "priceRange": "$100-$250",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "336342352",
@@ -1240,7 +1247,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [

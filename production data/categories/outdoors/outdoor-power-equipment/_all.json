@@ -4,7 +4,7 @@
   "slug": "outdoor-power-equipment",
   "path": "/categories/outdoors/outdoor-power-equipment",
   "version": "1.0",
-  "lastUpdated": "2026-01-02T17:32:59.482951",
+  "lastUpdated": "2026-01-08T16:53:20.834199",
   "breadcrumbs": [],
   "pageInfo": {
     "totalResults": 20
@@ -95,7 +95,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Ryobi-40V-HP-Brushless-21-in-Self-Propelled-Mower-RY401110/332032145",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "206515944",
@@ -140,7 +141,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/EGO-POWER-21-in-56V-Self-Propelled-Mower-LM2102SP/206515944",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "317061072",
@@ -181,7 +183,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Toro-Recycler-22-in-Gas-Self-Propelled-Mower-21462/317061072",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "311084824",
@@ -222,7 +225,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Honda-21-in-NeXite-Gas-Self-Propelled-Mower-HRN216VKA/311084824",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "320066062",
@@ -263,7 +267,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Ryobi-40V-HP-Brushless-20-in-Push-Mower-RY401100/320066062",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "323900500",
@@ -304,7 +309,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Greenworks-Pro-60V-21-in-Self-Propelled-Mower-MO60L512Q/323900500",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "315114449",
@@ -345,7 +351,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Toro-TimeMaster-30-in-Gas-Self-Propelled-Mower-21464/315114449",
-      "limitPerOrder": 2
+      "limitPerOrder": 2,
+      "plpTileType": "small"
     },
     {
       "productId": "331594975",
@@ -386,7 +393,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/EGO-POWER-21-in-56V-Push-Mower-Tool-Only-LM2100/331594975",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "306345173",
@@ -427,7 +435,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Toro-Recycler-22-in-FWD-Gas-Self-Propelled-Mower-21442/306345173",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "316855178",
@@ -468,7 +477,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Honda-21-in-NeXite-Hydrostatic-Cruise-Mower-HRX217HZA/316855178",
-      "limitPerOrder": 2
+      "limitPerOrder": 2,
+      "plpTileType": "small"
     },
     {
       "productId": "332032145",
@@ -509,7 +519,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Ryobi-40V-HP-Brushless-21-in-Self-Propelled-Mower-RY401110/332032145",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "206515944",
@@ -554,7 +565,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/EGO-POWER-21-in-56V-Self-Propelled-Mower-LM2102SP/206515944",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "317061072",
@@ -595,7 +607,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Toro-Recycler-22-in-Gas-Self-Propelled-Mower-21462/317061072",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "311084824",
@@ -636,7 +649,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Honda-21-in-NeXite-Gas-Self-Propelled-Mower-HRN216VKA/311084824",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "320066062",
@@ -677,7 +691,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Ryobi-40V-HP-Brushless-20-in-Push-Mower-RY401100/320066062",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "323900500",
@@ -718,7 +733,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Greenworks-Pro-60V-21-in-Self-Propelled-Mower-MO60L512Q/323900500",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "315114449",
@@ -759,7 +775,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Toro-TimeMaster-30-in-Gas-Self-Propelled-Mower-21464/315114449",
-      "limitPerOrder": 2
+      "limitPerOrder": 2,
+      "plpTileType": "small"
     },
     {
       "productId": "331594975",
@@ -800,7 +817,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/EGO-POWER-21-in-56V-Push-Mower-Tool-Only-LM2100/331594975",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "306345173",
@@ -841,7 +859,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Toro-Recycler-22-in-FWD-Gas-Self-Propelled-Mower-21442/306345173",
-      "limitPerOrder": 3
+      "limitPerOrder": 3,
+      "plpTileType": "small"
     },
     {
       "productId": "316855178",
@@ -882,7 +901,8 @@
         "shipToHome": true
       },
       "productUrl": "/p/Honda-21-in-NeXite-Hydrostatic-Cruise-Mower-HRX217HZA/316855178",
-      "limitPerOrder": 2
+      "limitPerOrder": 2,
+      "plpTileType": "small"
     }
   ]
 }

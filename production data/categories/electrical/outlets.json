@@ -4,7 +4,7 @@
   "slug": "outlets",
   "path": "/categories/electrical/outlets",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:11.086426",
+  "lastUpdated": "2026-01-08T16:53:20.463596",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -166,7 +166,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "336958667",
@@ -256,7 +257,8 @@
         "priceRange": "$100-$250",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "202592873",
@@ -375,7 +377,8 @@
         "priceRange": "Under $50",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "100058788",
@@ -449,7 +452,8 @@
         "brand": "Leviton",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "320512284",
@@ -511,7 +515,8 @@
         "brand": "Square D",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "320512284",
@@ -583,7 +588,8 @@
         "brand": "Square D",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "100058788",
@@ -667,7 +673,8 @@
         "brand": "Leviton",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "203670402",
@@ -760,7 +767,8 @@
         "brand": "Lutron",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "320130647",
@@ -844,7 +852,8 @@
         "brand": "Square D",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "203670402",
@@ -937,7 +946,8 @@
         "brand": "Lutron",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "202204204",
@@ -1011,7 +1021,8 @@
         "brand": "Leviton",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "320130647",
@@ -1085,7 +1096,8 @@
         "brand": "Square D",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     },
     {
       "productId": "202204204",
@@ -1169,7 +1181,8 @@
         "brand": "Leviton",
         "priceRange": "Under $50",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "icon"
     }
   ],
   "filters": [

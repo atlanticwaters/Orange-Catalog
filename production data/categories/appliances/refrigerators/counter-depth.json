@@ -4,7 +4,7 @@
   "slug": "counter-depth",
   "path": "/categories/appliances/refrigerators/counter-depth",
   "version": "1.0",
-  "lastUpdated": "2026-01-03T19:45:10.974720",
+  "lastUpdated": "2026-01-08T16:53:20.238139",
   "breadcrumbs": [
     {
       "label": "Home",
@@ -210,7 +210,8 @@
         "priceRange": "$500-$1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "333399283",
@@ -368,7 +369,8 @@
         "brand": "Ca'Lefort",
         "priceRange": "Over $1000",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "324849975",
@@ -465,7 +467,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     },
     {
       "productId": "322717415",
@@ -568,7 +571,8 @@
         "priceRange": "Over $1000",
         "rating": "4 Stars & Up",
         "availability": "In Stock"
-      }
+      },
+      "plpTileType": "feature"
     }
   ],
   "filters": [
